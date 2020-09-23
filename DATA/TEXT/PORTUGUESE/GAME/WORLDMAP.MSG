@@ -1,0 +1,95 @@
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+#
+# Text labels and messages used by town and world map
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+#
+
+#
+# Town map selection names
+#
+# Format:
+#	city type.
+#	Up to 10 selection names
+#
+# Vault 13
+{200}{}{Entrada da Caverna}
+{201}{}{Entrada}
+{202}{}{Alojamento}
+{203}{}{Centro de Comando}
+#
+# Vault 15
+{210}{}{Entrada do Deserto}
+{211}{}{Cavernas/Entrada}
+{212}{}{Alojamento}
+{213}{}{Centro de Comando}
+#
+# Shady Sands
+{220}{}{Entrada}
+{221}{}{Jardim}
+{222}{}{Curral dos Brahmin}
+#
+# Junktown
+{230}{}{Entrada}
+{231}{}{Crash House}
+{232}{}{Cassino}
+#
+# Raiders
+{240}{}{Base}
+#
+# Necropolis
+{250}{}{Hotel}
+{251}{}{Hall}
+{252}{}{Bacia Hidrografica}
+#
+# Hub
+{260}{}{Entrada}
+{261}{}{Centro da Cidade}
+{262}{}{Montes}
+{263}{}{Cidade Velha}
+{264}{}{Mercadores}
+{265}{}{Caverna}
+#
+# Brotherhood
+{270}{}{Entrada}
+{271}{}{Nivel 1}
+{272}{}{Nivel 2}
+{273}{}{Nivel 3}
+{274}{}{Nivel 4}
+#
+# Military Base
+{280}{}{Entrada}
+{281}{}{Fortaleza - Nivel 1}
+{282}{}{Fortaleza - Nivel 2}
+{283}{}{Tanques - Nivel 1}
+{284}{}{Tanques - Nivel 2}
+#
+# Glow
+{290}{}{Cratera}
+{291}{}{Nivel 1}
+#
+# Boneyard
+{300}{}{Adytum}
+{301}{}{Centro da Cidade}
+{302}{}{Biblioteca}
+{303}{}{Fortaleza}
+{304}{}{Depósito}
+#
+# Cathedral
+{310}{}{Entrada}
+{311}{}{Interior}
+
+# Misc messages
+{500}{}{Voce ganhou 10.000 pontos de experiencia!}
+{501}{}{Ruinas}
+
+#
+# Terrain type names for world map hover button
+#
+{1000}{}{Deserto}
+{1001}{}{Montanhas}
+{1002}{}{Cidade}
+{1003}{}{Costa}
+{1004}{}{Desconhecido}  # Unknown/visited city
+

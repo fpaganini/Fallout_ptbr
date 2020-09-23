@@ -1,0 +1,8 @@
+{100}{}{Voce ve um prisoneiro.}
+{101}{}{Eu nao matei ninguem!}
+{102}{}{Eu sou inocente!}
+{103}{}{O que voce esta olhando?}
+{104}{}{Eu estava apenas pegando emprestado. Juro!}
+{105}{}{Onde esta meu pao e agua?}
+{106}{}{Armaram pra mim!}
+{107}{}{Ninguem sabe os problemas que eu vi...}

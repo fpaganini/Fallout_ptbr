@@ -1,0 +1,28 @@
+{100}{}{Voce ve um Cavaleiro.}
+{101}{}{Voce ve um Escriba.}
+{102}{}{O que voce esta fazendo aqui?}
+{103}{}{Quem e voce?}
+{104}{}{Eu nao vi voce antes?}
+{105}{}{Esta e minha sala, por favor saia.}
+{106}{}{Por favor saia da minha sala.}
+{107}{}{Esta nao e sua sala.}
+{108}{}{Initiate rooming e no segundo nivel.}
+{109}{}{Voce esta perdido?}
+{110}{}{Eu acredito que os seus quarters esta no nivel dois.}
+{111}{}{Eu apreciaria um pouco de privacidade.}
+{112}{}{Oi, bom ver voce.}
+{113}{}{Ola.}
+{200}{}{Oi.}
+{201}{}{Ola.}
+{202}{}{Bom dia.}
+{203}{}{Sim?}
+{204}{}{O que?}
+{205}{}{O que e que ha?}
+{206}{}{O que voce quer?}
+{207}{}{Voce quer alguma coisa?}
+{209}{}{Vai embora.}
+{210}{}{Pare de me aborrecer.}
+{211}{}{Me deixe em paz.}
+{212}{}{Voce esta me chateando.}
+{213}{}{Ele ignora voce.}
+{214}{}{Ela ignora voce.}

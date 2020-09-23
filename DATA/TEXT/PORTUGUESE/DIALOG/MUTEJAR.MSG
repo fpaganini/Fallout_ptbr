@@ -1,0 +1,2 @@
+{100}{}{Voce nota uma fruta de forma estranha dentro da jarra.}
+{101}{}{Voce tira a fruta esquisita da jarra.}

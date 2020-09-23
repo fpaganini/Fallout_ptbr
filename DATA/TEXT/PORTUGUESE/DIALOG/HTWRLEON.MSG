@@ -1,0 +1,46 @@
+{100}{}{Voce ve o Leon, um guarda.}
+{101}{}{Quais sao seus negocios aqui?}
+{102}{}{Eu devo falar com o Sr. Hightower.}
+{103}{}{Eu vim pra matar o Sr. Hightower.}
+{104}{}{Quais negocios seus?}
+{105}{}{Ok. Mas eu estou observando voce. Ele esta no escritorio dele.}
+{106}{}{Obrigado.}
+{107}{}{Sim... Eu aposto que voce esta me observando.}
+{108}{}{Eu nao gosto da sua atitude. Eu vou ter que pedir a voce pra sair.}
+{109}{}{Eu sairei quando eu estiver bem e pronto, amigo!}
+{110}{}{Ok, eu sairei.}
+{111}{}{Atitude? Eu mostrarei atitude pra voce!!!}
+{112}{}{O que quer que seja que for, voce pode me dizer. O Sr. H esta ocupado agora.}
+{113}{}{Por que voce tem que ser tao dificil?}
+{114}{}{Eu preferiria dizer a ele pessoalmente. E um assunto de vida ou morte.}
+{115}{}{O Decker fez um contrato pra acabar com a vida do Hightower.}
+{116}{}{Voce pode me dizer, ou voce pode sair.}
+{117}{}{Quem morreu e fez voce Deus?}
+{118}{}{O Decker fez um contrato pra acabar com a vida do Hightower.}
+{119}{}{Olha, eu nao vou dizer uma coisa pra voce!}
+{120}{}{Eu sairei.}
+{121}{}{De novo? Mas que tolo o Decker e. Bem?... Eu creio que ele nao e tao tolo como os caras que ele contrata pra estes
+ trabalhos. Veja aqui, verifique minha arma.}
+{122}{}{[Leon mostra a voce o lado da arma dele aonde 5 marcas de arranhoes profundas sao visiveis.]}
+{123}{}{Cada uma destas marcas e por uma tentativa passada na vida do Hightower. Eu ensaquei cada um deles. Diga-me...
+ Voce sabe com o que se parece este tolo que o Decker contratou?}
+{124}{}{Nao.}
+{125}{}{Sou eu, seu idiota!}
+{126}{}{Ei! Uau! Voce tem marcas de arranhoes na sua arma! Voce e legaaaaaaalllllll!}
+{127}{}{Obrigado pelo aviso antecipado, mas o Sr. Hightower nao gosta de estranhos passeando por ai. Eu vou
+ ter que pedir a voce pra sair.}
+{128}{}{Isso e tudo? Sem recompensa? O que diabos esta errado com voces?}
+{129}{}{De nada. Adeus.}
+{130}{}{O Sr. Hightower nao esta recebendo quaisquer visitantes. Agora saia!}
+{131}{}{Eu sairei quando eu estiver bem e pronto, amigo!}
+{132}{}{Ok, eu sairei.}
+{133}{}{Eu realmente preciso falar com o Sr. Hightower.}
+{134}{}{Ok, camarada. Vamos la. [Leon agarra voce pelo braco.]}
+{135}{}{Tire suas malditas maos de mim!}
+{136}{}{Tudo bem, tudo bem! Eu estou indo.}
+{137}{}{Espere! Eu nao acabei!}
+{138}{}{Ug!}
+{139}{}{Rookl!}
+{140}{}{Eu tenho uma noticia urgente pro Sr. Hightower.}
+{141}{}{O que voce esta fazendo aqui? Eu estou de folga agora. Va aborrecer outra pessoa.}
+{142}{}{Eu estava esperando que voce vaguearia por aqui alguma hora! Guardas!}

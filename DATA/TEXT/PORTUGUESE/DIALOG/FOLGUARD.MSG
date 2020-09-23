@@ -1,0 +1,99 @@
+{100}{}{Você vê Savil da Guarda dos Seguidores.}
+{101}{}{Você vê Nancy da Guarda dos Seguidores.}
+{102}{}{Você vê Jelissa da Guarda dos Seguidores.}
+{103}{}{Você vê Lynda da Guarda dos Seguidores.}
+{104}{}{Você vê Jessica da Guarda dos Seguidores.}
+{105}{}{Você vê Shannon da Guarda dos Seguidores.}
+{106}{}{Você vê Mohandki da Guarda dos Seguidores.}
+{107}{}{Você vê Percy da Guarda dos Seguidores.}
+{108}{}{Você vê Henry da Guarda dos Seguidores.}
+{109}{}{Você vê Herion da Guarda dos Seguidores.}
+{110}{}{Quem viaja pelos salões dos Seguidores?}
+{111}{}{Huh?}
+{112}{}{Eu sou }
+{113}{}{. Eu venho em paz.}
+{114}{}{Eu sou }
+{115}{}{. Seu/Sua destruidor(a).}
+{116}{}{Quem são os Seguidores?}
+{117}{}{OK. Eu posso ver que você é um pouco lento(a). Quem é você?}
+{118}{}{Eu }
+{119}{}{. Você morto(a).}
+{120}{}{Eu }
+{121}{}{. Mim hep.}
+{122}{}{Mim matar!}
+{123}{}{Eu }
+{124}{}{. Mim ir.}
+{125}{}{You want to help? I think you will need to talk to Nicole or Jake
+ if you want to help us. They have more time for dealing with slower people.}
+{126}{}{OK. Apenas fique fora de problemas por aqui.}
+{127}{}{Você procura acabar com o mal das Crianças?}
+{128}{}{Sim. Eu quero eliminar aquela escória.}
+{129}{}{Não. Eu prefiro matar vocês fracotes.}
+{130}{}{Quem são estas Crianças?}
+{131}{}{Por que eu iria querer matar crianças?}
+{132}{}{Excellent! Go talk to Nicole and she will be able to tell you how
+ you can help us.}
+{133}{}{The Crianças are an occult group who worship some dark god. Personally,
+ I think there is something about them that reeks of evil.}
+{134}{}{Eu matarei eles.}
+{135}{}{Eu não sei. Eles soam muito fortes para mim.}
+{136}{}{O que eu posso fazer pra ajudar?}
+{137}{}{Esqueça! Não há nenhum modo pelo qual eu ajudarei você.}
+{138}{}{They are a strong lot, but I think with someone of your skills,
+ you will be able to get in and help us destroy them.}
+{139}{}{Eu o farei então.}
+{140}{}{Não. Eu não acho que eu ajudarei.}
+{141}{}{Suit yourself. If they take over the wastelands, don't say we didn't
+ warn you.}
+{142}{}{If you talk to Nicole, she will be able to tell you more of what can
+ be done to stop them. }
+{143}{}{Obrigado a você. Adeus.}
+{144}{}{Not children. We wouldn't think of harming them. No. These are the
+ Crianças of the Cathedral. A nasty group of people.}
+{145}{}{Neste caso, com certeza - eu waste them.}
+{146}{}{Oh. I thought you were talking about kids. Nevermind. I don't think
+ I'll help.}
+{147}{}{O que você pode me dizer sobre estas Crianças?}
+{148}{}{We are the Seguidores of the Apocalypse. We are trying to bring peace
+ to the wastelands.}
+{149}{}{Soa como uma boa idéia. Boa sorte com ela.}
+{150}{}{Como vocês planejam fazer isso?}
+{151}{}{Isso parece altamente improvável.}
+{152}{}{We are working to bring about tolerance to those in the wastelands
+ for those few unfortunates who have been mutated by man's destructive nature.}
+{153}{}{Boa sorte com isso então.}
+{154}{}{In all of history, we have never been able to get tolerance.
+ Why do you think the War happened?}
+{155}{}{Isso é apenas um monte de besteira.}
+{156}{}{You are right in saying that we, as humans, have been close-minded.
+ However, there is always hope.}
+{157}{}{Boa sorte com isso então.}
+{158}{}{Eu penso que você está certo. Aqui, deixe-me tornar você mais mente aberta com isto.}
+{159}{}{Seja isso como possa ser, sua opinião não foi requisitada. Adeus.}
+{160}{}{A cynic in our midsts. I am sure you have your reasons. Regardless,
+ I am certain we can bring about some type of understanding.}
+{161}{}{Boa sorte com isso então. Adeus.}
+{162}{}{I've heard that the Crianças have been able to get some of our secrets.
+ I wonder how that is happening?}
+{163}{}{Eu acredito que há um espião em algum lugar por aqui.}
+{164}{}{Eu sei. Eu estou vendendo seus segredos pra eles.}
+{165}{}{Eu tenho certeza que você está apenas imaginando coisas. Como eles poderiam saber de qualquer coisa?}
+{166}{}{Truly? I thought as much myself, but feared that I would never have
+ been able to get much support on the theory.}
+{167}{}{Você tem quaisquer pistas de quem poderia ser?}
+{168}{}{Eu estou feliz em saber disso. Obrigado pelo seu tempo.}
+{169}{}{Você é o agente duplo!!!}
+{170}{}{Not really. The only thing I can think of is that the person would
+ have to have access to some information and have access to the outside.
+ You might want to look to the initiates or scouts.}
+{171}{}{Obrigado. Adeus.}
+{172}{}{Nicole estará satisfeita então, em saber que eu matei o agente.}
+{173}{}{Você deve estar certo. Obrigado a você por setting me straight.}
+{174}{}{I think you are the double agent. Trying to trick me, I see. Well
+ now you DIE!}
+{175}{}{Great job on wasting that agent. Now we might have a chance against
+ those Crianças.}
+{176}{}{Boa sorte pra você.}
+{177}{}{Eu posso ajudar a treinar você pra se tornar mais eficiente na sua luta.}
+{178}{}{Você poderia? Isso seria maravilhoso.}
+{179}{}{Aí vai você. Talvez isso ajudará você na sua luta.}

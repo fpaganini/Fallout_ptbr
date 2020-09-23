@@ -1,0 +1,62 @@
+{100}{}{Voce ve o Irmao Thomas.}
+{101}{}{Por que, ola. Voce deve ser o novo Iniciado sobre o qual Talus me disse a respeito.
+ Esta terrivelmente tarde pra uma chamada social, o que eu posso fazer por voce?}
+{102}{}{Eu preciso de alguns suprimentos.}
+{103}{}{Eu preciso de treinamento.}
+{104}{}{Eu queria um pouco de ajuda medica.}
+{105}{}{Nada, lamento aborrecer voce.}
+{106}{}{Yuk Yuk?}
+{107}{}{Ruh.}
+{108}{}{O que poderia voce possivelmente querer a esta hora?}
+{109}{}{Eu nao tenho tempo para isto.}
+{110}{}{O que? Eu pareco o homem da requisicao? Se voce nem mesmo sabe quem eu sou,
+ por que voce esta me aborrecendo? Por favor saia!}
+{111}{}{Maldicao }
+{112}{}{, Eu sou um treinador, nao um doutor. Ela esta no nivel dois.}
+{113}{}{Bem, por que voce esta me aborrecendo sobre isso? O Michael esta provavelmente 
+ adormecido agora, a menos que Talus pos ele no dever de sentinela. Verifique na sala
+ de suprimentos de manha.}
+{114}{}{Bem, os Elders disseram nao pra um novo treinamento de iniciados mas... com
+ certeza. Voce parece um lad jovem bacana. Eu odiaria que algo acontecesse com voce
+ la fora, quando eu poderia ter sido capaz de ajudar. Pro que voce esta procurando
+{115}{}{Bem, os Elders disseram nao pra um novo treinamento de iniciados mas... com
+ certeza. Voce parece uma jovem moca bacana. Eu odiaria que algo acontecesse com
+ voce la fora, quando eu poderia ter sido capaz de ajudar. Para o que voce esta
+ procurando treinamento?}
+{118}{}{Armas pequenas.}
+{119}{}{Armas grandes.}
+{120}{}{Armas de energia.}
+{121}{}{Combate desarmado.}
+{122}{}{Armas pra corpo-a-corpo.}
+{123}{}{Arremesso.}
+{124}{}{Nada, lamento.}
+{125}{}{Why I ought to throw you right out of my room, but I'm a nice old
+ man. The Elders said no new initiate training but...I might be able to
+ help. They probably didn't have you in mid when they said that. What are
+ you looking to train in?}
+{126}{}{Ola de novo. Bom ver voce. Nao seja timido, eu nao mais durmo muito.
+ Voce esta procurando por mais treinamento? O que sera hoje... Eu quero
+ dizer, esta noite?}
+{127}{}{Eu sabia que voce voltaria! No que voce esta mood para esta noite?}
+{128}{}{Voce vai me fazer perguntas idiotas de novo? Eu realmente nao tenho o
+ o tempo.}
+{129}{}{Bem, voce entende, armas de calibre diferentes tem...}
+{130}{}{Apos um dia de treinamento intenso voce se sente mais treinado com armas pequenas.}
+{131}{}{O...}
+{132}{}{Apos dois dias de treinamento intenso voce se sente mais treinado com armas grandes.}
+{134}{}{Apos alguns dias de treinamento intenso voce se sente mais treinado com armas 
+ de energia.}
+{135}{}{Apos um dia de treinamento intenso voce se sente mais treinado em combate desarmado.}
+{136}{}{Apos dois dias de treinamento intenso voce se sente mais treinado com armas 
+ corpo-a-corpo.}
+{137}{}{Apos um dia de treinamento intenso voce se sente mais treinado em objetos de
+ arremesso.}
+{138}{}{Sem problema. Deixe-me sabe se voce mudar de ideia.}
+{139}{}{Eu nao sei por que eu estou desperdicando meu tempo com voce.}
+{140}{}{Sim? Oh, eu suponho que voce esta procurando por mais treinamento. Bem,
+ eu nao mais durmo muito de qualquer modo, por que nao? O que sera?}
+{141}{}{Agora o que? Mais questoes estupidas?}
+{142}{}{Oh, esta tudo bem. Como eu disse, eu dificilmente durmo. Volte a qualquer
+ hora.}
+{143}{}{Bem, pare de me pestering entao. Eu sou um homem velho e eu preciso do meu
+ sono de beleza.}

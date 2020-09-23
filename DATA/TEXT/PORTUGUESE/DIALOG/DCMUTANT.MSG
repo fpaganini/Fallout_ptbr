@@ -1,0 +1,14 @@
+{100}{}{Voce ve um mutante morrendo.}
+{101}{}{O mutante esta proximo da morte.}
+{102}{}{Voce ve o corpo de um mutante.}
+{103}{}{O mutante esta morto.}
+{104}{}{Foi tao rapido... Meus irmaos se foram... Nao pude ajudar...}
+{105}{}{Quem e voce?}
+{106}{}{Eu, eu sou... Eu nao lembrar... Era o lider de... Talvez meu holodisco... [O mutante fracamente da a voce um holodisco ensanguentado]}
+{107}{}{De onde voce veio?}
+{108}{}{Nos... Nos estavamos patrulhando por primarios... Vieram do... Do noroeste.}
+{109}{}{Quem enviou voce?}
+{110}{}{Pai... Aonde esta voce pai?... Sim Mestre... [O mutante da seu ultimo suspiro e collapses]}
+{111}{}{Uhhhh....  Arrgghh....}
+{112}{}{Mestre....}
+{113}{}{Irmaos... Aonde...?}

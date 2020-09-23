@@ -1,0 +1,32 @@
+{100}{}{Voce ve um computador de controle de processamento de agua.
+ Esta funcionando mal devido a remocao de um pedaco critico
+ do hardware.}
+{101}{}{Sua busca no computador de controle do processamento de agua
+ e bem sucedida. Voce acha o chip da agua sem problema.}
+{102}{}{Voce vasculha o computador da agua. Leva um tempo mas voce
+ eventualmente descobre o chip da agua.}
+{103}{}{O computador nao pode ser reparado sem um chip da agua
+ funcional.}
+{104}{}{Voce facilmente remove o chip da agua do computador. Voce
+ ouve o fluxo de agua ate a parada da cidade.}
+{105}{}{Voce luta com o computador por um tempo, mas voce nao
+ consegue remover o chip. Apos um momento, voce percebe que voce
+ esqueceu de remover os locking bolts.}
+{106}{}{Voce nao removeu o chip. Talvez voce devesse tentar de
+ novo, desta vez um pouco mais cuidadosamente.}
+{107}{}{Voce esta muito longe pra examinar com cuidadoo computador da agua.}
+{108}{}{Voce falha em reparar o computador.}
+{109}{}{Voce nao aprende nada especial sobre o computador da agua.}
+{110}{}{Voce reinstala o chip da agua no computador. O computador
+ reinicia apos um momento, e prossegue a funcionar normalmente.}
+{111}{}{Este item nao pode ser usado no computador.}
+{112}{}{Voce ver um computador de controle de processamente de agua. Esta funcional.}
+{113}{}{Voce ganha }
+{114}{}{ pontos de experiencia por obter um chip da agua.}
+{115}{}{Voce examine o computador cuidadosamente. Sua mente analitica
+ descobre alguns metodos que facilitarao a remocao do chip da agua.}
+{116}{}{Voce aprende que nao ha meio de consertar o computador sem
+ reinstalar o chip da agua.}
+{117}{}{Apos desligar o Computador de Purificacao da Agua, voce consegue
+ agora ouvir a bomba de agua reparada funcionando a distancia, trazendo
+ agua pra cima do que deve ser um poco profundo debaixo de Necropolis.}

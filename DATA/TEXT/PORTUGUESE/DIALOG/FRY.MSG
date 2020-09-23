@@ -1,0 +1,82 @@
+{100}{}{Voce ve o Agente Fry.}
+{101}{}{Eu estive esperando vir de encontro a voce, matador de criancas. Eu espero que sua estada nao seja longa. Eu estarei prestando atencao bem perto de voce enquanto voce esta aqui. Nao faca nada ilegal na minha cidade, eu estou morrendo por uma desculpa pra me livrar de escoria como voce.}
+{102}{}{Ola amigo, Agente Tony Fry a seu servico.}
+{103}{}{O que e este lugar?}
+{104}{}{Bom encontrar voce. Tchau.}
+{105}{}{Wug.}
+{106}{}{Ack!}
+{107}{}{Oh, um recem chegado! Bem-vindo ao Hub! Voce alcancou a maior cidade da
+ costa. Diabos, talvez a maior cidade no mundo por tudo que nos sabemos. Eu
+ pensava que voce era parte da caravana, voce veio com elas?}
+{108}{}{Sim.}
+{109}{}{Nao.}
+{110}{}{Eu nao estou surpreso. A maioria dos novos membros da nossa cidade entram com
+ as caravanas, ate mesmo com as caravanas desaparecidas que nos tivemos. E uma cidade
+ boa mas seja cuidadoso com as pessoas com quem voce se associa. Pessoas como o
+ Decker e os capangas dele podem meter voce em muitos problemas.}
+{111}{}{Isso e surpreendente. Tem sido bem dificil la fora, especialmente com as 
+ caravanas desaparecidas. Mas voce esta seguro agora, apenas fique longe do Maltese
+ Falcon. Eles sao um bando de causadores de problemas, o Decker e turma dele.}
+{112}{}{Quem e Decker?}
+{113}{}{Sim, bem . . . Eu sou forte.}
+{114}{}{O que voce disse sobre as caravanas desaparecidas?}
+{115}{}{Onde eu posso fazer algum dinheiro?}
+{116}{}{Isso e tudo, obrigado.}
+{117}{}{Se voce diz. Entao, voce tem quaisquer outras perguntas?}
+{118}{}{E realmente uma tragedia. Algumas caravanas have turned up desaparecidas. Butch
+ over nos Far Go Traders esta oferecendo uma recompensa por informacao ou algo assim.
+ Voce deveria verificar no Mercado dos Mercadores se voce estiver interessado.}
+{119}{}{Ele possui o Maltese Falcon no Mercado dos Mercadores, mas eu nao me associaria
+ com ele se voce quer ficar longe de problemas. Ele nao e nada alem de um animal
+ assassino, mas o Xerife nao me deixara prende-lo sem provas.}
+{120}{}{Sem problema. Acredite ou nao, nossa cidade e bem segura e nossa policia
+ e toda de guardioes da paz altamente treinados. Voce nao deve ter quaisquer
+ problemas, apenas evite o Maltese Falcon.}
+{121}{}{Eu lamento, eu nao entendo. Tlavez voce precise de cura? As Criancas da
+ Catedral estao ao sul. Va direto pra baixo alem do Mercado dos Mercadores ate
+ os Mercadores da Aguas. Eles estao bem ao lado dos Mercadores das
+ Aguas.}
+{122}{}{Eu ainda estou observando voce, assassino de criancas.}
+{123}{}{Animal assassino!}
+{124}{}{Eu nao consigo acreditar que o xerife esta morto . . .}
+{125}{}{Ai esta voce, sua cobrinha ladra! Eu quase nao reconheci voce.
+ Guardas!}
+{126}{}{Com certeza.}
+{127}{}{Me pegue se voce puder.}
+{128}{}{Nao.}
+{129}{}{ARG!}
+{130}{}{Ola de novo. Eu espero que voce goste da nossa cidade. Um jovem homem
+ bacana tal como voce mesmo e sempre bem-vindo. Se voce decidir ficar, eu
+ tenho certeza que voce seria uma valiosa adicao ao Hub.}
+{131}{}{Ola de novo. Eu espero que voce goste da nossa cidade. Uma dama adoravel
+ tal como voce mesma e sempre bem-vinda. Se voce decidir ficar, eu tenho certeza
+ que voce seria uma valiosa adicao ao Hub.}
+{132}{}{Ola de novo. O que eu posso fazer por voce?}
+{133}{}{Sim? Eu nao tenho o dia tdo. Eu estou tentando observar o portao da frente.}
+{134}{}{Eu tenho um crime para relatar!}
+{135}{}{Voces tem um hospital? Eu estou ferido.}
+{136}{}{Onde estao as lojas?}
+{137}{}{Onde ha trabalho por aqui?}
+{138}{}{Tchau.}
+{139}{}{Garro?}
+{140}{}{Ooga.}
+{141}{}{Mesmo? Eu, uh, voce deveria falar com o Xerife. Eu nao posso deixar
+ meu posto agora. Eu tenho que . . . uh, fend off quaisquer saqueadores
+ que poderiam vir, alem do mais, eu nao sou muito bom com relatorios.}
+{142}{}{Oh, lamento. Eu nao notei. As Criancas comandam o Hospital proximo dos
+ Mercadores da Agua. Va pro sul alem do Mercado dos Mercadores e voce vera ele
+ a noroeste dos Mercadores da Aguas. Eu espero que tudo fique okay.}
+{143}{}{Essa e dificil de perder. E de longe a parte mais ocupada da cidade.
+ O Mercado dos Mercadores esta a algumas milhas ao sul daqui. Voce ficara mais
+ interessado na secao mais ao norte, essa e aonde a maioria dos nossos locais
+ compram e vendem para o publico.}
+{144}{}{Por que? Isso seria no Mercado dos Mercadores, algumas milhas ao sul daqui. Duas
+ das casas das caravanas estao localizadas la, a terceira esta localizada mais longe ao
+ sul. Eu recomendaria os Far Go Traders. Eles pagam bem e eles nao sao muito loucos.}
+{145}{}{Mortos… Eles estao todos mortos . . .}
+{146}{}{Pfffftttt . . . Chrrrr . . .}
+{147}{}{Voce sabe aonde eu poderia achar um Chip de Agua? O chip da minha
+ vault esta funcionando mal e nos precisamos de outro imediatamente.}
+{148}{}{Chip da Agua? Bem, eu nunca ouvi sobre um. Se tem a ver com agua
+ voce deveria falar com os Mercadores da Agua. O quartel-general deles
+ esta local mais longe ao sul, alem da area do Centro.}

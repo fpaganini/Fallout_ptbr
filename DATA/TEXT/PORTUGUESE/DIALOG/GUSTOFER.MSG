@@ -1,0 +1,72 @@
+{100}{}{Lamento, sem boxe hoje.}
+{101}{}{Hnn.}
+{102}{}{Uk, ok.}
+{103}{}{Quando e a proxima luta?}
+{104}{}{Voce poderia tentar se registrar com o Gizmo. Eu ouvi que ele esta sempre
+ procurando carne nova para arremessar no ringue.}
+{105}{}{Tente de novo amanha. O Saul estara lutando.}
+{106}{}{Voce simplesmente a perdeu. Tente de novo em alguns dias. O Saul luta a
+ cada tres dias.}
+{107}{}{Obrigado.}
+{108}{}{Quem e Saul?}
+{109}{}{O Saul e o campeao local. O Saul e o favorito atual do Gizmo.}
+{110}{}{Ei. Sem boxe hoje.}
+{111}{}{ Tente de novo amanha.}
+{112}{}{ Tente de novo no dia depois de amanha.}
+{113}{}{Entao! Quer fazer uma aposta na luta?}
+{114}{}{Eu tenho coisas melhores pra fazer com o meu dinheiro. Adeus.}
+{115}{}{Quais sao as odds?}
+{116}{}{Nao, obrigado. Se importa se eu fizer algumas perguntas?}
+{117}{}{}
+{118}{}{Lamento, mas a luta de hoje ja acabou.}
+{119}{}{Oh. Bem, deixa pra la entao.}
+{120}{}{Em quem voce quer apostar, no Saul ou o desafiante? Odds a favor de Saul vencendo.
+ O custo e de 25 tampinhas para apostar; voce obtem 50 se voce vencer apostando no Saul,
+ 100 se voce vencer apostando no desafiante!}
+{121}{}{Eu apostarei no Saul.}
+{122}{}{Eu apostarei no desafiante.}
+{123}{}{Tudo bem, eu acho.}
+{124}{}{Quem e o boxeador?}
+{125}{}{Quem comanda estas lutas?}
+{126}{}{Uh, deixa pra la.}
+{127}{}{Lamento, eu nao tenho tempo. Talvez mais tarde.}
+{128}{}{Saul, o punho mais rapido em Junktown! Ele e uma maravilha da musculatura
+ masculina! Um socador de forca pulsante!}
+{129}{}{Ele e um cara bacana tambem.}
+{130}{}{Um, sim. Entao, quem comanda estas lutas?}
+{131}{}{Obrigado. Vejo voce por ai.}
+{132}{}{Gizmo, o dono do cassino, emprega Saul. Ele ocasionalmente gosta de assistir
+ uma luta ou duas, mas na maioria das vezes e dinheiro bom - as pessoas apostarao
+ muito numa luta. E ninguem tem que ser morto, ao contrario daquelas lutas ate a
+ morte que eles supostamente tem no Hub.}
+{133}{}{Lutas ate a morte?}
+{134}{}{Obrigado.}
+{135}{}{Bem, e apenas um rumor. Mas eles dizem que ha um ringue de luta underground
+ la aonde voce pode pagar para assistir pessoas lutarem ate a morte. Nao o meu tipo
+ de luta.}
+{136}{}{Hmm. Obrigado.}
+{137}{}{Ei, o que voce esta fazendo?}
+{138}{}{Uh, nada.}
+{139}{}{Voce quer comecar algo, perdedor?}
+{140}{}{Por favor desista.}
+{141}{}{Uh, nao. Deixa pra la. Esqueca que eu disse alguma coisa.}
+{142}{}{Bem, bem, parece que voce e um vencedor! Aqui estao suas tampinhas.}
+{143}{}{Volte quando voce tiver tampinhas o bastante para apostar!}
+{144}{}{Voce gostaria de esperar aqui ate que a luta comece as 2:00?}
+{145}{}{Com certeza, mas que inferno.}
+{146}{}{Nah, Eu tenho coisas pra fazer. Eu voltarei depois.}
+{147}{}{Ok, mas se voce perder a luta, voce forfeit sua aposta!}
+{148}{}{Deixe a luta comecar!}
+{149}{}{Por favr nao me pertube enquanto a luta esta em progresso.}
+
+#
+# TRANSLATION NOTE: The following two lines are identical in English, but they
+# differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+
+{150}{}{Bem, voce nao pode vencer todas, meu amigo. Melhor sorte da proxima vez.}
+{151}{}{Bem, voce nao pode vencer todas, minha amiga. Melhor sorte da proxima vez.}
+
+{152}{}{Lamento, uma aposta por luta.}

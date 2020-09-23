@@ -1,0 +1,221 @@
+{100}{}{Você see Rutger.}
+{101}{}{Hello and welcome to the Far Go Traders. How may we help you?}
+{102}{}{Can you transport water?}
+{103}{}{Eu'm here about the job that was posted.}
+{104}{}{Eu'm looking for work.}
+{105}{}{O que is it that you do here?}
+{106}{}{Você can't. Bye.}
+{107}{}{Gak!}
+{108}{}{We don't hire Skags! Get out.}
+{109}{}{Hmmmm. It's a shame you don't have the brains to go with that brawn. We could have used someone like
+ you.}
+{110}{}{Bem, we 'can' transport water, but it will cost you. How much do you need and where is it going?}
+{111}{}{Eu preciso o bastante para suprir uma vault. Ela está acima ao norte, past Junktown, in the mountains.}
+{112}{}{Eu preciso o bastante para suprir uma vault. Ela está acima ao norte, in the mountains.}
+{113}{}{Eu need it all! Some day, I'm going to transform the face of the planet. You'll see!}
+{114}{}{A whole vault? Are you nuts? We don't have that kind of access to that much water. Plus, I wouldn't
+ want to go into those mountains. We've had enough missing caravans.}
+{115}{}{Você don't? Is there someone else who can?}
+{116}{}{Bem, what about the job posted?}
+{117}{}{Bem, do you have any work?}
+{118}{}{Bem, thanks for nothing.}
+{119}{}{Oh sorry, you're not from around here. The Water Merchants handle all the damn water in this town.
+ I wouldn't even bother trying to deal with them. They're a bunch of vultures.}
+{120}{}{Where would I find them?}
+{121}{}{Ok, thanks.}
+{122}{}{Você can't miss them. They're south of here, all barricaded in with that damn water tower.}
+{123}{}{So, what do you do around here?}
+{124}{}{Ok, thanks.}
+{125}{}{Eu'm in charge of the...I mean, I help run the Far Go Traders. If anyone messes with us, I'm the one
+ they will answer to. We trade wares between all the different settlements.}
+{126}{}{Eu already told you.  Butch and I run the Far Go Traders.  Now what did you want?}
+{127}{}{O que sort of things do you trade?}
+{128}{}{Interesting. Bye.}
+{129}{}{Great. What about that job that was posted?}
+{130}{}{Sounds good. Do you need help?}
+{131}{}{Por que, we trade just about everything you can think of: drugs, tires, guns, bullets, food, brahmin, dirt, even scraps of metal.}
+{132}{}{Dirt? Scraps of metal?}
+{133}{}{Uh...that's fascinating, but I gotta go.}
+{134}{}{Você'd be surprised at what's in demand out there. Something that's taken for granted in one place may be a highly sought after commodity in a settlement 10 miles away.}
+{135}{}{Ok, enough with the boring merchant chatter. Where's the door?}
+{136}{}{Thanks, bye.}
+{137}{}{Can you tell me about the job that was posted?}
+{138}{}{Do you have any work?}
+{139}{}{Eu hear that you're a little crazy, but that might be what we need right now. You'll need to talk to Butch. He likes to meet all the new recruits. He's in the room right behind me. Go on in.}
+{140}{}{Eu don't think I want a child killer on one of my caravans.}
+{141}{}{Child killer? But it was an accident.}
+{142}{}{Hey, I don't discriminate. If it gets in my way, regardless of age, they'll be a wet spot on the wall.}
+{143}{}{Eu guess accidents do happen. It is a pretty messed up world out there. I'm still not sure I trust you. Go ahead and talk to Butch. He's in that room right there.}
+{144}{}{My ass it was an accident. I know your type. Think you can do whatever you want. Bem, not around here, buddy. Go ahead and talk with Butch, but I'll be keeping an eye on you. He's right through the door right behind me.}
+{145}{}{My ass it was an accident. I know your type. Think you can do whatever you want. Bem, not around here, lady. Go ahead and talk with Butch, but I'll be keeping an eye on you. He's right through the door right behind me.}
+{146}{}{Você are one ruthless son of a bitch. We might need that, but that doesn't mean that I agree with your ways. Just don't touch a child around me, or you'll be the wet spot on the wall. Go ahead and talk to Butch. He's in the office right behind me.}
+{147}{}{Você're looking for work? I've heard good things about you. We can always use someone of your reputation. Go on in and talk to Butch. He's through the door behind me.}
+{148}{}{Você're looking for work, are you? You look alright. Bem, you should probably talk to Butch. He's through the door behind me.}
+{149}{}{Eu thought you didn't want the job. What do you want?}
+{150}{}{Eu don't. I just had to have one more look at that ugly mug of yours.}
+{151}{}{Eu'm sorry. I really wanted this job. Can I have it please?}
+{152}{}{Nothing.}
+{153}{}{Grudda!}
+{154}{}{Get out of here you damn Skag!}
+{155}{}{Fine. I wish you would make up you mind, I'm a busy man...Let me give you the details.}
+{156}{}{Você're full of crap. Get the hell out.}
+{157}{}{O que are you talking to me for? I said to talk to Butch about the job. If he likes you, I'll fill you in on the details.}
+{158}{}{O que? Haven't you left yet?}
+{159}{}{How goes the search?}
+{160}{}{Eu can't seem to find anything.}
+{161}{}{Could you please repeat the details on the job?}
+{162}{}{Do you have any caravan jobs?}
+{163}{}{Lamento, I've got to go.}
+{164}{}{Rhoo?}
+{165}{}{Bem, I didn't say it was going to be easy. Otherwise, we would have solved the problem a long time ago. Ask around. Get rough if you have to, but don't draw blood. At least, not in public.}
+{166}{}{Eu'm telling you, lay off the drugs. They'll mess you up.}
+{167}{}{The job pays 500 Hubbucks when you can tell Butch exactly what has been happening to all of the caravans that have
+ disappeared recently. So, collect any proof you might find. I personally think it's those damn Water Merchants or those
+ gun freaks at the Brotherhood of Steel. Butch thinks it's some Claw of death or something. Check with Beth, she would know more about that.}
+{168}{}{Ok, but I don't know what you missed. There's not much to it.}
+{169}{}{Eu thought for sure you were from there. I was just testing you. If you're not from there, how the hell did you get that suit of steel they all traipse around in?}
+{170}{}{Oh, this? I 'found' it, if you know what I mean.}
+{171}{}{Eu'm not at liberty to say.}
+{172}{}{Damn, you must be good. I'm glad you're on our side. I don't know how you couldn't know, but the Brotherhood is a strange bunch that worship technology, or something like that.  They're just a little to the northwest from here.}
+{173}{}{O que's the Brotherhood of Steel?}
+{174}{}{Eu can guarantee you it wasn't the Brotherhood.}
+{175}{}{O que do you know about the Deathclaw?}
+{176}{}{Where's Beth?}
+{177}{}{Thanks, bye.}
+{178}{}{Bem, whatever. I'm sure you've met them before. They're a strange bunch that worship technology or something like that. They're to the northwest of here.}
+{179}{}{They are really strange. They worship technology or something like that. They have a hell of a lot of fire power. They could easily take out a caravan. They're to the northwest.}
+{180}{}{Eu knew you had to be one of them. You had to be with that steel suit. I hope you're right, and I hope it's not a mistake hiring you, but you're not the only one we've hired so, it's ok.}
+{181}{}{Por que do you say that?}
+{182}{}{Because I just joined their order, and I checked them out thoroughly. They're just real quiet and keep to themselves, but there is nothing to fear there.}
+{183}{}{Eu've been inside that bunker of theirs. They aren't the ones you're looking for.}
+{184}{}{Just a hunch.}
+{185}{}{Bem, that's reassuring. I think.}
+{186}{}{Eu hope you're right.}
+{187}{}{A hunch isn't good enough. We need proof.}
+{188}{}{Beth's right out that door and to the right. She runs our weapon shop. Tell her you're working for us, and you'll get a 15% discount.}
+{189}{}{Oh, yeah, Deathclaw, whatever. They're all crazy. It's just people's imagination getting carried away. There's no ghost or monster or whatever it's supposed to be. Just stick with reality, and you'll be fine.}
+{190}{}{Yes? How can I help you?}
+{191}{}{Eu know what's been happening to your caravans.}
+{192}{}{Nothing.}
+{193}{}{Wha.}
+{194}{}{Grrr.}
+{195}{}{Really? So, who are the bastards? The Water Merchants?}
+{196}{}{Yea, that's them! They're out to get you. They...want your...brahmin.}
+{197}{}{Actually, it was a group of these HUGE mutants.}
+{198}{}{It was the Deathclaw. I saw it eat a whole caravan.}
+{199}{}{Eu forgot.}
+{200}{}{Você forgot? Funny, man. Now, get lost.}
+{201}{}{Você forgot? Funny, lady. Now, get lost.}
+{202}{}{Eu knew it was them. Did you bring proof? I'm going to make those bastards pay.}
+{203}{}{Uhh. No. I lost it. But, you can take my word on it.}
+{204}{}{Actually, it wasn't them. It was a bunch of huge mutants.}
+{205}{}{Lamento, I've gotta go.}
+{206}{}{Bem, I can't do anything unless I have proof. I wouldn't want to start another merchant war. If you can bring me proof, I'll bring it to the law, and we'll wipe them out.}
+{207}{}{Você're full of crap. Get out of my face.}
+{208}{}{O que? How? That's impossible. You're gotta be joking? You are joking, aren't you?}
+{209}{}{Yeah, sorry. Believe it or not, it was actually a huge bunch of mutants.}
+{210}{}{It was terrible. It had these big, pointy teeth.}
+{211}{}{A whole caravan? Really? What, do I look that gullible? Get out there and find out what's really happening to our caravans.}
+{212}{}{Some huge mutants are destroying my caravans? That's almost as good as this Deathclaw story.}
+{213}{}{Eu'm not joking. I found the Deathclaw and killed it, but I found this holodisk on the body of one of those...super mutant creatures.}
+{214}{}{Bem, check this holodisk out. I got it off one of the raiding mutants.}
+{215}{}{It's true, I was there, and I saw it. I'll bring back proof.}
+{216}{}{Fine, don't believe me.}
+{217}{}{Eu've gotta go.}
+{218}{}{Hey, I know how to use one of those. Butch got some gizmo from some scout from the Brotherhood a long time ago that can read these things. Let's see.……Lamento, I didn't believe you. This does not bode well for the good guys. Bem, here's your 500 Hubbucks. Hell, make it 800, and thanks for the information!  If you need anymore work you will always be welcome.}
+{219}{}{Please, don't add to Butch's paranoia. He's a little bit touchy when it comes to the Deathclaw. Now tell me, did you actually find anything out? Was it the Water Merchants?}
+{220}{}{Yea, that's them! They're out to get you. They...want your...brahmin.}
+{221}{}{Actually, it was a group of these HUGE mutants.}
+{222}{}{No, it was really the Deathclaw. I saw it eat a whole caravan.}
+{223}{}{Eu forgot.}
+{224}{}{Rats, huh? So, did you find anything out or what? It's those damn Water Merchants, I know it!}
+{225}{}{Yea, that's them! They're out to get you. They...want your...brahmin.}
+{226}{}{Actually, it was a group of these HUGE mutants.}
+{227}{}{It was the Deathclaw. I saw it eat a whole caravan.}
+{228}{}{Eu forgot.}
+{229}{}{Mutants destroyed our caravans? That's almost as good as the one about the Deathclaw.}
+{230}{}{Eu'm not joking. I found the Deathclaw and killed it. But, I also found this holodisk on the body of those super mutant creatures.}
+{231}{}{Bem, check this holodisk out. I got it off one of the raiding mutants.}
+{232}{}{It's the truth, I was there. I'll bring back proof.}
+{233}{}{Eu've gotta go.}
+{234}{}{So, do you have any proof about who's been messing with my, I mean, our caravans?}
+{235}{}{Yea. Here's a holodisk I found on the body of one of those...huge mutant creatures.}
+{236}{}{No, still looking. Any ideas?}
+{237}{}{No, I'll let you know.}
+{238}{}{Gak!}
+{239}{}{Bem, if this Deathclaw really does exist, you might want to examine it's lair. It might have a clue.}
+{240}{}{Hi. How may I help you?}
+{241}{}{Eu found out what happened to the missing caravans.}
+{242}{}{Oh, nothing.}
+{243}{}{Hey! I heard you killed the bastard in charge of those mutants. Good going. You probably saved the lives of everyone in the Hub; but I wonder where they were coming from.}
+{244}{}{Yeah! More things to kill! I wonder where they're hiding.}
+{245}{}{Yes, I must cleanse the area completely of the Master's evil work. I wonder where they are hiding.}
+{246}{}{Você're right! I wonder where they are hiding.}
+{247}{}{Eu need some cash. Got any jobs?}
+{248}{}{All in a day's work. See ya!}
+{249}{}{Yeah, I kicked ass. Oops. I mean...Gruk Chak!}
+{250}{}{Hey there, buddy. How are things going?}
+{252}{}{Hey there, gorgeous. How are things going?}
+{253}{}{How's my favorite lady?}
+{254}{}{Fine, thanks. Do you have any more jobs?}
+{255}{}{Great! Just stopping in to see how things are going.}
+{256}{}{Yogwa?}
+{257}{}{Things are great! There are no more raids from those damn mutants, and trade is back to where it was. Actually, trade is much better than it was. Thanks for asking.}
+{258}{}{Hey, I heard you destroyed some base where all those damn mutants were hanging out! Good job! Too bad you couldn't track down their leader.}
+{259}{}{Yeah! Something else to kill. I wonder where the Master is hiding.}
+{260}{}{Yes, I must destroy the Master. I can't give evil a chance to spread any more. I wonder where the Master is hiding.}
+{261}{}{The master is about to meet his maker.}
+{262}{}{Você're right! I wonder where the Master is hiding.}
+{263}{}{Eu need some cash first. Got any jobs?}
+{264}{}{Yea, I kicked ass. Oops. I mean...Gruk Chak!}
+{265}{}{Bem, I heard that some people saw some scattered groups of mutants way up to the northwest. Way passed the Brotherhood of Steel.}
+{266}{}{Você know, since the mutants were destroyed, the Children of the Cathedral have been acting 'very' strange. I actually overheard one talking about you. They seem to be looking for you desperately.}
+{267}{}{Actually, things are not going so well. Those mutants are still causing problems with our Caravans. We've had to put almost all of our caravans on hold. Thanks for asking though.}
+{268}{}{Sure, we could use you in one of our caravans.  Do you do guard work? The pay’s standard, 400 hubbucks. Interested?}
+{269}{}{Sure}
+{270}{}{Nope.}
+{271}{}{O que?  What about the missing caravans?}
+{272}{}{O que better way to find the thieves than to join a caravan?}
+{273}{}{Eu’ll keep an eye out, but I need some scripts.}
+{274}{}{Nevermind.}
+{275}{}{Okay, but let me know if you change your mind.  Most of the time it’s easy money.}
+{276}{}{Great, just talk to our caravan driver by the front door to see when the next caravan’s scheduled to leave.  Just as long as you do a good job our drivers will hire you.}
+{277}{}{Eu’ll give you one more chance. The pay’s 400 hubbucks.  Go talk to the caravan driver by the front door to see when the next one goes out.}
+{278}{}{Eu’m sorry, but I’ve given you a chance.  I think you should leave.}
+{279}{}{Você’ve got to be joking?  I may be very grateful for what you’ve done, but I’m afraid that doesn’t change the past.  I think you should leave.}
+{280}{}{Didn’t you hear me?  We won’t hire you.  Please leave.}
+{281}{}{Eu don’t think that will be very affective, but you can work on one if you like.}
+{282}{}{Por que do you say that?}
+{283}{}{Você’re right, let me snoop around some more.}
+{284}{}{That’s okay, I’ll take the job.}
+{285}{}{Great.  Be sure to ask around.}
+{286}{}{Bem, okay.  Just talk to our caravan driver by the front door when you’re ready to go.  Just as long as you do a good job our drivers will hire you.}
+{287}{}{Of course!  You don’t need to talk to me. Just talk to our caravan driver.}
+{288}{}{[MORE]}
+{289}{}{Bem sure, we may be losing a lot of caravans, but it is a very small percentage of our total business. The chances of you being on a caravan that is attacked by whatever is ‘completely’ capturing or destroying our caravans is very unlikely.  Who or what ever is doing this must have a pretty large force, or a very deadly one.}
+{290}{}{Oh, okay.  I think I’ll ask around some more. }
+{291}{}{Bem, I need the money.}
+{292}{}{Hello again.  What can I do you for… I mean do for you?}
+{293}{}{Nice to see you again.}
+{294}{}{Eu was wondering, do you transport water?}
+{295}{}{Eu’m here about the job that was posted.}
+{296}{}{Eu’m looking for work.}
+{297}{}{O que is it that you do?}
+{298}{}{Lamento, I’ve to got to go.}
+{299}{}{Rarwa.}
+{300}{}{Yea, what the heck do you want?}
+{301}{}{Eu’m really getting sick of you.  What now?}
+{302}{}{O que!}
+{303}{}{Are you always this annoying?}
+{304}{}{O que is it man?!?!}
+{305}{}{Eu was wondering, do you transport water?}
+{306}{}{Eu’m here about the job that was posted.}
+{307}{}{Eu’m looking for work.}
+{308}{}{O que is it that you do?}
+{309}{}{Lamento, I’ve to got to go. }
+{310}{}{Tooka?}
+{311}{}{Você pissed off the boss.  Get the hell out of here!}
+{312}{}{Eu think I may have figured out what's been happening to the missing caravans.}
+{313}{}{That's great!  Go tell Butch what you've found and he'll let me know if you've earned your reward.}
+{314}{}{Grdddle Snpp!!!}
+{315}{}{Eu'm sorry but we don't deal with... um... the intellectually challenged.}

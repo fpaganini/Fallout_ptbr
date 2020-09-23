@@ -1,0 +1,16 @@
+{100}{}{Eu conseguiria fazer isso.}
+{101}{}{Isso e facil.}
+{102}{}{Me deixa mostrar pra voce como e feito.}
+{103}{}{Bacana.}
+{104}{}{Ah, eu entendo.}
+{105}{}{Oh, nao e um movimento ruim.}
+{106}{}{Entao e assim que e feito.}
+{107}{}{Eu nunca conseguiria fazer isso.}
+{108}{}{Boa forma.}
+{109}{}{Quite.}
+{110}{}{Preste atencao.}
+{111}{}{Nao seja rude.}
+{112}{}{Escute.}
+{113}{}{Shhhh!}
+{114}{}{Por favor saia do meu caminho.}
+{115}{}{Obrigado a voce.}

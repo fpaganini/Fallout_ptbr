@@ -1,0 +1,85 @@
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+#
+# Text labels and messages used in OPTIONS.C
+#
+# (These MUST match "text message" enumeration on the top of OPTIONS.C)
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+
+# ° Main option panel °
+#
+# Buttons
+{0}{}{SALVAR JOGO}
+{1}{}{CARREGAR JOGO}
+{2}{}{PREFERENCIAS}
+{3}{}{SAIR DO JOGO}
+{4}{}{FEITO}
+#
+# Preferences
+#
+{100}{}{PREFERENCIAS DO JOGO}
+{101}{}{DIFIC. DO JOGO}
+{102}{}{DIFIC. DO COMBATE}
+{103}{}{NIVEL DE VIOLENCIA}
+{104}{}{DESTACAR ALVO}
+{105}{}{QUEIMANDO CARAS}
+{106}{}{MSGS DE COMBATE}
+{107}{}{ESCARNIO}
+{108}{}{SEM PALAVROES}
+{109}{}{CORRER}
+{110}{}{LEGENDAS}
+{111}{}{DESTACAR ITEM}
+{112}{}{VELOCIDADE DO COMBATE}
+{113}{}{ATRASO DO TEXTO}
+{114}{}{VOLUME DO AUDIO MESTRE}
+{115}{}{VOLUME DA MUSICA/FILME}
+{116}{}{VOLUME DOS EFEITOS DE SOM}
+{117}{}{VOLUME DO DISCURSO}
+{118}{}{NVEL DO BRILHO}
+{119}{}{SENSITIVIDADE DO MOUSE}
+{120}{}{PADRAO}
+{121}{}{FECHAR}
+{122}{}{Afeta a velocidade do jogador}
+{123}{}{Discurso do Pipboy}
+#
+# Label text
+#
+{201}{}{Ligado}             # 1
+{202}{}{Desligado}            # 2
+{203}{}{Facil}           #  1
+{204}{}{Normal}         #  2
+{205}{}{Difícil}           #  3
+{206}{}{Fracote}          # 1
+{207}{}{Normal}         # 2
+{208}{}{Difícil}          # 3
+{209}{}{Normal}         #  1
+{210}{}{Mais rapido}        #  2
+{211}{}{Palavroso}        # 1
+{212}{}{Breve}          # 2
+{213}{}{So Mirando}
+{214}{}{Nenhum}           # 1
+{215}{}{Minimo}        # 2
+{216}{}{Maximo de Sangue}  # 3
+{217}{}{Lento}           #  1
+{218}{}{Mais Rapido}         #  2
+{219}{}{Sempre}
+{220}{}{Muito}
+{221}{}{Baixo}          # 1
+{222}{}{Alto}           # 2
+{223}{}{Mais Brilhante}
+{224}{}{Amplo}
+
+
+#
+# Pause window
+#
+{300}{}{FEITO}
+{301}{}{PAUSADO}
+#
+# Demo versions only
+#
+{1000}{}{Lamento, o menu das preferencias não esta}  # 1
+{1001}{}{disponivel na versao demo.}      # 2
+
+

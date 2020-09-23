@@ -1,0 +1,2 @@
+{100}{}{Ha uma anotação na geladeira.}
+{101}{}{A anotação diz: "Só pra fregueses".}

@@ -1,0 +1,5 @@
+{100}{}{O fridge esta trancado.}
+{101}{}{O fridge ja esta destrancado.}
+{102}{}{Voce destranca o fridge.}
+{103}{}{Voce ainda nao entendeu esta tranca.}
+{104}{}{Alguem deixou a fridge aberta!}

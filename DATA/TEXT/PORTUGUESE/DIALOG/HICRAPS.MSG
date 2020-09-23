@@ -1,0 +1,13 @@
+{100}{}{Voce ve diante de voce a mesa low stakes Craps. Ela custa $40 pra jogar.}
+{101}{}{Voce fez um 7. Voce vence!!}
+{102}{}{Voce roll snake eyes. Voce perde.}
+{103}{}{Voce rolled }
+{104}{}{! Voce vence!!}
+{105}{}{Voce rolled }
+{106}{}{. Voce perde.}
+{107}{}{Voce rolled }
+{108}{}{ antes de fazer seu ponto. Voce perde.}
+{109}{}{Voce fez seu ponto. Voce vence.}
+{110}{}{Voce fez }
+{111}{}{. Este e seu ponto. Girando de novo.}
+{112}{}{Voce ganha 70 pontos de experiencia por matar o dealer.}

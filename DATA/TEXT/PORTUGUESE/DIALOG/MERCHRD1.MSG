@@ -1,0 +1,45 @@
+{100}{}{Voce ve Mephisto, um mercador zangado.}
+{101}{}{Voce ve um mercador chamado Harms.}
+{102}{}{Voce ve um mercador aborrecido chamado Fowler.}
+{103}{}{Voce ve Dixon, um mercador zangado.}
+{104}{}{Voce ve Morgan, um mercador.}
+{105}{}{Voce ve Marco, um mercador zangado.}
+{106}{}{Voce ve Kjolnir, um mercador.}
+{107}{}{Voce ve Marzen, um mercador.}
+{108}{}{Voce ve Joshua, um mercador aborrecido.}
+{109}{}{Voce ve Anthony, um mercador.}
+{110}{}{Voce ve Clark, um mercador.}
+{111}{}{Voce ve Malantic, um mercador aborrecido.}
+{112}{}{Voce ve Orlando, um mercador.}
+{113}{}{Voce ve um mercador chamado Ilya.}
+{114}{}{Voce ve Tracy, um mercador aborrecido.}
+{115}{}{Voce consegue acreditar neste caos?}
+{116}{}{Fique na fila.}
+{117}{}{Voce nao e desta casa.}
+{118}{}{A sua caravana atrasou tambem?}
+{119}{}{Boa sorte pra conseguir qualquer coisa feita.}
+{120}{}{Voce viu o Hightower?}
+{121}{}{Eu veria os Far Go Traders se eu fosse voce.}
+{122}{}{Procurando pela mercadora mestra? Ela esta logo ali.}
+{123}{}{Se minha carga nao sair em breve, acontecera o inferno aqui.}
+{124}{}{Martha esta logo ali.}
+{125}{}{Voce nao e mercador, desapareca.}
+{126}{}{Os   dos guardas estao no outro lado.}
+{127}{}{Eu nao vou dar qualquer dinheiro pra voce, entao saia.}
+{128}{}{Minha carga nunca vai sair.}
+{129}{}{Nem mesmo pense em se mudar pro meu territorio.}
+{130}{}{Por que minha carga nao saiu ainda?}
+{131}{}{Aonde estao meus suprimentos?}
+{132}{}{Seus precos sao terriveis!}
+{133}{}{Aonde esta o Hightower?}
+{134}{}{Eu deveria ter a prioridade!}
+{135}{}{Minha carga esta duas semanas atrasada!}
+{136}{}{Eu quero meu dinheiro de volta!}
+{137}{}{Eu quero falar com o Hightower.}
+{138}{}{Eu levarei meus negocios para a Crimson Caravan.}
+{139}{}{O que esta errado com voces gente?}
+{140}{}{Eu estou cansado de esperar!}
+{141}{}{Eu estou cheio de desculpas!}
+{142}{}{Minha carga e mais importante do que a dele!}
+{143}{}{Por que voce nao entende?}
+{144}{}{Faca-o ou eu irei a outro lugar!}

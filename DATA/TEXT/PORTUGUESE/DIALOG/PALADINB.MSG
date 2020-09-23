@@ -1,0 +1,11 @@
+{100}{}{Paladino}
+{101}{}{Voce nao deveria estar aqui, Iniciado.}
+{102}{}{O que voce esta fazendo aqui?}
+{103}{}{A sala dos guardas e para os guardas. Voce nao e um guarda.
+ Voce esta na sala dos guardas. Portanto, VOCE deve sair.}
+{104}{}{Por favor saia. Voce nao deveria estar aqui.}
+{105}{}{Eiy, sem Iniciados.}
+{106}{}{Esta nao e a biblioteca, meu rapaz. Se voce quer explorar,
+ va para a biblioteca.}
+{107}{}{Esta nao e a biblioteca, minha garota. Se voce quer explorar,
+ please va para a biblioteca.}

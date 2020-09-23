@@ -1,0 +1,33 @@
+{100}{}{Comporte-se perto do Doutor, e eu nao terei que
+ agir de forma medieval na sua cara.}
+{101}{}{Nos estamos fechados. Volte mais tarde.}
+{102}{}{Eu tenho que ver o Doutor.}
+{103}{}{OK, eu o farei.}
+{104}{}{E muito importante que eu veja o Doutor.}
+{105}{}{Hnnn.}
+{106}{}{Tempo bacana que nos estamos tendo, huh?}
+{107}{}{Isso e simplesmente muito ruim. Saia daqui, e nao volte
+ ate de manha. Este escritorio nao esta aberto de noite.}
+{108}{}{Espere um segundo, eu vou checar com o Doutor.}
+{109}{}{O que voce quer agora?}
+{110}{}{Eu tenho que ver o Doutor.}
+{111}{}{O Doutor esta disponivel?}
+{112}{}{Hnnn!}
+{113}{}{De modo algum. O Doutor esta dormindo. Volte mais tarde.}
+{114}{}{I dunno, por que voce nao fala com ele voce mesmo?}
+{115}{}{Sim, OK. Saia.}
+{116}{}{Ei, isto e propriedade privada. Melhor voce sair, agora.}
+{117}{}{Eat my dung.}
+{118}{}{Se voce nao sair do meu caminho, voce precisara do Doutor
+ por razoes pessoais.}
+{119}{}{Voce nao sabia que as mulheres sao o sexo mais fraco?}
+{120}{}{Pensa que eu sou fraca? Observe isto entao . . .}
+{121}{}{Eu simplesmente sairei.}
+{122}{}{Pegue suas ameacas puny threats e corra pra casa pra mamae. Voce esta
+ falando com um homem de verdade aqui.}
+{123}{}{Pensa que eu sou fraca? Observe isto entao . . .}
+{124}{}{Eu simplesmente sairei.}
+{125}{}{Whoa! Se voce realmente quer ver ele, va em frente.}
+{126}{}{Bem, quando o Doutor esta aqui?}
+{127}{}{O doutor ve os pacientes das 8 as 5. Agora saia daqui.}
+{128}{}{Quando o Doutor esta aqui?}

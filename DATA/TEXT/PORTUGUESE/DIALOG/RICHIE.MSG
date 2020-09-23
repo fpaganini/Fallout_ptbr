@@ -1,0 +1,36 @@
+{100}{}{Voce ve o Richie.}
+{101}{}{Voce nao deveria fazer isso. Eu vou ter que parar voce!}
+{102}{}{Voce nao deveria estar aqui. Voce percebe que eu devo matar voce?}
+{103}{}{Seu turno acabou. Eu sou seu substituto.}
+{104}{}{Inspetor da vault do hub. Eu estou aqui pra inspecionar a vault. Va pro lado.}
+{105}{}{Garoto, lute. Encerre o ciclo de violencia agora!}
+{106}{}{Quem disse isso pra voce? Senhor, se voce me atacar, sera o maior erro da sua vida!}
+{107}{}{Oi garoto! O que esta na vault de aco?}
+{108}{}{Tarde demais vagabundo. Voce esta morto.}
+{109}{}{Uh… sim… runk…}
+{110}{}{Eu nao deveria estar falando com voce! Desapareca!}
+{111}{}{Ja estava na hora! E quente aqui! Entediante tambem! Se eu nao precisasse deste trabalho pra
+ alimentar minha familia, eu diria a Lorenzo pra enfia-lo. Vejo voce amanha.}
+{112}{}{Eu nao deveria sair deste lugar e voce nao deveria estar aqui. Saia!}
+{113}{}{Voces oficiais do Hub me deixam doente! Inspecionando a vault dos meus chefes! Qual e a proxima? Taxas
+ mais altas? Um homem nao pode mais ganhar uma vida honesta sem voces burocratas tentando controlar tudo? Um
+ destes dias nos vamos tomar uma posicao. Sim, um destes dias o homem comum vai dar a voces gatos gordos uma
+ joelhada nas bolas como voces merecem. Um destes dias nos pegaremos voces de jeito… Eu mal posso esperar... A
+ proposito. Eu sei que voce esta fazendo seu trabalho. Eu sairei da frente enquanto voce faz sua inspecao. Tchau.}
+{114}{}{Nao fale bosta pra mim! Saia daqui ou eu terei que atirar em voce!}
+{115}{}{Oh sim. Bem, ninguem pushes around Richie Glowsteader e se livra disso!}
+{116}{}{Oh, apenas dez mil pratas do Hub. Espero que voce nao esteja pensando em roubar. Eu teria que matar
+ voce. Eu quase matei alguem uma vez, entao nao queira mexer comigo!}
+{117}{}{Cara, voce e estupido. Oh, lamento, eu nao quis ofender voce. Agora vamos tentar isto de novo. "Sim"
+ significa que eu explodo sua cabeca. "Nao" significa que voce tira sua bunda daqui. Qual que vai ser?}
+{118}{}{Ah . . . sim . . .}
+{119}{}{Uh… nao…}
+{120}{}{Runk! Runk!}
+{121}{}{Cara, eu nao consigo faze-lo! Seria como atirar num animal burro. Apenas saia daqui, okay?}
+{122}{}{Isso e bom. Agora va andando. Eu tenho certeza que voce conseguiria achar alguem pra alimentar voce…}
+{123}{}{Talvez um runk signifique "sim" e dois runks signifiquem "nao". Okay, "runk" significa eu mato voce.
+ "Runk, runk" significa que voce sai. Okay?}
+{124}{}{Runk}
+{125}{}{Runk, runk.}
+{126}{}{Runk, runk, runk!}
+{127}{}{Tres runks. Merda, isto nao esta funcionando. Talvez eu simplesmente ignorarei voce e voce saira fora…}

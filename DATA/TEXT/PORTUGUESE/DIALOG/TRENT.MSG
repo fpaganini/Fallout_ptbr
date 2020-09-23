@@ -1,0 +1,74 @@
+{100}{}{Fique longe de mim! Deixe-me em paz!}
+{101}{}{Ola estranho. Voce nao deveria estar fora aqui. Ha apenas a morte aqui!}
+{102}{}{Por acaso voce nao saberia qualquer coisa sobre as caravanas desaparecidas?}
+{103}{}{Quem e voce?}
+{104}{}{Que tipo de morte?}
+{105}{}{Eu preciso de alguns suprimentos. Entregue eles!}
+{106}{}{Eu estou procurando por um chip de agua. Voce pode me ajudar?}
+{107}{}{Eu estava imaginando o que voce sabe sobre o deathclaw.}
+{108}{}{Rurr? Sniff?}
+{109}{}{O que voce quer? Deixe-me em paz!}
+{110}{}{Rrr. Snrg.}
+{111}{}{Grande! Grande! Do tamanho de tres homens! Garras tao longas quanto meu antebraco!
+ Rasgados! Rasgados!}
+{112}{}{Sim. O que mais?}
+{113}{}{Acalme-se homem. Voce esta seguro agora.}
+{114}{}{Cara, esse soa como um filho da puta feio!}
+{115}{}{Voce o matou?}
+{116}{}{Eu sou o Trent. Eu sou um guarda dos Mercadores da Agua. Nossa caravana foi atacada
+ . . . por um monstro! Tao enorme, tao rapido. Ele comeu o Joe e levou tiros de rifle e nao
+ flinch! Tao enorme!}
+{117}{}{O que atacou voce?}
+{118}{}{Soa como um tipo de mutante.}
+{119}{}{Isso soa como o deathclaw!}
+{120}{}{Bem, isso ensinara voce a continuar jacking up seus precos!}
+{121}{}{Certo. Nâo e como se eu precisasse deles mais.}
+{122}{}{Chip de agua! Eu sou um guarda, nao um engenheiro! Verifique com os mercadores
+ da agua no Hub, eles provavelmente sabem!}
+{123}{}{Deathclaw!}
+{124}{}{O que voce esta fazendo? Deixe-me em paz!}
+{125}{}{Eu . . . eu nao sei. Eu nao dormi por tanto tempo. Faminto. Sedento. Cansado.
+ Eu preciso chegar em casa.}
+{126}{}{}
+{127}{}{Chifres enormes, pela vermelha doente, como algo de uma estoria sobre demonios,
+ e comeu o Joe em tres mordidas . . .}
+{128}{}{Ninguem esta seguro! Ninguem esta seguro, ninguem mais esta seguro, e o que
+ eu vou fazer?}
+{129}{}{Voce esta louco? Eu pus 3 balas da minha Desert Eagle nele e ele nem ao menos
+ didn't even flinch!}
+{130}{}{Eu nao me importo se e um mutante, um alienigena ou um demonio do inferno,
+ eu nunca quero ver outra dessas coisas tanto quanto eu viver!}
+{131}{}{Eu sou apenas um guarda, maldicao! Nao me culpe! E eles me pagam bem! Eu
+ nao tenho quaisquer problemas com eles!}
+{132}{}{Como eu posso ajudar voce?}
+{133}{}{Os deathclaws pegaram eles. Eu apenas pensava que elas eram estorias,
+ mas . . . voce nao acreditaria em quao grandes eles sao ou tao rapidos. Primeiro
+ nos sentimos o cheiro dels, entao eles vieram sobre o ridge and tore em nos. Nos todos corremos, e de alguma maneira eu fugi.}
+{134}{}{Trent, Trent Barrister. Eu vivo no Hub. Ultimamente o trabalho tem ficado
+ escasso, e eu sou um bom atirador, entao eu contratei a mim mesmo como um guarda
+ pros Mercadores da Agua. O pagamento e bom, o risco e baixo - ou assim eu pensava.}
+{135}{}{Eu nao faco ideia. Isso e tecnologia antiga, nao e? Eu suponho que os
+ poderiam achar um, agora e de novo, mas eu nao faco ideia de onde procurar.
+ Ninguem usa mais eles - usam?}
+{136}{}{Eles sao enormes. Como grandes lagartos, mas encouracados. Garras enormes, e
+ dentes, chifres enormes e eles amam o gosto dos humanos. E rapidos, Deus, eles sao
+ rapidos. Eu estou feliz que eles decidiram nao me perseguir ou eu estaria morto.}
+{137}{}{Obrigado. Talvez o que acontceu apenas foi um mal-entendido. Eu nao tenho
+ muito dinheiro, mas e seu agora.}
+{138}{}{Obrigado. Oh Deus, isso e bom . . . eu nao tenho tanto dinheiro, mas e seu
+ agora.}
+{139}{}{Obrigado. Talvez o que aconteceu foi apenas um mal-entendido. Eu nao tenho
+ tanto dinheiro, mas . . . maldicao! Eu devo ter deixado cair. E seu agora.}
+{140}{}{Obrigado. Oh Deus, isso e bom . . . eu nao tenho tanto dinheiro, mas . . .
+ maldicao! Eu devo ter deixado cair. E seu agora.}
+{141}{}{Ajude-me!}
+
+#
+# TRANSLATION NOTE: The following two lines are identical in English, but they
+# differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+
+{142}{}{O cheiro da morte, meu amigo. O cheiro da morte . . .}
+{143}{}{O cheiro da morte, minha amiga. O cheiro da morte . . .}

@@ -1,0 +1,16 @@
+
+#
+# Coastal encounter messages
+#
+
+{100}{}{Voce ve varias criaturas flutuantes esquisitas...}
+{101}{}{Voce ve um pequeno enxame de ratos se aproximando rapidamente.}
+{102}{}{Voce ve um grupo de camponeses sendo atacados por saqueadores!}
+{103}{}{Voce ve algumas pessoas pescando.}
+{104}{}{Ha um cadaver grisly proximo que foi parcialmente comido.}
+{105}{}{Voce topa com algumas pocas de agua..}
+{106}{}{Com muita sede, voce bebe um pouco de agua.. Ela nao tem um gosto tao bom.}
+{107}{}{A agua parece altamente radioativa e foul.}
+{108}{}{Ahhh..}
+{109}{}{Arrgg..}
+{110}{}{Yuck!}

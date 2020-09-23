@@ -1,0 +1,64 @@
+{100}{}{Voce ve o Cavaleiro Paul.}
+{101}{}{Ahhh, entao voce e novo iniciado. Bem-vindo a bordo. O que posso fazer por voce?}
+{102}{}{Quem e voce e o que voce faz aqui?}
+{103}{}{Onde eu posso obter algumas armas?}
+{104}{}{Vree me disse que eu poderia ver uma nova arma.}
+{105}{}{Voce tem um chip de agua?}
+{106}{}{Voce tem quaisquer partes de Power Armor?}
+{107}{}{O que?}
+{108}{}{Nada, obrigado.}
+{109}{}{Eu sou o Paul, cabeca do Desenvolvimento de Armas de Energia.}
+{110}{}{Que tipo de Armas de Energia?}
+{111}{}{Voce tem a Pistola Laser que a Vree designou?}
+{112}{}{Laser, Plasma... voce a nomeia, eu a construi.. ou pelo menos a reconstrui.}
+{113}{}{Alguma chance de que eu possa obter uma?}
+{114}{}{Isso e otimo. Mantenha o bom trabalho. Tchau.}
+{115}{}{Voce teria que ver o Michael para issued uma arma. Apesar disso, ele nao pode autorizar voce pra ter uma,
+ pra isso voce teria que ver o Talus.}
+{116}{}{Tudo bem, onde eu posso acha-los?}
+{117}{}{Ok. Obrigado pela informacao, tchau.}
+{118}{}{Eles estao ambos no primeiro andar da base. O Talus geralmente esta na sala de
+ treinamento e o Michael faz o dever dele no lado de fora da sala de armazenagem.}
+{119}{}{Obrigado. Eu posso fazer algumas perguntas?}
+{120}{}{Obrigado. Eu irei agora.}
+{121}{}{Com certeza. Com o que eu posso ajudar voce?}
+{122}{}{Onde eu posso obter algumas armas novas?}
+{123}{}{Voce tem um chip de agua?}
+{124}{}{Voce tem quaisquer partes para a Power Armor?}
+{125}{}{Eu posso ver a nova pistola laser?}
+{126}{}{Realmente, eu preciso ir. Tchau.}
+{127}{}{Sim. A mais recente em tecnologia de laser a mao. [Ele toma
+ uma pequena pistola de uma mesa de trabalho e a entrega pra voce]}
+{128}{}{Isto e bacana, eu posso ficar com isto?}
+{129}{}{Que tipo de dano isto fara a uma pessoa?}
+{130}{}{Essa nao fara muito bem pra voce. Ainda esta faltando as lentes e amplificador.
+ [Ele toma a pistola de volta de voce e a poe na mesa de trabalho]
+ Se voce realmente quer uma, va falar com o Talus ou o Michael.}
+{131}{}{Obrigado, onde eu posso acha-los?}
+{132}{}{Obrigado, eu devo ir agora.}
+{133}{}{Eu posso fazer a voce mais algumas perguntas?}
+{134}{}{Um Chip de Agua? Os chips dos abrigos da velha Vault-Tec?}
+{135}{}{Sim!.. Voce tem um?}
+{136}{}{Nao. Aquelas coisas eram lixo, elas estavam sujeitas a falha. Nos nao lidamos
+ com purificar nossa propria agua aqui. Nos temos agua entregue por caravanas do Hub.}
+{137}{}{Ok. Obrigado. Bem, eu tenho que continuar procurando por um. Tchau.}
+{138}{}{Eu poderia fazer a voce mais algumas perguntas?}
+{139}{}{Nas maos de um guerreiro treinado, ela poderia cortar uma pessoa pela metade. O raio
+ will shear a carne mais rapido do que voce consegue passar seu dedo atraves da areia.}
+{140}{}{Eu posso ficar com esta?}
+{141}{}{Nao. Eu so trabalho com armas de energia. Voce deveria ver o Kyle se voce tem perguntas sobre a Power Armor.}
+{142}{}{Na verdade, Kyle nao tem as partes que eu estou procurando.}
+{143}{}{Obrigado. Tchau.}
+{144}{}{Bem, eu nao posso ajudar voce com isso. Lamento.}
+{145}{}{Obrigado. Eu preciso ir. Tchau.}
+{146}{}{Eu posso fazer a voce mais algumas perguntas?}
+{147}{}{Ola de novo, Iniciado }
+{148}{}{. Com o que eu posso ajudar voce?}
+{149}{}{Quem e voce e o que voce faz aqui?}
+{150}{}{Onde eu posso conseguir algumas armas?}
+{151}{}{Vree me disse que eu poderia ver uma nova arma.}
+{152}{}{Voce tem um chip de agua?}
+{153}{}{Voce tem quaisquer partes de Power Armor?}
+{154}{}{O que?}
+{155}{}{Nada, obrigado.}
+{156}{}{Um.. por favor saia antes que voce babe em alguma coisa importante.}

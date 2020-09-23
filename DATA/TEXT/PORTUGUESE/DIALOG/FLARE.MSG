@@ -1,0 +1,6 @@
+{100}{}{Voce acende o flare.}
+{101}{}{Este flare foi gasto.}
+{102}{}{O flare esgotou o combustivel e foi extinguido.}
+{103}{}{Voce ve um flare aceso.}
+{104}{}{Voce ve um flare gasto.}
+{105}{}{Voce ve um flare.}

@@ -1,0 +1,3 @@
+{100}{}{Voce ve uma cadeira muito usada.}
+{101}{}{Voce ve uma cadeira muito usada.}
+{102}{}{A cadeira parece convidativa; contudo, voce deve continuar sua missao.}

@@ -1,0 +1,16 @@
+{100}{}{Voce ve um guarda do Hub.}
+{101}{}{Eu posso ajudar voce?}
+{102}{}{Sim. Poderia me dizer aonde eu estou?}
+{103}{}{Adeus.}
+{104}{}{Uhhhhhhh.  Huh huh.  Uhhhhh.  Huh.}
+{105}{}{Cara, voce e mais burro do que um saco de martelos, nao e? Saia daqui!}
+{106}{}{Voce esta no fim sul do Hub. Se voce olhar por ai voce achara os Mercadores das Aguas e um pequeno hospital.}
+{107}{}{Quem sao os Mercadores das Aguas?}
+{108}{}{Um hospital?}
+{109}{}{Obrigado. Tchau.}
+{110}{}{Aqueles bastardos. Eles pensam que eles possuem o maldito Hub apenas porque ele tem controle da Torre da Agua.}
+{111}{}{Um hospital?}
+{112}{}{Obrigado. Tchau.}
+{113}{}{As Criancas da Catedral controlam um pequeno hospital aqui no Hub. Ele parecem um bando decente.}
+{114}{}{Quem sao os Mercadores das Aguas?}
+{115}{}{Obrigado. Tchau.}

@@ -1,0 +1,11 @@
+{100}{}{Diante de voce esta um computador Mach IV.}
+{101}{}{Parece que o sistema esta em um status de reiniciar.}
+{102}{}{O sistema parece ter travado.}
+{103}{}{O monitor flickers.}
+{104}{}{A tela esta mostrando modelos de cores esquisitos.}
+{105}{}{A tela do computador esta exibindo pequenas bombas verdes caindo
+ infinitamente em direcao ao chao.}
+{106}{}{Voce nao consegue hackear a senha.}
+{107}{}{Voce acessa algumas notas eletronicas. A mais interessante e
+ um pedido do Tenente para "...mais especimes humanos para mergulhar.
+ Envie eles imediatamente para a Base Militar."}

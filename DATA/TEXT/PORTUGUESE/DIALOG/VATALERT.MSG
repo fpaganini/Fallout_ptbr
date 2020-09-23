@@ -1,0 +1,6 @@
+{100}{}{Ha algo esquisito a respeito daquela parte do chao.}
+{101}{}{Voce nao nota nada especial.}
+{102}{}{Um alarme soa ao longe.}
+{103}{}{Ha algum tipo de sensor no seus pes.}
+{104}{}{Voce desarma o sensor.}
+{105}{}{Voce falha em desarmar o sensor.}

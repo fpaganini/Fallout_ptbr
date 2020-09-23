@@ -1,0 +1,18 @@
+{100}{}{Ola! O que eu posso fazer por voce?}
+{101}{}{Quem e voce?}
+{102}{}{O que voce esta fazendo?}
+{103}{}{Sim, me de tudo que voce tem.}
+{104}{}{Lub!}
+{105}{}{Eu sou Lox. Eu sou um mercador.}
+{106}{}{Eu sou Terrance. Eu sou um negociante.}
+{107}{}{Eu sou Julian. Eu sou a tinker.}
+{108}{}{Eu sou Dale. Eu compro e vendo pequenas mercadorias.}
+{109}{}{Eu estou numa viajem para Adytum pra vender algumas mercadorias.}
+{110}{}{Eu estou numa viajem para Junktown pra fazer algumas negociacoes.}
+{111}{}{Eu estou numa viajem para the Hub to barter my wares.}
+{112}{}{Eu estou numa viajem para Necropolis pra fazer um pouco de exploracao.}
+{113}{}{Aack!}
+{114}{}{Voces se importam se eu me juntar a voces?}
+{115}{}{Com certeza, venha junto. A companhia sera boa.}
+{116}{}{Lamento, esta companhia ja esta cheia.}
+{117}{}{Lamento, mas eu nao acho que eu possa confiar em voce.}

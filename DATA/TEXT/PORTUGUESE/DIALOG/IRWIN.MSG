@@ -1,0 +1,28 @@
+{100}{}{Voce ve o Irwin.}
+{101}{}{Oh rapaz, voce nao consegue me deixar em paz? Eu ja tenho problemas o bastante na minha mao.}
+{102}{}{Problemas? Talvez eu possa ajudar voce.}
+{103}{}{Como se voce fosse o unico com problemas.}
+{104}{}{Okay, okay. Nenhuma razao pra gritar comigo.}
+{105}{}{Hmm... Eu nao sei. Exige um calibre diferente de heroi do que voce. Escuta, por que voce nao volta quando voce tiver um pouco mais de experiencia?}
+{106}{}{Isto e uma tragedia, acredite em mim. Nada e do modo como costumava ser. Eu tenho uma pequena fazenda fora da cidade e alguns dias atras um bando de saqueadores apareceu do nada e agora usam minha casa como acampamento deles. Eles mataram o Pugsley, meu burro e eles ameacaram me matar se eu ousasse voltar.}
+{107}{}{Apenas me diga aonde e eu tomarei conta do resto.}
+{108}{}{Lamento Irwin, mas eu tenho coisas mais importantes pra fazer.}
+{109}{}{Realmente, voce faria isso? Voce sabe, eu nao ouso ir la mais. Por que voce nao volta e me deixa saber quando e seguro voltar pra casa de novo?}
+{110}{}{Escute aberracao, eu disse a voce pra me deixar em paz em primeiro lugar. Agora desapareca!}
+{111}{}{Eu sabia que voce ficaria com medo. Todos ficam quando esta relacionado aos saqueadores.}
+{112}{}{Entao, voce foi capaz de ensinar a aqueles saqueadores uma licao? Meu lar esta seguro de novo?}
+{113}{}{Com certeza esta, camarada.}
+{114}{}{Eu nao tive o tempo ainda de tomar conta disso.}
+{115}{}{Oh, muito obrigado. Eu lamento que eu nao tenho quaisquer riquezas para dar a voce, mas aqui, leve este rifle por salvar minha casa.}
+{116}{}{Voce esta tentando me enganar, certo? Por favor nao brinque comigo. Volte e me deixe saber quando estiver realmente seguro pra voltar pra minha casa, voce entendeu?}
+{117}{}{Muito obrigado por me ajudar.}
+{118}{}{Grunk?}
+{119}{}{Olha, eu nao tenho tempo pra idiotas. Volte quando voce tiver smarts.}
+{120}{}{Uh Huh, Uh Huh, Uh Huh. Eu fazer.}
+{121}{}{Mim nao consertar ainda.}
+
+
+{300}{}{Encontre seu criador!}
+{301}{}{Peguem ele... morto!}
+{302}{}{Voce acabou de ter seu ultimo pao com queijo!}
+{303}{}{Eu perfurarei voce igual a um queijo suico!}

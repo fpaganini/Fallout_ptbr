@@ -1,0 +1,13 @@
+{100}{}{Voce ve um membro da gangue dos Skulz.}
+{101}{}{Ei! O que voce pensa que esta fazendo?!}
+{102}{}{Voce esta no territorio dos Skulz, estranho. Melhor voce sair.}
+{103}{}{Tem algumas tampinhas?}
+{104}{}{O que voce esta olhando?}
+{105}{}{Saia daqui.}
+{106}{}{Zzzzz}
+{107}{}{Cara, com certeza esta quente hoje.}
+{108}{}{Eu estou faminto.}
+{109}{}{Vamos fazer alguma coisa.}
+{110}{}{Por que nos nao rough someone up?}
+{111}{}{Eu quero ter um pouco de diversao.}
+{112}{}{Yawn . . .}

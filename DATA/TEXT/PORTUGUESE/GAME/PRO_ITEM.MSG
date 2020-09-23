@@ -1,0 +1,474 @@
+{100}{}{Armadura de Couro}
+{101}{}{Seu traje basico todo de couro. Finamente feita do couro curtido do brahmin.}
+{200}{}{Armadura de Metal}
+{201}{}{Placas de metal polidas, asperamente formando um traje de armadura.}
+{300}{}{Armadura Fortalecida}
+{301}{}{Um traje de armadura de tecnologia avancada auto-contida. Movida por um reator de micro-fusao, com combustivel o bastante para durar cem anos.}
+{400}{}{Faca}
+{401}{}{Uma arma de cortar e esfaquear com lamina afiada. Minimo de FORCA: 2.}
+{500}{}{Clava}
+{501}{}{Um bastao militar ou policial. Madeira pesada. Minimo de FORCA: 3.}
+{600}{}{Marreta}
+{601}{}{Um grande martelo com grande cabo. Muito popular com a turma muscular. Minimo de FORCA: 6.}
+{700}{}{Lanca}
+{701}{}{Uma arma longa com ponta em forma de lamina. O cabo e de madeira e a ponta e trabalhada em aco. Minimo de FORCA: 4.}
+{800}{}{Pistola 10mm}
+{801}{}{Uma pistola Colt 6520 10mm auto-carregante. Cada puxada do gatilho recarregara a arma de fogo ate que o carregador esteja vazio. Tiro unico apenas, usando a poderosa capsula de 10mm. Minimo de FORCA: 3.}
+{900}{}{SMG 10mm}
+{901}{}{Sub-metralhadora H&K MP9(Variante da 10mm). Uma SMG de tamanho medio, capaz de tiro unico e modo rajada. Minimo de FORCA: 4.}
+{1000}{}{Rifle de Caca}
+{1001}{}{Um rifle semi-automatico Colt Rangemaster de calibre .223. Tiro unico apenas. Minimo de FORCA: 5.}
+{1100}{}{Flamejador}
+{1101}{}{Um lanca-chama Flambe modelo 450, variacao do varmiter. Dispara um curto spray de liquido extremamente quente e inflamavel. Requer combustivel especializado para funcionar apropriadamente. Minimo de FORCA: 6.}
+{1200}{}{Minigun}
+{1201}{}{Uma minigun Rockwell CZ53 Personal. Uma arma em cadeia com multi-canos disparando municao de 5mm a aproximadamente 60,000 RPM. Minimo de FORCA: 7.}
+{1300}{}{Lancador de Foguetes}
+{1301}{}{Um lancador de foguetes Rockwell BigBazooka. Com o gatilho de 3 lb. deluxe. Dispara PA ou Foguetes Explosivos. Minimo de FORCA: 6.}
+{1400}{}{Foguete Explosivo}
+{1401}{}{Um foguete com uma grande ogiva explosiva.}
+{1500}{}{Rifle de Plasma}
+{1501}{}{Um Rifle de Plasma Winchester Modelo P94. Uma arma de energia de grade industrial, disparando raios de plasma super aquecidos por um barril super condutor. Movido por Celulas de Micro Fusao. Minimo de FORCA: 6.}
+{1600}{}{Pistola Laser}
+{1601}{}{Uma Pistola Laser Wattz 1000. Modelo civil, entao a voltagem e menor do que as versoes policiais ou militares. Usa pequenas celulas de energia. Minimo de FORCA: 3.}
+{1700}{}{Armadura de Combate}
+{1701}{}{Armadura de alta tecnologia feita de polimeros defensivos avancados.}
+{1800}{}{Desert Eagle .44}
+{1801}{}{Uma antiga pistola magnum Desert Eagle .44. Interesse nos filmes do final do seculo 20 tornaram esta uma das mais populares armas de mao de todos os tempos. Minimo de FORCA: 4.}
+{1900}{}{Rocha}
+{1901}{}{E uma rocha. O modelo Granito-Inc. e uma versao melhorada. Minimo de FORCA: 1.}
+{2000}{}{Pe de Cabra}
+{2001}{}{Um pedaco de metal muito solido e pesado, especialmente designado para exercer a acao de alavanca. Ou ferir cabecas. Minimo de FORCA: 5.}
+{2100}{}{Soco Ingles}
+{2101}{}{Punho de soco ingles endurecido que e realmente feito de aco. Eles protegem sua mao e fazem mais dano em combate desarmado. Minimo de FORCA: 1.}
+{2200}{}{Pistola 14mm}
+{2201}{}{Uma Pistola Automatica Sig-Sauer 14mm. Grande, arma de mao de tiro unico. Excelente craftmanship. Minimo de FORCA: 4.}
+{2300}{}{Rifle de Ataque}
+{2301}{}{Um Rifle de Ataque AK-112 5mm. Um velho modelo militar, fora de uso por volta do tempo da guerra. Pode disparar tiro unico ou rajada, usando as capsulas de alta velocidade de 5mm. Minimo de FORCA: 5.}
+{2400}{}{Pistola de Plasma}
+{2401}{}{Pistola de Plasma Glock 86. Desenhada pela Gaston Glock AI. Dispara um pequeno raio de plasma super aquecido. Movida por uma pequena celula de energia. Minimo de FORCA: 4.}
+{2500}{}{Granada (Fragmentacao)}
+{2501}{}{Uma granada de fragmentacao generica. Contem uma pequena quantia de altos explosivos, o recipiente em si formando a maioria dos fragmentos de dano. Explode no contato. Minimo de FORCA: 3.}
+{2600}{}{Granada (Plasma)}
+{2601}{}{Uma unidade de entrega de plasma selada magneticamente com explosivos detonantes. Cria uma explosao de plasma super aquecido no contato. Minimo de FORCA: 4.}
+{2700}{}{Granada (Pulso)}
+{2701}{}{Uma granada de pulso eletro-magnetico, gerando um intenso campo magnetico na detonacao. Nao afeta criaturas biologicas. Funde-se com o contato. Minimo de FORCA: 4.}
+{2800}{}{Laser Gatling}
+{2801}{}{Uma Laser Gatling H&K L30. Designada especificamente para uso militar, estas estavam no estagio prototipo no comeco da guerra. Multiplos canos permitem disparos mais longos antes de super aquecer. Movida por Celulas de Micro Fusao. Minimo de FORCA: 6.}
+{2900}{}{10mm JHP}
+{2901}{}{Municao. Calibre: 10mm, pontos-de-cavidade revestidos}
+{3000}{}{10mm AP}
+{3001}{}{Municao. Calibre: 10mm, penetrante de armadura.}
+{3100}{}{Magnum JHP .44}
+{3101}{}{Uma caixa de municao, calibre da magnum .44, pontos-de-cavidade.}
+{3200}{}{Combustivel de Lanca-Chamas}
+{3201}{}{Um cilindro contendo um combustivel liquido extremamente inflamavel para lanca-chamas.}
+{3300}{}{14mm PA}
+{3301}{}{Municao de grande calibre. 14mm penetrante de armadura.}
+{3400}{}{.223 FMJ}
+{3401}{}{Uma caixa de municao, calibre .223, Revestimento Completo de Metal.}
+{3500}{}{5mm JHP}
+{3501}{}{Uma caixa de municao de peso leve, pequena. Calibre: 5mm, ponto-de-cavidade revestido.}
+{3600}{}{5mm AP}
+{3601}{}{Uma caixa de municao de pequeno calibre. 5mm, penetrante de armadura.}
+{3700}{}{Foguete PA}
+{3701}{}{Um casco de foguete, com um explosivo mais pequeno, mas designada para penetrar o revestimento da armadura.}
+{3800}{}{Pequena Celula de Energia}
+{3801}{}{Uma pequena, auto-contida unidade de armazenamento de energia.}
+{3900}{}{Celula de Micro Fusao}
+{3901}{}{Uma unidade de producao de energia de tamanho medio. Usina de fusao auto-contida.}
+{4000}{}{Stimpak}
+{4001}{}{Um chem de cura. Quando injetado, o chem fornece cura imediata de pequenos ferimentos.}
+{4100}{}{Tampinhas de Garrafa}
+{4101}{}{Este saco segura suas tampinhas de garrafa.}
+{4200}{}{Geladeira}
+{4201}{}{Um refrigerador. Sem o liquido refrigerador.}
+{4300}{}{Bau de Gelo}
+{4301}{}{Um bau de gelo em estilo-antigo. As dobradicas estao em boa condicao de funcionamento.}
+{4400}{}{Bau de Gelo}
+{4401}{}{Um bau de gelo em estilo-antigo. As dobradicas estao em boa condicao de funcionamento.}
+{4500}{}{Faca de Arremesso}
+{4501}{}{Uma faca, balanceada especificamente para arremesso. Feita de titanio e afiada com laser. Minimo de FORCA: 3.}
+{4600}{}{Saco}
+{4601}{}{Um saco de tamanho medio. Feito de pelos de brahmin trancados.}
+{4700}{}{Kit de Primeiros Socorros}
+{4701}{}{Um pequeno kit recipiente de equipamento medico basico. Bandagens, gaze para enrolar, spray, anti-septico e mais.}
+{4800}{}{RadAway}
+{4801}{}{Uma solucao quimica que se liga com as particulas da radiacao e transpoe elas atraves do seu sistema. Leva tempo pra funcionar.}
+{4900}{}{Antidoto}
+{4901}{}{Um garrafa contendo um antidoto feito em casa para veneno. Um liquido leitoso com pedacos flutuantes de carne de radscorpion.}
+{5000}{}{Item Reservado}
+{5001}{}{Este e um item reservado. NÃO USE.}
+{5100}{}{Dinamite}
+{5101}{}{Um explosivo forte, consistindo de nitroglicerina misturada com a substancia absorvente kiselguhr. Inclui um timer.}
+{5200}{}{Contador Geiger}
+{5201}{}{Um Contador Geiger da Wattz Electronics modelo C-Radz. Detecta a presenca e forca dos campos da radiacao.}
+{5300}{}{Mentats}
+{5301}{}{Uma caixa de pilulas chem alteradoras da mente. Aumenta as funcoes relacionadas a memoria e acelera outros processos mentais. Altamente viciante.}
+{5400}{}{Garoto Disfarce}
+{5401}{}{Um dispositivo RobCo Garoto Disfarce 3001 dispositovo de disfarce pessoal. Gera um campo modulante que transmite a luz refletida de um lado de um objeto para o outro.}
+{5500}{}{Chip de Água}
+{5501}{}{Um chip do sistema de computadores de controle da purificacao da agua. Parece surpreendentemente com o chip que sua Vault precisa.}
+{5600}{}{Plaquetas de Identificacao}
+{5601}{}{Um conjunto de plaquetas de identificacao militares. O nome Darkwater esta legivel mas nao muito mais esta.}
+{5700}{}{Microfone Miniatura}
+{5701}{}{Um microfone miniatura e dispositivo de transmissao.}
+{5800}{}{Fita}
+{5801}{}{Uma fita holodisco da Wattz Electronics. Esta fita em particular parece estar em condicao muito pobre.}
+{5900}{}{Sensor de Movimento}
+{5901}{}{Um sensor de movimento da Wattz Electronics modelo C-U. Detecta o movimento de material biologico a uma distancia de metros usando um dispositivo de radar ajustado.}
+{6000}{}{Estante para Livros}
+{6001}{}{Uma estante para livros de madeira}
+{6100}{}{Estante para Livros}
+{6101}{}{Uma estante para livros de madeira}
+{6200}{}{Estante para Livros}
+{6201}{}{Uma estante para livros de madeira}
+{6300}{}{Estante para Livros}
+{6301}{}{Uma estante para livros de madeira}
+{6400}{}{Estante para Livros}
+{6401}{}{Uma estante para livros de madeira}
+{6500}{}{Estante para Livros}
+{6501}{}{Uma estante para livros de madeira}
+{6600}{}{Escrivaninha}
+{6601}{}{Uma escrivaninha de madeira.}
+{6700}{}{Escrivaninha}
+{6701}{}{Uma escrivaninha de madeira.}
+{6800}{}{Penteadeira}
+{6801}{}{Uma penteadeira de madeira.}
+{6900}{}{Penteadeira}
+{6901}{}{Uma penteadeira de madeira.}
+{7000}{}{Penteadeira}
+{7001}{}{Uma penteadeira de madeira.}
+{7100}{}{Fruta}
+{7101}{}{Um estranho pedaco de fruta. Sem conservantes e nenhum colorimento adicional na comida adicionados.}
+{7200}{}{Pasta}
+{7201}{}{Uma pasta, com um rotulo Made-in-the-USA. Couro. Condicao boa, mas a tranca da combinacao esta quebrada.}
+{7300}{}{Grande Livro da Ciencia}
+{7301}{}{Um conjunto de livros, contendo informacao sobre diferentes campos cientificos.}
+{7400}{}{Jaqueta de Couro}
+{7401}{}{Uma jaqueta de couro pesada e preta.}
+{7500}{}{Ferramenta}
+{7501}{}{Um super conjunto de ferramentas, contendo varias ferramentas uteis.}
+{7600}{}{Eletronicos Deans}
+{7601}{}{Um livro de estudo no campo dos eletronicos. Uma nota na capa diz que e para o "jovem eletricista emergente em todo mundo!"}
+{7700}{}{Gazua Eletronica}
+{7701}{}{Uma gazua eletronica da Wattz Electronics Micromanipulator FingerStuff. Para derrotar trancas eletronicas e dispositivos de seguranca.}
+{7800}{}{Pintura Desfocada}
+{7801}{}{Uma imagem de um cantor. Obviamente muito antiga. A imagem tem uma camada de feltro que ainda esta em boa condicao.}
+{7900}{}{Sinal Luminoso}
+{7901}{}{Um sinal luminoso. Cria luz por um curto periodo de tempo. O papel esta um pouco usado, mas de outro modo esta em boa condicao. Torca o topo para ativa-lo.}
+{8000}{}{Livro de Primeiros Socorros}
+{8001}{}{Um livro de estudo sobre os conceitos e uso pratico das tecnicas de primeiros socorros.}
+{8100}{}{Iguana-no-espeto}
+{8101}{}{Uma iguana cozinhada, assada na sua propria pele.}
+{8200}{}{Chave}
+{8201}{}{Uma chave. Uma chave abrira um tranca particular.}
+{8300}{}{Conjunto de Chaves}
+{8301}{}{Multiplas chaves.}
+{8400}{}{Gazuas}
+{8401}{}{Um conjunto de ferramentas de serralheiro. Inclui todos os picoes necessarios e chaves de tensao para abrir trancas de fechaduras e pinos convencionais.}
+{8500}{}{Explosivos Plasticos}
+{8501}{}{Um chunk de Cordex, uma marca milita de explosivos plasticos. Altamente estaveis, muito destrutivos. Inclui um timer.}
+{8600}{}{Manual do Escoteiro}
+{8601}{}{Um livro sobre os metodos e ideais do escotismo. Informacao muito pratica a respeito da vida fora de casa.}
+{8700}{}{Buffout}
+{8701}{}{Esteroides altamente avancados. Enquanto em efeito, eles aumentam a forca e os reflexos. Muito viciante.}
+{8800}{}{Relogio de Pulso}
+{8801}{}{Um relogio de pulso caro. Nao funciona realmente, mas ainda parece bacana.}
+{8900}{}{Motor}
+{8901}{}{Um motor eletrico de 40-hps.}
+{9000}{}{Mochila}
+{9001}{}{Uma mochila bascio, com correias para carregar opcionais.}
+{9100}{}{Sacola do Doutor}
+{9101}{}{Esta sacola preta contem instrumentos e chems usados pelos doutores na aplicacao do seu oficio.}
+{9200}{}{Cauda de Escorpiao}
+{9201}{}{A cauda cortada de um radscorpion.}
+{9300}{}{Sacola}
+{9301}{}{Uma sacola de tamanho medio. Feita de pelos de brahmin tracados.}
+{9400}{}{Espingarda}
+{9401}{}{Uma espingarda Winchester Widowmaker de cano duplo calibre 12. Cano curto, com cabo de mogno. Minimo de FORCA: 4.}
+{9500}{}{Capsulas de Espingarda Calibre 12}
+{9501}{}{Municao de espingarda. Nesta municao em particular esta marcado: "capsulas de calibre 12, nao para o uso de criancas com idade inferior a 3."}
+{9600}{}{Chave de Passe Vermelha}
+{9601}{}{Uma chave de seguranca eletronica, codificada com a cor vermelha.}
+{9700}{}{Chave de Passe Azul}
+{9701}{}{Uma chave de seguranca eletronica, codificada com a cor azul.}
+{9800}{}{Lixo}
+{9801}{}{Uma pilha de partes de lixo. Um pouco de tudo.}
+{9900}{}{Medalhao de Ouro}
+{9901}{}{Um valioso medalhao de ouro.}
+{10000}{}{Radio}
+{10001}{}{Um radio comunicador modelo 2043B, das pessoas boas da Wattz Electronics. De confianca, maltratado pelo tempo e camuflado. Com a interface opcional RS-121.}
+{10100}{}{Isqueiro}
+{10101}{}{Um isqueiro prata com butano, em boa condicao.}
+{10200}{}{Armas e Balas}
+{10201}{}{Um pasquim sobre armas. Uma revista devotada ao uso pratico de armas de fogo e a analise ocasional tendenciosa.}
+{10300}{}{Iguana-no-espeto}
+{10301}{}{Um pouco de carne chamuscada e vegetais num espeto para cozimento.}
+{10400}{}{Gravador de Fita}
+{10401}{}{Um gravador de fita Toque-Para-Mim da Wattz Electronics. Toca e grava as fitas padrao de 30 minutos de alta densidade Grave-Uma-Vez.}
+{10500}{}{Chave}
+{10501}{}{Uma chave especial de algum tipo.}
+{10600}{}{Nuka-Cola}
+{10601}{}{Uma garrafa de Nuka-Cola, a bebida leve saborosa do mundo pos-nuclear. Quente e sem gas.}
+{10700}{}{Ossos}
+{10701}{}{Uma colecao de ossos estranhos.}
+{10800}{}{Ossos}
+{10801}{}{Uma colecao de ossos estranhos.}
+{10900}{}{Rad-X}
+{10901}{}{Chems anti-radiacao para serem tomados antes da exposicao. Nao ha efeitos colaterais conhecidos.}
+{11000}{}{Psycho}
+{11001}{}{Um sistema de entrega unico com quimicos estranhos e desconhecidos de origem provavelmente militar. E esperado que aumente o potencial de combate de um soldado.}
+{11100}{}{Magnum FMJ .44}
+{11101}{}{Uma caixa de municao, .44 calibre da magnum, revestimento completo de metal.}
+{11200}{}{Urna}
+{11201}{}{Uma bela urna dourada com o nome "Harriet" inscrito na frente e cinzas dentro.}
+{11300}{}{Mantos}
+{11301}{}{Mantos das Criancas da Catedral.}
+{11400}{}{Mao do Tangler}
+{11401}{}{Um manipulador cibernetico, no contorno e forma de uma mao. Estragado devido a natureza malfeita do processo de remocao.}
+{11500}{}{Super Marreta}
+{11501}{}{Uma super marreta, fabricada pela Irmandade do Aco usando as melhores tecnologias para armas disponiveis. Inclui um dispositivo de armazenagem de energia cinetica para aumentar o ricochete. Minimo de FORCA: 5.}
+{11600}{}{Ripper}
+{11601}{}{Um vibroblade Ripper(tm). Movida por uma pequena celula de energia, a espada em cadeias rasga e corta o seu alvo. Minimo de FORCA: 4.}
+{11700}{}{Flor}
+{11701}{}{Uma linda flor.}
+{11800}{}{Rifle Laser}
+{11801}{}{Um Rifle Laser Wattz 2000. Usa celulas de micro fusao para lasers mais poderosos e um cano extendido para alcance adicional. Minimo de FORCA: 6.}
+{11900}{}{Colar}
+{11901}{}{Um colar de aparencia cara feito de prata, ouro e diamantes comprimidos.}
+{12000}{}{Alien Blaster}
+{12001}{}{Uma estranha arma de origem obviamente alienigena. Todavia, parece que consegue suportar pequenas celulas de energia. Minimo de FORCA: 2.}
+{12100}{}{bola de 9mm}
+{12101}{}{Uma colecao de antigas capsulas de 9x19mm. Graxa espessa para preserva-las do ambiente. Balas padrao.}
+{12200}{}{Mauser 9mm}
+{12201}{}{Uma Mauser M/96, em 9x19mm Parabellum. Em condicao excelente. Extremamente precisa. Minimo de FORCA: 3.}
+{12300}{}{Anulador Psiquico}
+{12301}{}{Um dispositivo estranho, construido de uma tecnologia estranha.}
+{12400}{}{Cerveja}
+{12401}{}{Algum tipo de cerveja feita em casa.}
+{12500}{}{Bebida}
+{12501}{}{Um licor antigo, da era pre-Guerra.}
+{12600}{}{Frasco de Água}
+{12601}{}{Um recipiente para a contencao e preservacao de agua ou outros liquidos.}
+{12700}{}{Corda}
+{12701}{}{Uma linha grossa, forte. Aproximadamente 45 pes de comprimento.}
+{12800}{}{Armario de Pe de Cama}
+{12801}{}{Seu armario de pe de cama basico. Guarda coisas, fica no pe da cama, pode ser trancado.}
+{12900}{}{Armario de Pe de Cama}
+{12901}{}{Seu armario de pe de cama basico. Guarda coisas, fica no pe da cama, pode ser trancado.}
+{13000}{}{Armario de Pe de Cama}
+{13001}{}{Seu armario de pe de cama basico. Guarda coisas, fica no pe da cama, pode ser trancado.}
+{13100}{}{Armario de Pe de Cama}
+{13101}{}{Seu armario de pe de cama basico. Guarda coisas, fica no pe da cama, pode ser trancado.}
+{13200}{}{Armario}
+{13201}{}{Um recipiente para armazenagem.}
+{13300}{}{Armario}
+{13301}{}{Um recipiente para armazenagem.}
+{13400}{}{Armario}
+{13401}{}{Um recipiente para armazenagem.}
+{13500}{}{Armario}
+{13501}{}{Um recipiente para armazenagem.}
+{13600}{}{Armario}
+{13601}{}{Um recipiente para armazenagem.}
+{13700}{}{Armario}
+{13701}{}{Um recipiente para armazenagem.}
+{13800}{}{Armario}
+{13801}{}{Um recipiente para armazenagem.}
+{13900}{}{Armario}
+{13901}{}{Um recipiente para armazenagem.}
+{14000}{}{Cartao de Acesso}
+{14001}{}{Um cartao de acesso da seguranca. Ainda em condicao de funcionamento.}
+{14100}{}{Emblema COC}
+{14101}{}{Um emblema na forma do simbolo das Criancas da Catedral. Em um lado voce nota batidas e marcas de dente, quase lembrando voce de uma chave.}
+{14200}{}{Emblema COC}
+{14201}{}{Um emblema na forma do simbolo das Criancas da Catedral. Em um lado voce nota batidas e marcas de dente, quase lembrando voce de uma chave.}
+{14300}{}{Rifle de Sniper}
+{14301}{}{Um Rifle de Sniper DKS-501. Excelente arma de projetil de longo alcance. Originalmente .308, este rifle esta modificado para o mais comum calibre .223. Minimo de FORCA: 5.}
+{14400}{}{Super Stimpak}
+{14401}{}{Um chem de cura avancado. Muito poderoso. Superstims causarao uma pequena quantia de dano apos um periodo de tempo devido a poderosa natureza dos quimicos usados.}
+{14500}{}{Estante para Livros}
+{14501}{}{Uma estante para livros de madeira}
+{14600}{}{Estante para Livros}
+{14601}{}{Uma estante para livros de madeira}
+{14700}{}{Estante para Livros}
+{14701}{}{Uma estante para livros de madeira}
+{14800}{}{Estante para Livros}
+{14801}{}{Uma estante para livros de madeira}
+{14900}{}{Estante para Livros}
+{14901}{}{Uma estante para livros de madeira}
+{15000}{}{Estante para Livros}
+{15001}{}{Uma estante para livros de madeira}
+{15100}{}{Estantes}
+{15101}{}{Um conjunto de estantes de madeira.}
+{15200}{}{Estantes}
+{15201}{}{Um conjunto de estantes de madeira.}
+{15300}{}{Estantes}
+{15301}{}{Um conjunto de estantes de madeira.}
+{15400}{}{Estantes}
+{15401}{}{Um conjunto de estantes de madeira.}
+{15500}{}{Estantes}
+{15501}{}{Um conjunto de estantes de madeira.}
+{15600}{}{Estantes}
+{15601}{}{Um conjunto de estantes de madeira.}
+{15700}{}{Banca de Trabalho}
+{15701}{}{Um banca de trabalho. Sim, sua velha, ordinaria banca de trabalho padrao. Tambem parece bacana assentado la.}
+{15800}{}{Quadro de Ferramentas}
+{15801}{}{Este quadro segura uma variedade de ferramentas acima da banca de trabalho popular.}
+{15900}{}{Coquetel Molotov}
+{15901}{}{Uma granada inflamavel feita em casa. Minimo de FORCA: 3.}
+{16000}{}{Aguilhao de Rebanho}
+{16001}{}{Um aguilhao de rebanho modelo Melhor Amigo do Fazendeiro da Wattz Electronics. Usa pequenas celulas de energia para a forca. Minimo de FORCA: 4.}
+{16100}{}{Arma Red Ryder BB}
+{16101}{}{Uma arma Red Ryder BB. A classica. Minimo de FORCA: 3.}
+{16200}{}{Arma Red Ryder LE BB}
+{16201}{}{Uma versao da edicao limitada da arma Red Ryder BB. Uma verdadeira classica. Minimo de FORCA: 3.}
+{16300}{}{BB's}
+{16301}{}{Um pacote de BBs de antes da guerra. Em excelente condicao. Aco inoxidavel.}
+{16400}{}{Fita da Irmandade}
+{16401}{}{Um holodisco a respeito da Irmandade do Aco.}
+{16500}{}{Barraca da Iguana}
+{16501}{}{O lar dos Pedacos da Iguana do Bob. O que nao ha para amar a respeito de iguana fresca e assada?}
+{16600}{}{Mesa}
+{16601}{}{Uma mesa generica. Mantem as coisas fora do chao.}
+{16700}{}{Mesa}
+{16701}{}{Uma mesa generica. Mantem as coisas fora do chao.}
+{16800}{}{Coisas}
+{16801}{}{Estes sao itens mistos, tambem conhecidos como "coisas".}
+{16900}{}{Coisas}
+{16901}{}{Estes sao itens mistos, tambem conhecidos como "coisas".}
+{17000}{}{Coisas}
+{17001}{}{Estes sao itens mistos, tambem conhecidos como "coisas".}
+{17100}{}{Coisas}
+{17101}{}{Estes sao itens mistos, tambem conhecidos como "coisas".}
+{17200}{}{Coisas}
+{17201}{}{Estes sao itens mistos, tambem conhecidos como "coisas".}
+{17300}{}{Coisas}
+{17301}{}{Estes sao itens mistos, tambem conhecidos como "coisas".}
+{17400}{}{Coisas}
+{17401}{}{Estes sao itens mistos, tambem conhecidos como "coisas".}
+{17500}{}{Coisas}
+{17501}{}{Estes sao itens mistos, tambem conhecidos como "coisas".}
+{17600}{}{Coisas}
+{17601}{}{Estes sao itens mistos, tambem conhecidos como "coisas".}
+{17700}{}{Coisas}
+{17701}{}{Estes sao itens mistos, tambem conhecidos como "coisas".}
+{17800}{}{Coisas}
+{17801}{}{Estes sao itens mistos, tambem conhecidos como "coisas".}
+{17900}{}{Coisas}
+{17901}{}{Estes sao itens mistos, tambem conhecidos como "coisas".}
+{18000}{}{Caixote}
+{18001}{}{Um caixote de madeira preenchido com coisas genericas.}
+{18100}{}{Escrivaninha}
+{18101}{}{Uma escrivaninha generica. Viu uma escrivaninha, voce viu todas elas.}
+{18200}{}{Escrivaninha}
+{18201}{}{Uma escrivaninha generica.}
+{18300}{}{Escrivaninha}
+{18301}{}{Uma escrivaninha generica.}
+{18400}{}{Escrivaninha}
+{18401}{}{Uma escrivaninha generica.}
+{18500}{}{Escrivaninha}
+{18501}{}{Uma escrivaninha generica.}
+{18600}{}{Escrivaninha}
+{18601}{}{Uma escrivaninha generica.}
+{18700}{}{Escrivaninha}
+{18701}{}{Uma escrivaninha generica.}
+{18800}{}{Armario}
+{18801}{}{Um armario.}
+{18900}{}{Armario}
+{18901}{}{Um armario.}
+{19000}{}{Disco do VEF}
+{19001}{}{Uma holofita contendo informacao medica. Pode ser usada para inserir informacao no seu PIPBoy.}
+{19100}{}{Disco da Seguranca}
+{19101}{}{Uma holofita com a escrita "Registro da Seguranca" no rotulo. Voce pode usa-la para transferir os dados que ela contem para o seu PIPBoy.}
+{19200}{}{Disco do Experimento Alfa}
+{19201}{}{O rotulo nesta holofita diz: "Registro do Experimento Alfa"}
+{19300}{}{Disco do Experimento Delta}
+{19301}{}{O rotulo nesta holofita diz: "Registro do Experimento Delta"}
+{19400}{}{Disco do Experimento da Vree}
+{19401}{}{Esta holofita foi atualizada com evidencia medica da Vree da Irmandade do Aco. Ela pode usada para transferir os dados para o seu PIPBoy.}
+{19500}{}{Codigo de Honra da Irmandade}
+{19501}{}{Um holofita com um simbolo aspero da Irmandade do Aco inscrito nela. Use a fita para transferir os dados para o seu PIPBoy.}
+{19600}{}{Transmissoes Mutantes}
+{19601}{}{Esta holofita parece que foi designada para gravar dados de audio de um radio. Use a fita para transferir a informacao para o seu PIPBoy.}
+{19700}{}{Caixa}
+{19800}{}{Caixa}
+{19900}{}{Caixa}
+{20000}{}{Caixa}
+{20100}{}{Caixa}
+{20200}{}{Caixa}
+{20300}{}{Caixa}
+{20400}{}{Caixa}
+{20500}{}{Sinal Luminoso}
+{20501}{}{Um sinal luminoso. Cria luz por um curto periodo de tempo. O papel esta um pouco gasto, mas de outro modo esta em boa condicao. Ele esta aceso.}
+{20600}{}{Dinamite}
+{20601}{}{Um explosivo forte, consistindo de nitroglicerina misturado com a substancia absorvente kiselguhr. Inclui um timer, o qual esta ticking.}
+{20700}{}{Contador Geiger}
+{20701}{}{Um Contador Geiger da Wattz Electronics modelo C-Radz. Detecta a presenca e forca dos campos da radiacao. Esta ligado.}
+{20800}{}{Sensor de Movimento}
+{20801}{}{Um sensor de movimento da Wattz Electronics modelo C-U. Detecta a movimentacao de material biologico a um distancia de metros usando um dispositivo rader ajustado. Esta ligado.}
+{20900}{}{Explosivos Plasticos}
+{20901}{}{Um chunk de Cordex, uma marca militar de explosivos plasticos. Altamente estaveis, muito destrutivos. Inclui um timer, o qual esta ticking.}
+{21000}{}{Garoto Disfarce}
+{21001}{}{Um dispositivo RobCo Garoto Disfarce 3001 dispositivo de disfarce pessoal. Gera um campo modulante que transmite a luz refletida de um lado de um objeto para o outro.}
+{21100}{}{Ossos}
+{21101}{}{Voce ve o Ed. Ed esta morto.}
+{21200}{}{Tandi}
+{21201}{}{Voce esta permutando pela libertacao da Tandi.}
+{21300}{}{Restos do Gizmo}
+{21301}{}{Gizmo, chefe do crime formal de Junktown esta morto. E bastante fedido tambem.}
+{21400}{}{Escrivaninha}
+{21401}{}{Uma escrivaninha. Apos observacao adicional, voce decide que ainda e uma escrivaninha.}
+{21500}{}{Historia da Irmandade}
+{21501}{}{Uma holofita contendo informacao relacionada a Irmandade do Aco. Pode ser usada para inserir informacao no seu PIPBoy 2000.}
+{21600}{}{Historia do Maxson}
+{21700}{}{Jornal do Maxson}
+{21800}{}{Cura Leve}
+{21801}{}{Permute por esta opcao se voce quer cura leve.}
+{21900}{}{Cura Media}
+{21901}{}{Permute por esta opcao se voce quer cura media.}
+{22000}{}{Cura Pesada}
+{22001}{}{Permute por esta opcao se voce quer muitos cuidados e cura pesada.}
+{22100}{}{Cartao de Seguranca}
+{22101}{}{Um cartao com um nivel de seguranca codificado dentro dos seus eletronicos muito simples.}
+{22200}{}{Interruptor de Campo}
+{22201}{}{Um dispositivo de trasmissao eletronica com um botao de ativacao muito simples e grande. Parece que foi feito recentemente e desenhado para maos muito grandes.}
+{22300}{}{Chave de Passe Amarela}
+{22301}{}{Uma chave de seguranca eletronica, codificada com a cor amarela.}
+{22400}{}{Estatueta Pequena}
+{22401}{}{Voce pensa que esta poderia ser uma escultura do "Pip Boy" mas voce nao consegue ter certeza.}
+{22500}{}{Voce Nao Tem Ideia}
+{22501}{}{Conforme inspecao adicional, voce ainda nao tem ideia do que isto e.}
+{22600}{}{Caixa de Noodles}
+{22601}{}{Voce nao tem ideia do que "Espaguete Instantaneo" significa.}
+{22700}{}{Pequena Caixa Empoeirada de Algum Tipo}
+{22701}{}{Um jantar congelado. Voce nao tem certeza, mas e definitivamente nao comestivel. Voce nao esta bem certo(a) se alguma vez foi.}
+{22800}{}{Manual Tecnico}
+{22801}{}{Um manual tecnica de reparo da Power Armor T-51b.}
+{22900}{}{Pequeno Pedaco de Maquinaria}
+{22901}{}{Voce ve um Motivador Sistolico. Esta pedaco incomum de maquinaria e muito pequeno.}
+{23000}{}{Registros da Vault}
+{23001}{}{Um compendio de eventos e gravacoes importantes de um sistema de computadores da Vault. Possivelmente estragado.}
+{23100}{}{Codigo de Seguranca da Base Militar}
+{23101}{}{ }
+{23200}{}{Power Armor Fortalecida}
+{23201}{}{Um traje de Power Armor T-51b. O processo de fortalecimento melhorou a capacidade defensiva deste sistema de armadura de alta tecnologia.}
+{23300}{}{Rifle de Plasma Turbo}
+{23301}{}{Um rifle de plasma modificado Winchester P94. A camara do raio de plasma foi anexada para acelerar o processo de formacao do raio. Minimo de FORCA: 6.}
+{23400}{}{Soco Ingle com Pontas}
+{23401}{}{Uma versao melhorada do classico. O soco ingles com pontas faz mais dano, cortando na carne do(a) seu/sua oponente em combate desarmado. Minimo de FORCA: 1.}
+{23500}{}{Punho de Forca}
+{23501}{}{Um Punho de Forca "Big Frigger" da BeatCo. Considerada por muitos ser a arma suprema a usar em combate desarmado. Movida por pequenas celulas de energia. Minimo de FORCA: 1.}
+{23600}{}{Faca de Combate}
+{23601}{}{Uma faca de combate de alta qualidade, a Stallona e da SharpWit, Inc. O gume desta lamina e afiado com garantia de uma decada de uso!  Minimo de FORCA: 2.}
+{23700}{}{Jornais de Quimica}
+{23701}{}{Uma pilha aleatoria de literatura a respeito do campo da Quimica. Os papeis sobre Quimica Molecular sao particularmente interessantes.}
+{23800}{}{Transmissao dos Regulores}
+{23801}{}{Uma gravacao em holofita de uma transmissao de audio.}
+{23900}{}{Armadura da Irmandade}
+{23901}{}{Uma versao superior da Armadura de Combate. A Irmandade do Aco fez muitos melhoramentos sobre a versao padrao.}
+{24000}{}{Armadura Tesla}
+{24001}{}{Esta armadura brilhante fornece protecao superior contra ataques de energia. As tres varinhas com espirais de atracao Tesla dispersam uma grande porcentagem dos ataques direcionados de energia.}
+{24100}{}{Pistola .223}
+{24101}{}{Um rifle .223 modificado e cortado para um pistola. Esta e uma arma de fogo de um tipo unico, obviamente feita com amor e tecnica. Minimo de FORCA: 5.}
+{24200}{}{Espingarda de Combate}
+{24201}{}{Uma espingarda de combate calibre 12 Winchester City-Killer, variante com a cartucheira atras do gatilho. Em excelente condicao, ela tem a modificacao seladora ambiental DesertWarfare para confiabilidade extra. Minimo de FORCA: 5.}

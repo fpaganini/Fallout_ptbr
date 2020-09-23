@@ -1,0 +1,44 @@
+{100}{}{Voce ve um tecnico das Criancas da Catedral.}
+{101}{}{Largue suas armas e os Nightkin deixarao voce viver.}
+{102}{}{Junte-se a nos, nao nos enfrente.}
+{103}{}{Voce se tornara um com a Unidade!}
+{104}{}{Nightkin, levem este tolo prisoneiro. Nosso Mestre ficara agraciado.}
+{105}{}{Por favor nao me mae. Eu so trabalho aqui.}
+{106}{}{Voce nao mataria um homem desarmado, mataria? Mataria?!}
+{107}{}{Eu me rendo!}
+{108}{}{Voce nao tem o direito de estar aqui. O que voce quer?}
+{109}{}{Hne.}
+{110}{}{Quem e voce?}
+{111}{}{Seus caes doentes! Eu me cansei das suas vidas!}
+{112}{}{O que e este lugar?}
+{113}{}{Agora voce esta proximo de se transformar em um Nightkin. Eu espero
+ que o mergulho nao danifique mais sua inteligencia.}
+{114}{}{Eu sou parte da Unidade. Eu sou um glorioso servo do nosso Mestre.
+ Eu serei aquele que vera voce se tornar parte da Unidade.}
+{115}{}{Voce descobrira em breve.}
+{116}{}{Este e o lugar de nascimento da raca superior! Este e o utero do qual os
+ exercitos de deus atacarao! Da carne dos fracos vem a proxima raca do homem.
+ Aqueles que sobreviverem ao mergulho se tornarao os soldados de deus, e
+ com as maos deles nos moldaremos a Unidade.}
+{117}{}{Voce e maluco! Voce e simplesmente louco! Morra!}
+{118}{}{Como funciona?}
+{119}{}{Voce sera preso as correntes sagradas. Nos baixaremos voce em um tanque
+ do sangue de deus, o mais santo dos santos. o VEF moldara e mudara voce. Voce
+ sera forte. Voce se tornara um Nightkin se voce for feliz e valoroso da honra,
+ senao voce morrera a morte mais dolorosa possivel. Em breve, eu serei honrado.
+ Eu me tornarei forte. Entao eu nao temerei nenhum homem
+{120}{}{Voce esteve perto dos Nightkin por muito tempo. Adeus.}
+{121}{}{Por que voce esta me dizendo isto?}
+{122}{}{De onde voce conseguiu o VEF?}
+{123}{}{Voce so saira daqui como parte da Unidade, ou uma alma perdida no Inferno!
+ [pausa] Alem disso, eu me sento aqui com um bando de convertidos. Me faz sentir
+ bem tirar isto do meu peito.}
+{124}{}{De onde voce conseguiu o VEF?}
+{125}{}{Voce matou a mao direita de deus. O Mestre ficara muito aborrecido. Agora,
+ veio a hora para nos nos juntarmos a Chama Sagrada!}
+{126}{}{Voce matou o Mestre. A morte da Unidade e sua culpa. Voce causou a morte
+ da raca humana. Eu espero que voce se sinta bem a respeito de si mesmo.}
+{127}{}{Hnnn.}
+{128}{}{Por uma questao de fato, eu me sinto.}
+{129}{}{Voce se juntara a ele em um momento. Reze pra qualquer deus que tomou o lugar dele.}
+{130}{}{Eu vou me juntar a ele agora, na Chama Sagrada!}

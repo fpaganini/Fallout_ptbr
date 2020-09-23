@@ -1,0 +1,85 @@
+{100}{}{Voce ve um guarda das Criancas.}
+{101}{}{Phillips! Vamos levar este cara pra fora!}
+{102}{}{Saia da minha frente!}
+{103}{}{O que voce quer?}
+{104}{}{Me fale a respeito do seu trabalho.}
+{105}{}{Para o que e este lugar?}
+{106}{}{Voce nao saberia aonde eu posso achar um Chip de Agua?}
+{107}{}{O que voce pode me dizer sobre um homem chamado Decker?}
+{108}{}{Arma bacana a que voce tem ai…}
+{109}{}{Uh… Leite.}
+{110}{}{Eu sou uma mao contratada. Se alguem aborrece estes cadetes do espaco, eu mato eles. Voce tem um problema com isso?}
+{111}{}{Entao voce e um guarda-costas…}
+{112}{}{Quem contratou voce?}
+{113}{}{Algo interessante acontecendo no Hub?}
+{114}{}{O que voce esta fazendo?}
+{115}{}{Sim. Um grande problema.}
+{116}{}{Sem problema, amigo.}
+{117}{}{Alguma coisa chamada a Chama Sagrada. Nao escute esta merda, ela apodrecera seu cerebro!}
+{118}{}{Qual e o seu palpite sobre esta Chama Sagrada?}
+{119}{}{Cara, estas pessoas sao estupidas!}
+{120}{}{Algo interessante acontecendo no Hub?}
+{121}{}{De onde estes caras vieram?}
+{122}{}{Chip de Agua? Voce quer dizer como chips de gelo? No alto das montanhas, talvez.}
+{123}{}{Nao, eu quero dizer o chip de computador para controlar um sistema de purificacao de Agua.}
+{124}{}{Nao esse tipo de chip, seu retardado!}
+{125}{}{Uh, obrigado. Eu acho.}
+{126}{}{Voce ja esteve alguma vez nas montanhas?}
+{127}{}{Sim, eu ouvi sobre ele. Ele e um verdadeiro bastardo, mas ele paga as contas dele. O Phillips trabalhou
+ pra ele algumas vezes.}
+{128}{}{Entao voce acha que ele e um creep?}
+{129}{}{Phillips?}
+{130}{}{Voce aceitaria um trabalho dele?}
+{131}{}{Obrigado!}
+{132}{}{Sim, este e o unico que eu iria querer em uma luta no fogo. O que eu posso fazer por voce?}
+{133}{}{Aonde um cara pode ir aqui para obter algumas armas de qualidade?}
+{134}{}{O que e que ha com aqueles caras da Catedral?}
+{135}{}{Aonde um cara pode ir para achar acao por aqui?}
+{136}{}{Voce nao saberia me dizer aonde eu posso achar um Chip de Agua?}
+{137}{}{O que voce pode me dizer sobre um homem chamado Decker??}
+{138}{}{Lamento amigo, mas eu estou no dever. Sem conversa pequena.}
+{139}{}{Saia da minha frente antes que eu mate voce.}
+{140}{}{E isso ai, Cientista de Foguetes! Quem mais eu poderia ser, Doutor Morbid? Puxa!}
+{141}{}{A sacerdotisa piranha. Quem mais voce achava? Puxa!}
+{142}{}{Eu odeio admitir amigo, mas eu estive fora do loop por semanas. Melhor voce perguntar pra outra pessoa.}
+{143}{}{Sala e quadro e nao muito mais. Estes tipos religiosos sao baratos!}
+{144}{}{Entao vamos resolve-lo!}
+{145}{}{Bom. Porque ninguem gosta de um problema por aqui.}
+{146}{}{Tem que ser um scam. Ninguem e realmente burro o bastante pra acreditar em toda esta merda religiosa. Seriam?}
+{147}{}{Sim. E uma coisa boa que eles nao estao me pagando pra concordar com eles. Chama Sagrada o meu rabo!}
+{148}{}{Eu dunno. Eu posso dizer uma coisa a voce, o que quer que seja voce possa dizer sobre a religiao, eles nao sao
+ amadores. Eles entrarame e organizaram este lugar como clockwork. Este nao e apenas outro bando de zumbis sem mentes.}
+{149}{}{Puxa, Eu pensava que so as Vaults usavam esse tipo de bosta!}
+{150}{}{Tome cuidado com sua boca, cuzao. Estas pessoas podem acreditar em paz e amor, mas eu nao!}
+{151}{}{Sem problema.}
+{152}{}{Nao. O mais alto voce escala, pior a radiacao fica.}
+{153}{}{Uh, se voce gosta de bastardos psicoticos, bastardos sanguinarios frios como pedra, entao ele e o cara.}
+{154}{}{Meu parceiro. O cara que esta guardando o Jain.}
+{155}{}{Depende de como voce arrisca sua vida. Minha vida tem estado bem ocupada ultimamente, entao em vim aqui pra
+ ficar na moita. Mas se voce gosta de acao, com certeza, Apenas nao estrague tudo ou voce esta morto, isso e tudo.}
+{156}{}Eu ouvi que os Mercadores da Agua estao sempre empacotando a melhor merda. Mas as pessoas dirao qualquer
+ coisa sobre os Mercadores da Agua. Nao esta aqui entre esta turma, isso com certeza.}
+{157}{}{Eu estive tentando obter um bom entendimento destes caras por semanas. A principio eu pensava que eles eram
+ tolos, mas agora... eu nao tenho certeza. Eles sao organizados e eles tem um plano. Eu consigo cheirar!}
+{158}{}{Eu ouvi que o Decker tem um pouco de acao, mas cara, e trabalho de merda e se voce estragar tudo, voce estara melhor morto.}
+{159}{}{Chip de Purificacao de Agua? Voce nao usa agua do poco? Bom Deus! Eu ouvi falar de uma Vault perto de Shady Sands
+ aonde voce poderia achar um, mas aquele lugar esta complemtamente soterrado. Eu nao acho que eu possa ajudar voce.}
+{160}{}{Nao posso falar. O chefe nao gosta. Lamento.}
+{161}{}{Ei, voce!}
+{162}{}{Ei! O que voce acha que voce esta fazendo?}
+{163}{}{Por que a tranca?}
+{164}{}{Ei, I'm backing off!}
+{165}{}{Voce pode me dar uma mao com esta porta? Esta presa!}
+{166}{}{Voce me viu! Muito ruim pra voce…}
+{167}{}{Nao e da sua conta! Saia daqui!}
+{168}{}{Bom! Agora saia daqui!}
+{169}{}{Suma! Se voce puxar este tipo de merda de novo. Eu matarei voce pessoalmente!}
+{170}{}{Nos nao devemos falar com voce. Para o seu caminho, amigo.}
+{171}{}{Ei! O que voce acha que voce esta fazendo?}
+{172}{}{Por que a tranca?}
+{173}{}{Ei, I'm backing off!}
+{174}{}{Voce pode me dar uma mao com esta porta? Esta presa!}
+{175}{}{Voce me viu! Muito ruim pra voce…}
+{176}{}{Nao e da sua conta! Saia daqui!}
+{177}{}{Bom! Agora saia daqui!}
+{178}{}{Suma! Se voce puxar este tipo de merda de novo. Eu matarei voce pessoalmente!}

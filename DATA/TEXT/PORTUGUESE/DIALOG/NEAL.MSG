@@ -1,0 +1,64 @@
+{100}{}{Voce ve Neal, o bartender.}
+{101}{}{Voce ve um bartender.}
+{102}{}{Ele parece sobrecarregado.}
+{103}{}{Ei! Nao pense que voce vai get away com isso, ladrao!}
+{104}{}{Nos estamos fechados. Volte por volta das quatro horas.}
+{105}{}{Zzzz}
+{106}{}{Bem-vindo ao Skum Pitt. O que eu posso fazer por voce?}
+{107}{}{Uh, Eu terei um bebida.}
+{108}{}{Eu estou procurando informacao.}
+{109}{}{Meu nome e }
+{110}{}{. O que e este lugar?}
+{111}{}{Gaa hnnngh!}
+{112}{}{Otimo. O que voce quer?}
+{113}{}{Nuka-cola, 3 tampinhas.}
+{114}{}{Cerveja, 5 tampinhas.}
+{115}{}{A coisa forte, 20 tampinhas.}
+{116}{}{Ok, entao o que voce quer saber?}
+{117}{}{Qual e o scoop nesta cidade?}
+{118}{}{Quem e o estranho de aparencia perigosa no canto?}
+{119}{}{Quem sao os panacas?}
+{120}{}{[Neal olha pra voce enigmaticamente por um momento.] Voce jamais esteve em
+ um bar antes estranho? Este e o meu lugar, o Skum Pitt. Voce comprar bebidas aqui.
+ E voce me paga.}
+{121}{}{Uh, certo. Eu sabia disso. Entao, eu posso ter uma bebida?}
+{122}{}{Sim. Um, eu posso ter um pouco de informacao sobre outra coisa?}
+{123}{}{Oh. Obrigado.}
+{124}{}{Sim, o mesmo para voce, camarada.}
+{125}{}{O que e aquele trofeu na prateleira?}
+{126}{}{Bem, logo ali a oeste de nos esta o cassino do Gizmo. Eu ficaria surpreso
+ se voce nao soubesse a respeito dele; a maioria das pessoas aqui sao aqueleas
+ que acabaram de perder o dinheiro delas la. Na outra parte da cidade voce tem
+ o armazem do Killian e a Crash House da Marcelles. O Killian e um bom cara,
+ comanda uma straight joint, tem tudo que voce precisa. A Crash House e
+ aonde voce dorme quando voce esteve aqui por tempo demais. [O Neal ri.]}
+{127}{}{Obrigado. Eu posso ter uma bebida?}
+{128}{}{Obrigado pela informacao. Vejo voce por ai.}
+{129}{}{O camarada e chamado de Tycho. Aparentemente um ranger do leste ou algo
+ assim. Lutador muito mau pelo que eu ouvi mas um carater correto.}
+{130}{}{Se importa se eu fizer algumas outras perguntas?}
+{131}{}{Oh, eles. Eles sao os Skulz. Eles sao uma gangue local. Todo o riff-raff.
+ As vezes eles comecam brigas ou causam um pouco de problema. Apesar disso,
+ Geralmente o Killian mantem eles na linha.}
+{132}{}{Aqui vai voce. Aprecie.}
+{133}{}{Ei! Voce roubou minha urna!}
+{134}{}{Isso nao e um trofeu, e uma urna. Ela contem as cinzas da minha esposa -
+ alem deste bar e a coisa mais importante da minha vida.}
+{135}{}{Algo mais?}
+{136}{}{Procurando por um pouco mais de informacao.}
+{137}{}{Nao, obrigado.}
+{138}{}{Oh.}
+{139}{}{Sim, eu terei uma bebida.}
+{140}{}{Volte quando voce tiver algum dinheiro.}
+{141}{}{O que sera, amigo?}
+{142}{}{O que aconteceu com aquele trofeu que voce costumava ter la?}
+{143}{}{Obrigado. Voce nao conseguiria saber o que isto significa pra mim. Voce
+ nunca pagara por uma bebida neste bar de novo.}
+{144}{}{Eu peguei sua urna de volta para voce.}
+{145}{}{Algum slime a roubou. Nao era um trofeu, era uma urna. Ela continha as cinzas
+ da minha esposa - alem deste bar era a coisa mais importante da minha vida.}
+{146}{}{Saiam daqui seus malditos vagabundos! Se qualquer de voces tocar nela de novo
+ eu matarei todos voces!}
+{147}{}{O dia em que eu nao puder lidar com merdinhas como voces e o dia em que eu morrerei!}
+{148}{}{O que diabos voce esta fazendo? Nos estamos fechados. Saia daqui!}
+{149}{}{Suas malditas criancas, eu mostrarei a voces uma coisa ou duas!}

@@ -1,0 +1,9 @@
+{100}{}{Voce parece distraught. Voce esta com necessidade de assistencia?}
+{101}{}{Eu preciso de cura.}
+{102}{}{Urrr.}
+{103}{}{Meu marido Razlo pode ajudar voce . . . peca a ele.}
+{104}{}{Eu lamento mas eu nao entendo voce.}
+{105}{}{Voce tera que voltar de manha. Por favor nos deixe
+ dormir em paz.}
+{106}{}{Nao obrigado.}
+{107}{}{Nao, eu nao estou com necessidade de cura.}

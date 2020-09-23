@@ -1,0 +1,450 @@
+{100}{}{Voce ve o Kane.}
+{101}{}{Qual e o trabalho e quanto ele paga?}
+{102}{}{Trabalhar pra este lixo? Voce deve estar fazendo uma piada.}
+{103}{}{Bem direto, e parece que eu vou ter que chutar seu traseiro por causa disso.}
+{104}{}{Lamento, talvez depois.}
+{105}{}{Nao, obrigado.}
+{106}{}{Tuk?}
+{107}{}{Eu creio que os relatorios devem estar errados. Nos nao contratamos skags.}
+{108}{}{Nao e trabalho de skag. Voce precisara fazer 'ele' rapido e limpo. O chefe dara os detalhes para voce,
+ mas e mais dinheiro do que voce fara em um mes trabalhando para as caravanas, mas so se voce e bom o
+ bastante. Nos nao toleramos falhas bondosamente, se voce sabe o que eu quero dizer.}
+{109}{}{Soa bom.}
+{110}{}{Eu nao posso agora. Deixe-me entrar em contato com voce.}
+{111}{}{Quem eu tenho que matar?}
+{112}{}{Nao, obrigado. Eu nao preciso do dinheiro.}
+{113}{}{Eu tenho certeza que voce esta familiar com nosso tipo de negocio, entao apenas deixe-me dizer
+ que seria do seu melhor interesse manter isto pra si mesmo. Entendido?}
+{114}{}{Eu espero para o seu bem que essa foi uma tentativa de humor. Nao se meta conosco, voce se arrependera.}
+{115}{}{Com certeza. Agora, o que este 'trabalho' envolve?}
+{116}{}{Sim, que seja, cara durao.}
+{117}{}{Eu nao acho que voce me entendeu. Deixe-me esclarecer. Se voce nao tomar cuidado com seus modos, voce sera
+ morto, cara durao.}
+{118}{}{Eu nao acho que voce me entendeu. Deixe-me esclarecer. Se voce nao tomar cuidado com seus modos, voce sera
+ morta, garota durona.}
+{119}{}{Nao, deixe-me esclarecer--se voce nao tomar cuidado, eu usarei seu traseiro como sapato.}
+{120}{}{Ok. Eu entendi. Agora, o que e que voce quer que eu faca?}
+{121}{}{Eu falarei com voce depois. Eu tenho que ir.}
+{123}{}{Oh, por favor, faca. Nos ficaremos prendendo nossa respiracao.}
+{124}{}{Mas claro, bom dia.}
+{125}{}{Nao precisa do dinheiro? Certamente voce esta brinceo, mas do que eu ouvi sobre voce, voce poderia
+ apreciar o trabalho que eu tinha em mente pra voce.}
+{126}{}{Realmente? Eu poderia estar interessado, va em frente.}
+{127}{}{Nao, obrigado.}
+{128}{}{Eu entrarei em contato com voce.}
+{129}{}{E... Voce gostaria de me acompanhar la pra baixo? Ha muito ouvidos ao redor.}
+{130}{}{Com certeza.}
+{131}{}{Nao estou interessado.}
+{132}{}{Nao agora, eu entrarei em contato com voce.}
+{133}{}{Saia, eu nao tenho a paciencia.}
+{134}{}{Voce valoriza sua vida?}
+{135}{}{Voce teve sua chance, agora suma.}
+{136}{}{Voce esta procurando por problema?}
+{137}{}{Voce simplesmente nao aprende nao e? Voce aprendera em breve um pouco de respeito.}
+{138}{}{Eu ouvi sobre voce. Eles dizem que voce e um filho da puta do mal. Se voce esta procurando
+ por algum trabalho, eu poderia ser capaz de set you up com alguem. Voce esta interessado?}
+{139}{}{Eu ouvi sobre voce. Eles dizem que voce e uma piranha do mal. Se voce esta procurando
+ por algum trabalho, eu poderia ser capaz de set you up com alguem. Voce esta interessada?}
+{140}{}{Eu ouvi sobre voce. Voce e aquele que matou Killian em Junktown, nice going. Gizmo deve ter pago
+ bem a voce por essa. O que traz voce ao Hub, procurando por algum trabalho?}
+{141}{}{Eu ouvi sobre voce. Voce e aquele que matou Gizmo em Junktown. Killian deve ter pago a voce uma
+ boa soma por esse trabalho. Voce esta aqui para algum trabalho, talvez?}
+{142}{}{Eu ouvi sobre voce. Voce e a piranha que matou Killian e Gizmo. Agora esse e o modo de resolver
+ um problema... Entao, o que traz voce ao Maltese Falcon? Procurando por algum trabalho?}
+{143}{}{Eu ouvi sobre voce. Voce e o bastardo que matou Killian e Gizmo. Agora esse e o modo de resolver
+ um problema... Entao, o que traz voce ao Maltese Falcon? Procurando por algum trabalho?}
+{144}{}{Eu ouvi sobre voce. Voce esta fazendo um bom nome por si mesma. O que traz voce ao  Hub?}
+{145}{}{Eu estou procurando por um chip da agua.}
+{146}{}{Eu preciso falar com o Decker.}
+{147}{}{Voce comanda esta joint? }
+{148}{}{Eu estou aqui pra chutar o seu traseiro.}
+{149}{}{Eu acho que eu vou ter que machucar voce agora.}
+{150}{}{Voce nao tera que se preocupar com sua saude quando eu get through with you.}
+{151}{}{Eu estou limpando o mundo de tudo que e mau!}
+{152}{}{Eu tenho que ir, tchau.}
+{153}{}{Isso e tudo, tchau.}
+{154}{}{Tuk?}
+{155}{}{Barooka!}
+{156}{}{Um chip de agua? Nunca ouvi sobre ele, nos so vendemos bebidas. Va ver os Pedacos de Iguana do Bob, se voce esta faminto.}
+{157}{}{E um dispostivo eletronico que regula o sistema de filtragem de um purificador de agua e monitora a
+ said por qualquer contaminacao. O meu esta quebrado e eu estou procurando por um substituto.}
+{158}{}{Nao, e um pequeno pedaco de maquinaria que comanda um purificador de agua.}
+{159}{}{Outra pergunta pra voce...}
+{160}{}{Ok, obrigado. Tchau.}
+{161}{}{Eu pareco um mercador? Pare de desperdicar meu tempo.}
+{162}{}{Voce poderia querer verificar com os mercadores da Agua. Eles estao ao sul do Mercado dos Mercadores.
+ Voce nao consegue erra-los. Eles rodeiam uma grande torre de agua.}
+{163}{}{Voce? Essa e a coisa mais engracada que eu ja ouvi.}
+{164}{}{As coisas parecerao realmente engracadas quando eu get through rearranjar sua cara!}
+{165}{}{Nos veremos quem esta rindo quando o sangue settles.}
+{166}{}{Voce acha que voce consegue me dominar? Voce pode ser forte, mas isso nao ajudara voce a esquivar de uma bala.}
+{167}{}{Voce esta certo, eu lamento muito. Por favor nao atire.}
+{168}{}{Eu entendo. Voce tem que se esconder atras de uma arma nao e?}
+{169}{}{Voce e pitiful. Talvez eu deva apenas por uma bala atraves da sua cabeca agora mesmo e encerrar sua
+ miseria. O que voce diz? Voce gostaria de um novo buraco atraves dessa cabeca sem cerebro sua?}
+{170}{}{Eu lamento. Eu realmente nao queria dize-lo. Por favor nao atire em mim.}
+{171}{}{Voce so consegue me dominar com uma arma? Voce esta com medo de que eu chutarei seu traseiro sem ela?}
+{172}{}{O que? Voce esta com medo de uma garotinha como eu, voce tem que usar uma arma?}
+{173}{}{Com certeza.}
+{174}{}{Basta! Se voce acha que voce sabe o que dor e sofrimento sao, espere ate eu acabar com voce.}
+{175}{}{Mantenha esse cao sob controle ou ele sera morto.}
+{176}{}{Mantenha seu amigo fora disto.}
+{177}{}{Mantenha seus camaradas fora disto ou eles serao mortos.}
+{178}{}{Pra tras rapazes, ele e meu.}
+{179}{}{Pra tras rapazes, ela e minha.}
+{180}{}{Voce me desapontou, eu pensava que voce fosse mais forte do que isso.}
+{181}{}{Esconder? Eu nao preciso me esconder atras de qualquer coisa e eu NAO preciso de uma arma pra lidar com voce.}
+{182}{}{Mantenha esse cao sob controle ou ele sera morto.}
+{183}{}{Mantenha seu amigo fora disto.}
+{184}{}{Mantenha seus camaradas fora disto ou eles serao mortos.}
+{185}{}{(sobre seu ombro) Pra tras rapazes, ele e meu.}
+{186}{}{(sobre seu ombro) Pra tras rapazes, ela e minha.}
+{187}{}{Palavras duronas, homenzinho. Digo isso a voce, eu porei meus brinquedos longe e nos veremos quem
+ vai estar de pe.}
+{188}{}{Palavras duronas, garotinha. Digo isso a voce, eu porei meus brinquedos longe e nos veremos quem vai estar de pe.}
+{189}{}{Eu lamento. Eu realmente nao quis dizer isso. Por favor nao me machuque.}
+{190}{}{Come e get it.}
+{191}{}{Ok, mas eu odiaria fazer voce chorar.}
+{192}{}{Nao, obrigado. Eu nao tenho o tempo, tchau.}
+{193}{}{Voce seria saber em nao dar as costas apos o que voce esteve dizendo. Voce deveria ser grato que eu sou
+ um pessoa misericordiosa... desta vez. Ate nos nos encontrarmos de novo.}
+{194}{}{Eu vou apreciar isto.}
+{195}{}{Apenas mantenha esse cao sob controle ou ele sera morto.}
+{196}{}{Apenas mantenha seu amigo fora disto.}
+{197}{}{Apenas mantenha seus camaradas fora disto ou eles serao mortos.}
+{198}{}{(sobre seu ombro) Pra tras, rapazes. Ela e minha.}
+{199}{}{(sobre seu ombro) Pra tras, rapazes. Ele e meu.}
+{200}{}{Limpeza? Isso e bem bacana de voce, mas o 'mal' e muito subjetivo. O que ou quem voce poderia considerar
+ ser mal poderia muito bem ser o oposto do que alguem considera.}
+{201}{}{Sim eu concordo, mas isso quer dizer nos temos que nos sentar e nao fazer nada porque nos nao temos certeza?}
+{202}{}{Isso e ridiculo. O que e mau e mau. Qualquer um que diga o contrario e apenas estupido.}
+{203}{}{Que seja. Eu estava apenas fazendo uma piada.}
+{204}{}{Eu certamente espero que sim. Nos temos problemas o bastante no mundo sem ter um fanatico cego
+ correndo por ai matando todo mundo.}
+{205}{}{Uma pena. Um fanatico cego e uma pessoa perigosa de fato. Eu espero que sua estada aqui no Hub nao seja
+ longa. Nos nao aceitamos bondosamente assassinatos que nao sao auto... assassinatos de qualquer tipo. Bom dia.}
+{206}{}{Nao.}
+{207}{}{Resposta bacana retardado. Quem esta no comando?}
+{208}{}{Quem esta?}
+{209}{}{Retardado? Voce tem qualquer ideia de com quem voce esta falando? Para o seu bem eu espero que nao. Eu nao
+ 'comando' o Maltese Falcon mas EU SOU aquele no comando. O que voce quer antes que eu perca meu temperamento?}
+{210}{}{Eu sei quem voce e e confie em mim, voce 'e' um retardado.}
+{211}{}{Oh, eu lamento. Quem comanda este lugar?}
+{212}{}{Nos veremos. Tenha 'bom' dia.}
+{213}{}{Se voce nao sabe voce nao deveria perguntar. Pode ser ruim para a sua saude.}
+{214}{}{Em relacao a que?}
+{215}{}{Um trabalho.}
+{216}{}{É um segredo.}
+{217}{}{Isso nao diz respeito a voce. Agora me leve a ele.}
+{218}{}{Nao abuse da sua sorte, camarada, ou voce encontrara o Decker num saco. Por este caminho e
+ comporte-se. Eu estarei observando.}
+{219}{}{Nao abuse da sua sorte, dama, ou voce encontrara o Decker num saco. Por este caminho e comporte-se. Eu
+ estarei observando.}
+{220}{}{Eu acho que me 'diz' respeito e eu nao acho que eu mostrarei qualquer coisa pra voce... isso e, se voce
+ tiver sorte. Agora desapareca.}
+{221}{}{Lamento, mas qualquer coisa que voce tenha que dizer ao Decker pode ser dita a mim. Eu sou o braco
+ direito dele e nao ha nada que aconteca aqui que nos dois nao estejamos completamente cientes.}
+{222}{}{É sobre um trabalho.}
+{223}{}{Lamento, eu jurei manter segredo. Eu so posso dizer ao Decker.}
+{224}{}{Bem, entao voce nao vai ver ele.}
+{225}{}{Quem enviou voce?}
+{226}{}{Beth me enviou.}
+{227}{}{Lorenzo me enviou.}
+{228}{}{Loxley me enviou.}
+{229}{}{O Xerife me enviou.}
+{230}{}{Ninguem.}
+{231}{}{Beth quem?}
+{232}{}{Voce sabe.}
+{233}{}{Ela nao disse. Ela comanda a loja de armas.}
+{234}{}{Saia da minha frente. Eu nao tenho tempo para seus jogos.}
+{235}{}{Entao voce nao vera ninguem.}
+{236}{}{Diga ao nosso amistoso Xerife Greene que a agenda do Decker esta parecendo um pouco ocupada e que ele
+ deveria tentar de novo em alguns meses. Eu lamento, mas eu acho que voce deveria sair... pro seu bem.}
+{237}{}{Eu nao acho que ela enviou voce aqui. Por favor saia.}
+{238}{}{Ele enviou agora? Eles estao prontos pra vir sob nossa protecao? Voce e um deles?}
+{239}{}{Eu nao sei do que voce esta falando. Ele apenas mencionou que o Decker poderia ter algum trabalho pra mim.}
+{240}{}{Eu? Trabalhar para aqueles ladroes? Nunca. Eu preferiria ter que tomar cuidado com minhas costas do que minha bolsa.}
+{241}{}{Voce nos proteger? NUNCA!}
+{242}{}{Olha camarada. Eu estou apenas procurando por algum trabalho bom, limpo, honesto.}
+{243}{}{Voce e? Bem, entao voce veio ao lugar errado, o Hub e qualquer coisa menos honesto. Volte ao que quer seja
+ buraco de onde voce rastejou. Voce ficara mais feliz la.}
+{244}{}{Eu concordo. Bem, entao siga-me nos veremos quao util voce e pra nos. Apenas mantenha em mente que seria
+ do seu melhor interesse manter qualquer coisa que seja dita pra voce pra si mesmo.}
+{245}{}{Isso poderia ser. Voce e um membro do 'Grupo de Ladroes' deles?}
+{246}{}{Sim.}
+{247}{}{Nao.}
+{248}{}{Bem eu lamento, mas nos nao trabalhamos com seus amiguinhos. Nos mal toleramos a existencia deles
+ nos nunca trabalharemos com eles.}
+{249}{}{Bem, entao voce poderia ser util depois de tudo. Apenas mantenha em mente que seria do seu melhor
+ interesse manter qualquer coisa que e dita pra voce pra si mesmo.}
+{250}{}{Ele poderia. Que tipo de trabalho voce estaria procurando?}
+{251}{}{Voce precisa de outro guarda?}
+{252}{}{Oh, nada em particular. Eu estava apenas imaginando.}
+{253}{}{Qualquer coisa. Se paga bem, eu o farei.}
+{254}{}{Qualquer coisa que nao me ponha em problema com a lei.}
+{255}{}{Por que voce nao tenta os mercadores? Eu ouvi que eles pagam razoavelmente bem.}
+{256}{}{Nao, Eu acho que nos estamos bem. Tenha um bom dia.}
+{257}{}{Agora, isso e o que eu gosto de ouvir. Eu acho que nos poderiamos ser amigos depois de tudo. Deixe-me mostrar la embaixo
+ pra voce. Apenas mantenha em mente que seria do seu melhor interesse manter qualquer coisa que e dita pra voce pra si mesmo.}
+{258}{}{Bom. Siga-me, mas mantenha em mente que seria do seu melhor interesse manter qualquer coisa que e dita
+ pra voce, pra si mesmo.}
+{259}{}{Com certeza ele fez, adeus... Oh, e a proposito. Nao minta jamais pra mim de novo. Eu nao gosto quando pessoas
+ mentem pra mim. Nao ha muitas pessoas que viveram pra ouvir este conselho.}
+{260}{}{Um homem de acao. Eu gosto disso, mesmo se sua cabeca esta ferrada.}
+{261}{}{Uma mulher de acao. Eu gosto disso, mesmo se sua cabeca esta ferrada.}
+{262}{}{Sim, o que voce quer? E melhor ser bom.}
+{263}{}{Se voce quer falar comigo melhor voce guardar a sua arma.}
+{264}{}{Voce tem um probelma de memoria? Guarde sua arma se voce vai falar comigo.}
+{265}{}{Sua arma?}
+{266}{}{Nada mal, nada mal de modo algum, voce me surpreendeu. Eu nao achava que voce seria assim  dificil de derrotar. Eu
+ normalmente sou um bom juiz de carater, talvez voce seja o que nos estamos procurando. Voce esta interessado num trabalho?}
+{267}{}{Maldicao! Essa foi uma boa luta! Eu nao tive uma boa luta ha muito tempo, e nao me lembro de quando
+ eu fui derrotado por alguem. Bom trabalho! Como voce gostaria que fosse o trabalho?}
+{268}{}{Com certeza, qual e o trabalho?}
+{269}{}{Nao, obrigado.}
+{270}{}{Eu nao posso agora. Deixe-me entrar em contato com pra voce.}
+{271}{}{Nao e trabalho de skag. Voce precisara fazer 'ele' rapido e limpo. O chefe dara os detalhes para voce,
+ mas e mais dinheiro do que voce fara em um mes trabalhando para as caravanas. Eu acho que voce e bom para ele.}
+{272}{}{Soa bom, va em frente.}
+{273}{}{Hm, eu posso pensar a respeito? Ha muitas coisas acontecendo agora.}
+{274}{}{Nao, Eu acho que nao.}
+{275}{}{Com certeza, mas deixe-me saber tao breve quanto voce puder. O mais breve que o trabalho for feito, melhor.}
+{276}{}{Bem, deixe-me saber se voce mudar de ideia. Eu odiaria ver tal talento desperdicado protegendo caravanas.}
+{277}{}{Otimo, eu aco que as coisas funcionarao bem. Apenas lembre-se que o que voce ouvir abaixo das escadas
+ nao vem a superifice. Ok, vamos la.}
+{278}{}{Eu entendo que voce e responsavel pelas morte de um mercador e da esposa dele. Eu nao sei quais
+ voce tinha com eles e eu nao me importo.}
+{279}{}{Quem disse a voce?}
+{280}{}{Eu nao sei do que voce esta falando.}
+{281}{}{Wak?}
+{282}{}{Isso nao e com o que voce deveria estar preocupado. Ninguem faz um acerto sem o nosso ok.
+ Eu acho que seria melhor se voce deixasse nossa cidade, enquanto voce aidna pode.}
+{283}{}{Eu temo que voce saiba e se voce sabe o que e melhor pra voce, voce deveria sair desta cidade enquanto voce ainda pode.}
+{284}{}{Eu nao acho que voce queria o trabalho. Eu espero que tenha sido um mal-entendido. Eu pagarei a metade
+ pra voce e seja grato que eu esteja dando qualquer coisa pra voce. [Kane da 1500 hubbucks pra voce]}
+{285}{}{Obrigado.}
+{286}{}{Oh, lamento, eu pensei que eu tivesse o trabalho. Ha ainda chance de que eu possa trabalhar pra voce?}
+{287}{}{De-me o resto do dinheiro ou voce se arrependera!}
+{288}{}{Ghu?}
+{289}{}{Nos veremos. Descendo as escadas, Decker quer falar com voce.}
+{290}{}{Voce nao conseguira nada.}
+{291}{}{Eu nao sei qual jogo voce esta jogando mas se voce sabe o que e melhor pra voce, voce deveria sair
+ desta cidade enquanto voce ainda pode.}
+{292}{}{Voce disse que voce nao queria o trabalho. Eu estou surpreso que voce voltou aqui. Voce cometeu um erro
+ ruim ao faze-lo por conta propria. Eu sugiro que voce saia da cidade enquanto voce ainda pode.}
+{293}{}{Eu entendo que voce e responsavel pela morte da Jain, a Sumo Sacerdotisa. Eu nao sei quais
+ voce teve com ela e eu nao me importo, mas nos somos muito grato de qualquer maneira.
+ (Kane da 1000 hubbucks pra voce)}
+{294}{}{Quem disse a voce?}
+{295}{}{Eu nao sei do que voce esta falando.}
+{296}{}{Wah?}
+{297}{}{Isso nao lhe diz respeito e eu temo que nos nao possamos lidar com voce. Voce violou nossas leis mas
+ por causa do problema que voce eliminou pra nos nos nao mataremos voce, mas eu acho que voce deveria sair.}
+{298}{}{Eu temo que voce saiba, mentir pode ser um habito muito nao saudavel. Voce violou nossas leis mas
+ por causa doproblema que voce eliminou pra nos nos nao mataremos voce, mas eu acho que voce deveria sair.}
+{299}{}{Eu nao sei qual jogo voce esta jogando, mas eu nao estou me divertindo. Voce violou nossas leis mas
+ por causa do problema que voce eliminou pra nos nos nao mataremos voce, mas eu acho que voce deveria sair.}
+{300}{}{Nao toque aquela porta, se voce quiser viver. Eu sou o unico que pode abrir aquela porta.}
+{301}{}{O mercador e a esposa dele vivem a oeste daqui. Eles estao no canto da corner of Barter Street e
+ Thunder Avenue, nas alturas, ele provavelmente tera guardas. Tente ser quieto a respeito e esteja certo
+ de que voce nao seja visto, mas se acontecer de alguem ver voce tenha certeza de que eles nao vivam
+ pra contar pra ninguem a respeito. Uma vez que voce terminou seu pequeno errand volte aqui. Mais uma
+ coisa. Nem mesmo pense em ir a policia, esse e o pior erro que voce poderia cometer. Se voce puder
+ tente nao atrair a atencao enquanto faz seu trabalho, eles podem ser bem chatos as vezes. [Kane da 500 tampinhas]}
+{302}{}{Bom trabalho. Aqui estao seus scripts por completar o primeiro trabalho. [Kane da 2500 hubbucks].}
+{303}{}{Bom trabalho com o mercador. Eu estou esperando os mesmos resultados no seu proximo trabalho. Aqui
+ esta seu ultimo pagamento pelo primeiro trabalho e o primeiro pagamento pelo segundo. (Kane da 3500 Hubbucks)
+ Eu tenho certeza que voce ja sabe, mas as Criancas da Catedral estao abaixo ao sul bem ao norte dos
+ mercadores da agua. De novo, sem testemunhas 'vivas'.}
+{304}{}{Voce estava com pressa pra sair daqui? Voce nao pegou seus scripts. Aqui esta seu dinheiro, o
+ pagamento inicial e o bonus por completar o primeiro trabalho. (Kane da 3000 Hubbucks)}
+{305}{}{Ei, bom trabalho! Voce esqueceu de pegar seu pagamento inicial pelo trabalho, entao aqui esta com a
+ taxa de completion. Voce se provou ser bastante util.}
+{306}{}{(Kane da 5000 hubbucks)}
+{307}{}{E isso e tudo que voce recebera. Agora saia antes que voce se arrependa.}
+{308}{}{Aqui esta seu pagamento inicial. (Kane da 1000 Hubbucks pra voce) eu tenho certeza que voce ja sabe mas as
+ Criancas da Catedral estao abaixo ao sul bem ao norte dos mercadores da agua. De novo, sem testemunhas 'vivas'.}
+{309}{}{Maldicao, isto e muito dinheiro. O Decker realmente queria aquela piranha morta, aqui estao seus
+ scripts. (Kane da 4000 Hubbucks pra voce) Voce se provou ser bastante util.}
+{310}{}{O que diabos voce quer? Eu pensei que voce nao queria encontrar com o Decker.}
+{311}{}{Nao, eu nao queria, mas voce pode dar a ele uma mensagem pra mim?}
+{312}{}{Sim, eu quero encontra-lo, para que eu possa explodir um buraco atraves da cabeca dele!}
+{313}{}{Eu lamento, eu entendi voce mal.}
+{314}{}{Bem direto, por que eu iria querer encontrar com um idiota como ele!}
+{315}{}{Grug.}
+{316}{}{Taa?}
+{317}{}{Nos nao contratamos skags. Agora saia antes que eu fique chateado com voce.}
+{318}{}{Isso depende da mensagem.}
+{319}{}{Diga a ele que ele e um bastardo covarde por se esconder na caverninha dele. Se ele quer ser um homem
+ ele deveria tentar sair no mundo real.}
+{320}{}{Diga a ele pra comecar a rezar por um milagre, por que e o que ele vai precisar quando eu acabar com ele.}
+{321}{}{Eu esqueci.}
+{322}{}{Diga a ele que ele e meu idolo e que eu admiro seu trabalho.}
+{323}{}{Diga a ele que eu vou fazer com ele o que ele fez com o ultimo cara que comandou este lugar!}
+{324}{}{Voce vai agora? Isso deve se provar ser bastante divertido.}
+{325}{}{Voce e um idiota.}
+{326}{}{O que voce e? Algum tipo de aberracao? Saia daqui!}
+{327}{}{Oh, eu certamente direi a ele. Eu tenho certeza que ele ficara muito interessado em ouvir isso...
+ rezar voce disse? Voce tem minha 'palavra', ele recebera a mensagem.}
+{328}{}{Eu pensei que eu disse a voce pra desaparecer! Minha paciencia esta se esgotando! Voce vai me
+ dizer por que voce queria ver o Decker ou nao?}
+{330}{}{Eu nao tenho que dizer nada a voce.}
+{331}{}{Eu lamento, eu apenas queria um trabalho.}
+{332}{}{Eu disse a voce, e um segredo!}
+{333}{}{Nao!}
+{334}{}{Ru?}
+{335}{}{Queo voce nao estiver drogado venha e me veja.}
+{336}{}{Eu deixarei voce ve-lo, mas melhor voce tomar cuidado com sua boca... depois de voce?}
+{337}{}{Nao, voce nao disse. Adeus.}
+{338}{}{Esse e um segredo que voce levara pro tumulo. O Decker nunca falara com um skag como voce.}
+{339}{}{Entao eu sugiro que voce saia.}
+{340}{}{Sim?}
+{341}{}{Lorenzo me enviou para um trabalho.}
+{342}{}{Oi!}
+{343}{}{Eu quero um trabalho.}
+{344}{}{Nada, tchau.}
+{345}{}{Kru.}
+{346}{}{Oi.}
+{347}{}{Como voce esta?}
+{348}{}{Tchau.}
+{349}{}{Certo.}
+{350}{}{Como estao as criancas?}
+{351}{}{Dia bacana nao e?}
+{352}{}{Voce esta parecendo muito bonito hoje.}
+{353}{}{Tchau... (Kane Squints at you, como se ele estivesse tentando imaginar o que voce esta armando.)}
+{354}{}{Eu suponho. (Kane comeca a dar um estranho olhar pra voce)}
+{355}{}{Voce tem o tempo?}
+{356}{}{Os Sapatos de Brahmin Sao Muito Gostosos.}
+{357}{}{Nao... Voce queria alguma coisa? (Kane parece estar ficando chateado com voce)}
+{358}{}{Sim.}
+{359}{}{Nao.}
+{360}{}{Eu acho que voce precisa de outra bebida ai, camarada.}
+{361}{}{Eu acho que voce precisa de outra bebida ai, dama.}
+{362}{}{(Kane espera por alguns segundos) Bem... o que e? (Kane parece muito chateado)}
+{363}{}{O que e o que?}
+{364}{}{Eu esqueci.}
+{365}{}{Oh, nada.}
+{366}{}{(Quase parece que vapor esta saindo das orelhas do Kane e as veias do pescoco dele parecem
+ visivelmente pulsar.) SAIA! (Alguns segundos depois voce consegue ouvir de novo.) ... AQUI! SEU IDIOTA!}
+{367}{}{(Kane Grinds seus dentes e ignora voce.)}
+{368}{}{Voce esqueceu? (suspiro) Por que isso nao me surpreende? (Balancando a cabeca dele em descrenca.) Agora... SAIA!}
+{369}{}{(Kane olha para um dos guardas e gira um dedo em volta de um ouvido.)}
+{370}{}{Do que diabos voce esta falando?}
+{371}{}{Essa NÃO e a resposta apropriada!}
+{372}{}{Eu entendo... Voce nao e um deles.}
+{373}{}{Resposta... para O QUE? (Kane parece confuso e levemente chateado.)}
+{374}{}{Para a senha secreta!}
+{375}{}{Eu lamento, mas nao e permitido a mim falar sobre isso. Adeus.}
+{376}{}{(Kane parece zangado, voce nao sabe por que.) Saia daqui, seu louco filho da puta.}
+{377}{}{(Kane parece zangado. Voce nao sabe por que.) Saia daqui, sua puta louca.}
+{378}{}{Eu disse a voce pra sair daqui, seu louco filho da puta.}
+{379}{}{Eu disse a voce pra sair daqui, sua puta louca.}
+{380}{}{Nao, eu creio que nao. Agora SAIA. (Ele nao parece ter se divertido.)}
+{381}{}{Eu nao 'tenho' quaisquer criancas!}
+{382}{}{Voce parece estar um pouco aborrecido a respeito. Voce quer falar a respeito?}
+{383}{}{Bem, voce deveria, eles se tornam bons servos.}
+{384}{}{Isso nao e o que a Mary disse.}
+{385}{}{Mesmo? Isso e estranho... Muito estranho...}
+{386}{}{O QUE? VOCE... E... NAO! Eu 'nao' quero falar a respeito. Quem diabos voce pensa que e? Saia da minha
+ vista.}
+{387}{}{EU DISSE, eu 'nao' quero falar a respeito.}
+{388}{}{Uh, sim. Com certeza camarada. O que quer que seja que voce disse.}
+{389}{}{Uh, sim. Com certeza dama. O que quer que seja que voce disse.}
+{390}{}{Voce tem qualquer um pra vender entao?}
+{391}{}{Tudo bem entao. Tchau!}
+{392}{}{(Kane olha para um dos seus thugs e shrugs seus ombros)}
+{393}{}{Nao, EU NÃO QUERO! Agora saia.}
+{394}{}{Mary? Eu nao conheco uma Mary... Eu nao tenho 'tempo' pra isto! Eu nem mesmo sei de quem voce esta
+ falando. Se ela quer dinheiro diga a ela pra vir falar comigo ela mesma!}
+{395}{}{(Voce ganha 100 pontos de experiencia thoroughly deixar o Kane puto.)}
+{396}{}{(Por meio segundo voce acha que voce viu o Kane corar) Isso e... (ele olha pros lados) bacana. Agora o
+ que voce queria?}
+{397}{}{Que tal um encontro?}
+{398}{}{Oh, nada. Tchau.}
+{399}{}{Sim, eu quero dizer, nao. Eu quero dizer que eu nao... eu nao posso. Eu... (Kane de repente soca um dos guardas dele na mandibula.)
+ Por que voce esta sorrindo? (Entao ele olha de volta pra voce.) O que voce ainda esta fazendo aqui?}
+{400}{}{(Kane ignora voce) O que voce quer?}
+{401}{}{Como estao as criancas?}
+{402}{}{Dia bacana nao e?}
+{403}{}{Por este caminho.}
+{404}{}{Voce sabe o caminho, vamos la.}
+{405}{}{Abram, rapazes.}
+{406}{}{Tudo bem.}
+{407}{}{Ok.}
+{408}{}{Voce pode querer tudo que voce gostar, agora take a hike.}
+{409}{}{Voce tem mais quaisquer trabalhos?}
+{410}{}{Oi!}
+{411}{}{Nada, tchau.}
+{412}{}{Acru!}
+{413}{}{Ola de novo.}
+{414}{}{O que? Voce nao teve a coragem, certo? (Ele sussurra pra voce) Nao se preocupe, voce se acostuma com isso,
+ ele tem guardas, tente esperar ate que eles saiam. Alguma hora eles tem que comer certo? Se voce puder, distraia
+ distraia eles. Faca o que precisar, nos nao aceitamos falhas. Apenas faca e voce conseguira seu dinheiro e entao
+ voce pode high tail it out daqui. Agora... voce realmente precisava de alguma coisa?}
+{415}{}{Por que 'ele' ainda nao foi feito? Melhor voce faze-lo. Eu nao quero ver voce de novo ate que voce
+ tenha alguma boa noticia, de outro modo nos teremos um problema. Melhor voce nao nos desapontar.}
+{416}{}{Basta. Voce cometeu seu ultimo erro. Melhor voce sair da cidade agora, se voce nao quiser ficar
+ aqui.... a sete palmos debaixo da terra.}
+{417}{}{Bem... voce vai fazer o trabalho ou nao? Eles estao bem aqui (Kane aponta de novo pro seu exibidor do
+ mapa da cidade no PIPBoy.) Melhor voce se apressar, o chefe esta esperando que isto seja feito em breve.}
+{418}{}{MAS QUE DIABOS... (Kane olha ao redor e entao sussurra.) O que diabos voce esta fazendo aqui? Melhor
+ voce terminar o outro, e melhor nao haver 'quaisquer' testemunhas.}
+{419}{}{Basta. Voce estragou tudo. Agora voce vai ter que pagar pelos seus erros. Eu espero que voce nao
+ esteja planejando passar a noite aqui.}
+{420}{}{Voce nao terminou seu pequeno trabalho. (sussurrando) Voce sabe o que esta em jogo aqui. Voce o faz
+ e voce fica rico e nos todos ficamos felizes. Falhe e ninguem vai ficar feliz.}
+{421}{}{Se voce esta tendo problema com o seu trabalho, tente esperar ate que ela esteja sozinha.}
+{422}{}{Voce esta esgotando seu tempo e eu estou ficando sem paciencia.}
+{423}{}{Eu nao o farei.}
+{424}{}{Ela estara morta muito em breve.}
+{425}{}{Huh.}
+{426}{}{Voce nao o fara? Agora, isso e uma vergonha. Nos nao podemos ter pessoas dando a palavra delas e
+ e entao quebram ela. Eu lamento que nos nao possamos trabalhar juntos. Tenha um 'bom' dia.}
+{427}{}{Okay! Eu farei o maldito trabalho. Mas e melhor que voce tenha o dinheiro quando eu o tiver feito.}
+{428}{}{Obrigado.}
+{429}{}{Oh, Eu o terei. Nao se preocupe.}
+{430}{}{Ainda vivo eu vejo! Bem, voce nao deve ter feitos quaisquer amigos novos recentemente. Eu espero que
+ voce mantenha um olho aberto por eles.}
+{431}{}{(Kane parece bem smug. Ele apenas fica em pe la com um sorriso malvado.)}
+{432}{}{Ora! Eu estou muito surpreso de ver voce vivo. Voce sobreviveu, isso e muito impressionante. Eu acho
+ que eu deixarei voce viver, voce vale isso tudo. Agora va para a estrada.}
+{433}{}{Nem mesmo pense nisso.}
+{434}{}{Eu nunca erro.}
+{435}{}{Eu estou permitindo a voce viver, seja grato.}
+{436}{}{Eu nao acho que voce quer me testar.}
+{437}{}{Eu espero que voce nao esteja planejando usar isso, para o seu bem.}
+{438}{}{Voce deveria sair.}
+{439}{}{Nao seja estupido.}
+{440}{}{Voce se arrependera.}
+{441}{}{Voce e ou corajoso ou 'muito' estupido pra mostrar sua cara aqui mas nao se preocupe, nos pararemos
+ alguma pra dizer 'oi'.}
+{442}{}{(Kane apenas olha pra voce.)}
+{443}{}{Voce sobreviveu minha festa de adeus... Eu nao sei como voce fez, eu devo ter subestimado voce. Saia
+ e voce pode viver.}
+{444}{}{(Kane ignora voce, mas tem a arma dele pronta pra atirar.)}
+{445}{}{Tudo bem! Pra fora voce vai!}
+{446}{}{Eu nao direi a voce de novo. Saia daqui.}
+{447}{}{Eu avisei voce. Ok caras, vamos pra cima!}
+{448}{}{Eu avisei voce. Ok caras, vamos pra cima!}
+{449}{}{Nao me aborreca, volte ao trabalho. Voce tem um trabalho pra fazer, e melhor voce faze-lo.}
+{450}{}{Voce poderia continuar com ele? Eu ja disse a voce o que fazer. Apenas faca.}
+{451}{}{Eu sei que voce terminou o maldito trabalho. Voce nao tem que dizer pra mim. Decker e aquele com quem voce tem que conversar.}
+{452}{}{Eu disse a voce pra falar com o Decker!}
+{453}{}{(Kane da um olhar mortal pra voce.) Bem, entao... eu tentarei fazer voce entrar pra ve-lo em breve. Eu
+ terei certeza de mostrar voce pra ele 'pedaco' por 'pedaco.}
+{454}{}{Eu lamento que voce se sinta desse modo. Eu espero que voce 'aprecie' o resto da sua estada aqui na nossa maravilhosa cidade.}
+{455}{}{(Kane ignora voce.)}
+{456}{}{(Kane encara voce por alguns segundos) Tudo bem. Eu darei a voce uma ultima chance de ver ele. Siga-me.}
+{457}{}{(Kane encara voce por alguns segundos) Voce perdeu sua chance. Desapareca.}
+{458}{}{O que diabos voce esta fazendo aqui de volta?!?! Voce deve ser ate mesmo um idiota maior do que eu pensava. Eu
+ sabia que o Decker nao deveria ter contratado um desconhecido.}
+{459}{}{Do que voce esta falando?}
+{460}{}{Huh?}
+{461}{}{[Kane baixa a voz dele] Voce cocked up a missao, seu retardado! Era esperado que voce matasse ambos os Hightowers, nao feri-los
+ por amor de Cristo! No segundo que voce deixou as Alutras eles correram com os guardas. Acredite em mim, eles nao desperdicaram tempo
+ empacotando tambem. Deus sabe aonde eles estao agora!}
+{462}{}{Bem, o que eu posso dizer? Eu lamento.}
+{463}{}{Ug. LAmentO.}
+{464}{}{Lamento nao basta. Voce pos o Decker sob um risco inaceitavel. Voce pode se considerar um inimigo do submundo de agora em
+ diante. Eu nao quero jamais ter que ver sua face aqui de novo.}
+{465}{}{Voce nao consegue atravessar a porta com o Kane aqui.}

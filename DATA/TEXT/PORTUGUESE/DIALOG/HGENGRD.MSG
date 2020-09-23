@@ -1,0 +1,18 @@
+{100}{}{Voce ve um guarda.}
+{101}{}{Ei! Voce nao trabalha aqui.}
+{102}{}{Voce nao consegue ver que eu estou tentando descansar?}
+{103}{}{Hora para um pouco de descanso e relaxamento.}
+{104}{}{Nos nao estamos contratando, fale com os mercadores.}
+{105}{}{O dever de guarda tem estado bastante calmo ultimamente.}
+{106}{}{Estas sao os   da guarda! Sem skags.}
+{107}{}{Voce e novo?}
+{108}{}{Me deixe em paz, eu estou cansado.}
+{109}{}{Alguem pra um jogo de cartas?}
+{110}{}{Quem quer meu turno da noite?}
+{111}{}{Amanha vamos para o Falcon.}
+{112}{}{Com certeza.}
+{113}{}{Quem quer ir na cacada aos escorpioes esta semana?}
+{114}{}{Meus pes doem.}
+{115}{}{Eu provavelmente deveria dormir um pouco.}
+{116}{}{Ja e dia do pagamento?}
+{117}{}{Eu sinto falta do dever da caravana.}

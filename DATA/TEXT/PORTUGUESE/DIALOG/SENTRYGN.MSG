@@ -1,0 +1,15 @@
+{100}{}{Voce nota uma camera de seguranca a qual parece estar ativa.}
+{101}{}{Voce nota armas escondidas rastrando seu movimento.}
+{102}{}{Portas de armas escondidas abrem fogo! Twisting and weaving,
+ voce consegue evitar ferimentos!}
+{103}{}{Portas de armas escondidas abrem fogo! Twisting and evading,
+ voce e grazed by gunfire.}
+{104}{}{Voce sofre }
+{105}{}{ de dano.}
+{106}{}{Portas de armas escondidas abrem fogo! Startled, you trip e
+ cai, sofrendo apenas ferimentos leves.}
+{107}{}{Voce sofre }
+{108}{}{ de dano.}
+{109}{}{Portas de armas escondidas abrem fogo! Voce foi atingido!}
+{110}{}{Voce sofre }
+{111}{}{ de dano.}

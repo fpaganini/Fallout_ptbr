@@ -1,0 +1,1 @@
+{100}{}{Voce destranca com sucesso o refrigerador.}{101}{}{Voce esta tendo problema com esta tranca.}{102}{}{Voce ve um refrigerador. Esta fechado e trancado.}{103}{}{Voce ve um refrigerador. Esta aberto.}{104}{}{Voce ve um refrigerador. Esta fechado.}{105}{}{A porta esta trancada.}

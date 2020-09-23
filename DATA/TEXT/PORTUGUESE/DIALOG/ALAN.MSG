@@ -1,0 +1,35 @@
+{100}{}{Você vê um membro dos Seguidores.}
+{101}{}{Você vê o Irmão Alan dos Seguidores.}
+{102}{}{Ei, saudações e bom dia pra você cara. O que é que há?}
+{103}{}{Oi. O que eu posso fazer por você?}
+{104}{}{Olá.}
+{105}{}{Ei, saudações e bom dia pra você senhorita. O que é que há?}
+{106}{}{Owoowngh!}
+{107}{}{Oi.}
+{108}{}{Eu encontrei alguns dos Seguidores. O que exatamente vocês fazem?}
+{109}{}{Eu estou tentando achar um espião dentro dos seus ranks, mas eu não estou tendo muita
+ sorte. Eu posso fazer a você algumas perguntas?}
+{110}{}{Oh, bem, eu na maior parte estudo filosofia e tal. Eu quero dizer, se nós vamos
+ trazer a paz, então nós precisamos de uma boa base para ela, certo?}
+{111}{}{Uma causa de valor.}
+{112}{}{A única filosofia de que você precisa é uma arma grande!}
+{113}{}{Hmm. Ok. Bem, eu creio que eu falarei com você mais tarde.}
+{114}{}{Whoa! Ei, eu não acho que eu possa ajudar você.}
+{115}{}{Ei, é exatamente esse tipo de atitude que está causando todo este problema.
+ Apenas acalme-se, ok?}
+{116}{}{Heh. Eu estava apenas brincando.}
+{117}{}{Deixe-me dar a você um pouco de paz . . . paz eterna.}
+{118}{}{Uh, com certeza, vá em frente.}
+{119}{}{O que mais você quer saber?}
+{120}{}{Você teve qualquer contato com as Crianças da Catedral?}
+{121}{}{Você nunca sai da biblioteca?}
+{122}{}{Você conhece alguém que vá regularmente no lado de fora?}
+{123}{}{De modo algum. Eu ouvi que eles são todos aberrações. Eu não iria querer falar com eles.}
+{124}{}{Não, por que iria? Eu apenas gosto de ler. E de qualquer maneira, só os patrulheiros
+ realmente conseguem ir a qualquer lugar.}
+{125}{}{Bem, apenas os patrulheiros e os guardas. Os guardas vão e patrulham um pouco
+ de vez em quando. Eu queria ser um guarda mas . . . bem, eu tive meu traseiro chutado no
+ combate mão-a-mão, então eu não pude ir. Hm, os patrulheiros, eles vão muito mais longe,
+ as vezes todo o caminho até a Catedral, eu acho.}
+{126}{}{Sem mais perguntas, obrigado.}
+{127}{}{[Mais]}

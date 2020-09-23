@@ -1,0 +1,5 @@
+{100}{}{Parece um pequeno trofeu de ouro, com um clasp e uma placa de bronze.}
+{101}{}{Voce rouba com sucesso a urna do countertop.}
+{102}{}{Voce swipe a urna, e espera que ninguem tenha vista sua tentativa clumsy.}
+{103}{}{Isso parece bem valioso. Se voce vai pegar a urna, voce
+ deve ser mais surreptitious about it.}

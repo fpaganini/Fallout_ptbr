@@ -1,0 +1,115 @@
+{100}{}{Você vê Sinthia, a sedutora sellbaby.}
+{101}{}{Você vê uma mulher pouty, shapely.}
+{102}{}{Ei querido(a), como você está indo?}
+{103}{}{Ok. Tchau.}
+{104}{}{Bem, mas eu poderia estar melhor.}
+{105}{}{Uhh.}
+{106}{}{Oh, gato(a), I understand. You gotta run home to momma.
+ Well, come back here when you need some luvin'!}
+{107}{}{Sim, docinho, o mesmo pra você.}
+{108}{}{You'll find whatever, or whoever, you're looking for,
+ honey, and that'll make you all better, I'm sure.}
+{109}{}{Talvez eu possa ajudar você com isso.}
+{110}{}{Talvez você possa. Quanto você cobra?}
+{111}{}{Eu não deixaria meu cachorro tocar você.}
+{112}{}{Oh, gato(a), if you got to ask . . . more than you can afford.
+ Maybe next time, docinho. See you around.}
+{113}{}{Oh, docinho, isso é apenas simplesmente nojento.}
+{114}{}{Oh, Deus, por favor me ajude.}
+{115}{}{Por favor não deixe ele me matar.}
+{116}{}{Eu sou muito jovem para morrer.}
+{117}{}{Oh, Deus, Eu sou muito bonita pra morrer.}
+{118}{}{Thank you for what you did. No one ever took care of me like
+ that before.}
+{119}{}{Eu posso realmente tomar conta de você mais tarde.}
+{120}{}{De nada.}
+{121}{}{Unh.}
+{122}{}{Obrigado de novo.}
+{123}{}{Isso é tudo em que você consegue pensar a respeito? Puxa. Algumas pessoas.}
+{124}{}{I mean, my boss didn't even send some of his goons to help.
+ You'd think for all the cash I make for that loser, he
+ would at least live up to his part of the bargain.}
+{125}{}{Quem é seu chefe?}
+{126}{}{Que barganha?}
+{127}{}{Gizmo, of course. He runs all the sin in this town.
+ Killian sure as hell wouldn't put up with me or my kind.
+ If it wasn't for the fact that I make Giz a whole hell of
+ a lot of money, I'd have to do other things to him.}
+{128}{}{And, honey, those thoughts just don't do my stomach a whole
+ lot of good.}
+{129}{}{O que mais Gizmo controla?}
+{130}{}{Você deveria apenas hang it up e continuar com a sua vida.}
+{131}{}{You're telling me. But what else can I do? It seems like
+ my life has been designed by someone else. Oh, well. A
+ girl has to make a living.}
+{132}{}{But docinho, esta é de graça.}
+{133}{}{Obrigada de novo docinho. Nós mulheres devemos ficar juntas.}
+{134}{}{Just about every bad thing a person could do in this town.
+ He owns the Casino. He runs me and some of the other
+ gals, even some little kids. I hear he is trying to take
+ over the bar.}
+{135}{}{You stay away from him, okay? Take it from me, he is not
+ the kind of patron he wants to make you think he is.
+ Stay away.}
+{136}{}{Giz quer tomar conta do Killian, se você saca o que quero dizer.}
+{137}{}{Why, honey, I take care of men, and they take care of me in
+ return. Gizmo gets 25% and I supposedly get his protection.
+ You saw how well that went, huh?"}
+{138}{}{O que mais Gizmo controla?}
+{139}{}{Você se sente como fazendo outra visita para a Sinthia.}
+{140}{}{Talvez Sinthia gostaria de um pouco de companhia . . .}
+{141}{}{You shit! Você matou ele! Why did you have to kill him?
+ You bastard! I can't believe you killed him. All he wanted was someone to
+ talk to. You don't care about human life, do you?}
+{142}{}{You shit! Você matou ele! Why did you have to kill him?
+ You bitch! I can't believe you killed him. All he wanted was someone to
+ talk to. You don't care about human life, do you?}
+{143}{}{Apenas saia do meu quarto!}
+{144}{}{Você matou ele! I can't believe you killed him. All he
+ wanted was someone to talk to . . .}
+{145}{}{He ain't dead. He's just gonna have a hurt head when he
+ wakes up.}
+{146}{}{Hnnn.}
+{147}{}{Sim, que seja. Saia do meu quarto!}
+{148}{}{Oh, sorry. I though he was dead. I though you killed him.
+ He's not such a bad guy, after all. Just a little lonely.}
+{149}{}{Sem problema.}
+{150}{}{Você de novo. Com o que eu posso ajudar você desta vez?}
+{151}{}{Apenas parando pra ver como você está indo.}
+{152}{}{Eu tenho $40, se você tem dez minutos.}
+{153}{}{Eu preciso de um pouco mais de info sobre o seu boss.}
+{154}{}{Ah, honey, I don't think so. Imagine how the children
+ would turn out.}
+{155}{}{Indo bem, graças a você, docinho.}
+{156}{}{What do you want to know, but make it short, honey, I'm on
+ the clock.}
+{157}{}{Quanto guardas ele tem?}
+{158}{}{Aonde ele guarda o dinheiro?}
+{159}{}{Ele tem quaisquer fraquezas?}
+{160}{}{Obrigado boneca, mas eu não preciso saber de nada mais.}
+{161}{}{Hmm. I know about eight, personally, if you get my meaning.
+ I think he has another ten or so.}
+{162}{}{Money? How would I know? He only takes my money, he doesn't
+ show me his. I would guess that it's in his bedroom,
+ but for all I know, he could keep it where the sun doesn't
+ shine. And for Giz, that's a big place.}
+{163}{}{Only that he thinks he doesn't have any. Well, that and
+ he's a fat slob, who can't move for a damn. He's got to
+ have his guards help him move around. Even then, they gotta
+ use a little tricycle. Heh heh.}
+{164}{}{Docinho, você tem um encontro.}
+{165}{}{Com certeza docinho, por você.}
+{166}{}{Eu mostrarei a você uma boa diversão.}
+{167}{}{Honey, you need some more money. I like you and all,
+ but a girl has to make a living.}
+{168}{}{I reserve the right to refuse admittance, and honey,
+ you ain't getting nowhere near me!}
+{169}{}{Sinthia está adormecida.}
+{170}{}{Sinthia está ocupada.}
+{171}{}{Sinthia se recusa a falar com você.}
+{172}{}{Lamento docinho, eu não transo com aberrações.}
+{173}{}{Leve seu dinheiro, sua atitude e seu pequeno prick para algum outro lugar!}
+{174}{}{Oh, Deus, alguém me ajude!}
+{175}{}{You ganha }
+{176}{}{ de experiência por resgatar a Sinthia com sucesso.}
+{177}{}{Os guardas removem o saqueador enquanto ele está inconsciente.}

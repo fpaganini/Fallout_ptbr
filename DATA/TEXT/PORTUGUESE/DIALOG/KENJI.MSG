@@ -1,0 +1,5 @@
+{100}{}{O gunman nao presta atencao a voce.}
+{101}{}{O gunman sneers at you conforme ele passa.}
+{102}{}{Voce ve um pistoleiro de aparencia susupeita.}
+{103}{}{Gizmo enviar seus regards!}
+{104}{}{Voce ganha 400 pontos de experiencia por ajudar Killian a enfrentar o assassino.}

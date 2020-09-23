@@ -1,0 +1,89 @@
+{100}{}{Voce ve o Motorista da Caravana.}
+{101}{}{Voce queria retornar ao Hub? Eu pagarei a voce outros 400 scripts.}
+{102}{}{Rutger should be pleased; we made it without any casualties. Did you
+ want to come back with us? We're almost ready to go. The pay will be
+ another 400 scripts.}
+{103}{}{That was easier than I expected. Are you coming back with us?
+ I'm sure another 400 scripts would come in handy.}
+{104}{}{That wasn't too bad. If you want to come back with us to the Hub,
+ you're welcome to. We'll pay you another 400 scripts.}
+{105}{}{It's always a shame to lose someone. Rutger isn't going to take
+ this well, but we could use your help getting back. Are you interested?
+ Pay's still 400 scripts.}
+{106}{}{Damn! I hate losing good guards. We've got to be more careful
+ on our way back. We've got to cover each other. We can't let this
+ happen again. I'll pay you another 400 scripts. Up for it?}
+{107}{}{Are you able to come back to the Hub with us? I can't risk losing
+ another guard. The pay's 400 scripts. What do you say?}
+{108}{}{I really could use your help getting back. Rutger's going to kill
+ me and I don't know if I can make it alone. If you're interested, pay's
+ still 400 scripts. So, what do you say?}
+{109}{}{It's going to be a tough trip back going alone. Would you come
+ back to the Hub with me for another 400 scripts?}
+{110}{}{I can't believe we lost both of the other guards. Rutger and
+ Butch are going to have my ass.}
+{111}{}{Sim.}
+{112}{}{Nao.}
+{113}{}{Ug.}
+{114}{}{Ótimo. Vamos la.}
+{115}{}{O que? Voce esta com medo?}
+{116}{}{Ah, voce esta sentindo falta de um pouco de acao.}
+{117}{}{That's ok. I'm sure we can make it back without a problem.
+ Thanks for helping us all get here in one piece.}
+{118}{}{That's ok. I understand. It'll be rough with just one guard,
+ but we'll make it.}
+{119}{}{Uh, ok. Eu tenho certeza que eu posso conseguir sozinho.}
+{120}{}{Voce esta bem? A viagem deve ter sido mais dificl pra voce do que eu pensava.}
+{121}{}{Voce esta nas drogas?}
+{122}{}{Talvez eu nao queira voce na minha caravana.}
+{123}{}{Entao voce mudou de ideia? Voce quer o trabalho?}
+{124}{}{Sim.}
+{125}{}{Nao.}
+{126}{}{Ru?}
+{127}{}{Easy money. So, do you want to come back with us to the Hub?
+ The pay's the same either way; but then again, so is the danger.}
+{128}{}{So, you up for 600 more caps? I've got to head back to the Hub.
+ Hopefully this'll be another easy one.}
+{129}{}{I knew you'd come back with us. It'll be 600 caps again. You
+ interested?}
+{130}{}{I hate losing someone like that; that's why we pay the big bucks.
+ This is a dangerous route. Well, Demetre's expecting us back soon. Pay's
+ the same. Do you want to come back with us?}
+{131}{}{You ready for some more action? This time we won't even get a
+ scratch! I'll give you 600 caps for the trip back to the Hub.}
+{132}{}{I know. It's a shame to lose someone, but at least it was in
+ battle. You up for another go at it? We're heading back to the Hub.
+ Give you 600 caps again.}
+{133}{}{Damn, I can't believe we lost both of those guards. Demetre's
+ going to be pissed. The pay will be the same, but I'm heading back
+ soon. So what do you say? You and me kick some butt?}
+{134}{}{Now that was a fight, it's a shame about the other two. Demetre
+ won't like these losses but at least we made it. Are you going to be
+ accompanying me back the Hub? It will, of course, pay 600 caps.}
+{135}{}{I love the taste of battle but I hate loosing my troops. Do you
+ think you and I can handle them again? I'm heading out soon -- only
+ down side is that the pay's the same. Sorry, no compensation.}
+{136}{}{Mug.}
+{137}{}{Ok. Eu tenho certeza que nos chegaremos de volta bem.}
+{138}{}{Eu so realmente preciso de um guarda de qualquer modo.}
+{139}{}{Ah, eu posso derrota-los todos eu mesmo.}
+{140}{}{Ah, voce esta de volta! Voce quer o trabalho entao, certo?}
+{141}{}{Arg.}
+{142}{}{Why, hello there. Looking for a job? We could use someone to help
+ guard our caravans on the way back to the Hub. The pay's 400 scripts.}
+{143}{}{Ok.}
+{144}{}{Nao, obrigado.}
+{145}{}{Zuk.}
+{146}{}{Why, hello there. Looking for a job? We could use someone to help
+ guard our caravans on the way back to the Hub. The pay's 600 caps, but
+ mind you it's normally quite a dangerous trip.}
+{147}{}{Com certeza.}
+{148}{}{Yek.}
+{149}{}{Deixe-me saber se voce mudar sua mente. Nos saimos as 14:00 horas.}
+{150}{}{Lamento, voce nao parece que esta em qualquer forma para o dever da caravana.}
+{151}{}{Se voce nao consegue falar bem eu nao posso contratar voce.}
+{152}{}{Se voce quiser um trabalho, deixe as drogas.}
+{153}{}{Voce mudou de ideia sobre o trabalho?}
+{154}{}{Sim. Eu contratarei.}
+{155}{}{Lum?}
+{156}{}{Aqui esta seu pagamento. Deixe-me saber se voce esta voltando conosco.}

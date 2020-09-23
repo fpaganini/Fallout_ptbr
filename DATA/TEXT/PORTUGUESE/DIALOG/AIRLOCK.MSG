@@ -1,0 +1,3 @@
+{100}{}{Esta vault parece particularmente limpa. Você
+ pensa consigo mesmo(a) que nada de valor poderia
+ possivelmente restar.}

@@ -1,0 +1,13 @@
+{100}{}{Voce ve um Fregues da Caravana.}
+{101}{}{Eles nunca tem o que eu quero.}
+{102}{}{Eu acho que a selecao esta ficando pior.}
+{103}{}{Lamento, eu nao devo falar com forasteiros.}
+{104}{}{Eu nunca consigo achar o que eu quero.}
+{105}{}{Se voce ver qualquer Redalek, deixe-me saber.}
+{106}{}{Estes precos estao ficando fora de mao.}
+{107}{}{Eu estou feliz que aqueles Mercadores das Aguas nao vem mais aqui.}
+{108}{}{Voce deveria ver Cabbot ou Darrell se voce tem perguntas.}
+{109}{}{Cabbot e nosso Recepcionista. Voce deveria falar com ele ou Darrell.}
+{110}{}{Eu gosto mais da selecao da Crimson Caravan.}
+{111}{}{Os Far Go Traders nao sao um pessoal agradavel?}
+{112}{}{A Crimson Caravan e muito vulgar para mim.}

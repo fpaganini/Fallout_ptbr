@@ -1,0 +1,91 @@
+{100}{}{Voce ve um morador da Vault.}
+{101}{}{Eu nao posso acreditar que voce nos traiu!}
+{102}{}{Traidor!}
+{103}{}{Eu odeio voce. Por que voce voltou?}
+{104}{}{Eu espero que voce se engasgue na sua vilania!}
+{105}{}{}
+{106}{}{}
+{107}{}{}
+{108}{}{}
+{109}{}{Obrigado a voce por nos salvar.}
+{110}{}{Eu estava com um pouco de incerteza se voce conseguiria faze-lo,
+ mas eu confio em voce agora.}
+{111}{}{Obrigado a voce! Obrigado a voce!}
+{112}{}{Voce e um heroi. Meu garotinho quer se como voce quando ele crescer.
+ Eu nao sei se eu gosto disso.}
+{113}{}{Voce e uma heroina. Minha garotinha quer ser como voce quando ela
+ crescer. Eu nao sei se eu gosto disso.}
+{114}{}{Voce e um cara swell!}
+{115}{}{Voce e uma garota swell!}
+{116}{}{Voce tem certeza que voce precisa disso aqui?}
+{117}{}{Isso e uma arma!}
+{118}{}{Voce realmente usou isso contra alguem?}
+{119}{}{Por que voce acha que e necessario carregar
+ uma arma aqui?}
+{120}{}{É bom ver voce de novo.}
+{121}{}{Eu estou feliz que voce esta indo bem.}
+{122}{}{Voce parece OK pra mim. Todos esses rumores devem
+ ser mentiras.}
+{123}{}{Oi }
+{124}{}{. Mantenha
+ o bom trabalho.}
+{125}{}{Eu espero que tudo esteja indo bem la fora.
+ Nos com certeza poderiamos usar a agua.}
+{126}{}{Nos estamos comecando a ficar sem agua. Isto
+ e terrivel!}
+{127}{}{Por favor apresse-se e ache aquele chip. Nos
+ precisamos de voce.}
+{128}{}{Eu estou feliz que voce esteja indo bem.
+ Mantenha o bom trabalho.}
+{129}{}{Eu odeio dizer isto, mas se voce nao achar
+ o Chip de Agua em breve nos vamos todos
+ morrer.}
+{130}{}{Minha pequena esta sempre chorando no meio
+ da noite por um drink de agua e eu nao posso
+ dar nada pra ela.}
+{131}{}{Nos nao vamos conseguir, vamos?}
+{132}{}{As racoes de agua estao chegando ao fim.}
+{133}{}{A secao hidroponica fechou agora. Significa
+ que o nosso suprimento de comida esta se esgotando.}
+{134}{}{Hmm. Voce ainda parece humano pra mim. Nao
+ pode ser tao ruim no lado de fora.}
+{135}{}{Oi }
+{136}{}{.}
+{137}{}{Eu espero que voce esteja indo bem na sua busca.}
+{138}{}{Vejo voce por ai.}
+{139}{}{Voce falou com o Supervisor recentemente?}
+{140}{}{O Supervisor esta muito preocupado a respeito do
+ status da sua missao.}
+{141}{}{Voce precisa se apressar. Nos nao podemos afford
+ qualquer falha da sua parte.}
+{142}{}{Eu espero que voce esteja fazendo o melhor que voce pode.}
+{143}{}{Isto nao e hora de descansar, volte pra la.}
+{144}{}{Isto nao e o que voce deveria estar fazendo,
+ e?}
+{145}{}{Nos vamos morrer e e sua culpa.}
+{146}{}{Nao fique parado aqui, volte la pra fora! Agora!}
+{147}{}{Se nos morrermos, sera sua culpa.}
+{148}{}{O lado de fora corrompeu voce, nao e?}
+{149}{}{Apenas me deixe em paz.}
+{150}{}{Eu acho que voce deveria deixar eu e minha familia
+ em paz, }
+{151}{}{. Seria
+ o melhor.}
+{152}{}{Voce deveria estar envergonhado de si mesmo.}
+{153}{}{E pensar que eu costumava gostar de voce.}
+{154}{}{O morador da Vault se recusa a falar com voce.}
+{155}{}{Um olhar vazio encontra seu pedido para conversar.}
+{156}{}{Eu me arrependo que nos escolhemos voce para ir la fora.}
+{157}{}{A agua e foul, mas sua companhia e pior.}
+{158}{}{Vai embora. Apenas saia. Voce pode redimir a si mesmo
+ achando aquele Chip de Agua.}
+{159}{}{Eu espero que voce esteja satifeito.}
+{160}{}{O morador da Vault se recusa a conversar com voce.}
+{161}{}{Voce causou isto! Em primeiro lugar voce tambem
+ provavelmente quebrou o Chip de Agua!}
+{162}{}{Eu odeio voce. Eu realmente, realmente odeio voce.}
+{163}{}{O morador da Vault apenas lacrimeja grandes lagrimas.}
+{164}{}{Seu pedido para conversar e encontrado com um olhar frio.}
+{165}{}{Obrigado a voce.}
+{166}{}{Esta tarde. Volte outra hora.}
+{167}{}{O morador da Vault esta descansando.}

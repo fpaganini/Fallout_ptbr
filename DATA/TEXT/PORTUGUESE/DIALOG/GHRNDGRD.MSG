@@ -1,0 +1,4 @@
+{100}{}{Voce ve um guarda da gangue dos ghouls.}
+{101}{}{Vai embora.}
+{102}{}{Eu nao gosto do seu tipo.}
+{103}{}{Saia agora!}

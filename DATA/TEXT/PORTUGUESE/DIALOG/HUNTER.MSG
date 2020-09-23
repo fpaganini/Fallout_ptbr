@@ -1,0 +1,55 @@
+# Chris Avellone is a male bounty hunter. He has an abrupt attitude and is serious about
+# his money. He does not like child killers (which is the only way the player will meet him).
+
+{100}{}{Voce ve um cacador de recompensa burly com um botao que diz,
+ 'Eu sou o Christopher e voce e carne.'}
+# Bounty Hunter is considered Male term
+
+{101}{}{O que voce quer?}
+{102}{}{Uma rosquinha.}
+{103}{}{O que voce esta fazendo aqui?}
+{104}{}{Apenas olhando por ai.}
+{105}{}{Nada.}
+{106}{}{Nos nao apreciamos mafiosos aqui. Desapareca.}
+# Alternate for "Buzz off" could be "Get lost" or "Get out of here"
+
+{107}{}{Essa piada nao foi engracada nem mesmo na primeira vez. Voce esta
+ pra descobrir por que eu sou um dos cacadores de recompensa mais
+ temidos na terra devastada. E eu nem mesmo serei pago por isso.}
+{108}{}{Nao e da sua conta.}
+{109}{}{Bem, va olhar mais em algum outro lugar.}
+# Alternate for "poke around" could be "Look around"
+
+{110}{}{Voce sabia que ha uma recompensa de 1.500 tampinhas na sua cabeca
+ por matar criancas? Hora de coletar!}
+# 1500 caps is equivalant to 1500 dollars. Children is considered male plural
+
+{1000}{}{Adytum}
+{1001}{}{Seguidores}
+{1002}{}{Catedral}
+{1003}{}{Rippers}
+{1004}{}{Blades}
+{1005}{}{Arma}
+{1006}{}{Hub}
+{1007}{}{Junktown}
+{1008}{}{Agua}
+{1009}{}{Nicole}
+{1010}{}{Boneyard}
+{1011}{}{Runners}
+{1012}{}{Chip}
+
+{1100}{}{Uma pequena cidade ao sul. Ocasionalmente alguns deles nos visitam.}
+{1101}{}{Esses sao as aberracoes amantes da paz que vivem perto de nos.}
+{1102}{}{Um culto estranho ao sul de Adytum e do resto da Boneyard. Nicole
+ diz que eles estao pra fazer alguma coisa.}
+{1103}{}{Uma gangue ultra-violenta a nosso oeste.}
+{1104}{}{Uma gangue ao leste. Eles usam vibro-facas.}
+{1105}{}{Uma gangue que veio do Hub, e vende armas. Eles estao ao norte daqui.}
+{1106}{}{O Hub e uma cidade grande de comerciantes e negocios, a leste.}
+{1107}{}{Junktown e uma cidade pequena bem ao norte do Hub.}
+{1108}{}{Eu nao posso ajudar voce com isso.}
+{1109}{}{Ela e a lider dos Seguidores.}
+{1110}{}{Esta lugar e o Boneyard dos Anjos, os restos da antiga cidade de
+ Los Angeles.}
+{1111}{}{Uma gangue que veio do Hub, e vende armas. Eles estao ao norte daqui.}
+{1112}{}{Eu nao posso ajudar voce com isso.}

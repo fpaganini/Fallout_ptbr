@@ -1,0 +1,3 @@
+{100}{}{Esta porta leva ao seu quarto. Voce viveu sua vida inteira neste
+ quarto, ate agora. Seus camaradas cidadaos da Vault disseram a voce que eles
+ deixarao este quarto vazio em sua honra.}

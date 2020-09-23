@@ -1,0 +1,29 @@
+{100}{}{Voce ve uma porta que parece muito segura.}
+{101}{}{A porta nao e afetada pela tecnica.}
+{102}{}{Voce e eletrocutado pelo sistema de seguranca e toma }
+{103}{}{ pontos de dano.}
+{104}{}{Voce a destranca a porta com a Chave de Passe Vermelha.}
+{105}{}{Esse item nao tem efeito na porta. Talvez outro item
+ sera mais util.}
+{106}{}{Voce e eletrocutado pelo sistema de seguranca e toma }
+{107}{}{ pontos de dano.}
+{108}{}{A porta parece estar protegida por um campo de energia. Talvez voce
+ possa desativa-lo de algum modo.}
+{109}{}{A porta parece ter uma tranca secundaria.}
+{110}{}{Voce nota que ha algumas marcas vermelhas na porta.}
+{111}{}{Voce nota que ha algumas marcas vermelhas na porta.}
+{112}{}{Voce pensa sobre o que poderia destrancar a porta.}
+{113}{}{Voce passed com sucesso o sistema de seguranca.}
+{114}{}{Voce ativa o sistema de seguranca e e eletrocutado e toma }
+{115}{}{ pontos de dano.}
+{116}{}{Voce nao detecta quaisquer armadilhas na porta.}
+{117}{}{Voce bypassed com sucesso o sistema de seguranca.}
+{118}{}{Voce ativa o sistema de seguranca e e eletrocutado e toma }
+{119}{}{ pontos de dano.}
+{120}{}{Voce nao detecta quaisquer armadilhas na porta.}
+{121}{}{Voce e eletrocutado pelo sistema de seguranca e toma }
+{122}{}{ pontos de dano.}
+{123}{}{A porta parece estar protegida por um campo de energia. Talvez voce
+ possa desativa-lo de algum modo.}
+{124}{}{Voce destranca com sucesso a porta.}
+{125}{}{Voce falhou em abrir a tranca da porta.}

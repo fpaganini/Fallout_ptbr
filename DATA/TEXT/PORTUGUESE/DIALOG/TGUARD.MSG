@@ -1,0 +1,39 @@
+{100}{}{Voce ve um dos guardas de Shady Sands.}
+{101}{}{Ei, eu acho que e melhor voce sair.
+ Nos nao queremos seu tipo aqui.}
+{102}{}{Eu nao consigo acreditar que Tandi desapareceu. Eu espero que voce esteja
+ indo acha-la. Realmente machucaria o Aradesh se algo ruim acontecesse a ela.}
+{103}{}{Obrigado por trazer a Tandi de volta. E um bom sinal para o futuro,
+ voce nao acha?}
+{104}{}{E uma pena o que aconteceu com Tandi. Eu espero que Aradesh esteja ok.}
+{105}{}{Bem-vindo, estranho. Nos nao vemos seu tipo frequentemente.}
+{106}{}{Uh, obrigado. Tchau.}
+{107}{}{Por que nao?}
+{108}{}{Hnnng!}
+{109}{}{Nao tao rapido! Esta e uma pequena comunidade. Nos nao vemos estranhos frequentemente,
+ e nos realmente nao precisamos deles se voce entende o que o quero dizer. Se voce
+ nao tem uma boa razao pra estar aqui melhor seria pra voce continuar indo.}
+{110}{}{Ei, eu nao vou machucar ninguem.}
+{111}{}{Uh.}
+{112}{}{Eu nao estava dizendo que voce ia. Apenas que seria melhor voce nos deixar em paz.}
+{113}{}{Eu tentarei nao causar problema.}
+{114}{}{Eu estou cheio e cansado do seu lixo. Prepare-se pra encontrar seu criador.}
+{115}{}{Olha, Shady Sands nao precisa do seu tipo do Hub, ou
+ Junktown, ou de onde que que seja que voce tenha vindo.
+ Nos estamos muito bem sozinhos.}
+{116}{}{O ultimo comerciante do Hub nos vendeu uma bomba de irrigacao
+ que funciona mal. Nos tivemos o bastante com suas negociacoes sujas.}
+{117}{}{Voce entendeu tudo errado. Eu nao sou assim.}
+{118}{}{Sim, certo. Assim voce diz. Apenas nao se meta em qualquer problema, Ok?}
+{119}{}{Sem problema.}
+{120}{}{Sim, que seja.}
+{121}{}{Bem, talvez voce nao seja. Voce parece um pouco diferente para mim.
+ Eu direi isso pra voce. Voce deveria ir falar com o Aradesh.
+ Ele esta no centro da cidade.}
+{122}{}{Nos nao queremos seu tipo aqui. Volte para de onde quer que voce tenha vindo.}
+{123}{}{Ei, sem necessidade de armas. Nos nao olhamos muito bondosamente
+ com aqueles que as usam por aqui.}
+{124}{}{Ei, voce nao se revelou ser uma pessoa ruim depois de tudo.
+ Tenha um bom dia.}
+{125}{}{Eu realmente desejo que voce simplemente deixe a cidade.}
+{126}{}{[MAIS]}

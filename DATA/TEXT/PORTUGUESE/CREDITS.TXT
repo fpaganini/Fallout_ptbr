@@ -1,0 +1,439 @@
+#PROGRAMACAO
+
+@Programadores-Chefe
+Tim Cain
+Chris Jones
+
+@Programadores
+Jesse L. Reynolds
+Kevin Weatherman
+Nick Kesting
+Robert Hertenstein 2
+Jess Heinig
+Jason Taylor
+
+@Programador do Mac
+Tim Hume
+
+@Programacao Adicional De
+Mark Harrison (Lizard Byte)
+John Price
+Chris DeSalvo
+Mark Murakami
+Dan Spitzley
+Guido Henkel
+Michael Bernstein
+Thomas French
+
+@Tecnologia do Filme
+Paul Edelstein
+
+@Instalador/Autoplay
+Darren Monahan
+
+
+#ARTE
+
+@Diretor de Arte
+Leonard Boyarsky
+
+@Artistas-Chefe
+Jason Anderson
+Leonard Boyarsky
+Gary Platner
+
+@Artistas
+Robert Collier
+Michael Dean
+Tramell Ray Isaac
+Eddie Rainwater
+Scott Rodenhizer
+Sharon Shellman
+
+@Arte Adicional De
+Peter Kroko
+Justin Sweet
+Joseph Cesario
+Cheryl Austin
+Jay Esparza (Tachyon)
+Geoff Gregor
+Arlene Sommers
+George Almond
+Erik Jamison
+Helena Wickberg
+James Doyle (Apples Animation)
+
+@Modelador em Barro
+Scott Rodenhizer
+
+@Artista Conceitual
+Tony Postma
+
+
+
+#DESIGN
+
+@Designer-Chefe
+Chris Taylor
+
+@Designers
+David Hendee
+Scott Bennie
+Brian Freyermuth
+Scott Campbell
+
+@Designer Técnico
+Scott Everts
+
+@Design Adicional De
+Robert Hertenstein 2
+Jess Heinig
+Nick Kesting
+Tim Cain
+Leonard Boyarsky
+Jason Anderson
+Fred Hatch
+Evan Chantland
+Erick Lujan
+Dennis Presnell
+Feargus Urquhart
+
+@Design/Dialogo
+Mark O'Green
+
+@Design Original do Jogo De
+Tim Cain
+Leonard Boyarsky
+Jason Anderson
+Jason Taylor
+Scott Campbell
+
+
+
+#PRODUCAO
+
+@Produtor
+Tim Cain
+
+@Produtor Assistente
+Fred Hatch
+
+@Diretor da Divisao
+Feargus Urquhart
+
+@Assistente do Diretor da Divisao
+Jeremy Barnes
+
+@Produtor Original
+Tom Decker
+
+@Assistente De Producao
+Jason G. Suinn
+
+@Garoto Macaco
+Mike "Paco" Greene
+
+@Assistencia Com O Mac
+Chris Benson
+
+
+
+#GARANTIA DA QUALIDADE
+
+@Diretor da Garantia de Qualidade
+Chad Allison
+
+@Diretor Assistente Da GQ
+Colin Totman
+
+@Testadores-Chefe da Versao PC
+Ron Hodge
+Greg "Moose" Baumeister
+
+@Testadores da Versao PC
+Shanna SanPaolo
+Evan Chantland
+Ed Hyland
+Steve Reed
+James Chung
+Kaycee Vardaman
+Bill Field
+Richard Barker
+Rene Hakiki
+Erick Lujan
+Matt Kaupa
+Steve Victory
+Scot Humphreys
+Tim Anderson
+Darrell Jones
+
+@Testadores-Chefe da Versao Mac
+Jim Dodds
+Matt Murakami
+Steve McLafferty
+
+@Testadores da Versao Mac
+Adam Chaney
+Dennis Presnell
+Savina Greene
+Kaycee Vardaman
+Scot Humphreys
+Mike Krueger
+Matt Golembiewski
+
+@Tecnicos de I.S.
+Bill Delk
+Steve Cabiness
+
+@Diretor de Compatibilidade
+Phuong Nguyen
+
+@Tecnicos de Compatibilidade
+Marc Duran
+Dan Forsyth
+Derek Gibbs
+Aaron Olalz
+John Parker
+
+
+
+#AUDIO
+
+@Diretor de Audio
+Charles Deenen
+
+@Audio Mastering
+Craig Duman
+
+@Musica da TV em 2º Plano
+Ronald Valdez
+
+@Mixer de Regravação dos Cinemáticos
+Dave West
+
+@Efeitos de Som Cinematicos
+West Productions
+
+@Artistas Foley
+Doug Turner
+Gary Murello
+Larry Peacock
+
+@Editor Foley
+Caron Weidner
+
+@Foley Mixer
+Debby Ruby
+
+@Mixer/Artista Foley
+Cecilia Perna
+
+@Foley Gravado na
+West Productions
+
+@Supervisao do Foley
+Charles Deenen
+Larry Peacock
+
+@Editor de Efeitos
+Michael Dickeson
+
+@Musica De
+Mark Morgan
+@para
+Four Bars Entertainment
+
+@Mixer da Regravacao da Intro
+Charles Deenen
+
+@Supervisor da Musica
+Brian Luzietti
+
+@Bibliotecarios dos Efeitos de Som
+Doug Rappaport
+Sergio Bustamante II
+Ron Valdez
+
+@Design dos Efeitos de Som
+Charles Deenen
+Gregory Allen
+Larry Peacock
+EFX
+Weddington
+Caron Weidner
+
+@Editores das Vozes
+Doug Rappaport
+Sergio Bustamante II
+
+@Produtor das Vozes
+Fred Hatch
+
+@Engenheiro de Gravacao das Vozes
+Paul Hurtubise
+
+@Supervisor das Vozes
+Chris Borders
+
+@Coordenacao dos Talentos das Vozes
+Julie Morgavi
+
+@Dialogo das Vozes Gravados Na
+Hollywood Recording Services
+Hollywood, CA
+
+@Direcao das Vozes
+Jamie Thomason
+
+
+@APRESENTANDO AS VOZES DE
+
+Charlie Adler
+@Harold
+
+Richard Dean Anderson
+@Killian
+
+Jeff Bennett
+@Loxley
+
+Clancy Brown
+@Rhombus
+
+Jim Cummings
+@Set, Gizmo, O Mestre
+
+Keith David
+@Decker
+
+Brad Garrett
+@Harry
+
+Tony Jay
+@O Tenente
+
+Tress MacNeille
+@Jain
+
+Ken Mars
+@Supervisor
+
+Richard Moll
+@Cabbot
+
+Ron Perlman
+@Butch Harris, Narrador
+
+CCH Pounder
+@Vree
+
+Pam Segall
+@Nicole
+
+Tony Shalub
+@Aradesh
+
+Kath Soucie
+@Laura, O Mestre
+
+Cree Summer
+@Tandi
+
+David Warner
+@Morpheus
+
+Frank Welker
+@Maxson
+
+@Trabalho de Voz adicional de
+Max o Cachorro
+
+
+
+"Maybe"
+@Executado por Ink Spots
+@Courtesia da MCA Records
+@Por Arranjo com os Mercados Especiais de Musica da Universal, Inc.
+
+"MAYBE"
+@Escrita por Allan Flynn e Frank Madden
+@Usada com permissão do Catalogo Robbins da EMI Inc. (ASCAP)
+
+@TRADUCAO PARA PORTUGUES DO BRASIL
+Fabio Paganini
+
+@AVISO: E uma violacao da Lei de Copyright Federal
+@copiar, duplicar ou reproduzir este Programa ou quaisquer
+@partes deste Programa sem a permissao escrita
+@expressa do dono do copyright.
+
+
+#MARKETING
+
+@Gerente de PR
+Genevieve Ostergard
+
+@Diretor de Marketing
+Paul Sackman
+
+@Gerentes de Marketing
+Mike Markin
+Craig Owens
+Michael Courtney
+
+@Gerente de Marketing Associado
+Tod Mack
+
+@Gerente de Trafego
+Thom Dohner
+
+
+
+
+@Obrigados para: Scott Everts por contribuir acima e alem do
+@chamado do dever para o Arquivo de Citacoes, Bomberman, Quake,
+@Diablo, Warcraft II, varias trilhas de filmes, Brian Eno,
+@a geladeira de soda (obrigado Gus & Rusty!), o Espirito de Natal
+@(Vai Papai Noel!), Demo o gato, Nicol, Tracy, Mary & Adam, Lisa
+@(por suporte moral), Jamal, Mae do T-Ray, os dois Donalds,
+@Teresa Brooks, Zeb Cook, Chris Avellone, Dinheiro do Almoco, O Patio
+@do Almoco, Weez, Weaz, Irvine Spectrum, Wiz War, Dragon Dice, B5,
+@Arquivos-X, Xena, Buffy, Os Simpsons, Plantao Medico, Jeepin' e
+@ao Cao Falador do Ultimo Minuto por achar aquele maldito bug!
+
+@Agradecimentos especial aos membros do quadro de boletins da
+@página da web pelos comentários, sugestões e bug reports sobre o demo.
+@Seu feedback foi apreciado!
+
+
+
+
+
+
+
+
+@E isso e tudo!
+
+
+
+@Não ha mais creditos
+
+
+
+@Pare de olhar
+
+
+
+
+
+
+
+
+
+@Fallout foi trazido a voce pela Interplay Productions,
+@Time Fallout e a letra Q.
+
+
+
+
+Tenha um dia bacana!

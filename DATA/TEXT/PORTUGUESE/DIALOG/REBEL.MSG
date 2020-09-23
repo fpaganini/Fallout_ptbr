@@ -1,0 +1,64 @@
+{100}{}{Voce ve o: Andarilho da vault.}
+{101}{}{Voce ve o: Andarilho da vault aborrecido.}
+{102}{}{}
+{103}{}{}
+{104}{}{}
+{105}{}{Obrigado por nos salvar.}
+{106}{}{Eu estava com um pouco de incerteza se voce conseguiria
+ faze-lo, mas eu confio em voce agora.}
+{107}{}{Obrigado! Obrigado!}
+{108}{}{Voce e um heroi. Meu pequeno Bobby quer ser como voce
+ quando ele crescer. Eu nao sei se eu gosto disso.}
+{109}{}{Voce e um heroine. Meu pequeno Bobby quer ser como voce
+ quando ele crescer. Eu nao sei se eu gosto disso.}
+{110}{}{Voce e um swell guy!}
+{111}{}{Voce e um swell gal!}
+{112}{}{Voce tem certeza que voce precisa disso aqui?}
+{113}{}{Isso e uma arma!}
+{114}{}{Voce realmente usou isso contra alguem?}
+{115}{}{Por que voce acha que e necessario carregar uma arma
+ aqui?}
+{116}{}{Ola! Como vai a busca?}
+{117}{}{Muito bem.}
+{118}{}{Nao tao boa.}
+{119}{}{Ugh.}
+{120}{}{Bem, isso e bom de ouvir. Mantenha o bom trabalho, eu acho.}
+{121}{}{Sem problema.}
+{122}{}{Nos sabiamos que nao havia esperanca. Eu nao acho que nos
+ conseguiremos um novo chip em tempo. Eu acho que alguns de nos
+ deveriamos nos mudar pro lado de fora antes que seja tarde demais.}
+{123}{}{Eu nao acho que essa seja uma boa ideia.}
+{124}{}{Hmm. Isso poderia ser o melhor.}
+{125}{}{Por favor se apresse.}
+{126}{}{Nao se preocupe, eu acharei o chip.}
+{127}{}{Talvez voce devesse vir a uma de nossas reunioes. A Theresa tem
+ algumas boas ideias. Nos nos encontramos na sala dela no segundo nivel,
+ as cinco horas de cada noite.}
+{128}{}{Eu pensarei a respeito.}
+{129}{}{Nao obrigado. Eu tenho trabalho a fazer.}
+{130}{}{Isso e o que a Theresa acha. Ela tem tudo trabalhado. Nos estamos
+ pensando em deixar a vault em breve.}
+{131}{}{Boa sorte.}
+{132}{}{Eu acho que voce ainda nao deveria sair.}
+{133}{}{Por que o Supervisor escolheu voce? E obvio que voce nao conseguiria
+ achar os cardacos dos seus sapatos, muito menos um novo chip de agua.}
+{134}{}{Urgh.}
+{135}{}{Voce nao tem um trabalho a fazer? Se apresse e ache o chip!}
+{136}{}{Nao me diga o que fazer, garoto perdedor!}
+{137}{}{Esta certo! Algumas pessoas...}
+{138}{}{Gdorf!}
+{139}{}{Voce selou o destino de todos nesta vault, traidor. Eu espero que voce
+ esteja satisfeito consigo mesmo.}
+
+{1000}{}{Supervisor}
+{1001}{}{Vault13}
+{1002}{}{Vault-13}
+{1003}{}{Vault}
+{1100}{}{O Supervisor apenas quer manter todos sob o controle dele aqui. Nos
+ precisamos sair no mundo por nos mesmos.}
+{1101}{}{A vault foi nosso lar, mas simplesmente nao durara mais. E hora
+ de fazer um novo lar.}
+{1102}{}{A vault foi nosso lar, mas simplesmente nao durara mais. E hora
+ de fazer um novo lar.}
+{1103}{}{A vault foi nosso lar, mas simplesmente nao durara mais. E hora
+ de fazer um novo lar.}

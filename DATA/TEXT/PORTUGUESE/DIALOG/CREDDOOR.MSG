@@ -1,0 +1,5 @@
+{100}{}{A porta esta trancada. Voce nunca viu uma tranca como esta.}
+{101}{}{A porta esta fechada, mas esta destrancada.}
+{102}{}{Voce tenta abrir a porta, mas falha. Voce de repente percebeu que a porta esta trancada.}
+{103}{}{Voce falha em abrir a tranca na porta.}
+{104}{}{Voce abre a tranca na porta.}

@@ -1,0 +1,8 @@
+{100}{}{Voce ve um empregado da Caravana das Aguas.}
+{101}{}{Fale com a Martha se voce quer um trabalho.}
+{102}{}{Estas viagens das caravans estao ficando muito perigosas.}
+{103}{}{Ei, voce tem algum cigarro?}
+{104}{}{Eu preciso de um banho.}
+{105}{}{Por favor saia.}
+{106}{}{Melhor voce ser cuidadoso. Nos nao pagamos a esses guardas pela aparencia deles.}
+{107}{}{Va em algum outro lugar se voce quer um trabalho.}

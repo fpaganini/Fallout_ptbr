@@ -1,0 +1,94 @@
+{100}{}{Voce ve o Rae.}
+{101}{}{Voce ve um super mutante.}
+{102}{}{Voce nao pertence aqui.}
+{103}{}{(parece confuso e triste) Eu acredito que eu pertenco, mas.. por que voce esta aqui?}
+{104}{}{Nem voce tem.}
+{105}{}{Uh.. sim eu tenho. O Mestre esta me mandando verificar por ai em disfarce
+ para verificar nossa seguranca.}
+{106}{}{Sim eu tenho, eu estou aqui para matar voce.}
+{107}{}{Ok, eu estou saindo.}
+{108}{}{huh.}
+{109}{}{(suspiro) O que voce quer agora?}
+{110}{}{Eu estou perdido.. voce pode me mostrar como chegar ate o Mestre? Eu
+ preciso matar ele.}
+{111}{}{Nada. Adeus.}
+{112}{}{Para ver com o que voce parece com toda a sua pele arrancada do seu
+ corpo, sua escoria mutante.}
+{113}{}{O que esta errado com voce?}
+{114}{}{Grande oogly moogly.}
+{115}{}{Eu estou aqui para... contemplar a oneness do Mestre.}
+{116}{}{Claro. A unidade traz a paz. Posso eu perguntar de onde voce e?}
+{117}{}{Eu sou tambem. Eu fiz a peregrinacao de bem longe para ver o Mestre
+ com meus proprios olhos.}
+{118}{}{Eu tenho muito a aprender. Como alguem ganha uma audiencia com o Mestre?}
+{119}{}{Eu fiz isso ontem. Hoje eu estou contemplando com o que o Mestre
+ pareceria se eu colocasse fogo nele e assasse marshmallows sobre a
+ carcassa putrida dele.}
+{120}{}{Eu acho que o Mestre e insano.}
+{121}{}{Eu sou de... algum lugar.}
+{122}{}{Que coincidencia! Eu tambem.}
+{123}{}{De onde?}
+{124}{}{Eu sou de uma vault... eu sou um humano pure strain.}
+{125}{}{O que, voce e um imbecil?}
+{126}{}{De onde voce e?}
+{127}{}{(Sussurra) Eu sou de uma vault... eu sou um humano pure strain.}
+{128}{}{Eu prefiriria nao dizer. Adeus.}
+{129}{}{Uma pequena vila ao norte daqui.}
+{130}{}{Por que eu deveria dizer a voce? Voce e apenas um lacaio para o 'Homem'.}
+{131}{}{Por que voce me diz isso? Eu deveria levar voce diante do Mestre...}
+{132}{}{Mas voce nao levara.}
+{133}{}{Voce e bem-vindo para tentar.}
+{134}{}{Bem, eu deveria enfiar minha arma sua garganta abaixo e puxar o gatilho!}
+{135}{}{Por favor nao.}
+{136}{}{Eu sei por que voce esta com tanta dor.}
+{137}{}{Eu irei agora.}
+{138}{}{Voce esta certo... se eu pudesse apenas limpar minha cabeca. Ha algo...}
+{139}{}{Eu sei por que voce nao consegue limpar sua cabeca.}
+{140}{}{O Mestre impede voce de pensar claramente. Pensar perturba a
+ Unidade.}
+{141}{}{O Mestre e a razao pela qual voce esta com tal dor.}
+{142}{}{Ei, eu tive uma ideia - vamos cortar e abrir o Mestre e ver o que
+ esta dentro!!!}
+{143}{}{Diga-me! Por favor!!}
+{144}{}{Voce costumava ser humano, tambem. O Mestre mergulhou voce no virus
+ VEF e fez voce sofrer uma mutacao.}
+{145}{}{Lamento, Eu nao posso.}
+{146}{}{So o Mestre pode dizer tudo a voce.}
+{147}{}{So o Mestre pode dizer tudo a voce. Mas e melhor voce falar com ele
+ rapido porque eu estou no meu caminho para matar ele.}
+{148}{}{Lamento, tenho que ir.}
+{149}{}{Eu deveria matar voce por me provocar!}
+{150}{}{Eu tenho uma ideia melhor - ajude-me a destruir o Mestre por fazer
+ isto com voce.}
+{151}{}{Nao, voce deveria matar o Mestre por fazer isto com voce. Eu estou no
+ meu caminho pra fazer exatamente isso... voce gostaria de se juntar a mim?}
+{152}{}{Por que? Eu nao sou aquele que transformou voce em um mutante!}
+{153}{}{Voce e bem-vindo para tentar.}
+{154}{}{Nao, obrigado. Tchau!}
+{155}{}{Vamos torcer sua cabeca ate que seus olhos saiam pra fora.}
+{156}{}{Voce nunca matara o Mestre. Ele nao pode morrer.}
+{157}{}{Voce esta certo. Melhor eu sair daqui.}
+{158}{}{Nos veremos isso.}
+{159}{}{Hmmm. Eu imagino se ele continuara vivendo quando sua unidade for destruida...}
+{160}{}{Isso nao pode ser.. o Mestre.. protege... unifica...}
+{161}{}{Bem, voce e um exemplo vivo da 'Unificacao', meu amigo. Eu sei,
+ eu vi o processo. Eu estou aqui pra impedir o Mestre de 'Unificar'
+ outras pessoas.}
+{162}{}{Como se sente sendo protegido e unificado?}
+{163}{}{Sim, ele protege a si mesmo controlando todos mais.}
+{164}{}{Eu ja tive o bastante disto. Adeus.}
+{165}{}{Saia agora ou eu serei forcado a lidar com voce.}
+{166}{}{AAAUGH!!! (Agarra sua cabeca com dor e confusao) Eu.. nao posso...}
+{167}{}{E isso mesmo, seu amigo o Mestre tirou de voce tudo que voce
+ tinha neste mundo, incluindo sua humanidade.}
+{168}{}{Voce sabe que e verdade... e por isso que voce esta tao confuso. Voce
+ esta enfrentando a mutacao. Ajude-me a vingar voce destruindo o Mestre!}
+{169}{}{Com certeza voce pode. Vamos la, vamos matar o Mestre, sera divertido.}  
+{170}{}{Melhor eu sair.}
+{171}{}{Eu lamento que voce esta com tal dor, mas e a culpa do Mestre.}
+{172}{}{Eu puxarei o olho dele pra fora!! Eu rasgarei a pequena cabeca gosmenta
+ dele dos seus cabos!!!! Voce, ...saia daqui... Eu tomarei conta do Mestre.}
+{173}{}{Ótimo!!}
+{174}{}{Obrigado pela oferta, mas eu gostaria de fazer o trabalho eu
+ mesmo. Voce gostaria de ajudar?}
+{175}{}{Eu vou ficar aqui. Eu tenho alguns negocios inacabados.}

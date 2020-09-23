@@ -1,0 +1,10 @@
+{100}{}{Voce escapou da cela. Voce e agora definitivamente um fugitivo em
+ Junktown!}
+{101}{}{A porta parece solida, e tem uma tranca stout. Ainda, trancas podem ser abertas, e
+ portas podem ser destruidas.}
+{102}{}{The door is locked.}
+{103}{}{Voce destranca a porta.}
+{104}{}{Voce tranca a porta.}
+{105}{}{Voce falha em destrancar a porta.}
+{106}{}{Voce falha em trancar a porta.}
+{107}{}{Voce ganha 250 pontos de experiencia por busting out da cadeia!}

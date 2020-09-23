@@ -1,0 +1,5 @@
+{100}{}{Esta pessoa parece ter sido da Irmandade do Aco.}
+{101}{}{Voce imagina por que esta pessoa de metal esta aqui.}
+{102}{}{Esta pessoa parece ter sido morta por altas quantidades de radiacao.}
+{103}{}{Voce nao consegue determinar o que causou a morta desta pessoa.}
+{104}{}{Esta tecnica gleans mais nenhuma informacao sobre esta pessoa.}

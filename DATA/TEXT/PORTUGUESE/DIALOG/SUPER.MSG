@@ -1,0 +1,6 @@
+{100}{}{E algum tipo de enorme criatura super mutante!
+ E tem uma arma muito comprida!}
+{101}{}{Voce esta no solo da Unidade. Melhor eu levar voce pra dentro.}
+{102}{}{Ok.}
+{103}{}{Eu acho que nao.}
+{104}{}{Wahh?}

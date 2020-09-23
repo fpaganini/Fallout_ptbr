@@ -1,0 +1,11 @@
+{100}{}{Voce ve um prisoneiro dejected dos saqueadores.}
+{101}{}{Ei, voce! Me tire daqui!}
+{102}{}{Fique quieto, voce vai alertar os guardas!}
+{103}{}{Shh! Quem e voce?}
+{104}{}{Goop}
+{105}{}{Eu nao me importo. Me tire daqui por favor!}
+{106}{}{Meu nome e Jack. Eu sou de Junktown. Estes monstros mataram o resto da minha caravana e me puseram aqui.}
+{107}{}{Ok. Eu verei o que eu posso fazer.}
+{108}{}{Que droga. Aprecie sua estada.}
+{109}{}{Por favor, apenas me tire daqui.}
+{110}{}{Ow! Minha perna. Esta machucada. Eu acho que poderia estar quebrada. Por favor me ajude!}

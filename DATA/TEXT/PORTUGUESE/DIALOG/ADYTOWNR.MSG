@@ -1,0 +1,20 @@
+{100}{}{Você vê um habitante de Adytown.}
+{101}{}{Parece chuva . . . como sempre.}
+{102}{}{Lamento, tenho que ir. Tenho trabalho pra fazer.}
+{103}{}{Nós não recebemos muitos forasteiros aqui.}
+{104}{}{Tenho que voltar ao trabalho.}
+{105}{}{Eu voltaria para o Hub, se eu fosse você.}
+{106}{}{Bom dia . . . se isso é do que você pode chamá-lo.}
+{107}{}{Sim . . . que seja.}
+{108}{}{Sem tempo para falar.}
+{109}{}{Não posso falar agora.}
+{110}{}{Espero que a chuva não esteja brilhando como ontem.}
+{111}{}{Parece que nós vamos estar com pouca comida de novo.}
+{112}{}{Eu espero que as caravanas passem de novo em breve.}
+{113}{}{Nós temos uma chance de conseguir agora.}
+{114}{}{Adytum será a cidade que nós queremos que ela seja.}
+{115}{}{Obrigado a você pela sua ajuda.}
+{116}{}{Obrigado a você por nos livrar dos Reguladores.}
+{117}{}{Obrigado a você pela nossa liberdade.}
+{118}{}{É bom que os Reguladores se foram.}
+{119}{}{Bem-vindo(a) a Nova Adytum.}

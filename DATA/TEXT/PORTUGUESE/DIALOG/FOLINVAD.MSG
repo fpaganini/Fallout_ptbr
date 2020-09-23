@@ -1,0 +1,13 @@
+{100}{}{Nos nao estamos aqui pra conversar.}
+{101}{}{Eu seguirei voce ate a morte.}
+{102}{}{Este e um trabalho bastante importante, huh?}
+{103}{}{Nicole diz que nos devemos causar tanto dano quanto possivel.}
+{104}{}{Quem eu conseguirei matar em seguida?}
+{105}{}{O que nos estamos fazendo batendo papo?}
+{106}{}{Eu nao gosto destes cabecas de merda de manto marrom, muito obrigado.}
+{107}{}{Isto poderia ser perigoso.}
+{108}{}{Hora de sair.}
+{109}{}{Este lugar parece merda numa parede.}
+{110}{}{Eu acho que eu vou vomitar.}
+{111}{}{Nicole nos disse pra retornar tao breve quanto voce sair da Catedral.}
+{112}{}{Feliz em encontrar voce. Vamos pra cima.}

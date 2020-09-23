@@ -1,0 +1,18 @@
+{100}{}{Voce ve Sammy.}
+{101}{}{caves.map}
+{102}{}{Fale com o Elder. Ele tem algo importante a dizer pra voce primeiro.}
+{103}{}{Me siga. Eu sei o caminho para o covil.}
+{104}{}{Rapaz, eu desejo que voce tivesse a coragem pra nos ajudar.}
+{105}{}{Todos prontos pra ir? Uma vez que nos cheguemos ao covil nao ha
+ volta ate o trabalho ser feito.}
+{106}{}{Sim}
+{107}{}{Nao}
+{108}{}{caves.map}
+{109}{}{Rapaz, eu desejo que voce tivesse a coragem pra nos ajudar.}
+{110}{}{Me siga. Eu sei o caminho para o covil.}
+{111}{}{Todos prontos pra ir? Uma vez que nos cheguemos ao covil nao ha
+ volta ate o trabalho ser feito.}
+{112}{}{Sim}
+{113}{}{Nao}
+{114}{}{OK, Eu esperarei por voce aqui. Deixe-me saber quando voce
+ estiver pronto pra ir.}

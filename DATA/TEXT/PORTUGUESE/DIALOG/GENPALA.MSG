@@ -1,0 +1,6 @@
+{100}{}{Morra, seu cachorro!}
+{101}{}{Minha derrota sera vingada!}
+{102}{}{Saudacao, Iniciado! Eu espero que suas patrulhas tenham ido bem.}
+{103}{}{Pare! Se voce nao falou com nosso Capitao ainda, faca-o e entao va!}
+{104}{}{Pare! Eu reconheco voce e eu nao confio em voce. Eu dou a voce um aviso justo:
+ se voce causar problemas pra nos, voce sera morto a tiros. Agora mova-se!}

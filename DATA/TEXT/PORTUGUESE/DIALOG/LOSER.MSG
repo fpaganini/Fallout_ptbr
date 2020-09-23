@@ -1,0 +1,8 @@
+{100}{}{Tem um pouco de comida?}
+{101}{}{Rapaz, eu estou faminto. Eu desejo que eu tivesse alguns burgers de brahmin.}
+{102}{}{Por favor, senhor, me de um pouco de comida.}
+{103}{}{Por favor, senhora, me de um pouco de comida.}
+{104}{}{Eu realmente desejo que eu pudesse achar um pouco de comida por aqui.}
+{105}{}{Eu estou faminto!}
+{106}{}{Eu trabalharei por comida.}
+{107}{}{Comiiiiiiiida . . . me de comida agora!}

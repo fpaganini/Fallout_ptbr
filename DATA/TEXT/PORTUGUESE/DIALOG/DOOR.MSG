@@ -1,0 +1,13 @@
+{100}{}{Voce destranca a porta.}
+{101}{}{Voce quebrou suas gazuas!}
+{102}{}{Voce nao consegue abrir esta tranca.}
+{103}{}{Voce nao foi capaz de abrir a tranca.}
+{104}{}{A porta esta trancada.}
+{105}{}{A porta esta aberta.}
+{106}{}{A porta esta fechada mas destrancada.}
+{107}{}{A porta esta trancada.}
+{108}{}{A porta range com muito barulho.}
+{109}{}{A porta ja esta destrancada.}
+{110}{}{A tranca esta alem da sua habilidade de abrir.}
+{200}{}{Nao ha tranca nesta porta pra abrir.}
+{201}{}{Voce nota algumas irregularidades na parede.}

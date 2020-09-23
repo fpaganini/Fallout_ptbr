@@ -1,0 +1,17 @@
+{100}{}{Voce ve um Skag.}
+{101}{}{Este lugar e bacana! E muito melhor que o meu lugar antigo.}
+{102}{}{Eu gosto daqui!}
+{103}{}{Ha muito espaco. Se voce tivesse qualquer coisa, eu teria bastante espaco.}
+{104}{}{Onde esta meu cachorro?}
+{105}{}{Eu estou com sede.}
+{106}{}{Tem um pouco de comida?}
+{107}{}{Eu estou faminto.}
+{108}{}{Ja e minha hora de dormir?}
+{109}{}{Voce pode ter meu lugar antigo.}
+{110}{}{Eu estou cansado, por que voce esta aqui?}
+{111}{}{Este meu lar! Voce saia!}
+{112}{}{Este meu lar! Voce saia!}
+{113}{}{Onde esta meu travesseiro?}
+{114}{}{Eu estou com sono.}
+{115}{}{Nao me machuque.}
+{116}{}{Voce e a pessoa que machuca as pessoas!}

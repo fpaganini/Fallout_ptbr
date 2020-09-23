@@ -1,0 +1,15 @@
+{100}{}{Esta e uma ogiva nuclear.}
+{101}{}{Ha cabos que vao do computador de acesso ate a
+ ogiva atras dele.}
+{102}{}{Voce armou a ogiva. Um timer com quatro minutos
+ iniciou uma contagem regressiva.}
+{103}{}{Voce desarmou a ogiva nuclear.}
+{104}{}{BOOOOOOOOOM! [Voce detonou a bomba atomica!]}
+{105}{}{Isso nao parece estar funcionando.}
+{106}{}{A contagem regressiva ainda esta contnuando . . . talvez voce deva cortar aquele fio vermelho.}
+{107}{}{Talvez voce deva usar a chave tambem.}
+{108}{}{Esta e uma ogiva nuclear. E controlada pelo computador anexado
+ aos cabos.}
+{109}{}{Nao ha nada nesta ogiva nuclear que precise de reparo.}
+{110}{}{Nao ha nada nesta ogiva nuclear que precise ser destrancado.}
+{111}{}{Esta e uma armadilha muito grande que nao pode ser desarmada ou armada daqui.}

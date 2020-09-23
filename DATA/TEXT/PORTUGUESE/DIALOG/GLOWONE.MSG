@@ -1,0 +1,6 @@
+{100}{}{Voce ve uma criatura brilhante.}
+{101}{}{Mmmm . . .}
+{102}{}{Ahhh . . .}
+{103}{}{A criatura brilhante resmunga algo e entao fica silencionsa. Ele esta
+ babando incontrolavelmente}
+{104}{}{Nao ha resposta.}

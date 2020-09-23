@@ -1,0 +1,97 @@
+{100}{}{Obrigado a voce.}
+{101}{}{Adeus.}
+{102}{}{Ola.}
+{103}{}{Voce ganha }
+{104}{}{ pontos de experiencia.}
+{105}{}{Uh oh!}
+{106}{}{Clique!}
+{107}{}{Opps!}
+{108}{}{Ouch!}
+{109}{}{Vejo voce por ai.}
+{110}{}{Take it sleazy.}
+{111}{}{Foi divertido.}
+{112}{}{Aqui vai voce.}
+{113}{}{Algo mais?}
+{114}{}{Sim.}
+{115}{}{Nao.}
+{116}{}{Voce ganha }
+{117}{}{ pontos de tecnica em Armas Pequenas.}
+{118}{}{ pontos de tecnica em Armas Grandes.}
+{119}{}{ pontos de tecnica em Armas de Energia.}
+{120}{}{ pontos de tecnica em Combate Desarmado.}
+{121}{}{ pontos de tecnica em Armas de Combate Corpo-a-Corpo.}
+{122}{}{ pontos de tecnica em Arremesso.}
+{123}{}{ pontos de tecnica em Primeiros Socorros.}
+{124}{}{ pontos de tecnica em Doutor.}
+{125}{}{ pontos de tecnica em Furtivo.}
+{126}{}{ pontos de tecnica em Roubar.}
+{127}{}{ pontos de tecnica em Gazua.}
+{128}{}{ pontos de tecnica em Armadilhas.}
+{129}{}{ pontos de tecnica em Ciencia.}
+{130}{}{ pontos de tecnica em Reparo.}
+{131}{}{ pontos de tecnica em Discurso.}
+{132}{}{ pontos de tecnica em Permutacao.}
+{133}{}{ pontos de tecnica em Jogo.}
+{134}{}{ pontos de tecnica em Homem ao Ar Livre.}
+{135}{}{Voce ganha um ponto de tecnica em Armas Pequenas.}
+{136}{}{Voce ganha um ponto de tecnica em Armas Grandes.}
+{137}{}{Voce ganha um ponto de tecnica em Armas de Energia.}
+{138}{}{Voce ganha um ponto de tecnica em Combate Desarmado.}
+{139}{}{Voce ganha um ponto de tecnica em Melee Weapons.}
+{140}{}{Voce ganha um ponto de tecnica em Arremesso.}
+{141}{}{Voce ganha um ponto de tecnica em Primeiros Socorros.}
+{142}{}{Voce ganha um ponto de tecnica em Doutor.}
+{143}{}{Voce ganha um ponto de tecnica em Sneak.}
+{144}{}{Voce ganha um ponto de tecnica em Roubar.}
+{145}{}{Voce ganha um ponto de tecnica em Gazua.}
+{146}{}{Voce ganha um ponto de tecnica em Armadilhas.}
+{147}{}{Voce ganha um ponto de tecnica em Ciencia.}
+{148}{}{Voce ganha um ponto de tecnica em Reparo.}
+{149}{}{Voce ganha um ponto de tecnica em Discurso.}
+{150}{}{Voce ganha um ponto de tecnica em Permutacao.}
+{151}{}{Voce ganha um ponto de tecnica em Jogatina.}
+{152}{}{Voce ganha um ponto de tecnica em Outdoorsman.}
+{153}{}{Sua Forca e aumentada em }
+{154}{}{Sua Percepcao e aumentada em }
+{155}{}{Sua Resistencia e aumentada em }
+{156}{}{Sua Carisma e aumentada em }
+{157}{}{Sua Inteligencia e aumentada em }
+{158}{}{Sua Agilidade e aumentada em }
+{159}{}{Sua Sorte e aumentada em }
+{160}{}{pontos.}
+{161}{}{Sua Forca e aumentada por um ponto.}
+{162}{}{Sua Percepcao e aumentada por um ponto.}
+{163}{}{Sua Resistencia e aumentada por um ponto.}
+{164}{}{Sua Carisma e aumentada por um ponto.}
+{165}{}{Sua Inteligencia e aumentada por um ponto.}
+{166}{}{Sua Agilidade e aumentada por um ponto.}
+{167}{}{Sua Sorte e aumentada por um ponto.}
+{168}{}{Obrigado pela sua ajuda.}
+{169}{}{Obrigado por nada.}
+{170}{}{Aradesh esta furioso e se recusa a falar mais com voce.}
+{171}{}{Eu acredito que o Master deseja falar com voce.}
+{172}{}{Voce pagara pela sua BLASFÊMIA!}
+{173}{}{Este robo parece estar inoperavel. Isto e possivelmente devido a falta de forca.}
+{174}{}{Voce nao ve nada especial neste robo.}
+{175}{}{Este Blade se recusa a falar com voce.}
+{176}{}{A mala esta selada e nao abre.}
+{177}{}{Por favor, nos devemos nos apressar. Nos nao temos tempo para falar.}
+{178}{}{So o Morpheus tem a chave pra esta porta. Eu devo sair agora pra deixar
+ a Nicole saber o que esta acontecendo aqui.}
+{179}{}{Por favor, eu tenho que sair daqui antes que eles descubram quem eu sou.}
+{180}{}{Voce falha em roubar qualquer coisa e imagina se voce foi pego.}
+{181}{}{Os membros da Irmandade pegaram voce roubando.}
+# Mysterious Stranger messages
+{182}{}{Vamos detonar!}                                # 0
+{183}{}{Parece que voce poderia usar um pouco de assistencia.} # 1
+{184}{}{Eu ajudarei a ti.}                         # 0
+{185}{}{Eu nao falo muito.}                        # 1
+{186}{}{Voce ouve o alto-falante alto: Aviso! Alerta de Intruso.}
+{187}{}{A gosma retardou a transmissao dos seus keystrokes.}
+{188}{}{Os radscorpions estao agora selados na caverna deles.}
+{189}{}{A boca da caverna beckons voce mais fundo no covil dos radscorpions.}
+
+{200}{}{Voce um campo emissor horrivelmente danificado.}
+{201}{}{O emissor esta muito danificado para usar.}
+{202}{}{O emissor esta muito danificado para reparar.}
+{203}{}{Voce nota que o campo esta danificado o bastante para caminhar atraves dele.}

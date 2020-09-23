@@ -1,0 +1,10 @@
+{100}{}{Voce ve o Kenny.}
+{101}{}{Se voce tem negocios com a policia do Hub, por favor fale com o Xerife Greene. Eu so tomo conta dos deveres dele
+ quando o Xerife esta indisponivel.}
+{102}{}{Eu nao consigo acreditar que o Xerife esta realmente morto.}
+{103}{}{Ai esta voce. Eu estava esperando voce retornar. Nos ouvimos que o Xerife foi morto durante a batalha.
+  E dificil acreditar que ele realmente se foi. Ele era como um pai pra mim.}
+{104}{}{O Xerife me deu instrucoes pra executar no evento de que ele nao retornasse da missao. Ele
+ me pediu pra dar a voce o resto da sua recompensa. Eu acredito que eram 1000 tampinhas. [O Deputy da a voce 1000 tampinhas]}
+{105}{}{Esta cidade deve a voce um debito de gratidao. Eu so desejo que o Xerife pudesse estar aqui pra agradecer a voce ele mesmo. Adeus.}
+{106}{}{Oh meu Deus! Eles mataram o Kenny! Aqueles bastardos!}

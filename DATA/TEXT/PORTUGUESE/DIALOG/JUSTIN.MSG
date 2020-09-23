@@ -1,0 +1,98 @@
+{100}{}{Você vê o Xerife Justin Greene.}
+{101}{}{Awe, it's the slayer of the innocents. I've heard of you, and you're lucky I have a badge stopping me
+ from blowing you away on the spot. I suggest you leave our town--Right now. And stay away from our children.}
+{102}{}{Hello sir! The name's Justin Greene. I'm the sheriff of this fine city. It there something I can
+ do for you this fine day?}
+{103}{}{Hello ma'am! The name's Justin Greene. I'm the sheriff of this fine city. It there something I can
+ do for you this fine day?}
+{104}{}{Bem, cuspa pra fora!}
+{105}{}{Decker me contratou para matar algum mercador e sua esposa.}
+{106}{}{Decker tentou me contratar para matar alguém chamado Jain.}
+{107}{}{Nada, lamento.}
+{108}{}{Lamento, eu não posso dizer a você. Eu seria morto(a).}
+{109}{}{Well, thank you. We try our best. It's really tough in a city this size, but we do the best we can with
+ what we've got. It's hard when the thugs have better firepower than you do.}
+{110}{}{Obrigado de novo.}
+{111}{}{É hora de você sair, assassino(a) de crianças.}
+{112}{}{We couldn't have that. But, if you ever change your mind, please let me know. It's a dangerous
+ place out there and someone has to stand up for what's right.}
+{113}{}{Excellent! I has already heard from other sources about his plan. You're the final confirmation I needed
+ to take action against him. This is going to be rough, and I can use any help I can get. I can pay you 1000
+ scripts. 200 now, and the rest when we're all done. What do you say?}
+{114}{}{You're too late...Damn! I knew he was responsible, I only wish I knew in time to stop him. In any case,
+ you're the final witness I needed to act. We'll have to "take him out." This is going to be rough, and I can
+ use any help I can get. I can pay you 1000 scripts. 200 now, and the rest when we're all done. What do you say?}
+{115}{}{You're too late...How do I know you're not responsible? Decker's not likely to let someone know about his
+ plans and live.}
+{116}{}{I just got word that she's already dead...wait a minute. How do I know that you're not the one responsible?
+ Decker's not likely to let someone know about his plans and live.}
+{117}{}{Será um prazer.}
+{118}{}{Lamento, eu quero tudo de primeira.}
+{119}{}{De modo algum! Você está por sua própria conta.}
+{120}{}{De modo algum. You seem trustworthy, but I can't be sure that you won't leave us when it gets hot. This way,
+ one of us has to survive to be sure you get paid. This way, it might add a 'little' bit of insurance.}
+{121}{}{Vamos fazê-lo.}
+{122}{}{Você está por sua própria conta, Xerife.}
+{123}{}{Ótimo! Nós podemos sair tão breve quanto você estiver pronto(a).}
+{124}{}{Eu estou pronto(a).}
+{125}{}{Ok, Tchau.}
+{126}{}{I'm really sorry to hear that. If you change your mind, let me know, but I can't wait very long.}
+{127}{}{Ok, Eu o farei. Apenas espere por mim para obter alguns suprimentos.}
+{128}{}{Você está louco.}
+{129}{}{Tchau.}
+{130}{}{Great! Let me know when you're ready. We'll wait for you, but don't take too long.}
+{131}{}{What? Do you expect me to stand around and let him kill innocent people? I've a responsibility to this
+ city, which I don't expect you to understand.}
+{132}{}{Você está certo(a). Agora é a sua vez.}
+{133}{}{Como ousa você me acusar?}
+{134}{}{Eu não me importo com o que você pensa.}
+{135}{}{Bem, ele não tentou nada.}
+{136}{}{Nós estávamos no Falcão e havia muitas pessoas em volta}
+{137}{}{I'm sorry. Decker's been playing us all against each other for years. I don't know who to trust any more.
+ I really could use your help though. it'll be rough, but I'll pay you 1000 scripts. 200 now and 800 when
+ we're done.}
+{138}{}{I know a rat when I smell one! You're lucky I don't have any proof, and I suggest you leave town before I find some.}
+{139}{}{That's very strange. I've never heard of Decker coming out of his office. He must be getting braver. That
+ damn, murdering...argh! I'll get him yet! I'll tell you what, you help us out, and I'll pay you 1000 scripts--
+ 200 now and 800 when we're all done. What do you say?}
+{140}{}{That's the biggest pile of Brahmin shit I've ever heard. Decker never leaves his office. I knew there was
+ something not right about you. You're lucky I don't have any proof, and I suggest you leave town before I find
+ some!}
+{141}{}{Ok, vamos lá...}
+{142}{}{Então, você veio para se entregar? Eu estou impressionado.}
+{143}{}{Sim, eu lamento.}
+{144}{}{Me entregar? Não me faça rir.}
+{145}{}{Peguem ele!}
+{146}{}{Peguem ela!}
+{147}{}{Tudo bem, para a sua cela você vai.}
+{148}{}{Apenas sente tight. Você não vai pra qualquer lugar por um tempo.}
+{149}{}{Fugitivo! Peguem ele!}
+{150}{}{Fugitiva! Peguem ela!}
+{151}{}{Pronto(a) pra ir?}
+{152}{}{Sim.}
+{153}{}{Não.}
+{154}{}{Ug.}
+{155}{}{Eu não consigo acreditar que o Decker está finalmente moroto. Eu nunca pensei que eu veria o dia.}
+{156}{}{Have you changed your mind? We could still use you to get rid of that disease we talked about.}
+{157}{}{Eu irei.}
+{158}{}{Não, lamento.}
+{159}{}{Fah?}
+{160}{}{Nós estamos observando você.}
+{161}{}{Eu tenho um crime para relatar!}
+{162}{}{Você está fazendo um bom trabalho.}
+{163}{}{Apenas passando. Vejo você.}
+{164}{}{Oula.}
+{165}{}{Olá de novo, senhor. O que eu posso fazer por você hoje?}
+{166}{}{Olá de novo, senhora. O que eu posso fazer por você hoje?}
+{167}{}{Olá. Como eu posso ajudar você?}
+{168}{}{Sim?}
+{169}{}{Apenas durma, ok?}
+{170}{}{Você está brincando?  Bem... uh... ele... ele pediu a você pessoalmente?}
+{171}{}{Sim, ele pediu.}
+{172}{}{Man, that was one hell of a battle!  You did well in there.  Now that Decker and Kane are gone the rest of the
+ Underground will fall very shortly.  Without leadership, organizations like that can't last.  Nobody around here is smart
+ enough to take up the reigns.}
+{173}{}{Well, here's the rest of your reward.  Thanks again for your help.  This city owes you a debt of gratitidue.
+  [The Sheriff hands you 1000 caps]}
+{174}{}{Nós podemos sair tão breve quanto você estiver pronto(a).}
+{175}{}{Deixe-me saber quando você estiver pronto(a). Nós esperaremos por você, mas não demore muito.}

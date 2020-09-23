@@ -1,0 +1,21 @@
+{100}{}{Voce ve um homem, ele rapidamente olha intensamente nos seus olhos e entao pra longe.}
+{101}{}{Voce ve o Greg.}
+{102}{}{O que? Por que voce esta falando comigo. Eles ouvirao voce sabe.}
+{103}{}{Oi, voce esta de volta. Nao fale tao alto, eles estao la fora.}
+{104}{}{Ok, mas fale baixo, eles virao por nos dois se voce nao parar de gritar.}
+{105}{}{Quem e voce?}
+{106}{}{Por que voce esta tao jumpy?}
+{107}{}{Eu acho que eles precisam aumentar sua medicacao.}
+{108}{}{Deixe pra la.}
+{109}{}{Eu sou o...Greg...mas nao deixe ninguem mais saber, ou eles virao pra me achar.}
+{110}{}{Jumpy, Eu nao sou jumpy. Apenas cuidadoso. Eles todos dizer que eu sou paranoico, mas eu sou o unico que vai estar aqui quando eles vierem nos pegar.}
+{111}{}{Vierem pegar voce? Quem esta vindo pegar voce?}
+{112}{}{Voce certamente e paranoico, eu falarei com voce mais tarde.}
+{113}{}{Bem eles sao...Voce sabe nao sabe...A doenca foi apenas o inicio. Agora els vao vir e nos levar todos. Mas voce e como todo o resto. Voce nao acreditara em mim e voce estara condenado. Voce, marque minhas palavras. EU AINDA ESTAREI AQUI, e TUDO ISTO, INCLUINDO VOCES, SERA LEVADO. LEVADO. [Greg grasps a cabeca dele e curls up em uma fora de bola, squealing e thrashing about]}
+{114}{}{Medicacao...Oh, entao voce e um deles, tentando me fazer tomar a medicacao de novo....Bem, voce nao me fara tomar. EU NAO A TOMAREI, NAO, EU NAO TOMAREI. AS VOZES, NAO, EU NAO TOMAREI, VOCE NAO PODE ME FAZER. [Greg fecha os olhos dele com forca e clutches a cabeca dele frantically, falando com as vozes que so ele consegue ouvir.]}
+{115}{}{VOCE NAO PODE ME FAZER!}
+{116}{}{NADA DO QUE VOCE POSSA FAZER AJUDARA!}
+{117}{}{ESTA TUDO ACABADO!}
+{118}{}{ELES ESTAO VINDO, E VOCE NAO PODE PARA-LOS!}
+{119}{}{PEGARAO TODOS VOCES!}
+

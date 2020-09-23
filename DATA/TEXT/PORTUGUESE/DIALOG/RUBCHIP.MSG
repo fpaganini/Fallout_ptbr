@@ -1,0 +1,7 @@
+{100}{}{Voce e capaz de determinar que o Centro de Comando e Controle
+ esta definitivamente enterrado sob ate mesmo mais rocha. Voce tera que
+ procurar o chip da agua em outro lugar.}
+{101}{}{A grande quantidade de escombros bloqueando este corredor parece impressionante.
+ Voce nao acha que possam ser movidos, mesmo com explosivos de grande poder.}
+{102}{}{Voce ganha }
+{103}{}{ pontos de experiencia.}

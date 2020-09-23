@@ -1,0 +1,10 @@
+{100}{}{Este computador contem uma grande quantidade de informacao
+ preservada de antes da Grande Guerra.}
+{101}{}{Voce usa o sistema de ensinamento do computador da vault.}
+{102}{}{Voce gasta algum tempo no sistema de ensinamento do computador
+ da vault mas nao aprende nada de importancia.
+ O mundo exterior e seu professor agora.}
+{103}{}{Voce gasta algum tempo pesquisando um pouco de informacao importante.}
+{104}{}{Voce gasta algum tempo na interweb nao fazendo nada de importancia.}
+{105}{}{Voce mexe com o computador um pouco, mas e necessario um pouco de tecnica
+ cientifica pra realmente conseguir qualquer coisa util deste terminal.}

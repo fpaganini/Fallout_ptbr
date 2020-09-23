@@ -1,0 +1,58 @@
+{100}{}{Voce ve o Sammael, um dos Scavs de Adytum.}
+{101}{}{Voce ve um homem grungy com roupas azuis escuras.}
+{102}{}{Ei, eu nao acredito que nos nos encontramos. Voce e?}
+{103}{}{Eu sou }
+{104}{}{.}
+{105}{}{Quem esta perguntando?}
+{106}{}{Eruh?}
+{107}{}{O prazer e meu. Me chamo Sammael.}
+{108}{}{O que voce faz aqui?}
+{109}{}{Foi bom conversar com voce.}
+{110}{}{Ninguem especial. Deixa pra la.}
+{111}{}{Eu sou um Scav -- um scavenger. Meu trabalho e procurar por toda a
+ Boneyard por itens uteis e informacao. Trabalho perigoso.}
+{112}{}{Por que e perigoso?}
+{113}{}{Como voce evita os deathclaws?}
+{114}{}{Voce patrulhou quaisquer das outras areas?}
+{115}{}{Obrigado, tchau.}
+{116}{}{Vejo voce por ai. Se voce me ver. Heh.}
+{117}{}{Bem, voce tem os deathclaws la fora, e entao voce tem os Reguladores
+ de volta aqui em Adytum. Ambos nao sao os tipos que mais perdoam.}
+{118}{}{Como voce evita os deathclaws?}
+{119}{}{Voce patrulhou quaisquer das outras areas?}
+{120}{}{Obrigado, tchau.}
+{121}{}{Nos so trabalhamos a noite, e nos somos bons no que nos fazemos. Mas eu
+ admito que nem todo mundo sempre volta. Eu enviei um cara na ultima semana pra
+ procurar por algumas partes pro Miles, e nos nao ouvimos falar dele desde
+ entao. A ultima transmissiao que eu obtive dele era que ele achou as
+ partes e estava no caminho de volta dele.}
+{122}{}{Eu fiz um pouco de patrulhamento. De quem voce quer saber a respeito?}
+{123}{}{Dos Blades.}
+{124}{}{Dos Deathclaws.}
+{125}{}{Dos Gun Runners.}
+{126}{}{Dos Seguidores do Apocalipse.}
+{127}{}{Das Criancas da Catedral.}
+{128}{}{De ninguem, obrigado.}
+{129}{}{Os Blades sao uma vista bastante lamentavel pra um grupo de pessoas.
+ Apesar disso eles vem aqui, e alguns deles terminam aqui em Adytum se eles
+ concordam em fazer o que os Reguladores oferecem a eles pra fazer.}
+{130}{}{Bem, se voce nao viu eles antes. Eles sao malvados como o inferno, e
+ nao gostam de nada mais do que arrancar fora o coracao de um pobre Scav.}
+{131}{}{Eu ouvi que ha um ninho deles em algum lugar a leste do Blades,
+ mas eu mesmo nao vi.}
+{132}{}{Os Gun Runners se mudaram pra uma grande fabrica a nordeste ha nao
+ muito tempo atras. Nao posso dizer muito a voce por que eles tem um fosso
+ cheio de lixo radioativoe, e voce tem que passar pelos deathclaws
+ pra chegar la.}
+{133}{}{Os Seguidores pregam a paz e a tolerancia. Ideia bacana, mas nao
+ e pratica. Eles vivem numa grande biblioteca a noroeste de nos.}
+{134}{}{As Criancas da Catedral estao baseadas numa grande igreja
+ ao sul daqui. Ha algumas coisas estranhas acontecendo la. Eu vi
+ criaturas que nao podem ser humanas entrando e saindo
+ de la.}
+{135}{}{E se as estorias estao corretas, a igreja esta construida sobre
+ uma vault antiga, da qual os predecessores de Adytum viveram.}
+{136}{}{Eia. Nos vemos um ao outro mais uma vez. O que e que ha?}
+{137}{}{De novo, qual era seu trabalho?}
+{138}{}{Nada, obrigado.}
+{139}{}{Oh, eu entendo. Certo. Tchau!}

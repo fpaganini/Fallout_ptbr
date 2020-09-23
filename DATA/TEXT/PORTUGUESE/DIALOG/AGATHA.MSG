@@ -1,0 +1,69 @@
+{100}{}{Você vê uma mulher de idade.}
+{101}{}{Você vê Agatha.}
+{102}{}{Esta mulher está enrrugada e cinza, ainda, tem um passo spry e uma
+ personalidade brilhante.}
+{103}{}{Você é uma pessoa ruim. Eu não terei nada a ver com você.}
+{104}{}{É uma coisa terrível quando nossa juventude é ameaçada. A perda
+ de Tandi seria uma coisa terrível.}
+{105}{}{Hnng.}
+{106}{}{Ok.}
+{107}{}{Por que?}
+{108}{}{O que você quer dizer?}
+{109}{}{Eu sei que você fará o seu melhor, querido(a). Ache Tandi, ajude-a a escapar
+ daquelas feras e retorne ela a Aradesh. Você fará a esta comunidade um favor e
+ constrói um bom karma também.}
+{110}{}{Aradesh ama sua filha muito. É esse amor que faz ele o
+ homem que ele é e um pilar desta comunidade. Sem esse amor ele
+ estaria perdido e Shady Sands certamente o seguiria . . .}
+{111}{}{Eu farei o meu melhor. Adeus.}
+{112}{}{Eu poderia usar um pouco de ajuda.}
+{113}{}{Hmmm. Nós veremos.}
+{114}{}{Eu sinto que ela está aprisionada. Ela foi o alvo do ódio. Esse ódio está
+ muito forte ao sudeste. Eu tenho certeza que você a achará lá. Boa sorte.}
+{115}{}{Obrigado a você.}
+{116}{}{Você não ouviu? Tandi está desaparecida. Eu sinto que ela foi sequestrada.
+ Aradesh está muito distraught. Isto é uma coisa terrível . . .}
+{117}{}{Eu ouvi que você salvou a Tandi. Essa foi a coisa certa a fazer.
+ Seu karma é forte. Eu tenho altas esperanças pelo seu futuro.}
+{118}{}{Eu lamento muito ouvir sobre a Tandi. Ela era uma mulher tão jovem e brilhante.
+ Ela teria feito o bem com a vida dela.}
+{119}{}{Olá. Você deve ser o(a) estranho(a) de que todos estão falando.
+ [Agatha suspira.] Como eu posso ajudar você?}
+{120}{}{Hngh.}
+{121}{}{Quem é você?}
+{122}{}{Você parece muito cansada. Há algo errado?}
+{123}{}{Por que você parece tão cansada?}
+{124}{}{Não fale comigo, mulher velha.}
+{125}{}{Você precisa de mais ajuda do que eu posso dar a você, criança. Possa Dharma estar com você.}
+{126}{}{Meu nome é Agatha. Eu sou a contadora de estórias de Shady Sands. É meu trabalho
+ manter a história para que nós possamos lembrar e nunca esquecer.}
+{127}{}{Diga-me uma estória.}
+{128}{}{Ok, que seja.}
+{129}{}{É bom não esquecer.}
+{130}{}{Eu lamento, criança, eu estou cansada agora. Eu preciso do meu descanso. Por
+ favor volte mais tarde.}
+{131}{}{Quão muito verdadeiro. [Agatha olha fixamente para você por um momento.] É
+ para os jovens lembrar, mas é muito difícil agir dentro do fluir da história.
+ As vezes, o mesmo curso que nós tomamos é determinado por eventos há muito atrás.
+ Possa Dharma estar com você. Eu devo descansar por um pouco de tempo. Volte de novo
+ quando eu estiver mais forte e nós falaremos de novo.}
+{132}{}{Obrigado a você por perguntar. Eu sou apenas velha, isso é tudo. Eu não consigo
+ dormir a noite. Eu fecho meus olhos . . . [Agatha pausa.] Mas eu não consigo descanso.
+ Por favr, são apenas meus velhos ossos cansados . . .}
+{133}{}{Eu lamento, eu estou muito cansada. Você poderia por favor voltar depois?}
+{134}{}{Baba.}
+{135}{}{Ok.}
+{136}{}{Por que você está tão cansada?}
+{137}{}{Eu não durmo bem a noite minha criança. Deve ser minha idade.}
+{138}{}{Bom dia, minha criança. Você parece bem. Você me lembra de meu próprio bebê.}
+{139}{}{Hng.}
+{140}{}{Eu quero uma estória então.}
+{141}{}{Eu estou feliz que você está se sentindo melhor.}
+{142}{}{Obrigado a você. Adeus.}
+{143}{}{Você definitivamente me lembra do meu bebê. Quando ela tinha apenas alguns
+ meses de idade, como uma questão de fato.}
+{144}{}{Obrigado a você. Dharma sempre disse que o fazendeiro que planta educação
+ caminhará fácil quando a estação estiver terminada.}
+{145}{}{Por favor conte-me uma estória.}
+{146}{}{Este camarada Dharma soa como um idiota.}
+{147}{}{Você insulta seus velhos, Você deveria saber mais.}

@@ -1,0 +1,4 @@
+{100}{}{Nunca antes na sua vida voce viu uma escuridao natural como esta.
+ Ela quase parece nao natural pra voce.}
+{101}{}{Voce mal consegue manter seus medos sob controle, mas voce e capaz de se
+ mover na escuridao.}

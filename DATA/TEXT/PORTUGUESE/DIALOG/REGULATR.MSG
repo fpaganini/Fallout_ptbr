@@ -1,0 +1,86 @@
+{100}{}{Voce ve um Regulador, um dos guardas de Adytum.}
+{101}{}{}
+{102}{}{Mantenha suas armas sob controle enquanto voce estiver aqui.}
+{103}{}{Bem-vindo a Adytum, estranho. Watch yourself, nos estaremos observando voce.}
+{104}{}{Eu gostaria de entrar.}
+{105}{}{Eu posso fazer algumas perguntas?}
+{106}{}{Uhhh . . .}
+{107}{}{Zimmerman poderia ter um uso para voce. Venha pra dentro, mas
+ lembre-se, nos estamos observando.}
+{108}{}{Bem-vind de volta! Voce e bem-vindo aqui a qualquer hora.}
+{109}{}{Voce nao tem um trabalho a fazer? Volte aqui quando voce lidou
+ com ele.}
+{110}{}{Va embora!}
+{111}{}{O que voce quer agora?}
+{112}{}{Eu gostaria de entrar.}
+{113}{}{}
+{114}{}{Nada. Deixa pra la.}
+{115}{}{}
+{116}{}{Nao.}
+{117}{}{Do que voce quer saber a respeito?}
+{118}{}{O que voce faz aqui?}
+{119}{}{Voce pode me dizer mais sobre a Boneyard?}
+{120}{}{Como eu posso entrar?}
+{121}{}{O que voce sabe sobre as Criancas da Catedral
+ e dos Seguidores do Apocalipse?}
+{122}{}{Nada, obrigado.}
+{123}{}{Eu sou um dos Reguladores. E nosso trabalho manter a paz
+ em Adytum e proteger a cidade. Nosso chefe, Caleb,
+ poderia dizer mais a voce.}
+{124}{}{A oeste de nos estao os Seguidores. Eles sao um bando de loucos-da-paz. Ao
+ norte estao os blades, um bando de Skags se voce me perguntar. A ways ao sul daqui
+ esta a Catedral onde as Criancas tem seu centro religioso.}
+{125}{}{Lamento, mas nos temos que ser cuidadosos com estranhos aqui. Muito
+ perigoso. Talvez voce possa fazer algum trabalho para o Zimmerman.}
+{126}{}{Termine seu trabalho.}
+{127}{}{Voce e bem-vindo aqui a qualquer hora, claro!}
+{128}{}{Eles sao ambos grupos de loucos. Os Seguidores querem que todos sejam
+ pacificos e felizes. Eles nao percebem que o mundo e muito
+ harsh para isso.}
+{129}{}{As Criancas tem algum tipo de deus que eles adoram
+ na Catedral delas ao sul. Eles tem um hospital, mas eles
+ sao um pouco muito esquisito para estar no nivel.}
+{130}{}{Voce foi avisado para manter suas armas sob controle!}
+{131}{}{Melhor voce guardar suas armas enquanto voce estiver aqui.}
+{132}{}{Um ladrao, eh? Deixe-me mostrar a voce o que nos fazemos com seu tipo aqui!}
+{133}{}{[Feito]}
+
+{134}{}{Watch yourself.}
+{135}{}{Nos estamos observando voce.}
+{136}{}{Fique na linha.}
+{137}{}{O que esta olhado?}
+{138}{}{O que quer?}
+
+{139}{}{Eu creio que isto significa que nos terminamos com voce, velho.}
+
+{1000}{}{Adytum}
+{1001}{}{Seguidores}
+{1002}{}{Catedral}
+{1004}{}{Blades}
+{1005}{}{Runners}
+{1006}{}{Hub}
+{1007}{}{Junktown}
+{1008}{}{Chip}
+{1009}{}{Loja}
+{1010}{}{Zimmerman}
+{1011}{}{Necropolis}
+{1012}{}{Glow}
+{1013}{}{Reguladores}
+{1014}{}{Scavs}
+{1015}{}{Boneyard}
+
+{1100}{}{Isso e aqui.}
+{1101}{}{Eles vivem a leste daqui.}
+{1102}{}{Esta ao sul de nos.}
+{1104}{}{Eles estao ao norte daqui.}
+{1105}{}{Eles estao a leste dos Blades e entao a norte dos deathclaws.}
+{1106}{}{Nos negociamos com eles.}
+{1107}{}{Essa nao e uma cidade ao norte daqui?}
+{1108}{}{Um o que?}
+{1109}{}{A loja do Tine esta no subsolo perto do portao.}
+{1110}{}{Ele e o prefeito.}
+{1111}{}{Eu ouvi que e ao leste.}
+{1112}{}{Isso e um mito.}
+{1113}{}{Nos protegemos Adytum.}
+{1114}{}{Eles vao pro lado de fora para conseguir coisas.}
+{1115}{}{Esta e a Boneyard.}

@@ -1,0 +1,11 @@
+{100}{}{Voce ve um dos guardas do Decker.}
+{101}{}{Voce precisa falar com o chefe.}
+{102}{}{Melhor voce ficar no nosso bom lado.}
+{103}{}{Nos estaremos observando voce.}
+{104}{}{Nem ao menos toque suas armas.}
+{105}{}{Se voce olhar pra ele errado, voce esta morto.}
+{106}{}{Assista.}
+{107}{}{Eu me rendo!}
+{108}{}{Eu nunca gostei de trabalhar para aquele Decker de qualquer modo.}
+{109}{}{Agora que Decker e Kane se foram, eu vou dominar!}
+{110}{}{Melhor voce ser cuidadoso por ai no Hub de agora em diante. Eu estou observando voce.}

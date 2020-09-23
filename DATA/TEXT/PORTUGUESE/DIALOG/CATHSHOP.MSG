@@ -1,0 +1,46 @@
+{100}{}{Voce ve um vendedor de loja.}
+{101}{}{A Chama Sagrada nao aprecia ladroes e scoundrels na casa de adoracao dela.
+ Voce sera punido!}
+{102}{}{Hng!}
+{103}{}{Eu nao estava roubando de voce, juro!}
+{104}{}{Por que voce nao diz a Chama Sagrada quando voce ver ele apos sua 'punicao?'}
+{105}{}{Eu nao me importo com suas mentiras, nem o Mestre se importara.}
+{106}{}{Eu lamento, a loja esta fechada.}
+{107}{}{Nugga.}
+{108}{}{Obrigado por nada.}
+{109}{}{Por que isso?}
+{110}{}{Nao o mencione.}
+{111}{}{AS Criancas nao tem que lidar com seu tipo. E voce tem nos causado um serio
+ problema. Eu gostaria que voce fosse embora antes de eu ter que chamar
+ reforcos.}
+{112}{}{Voce nao tem que fazer isso. Eu sou seu amigo.}
+{113}{}{Que seja.}
+{114}{}{Eu me recuso a lidar com aqueles que usam armas pra fazer demandas. Nos
+ Criancas crescemos alem do simples uso de armas de fogo e brancas.}
+{115}{}{Louco facista do controle de armas!}
+{116}{}{Deixe-me holster it e nos podemos permutar em paz.}
+{117}{}{Bom, eu gosto disso. Eu ficaria feliz de fazer negocios com voce.}
+{118}{}{Saudacoes, minha camarada Crianca. Como eu posso ajudar voce?}
+{119}{}{Lugga!?}
+{120}{}{O que voce tem pra negociar?}
+{121}{}{Obrigado. Vejo voce mais tarde, jacare.}
+{122}{}{Eu lamento. Talvez nos possamos apenas fazer um acordo.}
+{123}{}{Brye!}
+{124}{}{Apos um tempo, crocodilo. Eu nao consigo acreditar que eu acabei de dizer isso.}
+{125}{}{Saudacoes! Como eu posso ajudar voce? Eu espero que voce leve um momento
+ pra perceber a significancia de quaisquer decisoes futuras que voce possa
+ fazer em relacao a sua alma...}
+{126}{}{Baarta!}
+{127}{}{O que voce tem pra negociar?}
+{128}{}{Aonde eu posso conseguir um desses mantos fancy seus...}
+{129}{}{So e permitido aos membros confiaveis da Catedral usar o purpura sagrado.}
+{130}{}{Eu creio que responde minha pergunta, obrigado!}
+{131}{}{Stuck up tolo. Eu creio que eu terei que tomar o seu!}
+{132}{}{Oh, bem. O que voce tem pra negociar?}
+{133}{}{Oh, coisa pra pander to the rubes que caminham na porta. Nada muito especial.
+ Va em frente, de uma olhada.}
+{134}{}{Obrigado, vejo voce mais tarde.}
+{135}{}{Nos temos todos os tipos de itens especiais pra lembrar de sua viagem a
+ Catedral. Estas memorias nao podem ser compradas barato, voce entende.}
+{136}{}{Obrigado...}
+{137}{}{De nada. Tenha dias agradaveis pelo resto da sua vida.}

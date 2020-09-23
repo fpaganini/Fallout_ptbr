@@ -1,0 +1,11 @@
+{100}{}{Voce ve um computador da Irmandade altamente avancado.}
+{101}{}{E negado a voce o acesso a este terminal.}
+{102}{}{A licao termina em seis horas. Voce se sente exausto.}
+{103}{}{Voce ja absorveu tanto quanto voce consegue.}
+{200}{}{Voce ve um computador. Voce ve alguns pedacos que poderiam ser carne humana.}
+{201}{}{Voce mexe com o computador por um momento, mas nao consegue passar do
+ sistema de seguranca.}
+{202}{}{Este computador esta funcionando perfeitamente.}
+{203}{}{Voce acha um arquivo de dados interessante sobre uma base secreta a noroeste.}
+{204}{}{Voce ganha }
+{205}{}{ pontos de experiencia por hackear este computador.}

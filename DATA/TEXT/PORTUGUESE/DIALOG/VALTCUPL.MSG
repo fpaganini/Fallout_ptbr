@@ -1,0 +1,25 @@
+{100}{}{Voce ve um cidadao da Vault 13.}
+{101}{}{Nos nao achamos que voce voltaria. Voce tem um quarto
+ tao bacana, e nos estamos um pouco apertados com os pais
+ dela. Eu espero que voce nao se importe.}
+{102}{}{Sim, eu me importo. Saia do meu quarto!}
+{103}{}{Nao, eu nao me importo. Apreciem o quarto.}
+{104}{}{Seria reassuring ter meu proprio quarters de volta.
+ Por favor ache algum outro lugar pra viver.}
+{105}{}{Hng.}
+{106}{}{Olha, eu nao quero discutir com voce, mas voce
+ obviamente nao merece este quarto mais. Por favor saia.}
+{107}{}{Olha, nos realmente poderiamos uar o espaço. Eu espero que voce reconsidere.}
+{108}{}{Bem, deixe-me pensar sobre isso por um momento.
+ Hmmm. Nao. Saia!}
+{109}{}{Bem, ok. Voce precisa dele mais do que eu.}
+{110}{}{Obrigado! Nos realmente apreciamos isso. Nos pusemos suas coisas no trunk.}
+{111}{}{Bem, eu nao sei. Voce nao parece estar usando-o muito
+ frequentemente, e nos com certeza poderiamos usar o espaco.}
+{112}{}{Certo. Fiquem com ele.}
+{113}{}{Eu preciso deste lugar pra lembrar das minhas raizes. E alem disso,
+ e um bom lugar pra descansar.}
+{114}{}{Puxa, eu nao pensava que voce ainda se importava a respeito deste lugar do que
+ eu ouvi. Tenha voce um bom dia. Nos voltaremos para o lugar da mae dela.}
+{115}{}{Nos realmente gostamos daqui.}
+{116}{}{Voce deveria sair. Este nao e mais seu lugar.}

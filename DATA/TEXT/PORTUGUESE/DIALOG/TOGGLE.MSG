@@ -1,0 +1,3 @@
+{100}{}{Este toggle tem um pequeno emissor de radio e uma minuscula celula de energia. Provavelmente
+ o liga a um computador de controle em algum lugar, como um interruptor de liga/desliga.}
+{101}{}{O interruptor toggle parece com algum tipo de transmissor que liga/desliga.}

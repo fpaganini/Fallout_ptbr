@@ -1,0 +1,3 @@
+{100}{}{Voce ve um guarda da Companhia de Emprestimos Amistosos.}
+{101}{}{Mas que Diabos! Peguem ele!}
+{102}{}{Mas que Diabos! Peguem ela!}

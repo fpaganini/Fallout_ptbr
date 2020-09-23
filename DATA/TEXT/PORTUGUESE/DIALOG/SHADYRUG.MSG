@@ -1,0 +1,2 @@
+{100}{}{Voce ve um tapete tattered rug.}
+{101}{}{Voce imagima que tipo de material poderia ter sido usado pra produzir este tapete.}

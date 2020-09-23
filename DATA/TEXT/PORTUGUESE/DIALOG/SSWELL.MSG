@@ -1,0 +1,6 @@
+{100}{}{Voce ve o suprimento de agua de Shady Sands. Isto e muito pouca agua
+ pra suprir sua Vault.}
+{101}{}{Voce nao tem motivo pra descer no poco, mas talvez a
+ corda sera util pra descer em buracos.}
+{102}{}{Voce nao aprende nada do poco.}
+{103}{}{Voce faz um desejo quando voce ouve a tampinha de garrafa bater na agua.}

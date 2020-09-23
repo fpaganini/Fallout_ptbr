@@ -1,0 +1,129 @@
+{100}{}{Voce ve o Motorista da Caravana Far Go Traders.}
+{101}{}{Oi, se voce quer um trabalho numa caravana voce deveria falar com o Rutger. Ele esta bem ali.}
+{102}{}{Voce vai precisar falar com o Rutger.}
+{103}{}{Entao voce se alistou. Bom ouvir. Entao, voce sabe, nos saimos a cada dez dias. Isso e no 8º, 18º e 28º
+ dia de cada mes. Agora mesmo nos estamos fazendo corridas para a Irmandade, Junktown e a Boneyard de LA.}
+{104}{}{Entao, qual e o pagamento?}
+{105}{}{Um.}
+{106}{}{Voce obtera 400 hubbucks. Voce pode dizer que nao e muito, mas nos saimos frequentemente e voce nao vai
+ perder sua vida assim facil. Mas voce obtem esse pagamento indo por cada caminho, nao que voce tenha que ir
+ por cada caminho mas voce obtera um total de 800 se voce o fizer.}
+{107}{}{Nos estamos saind hoje. Voce esta interessado?}
+{108}{}{Nos saimos no }
+{109}{}{Vazio}
+{110}{}{}
+{111}{}{. Voce esta interessado?}
+{112}{}{Eu ainda darei a voce um trabalho, mesmo embora... deixa pra la. Voce esta interessado?}
+{113}{}{Com certeza.}
+{114}{}{Nao.}
+{115}{}{Talvez.}
+{116}{}{Yaya.}
+{117}{}{Tae?}
+{118}{}{Tudo certinho. Sem problema. Apenas deixe-me saber se voce mudar de ideia.}
+{119}{}{Por que voce nao decide de uma vez?}
+{120}{}{Volte se voce acabar procurando algo pra fazer. Isso e no 8º, 18º e 28º dia do mes. Tchau.}
+{121}{}{Uh, nao vai funcionar se voce nao consegue diferenciar seu pe direto do seu esquerdo. Lamento cara grande.}
+{122}{}{Volte quando voce se sentir melhor.}
+{123}{}{Cara, voce nao parece estar indo bem. Voce deveria por algo no seu estomago, apenas fique longe do Bob's.}
+{124}{}{Saia daqui!}
+{125}{}{Voce nao podia apenas deixar minhas coisas em paz, podia? Por que voce o fez?}
+{126}{}{Por que eu sou uma mariposa verde malvada do espaco e eu sou... 'mau'!}
+{127}{}{Eu nao queria mas eu estou faminto e eu tenho filhos para alimentar.}
+{128}{}{Eu arrancarei seu coracao pra fora com um garfo!}
+{129}{}{(Render-se)}
+{130}{}{(Atacar)}
+{131}{}{Entao voce simplesmente cospe na minha cara huh? Eu creio que o unico modo de enfiar isto atraves do seu
+ crânio grosso e remove-lo do seu pescoco.}
+{132}{}{Certo, mas isso nao o torna correto. Voce ainda vai ter que sair daqui.}
+{133}{}{Voce achou que eu acreditaria nessa bosta? Guardas!}
+{134}{}{Talvez por voce no tanque dara a voce um melhor conjunto de maneiras. Voce vai vir silenciosamente
+ ou nos vamos ter que fazer isto do jeito dificil?}
+{135}{}{Eu verei voce no inferno!}
+{136}{}{Sim. Eu lamento.}
+{137}{}{Entao voce e um cara forte, huh? Simplesmente procurando por outra briga?}
+{138}{}{Se voce nao sair daqui, eu vou chamar os policiais!}
+{139}{}{Guardas! Policia!}
+{140}{}{Eu acho que voce deveria sair..}
+{141}{}{Lamento, mas eu nao vou oferecer a voce um trabalho.}
+{142}{}{Eu adoraria dar a voce um trabalho mas simplesmente nao vai acontecer.}
+{143}{}{Sair.}
+{144}{}{Bem bonito, mas eu nao estou realmente a fim do seu tipo.}
+{145}{}{Bem, Ok entao! Ele pagara 400 hubbucks. Qual rota voce prefere?}
+{146}{}{Otimo ouvir. Volte no }
+{147}{}{8º}
+{148}{}{18º}
+{149}{}{28º}
+{150}{}{}
+{151}{}{}
+{152}{}{Irmandade do Aco }
+{153}{}{. Voce estara rumando pra la entao. Como sempre ele pagara 400 hubbucks.}
+{154}{}{Ok.}
+{155}{}{Lamento, nao posso esperar.}
+{156}{}{Nao tenho certeza do que aconteceu, mas a caravana inteira foi perdida. Coisa engracada algo assim
+ acontecer e e voce ser o unico restante de pe? As coisas geralmente nao sao desse modo. Eu simplesmente
+ nao acho que eu possa contratar mais voce por causa disso. Eu tenho certeza que voce entende o por que.}
+{157}{}{Junktown}
+{158}{}{Boneyard de LA }
+{159}{}{Um, agora mesmo, nao. Talvez outra hora.}
+{160}{}{Bom ouvir, eu juntarei o resto do pessoal.}
+{161}{}{Otimo.}
+{162}{}{Get on out of here. Boa sorte!}
+{163}{}{Tente evitar problema, nao va procurando por ele.}
+{164}{}{Voce seja cuidadoso la fora, a Boneyard nao e o mais seguro dos lugares..}
+{165}{}{Isso e bom. Esses walkways pretos sao realmente estranhos mas eles sao otimos para viajar.}
+{166}{}{Eles definitivamente tem um mau elemento naquele caminho. Eu tomaria cuidado com quem voce lida enquanto la embaixo naquele caminho.}
+{167}{}{Otimo. Junktown nao e um lugar ruim.}
+{168}{}{Oh, e pare no Killian e diga a ele 'Oi" por mim. Cara, as diversoes que nos costumavamos ter nas caravanas.}
+{169}{}{Ouvir que um doutor esquisito esta naquele caminho. Lida com os mortos, assim eles dizem.}
+{170}{}{O que diabos voce estava pensando ao deixar aquela caravana. Ela voltou salva, mas isso foi pura maldita sorte.}
+{171}{}{Eu posso ter outra chance?}
+{172}{}{Nada.}
+{173}{}{Eu nao ligo uma bosta!}
+{174}{}{Ig wa neeka rooola?}
+{175}{}{Lig.}
+{176}{}{Voce ferrou com tudo de novo. Voce simplesmente nao parece conseguir manejar esta linha de trabalho.}
+{177}{}{Por que eu deveria?}
+{178}{}{Voce nao deveria.}
+{179}{}{Por que eu vou por um buraco atraves da sua cabeca se voce nao o fizer.}
+{180}{}{Eu tinha coisas melhroes pra fazer do que andar com uma caravana idiota.}
+{181}{}{Eu nao sabia que nao era permitido a mim sair. Tudo parecia ok.}
+{182}{}{Entendo... voce estava nas drogas. Bem, viva essa vida se voce desejar.}
+{183}{}{Eu lamento que voce se sinta desse modo.}
+{184}{}{Surpreendente que voce nao fez isto antes. Ja que esse e o caso, nao vai prejudicar ninguem se eu der a voce
+ outra chance.}
+{185}{}{Voce fez um bom pedaco de trabalho. Voce quer se alistar para outro?}
+{186}{}{Com certeza.}
+{187}{}{Nao.}
+{188}{}{Talvez.}
+{189}{}{Eeek!}
+{190}{}{Lub.}
+{191}{}{Pegou todo seu equipamento? Nos estamos saindo hoje.}
+{192}{}{Sim.}
+{193}{}{Nao!}
+{194}{}{Ack!}
+{195}{}{De outro modo eu simplesmente o darei para alguem mais, nao se preocupe com isso. Voce nao e obrigado...
+ ate que voce saia com a caravana, certo?}
+{196}{}{A proxima caravana nao esta saindo ate o }
+{197}{}{8º}
+{198}{}{18º}
+{199}{}{28º}
+{200}{}{}
+{201}{}{}
+{202}{}{}
+{203}{}{. Volte aqui se voce ainda quiser o trabalho.}
+{204}{}{Janeiro }
+{205}{}{Fevereiro }
+{206}{}{Marco }
+{207}{}{Abril }
+{208}{}{Maio }
+{209}{}{Junho }
+{210}{}{Julho }
+{211}{}{Agosto }
+{212}{}{Setembro }
+{213}{}{Outubro }
+{214}{}{Novembro }
+{215}{}{Dezembro }
+{216}{}{Irmandade do Aco, aqui vamos nos! Bem. Eu nao vou com voces, mas voces sabem o que eu quis dizer.}
+{217}{}{Ok, saia ja da minha frente. Aqueles fanaticos da Irmandade estao esperando por voce.}
+{218}{}{Eu espero que voce goste de montanhas! Voce vai direto nelas. Voce deve ver muita acao la.}
+{219}{}{Pronta pra ir e voce estara rumando direto pelas montanhas! Deve ser um estouro!}

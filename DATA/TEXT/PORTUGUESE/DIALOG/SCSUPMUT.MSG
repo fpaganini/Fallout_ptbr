@@ -1,0 +1,12 @@
+{100}{}{Voce ve um patrulheiro para os Nightkin.}
+{101}{}{O que nos temos aqui? Um normal. Eu acho que voce vira comigo.}
+{102}{}{Nao.}
+{103}{}{Okay.}
+{104}{}{Por que eu deveria?}
+{105}{}{Pense de novo!}
+{106}{}{E realmente bastante simples. Se voce vier comigo, eu posso ajudar voce.}
+{107}{}{Ok. Eu irei com voce.}
+{108}{}{Apenas me aponte para o seu lider ao inves disso.}
+{109}{}{De modo algum!}
+{110}{}{Com a mais rapida das pressas. Procure Uthern. Ele will set you straight.}
+{111}{}{Uthern quer ver voce. Parece que ele ouviu de voce.}

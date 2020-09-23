@@ -1,0 +1,11 @@
+{100}{}{Voce ve um viajante.}
+{101}{}{O que voce quer, estranho?}
+{102}{}{Quem e voce?}
+{103}{}{O que voce esta fazendo aqui?}
+{104}{}{Aonde e a cidade mais proxima?}
+{105}{}{Nada, obrigado.}
+{106}{}{Uhh . . .}
+{107}{}{Eu sou um patrulheiro.}
+{108}{}{Eu estou vigiando por causa de saqueadores e monstros.}
+{109}{}{Essa seria Junktown. Nao e muito longe daqui.}
+{110}{}{Voce ve um guarda de Junktown.}

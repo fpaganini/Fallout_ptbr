@@ -1,0 +1,4 @@
+{100}{}{[Voce esta no seu quarto. Voce quer descansar aqui ate amanha de manha?]}
+{101}{}{[Sim]}
+{102}{}{[Nao]}
+{103}{}{Voce acorda renovado.}

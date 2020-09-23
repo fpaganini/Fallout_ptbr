@@ -1,0 +1,21 @@
+{100}{}{Voce ve um guarda ghoul.}
+{101}{}{Nos vamos levar voce ao Set. Eu acho que ele vai querer falar com voce,
+ pessoalmente.}
+{102}{}{Voce nao deveria estar aqui . . .}
+{103}{}{Garret me disse que estava ok. Ele me disse pra pegar algo do quarto do
+ Set pra ele. Voce sabe aonde e?}
+{104}{}{OK. Eu sairei entao.}
+{105}{}{Huh?}
+{106}{}{Isso nao soa correto. Melhor voce vir comigo.}
+{107}{}{Eu acho que nao.}
+{108}{}{OK.}
+{109}{}{Eu nao acho que voce queira ir para aquela sala.}
+{110}{}{Por que?}
+{111}{}{Ok, eu nao quero ir para aquela sala. Agora o que?}
+{112}{}{Eu acho que seria melhor se voce saisse.}
+{113}{}{Nos estamos aqui pra ter certeza de que pessoas que nao pertencam ao
+ quarto do Set nao entrem nele. Nao pra seguranca do Set realmente, mas para a
+ deles. Algo mais?}
+{114}{}{Sim. Seus cardacos estao desamarrados.}
+{115}{}{Nao. Obrigado.}
+{116}{}{Eu estou no dever. Vai embora.}

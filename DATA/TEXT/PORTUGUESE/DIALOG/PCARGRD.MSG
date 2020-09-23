@@ -1,0 +1,22 @@
+{100}{}{Ve ve um Paladino.}
+{101}{}{Pssst, ve quaisquer bons negocios?}
+{102}{}{Lamento, eu estou no dever. Nao posso falar agora.}
+{103}{}{Que dia bacana. Eu espero que nos nao tenhamos quaisquer ataques hoje.}
+{104}{}{Bom dia.}
+{105}{}{Algumas destes comerciantes das caravanas sao um pouco estranhos.}
+{106}{}{Oi bonitao.}
+{107}{}{Saudacoes, Iniciado.}
+{108}{}{Se voce tem quaisquer perguntas sobre nossa ordem voce deveria falar com o Cabbot
+ do outro lado da porta.}
+{109}{}{Cabbot e aquele com quem voce deve falar, ele e o jovem ao lado da porta.}
+{110}{}{Se voce esta aqui pra negociar voce esta falando com a pessoa errada.}
+{111}{}{O que?}
+{112}{}{Nao me aborreca verme.}
+{113}{}{Eu pareco estar interessado em qualquer coisa que voce possa ter pra oferencer?}
+{114}{}{Hmph. A coragem.}
+{115}{}{Eu estou na patrulha, nao me perturbe.}
+{116}{}{Iniciado, voce deveria saber que nao e pra nos aborrecer enquanto nos estamos na patrulha.}
+{117}{}{Iniciado, voce nao deveria estar fazendo algo util?}
+{118}{}{Se voce tem quaisquer perguntas sobre nossa ordem voce deveria falar com o Cabbot
+ do outro lado da porta.}
+{119}{}{Eu nao acho que voce deveria estar aqui estranho.}

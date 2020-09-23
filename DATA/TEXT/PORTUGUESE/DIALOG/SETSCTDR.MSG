@@ -1,0 +1,11 @@
+{100}{}{Voce acha um dispositivo explosivo  na moldura da porta.}
+{101}{}{Voce detona uma armadilha explosiva!}
+{102}{}{Voce desarma a armadilha.}
+{103}{}{Voce nao desarmou a armadilha.}
+{104}{}{Voce acidentalmente detona o explosivo!}
+{105}{}{Voce acidentalmente detona o explosivo, porque voce foi esperto o bastante
+ pra acha-lo, mas nao esperto o bastante pra deixa-lo em paz.}
+{106}{}{Ooof!}
+{107}{}{Aargh!}
+{200}{}{Voce ganha }
+{201}{}{ pontos de experiencia por achar a porta secreta.}

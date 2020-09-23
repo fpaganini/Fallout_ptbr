@@ -1,0 +1,71 @@
+{100}{}{Voce ve um homem com armadura de couro studded com um esquisito odd assortment de
+ knick-knacks.}
+{101}{}{Voce ve Patrick, o Celta.}
+{102}{}{Saudacoes, viajante. O que traz voce assim longe?}
+{103}{}{Apenas vagueando.}
+{104}{}{Um, por que voce esta carregando todo esse lixo?}
+{105}{}{Eu preciso achar um chip de controle da purificacao da agua.}
+{106}{}{Eu estou matando todos que eu puder pegar dentro da distância de tiro. Prepare-se para morrer.}
+{107}{}{Lub!}
+{108}{}{Eu entendo. Muito como eu mesmo, entao.}
+{109}{}{Oh? Voce nao e de uma das comunidades aqui?}
+{110}{}{Voce pode me direcionar para um settlement proximo?}
+{111}{}{Entao, qual e a sua estoria?}
+{112}{}{Bem, vejo voce.}
+{113}{}{Nao e lixo! Sao mercadorias para negociar!}
+{114}{}{Uh, certo. Tchau.}
+{115}{}{Uh huh. Entao, qual e a sua estoria?}
+{116}{}{Hmm. Nao vi um desses antes. Qual parece ser o problema?}
+{117}{}{Este chip controla a purificacao da agua para a minha vault. Esta estragado.}
+{118}{}{Esta quebrado.}
+{119}{}{Eu vagueio de lugar em lugar, ganhando meu sustento com musica e um pouco de
+ de trabalho com tinkering.}
+{120}{}{Que tipo de trabalho voce faz?}
+{121}{}{Que tipo de musica voce canta?}
+{122}{}{Bem, foi bom encontrar voce. Tchau.}
+{123}{}{Usando a linha da costa como uma referencia, voce tem Shady Sands a uma
+ semana dentro da terra, e Junktown alguns dias ao sul daqui. O Hub esta apenas
+ a alguns outros dias ao sul de Junktown. Evite Necropolis a leste dessas. Nao
+ vale o problema.}
+{124}{}{O que voce sabe sobre Shady Sands?}
+{125}{}{O que voce sabe sobre Junktown?}
+{126}{}{O que voce sabe sobre o Hub?}
+{127}{}{O que voce sabe sobre Necropolis?}
+{128}{}{Eu nao acho que eu poderia ajudar voce com isso. Eu nunca tive muita
+ chance de estudar a tecnlogoai pre-guerra das vaults.}
+{129}{}{Na maior parte um pouco de tinkering eletrico e mecanico. Eu ajudei Junktown
+ com as luzes deles e mostrei as pessoas em Shady Sands um design melhor pros fornos
+ deles.}
+{130}{}{Mesmo? Voce acha que voce conseguiria consertar um chip de agua?}
+{131}{}{Oh, na maioria velhas cancoes folk e um pouco de musica celta. E uma mudanca de passo.}
+{132}{}{Por acaso voce conheceria "Na Gheala Mbeadh", como eu acho que e chamada?}
+{133}{}{Eu entendo. O que mais voce faz?}
+{134}{}{Shady Sands e uma pequena comunidade auto-suficiente liderada por Aradesh, um
+ homem bondoso e lider forte. Eles sao pacificos e trabalham duro. Eles sao
+ provavelmente a melhor chance de uma nova civilizacao aqui}
+{135}{}{Shady Sands e uma pequena comunidade fazendeira. Eles eram liderados por um
+ bom homem chamado Aradesh, mas eu ouvi que ele se foi. E uma pena. Sem ele eu nao
+ sei se eles sobreviverao.}
+{136}{}{Junktown? Uma pequena cidade de comercio. Lugar estranho ate que voce se acostume
+ com ele. Eles sao comandados pelo prefeito Killian Darkwater, um homem duro mas justo.}
+{137}{}{Junktown? Uma pequena cidade de comercio. Lugar estranho ate que voce se acostume
+ com ele. Eles sao comandados por Gizmo, um mogul do jogo e senhor do crime.}
+{138}{}{Junktown? Uma pequena cidade de comercio. Nao muito notavel.}
+{139}{}{O Hub e um centro maior de comercio. E dito que voce consegue achar qualquer
+ coisa la, e eu diria que isso nao esta muito errado.}
+{140}{}{Necropolis e a cidade dos mortos. E habitada por ghouls, os descendentes
+ dos humanos que procuraram abrigo numa vault la. A estoria diz que a vault de alguma
+ forma falhou, entao agora os unicos habitantes sao monstros comedores de carnica.}
+{141}{}{Foi overrun por um exercito de mutantes da ultima vez que eu ouvi. Eu ficaria
+ longe de la se eu fosse voce.}
+{142}{}{Voce supoe que a vault poderia ter partes que eu pudesse salvage?}
+{143}{}{Possivelmente, mas eu por exemplo nao me arriscaria por causa dos ghouls. A
+ ultima palavra e que eles tem algum tipo de novo lider poderoso.}
+{144}{}{Por que, certamente. Voce gostaria de ouvi-la?}
+{145}{}{Com certeza.}
+{146}{}{Nao.}
+{147}{}{[O Patrick canta cancoes e voces dois reminisce por varias horas. Voce se
+ sente revigorado.]}
+{148}{}{Ola de novo. Eu posso ajudar voce?}
+{149}{}{Sim, voce pode me dar algumas direcoes?}
+{150}{}{Nao, deixa pra la, obrigado.}

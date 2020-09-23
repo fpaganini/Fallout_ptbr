@@ -1,0 +1,52 @@
+{100}{}{Radio}
+{101}{}{[Ha um squeal de estatica, entao voce ouve uma voz profunda pelo radio.]
+ Comando pra patrulha, comando pra patrulha. Qual e seu status?
+ Cambio.}
+{102}{}{Eek!}
+{103}{}{Uh, nada esta errado aqui. Nos estamos bem, uh, como voces estao?}
+{104}{}{Comando, nos estamos sob ataque de um grande grupo de humanos.
+ Peco assistencia. Cambio.}
+{105}{}{Ajudem! Atacantes desconhecidos! Dano pesado! As coordenadas sao: 10 . . . Argh!}
+{106}{}{Entendido, patrulha. Nos estamos enviando assitencia agora. Cambio.}
+{107}{}{Quem e este? Qual e seu proposito?}
+{108}{}{Meu proposito e calar a boca.}
+{109}{}{Eu sou, uh, oh, deixa pra la. Eu vou matar voces todos de qualquer maneira.}
+{110}{}{Este e, hmm, Fred. Meu proposito e patrulhar. Eu creio que eu estou um, uh,
+ pouco dazed apos aquela queda.}
+{111}{}{Entendido, patrulha. Quais sao suas coordenadas?}
+{112}{}{224 por 104.}
+{113}{}{quatro milhas, sul-sudoeste.}
+{114}{}{Setor Gama, no Omicron-Delta-Beta.}
+{115}{}{Entendido, patrulha. Comando, out.}
+{116}{}{Entendido, patrulha. Nos estamos enviando reforcos.}
+{117}{}{Ah, isso explica. Nos estamos enviando ajuda agora.}
+{118}{}{Entendido, patrulha. Nos estamos enviando ajuda agora! Aguentem firme!}
+{119}{}{So ha estatica no radio.}
+{120}{}{Voce ouve algumas conversas no radio. Voce escuta por um
+ tempo, e nao descobre nada de importancia.}
+{121}{}{O radio tem uma luz piscante vermelha. Voce ouve um
+ pitched squealing pela caixa de som do radio.}
+{122}{}{Soa como audio criptografado.}
+{123}{}{Voce envia o codigo de comando para ativar as configuracoes
+ do campo de forca.}
+{124}{}{So ha estatica silenciosa no canal do radio.}
+{125}{}{O radio nao esta funcionando.}
+{126}{}{Este radio esta em condicao perfeita. A fonte do
+ problema deve ser externa.}
+{127}{}{Nao ha nada alem do squeal de dados criptografados
+ pelo radio.}
+{128}{}{[Squeal-snick-pop] Comando aqui, va em frente patrulha.}
+{129}{}{Ack!}
+{130}{}{Uh, lamento, Comando. Eu apertei o botao de conversa por engano.}
+{131}{}{Intrusos na base! Soem o alerta!}
+{132}{}{Entendido patrulha, Comando out.}
+{133}{}{[Voce muda a frequencia do radio para o canal do controle de
+ seguranca] [Click!] Insira o numero de acesso. [Click!]}
+{134}{}{Hng!}
+{135}{}{Uh, 69.}
+{136}{}{5566534571}
+{137}{}{Fim do accesso.}
+{138}{}{Desligamento automatico do canal de seguranca.}
+{139}{}{Voce ganha 1.500 pontos de experiencia por enganar os guardas mutantes.}
+{140}{}{Voce ganha 2.000 pontos de experiencia por entrar furtivamente nas
+ profundezas da base militar sem ser pego (ainda) . . .}

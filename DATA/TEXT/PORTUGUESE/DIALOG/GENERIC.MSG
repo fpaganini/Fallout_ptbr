@@ -1,0 +1,28 @@
+{100}{}{O que voce quer?}
+{101}{}{Deixe-me em paz.}
+{102}{}{O que?}
+{103}{}{Nao mexa com minhas coisas.}
+{104}{}{Oi.}
+{105}{}{Arrrr!}
+{106}{}{Grrrrr!}
+{107}{}{Uungh.}
+{108}{}{Uhh.}
+{109}{}{Ei, voce ouviu que Set foi morto?}
+{110}{}{Set esta morto. Set esta morto. Set esta morto . . .}
+{111}{}{Ha bastante agua para ir para todos.
+ Set faz ter certeza disso.}
+{112}{}{Eu ouvi que os mutantes got run out da cidade.}
+{113}{}{Desde que os mutantes sairam tem sido melhor.}
+{114}{}{Ola.}
+{200}{}{Voce examina a coisa pitiful, mas nao consegue pensar em que poderia
+ te-la feito do jeito que e.}
+{201}{}{Parece ter sido humano uma vez, ou pelo menos descendeu de humanos.
+ Voce supoe que a deterioracao no corpo e mais provavel devido a acido
+ ou radicao.}
+{202}{}{O corpo do humanoide parece estar altamente irradiado, mas ainda
+ funcionando. Enquanto era uma vez humano, parece ter revertido a um
+ estilo de vida mais animalistico.}
+{203}{}{O corpo do humanoide parece estar altamente irradiado, e muito da
+ materia dos musculos e cerebro parecem ter deteriorado. Contudo,
+ indicadores levam voce a acreditar que descendeu, como voce,
+ daqueles que entraram nas vaults.}

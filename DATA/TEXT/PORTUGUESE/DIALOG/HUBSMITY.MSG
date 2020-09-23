@@ -1,0 +1,5 @@
+{100}{}{Voce ve Smitty.}
+{101}{}{Voce quer conversar apos o que voce fez? Va se ferrar!}
+{102}{}{O chefe disse desapareca, entao desapareca!}
+{103}{}{Nos nao conversamos com forasteiros!}
+{104}{}{Oi. Va soprar fumaca em outro lugar.}

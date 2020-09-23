@@ -1,0 +1,99 @@
+{100}{}{Você vê o Kyle.}
+{101}{}{Você vê um Cavaleiro.}
+{102}{}{Ahh...Então é você, huh?}
+{103}{}{O que?}
+{104}{}{Bem, quem é você?}
+{105}{}{Nothing. It's just that no one has ever made it back from the
+ Ancient Order.}
+{106}{}{O que você faz aqui?}
+{107}{}{O que? Então por que eles me enviaram lá embaixo?}
+{108}{}{Foi difícil, mas não impossível.}
+{109}{}{Heh, heh. I guess they just wanted to get rid of ya, huh?
+ Bem, the jokes on them.}
+{110}{}{Sim. Diga, o que você faz aqui?}
+{111}{}{Bem, a única razão pela qual eu me uni foi pra obter uma power armor.}
+{112}{}{Danem-se todos vocês caras. Eu estou saindo.}
+{113}{}{Eu conserto coisas, dirijo verificações de manutenção, esse tipo de bosta.}
+{114}{}{Você conseguiria consertar um chip de água?}
+{115}{}{Que tipo de "coisas"?}
+{116}{}{Isso soa como uma diversão de verdade. Eu verei você mais tarde.}
+{117}{}{Power armor e qualquer coisa mais que precise de conserto.}
+{118}{}{Como eu posso pôr minhas mãos numa power armor?}
+{119}{}{I'd give ya this power armor right here, but it's missing it's
+ Systolic Motivator. It's useless without it.}
+{120}{}{Aonde alguém poderia obter uma dessas?}
+{121}{}{Bem, obrigado de qualquer maneira.}
+{122}{}{Bem, they've got more than enough up in the supply room, but
+ Michael and his damn forms say that this particular suit isn't up to
+ specs. Damn bureaucrats.}
+{123}{}{O que você quer dizer, not up to specs?}
+{124}{}{So if I brought você um Systolic Motivator, would você fix it for
+ me?}
+{125}{}{Você see this eye-piece right here? I had to re-solder it in
+ place, and it don't look as pretty as it needs to for inspection, I
+ guess.}
+{126}{}{Você're right. That looks like crap. I wouldn't be caught
+ dead in that power armor.}
+{127}{}{Saia daqui, camarada.}
+{128}{}{Whoa, wait um minute there, fella, that would take um good
+ coupla hours. I'd loan você um manual and my tools, but você'd hafta
+ repair it yourself.}
+{129}{}{Bem, além do Michael, aonde mais eu poderia obter uma?}
+{130}{}{Isso é justo. Eu voltarei.}
+{131}{}{Heh, well, Rhombus has um couple of 'em. I wouldn't ask him
+ for one, though. Only "the Honored" are supposed to wear these here
+ power suits. Besides, I think he has an unnatural attachment to them.}
+{132}{}{Hmm. Ok, muito obrigado.}
+{133}{}{Eu acho que não. Nem mesmo sei o que é uma.}
+{134}{}{Obrigado de qualquer maneira.}
+{135}{}{O que kind of weak mechanic are você, can't even fix um water
+ chip?}
+{136}{}{How can I get some power armor without studying for um hundred
+ years?}
+{137}{}{O moniker's Kyle. Eu nunca encontrei um mito antes.}
+{138}{}{O que isso supostamente quer dizer?}
+{139}{}{O que você faz aqui?}
+{140}{}{Nem eu. Eu verei você por aí.}
+{141}{}{To hear Maxson's stories você'd think it was the ninth level
+ of hell.}
+{142}{}{Maxson? General Maxson?}
+{143}{}{Not General Maxson, his grandfather, Roger Maxson. I heard você
+ brought back um disk that told o que happened to the guys who rebelled
+ against him and went down there to recover the lost technology.}
+{144}{}{Sim, eu creio que eu trouxe, Eu sou }
+{145}{}{, quem é você?}
+{146}{}{Eu prefiro não falar a respeito.}
+{147}{}{Yeah, lousy bastards. I can't believe they sent você down there
+ like that.}
+{148}{}{E tudo que eles me deram pelo meus problemas foi um handful de munição!}
+{149}{}{Ei, iniciado, tem algo para mim?}
+{150}{}{Não, eu disse a eles que você me enviou e que ele não me daria a parte.}
+{151}{}{Não, eu não olhei isso ainda.}
+{152}{}{Sem sorte ainda.}
+{153}{}{Não shit. And here I thought você was smart. I told ya that guy
+ had official forms for brains.}
+{154}{}{Cuidado com quem você chama de idiota.}
+{155}{}{Eu estava apenas tentando tirar na conversa com o Michael.}
+{156}{}{O que eu posso fazer se o Michael não a dá para mim?}
+{157}{}{Eu estou indo.}
+{158}{}{Wella... I got to give você credit for that. But I think você blew
+ your chances with getting it from the supply room. Você'll just have to
+ find another way to get it. Or find yourself Power Armor somewares else.}
+{159}{}{OK, vejo você mais tarde.}
+{160}{}{Aonde mais eu posso escavar uma?}
+{161}{}{Boa sorte.}
+{162}{}{Suma, eu estou ocupado.}
+{163}{}{Olá, você foi capaz de pegar aquela parte?}
+{164}{}{Sim. Aqui está.}
+{165}{}{Sim, mas eu acho que eu a manterei por um pouco de tempo.}
+{166}{}{Ótimo! Aqui, apenas deixe-me instalar isto na unidade.}
+{167}{}{OK você're all set to go. Here take this manual. If você have any
+ kind of aptitude with repairing things você should have no problem.
+ Good Luck.}
+{168}{}{After all that? Okay, just let me know when você want me to put
+ it in. Then você can get started on repairing it.}
+{169}{}{Bem, I don't know o que to tell você. I guess você need to
+ polish up your repair skills um little. I'll keep the unit here for ya.}
+{170}{}{Ok. Obrigado a você. Adeus.}
+{171}{}{Olá de novo. Eu poss ajudar você?}
+{300}{}{[mais]}

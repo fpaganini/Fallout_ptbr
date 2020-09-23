@@ -1,0 +1,34 @@
+{100}{}{Voce ve um prisoneiro ghoul.}
+{101}{}{O q-o que voce quer?}
+{102}{}{Uh, nada.}
+{103}{}{Hng.}
+{104}{}{Eu estou aqui pra deixar voce sair.}
+{105}{}{O que voce esperava?}
+{106}{}{Ei, eu nao me importo com isso, apenas me tire daqui!}
+{107}{}{Otimo! Faca!}
+{108}{}{Eu roubei um pouco de agua. Ei, eu estou sedento! Nao foi como se eu ferisse alguem.}
+{109}{}{Voce tomou mais do que sua cota de direito.}
+{110}{}{Ah, isso nao e nada. Eu tirarei voce dai.}
+{111}{}{Eu teria morrido sem a agua. Foi so um cupful. Apenas o 
+ bastante pra me manter vivo. Voce tem que me tirar daqui!
+ Eu vou enlouquecer.}
+{112}{}{Ok, espere um momento.}
+{113}{}{Eu acho que eu deixarei as autoridades lidarem com voce.}
+{114}{}{Por favor deixe-me ir.}
+{115}{}{Obrigado por me deixar sair.}
+{116}{}{Sem problema.}
+{117}{}{De onde a agua vem?}
+{118}{}{Ya.}
+{119}{}{Eles a bombeiam dos pocos abaixo. Ha um bueiro na
+ cela da porta ao lado que leva a vault antiga. Esta e a
+ fonte da agua. Se nao fosse por aqueles la embaixo,
+ nos estariamos muito melhores.}
+{120}{}{O que voce quer dizer?}
+{121}{}{Obrigado.}
+{122}{}{E dificil fazer a tecnologia antiga funcionar apropriadamente, as vezes. Os
+ brilhantes lash out sempre que nos vamos la embaixo. Nos ghouls apenas deixamos
+ eles em paz. E os grandes mutantes nao parecem se importar nem um pouco.}
+{123}{}{Boa sorte. Tchau.}
+{124}{}{Voce ganhou }
+{125}{}{ pontos de experiencia por libertar o prisoneiro ghoul.}
+{126}{}{Obrigado de novo.}

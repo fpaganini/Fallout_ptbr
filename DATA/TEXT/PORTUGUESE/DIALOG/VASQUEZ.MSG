@@ -1,0 +1,38 @@
+{100}{}{Voce ve o Vasquez, o mercenario desperado.}
+{101}{}{Voce ve um pistoleiro seedy-looking.}
+{102}{}{O que voce quer?}
+{103}{}{Quem e voce?}
+{104}{}{Hnn.}
+{105}{}{Eu nao trabalho para os fracos de mente. Voce saia agora.}
+{106}{}{Voce nao ouviu sobre mim? Eu fiquei magoado! Meu nome e Vasquez
+ Villanova Hernandez Ortega. Eu sou um famoso desperado,  meu amigo. E,
+ se voce tiver necessidade, eu sou um pistoleiro para contratar.}
+{107}{}{Mesmo? Quanto voce custa?}
+{108}{}{Vejo voce por ai, talvez . . . boa sorte. Heh.}
+{109}{}{Ahh, direto ao ponto meu amigo. Excelente. Eu ajudarei voce
+ na cidade por meros $500 por semana. Meus servicos nao sao
+ baratos, mas entao, eu valho o preco.}
+{110}{}{Otimo, eu contratarei voce. Aqui estao $500.}
+{111}{}{Lamento aborrecer voce, mas eu nao acho que eu preciso
+ dos seus servicos.}
+{112}{}{Eu lamento meu amigo, mas eu nao trabalho por dinheiro
+ imaginario. Eu preciso de dinheiro vivo.}
+{113}{}{Excelente. Eu sou seu. Vamos la, este lugar me da tedio.}
+{114}{}{Va em frene, eu sou seu para comandar!}
+{115}{}{Vamos pegar alguma coisa pra beber!}
+{116}{}{Aonde nos iremos primeiro?}
+{117}{}{Tanto quanto voce fique em Junktown, eu sou seu. Eu nao
+ gosto de sair desta cidade.}
+{118}{}{Voce sabia que ha uma recompensa pela minha cabeca?
+ Contudo, e muito pequena.}
+{119}{}{Ah, meu amigo. E bom ver voce de novo.}
+{120}{}{Eu quero contratar voce por uma semana.}
+{121}{}{Bom encontrar voce de novo.}
+{122}{}{Hnn.}
+{123}{}{Bem, talvez nao seja tao bom ver voce de novo. Tenha
+ um bom dia.}
+{124}{}{Claro. Minha cota e pequena, e meu valor e tao
+ grande. $500, por favor.}
+{125}{}{Aqui vai voce.}
+{126}{}{Voce nao deveria ter feito isso, meu amigo que em
+ breve vai estar morto.}

@@ -1,0 +1,41 @@
+{100}{}{Voce ve um prisoniro grubby e sujo.}
+{101}{}{Um prisoneiro na segunda cela nao e como os outros. Ele
+ e olha voce direto nos olhos.}
+{102}{}{O prisoneiro olha vagamente para a parede.}
+{103}{}{O prisoneiro ignora suas tentativas de conversar.}
+{104}{}{Ele olha selvagemente pra voce por um momento, e entao se vira.}
+{105}{}{Olha olha pra voce por um momento, e entao baba.}
+{106}{}{Voce nao obtem resposta.}
+{107}{}{Nos estamos livres! Nos estamos livres!}
+{108}{}{Seu tipo e repugnante. Nao fale comigo.}
+{109}{}{Quib!}
+{110}{}{Voce nao tem o direito de falar comigo assim.}
+{111}{}{Voce nao entende. Eu estou aqui pra libertar voce.}
+{112}{}{Nao faca piada de mim.}
+{113}{}{Eu nao tenho direitos, e eu nao poderia me importar menos. Vai embora, e deixe-nos em paz.}
+{114}{}{Eu me recuso a dizer qualquer informacao pra voce. Deixe-nos em paz.}
+{115}{}{Hng!!}
+{116}{}{Eu realmente estou aqui pra libertar voce. Eu sou um humano normal.}
+{117}{}{Se voce quer desse jeito. Com certeza. Adeus.}
+{118}{}{Voce nao se lembra que voce tentou esse truque na ultima semana? Entao,
+ eu nao cai por ele e eu nao vou comecar agora.}
+{119}{}{O que? Nenhum cowl pra se esconder atras? Sua natureza traidora e auto-evidente.}
+{120}{}{Eu estou aqui pra libertar voce.}
+{121}{}{Adeus, entao.}
+{122}{}{Voce e cruel. Deixe-nos em paz.}
+{123}{}{Eu nao falarei a respeito do meu povo. Voce nao pode forcar um homem
+ a trair a si mesmo, voce so pode forcar um homem a parar de viver.}
+{124}{}{Voce realmente nao entende. Eu sou um ser humano que esta aqui pra resgatar voce.}
+{125}{}{Eu nem mesmo tenho que forcar voce a apodrecer no inferno. Voce esta
+ fazendo um trabalho por conta propria.}
+{126}{}{Voce ainda esta fazendo piada de mim.}
+{127}{}{Da boca de um homem vem as palavras da serpente.}
+{128}{}{Certi, eu poderia imaginar isso. Vai embora, e deixe-nos em paz.}
+{200}{}{Os prisoneiros parecem sujos e cansados. Um colar em volta do
+ pescoco deles e brilhante e novo.}
+{201}{}{Os prisoneiros olham de volta pra voce com um olhar vazio. Voce
+ nota um colar em volta do pescoco deles.}
+{300}{}{Um sinal na parede diz: 'Proibida a Entrada. Area Segura.
+ Apenas Manejadores de Prisoneiros!'}
+{301}{}{Voce ganha }
+{302}{}{ pontos de experiencia por libertar os prisoneiros da miseria.}

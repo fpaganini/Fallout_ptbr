@@ -1,0 +1,14 @@
+#
+#   Messages from skilldex.c
+#
+{100}{}{SKILLDEX}
+{101}{}{FECHAR}
+{102}{}{FURTIVO}
+{103}{}{GAZUA}
+{104}{}{ROUBAR}
+{105}{}{ARMADIL.}
+{106}{}{1º SOC.}
+{107}{}{DOUTOR}
+{108}{}{CIENCIA}
+{109}{}{REPARO}
+

@@ -1,0 +1,4 @@
+{100}{}{O drawer para a escrivaninha esta preso.}
+{101}{}{Voce pry the drawer open.}
+{102}{}{O drawer ainda esta bem emperrado.}
+{103}{}{A escrivaninha nao foi afetada pela tecnica.}

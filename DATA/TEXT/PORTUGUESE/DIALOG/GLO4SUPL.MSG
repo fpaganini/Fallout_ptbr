@@ -1,0 +1,8 @@
+{100}{}{A porta ja esta destrancada.}
+{101}{}{Voce consegue abrir a tranca.}
+{102}{}{Voce nao parece conseguir abrir a tranca.}
+{103}{}{O sistema de seguranca eletronica da um choque em voce!}
+{104}{}{Voce tripped um alarme nas portas dos suprimentos.}
+{105}{}{A porta tem uma tranca fisica que precisara ser aberta.}
+{106}{}{A seguranca eletronica ja esta desarmada.}
+{107}{}{Voce desarma a seguranca eletronica.}

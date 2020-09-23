@@ -1,0 +1,47 @@
+{100}{}{Foguete}
+{200}{}{Bola de Plasma}
+{300}{}{Explosao}
+{400}{}{Sangue}
+{500}{}{Hex no-trans}
+{501}{}{}
+{600}{}{faca}
+{700}{}{lança}
+{800}{}{Explosao de PEM}
+{900}{}{Rajada de Laser}
+{1000}{}{Rajada de Plasma}
+{1100}{}{Explosao}
+{1200}{}{Bloqueador de Rolamento}
+{1300}{}{Raio de Eletricidade}
+{1400}{}{Explosao}
+{1500}{}{Explosao}
+{1600}{}{Grade de Saida}
+{1700}{}{Grade de Saida}
+{1800}{}{Grade de Saida}
+{1900}{}{Grade de Saida}
+{2000}{}{Grade de Saida}
+{2100}{}{Grade de Saida}
+{2200}{}{Grade de Saida}
+{2300}{}{Grade de Saida}
+{2400}{}{Sinal Luminoso}
+{2500}{}{Granada}
+{2600}{}{Rocha}
+{2700}{}{Explosao}
+{2800}{}{Explosao}
+{2900}{}{Explosao}
+{3000}{}{Coquetel Molotov}
+{3100}{}{Grade de Saida}
+{3200}{}{Grade de Saida}
+{3300}{}{Grade de Saida}
+{3400}{}{Grade de Saida}
+{3500}{}{Grade de Saida}
+{3600}{}{Grade de Saida}
+{3700}{}{Grade de Saida}
+{3800}{}{Grade de Saida}
+{3900}{}{Grade de Saida}
+{4000}{}{Grade de Saida}
+{4100}{}{Grade de Saida}
+{4200}{}{Grade de Saida}
+{4300}{}{Grade de Saida}
+{4400}{}{Grade de Saida}
+{4500}{}{Grade de Saida}
+{4600}{}{Grade de Saida}

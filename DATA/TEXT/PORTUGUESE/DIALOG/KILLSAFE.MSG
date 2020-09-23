@@ -1,0 +1,7 @@
+{100}{}{Voce ve o: Cofre.}
+{101}{}{O cofre nao esta trancado.}
+{103}{}{Peguei!}
+{104}{}{Drat! Quase consegui.}
+{105}{}{O cofre esta trancado.}
+{106}{}{Voce ganha 500 pontos de experiencia por abrir o cofre pessoal do Killian.}
+{107}{}{Voce tweak the tumblers e consegue emperrar a tranca com uma gazua. Simplesmente otimo.}

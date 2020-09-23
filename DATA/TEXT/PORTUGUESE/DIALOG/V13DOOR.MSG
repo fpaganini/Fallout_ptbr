@@ -1,0 +1,2 @@
+{100}{}{Esta porta e muito grande pra abrir manualmente.
+ Use o terminal da entrada.}

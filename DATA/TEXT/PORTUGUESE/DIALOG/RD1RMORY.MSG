@@ -1,0 +1,20 @@
+{100}{}{Voce ve Kathy, a dona desta loja.}
+{101}{}{Lamento, eu nao tenho muito hoje.}
+{102}{}{O que voce esta procurando hoje?}
+{103}{}{Sim? Eu posso ajudar voce?}
+{104}{}{Lamento, ainda nenhum inventario novo.}
+{105}{}{Voce tem alguma armadura pra vender?}
+{106}{}{Saudacoes.}
+{107}{}{Bom dia.}
+{108}{}{Ve qualquer coisa que voce goste?}
+{109}{}{Obrigado por passar aqui.}
+{110}{}{Bom ver voce.}
+{111}{}{Venha de novo.}
+{112}{}{Vejo voce de novo em breve.}
+{113}{}{Tchau.}
+{114}{}{Lamento, eu tentarei conseguir mais inventario em breve.}
+{115}{}{Eu acho que eu poderia precisar diversificar.}
+{116}{}{Obrigado.}
+{117}{}{Obrigado a voce por passar aqui.}
+{118}{}{Lamento se eu nao tinha o que voce precisava.}
+{119}{}{Tenha um bom dia.}

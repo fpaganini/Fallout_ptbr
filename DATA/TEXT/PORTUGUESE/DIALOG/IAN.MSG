@@ -1,0 +1,286 @@
+{100}{}{Voce ve um homem baixo, stocky.}
+{101}{}{Nos nao gostamos do seu tipo nestas partes.}
+{102}{}{Oi, estranho. Voce parece que e novo aqui. Qual e o
+ seu nome?}
+{103}{}{Meu nome nao e importante.}
+{104}{}{Eu sou }
+{105}{}{.}
+{106}{}{Urgh?}
+{107}{}{Bem, entao voce tambem nao e.}
+{108}{}{Bom encontrar voce. Eu sou o Ian.}
+{109}{}{O que voce faz aqui?}
+{110}{}{Eu gostaria de saber mais sobre este lugar. Voce pode ajudar?}
+{111}{}{Lamento, mas eu nao tenho tempo pra desperdicar com retardados.}
+{112}{}{Eu era um guarda para os mercadores do Hub. Contudo, eu levei um tiro
+ durante uma raid de bandidos. Eu tenho estado aqui, desde que as pessoas
+ me ajudaram a recuperar. Ainda, meu conhecimento do mundo exterior e
+ minha experiencia me tornam util aqui. Shady Sands e meu lar agora.
+ Ocasionalmente, eu ate mesmo consigo visitar Junktown ou o Hub	para
+ fazer algum comercio, ja que eu sou a unica pessoa aqui que ja
+ realmente saiu da cidade.}
+{113}{}{Voce ve o Ian.}
+{114}{}{Eu lamento ouvir sobre a sua ferida.}
+{115}{}{Onde esta este Hub e Junktown?}
+{116}{}{Voce pode me dizer algo sobre os bandidos?}
+{117}{}{Shady Sands e uma comunidade pequena mas auto-suficiente. O unico problema
+ aqui e com os bandidos e os radscorpions.}
+{118}{}{Por que os radscorpions sao um problema?}
+{119}{}{Ha muitos bandidos?}
+{120}{}{Existem varios. Eles vem de varios grupos. Eles roubam
+ nossa comida e ocasionalmente atiram em algumas pessoas.
+ Seth organizou os guardas para ajudar a enfrenta-los.}
+{121}{}{Voce pode me falar sobre o Seth?}
+{122}{}{Ha diferentes grupos? Quem sao todos eles?}
+{123}{}{Radscorpions sao muito perigosos. Eles tem um ferrao venenoso
+ na cauda, e eles sao muito rapidos. Aradesh esteve tentando achar
+ um modo de nos livrar deles. Se voce se sentir corajoso, voce
+ poderia falar com o Aradesh sobre eles.}
+{124}{}{Obrigado. Esta se curando bem, gracas ao Razlo.}
+{125}{}{Seth e um lutador muito bravo. Ele ocasionalmente
+ vai para as cavernas dos radscorpions para matar alguns
+ radscorpions, mas eles sempre acabam voltando. Ha
+ muitos  para ele enfrentar.}
+{126}{}{Os radscorpions realmente sao perigosos assim?}
+{127}{}{Com o que eu posso ajudar voce?}
+{128}{}{Ha tres grupos: os Khans, os Vipers, e os Jackals.
+ Eles odeiam bastante uns aos outros, mas todos eles
+ saqueiam Shady Sands.}
+{129}{}{Diga-me mais sobre Shady Sands.}
+{130}{}{Ele tem a confianca e olhar relaxado de um lutador experiente.}
+# TRANSLATION NOTE
+# The player-character's name is inserted by the code in between lines 131 and 132.
+{131}{}{Entao, }
+{132}{}{, o que eu posso fazer por voce?}
+{133}{}{Diga-me sobre os saqueadores.}
+{134}{}{Diga-me sobre os radscorpions.}
+{135}{}{Diga-me sobre Shady Sands.}
+{136}{}{Diga-me sobre o Seth.}
+{137}{}{Voce pode me dar as direcoes para o Hub e Junktown?}
+{138}{}{Nada, obrigado.}
+{139}{}{O Hub e um grande centro de comercio ao sul longe de Shady Sands. E dirigido por
+ diversos grupos de mercadores com caravanas: os Mercadores de Agua, a Crimson Caravan
+ e os Far Go Traders. Junktown e um pouco ao sul e a caminhos do oeste. E menor, mas
+ ainda um lugar para passar para uma bebida. E supervisionada por um camarada com o
+ nome de Killian Darkwater, o lojista local, sherife e prefeito.}
+{140}{}{Obrigado.}
+{141}{}{Eu poss nao ser mais um bom lutador, mas eu sou
+ bom o bastante para derrotar tipos iguais a voce!}
+# TRANSLATION NOTE
+# The player-character's name is inserted by the code in between lines 142 and 143.
+{142}{}{O que eu posso fazer por voce, }
+{143}{}{?}
+{144}{}{Hmm. Nada. Deixe pra la, Ian.}
+{145}{}{Voce pode sair agora.}
+{146}{}{Voce pode me dar direcoes para o Hub e Junktown?}
+{147}{}{Bem, ja que voce pergunta, tudo bem. Vejo voce por ai.}
+{148}{}{Nao, obrigado. Eu sou requisitado aqui.}
+{149}{}{Voce poderia me ajudar um pouco? Sua experiencia seria util.}
+{150}{}{Vamos la. Sera bom voltar para a acao!}
+{151}{}{Este e o Killian's, um armazem. Killian e um bom homem, e eles
+ tem bastante estoque.}
+{152}{}{Cassino do Gizmo. Uma colmeia de jogo e atividade do submundo. Cuidado; eles
+ dizem que os jogos sao rigged.}
+{153}{}{Este lugar me da arrepios.}
+{154}{}{O que diabos aconteceu aqui?}
+{155}{}{Este vai ser uma noz dificil de quebrar.}
+{156}{}{Hmm. Oferta tentadora, ja que este lugar fica entediante. Digo isto a voce. Taxas
+ padrao. 100 tampinhas, e voce tem um acordo.}
+{157}{}{Acordo feito.}
+{158}{}{Nao, obrigado.}
+{159}{}{Que tal um pedaco da acao, ao inves disso?}
+{160}{}{Tudo bem, Eu ajudarei voce em troca por minha parte dos saques.}
+{161}{}{Nao, Eu acho que nao. Volte quando voce tiver alguns tampinhas.}
+{162}{}{Esta e a Loja de Armas. E dirigida pela Beth. Ela e boa com armas, mas
+ melhor com fofoca.}
+{163}{}{Armas do Jake. Precos altos, mas realmente boas armas.}
+{164}{}{Escritorio dos Mercadores da Agua. Eles sao os maiores movedores e shakers do
+ Hub, ja que eles suprem a agua que mantem tudo indo.}
+{165}{}{Esta e a Crimson Caravan. Eu fiz um pouco de trabalho para eles. Eles fazem muitos
+ trabalhos de alto risco.}
+{166}{}{Far Go Traders, dirigida por Butch Harris. He's ot-nay oo-tay ight-bray, se voce
+ entende o que eu quero dizer.}
+{167}{}{Ah, agora o Maltese Falcon e o lugar para se estar. Boa musica, boas bebidas
+ e boa companhia.}
+{168}{}{Esse e um filho da puta feio!}
+{169}{}{Voce ganha 100 pontos de experiencia por convencer Ian a se juntar a sua busca.}
+{170}{}{Ouvi sobre alguns destes lugares antes, mas nunca estive em um. Parece bacana
+ e limpo . . . um pouco limpo demais para meu gosto.}
+{171}{}{Nao que voce me perguntou, mas o homem precisa dar a voce um pouco de espaco
+ para respirar.}
+{172}{}{Oce sabe, aquela mulher nao conseguiria liderar um tango, muito menos uma revolucao.}
+{173}{}{Com quais armas voce e treinado?}
+{174}{}{Eu sou um bom atirador com qualquer tipo de pistola, e eu posso usar uma
+ sub-metralhadora tambem. Eu tambem sei como manejar uma faca.}
+
+#
+# Translation note
+# The following line is directed at Katja, a female scavenger, not at the player.
+# Ian is noting that he thinks that the Boneyard was a worse place than the
+# mutants' military base.
+#
+
+{175}{}{Eu pensava que a Boneyard era pior.}
+
+
+{200}{}{Use sua melhor arma da proxima vez que nos entrarmos em batalha.}
+{201}{}{Com certeza.}
+{202}{}{Eu posso fazer alguma coisa por voce antes de eu ir?}
+{203}{}{Um, sim. Eu acho que nos deveriamos ficar juntos, depois de tudo.}
+{204}{}{Uh, nao. Obrigado.}
+
+#
+# Ian tell-me-abouts
+#
+
+{1000}{}{Agua}
+{1001}{}{Guerra}
+{1002}{}{Shady}
+{1003}{}{Junktown}
+{1004}{}{Hub}
+{1005}{}{Saqueadores}
+{1006}{}{Caravanas}
+{1007}{}{Chip}
+{1008}{}{Sands}
+{1009}{}{Seguidores}
+{1010}{}{Catedral}
+{1011}{}{Garl}
+{1012}{}{Mestre}
+{1013}{}{Unidade}
+{1014}{}{Set}
+{1015}{}{Bacia Hidrografica}
+{1016}{}{Necropolis}
+{1017}{}{Hall}
+{1018}{}{Biblioteca}
+{1019}{}{Supervisor}
+{1020}{}{Medico}
+{1021}{}{Cura}
+{1022}{}{Vault}
+{1023}{}{Vault-13}
+{1024}{}{Vault13}
+{1025}{}{Killian}
+{1026}{}{Gizmo}
+{1027}{}{Boneyard}
+{1028}{}{Cassino}
+{1029}{}{Armazem}
+{1030}{}{Deathclaw}
+{1031}{}{Exodus}
+{1032}{}{Iniciados}
+{1033}{}{Paladinos}
+{1034}{}{Escribas}
+{1035}{}{Criancas}
+{1036}{}{Irmandade}
+{1037}{}{Vats}
+{1038}{}{Militares}
+{1039}{}{Base}
+{1041}{}{Apocalipse}
+{1042}{}{Mutantes}
+{1043}{}{Morpheus}
+{1044}{}{Khans}
+{1045}{}{Tandi}
+{1046}{}{Alya}
+{1047}{}{Diana}
+{1048}{}{Gwen}
+{1049}{}{Petrox}
+{1050}{}{Tolya}
+{1051}{}{Bebida}
+{1052}{}{Drogas}
+{1053}{}{Seth}
+{1054}{}{Aradesh}
+{1055}{}{Razlo}
+{1056}{}{Zimmerman}
+{1057}{}{Reguladores}
+{1058}{}{Scavs}
+{1059}{}{Blades}
+{1060}{}{Nicole}
+{1061}{}{Tenente}
+{1062}{}{Mediuns}
+{1063}{}{Experimentos}
+{1064}{}{Policia}
+{1065}{}{Mercadores}
+
+{1100}{}{Sem ideia do que um chip de agua e. Lamento, amigo.}
+{1101}{}{Aconteceu algumas decadas atras. Basicamente, um bando de paises ficaram tipo
+ antsy, e tudo foi BOOM!}
+{1102}{}{Uma vila pequena e pacifica. Provavelmente a comunidade mais promissora nas
+ terras devastadas.}
+{1103}{}{Uma cidade de tamanho medio feita de lixo, dirigida por um sherife chamado Killian.
+ Esta apenas a alguns dias a sudoeste de Shady Sands.}
+{1104}{}{O Hub e o maior centro de comercio no Novo Oeste. E dirigido primariamente por um
+ grupo chamado os Mercadores de Agua, mas ha alguns outros comerciantes la, tambem. E uma
+ cidade booming, mas ha muita briga politica entre os comerciantes.}
+{1105}{}{Existem varios grupos diferentes de saqueadores la. O grupo mais organizado
+ e chamado os Khans; eles parecem pensar que eles podem conquistar o mundo ou
+ algo assim.}
+{1106}{}{A maioria das caravanas vem do Hub. Eles viajam por todos os lugares. Eu trabalhei
+ para um grupo chamado a Crimson Caravan antes da minha untimely injury.}
+{1107}{}{Sem ideia do que um chip de agua e. Lamento, amigo.}
+{1108}{}{Uma vila pequena e pacifica. Provavelmente a mais promissora comunidade nas
+ terras devastadas.}
+{1109}{}{Lamento, camarada. Nao sei muito.}
+{1110}{}{Lamento, camarada. Nao sei muito.}
+{1111}{}{Garl e algum idiota que pensa que ele pode dominar o mundo com seus
+ crummy saqueadores. Sim, o que quer seja.}
+{1112}{}{Lamento, camarada. Nao sei muito.}
+{1113}{}{Lamento, camarada. Nao sei muito.}
+{1114}{}{Lamento, camarada. Nao sei muito.}
+{1115}{}{Lamento, camarada. Nao sei muito.}
+{1116}{}{Nao e a cidade mitica dos mortos?}
+{1117}{}{Lamento, camarada. Nao sei muito.}
+{1118}{}{Lamento, camarada. Nao sei muito.}
+{1119}{}{Lamento, camarada. Nao sei muito.}
+{1120}{}{Razlo e um grande doutor. Voce deveria ve-lo se voce esta ferido.}
+{1121}{}{Razlo faz um bom trabalho de consertar as pessoas, e seu suco de junja vale
+ o preco!}
+{1122}{}{Lamento, camarada. Nao sei muito.}
+{1123}{}{Lamento, camarada. Nao sei muito.}
+{1124}{}{Lamento, camarada. Nao sei muito.}
+{1125}{}{Killian e o prefeito de Junktown. Ele tambem comanda uma loja la. Ele e um
+ camarada decente. Nunca fiz qualquer trabalho pra ele, mas ele parece ok.}
+{1126}{}{Gizmo comanda um cassino em Junktown. Eu ouvi que ele e rigged, though.}
+{1127}{}{Lamento, camarada. Nao sei muito.}
+{1128}{}{O cassino e o grande projeto de Gizmo em Junktown. Traz muitos
+ turistas e dinheiro, mas os problemas vem com ele.}
+{1129}{}{Killian comanda um bom armazem em Junktown.}
+{1130}{}{Lamento, camarada. Nao sei muito.}
+{1131}{}{Lamento, camarada. Nao sei muito.}
+{1132}{}{Lamento, camarada. Nao sei muito.}
+{1133}{}{Lamento, camarada. Nao sei muito.}
+{1134}{}{Lamento, camarada. Nao sei muito.}
+{1135}{}{Sim, ha algumas criancas em Shady Sands. E? Nenhuma delas sao minhas.}
+{1136}{}{Lamento, camarada. Nao sei muito.}
+{1137}{}{Lamento, camarada. Nao sei muito.}
+{1138}{}{Lamento, camarada. Nao sei muito.}
+{1139}{}{Lamento, camarada. Nao sei muito.}
+{1141}{}{Voce sabe, nos sempre teremos guerra. Apenas a proxima e que vai ser lutada com
+ paus.}
+{1142}{}{Eu vi algumas coisas estranhas quando eu estava guardando as caravanas para o Hub.
+ Coiotes e louva-deuses e escorpioes transformados pela mutacao e tal.}
+{1143}{}{Lamento, camarada. Nao sei muito.}
+{1144}{}{Ele sao um lamentavel grupo de saqueadores que atacam Shady Sands e pensam que
+ eles vao dominar o mundo ou alguma bosta parecida.}
+{1145}{}{Ela e a filha de Aradesh. Ela e muito doce, mas eu tenho alguem
+ esperando por mim em casa.}
+{1146}{}{Lamento, camarada. Nao sei muito.}
+{1147}{}{Lamento, camarada. Nao sei muito.}
+{1148}{}{Lamento, camarada. Nao sei muito.}
+{1149}{}{Lamento, camarada. Nao sei muito.}
+{1150}{}{Lamento, camarada. Nao sei muito.}
+{1151}{}{Tem alguma cerveja?}
+{1152}{}{Eu usei um pouco de Psycho uma vez em uma raid numa caravana. Ele me fez twitchy. Estranho.}
+{1153}{}{Seth e o capitao dos guardas. Entre voce e eu, ele nao conseguiria
+ guardar uma fruta se ela estivesse pregada na perna dele.}
+{1154}{}{Aradesh e o lider de Shady Sands. Um homem bondoso e paciente, embora
+ ele seja meio louco.}
+{1155}{}{Ei, se voce precisar de ajuda, Razlo e o homem para se ver. Ele e um grande doutor.}
+{1156}{}{Lamento, camarada. Nao sei muito.}
+{1157}{}{Lamento, camarada. Nao sei muito.}
+{1158}{}{Lamento, camarada. Nao sei muito.}
+{1159}{}{Lamento, camarada. Nao sei muito.}
+{1160}{}{Lamento, camarada. Nao sei muito.}
+{1161}{}{Lamento, camarada. Nao sei muito.}
+{1162}{}{Eu dunno. Eu acho que ha algo nele, sim, mas nao
+ ha evidencia o bastante.}
+{1163}{}{Lamento, camarada. Nao sei muito.}
+{1164}{}{Lamento, camarada. Nao sei muito.}
+{1165}{}{Alguns mercadores vem do Hub para negociar com Junktown. Isso e tudo
+ que eu sei.}

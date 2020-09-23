@@ -1,0 +1,13 @@
+# Captor is Male. He is angry and tired. He wants nothing to do with the player and
+# will kill the player given half a chance.
+
+{100}{}{Voce ve uma pessoa de aparencia         .}
+{101}{}{O que voce quer?}
+{102}{}{Saia daqui!}
+{103}{}{Voce quer uma bala atraves desse cranio     seu?}
+{104}{}{Basta!}
+{105}{}{Coma isto!}
+{106}{}{Voce ja dancou com o diabo na luz palida do luar?}
+{107}{}{Step right up, estranho!}
+{108}{}{Monte na minha bala, filho…}
+{109}{}{Monte na minha bala, piranha…}

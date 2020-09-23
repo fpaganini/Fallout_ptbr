@@ -1,0 +1,10 @@
+{100}{}{E uma maquina de slots com uma foto de uma explosao nuclear do lado.
+ Ela custa $20 pra jogar.}
+{101}{}{Voce poe $20 na maquina de slots e puxa a alavanca gordurosa.}
+{102}{}{DING! DING! DING!}
+{103}{}{Voce consegue 3 bombas atomicas. Excelente! $}
+{104}{}{ poe no tray e voce snatch it up.}
+{105}{}{Ding! Ding! Ding!}
+{106}{}{Voce consegue 3 bombas. Vencedor! $30 caem no tray e voce snatch it up.}
+{107}{}{Aww shucks! Voce perde.}
+{108}{}{Voce nao tem dinheiro o bastante pra jogar.}

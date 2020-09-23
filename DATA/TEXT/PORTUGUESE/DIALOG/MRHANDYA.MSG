@@ -1,0 +1,5 @@
+{100}{}{Voce ve um robo quebrado.}
+{101}{}{Voce ve um robo funcional.}
+{102}{}{Voce conserta o robo quebrado. Ele imediatamente se recarrega
+ e volta a vida.}
+{103}{}{Os reparos estao alem das suas tecnicas.}

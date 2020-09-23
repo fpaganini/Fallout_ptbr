@@ -1,0 +1,39 @@
+{100}{}{Voce ve a Cindy.}
+{101}{}{Ela esta chorando.}
+{102}{}{Ola, }
+{103}{}{. Voce ja achou o chip da agua?}
+{104}{}{Ainda nao. Eu nao tive muita sorte.}
+{105}{}{Sem sorte ainda, mas eu sei que eu acharei ele. A proposito, como voce esta indo?}
+{106}{}{Urug!}
+{107}{}{Oh . . . voce nao me entende. Eu creio que nos realmente nao temos muita
+ esperanca depois de tudo. Desculpe-me enquanto eu choro.}
+{108}{}{Ugg!}
+{109}{}{Por favor ache ele antes que nos morramos de sede.}
+{110}{}{Voce tem que acha-lo! Nao nos deixe morrer assim!}
+{111}{}{Continue tentando. Eu acredito em voce. Eu sei que voce fara tudo que voce
+ puder pra nos salvar.}
+{112}{}{Quem voce acha que poderia estar envolvido?}
+{113}{}{Eu estou com medo do que esta acontecendo. Alguem tem roubado agua e agora
+ todos estao no limite.}
+{114}{}{Quem faria tal coisa?}
+{115}{}{O que aconteceu?}
+{116}{}{Algumas pessoas foram acusadas e brigas aconteceram por causa disso, mas
+ ninguem realmente sabe.}
+{117}{}{Okay. Obrigado.}
+{118}{}{Algumas pessoas relataram que a agua deles foi roubada. Nao foi dado a eles
+ mais agua mas alguns amigos compartilharam com eles. Apos isto todos ficaram
+ muito paranoicos e comecaram a guardar a agua deles. Alguns dias depois alguem
+ nocauteou o guarda na area de suprimentos do racionameto e roubou a agua.}
+{119}{}{Isso e terrivel! O que eu posso fazer?}
+{120}{}{Talvez voce consiga parar quem quer que esteja fazendo isto.}
+{121}{}{Eu darei uma olhada por ai.}
+{122}{}{Voce e o ladrao de agua?! Como voce pode?}
+{123}{}{Muito obrigado por salvar a todos nos.}
+{124}{}{Voce fez um bom trabalho pegando o ladrao. Por favor apresse-se e ache o
+ chip da agua.}
+{125}{}{Como voce pode nos trair? Agora todos aqui morrerao! Mas voce nao se
+ importa, importa?}
+{126}{}{Eu estou assustada. Eu nao sei o que acontecera a todos nos. Por favor,
+ nao nos desaponte.}
+{127}{}{Nao se preocupe, eu farei o meu melhor. Voce ficara bem.}
+{128}{}{Sim, que seja.}

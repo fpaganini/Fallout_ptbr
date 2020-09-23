@@ -1,0 +1,23 @@
+{100}{}{Voce ve o Deputy Fry.}
+{101}{}{Ola amigo. Deputy Tony Fry a seu servico.}
+{102}{}{O que e este lugar?}
+{103}{}{Saia do meu caminho ou eles terao que plantar voce a sete palmos abaixo da terra.}
+{104}{}{Eu nao fiz isso.}
+{105}{}{Bacana encontrar voce. Tchau.}
+{106}{}{Wug.}
+{107}{}{Ack!}
+{108}{}{Oh, a newcomer! Bem-vindo ao! Eu pensava que voce fosse parte das caravanas. Voce veio com eles?}
+{109}{}{Sim.}
+{110}{}{Nao.}
+{111}{}{Eu nao estou surpreso. A maioria dos novos membros da nossa cidade entram com as caravanas, mesmo com as caravanas desaparecidas que nos tivemos. E uma cidade boa, mas seja cuidadoso com quem voce se associa. Pessoas como Decker e os thugs podem por voce em muitos problemas.}
+{112}{}{Quem e Decker?}
+{113}{}{Caravanas Desaparecidas?}
+{114}{}{Okay, obrigado.}
+{115}{}{Isso e surpreendente. E bem dificil la fora, especialmente com as caravanas desaparecidas. Mas voce esta salvo agora, apenas fique longe do Maltese Falcon. Eles sao um bando de criadores de problemas, Decker e a turma dele.}
+{116}{}{Quem e Decker?}
+{117}{}{Caravanas Desaparecidas?}
+{118}{}{Sim, bem, eu sou bem durao.}
+{119}{}{Eu creio que sim. Entao voce tem quaisquer outras perguntas?}
+{120}{}{Quem e Decker?}
+{121}{}{O que era aquilo a respeito das caravanas desaparecidas?}
+{122}{}{Isso e tudo, obrigado.}

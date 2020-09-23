@@ -1,0 +1,71 @@
+{100}{}{Voce ve uma pequena crianca.}
+{101}{}{Oi!}
+{102}{}{Ola.}
+{103}{}{Aonde estao seus pais?}
+{104}{}{Erf.}
+{105}{}{Eu dunno. Por aqui em algum lugar.}
+{106}{}{Voce e engracado!}
+{107}{}{Ei, voce vai matar alguem?}
+{108}{}{Sim.}
+{109}{}{Nao!}
+{110}{}{Erf.}
+{111}{}{Eu vou falar pra minha mamae!}
+{112}{}{Entao voce nao deveria carregar uma arma assim.}
+
+{980}{}{Huh?}
+{981}{}{Eu sei. Pergunte a mamae.}
+{982}{}{Pergunte ao papai.}
+
+{1000}{}{Deathclaw}
+{1001}{}{Saqueadores}
+{1002}{}{Junktown}
+{1003}{}{Brahmin}
+{1004}{}{Chip}
+{1005}{}{Mercadores}
+{1006}{}{Khans}
+{1007}{}{Garl}
+{1008}{}{Shady Sands}
+{1009}{}{Hub}
+{1010}{}{Tandi}
+{1011}{}{Aradesh}
+{1012}{}{Seth}
+{1013}{}{Razlo}
+{1014}{}{Policia}
+{1015}{}{Caravanas}
+{1016}{}{Comerciantes}
+{1017}{}{Criancas}
+{1018}{}{Necropolis}
+{1019}{}{Spot}
+{1020}{}{Irmandade}
+{1021}{}{Boneyard}
+{1022}{}{Torres}
+{1023}{}{Cidade}
+{1024}{}{Centro da Cidade}
+{1025}{}{Heights}
+
+{1100}{}{Wah! Monstro do pesadelo!}
+{1101}{}{Grandes malvados!}
+{1102}{}{Eu sei.}
+{1103}{}{Grandes fedidos.}
+{1104}{}{Pergunte a mamae.}
+{1105}{}{Cancoes do mar engracadas.}
+{1106}{}{Grandes malvados!}
+{1107}{}{Homem mau.}
+{1108}{}{Eu nao vou dizer pra voce.}
+{1109}{}{Cidade grande.}
+{1110}{}{Eu nao vou dizer.}
+{1111}{}{Nao, nao vou dizer pra voce.}
+{1112}{}{A mamae nao quer que eu fale sobre ele.}
+{1113}{}{O papail acha que ele e engracado.}
+{1114}{}{Pessoas grandes.}
+{1115}{}{Eles tem esses fedidos que puxam eles.}
+{1116}{}{Pessoas boas. Elas me dao doce.}
+{1117}{}{Eles nao gostam de brincar de pique-esconde.}
+{1118}{}{Lugar assustador.}
+{1119}{}{Lugar nojento.}
+{1120}{}{Lugar assustador.}
+{1121}{}{Lugar assustador.}
+{1122}{}{A mamae nao nos deixa brincar la.}
+{1123}{}{O papai fica nos dizendo pra brincar ali.}
+{1124}{}{Area das pessoas grandes.}
+{1125}{}{Area das pessoas grandes.}

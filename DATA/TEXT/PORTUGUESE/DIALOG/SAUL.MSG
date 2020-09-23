@@ -1,0 +1,115 @@
+{100}{}{Você vê Saul, o boxeador.}
+{101}{}{Você vê um homem muscular, de aparência forte.}
+{102}{}{He has muscles toughened by years of fighting, and a light-footed stance
+ characteristic of a skilled boxer.}
+{103}{}{Oh. Bem, boa sorte.}
+{104}{}{This isn't the time or place for weapons, friend. But if you care
+ to try me sometime in the ring, feel free.}
+{105}{}{O que você quer?}
+{106}{}{Sim?}
+{107}{}{O que você faz aqui?}
+{108}{}{Um cara forte, eh? Eu aposto que eu poderia derrotar você.}
+{109}{}{Meu nome é }
+{110}{}{. Apenas dando uma olhada por aí.}
+{111}{}{[Saul ri heartily.] Por que? Eu sou um boxeador!}
+{112}{}{Ah, eu poderia chutar seu traseiro.}
+{113}{}{Hmm. Qual é o problema?}
+{114}{}{Uh, não, obrigado.}
+{115}{}{Saul está inconsciente.}
+{116}{}{}
+{117}{}{}
+{118}{}{}
+{119}{}{}
+{120}{}{}
+{121}{}{}
+{122}{}{}
+{123}{}{}
+{124}{}{ [Saul ri heartily.]}
+{125}{}{ [Saul ri ameaçadoramente.]}
+{126}{}{Tudo bem. Isto deve ser rápido.}
+{127}{}{Put up ou cale-se.}
+{128}{}{Well, you're in the right place if you're looking for someone to pound
+ that ugly mug of yours into a better shape.}
+{129}{}{Eu sou Saul.}
+{130}{}{Uh, não, obrigado. Eu posso fazer a você algumas perguntas?}
+{131}{}{Então, você esteve vivendo em Junktown há muito tempo?}
+{132}{}{Bem, bacana encontrar você. Mais tarde.}
+{133}{}{Sim.}
+{134}{}{Eu estive aqui por toda a minha vida. Cresci aqui.}
+{135}{}{O que você pode me dizer sobre Junktown?}
+{136}{}{Como você se tornou um boxeador?}
+{137}{}{Hmm. Well, stranger, I work for Gizmo. He's the owner of that great
+ casino there. Pays good money to fighters here, too! What else do you want to
+ know?}
+{138}{}{O que há para fazer aqui?}
+{139}{}{Você pode me dizer um pouco sobre Gizmo e aquele cassino?}
+{140}{}{Estive lutando boxe por alguns anos.}
+{141}{}{I was always getting into scuffles with my brothers when I grew up.
+ One time a small band of raiders attacked Junktown, and I beat one into
+ submission before he could get his gun on me. Just luck, really, but Gizmo
+ was sponsoring organized fights, and I needed some money. Been boxing
+ ever since.}
+{142}{}{O que aconteceu com seus irmãos?}
+{143}{}{Então o que há para fazer nesta cidade?}
+{144}{}{Você pode me dizer sobre seu chefe?}
+{145}{}{If you are just looking for supplies, you should try Killian Darkwater's
+ store, off southeast of here. You can also get a night's sleep at the Crash
+ House near here. If you are planning to stay a while, you might want to get
+ a drink over at the Skum Pitt, but watch out for the Skulz.}
+{146}{}{Quem são os Skulz?}
+{147}{}{Então, me diga mais sobre o cassino.}
+{148}{}{Gizmo's casino is where everybody goes to gamble. There are many games
+ and you can have a great time! It's the best place this side of the Hub!}
+{149}{}{O que mais há para fazer por aqui?}
+{150}{}{My brother James was killed in a raider attack a few years ago. Shortly
+ after that, my other brother, Darrell, gathered together some things and set
+ off south towards a mythical place called the Glow, in search of the treasure of
+ the ancients, or something like that. He never came back.}
+{151}{}{Por que você fica em Junktown?}
+{152}{}{Uh, nós podemos mudar de assunto?}
+{153}{}{Eu lamento ouvir sobre a sua perda.}
+{154}{}{O que você sabe sobre este lugar lendário, o Glow?}
+{155}{}{Thank you. It's been a few years, but I still don't like to talk about
+ it much.}
+{156}{}{Então, eu posso fazer algumas perguntas?}
+{157}{}{I live here. I like boxing, I have a good life with Trish, and I have
+ no desire to go elsewhere.}
+{158}{}{Oh. Bem, isso é bom. Se importa se nós mudarmos de assunto?}
+{159}{}{Sim, eu encontrei a Trish.}
+{160}{}{Bem, o que?}
+{161}{}{Com o que eu posso ajudar você?}
+{162}{}{O que há pra se fazer aqui?}
+{163}{}{Você pode me dizer um pouco sobre o seu chefe?}
+{164}{}{[Você bate na sua arma] Eu gostaria que você encontrasse meu pequeno amigo.}
+{165}{}{Obrigado pela conversa. Vejo você por aí.}
+{166}{}{The Skulz are a bad bunch who hang out in the back of the Crash House and
+ at the Skum Pitt. Watch out for them; they like playing with knives.}
+{167}{}{Obrigado pela dica. Eu tomarei cuidado com aonde eu piso.}
+{168}{}{Entendo. Algo mais que você possa me dizer a respeito?}
+{169}{}{Bem, esteja certo(a) de manter suas mãos fora, eh?}
+{170}{}{Ela é muito importante para mim.}
+{171}{}{ [Saul frowns.] But she doesn't like my boxing. She doesn't seem to
+ understand that it's what I want to do.}
+{172}{}{She's concerned for your welfare. She probably can't stand to see you
+ getting beaten up and risking your life for Gizmo. If you don't find a
+ compromise, you could lose her.}
+{173}{}{Eu acho que ela está preocupada com você.}
+{174}{}{Então, falaremos sobre algo mais?}
+{175}{}{Bem, vejo você mais tarde.}
+{176}{}{I never thought of it that way. I figured that she just didn't like
+ boxing. I suppose I will have to talk to her more about this. Thanks.}
+{177}{}{Ah, ela apenas não gosta de boxe, é tudo.}
+{178}{}{Bem, nós podemos falar sobre algo mais?}
+{179}{}{Vejo você por aí.}
+{180}{}{Você de novo. O que agora?}
+{181}{}{Olá de novo.}
+{182}{}{Eu estou aqui para ensinar a você algumas maneiras.}
+{183}{}{Eu preciso de falar com você sobre a Trish.}
+{184}{}{O que você pode me dizer sobre Junktown?}
+{185}{}{From what I've heard, the Glow is a great crater that glows at night. It's
+ supposed to be far, far to the south, but I don't know where. Stories say that
+ it's inhabited by all sorts of mutant freaks who guard the technology from before
+ the War.}
+{186}{}{Entendo. Obrigado pela informação.}
+{187}{}{Interessante. Você pode me dar mais alguma informação?}
+{188}{}{Isso será difícil sem nenhuma cabeça, palooka.}

@@ -1,0 +1,21 @@
+{100}{}{Voce ve um estudioso Seguidor do Apocalipse.}
+{101}{}{Por favor fique quieto, eu estou tentando estudar.}
+{102}{}{Nos procuramos conhecimento pra nos proteger das Criancas.}
+{103}{}{Nicole diz que o conhecimento de nossos inimigos nos ajudara a prevalecer.}
+{104}{}{Ola.}
+{105}{}{Bem-vindo aos Seguidores do Apocalipse. Por favor respeite a santidade da nossa biblioteca.}
+{106}{}{Dia glorioso para voce.}
+{107}{}{Todo conhecimento e sagrado.}
+{108}{}{Nos devemos proteger a nos mesmos.}
+{109}{}{Quem sabe o que acontece embaixo das Criancas da Catedral?}
+{110}{}{Conhecimento e vida.}
+{111}{}{Nicole nos ajuda a entender a santidade do conhecimento.}
+{112}{}{Nicole nos leva a ressucitar o que foi perdido.}
+{113}{}{Eu preciso achar aquele livro para a Nicole.}
+{114}{}{Katja deve por aqui em algum lugar. Katja!}
+{115}{}{As Criancas foram levadas da Catedral.}
+{116}{}{Voce era aquele      , nao era?}
+{117}{}{Agora nos estamos seguros para descobrir o conhecimento necessario para reconstruir a civilizacao.}
+{118}{}{Nao e glorioso que as Criancas nao sao mais uma ameaca?}
+{119}{}{Dia glorioso pra voce.}
+

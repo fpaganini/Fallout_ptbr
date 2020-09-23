@@ -1,0 +1,9 @@
+{100}{}{A porta esta trancada. Um codigo de seguranca e requerido para destranca-la.}
+{101}{}{Voce insere o codigo da fita, e destranca a porta.}
+{102}{}{A porta nao esta trancada.}
+{103}{}{Voce bypass o codigo de seguranca e destranca a porta.}
+{104}{}{Voce e incapaz de destrancar a porta.}
+{105}{}{Voce e incapaz de destrancar a porta. Isto poderia ser mais facil se voce
+ usasse um conjunto de ferramentas lockpicking eletronicas nela.}
+{106}{}{A explosao e poderosa, mas nem ao menos dent ou marcou a
+ porta de seguranca.}

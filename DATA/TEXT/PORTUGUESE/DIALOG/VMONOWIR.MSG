@@ -1,0 +1,11 @@
+{100}{}{Voce nota e consegue evitar um fio de monofilamento esticado pelo
+ corredor.}
+{101}{}{Voce sente dor intensa nas suas pernas. Voce sofreu um corte muito aberto por um
+ fio de monofilamento.}
+{102}{}{danifica seriamente sua perna direita.}
+{103}{}{danifica seriamente sua perna esquerda.}
+{104}{}{Voce desarma a armadilha do fio do monofilamento e elimina seguramente o fio
+ antes que ele corte e abra suas maos.}
+{105}{}{Voce tenta desarmar o fio, mas nao consegue um bom manejamento nele. Voce
+ volta pra tras antes que ele corte voce.}
+{106}{}{Voce tenta desarmar o fio, mas escorrega e corta a si mesmo com ele.}

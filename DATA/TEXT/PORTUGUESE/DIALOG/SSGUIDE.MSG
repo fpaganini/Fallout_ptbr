@@ -1,0 +1,112 @@
+{100}{}{Voce ve Katrina. Ela tem um sorriso muito bonito.}
+{101}{}{Eu estou desarmada, por favor guarde suas armas.}
+{102}{}{Hng!}
+{103}{}{Por que eu deveria? Este parece um mundo perigoso.}
+{104}{}{Por que isso?}
+{105}{}{Talvez eu irei, talvez nao irei.}
+{106}{}{Eu assumirei que significa sim.}
+{107}{}{Normalmente eu concordaria com voce. E muito perigoso viajar
+ desarmado. Mas esta e Shady Sands, e nos somos um povo pacifico.
+ Nao ha necessidade de armas aqui.}
+{108}{}{Ok. Obrigado.}
+{109}{}{Se voce nao por sua arma longe, eu nao falarei com voce. Ha
+ muitas pessoas como eu. Voce so deveria usar a forca se a situacao
+ chama por ela.}
+{110}{}{Hmm, ok.}
+{111}{}{Bem-vindo a Shady Sands, viajante. Meu nome e Katrina. Meu trabalho e
+ cumprimentar estranhos e ajuda-los a entender nossa vila. Nos achamos que
+ havera menos problemas se voce escutar o que eu tenho a dizer.}
+{112}{}{Wubba!}
+{113}{}{Diga-me mais a respeito de si mesma.}
+{114}{}{Por favor ajude-me...}
+{115}{}{Eu estou procurando por um chip de agua. Viu um?}
+{116}{}{Eu preciso de ajudar para achar a Tandi.}
+{117}{}{Eu estou lidando com seu problema de radscorpions. Quaisquer pistas?}
+{118}{}{Obrigado, talvez mais tarde.}
+{119}{}{E uma pena que voce e dimwitted. Nos teremos dificuldade em entender
+ um ao outro. Eu espero que os outros na sua Vault nao sejam como voce.}
+{120}{}{Wubba-val?}
+{121}{}{Sim, eu posso dizer que voce e de uma Vault. Voce tem aquele olhar em voce.
+ Eu vim da Vault 15, ao leste. Mas eu tive que deixar meu lar e agora eu vivo aqui.
+ Esperancosamente voce achara o que voce esta procurando, ate mesmo se e apenas
+ outro lugar pra viver. Eu espero que sua Vault nao chutou voce pra fora devido
+ ao seu wits. Eu espero que haja outro motivo.}
+{122}{}{Hng.}
+{123}{}{Voce precisara achar outro caminho para obter suas respostas, como voce nao
+ consegue se comunicar bem o bastante. Eu espero que voce nao machuque pessoas demais
+ na sua jornada. Por favor seja bom com as pessoas aqui, nos nao representamos mal a voce.}
+{124}{}{Ahhh.}
+{125}{}{Eu ficaria feliz em ajudar voce. Eu mesma era como voce uma vez. Esperancosamente,
+ meu conhecimento sera util.}
+{126}{}{O que eu devo fazer se eu me ferir?}
+{127}{}{Aonde eu posso conseguir algum equipamento melhor?}
+{128}{}{Diga-me a respeito deste lugar.}
+{129}{}{Diga-me a respeito do resto do mundo.}
+{130}{}{Diga-me a respeito de si mesma.}
+{131}{}{Isso e tudo por agora, obrigado.}
+{132}{}{Bem, se voce nao consegue chegar a um doutor, voce precisara curar a si mesmo.
+ Stimpaks sao um item de cura comum. Use-os em si mesmo para curar feridas menores.
+ Primeiros Socorros e um metodo mais lento, mas esta sempre disponivel. Para ferimentos
+ graves, como uma perna quebrada, voce precisara usar a tecnica Doutor.}
+{133}{}{Voce tera que fazer como nos fazemos. Scavenge it ou negocie por ela. E se voce
+ e atacado, seu inimigo pode fornecer equipamento, se voce viver muito o bastante
+ para saquea-los. Nos somos uma comunidade pacifica, entao nos na maioria das
+ vezes permutamos ou negociamos pelos itens que nos nao conseguimos produzir.}
+{134}{}{Diga-me mais sobre permutar.}
+{135}{}{Voce esta de pe em Shady Sands. Nos somos nada alem de uma pequena cidade em um 
+ grande mundo. Nos apenas queremos ser deixados em paz. Alem de alguns animais que
+ sofreram mutacao e outras criaturas do deserto, so os Saqueadores nos dao problema.
+ Aradesh e nosso lider. Ele esta na grande casa central, fale com ele.}
+{136}{}{Eu sei muito pouco do mundo la fora. Eu escapei de uma Vault quando
+ foi atacada. Infelizmente eu estava muito ferida e nao me lembro muito do
+ que aconteceu. Mas Dharma estava me observando, e eu fui achada pelo povo
+ de Shady Sands. Eu vivo aqui agora. Voce ainda nao falou com o Ian? Ele
+ e um guarda mercador que foi ferido. Ele esta se recuperando na casa
+ dos guardas logo ali. [Ela aponta para o leste]
+ Ele e mais widely viajado do que eu.}
+{137}{}{Minha vida era muito entediante. Eu fui criada em uma Vault. Eu vivi la
+ por muitos anos. Infelizmente, nos eramos uma multidao e a vida era muito ruim.
+ Houve um schism e muitas pessoas sairam, levando com elas o melhor equipamento.
+ Ainda assim, alguns de nos tentaram ficar na Vault. Mas entao nos fomos
+ atacados. Eu fui ferida e eu acabei aqui. Agora eu tento ajudar as
+ pessoas . . .}
+{138}{}{Aonde estava esta sua Vault?}
+{139}{}{Permutacao e a troca de mercadorias. Voce me da alguns itens, e eu dou a
+ voce itens em troca. Ja que voce iniciou a permuta, eu deixarei voce pegar e
+ escolher o que voce quer. Mas o acordo deve ser um que eu acho que eu gostarei,
+ entao voce provavelmente ira querer me dar mercadorias mais valiosas que voce
+ nao precisa em troca por coisas menos caras que voce queira. E se voce nao tem
+ itens o bastante para negociar, ha sempre tampinhas. As tampinhas de garrafa
+ sao o unico dinheiro comum achado aqui. As tampinhas sao backed pelos mercadores
+ do Hub, entao voce pode negocia-las em qualquer lugar.}
+{140}{}{Era a Vault 15. Esta direto a leste daqui. Nos tentamos fazer contato
+ com algumas outras Vaults, mas nos sempre falhamos. Eu acho que foram os
+ saqueadores que atacaram meus dwellers camarada. Seja cuidadoso!}
+{141}{}{Eu espero que voce ache ela. Ela e como uma pequena irma para mim. Eu acho
+ que foi um dos grupos de saqueadores que leveram ela. Descubra tanta informacao
+ sobre eles quanto voce puder e equipe a si mesmo antes de voce ir atras deles.
+ Mas nao seja tao rapido para lutar, ate mesmo eles as vezes escutam a razao...}
+{142}{}{Seth tem estado tentado seguir os radscorpions. Ele clama que ele ate
+  mesmo sabe o caminho pro covil deles, mas que ele esta um pouco assustado
+ de ir la. Seu irmao foi seriamente ferido por um dos mutantes e o Seth
+ nao sabe bem o que fazer.}
+{143}{}{Como uma questao de fato, sim. Meu velho lar, Vault 15, tinha um. Eu
+ nao estive la desde que eu fui ferida, mas voce poderia achar o que voce
+ esta procurando la. Alguem disse que eles tentaram ir para a Vault para
+ dar uma olhada, mas estava escuro e o elevador estava quebrado. Eu
+ espero que voce esteja melhor preparado.}
+{144}{}{Ola de novo. Eu espero que voce esteja indo bem. Ha algo com que eu possa ajudar voce?}
+{145}{}{Voce nunca vai dormir?}
+{146}{}{Bem, eu tiro sonecas de gato quando voce nao esta por perto. Alem disso,
+ eu acho o ar do deserto muito revigorante e saudavel. E eu nunca me canso de
+ olhar para as estrelas. Voce consegue imaginar nunca ver o ceu da noite por
+ sua vida inteira? [Ela pausa e olha pra voce] Oh, eu creio que voce consegue.}
+{147}{}{Ah, sim. Obrigado.}
+{148}{}{Ha um doutor por aqui?}
+{149}{}{Lugares pequenos como Shady Sands nao seria capaz de sobreviver sem a
+ ajuda de um curandeiro. Nosso doutor, Razlo, vive na casa mais ao sul Se voce
+ esta seriamente ferido, veja ele. Tente nao aborrece-lo a noite. Ele e uma
+ pessoa bem rabugenta sem seu sono.}
+{150}{}{You ganha 250 pontos de experiencia pelo conhecimento que voce ganhou de
+ Katrina.}
+{151}{}{Eles geralmente enforcam ladroes por aqui. Seja bom.}

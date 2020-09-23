@@ -1,0 +1,122 @@
+{100}{}{Você vê o Neil. o cabeça da guarda dos Seguidores.}
+{101}{}{Você vê o Neil. o cabeça da guarda dos Seguidores.}
+{102}{}{If you seek someone to talk to, talk to Peter. I'm
+ trying to get some sleep.}
+{103}{}{Por que você está aqui?}
+{104}{}{Hrr. Arrooo?}
+{105}{}{Nuh nuh.}
+{106}{}{MATAR!!}
+{107}{}{Eu sou }
+{108}{}{. Eu fui enviada para procurar você.}
+{109}{}{Eu sou }
+{110}{}{. E você está morto.}
+{111}{}{O que você pode me dizer sobre os Seguidores?}
+{112}{}{Eu vim para oferecer minha assistência.}
+{113}{}{Eu procuro modos nos quais instigar paz sobre esta terra devastada desolada.}
+{114}{}{Eu lamento, mas eu não consigo entender você. Agora, o que você está fazendo aqui?}
+{115}{}{Nuh nuh.}
+{116}{}{Mim Matar!!}
+{117}{}{Auda. Mim Auda.}
+{118}{}{Se você não está fazendo nada, então eu sugiro que você saia. Agora!}
+{119}{}{Você deseja ajudar? Talvez eu possa usar você.}
+{120}{}{Sim. Mim auda! Mim auda!}
+{121}{}{Não. Não auda!}
+{122}{}{You are simple enough to find this person that others are
+ too smart to find. There is a spy around here who is giving
+ our secrets to the Crianças. Find the spy. Kill the spy. Go.}
+{123}{}{Eu pensei tanto assim. Pra fora com você.}
+{124}{}{Figures that Jake doesn't think that I can get the job
+ done right. He's the only one who could have sent you.
+ Then you know about the spy.}
+{125}{}{Jake não me enviou. Um dos seus guardas sim.}
+{126}{}{Eu conheço algumas. Jake era muito curto de palavras.}
+{127}{}{O que é isto a respeito de um espião? Talvez eu possa ajudar.}
+{128}{}{My guards are no fools. They sent you to the right person.
+ There is a leak in here, and we need to find out where it is and seal it.}
+{129}{}{Tem quaisquer vazamentos?}
+{130}{}{Eu sou um lutador, não um encanador. Se você tem vazamentos, fale com mais alguém.}
+{131}{}{Eu acho que você é o vazamento, Morra!!}
+{132}{}{Esqueça. Eu não sou o lacaio de ninguém.}
+{133}{}{The only thing that we know so far is that the person has
+ to have access to the Crianças's Cathedral. I think it may be one of our scouts.}
+{134}{}{Ok. Eu verificarei agora mesmo.}
+{135}{}{Você tem certeza que não é um guarda?}
+{136}{}{Sorte difícil então. Você nunca pegará a pessoa agora.}
+{137}{}{I am quite certain. They only have access to the halls
+ of the Seguidores. They are not allowed outside.}
+{138}{}{Então eu não sei quem poderia ser.}
+{139}{}{Eu olharei nos escoteiros então.}
+{140}{}{Eu acho que há um cover-up aqui. Você morre!}
+{141}{}{That is why I am asking you to look around and see
+ if you can find someone. Will you help?}
+{142}{}{Sim.}
+{143}{}{Não.}
+{144}{}{Obrigado a você. Isto significa muito para nós.}
+{145}{}{Então eu devo deter você de avisar a alguém.}
+{146}{}{How he ever became second in command is beyond me. Since he
+ was so scarce in words, I will fill you in. We have a leak who
+ is feeding the Crianças some of our movement patterns.}
+{147}{}{Tem quaisquer vazamentos?}
+{148}{}{Eu sou um lutador, não um encanador. Se você tem vazamentos, fale com mais alguém.}
+{149}{}{Eu acho que você é o vazamento, Morra!!}
+{150}{}{Esqueça. Eu não sou o lacaio de ninguém.}
+{151}{}{You don't even know? I guess you wouldn't; most people
+ in here don't. Someone is sneaking information of our
+ movements to the Crianças. We need that person gone.}
+{152}{}{Tem quaisquer vazamentos?}
+{153}{}{Eu acho que você é o vazamento, Morra!!}
+{154}{}{Esqueça. Eu não sou o lacaio de ninguém.}
+{155}{}{Quanto você está querendo oferecer?}
+{156}{}{Eu não tenho muito dinheiro. Que tal 200 tampinhas?}
+{157}{}{Lamento, eu estou quebrado.}
+{158}{}{Sua vida.}
+{159}{}{Soa justo pra mim.}
+{160}{}{Agora isto encerrará este vazamento nos Seguidores!}
+{161}{}{Sorte difícil então.}
+{162}{}{O que você gostaria de saber?}
+{163}{}{Quem é o líder?}
+{164}{}{Por que você está atacando as Crianças?}
+{165}{}{Aonde eu posso obter um pouco de primeiros socorros?}
+{166}{}{Nada. Apenas verificando.}
+{167}{}{Nada. Obrigado a você.}
+{168}{}{Our leader is Nicole. Really nice person, but a bit flighty.
+ Anything else you want to know?}
+{169}{}{Por que vocês estão atacando as Crianças?}
+{170}{}{Aonde eu posso obter um pouco de cura?}
+{171}{}{Nada. Apenas verificando. *smack*}
+{172}{}{Nada. Obrigado a você.}
+{173}{}{The Crianças are not what they appear to be. They
+ are hiding something. Something related to those Nightkin. Anything else?}
+{174}{}{Quem é o líder?}
+{175}{}{Aonde eu posso obter um pouco de cura?}
+{176}{}{Nada. Apenas verificando. *smack*}
+{177}{}{Nada. Obrigado a você.}
+{178}{}{There is the Crianças's healer, but I don't trust them. We
+ also have a doctor or nurse on duty here at all times. Anything else?}
+{179}{}{Quem é o líder?}
+{180}{}{Por que vocês estão atacando as Crianças?}
+{181}{}{Nada. Apenas verificando. *smack*}
+{182}{}{Nada. Obrigado a você.}
+{183}{}{Eu lamento verdadeiramente em ouvir isso. Que os pedaços estejam com você!}
+{184}{}{Quem enviou você?}
+{185}{}{Seu guarda me enviou.}
+{186}{}{Jake me enviou.}
+{187}{}{Eu me enviei.}
+{188}{}{Deixa pra lá. Adeus.}
+{189}{}{A bit sure of yourself. I have no need for you.
+ Talk to Nicole if you wish to offer your services.  Good night.}
+{190}{}{Then you will want to search out Nicole. She can help
+ you better with that. Good evening.}
+{191}{}{Vá achar aquele espião. Nós precisamos manter o segredo dos nossos planos ainda por mais tempo.}
+{192}{}{Good job on finding and removing Heather. Her meddling
+ nearly got everyone killed. I wish there was something more we could do.}
+{193}{}{Talvez eu possa ajudar você mais uma vez.}
+{194}{}{Boa sorte para você.}
+{195}{}{Como assim?}
+{196}{}{I can train the Seguidores in some skills for war. Maybe
+ your chances will improve.}
+{197}{}{Eu posso sair. Adeus.}
+{198}{}{Isso seria maravilhoso. Obrigado a você.}
+{199}{}{Agora que você está um pouco mais preparado(a). Boa noite.}
+{200}{}{Thank you for your teachings. Now we have a chance to
+ beat back those Crianças.}

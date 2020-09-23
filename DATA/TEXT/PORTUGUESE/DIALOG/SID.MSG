@@ -1,0 +1,31 @@
+{100}{}{Voce ve o, assistente da Beth.}
+{101}{}{Bom dia.}
+{102}{}{Boa tarde, senhor!}
+{103}{}{Boa tarde, senhora!}
+{104}{}{Boa noite.}
+{105}{}{Eu sei, eu sei . . . [sussurra] ela fala muito nao fala?.}
+{106}{}{Bem-vindo a Loja de Armas & Rumor Mill da Beth.}
+{107}{}{Beth, alguem esta aqui pra ver voce.}
+{108}{}{Bem-vindo ao Palacio de Prazer da Beth.}
+{109}{}{Voce ve bearing presentes?}
+{110}{}{[Sussurra] Nao diga a ela qualquer coisa que voce nao queira que a cidade inteira saiba.}
+{111}{}{De novo?}
+{112}{}{Armas gratis! Venham e peguem elas!}
+{113}{}{Luz azul especial no corredor tres.}
+{114}{}{Ela e minha, nem mesmo pense nisso!}
+{115}{}{Ela gosta de se fazer de dificil.}
+{116}{}{Pausa pro cafe da manha.}
+{117}{}{Pausa pro almoco!}
+{118}{}{Boa noite.}
+{119}{}{suit azul bacana, heh. 13 e seu numero da sorte?}
+{120}{}{Oh, e um homem misterioso!}
+{121}{}{Oh, e uma mulher misteriosa!}
+{122}{}{Voce le a palma da mao?}
+{123}{}{Oh, Beth simplesmente ama couro!}
+{124}{}{Ei docinho, compre a jaqueta de couro dele pra mim.}
+{125}{}{Ei docinho, compre a jaqueta de couro dela pra mim.}
+{126}{}{Armadura com espinhos bacana!}
+{127}{}{E camuflagem, voce blend tao bem. Espere! Aonde voce foi?}
+{128}{}{Ei, esse e um sharp looking outfit.}
+{129}{}{nao sou!}
+{130}{}{Ei! E a lata de metal! Como voce esta indo?}

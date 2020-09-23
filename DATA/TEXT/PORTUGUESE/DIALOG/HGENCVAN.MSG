@@ -1,0 +1,113 @@
+# These are people who are running caravans. either gender, but majority Male
+# Tone of voice similar to truck drivers of California-- rough and partially
+# harsh.
+
+{100}{}{Voce ve um motorista de caravana.}
+{101}{}{Hoje vai ser um longo dia!}
+{102}{}{Eu realmente nao quero trabalhar hoje.}
+{103}{}{Eu espero que nos nao sejamos saqueados… ou pior.}
+# attacked by raiders
+
+{104}{}{Lamento, nos nao precisamos mais de guardas… Eu acho.}
+{105}{}{Lamento, nos estamos cheios.}
+# we have enough people for this trip
+
+{106}{}{Voce deveria verificar o Mercado dos Mercadores se voce quer um trabalho.}
+# Merchant Market is a section of town in which people gather.
+
+{107}{}{Eu espero que nos vendamos tudo.}
+{108}{}{Eu nao posso esperar ate nos terminarmos.}
+# finish this job.
+
+{109}{}{Vamos por o pe na estrada.}
+{110}{}{Eu estou pronto pra chutar algumas bundas.}
+# i'm ready for some brawling
+
+{111}{}{Nos estamos fora daqui!}
+{112}{}{Com certeza foi quente hoje.}
+{113}{}{Rapaz, eu estou sedento.}
+# i am very thirsty
+
+{114}{}{Que dia e?}
+{115}{}{Eu vou pro Falcon tao rapido quanto eu tiver terminado!}
+# Falcon is short for Maltese Falcon--Drinking and gambling hall
+
+{116}{}{Lamento, nos acabamos de voltar de uma rota.}
+{117}{}{Voce deveria verificar o Mercado dos Mercadores se voce quer um trabalho.}
+# Merchant Market is a section of town in which people gather.
+
+{118}{}{Hoje e dia de pagamento!}
+{119}{}{Eu estou indo direto pro Bob’s!}
+# Bob's is short for Bob's Iguana Bits -- eating establishment
+{120}{}{Eu tenho que pagar de volta o emprestimo hoje!}
+{121}{}{Eu estou tao cansado.}
+{122}{}{Essa foi uma longa viagem!}
+
+{123}{}{Hora de encerrar a noite, eu acho.}
+{124}{}{Vejo voces amanha, pessoal.}
+{125}{}{Oh cara, que noite foi essa.}
+{126}{}{Eu estou ficando velho…}
+
+{200}{}{Voce ve o Mat.}
+{201}{}{Eu verei voces caras amanha. Nao deixem o percevejo morder voces…}
+{202}{}{Agora, esse foi um sonho esquisito.}
+
+{203}{}{Sim? Como eu posso ser de servico?}
+{204}{}{Duh?}
+{205}{}{O que e este lugar?}
+{206}{}{Voce poderia me dizer aonde eu poderia achar um chip de agua?}
+{207}{}{O que todas estas carrocas estao fazendo aqui?}
+{208}{}{Oh. Me desculpe, eu pensei que voce era outra pessoa. Tchau.}
+{209}{}{Sim. Voce poderia morrer.}
+
+{210}{}{Muito tempo nas terras devastadas, unh? Isso e muito ruim.}
+{211}{}{Este e o Hub. E um centro de comercio para as terras devastadas. E a maior cidade que eu conheco, voce consegue achar qualquer coisa que voce possa querer aqui. E se voce esta procurando por trabalho este e o lugar pra se estar. Parece que todos aqui estao procurando contratar voce pra algo, seja legal ou nao.}
+
+{212}{}{Voce poderia me dizer aonde eu poderia achar um chip de agua?}
+{213}{}{O que todas estas carrocas estao fazendo aqui?}
+{214}{}{Negociar? O que e que voce negocia?}
+{215}{}{Aonde eu iria para arrumar um trabalho?}
+{216}{}{Adeus.}
+
+{217}{}{Um Chip de Agua? Uau. Voce me pegou nessa. Eu nunca ouvi sobre um desses. Talvez voce devesse verificar o armazem no centro da cidade, eles podem ser capazes de ajudar voce.}
+{218}{}{O que todas estas carrocas estao fazendo aqui?}
+{219}{}{Obrigado a voce. Adeus.}
+
+{220}{}{Estas sao as caravanas. Nos cart mercadorias pra todos os cantos das terras devastadas. Junktown, A Irmandade, Shady Sands e numerosos outros lugares. Necropolis e the Glow sao as unicas areas de que nos ficamos longe. Eu estou comandando este grupo e nos sairemos em breve. O grupo do outro lado da rua acabou de chegar.}
+{221}{}{Esta parece a mesma caravana que eu vi mais cedo.}
+{222}{}{O que e que voce negocia?}
+{223}{}{O que e este lugar?}
+{224}{}{Aonde eu iria para arrumar um trabalho?}
+{225}{}{Obrigado a voce. Adeus.}
+
+{226}{}{Hum...Muitas coisas. Coisas gerais que as pessoas precisam pra viver, Comida, Agua, muita Agua. Agua e provavelmente a comodidade mais escassa nas terras devastadas.}
+{227}{}{Voce poderia me dizer aonde eu poderia achar um chip de agua?}
+{228}{}{Aonde eu iria para arrumar um trabalho?}
+{229}{}{Obrigado a voce. Adeus.}
+
+{230}{}{Voce poderia simplesmente perguntar a qualquer um aqui no Hub. Ou voce pode verificar um dos quadros de boletins de trabalho. Ha alguns deles pelo Hub. Definitivamente mais trabalhos do que pessoas aqui.}
+{231}{}{O que e este lugar?}
+{232}{}{Voce poderia me dizer aonde eu poderia achar um chip de agua?}
+{233}{}{O que todas estas carrocas estao fazendo aqui?}
+{234}{}{Obrigado a voce. Adeus.}
+
+{235}{}{[Risos] Sim. eu creio que voce poderia dizer isso. Apos um tempo todos eles comecam a parecer os mesmos. Mas acredite em mim, eles nao sao.}
+{236}{}{Voce morrera por zombar de mim!!!}
+{237}{}{Aonde eu iria para arrumar um trabalho?}
+{238}{}{Adeus.}
+
+{300}{}{Voce ve o Luke.}
+{301}{}{Estas sao as caravanas. Nos cart mercadorias pra todos os cantos das terras devastadas. Junktown, A Irmandade, Shady Sands e numerosos outros lugares. Nos acabamos de chegar e foi uma longa viagem. O grupo do outro lado da rua esta se arrumando pra partir.}
+
+{400}{}{Voce ve o John.}
+{401}{}{O que voce esta fazendo aqui a esta hora?}
+{402}{}{Voce e um idiota. Saia daqui seu/sua viciado.}
+{403}{}{Um Chip de Agua? Eu nunca ouvi de um desses.}
+{404}{}{Estas sao as caravanas que eu estou protegendo. As mercadorias da cart dos mercadores pra todos os cantos das terras devastadas. Junktown, A Irmandade, Shady Sands e numerosos outros lugares.}
+{405}{}{Bem...Muitas coisas. Coisas gerais que as pessoas precisam pra viver, Comida, Agua, muita Agua. Agua e provavelmente a comodidade mais escassa nas terras devastadas.}
+{406}{}{Voce poderia simplesmente perguntar a qualquer um aqui no Hub. Ou voce pode verificar um dos quadros de boletins de trabalho. Ha alguns deles pelo Hub.}
+{407}{}{Eu sou um guarda de seguranca contratado pelos Mercadores que possuem as mercadorias nestes carts. Trabalho perigoso, mas paga bem. Na noite passada um dos meus colegas foi morto enquanto tomava conta das caravanas}
+{408}{}{O que sas as caravanas?}
+{409}{}{Ahhhh.[sarcastico] Que estoria triste. Como voce gostaria de se juntar ao seu amigo?}
+{410}{}{Tchau.}
+

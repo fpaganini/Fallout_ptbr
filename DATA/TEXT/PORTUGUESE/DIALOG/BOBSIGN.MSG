@@ -1,0 +1,5 @@
+{100}{}{Fechado pela ordem do Xerife Justin Greene.}
+{101}{}{Ha um pequeno sinal na cabine.}
+{102}{}{Procurado: Iguana Bob Frazier, morto ou vivo. Se voce viu qualquer informacao sobre
+ sua localizacao presente ou as pessoas responsaveis pela sua fuga, por favor informar
+ o Xerife imediatamente.}

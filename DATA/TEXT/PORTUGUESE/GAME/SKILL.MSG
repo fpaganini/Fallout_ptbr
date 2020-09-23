@@ -1,0 +1,100 @@
+#
+#   Messages from skill.c
+#
+#
+#   SKILL NAMES
+#
+{100}{}{Armas Pequenas}
+{101}{}{Armas Grandes}
+{102}{}{Armas de Energia}
+{103}{}{Desarmado}
+{104}{}{Arm. Corpo-a-Corpo}
+{105}{}{Arremesso}
+{106}{}{Primeiros Socorros}
+{107}{}{Doutor}
+{108}{}{Furtivo}
+{109}{}{Gazua}
+{110}{}{Roubar}
+{111}{}{Armadilhas}
+{112}{}{Ciencia}
+{113}{}{Reparo}
+{114}{}{Discurso}
+{115}{}{Permuta}
+{116}{}{Jogatina}
+{117}{}{Homem ao Ar Livre}
+#
+#   SKILL DESCRIPTIONS
+#
+{200}{}{O uso, cuidado e conhecimento geral de armas de fogo pequenas. Pistolas, SMGs e rifles.}
+{201}{}{A operacao e manutencao de armas realmente grandes. Miniguns, Lanca-Foguetes, Lanca-Chamas e tais.}
+{202}{}{O cuidado e alimentacao de armas baseadas em energia. Como armar e operar armas que usam tecnologia laser ou plasma.}
+{203}{}{Uma combinacao de artes marciais, boxe e outras artes marciais mao-contra-mao. Combate com suas maos e pes.}
+{204}{}{Usar armas sem alcance em combate corpo-a-corpo ou mao-contra-mao. Facas, marretas, lancas, clavas e assim por diante.}
+{205}{}{A tecnica de armas de alcance impelidas pelos músculos. Facas de arremesso, lancas e granadas.}
+{206}{}{Tecnica de cura em geral. Usada pra curar pequenos cortes, abrasoes e outras pequenas aflicoes. Em termos do jogo, o uso de primeiros socorros pode curar mais pontos de dano com o tempo do que apenas descansar.}
+{207}{}{A cura de feridas maiores e membros incapacitados. Sem esta tecnica, levara um período muito maior de tempo para restaurar os membros incapacitados para o uso.}
+{208}{}{Movimentacao discreta e a habilidade de permanecer nao notado. Se bem sucedido, voce sera muito mais difícil de localizar. Voce nao pode correr e andar furtivamente ao mesmo tempo.}
+{209}{}{A tecnica de abrir trancas sem a chave apropriada. O uso de gazuas ou gazuas eletronicas elevara grandemente esta tecnica.}
+{210}{}{A habilidade de fazer das coisas dos outros suas próprias. Pode ser usada para roubar de pessoas ou lugares.}
+{211}{}{A descoberta e remocao de armadilhas. Tambem a configuracao de explosivos para propósito de demolicao.}
+{212}{}{Cobre uma variedade de tecnicas de alta tecnologia, tais como computadores, biologia, física e geologia.}
+{213}{}{A aplicacao pratica da tecnica da Ciencia. O conserto de equipamento quebrado, maquinaria e eletronicos.}
+{214}{}{A habilidade para se comunicar de uma maneira pratica e eficiente. A tecnica de convencer os outros que a sua posicao e correta. A habilidade de mentir e nao ser pego.}
+{215}{}{Comercio e tarefas relacionadas a negociar. A habilidade de obter os melhores precos para os itens que voce vende e menores precos para os itens que voce compra.}
+{216}{}{As tecnicas de conhecimento e pratica relacionadas as apostas. A tecnica em cartas, dados e outros jogos.}
+{217}{}{Conhecimento pratico do ar livre e a habilidade de viver as custas da terra. O conhecimento de plantas e animais.}
+#
+#   SKILL ATTRIBUTES
+#
+#   Updated: 6/5/97 KSW
+#
+{300}{}{+ AG}
+{301}{}{+ AG}
+{302}{}{+ AG}
+{303}{}{+(AG+FO)/2}
+{304}{}{+(AG+FO)/2}
+{305}{}{+ AG}
+{306}{}{+ (PE + IN)}
+{307}{}{+ (PE + IN)/2}
+{308}{}{+ AG}
+{309}{}{+ (PE + AG)/2}
+{310}{}{+ AG}
+{311}{}{+ (PE + AG)/2}
+{312}{}{+ (2 x IN)}
+{313}{}{+ IN}
+{314}{}{+ (2 x CA)}
+{315}{}{+ (2 x CA)}
+{316}{}{+ (3 x SO)}
+{317}{}{+ (RE + IN)/2}
+#
+#   Skill Use Text
+#
+{500}{}{Voce cura %d pontos de dano.}
+{501}{}{Voce ja parece saudavel.}
+{502}{}{%s ja parece saudavel.}
+{503}{}{Voce falha em fazer qualquer cura.}
+{505}{}{Voce ganha %d XP por afiar suas tecnicas.}
+{510}{}{\nskill_use: tecnica usada invalida.}
+{512}{}{Voce nao pode curar os mortos.}
+{513}{}{Deixe os mortos descansarem em paz.}
+{514}{}{Esta morto, supere.}
+{520}{}{Voce cura seu/sua %s.}
+{521}{}{Voce cura o %s.}
+{525}{}{Voce falha em curar seu/sua %s.}
+{526}{}{Voce falha em curar o %s.}
+{530}{}{olho danificado}    # Lines 530-534 are the endings to lines 525 & 526.
+{531}{}{braco esquerdo incapacitado}
+{532}{}{braco direito incapacitado}
+{533}{}{perna direita incapacitada}
+{534}{}{perna esquerda incapacitada}
+{550}{}{Voce falha em abrir a tranca.}
+{551}{}{Voce falha em achar quaisquer armadilhas.}
+{552}{}{Voce falha em aprender qualquer coisa.}
+{553}{}{Voce nao pode reparar isso.}
+{570}{}{Voce e pego roubando o %s.}
+{571}{}{Voce rouba o %s.}
+{572}{}{Voce e pego plantando a %s.}
+{573}{}{Voce planta a %s.}
+{590}{}{Voce sobrecarregou sua habilidade com essa tecnica.  Espere um pouco.}
+{591}{}{Voce esta muito cansado.}
+{592}{}{O esforco poderia matar voce.}

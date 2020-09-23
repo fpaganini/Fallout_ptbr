@@ -1,0 +1,4 @@
+{100}{}{Voce ve o Garret. Ele esta observando voce de perto.}
+{101}{}{Conserte a bomba de agua agora ou morra.}
+{102}{}{Bom trabalho!}
+{103}{}{Volte aqui e conserte esta bomba de agua!}

@@ -1,0 +1,8 @@
+{100}{}{Voce ve um cachorro. Ele parece estar seguindo voce.}
+{101}{}{Voce ve um cachorro.}
+{102}{}{Woof!}
+{103}{}{Grrr!}
+{104}{}{Parece que voce fez um amigo deste cachorro.}
+{105}{}{Voce ganha 550 pontos de experiencia por fazer amizade com o cachorro.}
+{106}{}{Voce ganha 335 pontos de experiencia por derrotar o cachorro e deixar o Phil voltar pra sua casa.}
+{107}{}{Voce ganha 35 pontos de experiencia por matar o cachorro.}

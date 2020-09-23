@@ -1,0 +1,1 @@
+{100}{}{Você cheira algo fedorento adiante.}

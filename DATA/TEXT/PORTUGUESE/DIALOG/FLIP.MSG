@@ -1,0 +1,27 @@
+{100}{}{Voce ve o Flip.}
+{101}{}{Voce ve um enorme mutante.}
+{102}{}{Arrrghhh! Morra, infiel!}
+{103}{}{Voce deveria estar na sala de controle. Nao tarry.}
+{104}{}{Entao, um humano. Isto e muito interessante. Voce vira
+ comigo ate o Tenente, ou voce perecera bem aqui.}
+{105}{}{Nunca!}
+{106}{}{Okay, eu desisto. Vamos la.}
+{107}{}{Lop!}
+{108}{}{Excelente. Venha comigo se voce quer viver.}
+{109}{}{OK. Vamos la.}
+{110}{}{Depois de voce.}
+{111}{}{Voce pensa que eu sou retardado, como muitos da minha especie? Voce
+ esta infelizmente enganado. E um problema do terminal, eu entendo.}
+{112}{}{Nos nos encontramos de novo. Voce nao escapara de mim desta vez.}
+{113}{}{Nao chegue proximo dela! Eu matarei voce primeiro!}
+{114}{}{Flip, quando eu sairei daqui?}
+{115}{}{Breve. Muito em breve. Sua hora esta proxima.}
+{116}{}{Eu nao posso esperar pra estarmos juntos de novo.}
+{117}{}{Voce nao se arrendera de sua decisao querido. O mergulho e doloroso . . .}
+{118}{}{Nao muito, eu espero.}
+{119}{}{O FEV e muito doloroso, mas voce vivera.}
+{120}{}{E voce se juntara a nos. Em corpo e alma.}
+{121}{}{Nos estaremos juntos de novo?}
+{122}{}{Sim, querido. Sim.}
+{123}{}{Eu amo voce.}
+{124}{}{E eu voce.}

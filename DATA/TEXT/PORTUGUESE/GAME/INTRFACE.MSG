@@ -1,0 +1,6 @@
+#
+#   Interface text from INTFACE.C
+#
+{100}{}{FURTIVO}
+{101}{}{NIVEL}
+{102}{}{VICIADO}

@@ -1,0 +1,7 @@
+{100}{}{Voce ve a esposa do Hightower.}
+{101}{}{Oh, ola. Voce deve ser um dos associados do meu marido.}
+{102}{}{Ola de novo.}
+{103}{}{Meu Deus!!! Alguem esta na casa!!!}
+{104}{}{Leve o que voce quiser! Apenas saia!}
+{105}{}{Como voce entrou?!?}
+{106}{}{Guardas!!! Me ajudem!!!}

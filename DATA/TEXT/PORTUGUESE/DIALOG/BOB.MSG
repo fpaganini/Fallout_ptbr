@@ -1,0 +1,111 @@
+{100}{}{Você vê Bob.}
+{101}{}{De jeito nenhum vou deixar você me roubar cegamente!}
+{102}{}{Ei, eu não quero problemas!}
+{103}{}{Me dê um espetinho de iguana.}
+{104}{}{O que você pode me dizer sobre um chip de água?}
+{105}{}{O que você pode me dizer sobre Decker?}
+{106}{}{Acho que precisamos conversar sobre Doc Morbid e alguns de seus ingredientes secretos.}
+{107}{}{Você sabe alguma coisa sobre as caravanas desaparecidas?}
+{108}{}{O que, meu problema? O que te dá essa impressão?}
+{109}{}{Estou com fome! Grrrr!}
+{110}{}{Oi. Bem-vindo ao Bob's Iguana Bits, o restaurante familiar. Posso anotar seu pedido?}
+{111}{}{Me dê uma iguana no espeto, por favor.}
+{112}{}{O que você tem a me dizer sobre um chip de água?}
+{113}{}{O que você tem a me dizer sobre Decker?}
+{114}{}{Acho que precisamos conversar sobre Doc Morbid e alguns de seus ingredientes secretos.}
+{115}{}{Você sabe alguma coisa sobre as caravanas desaparecidas?}
+{116}{}{Alguma coisa interessante acontecendo no Hub?}
+{117}{}{Estou com muita fome! Grrrr!}
+{118}{}{Desculpe, estamos sem iguana.}
+{119}{}{Só temos iguana inteira no espeto. Vinte dólares cada.}
+{120}{}{Nós só temos a escolha principal. Mas tem um gosto ótimo. Oito dólares cada.}
+{121}{}{Certo. Compramos iguana inteira em um espeto por vinte dólares e nossas peças selecionadas por oito dólares.}
+{122}{}{Vou levar uma iguana inteira.}
+{123}{}{Vou pegar sua seleção principal.}
+{124}{}{Sabe, ouvi dizer que sua seleção preferida tem gosto de frango.}
+{125}{}{Sem porções maricas! Eu quero toda iguana! Ugh!}
+{126}{}{Hmm, cheira bem! Prime select para fazer a barriga feliz!}
+{127}{}{Nós não servimos isso aqui. Algo mais?}
+{128}{}{Me dê uma iguana no espeto.}
+{129}{}{O que você pode me dizer sobre Decker?}
+{130}{}{Acho que precisamos conversar sobre Doc Morbid e alguns de seus ingredientes secretos.}
+{131}{}{Você sabe alguma coisa sobre as caravanas desaparecidas?}
+{132}{}{Alguma coisa interessante acontecendo no Hub?}
+{133}{}{Estou com fome! Grrrr!}
+{134}{}{O Sr. Decker é um empresário distinto em um negócio nada distinto. Algo mais?}
+{135}{}{Quero informações sobre o Doc Morbid.}
+{136}{}{Me dê uma iguana no espeto.}
+{137}{}{Nada.}
+{138}{}{Ele era um filho da puta malvado e qualquer um que não esteja feliz por ele estar morto é um maldito mentiroso. Eu posso anotar seu pedido?}
+{139}{}{Me dê um espetinho de iguana.}
+{140}{}{Fale-me um pouco sobre os mercadores de água.}
+{141}{}{Acho que precisamos conversar sobre Doc Morbid e alguns de seus ingredientes secretos.}
+{142}{}{Você sabe alguma coisa sobre as caravanas desaparecidas?}
+{143}{}{Alguma coisa interessante acontecendo no Hub?}
+{144}{}{Estou com fome! Grrrr!}
+{145}{}{Eu não sei do que você está falando. OK. Pagarei cem dólares se ficar de boca fechada. Pegue e saia.}
+{146}{}{Eu quero duzentos.}
+{147}{}{Vou levar os cem.}
+{148}{}{Eu estou indo para a polícia.}
+{149}{}{Pare de vendê-los. Agora.}
+{150}{}{Negócio terrível. Essas pobres pessoas. Oh, essas pobres pessoas. Perdendo suas vidas de uma forma tão horrível! Posso fazer mais alguma coisa por você? Como alimentar você, talvez?}
+{151}{}{Me dê uma iguana no espeto.}
+{152}{}{O que você pode me dizer sobre um chip de água?}
+{153}{}{O que você pode me dizer sobre Decker?}
+{154}{}{Acho que precisamos conversar sobre Doc Morbid e alguns de seus ingredientes secretos.}
+{155}{}{Alguma coisa interessante acontecendo no Hub?}
+{156}{}{Nada. Desculpe trazer isso à tona. Eu apenas ouço histórias. Agora, há mais alguma coisa que posso fazer por você?}
+{157}{}{Me dê um espetinho delicioso de iguana.}
+{158}{}{O que você pode me dizer sobre um chip de água?}
+{159}{}{O que você pode me dizer sobre Decker?}
+{160}{}{Acho que precisamos conversar sobre Doc Morbid e alguns de seus ingredientes secretos.}
+{161}{}{Você sabe alguma coisa sobre as caravanas desaparecidas?}
+{162}{}{Alguma coisa interessante acontecendo no Hub?}
+{163}{}{Alguém matou Decker. Estamos de luto, pelo menos até que a bebida acabe.}
+{164}{}{Alguém atirou no xerife Greene. Não sei sobre o deputado embora.}
+{165}{}{Daren Hightower foi assassinado. E todo aquele dinheiro não poderia salvá-lo. Irônico, não é?}
+{166}{}{Alguém está realmente chateado com alguém importante, porque ouvi dizer que houve um grande golpe em um pobre coitado.}
+{167}{}{Alguém roubou um colar dos Hightowers. Cara, eles alguma vez cometeram um grande erro. Eles estão mortos com certeza.}
+{168}{}{Alguém matou Jain na Catedral. Ouvi dizer que ela era uma verdadeira vadia!}
+{169}{}{Bem, a única coisa nova é que as Crianças da Catedral assumiram o Hospital. Está muito chato por aqui ultimamente. Veja bem, eles são uma multidão estranha.}
+{170}{}{Algo mais?}
+{171}{}{Me dê uma iguana no espeto.}
+{172}{}{O que você pode me dizer sobre um chip de água?}
+{173}{}{O que você pode me dizer sobre Decker?}
+{174}{}{Acho que precisamos conversar sobre Doc Morbid e alguns de seus ingredientes secretos.}
+{175}{}{Você sabe alguma coisa sobre as caravanas desaparecidas?}
+{176}{}{Desculpe, você não pode pagar.}
+{177}{}{Uma iguana inteira subindo! Algo mais?}
+{178}{}{Dê-me outra iguana no espeto.}
+{179}{}{O que você pode me dizer sobre um chip de água?}
+{180}{}{O que você pode me dizer sobre Decker?}
+{181}{}{Você sabe alguma coisa sobre as caravanas desaparecidas?}
+{182}{}{Alguma coisa interessante acontecendo no Hub?}
+{183}{}{Eu quero outra iguana!}
+{184}{}{Sito-me recheado! URRRP!}
+{185}{}{Desculpe, você não pode pagar.}
+{186}{}{Uma escolha privilegiada de iguana, chegando! Algo mais?}
+{187}{}{Dê-me outra iguana em um palito.}
+{188}{}{O que você pode me dizer sobre um chip de água?}
+{189}{}{O que você pode me dizer sobre Decker?}
+{190}{}{Você sabe alguma coisa sobre as caravanas desaparecidas?}
+{191}{}{Alguma coisa interessante acontecendo no Hub?}
+{192}{}{Eu quero outra iguana!}
+{193}{}{Me recheado! URRRP!}
+{194}{}{Obrigado. Volte novamente!}
+{195}{}{Você deve ser novo na cidade se está me perguntando sobre os Mercadores de Água. Água é vida. E você não fica muito mais poderoso do que a vida ou a morte.}
+{196}{}{Me dê uma iguana em uma vara.}
+{197}{}{Acho que precisamos conversar sobre Doc Morbid e alguns de seus ingredientes secretos.}
+{198}{}{Você sabe alguma coisa sobre as caravanas desaparecidas?}
+{199}{}{Alguma coisa interessante acontecendo no Hub?}
+{200}{}{Estou com fome! Grrrr!}
+{201}{}{Seu filho da puta ganancioso!}
+{202}{}{Sua puta gananciosa!}
+{203}{}{Tudo bem, você venceu. Aqui está seu dinheiro. Pegue e não volte!}
+{204}{}{Eu mudaria de ideia se fosse você, amigo. Pessoas morreram por menos no Hub. Agora saia e não volte!}
+{205}{}{Talvez eu esteja usando algumas partes questionáveis. Mas não é como se eu estivesse cometendo um assassinato. Como se as coisas do Morbid já estivessem mortas, não é?}
+{206}{}{Tenho certeza que sim, Bob. E tenho certeza de que a polícia concordará.}
+{207}{}{O canibalismo é um crime contra a humanidade, Bob. Vou ver se você paga por isso.}
+{208}{}{Talvez seja. Talvez não seja. Eu não me importo. É imoral. Pare com isso.}
+{209}{}{De jeito nenhum! Eu não vou deixar você me ferrar! Coma isso!}
+{210}{}{Não vou quebrar por causa dos seus escrúpulos, mas você vai morrer por causa deles! Coma isso!}

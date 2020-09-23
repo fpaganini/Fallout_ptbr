@@ -1,0 +1,64 @@
+{100}{}{Voce ve um oficial de policia do Hub.}
+{101}{}{Eu desejo que eu estivesse posicionado perto da minha casa.}
+{102}{}{Eu imagino o que aconteceu a essas caravanas.}
+{103}{}{Andando.}
+{104}{}{Melhor voce manter suas armas no coldre, estranho.}
+{105}{}{Mantenha seu nariz limpo.}
+{106}{}{Voce tem quaisquer comodidades a declarar?}
+{107}{}{Nao fique waving sua arma na minha face.}
+{108}{}{Guarde isso a menos que voce queira passar algum tempo na cadeia.}
+{109}{}{Voce esta mirando isso em mim?}
+{110}{}{Eu ouvi sobre voce. Cuidado.}
+{111}{}{Nos manteremos um olho em voce.}
+{112}{}{Sem brigas na nossa cidade, valentao.}
+{113}{}{Nos nao gostamos de assassinos de bebes!}
+{114}{}{Ponha uma mao numa crianca e nos cacaremos voce.}
+{115}{}{Eu odeio pessoas como voce.}
+{116}{}{Nao chame por ajuda se voce esta com problemas.}
+{117}{}{Ei, obrigado por fazer nosso trabalho pra nos.}
+{118}{}{Nos nao permitimos matanca aqui, mesmo se e justificada.}
+{119}{}{Se voce e aquele que matou a deathclaw . . . obrigado.}
+{120}{}{Mantenha-se longe de problemas enquanto voce estiver na nossa cidade.}
+{121}{}{Eu ficaria longe do Decker se eu fosse voce.}
+{122}{}{Aprecie sua estada.}
+{123}{}{Bem-vindo ao Hub!}
+{124}{}{Saudacoes, estranho.}
+{125}{}{Visite o Maltese Falcon para bebidas refrescantes.}
+{126}{}{Siga a estrada principal se voce esta procurando pelo mercado.}
+{127}{}{Continue andando.}
+{128}{}{Andando. Andando.}
+{129}{}{Nos estamos aqui para Prevenir e Survey.}
+{130}{}{Mantenha essa arma sob controle enquanto voce estiver na nossa cidade.}
+{131}{}{Nao entre voce em quaisquer brigas com isso.}
+{132}{}{Eu recomendo guardar a sua arma.}
+{133}{}{Voce deveria guardar isso . . . sua arma, isso e.}
+{134}{}{Bem-vindo Paladino, ja tem algum tempo.}
+{135}{}{Voce e aquele rowdy one. Sem mais brigas ok?}
+{136}{}{Melhor voce nao comecar outra briga!}
+{137}{}{E voce . . . mantenha esse temperamento seu sob controle.}
+{138}{}{Os Far Go Traders foram eliminados. Eu nao consigo acreditar.}
+{139}{}{Os Mercadores das Aguas se foram. Que alivio.}
+{140}{}{A Crimson Caravan foi destruida.}
+{141}{}{Voce ouviu? O Submundo foi finalmente eliminado!}
+{142}{}{O Decker esta morto!}
+{143}{}{O problema Decker foi finalmente resolvido.}
+{144}{}{Cuidado com suas costas -- este nao e um lugar seguro.}
+{145}{}{Cuidado com seus scripts, cara.}
+{146}{}{Cuidado com seus scripts, dama.}
+{147}{}{O velho Harold e bom para contar estorias.}
+{148}{}{Voce nao deveria estar aqui, nao e seguro.}
+{149}{}{A Cidade Antiga esta realmente caindo aos pedacos.}
+{150}{}{Este lugar fede.}
+{151}{}{Nos deveriamos tear esta area inteira abaixo.}
+{152}{}{Eu sei que o maldito grupo dos ladroes esta por aqui em algum lugar.}
+{153}{}{Pobre Harold -- ele teve uma vida dificil.}
+{154}{}{Mantenha-se longe de problemas.}
+{155}{}{Ei. Eu conheco voce. Sem mais brigas, okay?}
+{156}{}{Melhor voce nao estar pensando em comecar outra briga!}
+{157}{}{Se nos pegarmos voce brigando de novo, voce vai entrar!}
+{158}{}{Voce ouviu? Os Far Go Traders foram eliminados.}
+{159}{}{Os Mercadores da Agua sao historia. Isso e uma bencao.}
+{160}{}{Alguem matou a Crimson Caravan.}
+{161}{}{Voce ouviu? O Submundo foi finalmente eliminado!}
+{162}{}{O Decker esta morto!}
+{163}{}{Esta cidade seria mais segura com o Decker fora do quadro.}

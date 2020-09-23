@@ -1,0 +1,55 @@
+{100}{}{Você vê um super mutante. Ele está guardando a porta airlock.}
+{101}{}{Você vê um guarda super mutante.}
+{102}{}{Jeremiah, você pode passar.}
+{103}{}{Move along.}
+{104}{}{Mova-se mais rápido, messengeiro(a).}
+{105}{}{Normais não podem carregar armas aqui! Pare e identifique-se!}
+{106}{}{Grrr!}
+{107}{}{Uh, lamento. Eu a guardarei.}
+{108}{}{Eu estou apenas passando. Nenhuma necessidade de identidades aqui.}
+{109}{}{Morra! Morra! Morra! Eu sempre quis dizer isso.}
+{110}{}{Eu não serei convencido a esse caminho. Você será punido(a).}
+{111}{}{Alto! Quais são seus negócios aqui, 'criança'.}
+{112}{}{Hng!}
+{113}{}{Eu estou, uh, fazendo coisas.}
+{114}{}{Eu estou num negócio importante. Você não tem direito de parar e me questionar.}
+{115}{}{Não fale comigo, garotão.}
+{116}{}{Sua resposta não acalma meus nervos. Fale rapidamente e claramente ou
+ eu assumirei que você está para propósitos maus. Eu garanto a você que você
+ não gostará disso...}
+{117}{}{Uh, não, realmente, honestamente. Eu estou fazendo coisas.}
+{118}{}{Eu estou trazendo uma mensagem para o nosso líder.}
+{119}{}{Eu sinto a mentira por trás das suas palavras. A você não será permitido entrar
+ Isto eu prometo a você...}
+{120}{}{Você pode passar, mas da próxima vez, siga o procedimento apropriado...}
+{121}{}{Ok, obrigado. Vejo você por aí.}
+{122}{}{E o que é isso?}
+{123}{}{Benção para você, irmão.}
+{124}{}{Um(a) verdadeiro(a) seguidor(a) do Mestre teria esse conhecimento. Você é
+ um(a) intruso(a)!}
+{125}{}{Mova-se. Eu não tenho tempo para suas perguntas.}
+{126}{}{Você está me chateando.}
+{127}{}{Eu tenho trabalho a fazer. Você tem?}
+{128}{}{Você está cometendo um erro vindo aqui. Explique-se ou pereça...}
+{129}{}{Nuggie!}
+{130}{}{Eu não tenho nada a dizer.}
+{131}{}{Eu estou aqui para proteger a humanidade dos tipos de vocês.}
+{132}{}{Oh, cale a boca!}
+{133}{}{Você não deveria tentar me enganar se fingindo de burro(a). Eu me canso disto...}
+{134}{}{Que tipo de bigotry tola é essa, nós somos 'humanidade.' Nós somos tão
+ humanos quanto você é.}
+{135}{}{Que tipo de bosta é essa?}
+{136}{}{Não há modo possível de que você é humano.}
+{137}{}{Meu nome é Kyle. Eu nasci de uma mãe e um pai, como você mesmo(a).
+ O Mestre supervisionou meu renascimento. Estes músculos, esta pele, esta força
+ não me tornam menos humano do que você. Eu não gosto de tudo que a Unidade
+ representa, mas é a melhor chance para a paz que nós temos.}
+{138}{}{Não no meu turno, não. Eu estou aqui para pôr um fim a você e seu tipo.}
+{139}{}{Você pode ser humano, mas isso não torna sua Unidade correta. Eu
+ creio que nós seremos inimigos.}
+{140}{}{É uma pena que você age deste modo, mas você não prosseguirá mais longe...}
+{141}{}{Será uma verdadeira vergonha ver sua cabeça numa estaca.}
+{142}{}{Intrusos!}
+{143}{}{Eu não falar com você.}
+{200}{}{Você ganha }
+{201}{}{ pontos de experiência para blefar no seu caminho para passar dos guardas.}

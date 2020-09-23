@@ -1,0 +1,23 @@
+{100}{}{Voce ve Barry enraivecido!}
+{101}{}{Voce ve o Barry.}
+{102}{}{Ei! Apenas os ghouls obtem uma racao de agua.}
+{103}{}{Eu vou pegar voce por me acordar!}
+{104}{}{O mutante ignora voce.}
+
+{1000}{}{Chip}
+{1001}{}{Necropolis}
+{1002}{}{Set}
+{1003}{}{Bacia Hidrografica}
+{1004}{}{Hall}
+{1005}{}{Lou}
+{1006}{}{Ghouls}
+{1007}{}{Normais}
+
+{1100}{}{I dunno.}
+{1101}{}{Voce esta de pe nela.}
+{1102}{}{Ele e uma bicha. Nos deveriamos simplesmente eliminar ele e seus ghouls.}
+{1103}{}{Isso e aqui.}
+{1104}{}{I dunno.}
+{1105}{}{Ele chefe do Harry.}
+{1106}{}{Coisas fracotes.}
+{1107}{}{Mais fracotes do que os ghouls.}

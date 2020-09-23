@@ -1,0 +1,35 @@
+{100}{}{Este parece o computador do Controle do Campo.}
+{101}{}{Ele aparenta ter um transmissor para signaling do campo, um receptor para
+ comandos remotos, e uma porta de comunicacoes de dados do radio padrao.}
+{102}{}{Conforme voce ativa o computador do Controle do Campo, voce consegue
+ ouvir um low-pitched hum atraves do complexo.}
+{103}{}{Voce nao usa o computador apropriadamente.}
+{104}{}{Voce nao consegue desativar o computador do Controle do Campo.
+ Todos os controles estao trancados e encriptados.}
+{105}{}{Voce nao entende o sistema operacional do
+ computador.}
+{106}{}{Os sub-sistemas do campo de forca nao estao nem de perto
+ protegidos bem o bastante contra os talentos do seu tipo.
+ Voce desliga todos os campos de forca neste nivel.}
+{107}{}{Os sub-sistemas do campo de forca estao bem protegidos, mas voce
+ consegue desligar a metade deles. E o melhor que voce pode fazer.}
+{108}{}{Os sub-sistemas do campo de forca estao protegidos contra
+ invasao eletronica. Voce passa algum tempo trabalhando neles,
+ mas nao os quebrou ainda.}
+{109}{}{Voce quebra a banca em um jogo de 21 e entra furtivamente
+ no sistema principal atraves da tela do fim do jogo.}
+{110}{}{Voce joga um jogo de 21 mas nao e bom o bastante para
+ quebra-lo.}
+{111}{}{A unica pasta nao protegida e a pasta de Jogos
+ Recreacionais, a qual pode ser usada como um backdoor.}
+{112}{}{A unica pasta nao protegida e a pasta de Jogos
+ Recreacionais.}
+{113}{}{Voce olha pro computador com nojo.}
+{114}{}{Voce acha que todas as pastas estao protegidas mas voce
+ nao completou sua busca.}
+{115}{}{Voce entrou no sistema principal e agora precisa reprogramar
+ os controles do campo de forca.}
+{116}{}{Voce ganha 800 pontos de experiencia por seus procedimentos de hackeamento incomuns.
+ Blackjack!}
+{117}{}{Voce liga o radio ao computador de controle do campo de forca.}
+{118}{}{Sua tentativa de wire o radio no computador falha.}

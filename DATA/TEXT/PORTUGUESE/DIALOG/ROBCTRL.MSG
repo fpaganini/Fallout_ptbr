@@ -1,0 +1,131 @@
+{100}{}{Este parece um terminal de controle de robôs.}
+{101}{}{Não há resposta.}
+{102}{}{Reprogramming complete. Initializing voice communication subsystems.
+ Initializing personality subsystem. [Click!] How may this terminal
+ be of service?}
+{103}{}{Hng.}
+{104}{}{Quem ou o que é você?}
+{105}{}{Qual é a sua função?}
+{106}{}{Exibir lista de programas.}
+{107}{}{Erro na entrada de dados. Comando não em conjunto. Por favor reinicie.}
+{108}{}{Hng.}
+{109}{}{La-la.}
+{110}{}{Brai!}
+{111}{}{Niggle!}
+{112}{}{Fim do sub-sistema de comunicação. Fim do processo.}
+{113}{}{This terminal is an Artificial Intelligence. This terminal
+ is part of a WLAN matrix network to optimize remote unit
+ operations.}
+{114}{}{Obrigado. Uh, fim da entrada de dados.}
+{115}{}{Quais são as unidades remotas que você controla?}
+{116}{}{Quais programas estão em execução?}
+{117}{}{This terminal is responsible for the operation of all General
+ Atomics International industrial robots in this facility.}
+{118}{}{Por favor seja mais específico.}
+{119}{}{Quais programas estão em execução?}
+{120}{}{The style of industrial robots are commonly referred to as
+ 'Robobrain'. [Click!] General Atomics International has the
+ finest industrial robots in the world. Buy two or more GAI
+ robots and save! Special deal on 'Mr. Handy' models! [Click!]
+ Advertising applet terminated.}
+{121}{}{Quais programas estão em execução?}
+{122}{}{Current applications are: Facility Maintenance v2.1, Movement
+ v4.8b, Repair v0.8a, Pest Control v1.4, Hearts v1.0 and Sensors '76.}
+{123}{}{Encerrar a Movimentação.}
+{124}{}{Encerrar o Sensores.}
+{125}{}{Encerrar o Controle de Pestes.}
+{126}{}{Encerrar os Corações.}
+{127}{}{Obrigado. Fim da entrada de dados.}
+{128}{}{Attempting to terminate. [Click!] System error. Failure to
+ terminate application. Delete rights not available.}
+{129}{}{Hmm, ajustar os parâmetros da Movimentação.}
+{130}{}{Ajustar os parâmetros dos Sensores.}
+{131}{}{Modificar o Controle de Pestes.}
+{132}{}{Jogar Corações.}
+{133}{}{Obrigado. Fim da entrada de dados.}
+{134}{}{Current application: Movement v4.8b. Current setting:
+ [maximum/half rate/minimum]. Change to: maximum, half rate,
+ or minimum.}
+{135}{}{Máximo de movimentação.}
+{136}{}{Taxa de movimentação pela metade.}
+{137}{}{Mínimo de movimentação.}
+{138}{}{Current application: Sensors '76. Current setting:
+ [full/minumum]. Change to: full, or minimum.}
+{139}{}{Sensores completos.}
+{140}{}{Mínimo de sensores.}
+{141}{}{Current application: Pest Control v1.4. Current setting:
+ [Click!] unauthorized. Change to: [Click!] all, none, small
+ living, large living, or unauthorized.}
+{142}{}{Todas as pestes.}
+{143}{}{Sem pestes.}
+{144}{}{Pequenas pestes vivas.}
+{145}{}{Grandes pestes vivas.}
+{146}{}{Pestes não autorizadas.}
+{147}{}{Aplicativo Corações em execução. Usuário Vence. [Click!] Obrigado a você pelo jogo.}
+{148}{}{Aplicativo Corações em execução. Este terminal vence. [Click!] Obrigado a você 
+pelo jogo.}
+{149}{}{Program parameter changed. Current applications are: Facility
+ Maintenance v2.1, Movement v4.8b, Repair v0.8a, Pest Control
+ v1.4, Hearts v1.0 and Sensors '76.}
+{150}{}{Ajustar os parâmetros da Movimentação.}
+{151}{}{Ajustar os parâmetros dos Sensores.}
+{152}{}{Modificar o Controle de Pestes.}
+{153}{}{Jogar Corações.}
+{154}{}{Obrigado. Fim da entrada de dados.}
+{155}{}{Current applications are: Facility Maintenance v2.1, Movement
+ v4.8b, Repair v0.8a, Pest Control v1.4, Hearts v1.0 and
+ Sensors '76.}
+{156}{}{Hmm, ajustar os parâmetros da Movimentação.}
+{157}{}{Ajustar os parâmetros dos Sensores.}
+{158}{}{Modificar o Controle de Pestes.}
+{159}{}{Jogar Corações.}
+{160}{}{Obrigado. Fim da entrada de dados.}
+{161}{}{Initializing voice communication subsystems. Initializing personality
+ subsystems. [Click!] How may this terminal be of service?}
+{162}{}{Hnng.}
+{163}{}{Me mostre seus programas.}
+{164}{}{Desligar todos os campos de força.}
+{165}{}{Você sabe o que este local é?}
+{166}{}{Iniciar desligamento de emergência.}
+{167}{}{Fim da entrada de dados.}
+{168}{}{Este terminal não pode realizar essa função. Pedido negado.}
+{169}{}{Me mostre seus programas.}
+{170}{}{Você sabe what this location is?}
+{171}{}{Iniciar desligamento de emergência.}
+{172}{}{Fim da entrada de dados.}
+{173}{}{Esta é o -- secreto [click!] [click!]}
+{174}{}{Abortar pedido. Mostrar programas.}
+{175}{}{Sobrescrever, continuar o pedido.}
+{176}{}{[Click!] This is the VEF production control facility. This
+ terminal online 2074. Final pre-production process 2075. It
+ is currently under final construction, and is due to open
+ 2078. [Click!]}
+{177}{}{Você sabe o que VEF é?}
+{178}{}{Você sabe qual data é?}
+{179}{}{VEF is Forced [click!] Evolutionary Virus, a product of the
+ Livermore/Broansoun Laboratories. It is designed to increase
+ the genetic complexity of a DNA/RNA series in a shorter period
+ of time.}
+{180}{}{Mostrar programas.}
+{181}{}{Fim da entrada de dados.}
+{182}{}{Afirmativo. A data do terminal é 2 de Fevereiro de 2077.}
+{183}{}{Mostrar programas.}
+{184}{}{Fim da entrada de dados.}
+{185}{}{Essa data está incorreta. Por favor recalibrar.}
+{186}{}{Correcting. [Click!] Error. Attempting self-diagnostics.
+[Click! CLICK!] ERROR! FATAL SYSTEM ERROR. SYSTEM CORRUPTED,
+ ATTEMPTING RECOMPILATION. [Long pause.]}
+{187}{}{Terminal?}
+{188}{}{[click] Erro na recompilação . . . [click]}
+{189}{}{Não consigo processar o pedido. Encerrando diálogo.}
+{190}{}{Confirmar codescram de emergência.}
+{191}{}{Confirmado.}
+{192}{}{Encerrar o procedimento de desligamento.}
+{193}{}{[Click!]}
+{194}{}{Processando o pedido. Encerrando o diálogo.}
+{195}{}{This computer is not compatible with your radio. It uses a special high-
+frequency band for robotic use only.}
+{196}{}{You press some buttons but the computer seems to be damaged. It will take
+ some work to operate it.}
+{197}{}{The computer is not physically damage, but instead seems to have corrupted
+ data.}

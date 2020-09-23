@@ -1,0 +1,6 @@
+{100}{}{O conteiner aparenta estar trancado.}
+{101}{}{Voce deftly abre a tranca.}
+{102}{}{Esta tranca esta alem da sua habilidade de abri-la.}
+{103}{}{Voce falha em abrir a tranca.}
+{104}{}{O armario ja esta destrancado.}
+{105}{}{Voce quebra suas gazuas na tranca.}

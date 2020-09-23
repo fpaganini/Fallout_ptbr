@@ -1,0 +1,4 @@
+{100}{}{O armario esta trancado.}
+{101}{}{Voce quebrou seus lockpicks.}
+{102}{}{Voce destranca o armario.}
+{103}{}{Voce falha em destrancar o armario.}

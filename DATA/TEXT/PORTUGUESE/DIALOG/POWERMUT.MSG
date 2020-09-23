@@ -1,0 +1,2 @@
+{100}{}{Ninguem vai na sala.}
+{101}{}{Voce ve um mutante com um cranio fenomenalmente pequeno.}

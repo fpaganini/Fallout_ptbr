@@ -1,0 +1,4 @@
+{100}{}{Para o oeste, voce consegue ver uma luz natural. Pela primeira vez
+ na sua vida, voce esta olhando para o mundo exterior.}
+{101}{}{Para o oeste, voce consegue ver estrelas em um ceu aberto. Pela primeira
+ vez na sua vida, voce esta olhando para o mundo exterior.}

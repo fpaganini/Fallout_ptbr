@@ -1,0 +1,8 @@
+{100}{}{Voce ve um campones.}
+{101}{}{Eu nao tenho nada a dizer pra voce, estranho.}
+{102}{}{Os brahmins com certeza fedem esta epoca do ano.}
+{103}{}{Nos ainda precisamos expandir a irrigacao.}
+{104}{}{Nao me aborrecam.}
+{105}{}{Eu ouvi que os radscorpions mataram de novo na ultima noite.}
+{106}{}{Tem alguns burgers de brahmin?}
+{107}{}{Nao fui atacado por saqueadores recentemente. Sorte, eu acho.}

@@ -1,0 +1,5 @@
+{100}{}{Voce ve uma mulher bruised and battered.}
+{101}{}{Nao, por favor nao!}
+{102}{}{[chora incontrolavelmente]}
+{103}{}{[sussurra]Por favor me ajude!}
+{104}{}{Obrigado a voce por me salvar.}

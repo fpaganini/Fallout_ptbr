@@ -1,0 +1,33 @@
+#
+# Inventory messages from inventry.c
+#
+{0}{}{FO}
+{1}{}{PE}
+{2}{}{RE}
+{3}{}{CA}
+{4}{}{IN}
+{5}{}{AG}
+{6}{}{SO}
+{7}{}{Pts Dano}
+{8}{}{Classe Arm.}
+{9}{}{  Normal}
+{10}{}{  Laser}
+{11}{}{  Fogo}
+{12}{}{  Plasma}
+{13}{}{  Explosao}
+{14}{}{Sem item}
+{15}{}{Dano:}
+{16}{}{Alc:}
+{17}{}{Mun:}
+{18}{}{(Nao usado)}
+{19}{}{Voce nao tem pontos de acao o bastante pra usar o inventario.}
+{20}{}{Peso Total:}
+{21}{}{MOVER ITENS}
+{22}{}{TUDO}
+{23}{}{DEFINIR TIMER}
+{24}{}{Desarmado:}
+{25}{}{Voce nao pode pegar aquilo. Voce esta na sua capacidade maxima de peso.}
+{26}{}{Nao ha espaco restante para aquele item.}
+{27}{}{OK, essa e uma boa negociacao.}
+{28}{}{Nao, sua oferta nao e boa o bastante.}
+{29}{}{Voce ganha %d pontos de experiencia por usar sua tecnica de roubar com sucesso.}

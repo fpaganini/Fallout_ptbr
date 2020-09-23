@@ -1,0 +1,6 @@
+{100}{}{Oh nao.}
+{101}{}{Voce engatilhou uma faixa de laser detonando algum tipo de mecanismo de defesa.
+ Voce leva um ponto de dano.}
+{102}{}{Voce engatilhou uma faixa de laser detonando algum tipo de mecanismo de defesa.
+ Voce leva }
+{103}{}{ pontos de dano.}

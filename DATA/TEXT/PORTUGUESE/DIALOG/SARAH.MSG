@@ -1,0 +1,30 @@
+{100}{}{Oh, meu deus! Voce matou ele!}
+{101}{}{Hng!}
+{102}{}{Sorte dificil.}
+{103}{}{Ele era meu inimigo. Eu tinha que mata-lo.}
+{104}{}{Eu lamento. Eu nao sabia que ele era tao proximo de voce.}
+{105}{}{Voce nao tinha que matar ele! [Sarah sobs.] Deixe-me em paz.}
+{106}{}{Ele era meu amante. Ele era meu melhor amigo. Eu nao posso acreditar
+ que voce fez isso a ele.}
+{107}{}{De novo, eu me desculpo. Como eu poderia dizer que ele significava tanto
+ pra voce? Olha pra ele. Ele e um mutante.}
+{108}{}{Eu vou matar todos do tipo dele.}
+{109}{}{Ele era um ser humano. O unico modo pelo qual ele poderia sobreviver era
+ sendo mergulhado. Voce matou ele.}
+{110}{}{Lament.}
+{111}{}{Oh, bem. Pelo menos e mais um cara pro meu contador de mortes.}
+{112}{}{Cuzao.}
+{113}{}{O que voce esta fazendo fora da sua cela protetora?}
+{114}{}{Zug-zug!}
+{115}{}{Caminhando por ai.}
+{116}{}{Eu nao sou um prisoneiro aqui.}
+{117}{}{Nao obrigado, eu ja tenho um namorado.}
+{118}{}{Voce deveria estar na sua cela. Os guardas estao nos mantendo aqui para a 
+ nossa protecao. Os robos foram programados para atacar normais sem escolta. Uma
+ vez que eu tenha sido mergulhado, eu serei capaz de passar o tempo ajudando a Unidade.}
+{119}{}{Sim, okay. Que seja. Divirta-se.}
+{120}{}{Voce quer fazer isso?}
+{121}{}{Claro, e a melhor chance que a humanidade tem pra sobreviver.}
+{122}{}{Uau! Eu acho que voce poderia ficar com muitos problemas. Por favor nao
+ hang out perto de mim.}
+{123}{}{Voce pode nos desculpar? Nos estamos conversando aqui!}

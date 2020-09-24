@@ -1,6 +1,6 @@
 {100}{}{Ei!}
 {101}{}{Sem armas aqui!}
-{102}{}{Watch it!}
+{102}{}{Veja isto!}
 {103}{}{Peguem eles!}
 {104}{}{Pare de ander furtivamente por ai!}
 {105}{}{No sneaking around in here!}
@@ -16,7 +16,7 @@
 {115}{}{O que mais ha por aqui nesta cidade?}
 {116}{}{O que você e, estupido? Vai embora.}
 {117}{}{Nao. Va implorar em algum outro lugar.}
-{118}{}{Buzz off.}
+{118}{}{Cai fora...}
 {119}{}{Nos não temos um uso para paupers aqui.}
 {120}{}{Gizmo e um homem justo. O pagamento e bom, o trabalho e fácil. Nao cause
  problemas e todos ficarao felizes.}

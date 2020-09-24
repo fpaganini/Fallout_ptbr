@@ -15,7 +15,7 @@
 {54}{}{Pronto}
 {55}{}{Cancelar}
 {56}{}{Fallout precisa reiniciar para aplicar suas alteracoes.}
-{57}{}{Voce gostaria de reiniciar o Fallout agora?}
+{57}{}{Você gostaria de reiniciar o Fallout agora?}
 {58}{}{Verdadeiro}
 {59}{}{Falso}
 {60}{}{}
@@ -70,7 +70,7 @@
 {204}{}{Tela cheia}
 {205}{}{Janela}
 {206}{}{GPU Blitting}
-{207}{}{Esta configuracao nao tem efeito quando estiver no modo de graficos basico.}
+{207}{}{Esta configuração não tem efeito quando estiver no modo de graficos basico.}
 
 {250}{}{Ignorar o limite de rolagem do PC}
 {253}{}{Path Finding Range}
@@ -94,7 +94,7 @@
 {508}{}{Pressione o botÃ£o vermelho para escolher outra telca. Ou clique na caixa numeria para informar o codigo de uma tecla virtual.}
 {509}{}{O nome da tecla selecionada atualmente.}
 {510}{}{Habilitar a escala X2. Isto tambem aumenta a resolucao minima para 1280x960. Se estiver no modo janela, e necessário mais espaco em tela para caber a sua borda.}
-{511}{}{Habilite ou Desabilite a Neblina de Guerra. Para uma melhor experiencia de jogo, esta opcao pode permanecer habilitada antes de iniciar a jogar.}
+{511}{}{Habilite ou Desabilite a Neblina de Guerra. Para uma melhor experiência de jogo, esta opcao pode permanecer habilitada antes de iniciar a jogar.}
 {512}{}{Ajuste a intencidade da luz e a visibilidade de terrenos, paredes e cenarios abaixo da neblina em conjunto com a opcao "Olhar para" do mouse.}
 {513}{}{Terrenos, Paredes e cenários sempre estarao visiveis e a opcao do mouse "Olhar para" vai funcionar normalmente.}
 {514}{}{Floors, walls and scenery will be darkened and unresponsive to Mouse "look at" until discovered.}
@@ -105,7 +105,7 @@
 {519}{}{Ajuste como algumas telas serao exibidas.}
 {520}{}{Tamanho original.}
 {521}{}{Esticar para caber no tamanho da tela mantendo o o aspecto original da imagem.}
-{522}{}{Esticar para caber na tela. OBS: Um espaco sera mantido na parte inferior da tela se as legendas estiverem habilitadas.}
+{522}{}{Esticar para caber na tela. OBS: Um espaco será mantido na parte inferior da tela se as legendas estiverem habilitadas.}
 {523}{}{Clique abaixo para alternar nas opcoes da barra lateral de quando estiver em jogo.}
 {524}{}{Aplicar as alteracoes e sair.}
 {525}{}{Sair sem salvar.}

@@ -1,5 +1,5 @@
-{100}{}{Voce ve um campones.}
-{101}{}{Eu nao tenho nada a dizer pra voce, estranho.}
+{100}{}{Você ve um campones.}
+{101}{}{Eu não tenho nada a dizer pra você, estranho.}
 {102}{}{Os brahmins com certeza fedem esta epoca do ano.}
 {103}{}{Nos ainda precisamos expandir a irrigacao.}
 {104}{}{Nao me aborrecam.}

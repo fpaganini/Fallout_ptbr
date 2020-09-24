@@ -1,17 +1,17 @@
-{100}{}{Voce ve um jovem homem intenso.}
-{101}{}{Voce ve o Michael.}
-{102}{}{Ola, eu nao acho que eu vi voce por aqui antes. Eu posso ajudar a voce com qualquer coisa?}
-{103}{}{Oi de novo, o que eu posso fazer por voce?}
-{104}{}{Voce pode me dizer um pouco sobre a Boneyard?}
-{105}{}{Quem e voce?}
+{100}{}{Você ve um jovem homem intenso.}
+{101}{}{Você ve o Michael.}
+{102}{}{Ola, eu não acho que eu vi você por aqui antes. Eu posso ajudar a você com qualquer coisa?}
+{103}{}{Oi de novo, o que eu posso fazer por você?}
+{104}{}{Você pode me dizer um pouco sobre a Boneyard?}
+{105}{}{Quem e você?}
 {106}{}{Por que voces todos vivem aqui?}
 {107}{}{Nada, obrigado.}
-{108}{}{Com certeza. Para o sul esta Adytum, ao nordeste voce achara os Gun Runners, mas voce tera que ir atraves dos deathclaws pra chegar ate eles. Para o oeste estao os Seguidores do Apocalipse, e para o sul mais distante eu ouvi que ha algum tipo de igreja.}
+{108}{}{Com certeza. Para o sul esta Adytum, ao nordeste você achara os Gun Runners, mas você tera que ir atraves dos deathclaws pra chegar até eles. Para o oeste estao os Seguidores do Apocalipse, e para o sul mais distante eu ouvi que ha algum tipo de igreja.}
 {109}{}{Eu sou Michael. Minha esposa, Christine, e eu vivemos aqui como Blades e ajudamos com o que nos podemos.}
 {110}{}{Nao e tao ruim quanto parece. Os Reguladores e os deathclaws podem causar problemas, mas nossa lider, Razor, nos ajudou a great deal nos meses passados. E mais recentemente, MacRae tem nos mostrado como proteger a nos mesmos melhor.}
-{111}{}{Obrigado a voce por nos ajudar a limpar os Reguladores de Adytum. Aqui esta o que nos conseguimos spare pra ajudar a voce mais nas suas viagens.}
+{111}{}{Obrigado a você por nos ajudar a limpar os Reguladores de Adytum. Aqui esta o que nos conseguimos spare pra ajudar a você mais nas suas viagens.}
 {112}{}{Nao foi um problema. Obrigado pelos suprimentos.}
-{113}{}{De nada, e mantenha os suprimentos pra voce mesmo.}
+{113}{}{De nada, e mantenha os suprimentos pra você mesmo.}
 {114}{}{Eu insisto.}
-{115}{}{[Michael da a voce alguns stimpacks e algumas tampinhas]}
+{115}{}{[Michael da a você alguns stimpacks e algumas tampinhas]}
 {116}{}{Ola de novo. Boa sorte nas suas viagens.}

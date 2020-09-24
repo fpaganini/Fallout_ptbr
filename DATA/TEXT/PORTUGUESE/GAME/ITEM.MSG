@@ -1,13 +1,13 @@
 #
 # Item.c messages
 #
-{1}{}{Voce ganhou %d %s.}
-{2}{}{Voce perdeu %d %s.}
-{3}{}{Voce se sente melhor.}
-{4}{}{Voce sofre um ataque cardiaco fatal pela overdose de quimicos}
-{5}{}{%s nao tem cargas restantes.}
+{1}{}{Você ganhou %d %s.}
+{2}{}{Você perdeu %d %s.}
+{3}{}{Você se sente melhor.}
+{4}{}{Você sofre um ataque cardiaco fatal pela overdose de quimicos}
+{5}{}{%s não tem cargas restantes.}
 {6}{}{%s esta ligado.}
 {7}{}{%s esta desligado.}
-{8}{}{Voce passa o contador Geiger pelo seu corpo. O contador rem mostra: %d}
+{8}{}{Você passa o contador Geiger pelo seu corpo. O contador rem mostra: %d}
 {9}{}{Este item pode ser usado apenas na barra de interface.}
 {10}{}{Nada acontece.}

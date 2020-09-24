@@ -5,21 +5,21 @@
 {104}{}{Derek is the bee's knees.}
 {105}{}{O universo continuara a se expandir, ou eventualmente entrara
  em colapso de volta em si mesmo?}
-{106}{}{Eu amo esses livros e revistas velhas, mas els sao tao dificeis
+{106}{}{Eu amo esses livros e revistas velhas, mas els são tao dificeis
  de vir.}
 {107}{}{Conhecimento e poder.}
 {108}{}{A caneta e mais forte que a espada.}
 {109}{}{A technologia deve ser preservada.}
-{110}{}{A ciencia e tao divertida.}
+{110}{}{A ciência e tao divertida.}
 {111}{}{Eu vi uma nave espacial alienigena antes.}
-{112}{}{Voce sabia que o sol e realmente uma grande reacao nuclear?
+{112}{}{Você sabia que o sol e realmente uma grande reação nuclear?
  Similar ao que terminou o mundo antigo, excepto que e fissao,
- nao fusao.}
-{113}{}{Voce sabia que um buraco negro e realmente uma entrada para outro
- universo? Eu tenho tudo trabalhado no papel. E muito ruim que nao havera
- qualquer viagem espacial ate muio depois de eu estar morto.}
-{114}{}{Voce sabia que o atomo de hidrogenio e 99.9843425% de espaco vazio?}
-{115}{}{A viagem no tempo sera possivel um dia e nos poderiamos ser capazes de
+ não fusao.}
+{113}{}{Você sabia que um buraco negro e realmente uma entrada para outro
+ universo? Eu tenho tudo trabalhado no papel. E muito ruim que não havera
+ qualquer viagem espacial até muio depois de eu estar morto.}
+{114}{}{Você sabia que o atomo de hidrogenio e 99.9843425% de espaco vazio?}
+{115}{}{A viagem no tempo será possivel um dia e nos poderiamos ser capazes de
  impedir o desastre que arruinou nosso mundo no passadao. Mas isso
- nao . . . nos imepediria de voltar se estivesse consertado . . .
+ não . . . nos imepediria de voltar se estivesse consertado . . .
  oh, minha cabeca doi.}

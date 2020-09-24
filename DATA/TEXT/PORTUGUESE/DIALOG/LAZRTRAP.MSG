@@ -1,6 +1,6 @@
-{100}{}{Oh nao.}
-{101}{}{Voce engatilhou uma faixa de laser detonando algum tipo de mecanismo de defesa.
- Voce leva um ponto de dano.}
-{102}{}{Voce engatilhou uma faixa de laser detonando algum tipo de mecanismo de defesa.
- Voce leva }
+{100}{}{Oh não.}
+{101}{}{Você engatilhou uma faixa de laser detonando algum tipo de mecanismo de defesa.
+ Você leva um ponto de dano.}
+{102}{}{Você engatilhou uma faixa de laser detonando algum tipo de mecanismo de defesa.
+ Você leva }
 {103}{}{ pontos de dano.}

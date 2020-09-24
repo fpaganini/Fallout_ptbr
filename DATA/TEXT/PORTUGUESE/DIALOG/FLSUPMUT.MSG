@@ -1,20 +1,20 @@
-{100}{}{Voce ve Lou dos Nightkin.}
-{101}{}{Voce ve Sue dos Nightkin.}
-{102}{}{Voce ve Drew dos Nightkin.}
-{103}{}{Voce ve Kurt dos Nightkin.}
-{104}{}{Voce ve Bert dos Nightkin.}
-{105}{}{Voce ve Tyche dos Nightkin.}
-{106}{}{Voce ve Mike dos Nightkin.}
-{107}{}{Voce ve Char dos Nightkin.}
-{108}{}{Voce ve Reine dos Nightkin.}
-{109}{}{Voce ve Daggarth dos Nightkin.}
-{110}{}{Mim foi dito pra levar voce pra fazer algo. Algo a respeito de normais.
- Mim nao lembrar o que.}
+{100}{}{Você ve Lou dos Nightkin.}
+{101}{}{Você ve Sue dos Nightkin.}
+{102}{}{Você ve Drew dos Nightkin.}
+{103}{}{Você ve Kurt dos Nightkin.}
+{104}{}{Você ve Bert dos Nightkin.}
+{105}{}{Você ve Tyche dos Nightkin.}
+{106}{}{Você ve Mike dos Nightkin.}
+{107}{}{Você ve Char dos Nightkin.}
+{108}{}{Você ve Reine dos Nightkin.}
+{109}{}{Você ve Daggarth dos Nightkin.}
+{110}{}{Mim foi dito pra levar você pra fazer algo. Algo a respeito de normais.
+ Mim não lembrar o que.}
 {111}{}{Mim pensa que normais e estupido.}
 {112}{}{Todos os normais deveriam morrer!}
 {113}{}{Uthern um esperto. Uh huh.}
-{114}{}{Chefe diz que normais nao sao nadas.}
+{114}{}{Chefe diz que normais não são nadas.}
 {115}{}{Nao sei por que chefe quer estes livros.}
-{116}{}{Mim feliz que aqueles normais nao estao por perto. Eles feios.}
-{117}{}{Mim e melhor do que voce! Mim e melhor do que voce!}
-{118}{}{Mim squish voce agora!}
+{116}{}{Mim feliz que aqueles normais não estao por perto. Eles feios.}
+{117}{}{Mim e melhor do que você! Mim e melhor do que você!}
+{118}{}{Mim squish você agora!}

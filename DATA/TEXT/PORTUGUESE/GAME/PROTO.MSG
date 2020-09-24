@@ -54,7 +54,7 @@
 #
 {300}{}{Nenhum}
 {301}{}{Foguete}
-{302}{}{Combustivel do Lanca-Chamas}
+{302}{}{Combustivel do Lança-Chamas}
 {303}{}{Celula de Energia C}
 {304}{}{Celula de Energia D}
 {305}{}{.223}
@@ -84,7 +84,7 @@
 #
 {450}{}{Homens}
 {451}{}{Mulheres}
-{452}{}{Criancas}
+{452}{}{Crianças}
 {453}{}{Super Mutantes}
 {454}{}{Ghouls}
 {455}{}{Brahmin}
@@ -100,41 +100,41 @@
 #
 # Kill type info descriptions
 #
-{465}{}{Esta linha mostra o numero de homens humanos que voce matou durante o curso das suas aventuras.}
-{466}{}{Esta linha mostra o numero de mulheres humanas que voce matou durante o curso das suas aventuras.}
-{467}{}{Esta linha mostra o numero de jovens criancas humanas que voce matou durante o curso das suas aventuras. Seu canalha.}
-{468}{}{O numero de Super Mutantes que voce assassinou durante o curso das suas aventuras.}
-{469}{}{Esta linha mostra o numero de homens e mulheres ghouls mutantes que voce matou durante o curso das suas aventuras.}
-{470}{}{Esta linha mostra o numero de Brahmin (vacas transformadas) que voce cortou durante suas viagens.}
-{471}{}{O numero de Radscorpions transformados que voce pos para a morte durante sua aventura.}
-{472}{}{O numero de ratos que voce matou. Inclui todos os membros da familia do rato.}
-{473}{}{Este e o numero de Flutuadores mutantes que voce pos para a morte.}
+{465}{}{Esta linha mostra o numero de homens humanos que você matou durante o curso das suas aventuras.}
+{466}{}{Esta linha mostra o numero de mulheres humanas que você matou durante o curso das suas aventuras.}
+{467}{}{Esta linha mostra o numero de jovens crianças humanas que você matou durante o curso das suas aventuras. Seu canalha.}
+{468}{}{O numero de Super Mutantes que você assassinou durante o curso das suas aventuras.}
+{469}{}{Esta linha mostra o numero de homens e mulheres ghouls mutantes que você matou durante o curso das suas aventuras.}
+{470}{}{Esta linha mostra o numero de Brahmin (vacas transformadas) que você cortou durante suas viagens.}
+{471}{}{O numero de Radscorpions transformados que você pos para a morte durante sua aventura.}
+{472}{}{O numero de ratos que você matou. Inclui todos os membros da familia do rato.}
+{473}{}{Este e o numero de Flutuadores mutantes que você pos para a morte.}
 {474}{}{Sua contagem de Centauros mutantes mortos.}
-{475}{}{Este e o numero de robos que voce destruiu ou desmantelou.}
-{476}{}{O numero total de caes que voce mandou para o grande canil no ceu.}
-{477}{}{Esta linha mostra o numero total de Mantis mortos, ou de grandes insetos transformados como o louva-deus, que voce esmagou ate agora.}
-{478}{}{Esta linha mostra que voce assassinou o Deathclaw e quaisquer dos suas crias.}
+{475}{}{Este e o numero de robos que você destruiu ou desmantelou.}
+{476}{}{O numero total de caes que você mandou para o grande canil no ceu.}
+{477}{}{Esta linha mostra o numero total de Mantis mortos, ou de grandes insetos transformados como o louva-deus, que você esmagou até agora.}
+{478}{}{Esta linha mostra que você assassinou o Deathclaw e quaisquer dos suas crias.}
 {479}{}{Nao Exibido.   Erro!}
 
 #
 # Use text
 #
-{480}{}{Voce ve: %s.}
+{480}{}{Você ve: %s.}
 
 #
 # Use Container text
 #
-{485}{}{Voce vasculha o %s.}
-{486}{}{Voce fecha o %s.}
+{485}{}{Você vasculha o %s.}
+{486}{}{Você fecha o %s.}
 {487}{}{Esta trancado.} # new
 
 #
 # Look text
 #
-{490}{}{Voce ve: %s.}
-{491}{}{Voce ve um morto: %s.}
-{492}{}{Voce ve os restos do: %s.}
-{493}{}{Voce nao ve nada fora do comum.}
+{490}{}{Você ve: %s.}
+{491}{}{Você ve um morto: %s.}
+{492}{}{Você ve os restos do: %s.}
+{493}{}{Você não ve nada fora do comum.}
 
 #
 # Examine text
@@ -148,9 +148,9 @@
 #
 # Examine text messages
 #
-{518}{}{Voce parece: %s }
+{518}{}{Você parece: %s }
 {519}{}{%s %s }
-{520}{}{Voce parece: %s.}
+{520}{}{Você parece: %s.}
 {521}{}{%s %s.}
 {522}{}{Ele parece: %s.}
 {523}{}{Ela parece: %s.}
@@ -167,7 +167,7 @@
 {535}{}{Ele tem %d/%d hps}
 {536}{}{Ela tem %d/%d hps}
 {537}{}{Ele tem %d/%d hps}
-{540}{}{Ele pesa %d libras.}
+{540}{}{Ele pesa %d quilos.}
 {541}{}{Ele pesa %d libra.}
 {544}{}{, }
 {545}{}{.}
@@ -183,26 +183,26 @@
 #
 # Use text messages
 #
-{580}{}{Voce usa o %s.}
-{581}{}{Voce usa o %s no %s.}
-{582}{}{Isso nao faz nada.}
-{583}{}{Para sua consternacao, voce percebe que ja esta morto.}
-{584}{}{Apos voce chegar la embaixo, voce percebe que ja esta morto.}
-{585}{}{Ai de voce, voce chegou tarde demais.} # This is relating to a critter being dead.
-{586}{}{Isso nao funcionara no morto.}
-{587}{}{Voce acende o sinal luminoso.}
-{588}{}{O sinal luminoso ja esta aceso.}
-{589}{}{Voce configura o timer.}
-{590}{}{O timer ja esta tique-taqueando!}
+{580}{}{Você usa o %s.}
+{581}{}{Você usa o %s no %s.}
+{582}{}{Isso não faz nada.}
+{583}{}{Para sua consternacao, você percebe que já esta morto.}
+{584}{}{Apos você chegar la embaixo, você percebe que já esta morto.}
+{585}{}{Ai de você, você chegou tarde demais.} # This is relating to a critter being dead.
+{586}{}{Isso não funcionara no morto.}
+{587}{}{Você acende o sinal luminoso.}
+{588}{}{O sinal luminoso já esta aceso.}
+{589}{}{Você configura o timer.}
+{590}{}{O timer já esta tique-taqueando!}
 
 #
 # Experience-Point messages
 #
-{620}{}{Voce ganha %d pontos de experiencia por matar o: %s.}
-{621}{}{%s voce ganha %d pontos de exp.}
+{620}{}{Você ganha %d pontos de experiência por matar o: %s.}
+{621}{}{%s você ganha %d pontos de exp.}
 {622}{}{Por derrotar seus inimigos, }  # 622-626 prepend to line 621
 {623}{}{Por assassinar seus oponentes, }
-{624}{}{Voce foi vitorioso em combate, }
+{624}{}{Você foi vitorioso em combate, }
 {625}{}{Por esmagar seus inimigos, }
 {626}{}{Por destruir seus inimigos sem levar um arranhao, }
 
@@ -216,29 +216,29 @@
 {654}{}{Voltar}     # changed number from 653
 {655}{}{Continuar}    # new
 {656}{}{Err...}   # new
-{660}{}{Voce nao consegue ver la.}
+{660}{}{Você não consegue ver la.}
 {661}{}{Muito distante.}
 
 #
 # Not Enough AP message
 #
-{700}{}{Voce nao tem pontos de acao o bastante.}
+{700}{}{Você não tem pontos de ação o bastante.}
 #
 # Book messages
 #
-{800}{}{Voce le o livro.}
-{801}{}{Voce nao aprende nada novo.}
-{802}{}{Voce aprende nova informacao sobre a ciencia.}
-{803}{}{Voce aprende muito sobre reparar eletronicos quebrados.}
-{804}{}{Voce aprende novos modos de curar ferimentos.}
-{805}{}{Voce aprende como manejar suas armas melhor.}
-{806}{}{Voce aprende muito sobre sobrevivencia nas regioes despovoadas.}
+{800}{}{Você le o livro.}
+{801}{}{Você não aprende nada novo.}
+{802}{}{Você aprende nova informacao sobre a ciência.}
+{803}{}{Você aprende muito sobre reparar eletronicos quebrados.}
+{804}{}{Você aprende novos modos de curar ferimentos.}
+{805}{}{Você aprende como manejar suas armas melhor.}
+{806}{}{Você aprende muito sobre sobrevivencia nas regioes despovoadas.}
 #
 # Use on messages (and some extra stuff that Jesse needed)
 #
 {900}{}{Os suprimentos na Maleta do Doutor se esgotaram.}
 {901}{}{Os suprimentos no Kit de Primeiros Socorros se esgotaram.}
-{902}{}{Voce nao pode fazer isso em combate.}
-{903}{}{Esta pessoa nao permutara com voce.}
-{904}{}{Esta pessoa nao tem nada a dizer pra voce.}
-{905}{}{Voce nao pode pegar esse item. Voce esta na sua capacidade maxima de peso.}
+{902}{}{Você não pode fazer isso em combate.}
+{903}{}{Esta pessoa não permutara com você.}
+{904}{}{Esta pessoa não tem nada a dizer pra você.}
+{905}{}{Você não pode pegar esse item. Você esta na sua capacidade maxima de peso.}

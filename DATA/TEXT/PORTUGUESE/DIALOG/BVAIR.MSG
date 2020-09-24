@@ -1,2 +1,2 @@
-{100}{}{Voce nota que ha um armario de parede na parede do leste,
+{100}{}{Você nota que ha um armario de parede na parede do leste,
  assim como na sua propria vault.}

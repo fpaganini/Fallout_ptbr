@@ -1,23 +1,23 @@
-{100}{}{Voce ve o Smitty.}
-{101}{}{Voce ve um grande homem musculoso.}
-{102}{}{Bom dia. O que eu posso fazer por voce?}
-{103}{}{O que voce quer?}
+{100}{}{Você ve o Smitty.}
+{101}{}{Você ve um grande homem musculoso.}
+{102}{}{Bom dia. O que eu posso fazer por você?}
+{103}{}{O que você quer?}
 {104}{}{Eu posso perguntar seu nome?}
-{105}{}{Eu preciso que voce conserte estas partes pra mim, para que eu possa consertar suas fazendas hidroponicas.}
+{105}{}{Eu preciso que você conserte estas partes pra mim, para que eu possa consertar suas fazendas hidroponicas.}
 {106}{}{Eu gostaria de comprar algo.}
-{107}{}{Eu posso fazer algumas perguntas pra voce?}
-{108}{}{Nada, obrigado. Vejo voce por ai.}
+{107}{}{Eu posso fazer algumas perguntas pra você?}
+{108}{}{Nada, obrigado. Vejo você por ai.}
 {109}{}{Uhhh . . .}
-{110}{}{Eu recomendaria que voce verificasse a loja do Tine, bem a um dos lados do portao. Eu realmente
- nao vendo qualquer coisa aqui; eu troco com o Tine ou com os mercadores do Hub por mercadorias.}
+{110}{}{Eu recomendaria que você verificasse a loja do Tine, bem a um dos lados do portao. Eu realmente
+ não vendo qualquer coisa aqui; eu troco com o Tine ou com os mercadores do Hub por mercadorias.}
 {111}{}{Por que? Todos apenas me chamam de 'Smitty'.
  Provavelmente porque eu sou o ferreiro local.}
 {112}{}{Pergunte.}
-{113}{}{Aonde voce conseguiu todo o equipamento da sua loja?}
-{114}{}{Voce faz tudo de que aqui?}
-{115}{}{Voce consegue fazer armas e balas?}
+{113}{}{Aonde você conseguiu todo o equipamento da sua loja?}
+{114}{}{Você faz tudo de que aqui?}
+{115}{}{Você consegue fazer armas e balas?}
 {116}{}{Nada mais, obrigado.}
-{117}{}{Eu lamento, eu nao acho que eu possa ajudar voce. Tente o Zimmerman.}
+{117}{}{Eu lamento, eu não acho que eu possa ajudar você. Tente o Zimmerman.}
 {118}{}{Com certeza.}
 {119}{}{Por que? qualquer ferreiro competente consegue fazer seu proprio anvil!
  claro, eu realmente apenas aprendi o oficio na pratica, mas eu fiz a maioria
@@ -26,19 +26,19 @@
  tambem conserto coisas pros mercadores do Hub. Com a ajuda de Miles,
  o quimico, eu recarrego balas de tempos em tempos.}
 {121}{}{Bem, construir armas e fazer cartuchos exige maquinaria, e eu simplesmente
- nao tenho as ferramentas pra isso. Mas com a ajuda de Miles, o quimico, eu posso
- recarregar os velhos        ja que eu posso lancar balas.}
+ não tenho as ferramentas pra isso. Mas com a ajuda de Miles, o quimico, eu posso
+ recarregar os velhos        já que eu posso lancar balas.}
 {122}{}{Sim, eu consigo consertar isto. Me de algum tempo.}
-{123}{}{Aqui esta voce. [Smitty da a voce as partes consertadas.]}
-{124}{}{Eu ja consertei as partes. Voce precisa da-las ao Miles agora.}
-{125}{}{Obrigado por consertar as fazendas. Se voce achar um rifle de plasma, traga-o
+{123}{}{Aqui esta você. [Smitty da a você as partes consertadas.]}
+{124}{}{Eu já consertei as partes. Você precisa da-las ao Miles agora.}
+{125}{}{Obrigado por consertar as fazendas. Se você achar um rifle de plasma, traga-o
  de volta aqui. Eu conheco alguns truques que eu posso fazer com os injetores.}
 {126}{}{Bem, eu tenho um bem aqui.}
-{127}{}{Entao voce achou um rifle de plasma?}
+{127}{}{Entao você achou um rifle de plasma?}
 {128}{}{Me de ele e eu darei uma olhada nele. [Smitty toma o rifle de plasma de
- voce, puxa as ferramentas dele, e comeca a tinker com ele.]}
-{129}{}{Ai, eu acho que isso e tudo. [Smitty da de volta pra voce seu rifle de plasma.]
+ você, puxa as ferramentas dele, e comeca a tinker com ele.]}
+{129}{}{Ai, eu acho que isso e tudo. [Smitty da de volta pra você seu rifle de plasma.]
  Tente isso pelo tamanho.}
-{130}{}{Como eu disse antes, se voce obter um rifle de plasma e traze-lo de
- volta aqui, eu posso melhora-lo um pouco pra voce.}
-{131}{}{Bom ver voce de novo. Espero que voce esta indo bem.}
+{130}{}{Como eu disse antes, se você obter um rifle de plasma e traze-lo de
+ volta aqui, eu posso melhora-lo um pouco pra você.}
+{131}{}{Bom ver você de novo. Espero que você esta indo bem.}

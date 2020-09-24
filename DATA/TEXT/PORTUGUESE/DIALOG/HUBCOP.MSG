@@ -2,23 +2,23 @@
 # Male is the best approach. They are simpltons who have a badge only because no one else
 # would take the badge. Speech has an absent-mindedness about it.
 
-{100}{}{Voce ve um oficial da policia.}
+{100}{}{Você ve um oficial da policia.}
 # Police Officer is male
 
-{101}{}{Saudacoes! Voce deveria tomar cuidado com… uh, eu quero dizer, tomar cuidado… (o oficial da um olhar
- para os outros oficiais e tilts a cabeca dele na sua direcao.)}
-{102}{}{Oi estranho… Espere! Eu conheco voce! Voce e procurado por roubo! Nao se mexa!}
+{101}{}{Saudacoes! Você deveria tomar cuidado com… uh, eu quero dizer, tomar cuidado… (o oficial da um olhar
+ para os outros oficiais e tilts a cabeca dele na sua direção.)}
+{102}{}{Oi estranho… Espere! Eu conheco você! Você e procurado por roubo! Nao se mexa!}
 # Stranger is the player. Consider Male.
 
 {103}{}{Okay, eu desisto.}
-{104}{}{Voce vai morrer!}
+{104}{}{Você vai morrer!}
 # "Eat lead" is equivalant to "I'm going to kill you."
 
 {105}{}{Kor Rok!}
 # "Kor Rok" is just garbled sounds a moronic player is saying.
 
-{106}{}{(Voce se entrega.)}
-{107}{}{Cuidado com suas costas, este nao e um lugar seguro.}
+{106}{}{(Você se entrega.)}
+{107}{}{Cuidado com suas costas, este não e um lugar seguro.}
 
 # 108/109, 108/110 are lines which go together. "Watch your scripts, guy." or "Watch your scripts, lady."
 {108}{}{Cuidado com seus scripts, }
@@ -26,7 +26,7 @@
 
 {109}{}{cara.}
 {110}{}{mulher.}
-{111}{}{Voce nao deveria estar aqui, nao e seguro.}
+{111}{}{Você não deveria estar aqui, não e seguro.}
 {112}{}{A Cidade Antiga e realmente decaida.}
 # Old Town is another section of town. This is were the poor and down-trodden live.
 
@@ -41,21 +41,21 @@
 {117}{}{Nao faca nada ilegal.}
 # == Don't do anything illegal.
 
-{118}{}{Ei. Eu conheco voce. Sem mais brigas okay?}
-{119}{}{Melhor voce nao estar pensando em comecar outra briga!}
-{120}{}{Se voce pegarmos voce brigando de novo, voce vai pra cadeia!}
+{118}{}{Ei. Eu conheco você. Sem mais brigas okay?}
+{119}{}{Melhor você não estar pensando em comecar outra briga!}
+{120}{}{Se você pegarmos você brigando de novo, você vai pra cadeia!}
 # "You're going in" equals "You are going to jail"
 
-{121}{}{Voce ouviu? Os Far Go Traders foram eliminados.}
+{121}{}{Você ouviu? Os Far Go Traders foram eliminados.}
 # Far Go Traders is a merchant's guild
 
-{122}{}{Os Mercadores da Agua sao estoria, isso e uma bencao.}
+{122}{}{Os Mercadores da Agua são estoria, isso e uma bencao.}
 # Water Merchants is a merchant's guild
 
 {123}{}{Alguem matou a Crimson Caravan.}
 # Crimson Caravans is a merchant's guild
 
-{124}{}{Voce ouviu? O Submundo foi finalmente eliminado!}
+{124}{}{Você ouviu? O Submundo foi finalmente eliminado!}
 # Underground is a rough organization for assassins. Akin to the Mafia
 
 {125}{}{O Decker esta morto!}

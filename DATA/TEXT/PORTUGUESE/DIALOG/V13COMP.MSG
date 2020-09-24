@@ -1,5 +1,5 @@
-{100}{}{Voce usa o computador da porta. O computador nao reconhece seu codigo de acesso.}
-{101}{}{Voce usa o computador da porta. Um alto-falante crackles a vida.}
-{102}{}{Lamento, mas nos nao podemos deixar voce voltar agora. Uh,
+{100}{}{Você usa o computador da porta. O computador não reconhece seu codigo de acesso.}
+{101}{}{Você usa o computador da porta. Um alto-falante crackles a vida.}
+{102}{}{Lamento, mas nos não podemos deixar você voltar agora. Uh,
  problemas tecnicos. Tente de novo mais tarde.}
-{103}{}{Voce ve o computador da porta de entrada da Vault-13.}
+{103}{}{Você ve o computador da porta de entrada da Vault-13.}

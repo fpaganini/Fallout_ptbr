@@ -1,5 +1,5 @@
-{100}{}{Voce ve o Motorista da Caravana.}
-{101}{}{Voce queria retornar ao Hub? Eu pagarei a voce outros 400 scripts.}
+{100}{}{Você ve o Motorista da Caravana.}
+{101}{}{Você queria retornar ao Hub? Eu pagarei a você outros 400 scripts.}
 {102}{}{Rutger should be pleased; we made it without any casualties. Did you
  want to come back with us? We're almost ready to go. The pay will be
  another 400 scripts.}
@@ -26,17 +26,17 @@
 {112}{}{Nao.}
 {113}{}{Ug.}
 {114}{}{Ótimo. Vamos la.}
-{115}{}{O que? Voce esta com medo?}
-{116}{}{Ah, voce esta sentindo falta de um pouco de acao.}
+{115}{}{O que? Você esta com medo?}
+{116}{}{Ah, você esta sentindo falta de um pouco de ação.}
 {117}{}{That's ok. I'm sure we can make it back without a problem.
  Thanks for helping us all get here in one piece.}
 {118}{}{That's ok. I understand. It'll be rough with just one guard,
  but we'll make it.}
 {119}{}{Uh, ok. Eu tenho certeza que eu posso conseguir sozinho.}
-{120}{}{Voce esta bem? A viagem deve ter sido mais dificl pra voce do que eu pensava.}
-{121}{}{Voce esta nas drogas?}
-{122}{}{Talvez eu nao queira voce na minha caravana.}
-{123}{}{Entao voce mudou de ideia? Voce quer o trabalho?}
+{120}{}{Você esta bem? A viagem deve ter sido mais dificl pra você do que eu pensava.}
+{121}{}{Você esta nas drogas?}
+{122}{}{Talvez eu não queira você na minha caravana.}
+{123}{}{Entao você mudou de ideia? Você quer o trabalho?}
 {124}{}{Sim.}
 {125}{}{Nao.}
 {126}{}{Ru?}
@@ -67,7 +67,7 @@
 {137}{}{Ok. Eu tenho certeza que nos chegaremos de volta bem.}
 {138}{}{Eu so realmente preciso de um guarda de qualquer modo.}
 {139}{}{Ah, eu posso derrota-los todos eu mesmo.}
-{140}{}{Ah, voce esta de volta! Voce quer o trabalho entao, certo?}
+{140}{}{Ah, você esta de volta! Você quer o trabalho entao, certo?}
 {141}{}{Arg.}
 {142}{}{Why, hello there. Looking for a job? We could use someone to help
  guard our caravans on the way back to the Hub. The pay's 400 scripts.}
@@ -79,11 +79,11 @@
  mind you it's normally quite a dangerous trip.}
 {147}{}{Com certeza.}
 {148}{}{Yek.}
-{149}{}{Deixe-me saber se voce mudar sua mente. Nos saimos as 14:00 horas.}
-{150}{}{Lamento, voce nao parece que esta em qualquer forma para o dever da caravana.}
-{151}{}{Se voce nao consegue falar bem eu nao posso contratar voce.}
-{152}{}{Se voce quiser um trabalho, deixe as drogas.}
-{153}{}{Voce mudou de ideia sobre o trabalho?}
+{149}{}{Deixe-me saber se você mudar sua mente. Nos saimos as 14:00 horas.}
+{150}{}{Lamento, você não parece que esta em qualquer forma para o dever da caravana.}
+{151}{}{Se você não consegue falar bem eu não posso contratar você.}
+{152}{}{Se você quiser um trabalho, deixe as drogas.}
+{153}{}{Você mudou de ideia sobre o trabalho?}
 {154}{}{Sim. Eu contratarei.}
 {155}{}{Lum?}
-{156}{}{Aqui esta seu pagamento. Deixe-me saber se voce esta voltando conosco.}
+{156}{}{Aqui esta seu pagamento. Deixe-me saber se você esta voltando conosco.}

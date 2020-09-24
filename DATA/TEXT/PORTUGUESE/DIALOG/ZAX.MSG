@@ -29,7 +29,7 @@
 {120}{}{How does the Virus work?}
 {121}{}{Obrigado for the info.}
 {122}{}{It would appear that you are incapable of a sufficient
- nivel of comprehension necessary to permit meaningful
+ nível of comprehension necessary to permit meaningful
  communication.}
 {123}{}{I am specifically programmed for research into biological
  studies, including pathology and genetic research. My primary
@@ -168,25 +168,25 @@
 {190}{}{Nível five.}
 {191}{}{Nível six.}
 {192}{}{Never mind.}
-{193}{}{Nível Four: Research Facility. This nivel contains testing areas
+{193}{}{Nível Four: Research Facility. This nível contains testing areas
  and laboratories for experiments in biology and physics.}
-{194}{}{Me diga sobre o nivel five.}
-{195}{}{Me diga sobre o nivel six.}
+{194}{}{Me diga sobre o nível five.}
+{195}{}{Me diga sobre o nível six.}
 {196}{}{Back up a bit.}
 {197}{}{Obrigado.}
-{198}{}{Nível Five: Secure Testing Labs. This nivel contains a lab for
+{198}{}{Nível Five: Secure Testing Labs. This nível contains a lab for
  experimental prototype testing and a research lab for classified
  subjects. These subjects provided some of the necessary impetus
  for the development of FEV.}
-{199}{}{Me diga sobre o nivel four.}
-{200}{}{Me diga sobre o nivel six.}
+{199}{}{Me diga sobre o nível four.}
+{200}{}{Me diga sobre o nível six.}
 {201}{}{Back up a bit.}
 {202}{}{Obrigado.}
 {203}{}{Nível Six: Barracks and Central Operations. Contains living
  facilities for lab personnel and guard contingents, and
  operations meeting room.}
-{204}{}{Me diga sobre o nivel four.}
-{205}{}{Me diga sobre o nivel five.}
+{204}{}{Me diga sobre o nível four.}
+{205}{}{Me diga sobre o nível five.}
 {206}{}{Back up a bit.}
 {207}{}{Obrigado.}
 {208}{}{Several doors require a specific pass key to access. You must

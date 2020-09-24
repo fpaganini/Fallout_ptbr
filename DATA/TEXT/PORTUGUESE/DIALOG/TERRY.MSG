@@ -1,15 +1,15 @@
-{100}{}{Voce ve o Terry.}
-{101}{}{A racao de agua e passada a noite . . . Ei, voce nao e
+{100}{}{Você ve o Terry.}
+{101}{}{A racao de agua e passada a noite . . . Ei, você não e
  um ghoul!}
-{102}{}{Isso nao e importante agora. O que e importante
+{102}{}{Isso não e importante agora. O que e importante
  e o local do chefe.}
-{103}{}{Nao, eu nao sou.}
+{103}{}{Nao, eu não sou.}
 {104}{}{Ngh.}
-{105}{}{Eu levarei voce a ele. Aqui, deixe-me dar uma mao pra voce.}
-{106}{}{Melhor eu levar voce pro Harry, ele sabera o que fazer com voce.}
+{105}{}{Eu levarei você a ele. Aqui, deixe-me dar uma mao pra você.}
+{106}{}{Melhor eu levar você pro Harry, ele sabera o que fazer com você.}
 {107}{}{Ei, sem conversa! Perturba meu pensamento.}
 {108}{}{Que hora da noite e?}
-{109}{}{O mutante ignora voce.}
+{109}{}{O mutante ignora você.}
 
 {1000}{}{Chip}
 {1001}{}{Necropolis}
@@ -21,7 +21,7 @@
 {1007}{}{Normais}
 
 {1100}{}{I dunno.}
-{1101}{}{Voce de pe nela.}
+{1101}{}{Você de pe nela.}
 {1102}{}{He's a wus. We should just wipe out him and his ghouls.}
 {1103}{}{That's here.}
 {1104}{}{I dunno.}

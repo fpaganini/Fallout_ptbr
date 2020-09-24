@@ -1,26 +1,26 @@
-{100}{}{Voce ve o Peter, lider das Patrulhas do Seguidores.}
-{101}{}{O que voce esta fazendo por aqui? Voce nao consegue ver que nos estamos ocupados?}
+{100}{}{Você ve o Peter, lider das Patrulhas do Seguidores.}
+{101}{}{O que você esta fazendo por aqui? Você não consegue ver que nos estamos ocupados?}
 {102}{}{Huh?}
 {103}{}{Eu lamento. Eu irei agora.}
-{104}{}{Eu posso ajudar voce com qualquer coisa?}
+{104}{}{Eu posso ajudar você com qualquer coisa?}
 {105}{}{Com quem eu posso falar sobre dar minha assistencia?}
 {106}{}{Otimo. Eu estou ocupado, e eu consigo um retardado tailing me. Va procurar o Jake
- se voce precisa de alguem para conversar.}
-{107}{}{Com certeza. Voce pode comecar saindo fora do meu caminho.}
+ se você precisa de alguem para conversar.}
+{107}{}{Com certeza. Você pode comecar saindo fora do meu caminho.}
 {108}{}{Certamente. Alguma coisa mais?}
 {109}{}{Deve haver alguma coisa mais que eu possa fazer.}
 {110}{}{Nao me jogue para o lado.}
-{111}{}{Sim. Voce pode sair daqui.}
-{112}{}{Certo. Parece que eu nao me livrarei de voce de qualquer outro modo.
- Parece que nos estamos tendo um problema de seguranca. Voce quer ajudar,
- voce acha o problema.}
+{111}{}{Sim. Você pode sair daqui.}
+{112}{}{Certo. Parece que eu não me livrarei de você de qualquer outro modo.
+ Parece que nos estamos tendo um problema de seguranca. Você quer ajudar,
+ você acha o problema.}
 {113}{}{Okay. Eu o farei.}
 {114}{}{Esqueca!}
 {115}{}{Certo. Saia entao!}
 {116}{}{Olha, nos temos uma brecha na seguranca. Nos precisamos achar esta brecha e encerra-la.}
 {117}{}{Ok. Eu o farei.}
 {118}{}{Esqueca!}
-{119}{}{Eu pareco um guia? Va falar com o Jake se voce esta procurando por uma guia.}
+{119}{}{Eu pareco um guia? Va falar com o Jake se você esta procurando por uma guia.}
 {120}{}{Saia. Eu estou tentando terminar um pequeno trabalho.}
 {121}{}{Nos precisamos daquele espiao morto. Apresse-se!}
 {122}{}{Bom trabalho em eliminar a Heather. Eu deveria ter sabido que era ela.

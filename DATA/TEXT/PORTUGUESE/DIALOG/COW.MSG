@@ -8,5 +8,5 @@
 {102}{}{Moo, eu digo.}
 {103}{}{E um brahmin selvagem.}
 {104}{}{Nao ha nada natural a respeito destas vacas. A segunda cabeca so pode ser o resultado de alguma estranha mutacao.}
-{105}{}{Parece bem normal pra voce.}
+{105}{}{Parece bem normal pra você.}
 

@@ -1,50 +1,50 @@
 {100}{}{Kalnor, um guarda de Junktown.}
-{101}{}{Melhor voce tomar cuidado aqui.}
-{102}{}{Esta nao e uma boa cidade para entrar em problemas.}
-{103}{}{Comporte-se e nos nao teremos que ficar desagradaveis.}
-{104}{}{Voce esta OK.}
+{101}{}{Melhor você tomar cuidado aqui.}
+{102}{}{Esta não e uma boa cidade para entrar em problemas.}
+{103}{}{Comporte-se e nos não teremos que ficar desagradaveis.}
+{104}{}{Você esta OK.}
 {105}{}{Mantenha o bom trabalho.}
-{106}{}{Dia bacana, nao e?}
+{106}{}{Dia bacana, não e?}
 {107}{}{Esta e Junktown. Um bom lugar para viver, desde que esteja no lado bom.}
 {108}{}{Cuidado com o Gizmo em seus camaradas.}
 {109}{}{Eu gosto do meu chefe.}
-{110}{}{E melhor voce guardar isso. Junktown e um lugar amigavel, amigo, e nos
+{110}{}{E melhor você guardar isso. Junktown e um lugar amigavel, amigo, e nos
  queremos mante-la assim.}
 {111}{}{Guardar o que?}
 {112}{}{Nao me diga o que fazer, garoto perdedor.}
 {113}{}{Me parece justo. A proposito, qual e a lei local a respeito das armas?}
 {114}{}{Um.. bem...}
-{115}{}{Sua arma, idiota. Killian nao vai tirar de suas maos, mas e melhor voce
+{115}{}{Sua arma, idiota. Killian não vai tirar de suas mãos, mas e melhor você
  mante-los no coldre.}
 {116}{}{Ahh, lamento.}
-{117}{}{De modo algum! Eu nao vou guardar minhas armas por ninguem!}
-{118}{}{E melhor voce se comportar, ja que e a lei e eu faço cumprir a lei.
+{117}{}{De modo algum! Eu não vou guardar minhas armas por ninguem!}
+{118}{}{E melhor você se comportar, já que e a lei e eu faço cumprir a lei.
  Guarde sua arma. Nao pense em utiliza-la, a menos que seja em legitima defesa e
- voce nao tera problemas conosco. Desobedeca a lei e nos
- iremos leva-lo de volta ao deserto sem lei - vivo ou morto. A segunda opcao e a mais provavel.}
-{119}{}{Com certeza, ja que voce me esclareceu as ideias desse jeito.}
+ você não tera problemas conosco. Desobedeca a lei e nos
+ iremos leva-lo de volta ao deserto sem lei - vivo ou morto. A segunda opcao e a mais provável.}
+{119}{}{Com certeza, já que você me esclareceu as ideias desse jeito.}
 {120}{}{Foda-se as suas leis!}
-{121}{}{Bem, umm... pra mim esta tudo bem. Mas melhor voce ser cuidadoso.}
+{121}{}{Bem, umm... pra mim esta tudo bem. Mas melhor você ser cuidadoso.}
 {122}{}{Bom, você que perguntou. Nenhuma arma pode ser sacada, exceto em legítima defesa. E se
  você iniciar uma luta, é completamente sua culpa. Fora isso, é seu direito
  andar armado. Só não puxe uma faca ou qualquer tipo de arma sem ter uma boa
  causa para isto. Tenha um bom dia.}
 {123}{}{Ei você, sem armas aqui! E eu não me importo se sua mãe deixou você
  bater sua cabeça quando criança. Sem armas. Entendeu?}
-{124}{}{Ei! Voce! O que voce esta fazendo se escondendo por ai?}
+{124}{}{Ei! Você! O que você esta fazendo se escondendo por ai?}
 {125}{}{Nada.}
-{126}{}{Eu nao estou me escondendo. Eu apenas gosto de caminhar cautelosamente.}
+{126}{}{Eu não estou me escondendo. Eu apenas gosto de caminhar cautelosamente.}
 {127}{}{Ummmm....}
-{128}{}{O que quer que seja que voce esteja fazendo, nao o faça nesta cidade.}
+{128}{}{O que quer que seja que você esteja fazendo, não o faça nesta cidade.}
 {129}{}{Ei! Sem personagens sombias aqui na cidade! Saia daqui antes que nos te jogamos pra fora!}
-{130}{}{Bem, ummm... OK. Que assim seja. Apenas nao faça nada fora do normal.}
+{130}{}{Bem, ummm... OK. Que assim seja. Apenas não faça nada fora do normal.}
 {131}{}{Obrigado, tchau.}
 {132}{}{Certamente. Eu joguei a minha cautela ao vento, senhor.}
 {133}{}{Certamente. Eu joguei a minha cautela ao vento, cara.}
-{134}{}{Melhor voce observar seus passos por aqui porque nos estaremos observando o seu comportamento.}
-{135}{}{Bem-vindo a Junktown. O que eu posso fazer por voce?}
+{134}{}{Melhor você observar seus passos por aqui porque nos estaremos observando o seu comportamento.}
+{135}{}{Bem-vindo a Junktown. O que eu posso fazer por você?}
 {136}{}{Nada, obrigado.}
-{137}{}{O que voce esta fazendo aqui? O que e este lugar?}
+{137}{}{O que você esta fazendo aqui? O que e este lugar?}
 {138}{}{Onde eu posso obter um pouco de suprimentos?}
 {139}{}{Wa-wa!}
 {140}{}{Eu não sei nada sobre isso. Você pode verificar com Killian. Ele está ao norte e manja disto?}
@@ -53,30 +53,30 @@
  Acontece que eu gosto mesmo do nome. Aqui normalmente fazemos negocios. Às vezes tambem trocamos
  com aqueles bastardos metidos do Hub. Ei, pera ai... você não é de o Hub, não é?}
 {142}{}{O que? O Hub? Com certeza eu sou de lá!}
-{143}{}{Eu? Nao, eu nao sou do Hub.}
-{144}{}{Bom, entao voce ja deve conhecer a maioria das regras. Tenha um bom dia. E me desculpe por ter chamado voces de bastardos.}
+{143}{}{Eu? Nao, eu não sou do Hub.}
+{144}{}{Bom, entao você já deve conhecer a maioria das regras. Tenha um bom dia. E me desculpe por ter chamado voces de bastardos.}
 {145}{}{Sim! Sem problema. Tchau.}
 {146}{}{Vai me causar severo trauma mental. Ate mais tarde.}
-{147}{}{Ummm... certo. Este nao e o lugar para fazer suas perguntas. Tenha um bom dia e nao cause nenhum problema.}
+{147}{}{Ummm... certo. Este não e o lugar para fazer suas perguntas. Tenha um bom dia e não cause nenhum problema.}
 {148}{}{Oh, que diabo. O lugar para isso e Darkwater. Killian o comanda.
  E um pouco ao norte. Killian tem os melhores suprimentos da cidade.}
 {149}{}{Obrigado. Tchau.}
-{150}{}{Voce quer me mostrar aonde voce guarda os "seus" suprimentos?}
-{152}{}{Ummm.. nao. Lamento. Eu tenho muito trabalho a fazer aqui.}
+{150}{}{Você quer me mostrar aonde você guarda os "seus" suprimentos?}
+{152}{}{Ummm.. não. Lamento. Eu tenho muito trabalho a fazer aqui.}
 {153}{}{Tenha um bom dia.}
 {154}{}{Mantenha-se fora de problemas.}
 {155}{}{Cara, Espero que meu substituto chegue aqui logo. Estou tao cancado que parece que
  estive de guarda desde sempre.}
 {156}{}{Eu lamento, os portoes estao fechados a noite. Volte amanha de manha.}
 {157}{}{Ei, eu preciso entrar!}
-{158}{}{Sem problema. Vejo voce amnha de manha.}
+{158}{}{Sem problema. Vejo você amnha de manha.}
 {159}{}{Lamento muito incomoda-lo, senhor, mas gostaria muito de entrar em sua cidade agora.
- Voce pode ver que eu nao causaria nenhum problema.}
+ Você pode ver que eu não causaria nenhum problema.}
 {160}{}{Aham...!}
 {161}{}{Vol . . . tar . . . a . . .manha....sacou?}
-{162}{}{Lamento, regras sao regras e tenho que cumprir. Nenhum estranho pode ser aceito durante a noite.}
+{162}{}{Lamento, regras são regras e tenho que cumprir. Nenhum estranho pode ser aceito durante a noite.}
 {163}{}{Bem, eu não deveria fazer isso, mas você me parece uma pessoa bem legal. Entre, mas não crie problemas, meu emprego depende disto.}
-{164}{}{Ei! É voce! Como não tinha reconhecido. Vamos, entre.... }
-{165}{}{. Bom ver voce de novo!}
-{166}{}{Ei, melhor voce dar meia volta e dar o fora daqui.}
+{164}{}{Ei! É você! Como não tinha reconhecido. Vamos, entre.... }
+{165}{}{. Bom ver você de novo!}
+{166}{}{Ei, melhor você dar meia volta e dar o fora daqui.}
 {167}{}{Va entrando.}

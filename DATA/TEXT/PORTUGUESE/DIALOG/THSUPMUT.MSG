@@ -1,31 +1,31 @@
-{100}{}{Voce ve Therax, um Nightkin Pensador.}
-{101}{}{Voce ve Justin, um Nightkin Pensador.}
-{102}{}{Voce ve a Sereine, uma Nightkin Pensadora.}
-{103}{}{Voce ve Dolkarn, um Nightkin Pensador.}
-{104}{}{Voce ve Hort, um Nightkin Pensador.}
-{105}{}{Voce ve Chris, um Nightkin Pensador.}
-{106}{}{Voce ve a Jaunita, uma Nightkin Pensadora.}
-{107}{}{Voce ve Lesley, um Nightkin Pensador.}
-{108}{}{Voce ve Renfield, um Nightkin Pensador.}
-{109}{}{Voce ve Timothy, um Nightkin Pensador.}
-{110}{}{Bem-vindo Oh Punt One. Voce chegou bem na hora de nos ajudar.}
+{100}{}{Você ve Therax, um Nightkin Pensador.}
+{101}{}{Você ve Justin, um Nightkin Pensador.}
+{102}{}{Você ve a Sereine, uma Nightkin Pensadora.}
+{103}{}{Você ve Dolkarn, um Nightkin Pensador.}
+{104}{}{Você ve Hort, um Nightkin Pensador.}
+{105}{}{Você ve Chris, um Nightkin Pensador.}
+{106}{}{Você ve a Jaunita, uma Nightkin Pensadora.}
+{107}{}{Você ve Lesley, um Nightkin Pensador.}
+{108}{}{Você ve Renfield, um Nightkin Pensador.}
+{109}{}{Você ve Timothy, um Nightkin Pensador.}
+{110}{}{Bem-vindo Oh Punt One. Você chegou bem na hora de nos ajudar.}
 {111}{}{Huh?}
 {112}{}{Com certeza. Nao e um problema.}
 {113}{}{Lamento. Muito ocupado.}
 {114}{}{Por que eu desejaria ajudar voces?}
-{115}{}{Nao importa simples. Venha comigo, e eu levarei voce ao trabalho.}
-{116}{}{Isso nao foi um pedido. Sua presenca sera feita.}
-{117}{}{Voce nao e aquele que procura trazer paz para as terras devastadas?}
-{118}{}{Sim, contudo, eu nao vejo como ao ajudar voces isso nao acontecera.}
-{119}{}{Nao. Eu prefiro destruicao em massa.}
+{115}{}{Nao importa simples. Venha comigo, e eu levarei você ao trabalho.}
+{116}{}{Isso não foi um pedido. Sua presenca será feita.}
+{117}{}{Você não e aquele que procura trazer paz para as terras devastadas?}
+{118}{}{Sim, contudo, eu não vejo como ao ajudar voces isso não acontecera.}
+{119}{}{Nao. Eu prefiro destruição em massa.}
 {120}{}{Nos acreditamos que se todos, mutantes e humanos, pudessemos aprender a trabalhar juntos, entao
  muitos grandes problemas poderiam ser resolvidos.}
 {121}{}{Soa promissor. Conte comigo.}
 {122}{}{Esqueca.}
-{123}{}{Alguma coisa nao soa bem a respeito disto.}
+{123}{}{Alguma coisa não soa bem a respeito disto.}
 {124}{}{Tudo esta perfeitamente bem. Talvez seja o scope limitado do seu crani o que detem seu
  avanco no pensamento.}
-{125}{}{Voce esta provavelmente corretio. Conte comigo.}
+{125}{}{Você esta provavelmente corretio. Conte comigo.}
 {126}{}{Mayhaps. Deixe-me inspecionar seu cranio.}
-{127}{}{Se esse e o seu desejo, entao voce tera sua cota.}
-{128}{}{Bem-vindo de volta. Voce agora nos ajudara.}
+{127}{}{Se esse e o seu desejo, entao você tera sua cota.}
+{128}{}{Bem-vindo de volta. Você agora nos ajudara.}

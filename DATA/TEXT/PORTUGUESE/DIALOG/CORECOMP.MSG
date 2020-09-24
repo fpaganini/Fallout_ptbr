@@ -4,6 +4,6 @@
 {102}{}{Este é o Nucleo do Computador Central da Vault 13.
  Ele controla a maioria das estacoes de trabalho que
  você acha na vault.}
-{103}{}{Você mexe com o computador mas nao descobre realmente qualquer
+{103}{}{Você mexe com o computador mas não descobre realmente qualquer
  coisa mais a respeito.}
 {104}{}{Ha muitas luzes piscando nesta coisa.}

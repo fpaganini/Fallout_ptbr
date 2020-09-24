@@ -1,43 +1,43 @@
-{100}{}{Parede de Aco}
-{200}{}{Parede de Aco}
-{300}{}{Parede de Aco}
-{400}{}{Parede de Aco}
-{500}{}{Parede de Aco}
-{600}{}{Parede de Aco}
-{700}{}{Parede de Aco}
-{800}{}{Parede de Aco}
-{900}{}{Parede de Aco}
-{1000}{}{Parede de Aco}
-{1100}{}{Parede de Aco}
-{1200}{}{Parede de Aco}
-{1300}{}{Parede de Aco}
-{1400}{}{Parede de Aco}
-{1500}{}{Parede de Aco}
-{1600}{}{Parede de Aco}
-{1700}{}{Parede de Aco}
-{1800}{}{Parede de Aco}
+{100}{}{Parede de Aço}
+{200}{}{Parede de Aço}
+{300}{}{Parede de Aço}
+{400}{}{Parede de Aço}
+{500}{}{Parede de Aço}
+{600}{}{Parede de Aço}
+{700}{}{Parede de Aço}
+{800}{}{Parede de Aço}
+{900}{}{Parede de Aço}
+{1000}{}{Parede de Aço}
+{1100}{}{Parede de Aço}
+{1200}{}{Parede de Aço}
+{1300}{}{Parede de Aço}
+{1400}{}{Parede de Aço}
+{1500}{}{Parede de Aço}
+{1600}{}{Parede de Aço}
+{1700}{}{Parede de Aço}
+{1800}{}{Parede de Aço}
 {1801}{}{}
-{1900}{}{Canto da Parede de Aco}
-{2000}{}{Canto da Parede de Aco}
-{2100}{}{Canto da Parede de Aco}
-{2200}{}{Canto da Parede de Aco}
-{2300}{}{Parede de Aco}
-{2400}{}{Parede de Aco}
-{2500}{}{Canto da Parede de Aco}
-{2600}{}{Parede de Aco}
-{2700}{}{Parede de Aco}
-{2800}{}{Canto da Parede de Aco}
-{2900}{}{Parede de Aco}
-{3000}{}{Parede de Aco}
+{1900}{}{Canto da Parede de Aço}
+{2000}{}{Canto da Parede de Aço}
+{2100}{}{Canto da Parede de Aço}
+{2200}{}{Canto da Parede de Aço}
+{2300}{}{Parede de Aço}
+{2400}{}{Parede de Aço}
+{2500}{}{Canto da Parede de Aço}
+{2600}{}{Parede de Aço}
+{2700}{}{Parede de Aço}
+{2800}{}{Canto da Parede de Aço}
+{2900}{}{Parede de Aço}
+{3000}{}{Parede de Aço}
 {3001}{}{}
-{3100}{}{Parede-T de Aco}
-{3200}{}{Parede-T de Aco}
-{3300}{}{Parede-T de Aco}
-{3400}{}{Parede de Aco 4-Caminhos}
-{3500}{}{Fim da Parede de Aco}
-{3600}{}{Fim da Parede de Aco}
-{3700}{}{Fim da Parede de Aco}
-{3800}{}{Fim da Parede de Aco}
+{3100}{}{Parede-T de Aço}
+{3200}{}{Parede-T de Aço}
+{3300}{}{Parede-T de Aço}
+{3400}{}{Parede de Aço 4-Caminhos}
+{3500}{}{Fim da Parede de Aço}
+{3600}{}{Fim da Parede de Aço}
+{3700}{}{Fim da Parede de Aço}
+{3800}{}{Fim da Parede de Aço}
 {3900}{}{Vao da Porta}
 {4000}{}{Vao da Porta}
 {4100}{}{Vao da Porta}
@@ -54,7 +54,7 @@
 {5200}{}{Parede}
 {5300}{}{Parede}
 {5400}{}{Parede}
-{5500}{}{Janela de Aco}
+{5500}{}{Janela de Aço}
 {5600}{}{Cano}
 {5700}{}{Cano}
 {5800}{}{Cano}
@@ -110,8 +110,8 @@
 {10500}{}{Vao da Porta de Lata}
 {10600}{}{Vao da Porta de Lata}
 {10700}{}{Vao da Porta de Lata}
-{10800}{}{Parede de Aco}
-{10900}{}{Parede de Aco}
+{10800}{}{Parede de Aço}
+{10900}{}{Parede de Aço}
 {11000}{}{Parede de Madeira}
 {11100}{}{Parede de Madeira}
 {11200}{}{Parede de Lata}
@@ -163,19 +163,19 @@
 {15800}{}{Parede de Pedra}
 {15900}{}{Parede de Pedra}
 {16000}{}{Parede de Pedra}
-{16100}{}{Trilho de Aco}
-{16200}{}{Trilho de Aco}
-{16300}{}{Trilho de Aco}
-{16400}{}{Trilho de Aco}
-{16500}{}{Trilho de Aco}
-{16600}{}{Trilho de Aco}
-{16700}{}{Trilho de Aco}
-{16800}{}{Trilho de Aco}
-{16900}{}{Trilho de Aco}
-{17000}{}{Trilho de Aco}
-{17100}{}{Trilho de Aco}
-{17200}{}{Trilho de Aco}
-{17300}{}{Trilho de Aco}
+{16100}{}{Trilho de Aço}
+{16200}{}{Trilho de Aço}
+{16300}{}{Trilho de Aço}
+{16400}{}{Trilho de Aço}
+{16500}{}{Trilho de Aço}
+{16600}{}{Trilho de Aço}
+{16700}{}{Trilho de Aço}
+{16800}{}{Trilho de Aço}
+{16900}{}{Trilho de Aço}
+{17000}{}{Trilho de Aço}
+{17100}{}{Trilho de Aço}
+{17200}{}{Trilho de Aço}
+{17300}{}{Trilho de Aço}
 {17400}{}{Parede da Caverna}
 {17500}{}{Parede da Caverna}
 {17600}{}{Parede da Caverna}
@@ -1139,10 +1139,10 @@
 {113200}{}{Vao da Porta}
 {113300}{}{Vao da Porta}
 {113400}{}{Vao da Porta}
-{113500}{}{Emissor de Campo de Forca}
-{113600}{}{Emissor de Campo de Forca}
-{113700}{}{Emissor de Campo de Forca}
-{113800}{}{Emissor de Campo de Forca}
+{113500}{}{Emissor de Campo de Força}
+{113600}{}{Emissor de Campo de Força}
+{113700}{}{Emissor de Campo de Força}
+{113800}{}{Emissor de Campo de Força}
 {113900}{}{Parede}
 {114000}{}{Parede}
 {114100}{}{Parede}

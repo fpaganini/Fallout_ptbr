@@ -1,8 +1,8 @@
-{100}{}{Voce ve Barry enraivecido!}
-{101}{}{Voce ve o Barry.}
+{100}{}{Você ve Barry enraivecido!}
+{101}{}{Você ve o Barry.}
 {102}{}{Ei! Apenas os ghouls obtem uma racao de agua.}
-{103}{}{Eu vou pegar voce por me acordar!}
-{104}{}{O mutante ignora voce.}
+{103}{}{Eu vou pegar você por me acordar!}
+{104}{}{O mutante ignora você.}
 
 {1000}{}{Chip}
 {1001}{}{Necropolis}
@@ -14,7 +14,7 @@
 {1007}{}{Normais}
 
 {1100}{}{I dunno.}
-{1101}{}{Voce esta de pe nela.}
+{1101}{}{Você esta de pe nela.}
 {1102}{}{Ele e uma bicha. Nos deveriamos simplesmente eliminar ele e seus ghouls.}
 {1103}{}{Isso e aqui.}
 {1104}{}{I dunno.}

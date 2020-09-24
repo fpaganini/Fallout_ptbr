@@ -1,6 +1,6 @@
 {100}{}{Escriba}
 {101}{}{Saudacoes, Irmao }
-{102}{}{. Por que voce nao se junta a nos na meditacao?}
+{102}{}{. Por que você não se junta a nos na meditacao?}
 {103}{}{Lament, Irmao }
 {104}{}{. Nos estamos meditando.}
 {105}{}{A technologia deve ser preservada.}

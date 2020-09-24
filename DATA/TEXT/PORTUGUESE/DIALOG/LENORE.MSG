@@ -1,14 +1,14 @@
-{100}{}{Voce ve um campones.}
+{100}{}{Você ve um campones.}
 {101}{}{Oh, sim, grande homem correndo de um cachorro assustador. Phil,
- voce com certeza mostrou a ele. Sim, voce com certeza mostrou.}
-{102}{}{O que voce esta fazendo, Phil? Voce esta verificando o tread on those
- sneakers, nao esta?}
-{103}{}{Cara, aquele cachorro parece faminto. Com certeza quer comer voce vivo,
+ você com certeza mostrou a ele. Sim, você com certeza mostrou.}
+{102}{}{O que você esta fazendo, Phil? Você esta verificando o tread on those
+ sneakers, não esta?}
+{103}{}{Cara, aquele cachorro parece faminto. Com certeza quer comer você vivo,
  Phil.}
 {104}{}{Isso poderia ser um pouco exagerado para um pobre
- animal indefeso, nao acha?}
-{105}{}{Esse com certeza e um cachorro bacana que voce tem ai.}
-{106}{}{Eu tenho certeza que o Phil apreciaria se voce o livrasse
+ animal indefeso, não acha?}
+{105}{}{Esse com certeza e um cachorro bacana que você tem ai.}
+{106}{}{Eu tenho certeza que o Phil apreciaria se você o livrasse
  do seu cachorro.}
 {107}{}{Obrigado por lidar com o cachorro.}
-{108}{}{Voce ve Lenore.}
+{108}{}{Você ve Lenore.}

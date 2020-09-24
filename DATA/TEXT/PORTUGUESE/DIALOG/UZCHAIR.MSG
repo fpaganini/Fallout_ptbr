@@ -1,1 +1,1 @@
-{100}{}{Voce tira uma chave da rachadura na cadeira.}
+{100}{}{Você tira uma chave da rachadura na cadeira.}

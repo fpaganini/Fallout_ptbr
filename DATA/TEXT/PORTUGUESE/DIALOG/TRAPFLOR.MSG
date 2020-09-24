@@ -1,4 +1,4 @@
 {100}{}{ sente que ha uma armadilha por perto.}
-{101}{}{Voce sente que ha uma armadilha por perto.}
+{101}{}{Você sente que ha uma armadilha por perto.}
 {102}{}{ detona uma armadilha, alertando a base sobre sua presenca.}
-{103}{}{Voce detona uma armadilha, alertando a base sobre sua presenca.}
+{103}{}{Você detona uma armadilha, alertando a base sobre sua presenca.}

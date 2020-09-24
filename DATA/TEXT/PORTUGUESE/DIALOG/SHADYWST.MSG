@@ -1,15 +1,15 @@
-{100}{}{Voce ganha 400 pontos de experiencia por trazer a Tandi de volta.}
-{101}{}{Ao sul, voce ve uma parede adobe rodeando um vila de aparencia
+{100}{}{Você ganha 400 pontos de experiência por trazer a Tandi de volta.}
+{101}{}{Ao sul, você ve uma parede adobe rodeando um vila de aparencia
  pacifica.}
 {102}{}{Um pequeno barracao e tudo que resta desta area. Felizmente, seus
  registros indicam uma entrada secundaria para a vault 15 ali.}
-{103}{}{Voce ve uma pequena construcao, com uma serie de tendas proximas.
+{103}{}{Você ve uma pequena construcao, com uma serie de tendas proximas.
  Os habitantes parecem sujos e maus.}
-{104}{}{Voce chega a uma cidade de tamanho medio. Uma parede de carros sucateados
- bloqueiam a entrada facil. Uma fumaca hazy descansa baixo sobre a cidade.}
-{105}{}{Ao sul voce ve uma cidade grande. Fazendas Outlying rodeiam a cidade.
+{104}{}{Você chega a uma cidade de tamanho medio. Uma parede de carros sucateados
+ bloqueiam a entrada fácil. Uma fumaca hazy descansa baixo sobre a cidade.}
+{105}{}{Ao sul você ve uma cidade grande. Fazendas Outlying rodeiam a cidade.
  Ha muita vida neste oasis do deserto.}
-{106}{}{Voce se aproxima de uma cidade sombria e quebrada. Pouca vida pode ser
+{106}{}{Você se aproxima de uma cidade sombria e quebrada. Pouca vida pode ser
  vista. Um fedor de morte rodeia a area.}
 {107}{}{Uma pequena construcao rodeada por uma cerca chainlink esta ao norte.
  Guardas ameacadores com armadura pesada patrulham a area.}
@@ -17,16 +17,16 @@
 {109}{}{Guardas mutantes podem ser vistos a nordeste na frente de um local
  fortificado construido no lado da montanha.}
 {110}{}{Uma grande construcao ornamentada se ergue ao ceu. Uma multidao de pessoas
- caminham sem direcao diante dele.}
-{111}{}{Voce consegue ver um armazem ao norte, com um fosso de gosma brilhante ao redor dela.}
+ caminham sem direção diante dele.}
+{111}{}{Você consegue ver um armazem ao norte, com um fosso de gosma brilhante ao redor dela.}
 {112}{}{Uma grande fabrica fortificada, com paredes pintadas com grafite e portas
  para armas ameacadores looms a frente.}
-{113}{}{Os sinais de atividade da gangues sao evidentes no clube noturno parcialmente
+{113}{}{Os sinais de atividade da gangues são evidentes no clube noturno parcialmente
  reconstruido e minusculos postos avancados aqui.}
 {114}{}{No coracao da cidade, uma grande biblioteca, fortificada e restaurada, se ergue
- com presenca proibitiva ainda graciosa. Voce sente uma sensacao de paz.}
+ com presenca proibitiva ainda graciosa. Você sente uma sensacao de paz.}
 {115}{}{Uma vila cercada, patrulhada por guardas, espera defiantly ao sul.}
-{116}{}{Voce ve uma pegada gigante no chao. Voce procura mas nao acha outras
+{116}{}{Você ve uma pegada gigante no chao. Você procura mas não acha outras
  trilhas na area.}
 {117}{}{Marcas de Scorch e cinzas cobrem a area.}
 {118}{}{Esta area parece que foi atingida por uma bomba de fogo de alta pressao.}

@@ -75,7 +75,7 @@
 {166}{}{Tell me about yourself.}
 {167}{}{Where does a person find work around here?}
 {168}{}{They're great guys! It's true we have the occasional misunderstanding, but I think they're a credit to
- their species… [sotto voce] …whichever one that is…}
+ their species… [sotto você] …whichever one that is…}
 {169}{}{What about those missing caravans?}
 {170}{}{Tell me about Decker.}
 {171}{}{Misunderstandings? Like what?}

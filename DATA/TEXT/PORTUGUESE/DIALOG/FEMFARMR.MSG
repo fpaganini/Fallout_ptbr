@@ -1,17 +1,17 @@
-{100}{}{Voce ve um fazendeiro.}
+{100}{}{Você ve um fazendeiro.}
 {101}{}{Oi, estranho. Gosta das minhas crops?}
-{102}{}{Bom dia pra voce!}
+{102}{}{Bom dia pra você!}
 {103}{}{Boa tarde!}
 {104}{}{Boa noite, amigo!}
-{105}{}{Dia bacana, nao e?}
-{106}{}{Este solo e muito mais saudavel do que parece.}
+{105}{}{Dia bacana, não e?}
+{106}{}{Este solo e muito mais saudável do que parece.}
 {107}{}{Eu estou tentando salvar estas arvores e eu acho que esta funcionando.}
 {108}{}{Deveria haver uma caravana de fertilizantes. Ai ha algum dinheiro.}
 {109}{}{Entre, ha bastante espaco.}
 {110}{}{Esta um pouco      ; pegue um assento.}
 {111}{}{Farming suits me.}
-{112}{}{Voce sabia que as plantas crescem melhor quando voce e bom para elas?}
+{112}{}{Você sabia que as plantas crescem melhor quando você e bom para elas?}
 {113}{}{Eu desejo que eu tivesse um pouco mais de terra.}
-{114}{}{Voce sabia que costumava haver grandes corpos de agua potavel?}
+{114}{}{Você sabia que costumava haver grandes corpos de agua potavel?}
 {115}{}{Eu li sobre rios. Eu com certeza desejo que eu tivesse um proximo dos meus campos.}
 {116}{}{Eu desejo que os dias fossem mais longos; ha tanto pra fazer.}

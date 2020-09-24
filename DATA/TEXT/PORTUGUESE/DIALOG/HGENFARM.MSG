@@ -2,20 +2,20 @@
 # Accent, if any would be akin to Midwestern United States, a little slow and drawn out, but not
 # a Southern drawl.
 
-{100}{}{Voce ve um fazendeiro.}
+{100}{}{Você ve um fazendeiro.}
 {101}{}{Eu preciso de um solo melhor.}
-{102}{}{Eu nao estou contratando.}
-{103}{}{Eu nao preciso de mais agua, por favor saia.}
+{102}{}{Eu não estou contratando.}
+{103}{}{Eu não preciso de mais agua, por favor saia.}
 {104}{}{Este solo e muito duro.}
-{105}{}{Estas plantas estupidas nao vao sobreviver.}
+{105}{}{Estas plantas estupidas não vao sobreviver.}
 {106}{}{Por que eu me tornei um fazendeiro?}
-{107}{}{Melhor aqueles cachorros nao estarem mijando nas minhas crops.}
+{107}{}{Melhor aqueles cachorros não estarem mijando nas minhas crops.}
 # pissing == urinating
 
 {108}{}{Eu odeio cachorros!}
 {109}{}{Eu odeio cachorros! Uh, exceto o seu.}
-{110}{}{Este nao e seu lar.}
-{111}{}{O que? Voce vai por ai aborrecendo todo mundo?}
+{110}{}{Este não e seu lar.}
+{111}{}{O que? Você vai por ai aborrecendo todo mundo?}
 {112}{}{Que dia. Eu estou exausto.}
 {113}{}{Eu chamarei a policia.}
 {114}{}{Eu estou cansado. Por favor saia.}

@@ -1,66 +1,66 @@
-{100}{}{Voce ve Marcelles.}
-{101}{}{Voce ve uma mulher de aparencia forte.}
-{102}{}{Gracas a deus que voce esta aqui! Algum cara louco tem a Sinthia mantida
- como refem. Ele esta ameacando matar ela! Voce tem que ajudar.}
-{103}{}{Nao, nao me aborreca.}
+{100}{}{Você ve Marcelles.}
+{101}{}{Você ve uma mulher de aparencia forte.}
+{102}{}{Gracas a deus que você esta aqui! Algum cara louco tem a Sinthia mantida
+ como refem. Ele esta ameacando matar ela! Você tem que ajudar.}
+{103}{}{Nao, não me aborreca.}
 {104}{}{Hmm. Eu vou ver.}
 {105}{}{Bosta!}
-{106}{}{Oh    , eu espero que voce consiga faze-lo. Ele esta no quarto dela. Ajude ela!}
-{107}{}{Voce e uma pessoa incrivelmente fria. Ela poderia morrer sem sua ajuda.}
+{106}{}{Oh    , eu espero que você consiga faze-lo. Ele esta no quarto dela. Ajude ela!}
+{107}{}{Você e uma pessoa incrivelmente fria. Ela poderia morrer sem sua ajuda.}
 {108}{}{Dificil. Essa e a vida.}
-{109}{}{Tudo bem, nao harp on me. Eu olharei isso.}
+{109}{}{Tudo bem, não harp on me. Eu olharei isso.}
 {110}{}{Ajude a Sinthia. Ela esta com problemas.}
-{111}{}{Obrigado a voce por ajudar a Sinthia. Ela geralmente nao e um
- problema. Voce merece uma boa noite de sono. Comigo. Mas nao peca
+{111}{}{Obrigado a você por ajudar a Sinthia. Ela geralmente não e um
+ problema. Você merece uma boa noite de sono. Comigo. Mas não peca
  por outra de graca.}
 {112}{}{Hnn. Facinora.}
 {113}{}{Obrigado.}
 {114}{}{Sem problema. Quarto #1. Siga-me.}
 {115}{}{Aprecie sua estada. Nao seja uma dor paras os outros.}
-{116}{}{Voce deveria ter salvado a Sinthia. E sua culpa que ela morreu.
- Eu espero que voce esteja feliz consigo mesmo.}
+{116}{}{Você deveria ter salvado a Sinthia. E sua culpa que ela morreu.
+ Eu espero que você esteja feliz consigo mesmo.}
 {117}{}{Sim, que seja.}
 {118}{}{Hnnn.}
-{119}{}{Bem-vindo a Crash House. Como eu posso ajudar voce, estranho?}
+{119}{}{Bem-vindo a Crash House. Como eu posso ajudar você, estranho?}
 {120}{}{Eu estou procurando por um pouco de agua.}
 {121}{}{Eu preciso de uma boa noite de sono.}
 {122}{}{Eu estou procurando por um pouco de informacao.}
 {123}{}{Hnnn.}
 {124}{}{Sim, nos servimos o seu tipo tambem. Sao $25 pela noite.
- Uma semana custara a voce $150.}
+ Uma semana custara a você $150.}
 {125}{}{Nao.}
 {126}{}{Ahkay.}
 {127}{}{Ahkay. Semana.}
-{128}{}{Sim, voce tambem. Tenha um bom dia.}
+{128}{}{Sim, você tambem. Tenha um bom dia.}
 {129}{}{Okay, obrigado. Seu quarto e o quarto #1. Siga-me. Nao dispare
  quaisquer armas aqui, okay?}
 {130}{}{Tenha uma boa estada.}
-{131}{}{Voce precisa de um pouco de dinheiro antes que eu possa alugar a voce um quarto.}
-{132}{}{Entao voce deveria tentar o Skum Pitt. Eu ouvi que voce consegue muita
+{131}{}{Você precisa de um pouco de dinheiro antes que eu possa alugar a você um quarto.}
+{132}{}{Entao você deveria tentar o Skum Pitt. Eu ouvi que você consegue muita
  agua na sua cerveja la.}
-{133}{}{Eu nao sei sobre isso, mas eu alugarei um quarto pra voce. E um bom lugar
+{133}{}{Eu não sei sobre isso, mas eu alugarei um quarto pra você. E um bom lugar
  pra descansar e curar. $25 por um dia ou uma semana por $150. A maioria das
- pessoas vao na taxa semanal. Voce deveria ir tambem, se voce me pergunta.}
+ pessoas vao na taxa semanal. Você deveria ir tambem, se você me pergunta.}
 {134}{}{Ok. Uma semana.}
 {135}{}{Apenas uma noite.}
 {136}{}{Nao, obrigado.}
 {137}{}{Eu sou apenas uma gerente de hotel, bub. Nao peca muito de mim.}
-{138}{}{Aqui estao $50, diga-me o que voce sabe.}
-{139}{}{Eu seu que voce esta $50 mais pobre. Eu nao faco coisa de fofoca, okay?
- Volte se voce quiser um quarto.}
-{140}{}{O que voce pensa que eu sou? Uma tola? Se voce vai me subornar tenha
+{138}{}{Aqui estao $50, diga-me o que você sabe.}
+{139}{}{Eu seu que você esta $50 mais pobre. Eu não faco coisa de fofoca, okay?
+ Volte se você quiser um quarto.}
+{140}{}{O que você pensa que eu sou? Uma tola? Se você vai me subornar tenha
  dinheiro o bastante.}
-{141}{}{Bem-vindo de volta. o que eu posso fazer por voce?}
+{141}{}{Bem-vindo de volta. o que eu posso fazer por você?}
 {142}{}{Eu quero alugar um quarto.}
 {143}{}{Hnnn.}
-{144}{}{Voce ja esta alugando o quarto #1 de mim. Voce quer que eu mostre
- a voce aonde e?}
+{144}{}{Você já esta alugando o quarto #1 de mim. Você quer que eu mostre
+ a você aonde e?}
 {145}{}{Com certeza.}
 {146}{}{Nao.}
 {147}{}{Sim.}
 {148}{}{Nao.}
 {149}{}{E este ainda e seu quarto. Tenha um bom dia.}
-{150}{}{Voce conhece the drill. Um dia sao $25. Uma semana sao $150.}
+{150}{}{Você conhece the drill. Um dia são $25. Uma semana são $150.}
 {151}{}{Nao.}
 {152}{}{Dia.}
 {153}{}{Semana.}
@@ -69,34 +69,34 @@
 {156}{}{Apenas uma noite.}
 {157}{}{Nao, obrigado.}
 {158}{}{Ok. O quarto #1 e seu. Tenha uma boa estada.}
-{159}{}{Sim, o que voce quer?}
+{159}{}{Sim, o que você quer?}
 {160}{}{Eu quero alugar um quarto.}
 {161}{}{Hnn.}
 {162}{}{Nao. Va embora.}
-{163}{}{Eu nao gosto da sua face. Eu nao acho que eu alugarei um quarto pra voce.}
+{163}{}{Eu não gosto da sua face. Eu não acho que eu alugarei um quarto pra você.}
 {164}{}{Eu realmente preciso de um lugar pra ficar.}
 {165}{}{Nao. Tenha uma boa noite.}
 {166}{}{Ok. Uma noite. $100.}
 {167}{}{O que! Isso e ultrajante!}
 {168}{}{Ok.}
-{169}{}{Lide com isso. Sim ou nao.}
+{169}{}{Lide com isso. Sim ou não.}
 {170}{}{Nao.}
 {171}{}{Ok.}
-{172}{}{Bom. Aqui vai voce. Quarto #1. Tenha uma boa noite, verifique a hora,
- sao 11 horas.}
-{173}{}{Voce matou o Killian, nao matou?}
+{172}{}{Bom. Aqui vai você. Quarto #1. Tenha uma boa noite, verifique a hora,
+ são 11 horas.}
+{173}{}{Você matou o Killian, não matou?}
 {174}{}{Sim, com certeza matei.}
-{175}{}{Nao, nao era eu. Realmente nao era.}
+{175}{}{Nao, não era eu. Realmente não era.}
 {176}{}{Hnn.}
-{177}{}{Saia! Voce e muito burro pra perceber o que voce fez, mas a minha
+{177}{}{Saia! Você e muito burro pra perceber o que você fez, mas a minha
  vida e o inferno agora!}
-{178}{}{Seu filho da puta. Eu nao consigo acreditar que voce matou ele. Ele
+{178}{}{Seu filho da puta. Eu não consigo acreditar que você matou ele. Ele
  era um bom homem, e agora eu tenho todos os tipos de problemas . . .
- saia, e nao volte.}
-{179}{}{Sim, o que quer que seja que voce disse, mas isso nao e o que eu
- ouvi. Melhor voce se comportar por aqui, ou eu pegarei a velha Betsy
+ saia, e não volte.}
+{179}{}{Sim, o que quer que seja que você disse, mas isso não e o que eu
+ ouvi. Melhor você se comportar por aqui, ou eu pegarei a velha Betsy
  e ram some buckshot up no seu traseiro.}
-{180}{}{Esta tarde. Eu espero que voce nao esteja desperdicando meu tempo.}
+{180}{}{Esta tarde. Eu espero que você não esteja desperdicando meu tempo.}
 {181}{}{Ei! Aquela geladeira e apenas pra fregueses!}
 {182}{}{Nao, obrigado.}
 {183}{}{Marcelles charges in para confrontar o saqueador!}

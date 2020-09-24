@@ -1,4 +1,4 @@
-{100}{}{Isto nao esta certo de modo algum.}
+{100}{}{Isto não esta certo de modo algum.}
 {101}{}{La vamos nos.}
 {102}{}{O mecanismo de disparo continua emperrando.}
 {103}{}{Isso e muito melhor.}
@@ -14,11 +14,11 @@
 {113}{}{Eu tive a intencao de fazer isso.}
 {114}{}{Por que isso continua acontecendo?}
 {115}{}{Meus olhos!}
-{116}{}{Voce nao e um cavaleiro.}
+{116}{}{Você não e um cavaleiro.}
 {117}{}{Eu preciso falar com um cavaleiro.}
-{118}{}{Eu nao entendo, as celulas de forca continuam shorting out.}
-{119}{}{Voce deveria voltar pra tras, estas podem ser perigosas.}
-{120}{}{Por favor nao me distraia.}
-{121}{}{Cuidado com aonde voce esta de pe.}
-{122}{}{Voce esta perdido?}
-{123}{}{Lamento, eu nao posso falar agora.}
+{118}{}{Eu não entendo, as celulas de forca continuam shorting out.}
+{119}{}{Você deveria voltar pra tras, estas podem ser perigosas.}
+{120}{}{Por favor não me distraia.}
+{121}{}{Cuidado com aonde você esta de pe.}
+{122}{}{Você esta perdido?}
+{123}{}{Lamento, eu não posso falar agora.}

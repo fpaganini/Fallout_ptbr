@@ -1,54 +1,54 @@
-{100}{}{Voce ve um homem surrado.}
-{101}{}{Obrigado estranho! Eu nao sei quantas semanas, talvez meses, aqueles facinoras me mantiveram
- aqui. Eu sou muito grato pela sua ajuda e eu tenho certeza que a Irmandade do Aco esta tambem.}
-{102}{}{Irmandade do Aco?}
-{103}{}{Bem, eu estou feliz que voce pode ajudar.}
-{104}{}{Voce vai estar ok?}
-{105}{}{Eu sou da Irmandade. Eu estive procurando por voce.}
+{100}{}{Você ve um homem surrado.}
+{101}{}{Obrigado estranho! Eu não sei quantas semanas, talvez meses, aqueles facinoras me mantiveram
+ aqui. Eu sou muito grato pela sua ajuda e eu tenho certeza que a Irmandade do Aço esta tambem.}
+{102}{}{Irmandade do Aço?}
+{103}{}{Bem, eu estou feliz que você pode ajudar.}
+{104}{}{Você vai estar ok?}
+{105}{}{Eu sou da Irmandade. Eu estive procurando por você.}
 {106}{}{De nada. Tchau.}
 {107}{}{Uh.}
-{108}{}{Voce nao ouviu sobre nos? Eu estou realmente surpreso. Voce nao deve sair muito frequentemente do Hub.
- Voce deveria sair mais. Nos estamos a noroeste daqui, no lado oeste do alcance da montanha.}
-{109}{}{Eu realmente aprecio que voce me ajude, mas por que voce esta tentando mentir pra mim? Voce nao acha
+{108}{}{Você não ouviu sobre nos? Eu estou realmente surpreso. Você não deve sair muito frequentemente do Hub.
+ Você deveria sair mais. Nos estamos a noroeste daqui, no lado oeste do alcance da montanha.}
+{109}{}{Eu realmente aprecio que você me ajude, mas por que você esta tentando mentir pra mim? Você não acha
  que eu conheco cada membro da ordem?}
 {110}{}{Talus me enviou.}
-{111}{}{Bem, voce nao me conhece porque eu acabei de me juntar.}
-{112}{}{Voce obviamente nao sabe o que voce esta falando.}
-{113}{}{Obrigado de novo! Se voce passar pela Irmandade, eu apreciairi se voce pudesse deixar o Talus saber
+{111}{}{Bem, você não me conhece porque eu acabei de me juntar.}
+{112}{}{Você obviamente não sabe o que você esta falando.}
+{113}{}{Obrigado de novo! Se você passar pela Irmandade, eu apreciairi se você pudesse deixar o Talus saber
  que eu estou okay. Eu tenho certeza que ele esta preocupado. Tchau, e tome cuidado.}
 {114}{}{Oh, Eu ficarei bem agora, obrigado. Eu tenho alguns amigos aqui com quem eu posso ficar enquanto eu recupero minhas
- forcas. Eu tentarei enviar uma palavra pra Irmandade pra deixar eles saberem que eu estou seguro agora, gracas a voce. Tchau.}
-{115}{}{Como… Oh, eu lamento. Voce deve ter passado por aquele "teste" que os Elders fizeram. Eu me esqueci completamente sobre isso.
- Bem, meus agradecimentos sao ainda mais profundos. Eu estou feliz que voce nunca desistiu. Minha vida poderia ter estado em jogo a qualquer momento. Deve ter levado um tempo pra voce me cacar. Esta cidade e enorme. Os obstaculos que voce ter tido de superar.}
-{116}{}{Bem, voce sabe. Eu sou simplesmente bom assim.}
-{117}{}{Na verdade, foi bem facil. Talus sabia onde voce foi.}
+ forcas. Eu tentarei enviar uma palavra pra Irmandade pra deixar eles saberem que eu estou seguro agora, gracas a você. Tchau.}
+{115}{}{Como… Oh, eu lamento. Você deve ter passado por aquele "teste" que os Elders fizeram. Eu me esqueci completamente sobre isso.
+ Bem, meus agradecimentos são ainda mais profundos. Eu estou feliz que você nunca desistiu. Minha vida poderia ter estado em jogo a qualquer momento. Deve ter levado um tempo pra você me cacar. Esta cidade e enorme. Os obstaculos que você ter tido de superar.}
+{116}{}{Bem, você sabe. Eu sou simplesmente bom assim.}
+{117}{}{Na verdade, foi bem fácil. Talus sabia onde você foi.}
 {118}{}{Apenas sortudo eu acho.}
-{119}{}{Bem, de nada. Eu estou apenas feliz que eu achei voce.}
+{119}{}{Bem, de nada. Eu estou apenas feliz que eu achei você.}
 {120}{}{Oh… Bem, eu ainda estou muito grato.}
-{121}{}{Eu creio que sim. Isso foi um bom trabalho manual o que voce fez.}
+{121}{}{Eu creio que sim. Isso foi um bom trabalho manual o que você fez.}
 {122}{}{Bem, eu estou feliz que eu pude ajudar.}
-{123}{}{Voce vai estar ok?}
-{124}{}{Bem, obrigado de novo. Eu vou ficar com um amigo meu ate que eu recupere minhas forcas. A proposito, eu
+{123}{}{Você vai estar ok?}
+{124}{}{Bem, obrigado de novo. Eu vou ficar com um amigo meu até que eu recupere minhas forcas. A proposito, eu
  tomaria cuidado aqui. Eu ouvi meus hospedeiros falando sobre algum Circulo dos Ladroes. Eu creio que nos
  estamos perto do territorio deles ou algo assim. Eu acho que isso poderia o por que de eles estarem
  falando sobre se mudar pra um local diferente. Tchau.}
 {125}{}{Bem, eu estou feliz que sua sorte se manteve. Eu ouvi algumas coisas ruins sobre a Cidade Antiga. Os
- skags sao assustados, eu acho que e algo mais.}
-{126}{}{O que quer que seja que voce disse. Eu estou apenas grato de estar livre de novo. Eu nao respondo bem a tortura.}
+ skags são assustados, eu acho que e algo mais.}
+{126}{}{O que quer que seja que você disse. Eu estou apenas grato de estar livre de novo. Eu não respondo bem a tortura.}
 {127}{}{Nao, mesmo, Talus me enviou.}
 {128}{}{Bem, eu estou feliz que eu pude ajudar.}
-{129}{}{Voce vai estar ok?}
-{130}{}{Talvez nao. Eu estive tendo problemas pra lembrar das coisas. Eu acho que foi algo com que eles me alimentaram.}
+{129}{}{Você vai estar ok?}
+{130}{}{Talvez não. Eu estive tendo problemas pra lembrar das coisas. Eu acho que foi algo com que eles me alimentaram.}
 {131}{}{Nao, mesmo, Talus me enviou.}
 {132}{}{Bem, eu estou feliz que eu pude ajudar.}
-{133}{}{Voce vai ficar okay?}
+{133}{}{Você vai ficar okay?}
 {134}{}{Ola de novo.}
 {135}{}{Eu estou saindo em breve. Apenas juntando minhas forcas.}
 {136}{}{Obrigado de novo.}
 
 // Tell me abouts
 {1000}{}{Irmandade}
-{1001}{}{Aco}
+{1001}{}{Aço}
 {1002}{}{Talus}
 
 // Answers

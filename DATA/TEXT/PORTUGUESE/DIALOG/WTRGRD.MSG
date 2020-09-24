@@ -1,45 +1,45 @@
-{100}{}{Voce ve o guarda da agua.}
+{100}{}{Você ve o guarda da agua.}
 {101}{}{Ola, }
 {102}{}{. }
-{103}{}{Ola. Como voce esta indo?}
+{103}{}{Ola. Como você esta indo?}
 {104}{}{Gahh!}
-{105}{}{Bem, Gahh! De volta a voce . . . Eu lamento que voce nunca aprendeu a
+{105}{}{Bem, Gahh! De volta a você . . . Eu lamento que você nunca aprendeu a
  falar. Nos poderiamos ter sido bons amigos.}
 {106}{}{Ouph.}
-{107}{}{Eu nao estou me sentindo muito bem. Alguem rachou minha cabeca com
+{107}{}{Eu não estou me sentindo muito bem. Alguem rachou minha cabeca com
  um cano grande. Eu fui ao medico mas minha cabeca ainda doi. Com certeza
  espero que alguem pegue o panaca que me atingiu.}
 {108}{}{Por que eles fizeram isso?}
 {109}{}{Guck.}
 {110}{}{Bem, eles me atacaram enquanto eu estava aqui bem tarde da noite. Geralmente
- eu vou pra casa as oito mais ou menos, mas eu estava ficando ate tarde desde que
+ eu vou pra casa as oito mais ou menos, mas eu estava ficando até tarde desde que
  alguem teve agua roubada e eu estava verificando nossos suprimentos. A proxima
  coisa que eu sei e que eu acordo no laboratorio medico com um grande calombo na
  minha cabeca. As coisas estao ficando loucas por aqui. Alguem vai ser morto
- por causa da agua em breve e eu nao sei o que nos podemos fazer a respeito.}
+ por causa da agua em breve e eu não sei o que nos podemos fazer a respeito.}
 {111}{}{Eu verei o que eu posso fazer.}
-{112}{}{Lamento. Eu espero que voce se sinta melhor em breve.}
+{112}{}{Lamento. Eu espero que você se sinta melhor em breve.}
 {113}{}{Aqui esta sua agua.}
 {114}{}{Aqui esta sua racao por hoje.}
-{115}{}{Ei! O que voce pensa que voce esta fazendo?!?}
-{116}{}{Por favor nao leve tantos suprimentos. Nos precisamos desses.}
-{117}{}{Voce registra seus relatorios no sistema de computador da biblioteca.
- Voce deveria retornar ao Superivsor para finalizar seu progresso.}
+{115}{}{Ei! O que você pensa que você esta fazendo?!?}
+{116}{}{Por favor não leve tantos suprimentos. Nos precisamos desses.}
+{117}{}{Você registra seus relatorios no sistema de computador da biblioteca.
+ Você deveria retornar ao Superivsor para finalizar seu progresso.}
 # TRANSLATION NOTE
 # The player-character's name is inserted by code between lines 118 and 119.
 {118}{}{Bom dia, }
 {119}{}{.}
 {120}{}{Oi. Como as coisas tem estado ultimamente?}
-{121}{}{Diga, o que voce esta fazendo aqui?}
-{122}{}{Bem, todos estao bastante nervosos, claro, mas nos nao tivemos muitos
- problemas. Eu espero que voce ache um novo chip em breve.}
+{121}{}{Diga, o que você esta fazendo aqui?}
+{122}{}{Bem, todos estao bastante nervosos, claro, mas nos não tivemos muitos
+ problemas. Eu espero que você ache um novo chip em breve.}
 {123}{}{Eu entrego as racoes de agua, claro. E eu faco ter certeza que ninguem tente levar
- mais agua do que a cota deles. embora eu nao ache que nos teremos qualquer problema.}
+ mais agua do que a cota deles. embora eu não ache que nos teremos qualquer problema.}
 {124}{}{Hmm. Bem, continue o bom trabalho.}
-{125}{}{Voce tambe. Eu espero que voce ache esse chip em breve para que todos nos possamos
+{125}{}{Você tambe. Eu espero que você ache esse chip em breve para que todos nos possamos
  voltar a uma vida normal.}
-{126}{}{Voce e bem-vindo pra levar suprimentos se voce precisa deles, ja que seu trabalho
- e tao importante, mas por favor nao demore demais. Nos nao temos muitos restantes.}
+{126}{}{Você e bem-vindo pra levar suprimentos se você precisa deles, já que seu trabalho
+ e tao importante, mas por favor não demore demais. Nos não temos muitos restantes.}
 {127}{}{Eu posso levar alguns suprimentos?}
 
 {1000}{}{Racao}
@@ -47,11 +47,11 @@
 {1002}{}{Suprimentos}
 {1003}{}{Agua}
 
-{1100}{}{Eu entrego racoes de agua de manha. Voce nao deveria precisar delas, agora que
- voce vai estar no lado de fora.}
-{1101}{}{Eu entrego racoes de agua de manha. Voce nao deveria precisar delas, agora que
- voce vai estar no lado de fora.}
-{1102}{}{Nos so temos alguns suprimentos restantes. Voce pode levar alguns deles se
- voce precisa delas pra sua missao, mas por favor nao leve demais.}
-{1103}{}{Eu entrego racoes de agua de manha. Voce nao deveria precisar delas, agora que
- voce vai estar no lado de fora.}
+{1100}{}{Eu entrego racoes de agua de manha. Você não deveria precisar delas, agora que
+ você vai estar no lado de fora.}
+{1101}{}{Eu entrego racoes de agua de manha. Você não deveria precisar delas, agora que
+ você vai estar no lado de fora.}
+{1102}{}{Nos so temos alguns suprimentos restantes. Você pode levar alguns deles se
+ você precisa delas pra sua missao, mas por favor não leve demais.}
+{1103}{}{Eu entrego racoes de agua de manha. Você não deveria precisar delas, agora que
+ você vai estar no lado de fora.}

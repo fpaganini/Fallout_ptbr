@@ -51,7 +51,7 @@
 {149}{}{My name is Dane. I am a Viking. I like ducks. I rape and pillage! Will you rape and pillage with me?}
 {150}{}{Oh God! Master, not God! At least I remember my own name. At least I still have that. Most of the other failures didn't, before they shot them. Not pretty corpses either. Nightkin target practice!}
 {151}{}{And then there were the ones who lost their minds completely. I wish they were dead.}
-{152}{}{I think I'll call my first child Fallout. I had a son once, but the radiation ate him in his mommy's womb.}
+{152}{}{I think I'll call my first child Fallout. I had a son once, but the radiation até him in his mommy's womb.}
 {153}{}{Asshole! You just laughed! You didn't give a shit about him or his mother before!}
 {154}{}{Mutants can't breed. And we're all going to become mutants! Don't you know what that means! The world will be sterile! Sterile! Sterile! We won't breed! We'll all die!}
 {155}{}{Stop him! Stop him! Stop him! Somebody make him stop!}

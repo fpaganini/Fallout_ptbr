@@ -1,22 +1,22 @@
-{100}{}{Voce ve um Cantor das Criancas.}
+{100}{}{Você ve um Cantor das Crianças.}
 {101}{}{O Mestre perdoara seus pecados! Juntem-se a nos e sejam libertos! Louvor
  ao Mestre e a misericordia dele!}
 {102}{}{Ola, amigo! A visao do Mestre me fez verdadeiramente vivo pela primeira
- vez. Eu posso compartilhar minha estoria maravilhosa com voce?}
+ vez. Eu posso compartilhar minha estoria maravilhosa com você?}
 {103}{}{Aonde eu poderia encontar este Mestre?}
 {104}{}{Va em frente.}
 {105}{}{Quem esta no comando aqui?}
-{106}{}{Visao do Mestre? E melhor do que suco de radscorpion?}
-{107}{}{Acaba em morte? Se nao acabar, eu posso mudar isso!}
+{106}{}{Visão do Mestre? E melhor do que suco de radscorpion?}
+{107}{}{Acaba em morte? Se não acabar, eu posso mudar isso!}
 {108}{}{Mim gostar estoria!}
 {109}{}{O Mestre olha pra cima! O Mestre se senta abaixo! Observem a Paz e
  a Unidade crescerem!}
 {110}{}{Havia uma vez, um homem que estava tao cheio de odio que ele quase morreu.
  Mas agora . . . Louvem o Mestre! Louvem a Chama Sagrada! Louvem a Videira
  da Vida! Whee!}
-{111}{}{Voce esta no comando, amigo, mas o Mestre e seu guia. Louve o
+{111}{}{Você esta no comando, amigo, mas o Mestre e seu guia. Louve o
  Mestre! Louve a Chama Sagrada que ilumina nosso caminho!}
-{112}{}{A visao do Mestre e muito melhor do que drink, ou ate mesmo sexo!
+{112}{}{A visao do Mestre e muito melhor do que drink, ou até mesmo sexo!
  Ohhhh! Ele transcende ambos, o vicio e a virtude! Ahhhh! O Mestre e
  ambos, pai e amante para nos todos!}
 {113}{}{Nenhuma estoria acaba em morte, tanto quanto o Mestre estiver aqui pra nos proteger!}

@@ -1,14 +1,14 @@
-{100}{}{Voce ve uma jovem mulher muito bonita.}
-{101}{}{Voce ve a Christine, a esposa do Michael.}
-{102}{}{Ola? Eu posso ajudar voce?}
-{103}{}{Quem e voce?}
+{100}{}{Você ve uma jovem mulher muito bonita.}
+{101}{}{Você ve a Christine, a esposa do Michael.}
+{102}{}{Ola? Eu posso ajudar você?}
+{103}{}{Quem e você?}
 {104}{}{Quem esta no comando por aqui?}
-{105}{}{Voce pode me dizer um pouco sobre a area?}
+{105}{}{Você pode me dizer um pouco sobre a area?}
 {106}{}{Nao, obrigado.}
-{107}{}{Voce minha mamae?}
+{107}{}{Você minha mamae?}
 {108}{}{Meu nome e Christine, eu vivo aqui com meu marido Michael.}
 {109}{}{Razor mantem a trilha da maior parte das coisas com os Blades, e nos ajuda a organizar a nos mesmos.}
-{110}{}{Michael e eu acabamos de mudar para aqui, entoa eu nao vi muito da area. Eu ouvi sobre uma grande igreja ao sul, mas soa como a maioria dos rumores.}
+{110}{}{Michael e eu acabamos de mudar para aqui, entoa eu não vi muito da area. Eu ouvi sobre uma grande igreja ao sul, mas soa como a maioria dos rumores.}
 {111}{}{Ha algo mais que eu deveria saber?}
 
 #
@@ -20,5 +20,5 @@
 {114}{}{O S M R                                                                   C D E D B D Wings}
 {115}{}{Y I B M R Ducks}
 
-{116}{}{Com o que mais eu posso ajudar voce?}
-{117}{}{Nao, eu nao sou sua mamae. Agora mova-se e va brincar.}
+{116}{}{Com o que mais eu posso ajudar você?}
+{117}{}{Nao, eu não sou sua mamae. Agora mova-se e va brincar.}

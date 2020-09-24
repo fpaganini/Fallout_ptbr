@@ -1,33 +1,33 @@
-{100}{}{Voce ve o Garret.}
-{101}{}{Voce nao deveria estar aqui durante o dia. Deixa o Set infeliz. Volte
+{100}{}{Você ve o Garret.}
+{101}{}{Você não deveria estar aqui durante o dia. Deixa o Set infeliz. Volte
  de noite.}
 {102}{}{Oh, OK.}
 {103}{}{Ele devera aprender a lidar com os problemas dele.}
-{104}{}{Isso nao e importante. O que importante e que eu falo com ele.}
-{105}{}{Voce deveria falar com o Set.}
-{106}{}{Voce recebe: uma espingarda, 10 cartuchos de espingarda, 4 sinalizadores,
+{104}{}{Isso não e importante. O que importante e que eu falo com ele.}
+{105}{}{Você deveria falar com o Set.}
+{106}{}{Você recebe: uma espingarda, 10 cartuchos de espingarda, 4 sinalizadores,
  4 garrafas de coca-cola e $200.}
-{107}{}{Voce recebe: uma espingarda, 10 cartuchos de espingarda e $100.}
-{108}{}{Voce recebe: 4 sinalizadores, 4 garrafas de coca-cola e $50.}
-{109}{}{Melhor voce sair agora.}
-{110}{}{Vejo voce por ai.}
-{111}{}{Isto e tudo que eu ganho? Eu mereco mais, e e melhor voce dar pra mim!}
+{107}{}{Você recebe: uma espingarda, 10 cartuchos de espingarda e $100.}
+{108}{}{Você recebe: 4 sinalizadores, 4 garrafas de coca-cola e $50.}
+{109}{}{Melhor você sair agora.}
+{110}{}{Vejo você por ai.}
+{111}{}{Isto e tudo que eu ganho? Eu mereco mais, e e melhor você dar pra mim!}
 {112}{}{Yerg.}
-{113}{}{Voce precisa sair daqui . . . imediatamente.}
+{113}{}{Você precisa sair daqui . . . imediatamente.}
 {114}{}{Siga-me. I'll see to your reward.}
-{115}{}{Eu espero que nao, para o seu bem. Set nao estava muito feliz de ter
- que usar voce. Poderia ser uma boa ideia sair de Necropolis . . . em breve.}
-{116}{}{Eu disse a voce pra sair.}
+{115}{}{Eu espero que não, para o seu bem. Set não estava muito feliz de ter
+ que usar você. Poderia ser uma boa ideia sair de Necropolis . . . em breve.}
+{116}{}{Eu disse a você pra sair.}
 {117}{}{Que seja.}
 {118}{}{Talvez. Hmm. Aqui, leve isto tambem.}
-{119}{}{Voce recebe $100.}
+{119}{}{Você recebe $100.}
 {120}{}{Agora saia.}
 {121}{}{Hmm. Algumas coisas desapareceram do refrigerador. Parece que nos fomos
  roubados.}
-{200}{}{Garret ignora voce.}
+{200}{}{Garret ignora você.}
 {201}{}{Aqui esta sua recompensa.}
-{202}{}{Voce recebe uma grande recompensa.}
-{203}{}{Voce recebe: }
+{202}{}{Você recebe uma grande recompensa.}
+{203}{}{Você recebe: }
 {204}{}{uma espingarda}
 {205}{}{alguns cartuchos de espingarda}
 {206}{}{alguns sinalizadores}

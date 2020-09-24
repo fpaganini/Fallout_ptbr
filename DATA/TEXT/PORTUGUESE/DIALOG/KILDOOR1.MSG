@@ -1,5 +1,5 @@
 {100}{}{A porta esta trancada.}
-{101}{}{Voce abre a tranca.}
-{102}{}{Voce tenta abrir a tranca, mas falha.}
-{103}{}{Enquanto abria a tranca voce conseguiu to tweak the tumblers e emperra-la.}
-{104}{}{A porta nao esta trancada.}
+{101}{}{Você abre a tranca.}
+{102}{}{Você tenta abrir a tranca, mas falha.}
+{103}{}{Enquanto abria a tranca você conseguiu to tweak the tumblers e emperra-la.}
+{104}{}{A porta não esta trancada.}

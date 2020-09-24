@@ -1,7 +1,7 @@
-{100}{}{Ei, voce nao deveria estar aqui Iniciado.}
-{101}{}{O que voce esta fazendo aqui?}
-{102}{}{Estes sao os quarters dos Paladinos, saia.}
-{103}{}{Por favor saia, voce nao deveria estar aqui.}
-{104}{}{Ei, nao sao permitidos Iniciados aqui.}
+{100}{}{Ei, você não deveria estar aqui Iniciado.}
+{101}{}{O que você esta fazendo aqui?}
+{102}{}{Estes são os quarters dos Paladinos, saia.}
+{103}{}{Por favor saia, você não deveria estar aqui.}
+{104}{}{Ei, não são permitidos Iniciados aqui.}
 {105}{}{Nao ha treinamento a noite.}
-{105}{}{Ei, estes nao sao os quarters dos Iniciados.}
+{105}{}{Ei, estes não são os quarters dos Iniciados.}

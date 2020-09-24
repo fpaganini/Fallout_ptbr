@@ -1,28 +1,28 @@
-{100}{}{Voce ve a Gwen, uma bandida do deserto.}
-{101}{}{Eu sou Gwen. Eu sou uma das conselheiras do Garl. Quem e voce?}
+{100}{}{Você ve a Gwen, uma bandida do deserto.}
+{101}{}{Eu sou Gwen. Eu sou uma das conselheiras do Garl. Quem e você?}
 {102}{}{Eu sou }
-{103}{}{. O que voce faz por aqui?}
-{104}{}{Eu nao sou ninguem especial. Voce pode me dizer sobre seu acampamento?}
+{103}{}{. O que você faz por aqui?}
+{104}{}{Eu não sou ninguem especial. Você pode me dizer sobre seu acampamento?}
 {105}{}{Hroo?}
 {106}{}{Eu sou aquela queo will sweep you off your feet, docinho.}
 {107}{}{Como uma conselheira, eu faco ter certeza de que nenhum low-lifes
  causem qualquer problema para o Garl.}
-{108}{}{E como voce faz isso?}
-{109}{}{Voce e que exercito?}
-{110}{}{Eu duvido que voce conseguiria fazer alguma pra parar alguem.}
+{108}{}{E como você faz isso?}
+{109}{}{Você e que exercito?}
+{110}{}{Eu duvido que você conseguiria fazer alguma pra parar alguem.}
 {111}{}{Parece que todos os low-lifes vivem aqui.}
-{112}{}{Hmpf. Se voce nao e ninguem especial entao eu nao me aborrecerei
- falando com voce. Vai embora.}
-{113}{}{Eu impeco idiotas como voce de aborrecer o Garl. Vai embora!}
-{114}{}{Eu tenho modos de fazer com que certos indesejaveis nao estejam mais aqui.}
-{115}{}{Eu posso ver que eu estava errado. Voce provavelmente conseguiria fazer
+{112}{}{Hmpf. Se você não e ninguem especial entao eu não me aborrecerei
+ falando com você. Vai embora.}
+{113}{}{Eu impeco idiotas como você de aborrecer o Garl. Vai embora!}
+{114}{}{Eu tenho modos de fazer com que certos indesejaveis não estejam mais aqui.}
+{115}{}{Eu posso ver que eu estava errado. Você provavelmente conseguiria fazer
  seu trabalho bem. Adeus.}
 {116}{}{Prove!}
 {117}{}{Morra!}
-{118}{}{Foi ha tanto tempo desde que eu tive uma boa luta. Muito ruim que voce
- vai perder. Aqui esta a prova da minha tecnica!}
-{119}{}{Voce se arrependera dessa declaracao. Sera sua ultima!}
-{120}{}{Se isso e o melhor que voce pode fazer, entao eu estarei fazendo ao mundo
- um favor matando voce.}
+{118}{}{Foi ha tanto tempo desde que eu tive uma boa luta. Muito ruim que você
+ vai perder. Aqui esta a prova da minha técnica!}
+{119}{}{Você se arrependera dessa declaracao. Sera sua ultima!}
+{120}{}{Se isso e o melhor que você pode fazer, entao eu estarei fazendo ao mundo
+ um favor matando você.}
 {121}{}{Eu e este exercito!}
-{122}{}{Voce me chateia. Saia antes que eu fique verdadeiramente zangada.}
+{122}{}{Você me chateia. Saia antes que eu fique verdadeiramente zangada.}

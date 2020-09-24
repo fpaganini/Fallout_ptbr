@@ -1,2 +1,2 @@
-{100}{}{Voce ve o Sammy.}
-{101}{}{Nos nao podemos sair ate que todos os radscorpions estejam mortos.}
+{100}{}{Você ve o Sammy.}
+{101}{}{Nos não podemos sair até que todos os radscorpions estejam mortos.}

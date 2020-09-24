@@ -3,4 +3,4 @@
 {101}{}{O computador parece terrivelmente danificado e irreparavel.}
 {102}{}{Muitos circuitos estao fritos por causa de uma carga de PEM.}
 {103}{}{Nao funciona.}
-{104}{}{Voce corta suas maos no gabinete.}
+{104}{}{Você corta suas mãos no gabinete.}

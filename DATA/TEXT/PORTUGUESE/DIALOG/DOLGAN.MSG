@@ -1,32 +1,32 @@
-{100}{}{Voce ve o Snake.}
-{101}{}{Voce ve o Dolgan.}
+{100}{}{Você ve o Snake.}
+{101}{}{Você ve o Dolgan.}
 {102}{}{}
 {103}{}{}
-{104}{}{Voce ve um membro dos Blades.}
-{105}{}{Voce ve um membro dos Blades.}
-{106}{}{Voce acha que poderiam ser Livros.}
-{107}{}{Voce acha que poderiam ser Cicatrizes.}
-{108}{}{Voce acha que poderia ser o Gunner.}
-{109}{}{Voce acha que poderia ser o Twitch.}
-{110}{}{Voce acha que poderia ser o Hammer.}
-{111}{}{Voce acha que poderia ser a Razor.}
+{104}{}{Você ve um membro dos Blades.}
+{105}{}{Você ve um membro dos Blades.}
+{106}{}{Você acha que poderiam ser Livros.}
+{107}{}{Você acha que poderiam ser Cicatrizes.}
+{108}{}{Você acha que poderia ser o Gunner.}
+{109}{}{Você acha que poderia ser o Twitch.}
+{110}{}{Você acha que poderia ser o Hammer.}
+{111}{}{Você acha que poderia ser a Razor.}
 {112}{}{Desapareca! Isto e so para lutadores de verdade.}
-{113}{}{Entao, voce acha que voce consegue vencer Tangler e os fracotes dele?
- Aqui, eu ensinarei a voce como usar essa lamina.}
-{114}{}{Agora que voce esta um pouco melhor nisso va chutar a bunda do
- Tangler ate o proximo ano por mim.}
-{115}{}{Otimo trabalho em hacking aqueles Rippers. O que eu posso fazer por voce?}
-{116}{}{Voce pode me ensinar mais algumas tecnicas com laminas?}
+{113}{}{Entao, você acha que você consegue vencer Tangler e os fracotes dele?
+ Aqui, eu ensinarei a você como usar essa lamina.}
+{114}{}{Agora que você esta um pouco melhor nisso va chutar a bunda do
+ Tangler até o proximo ano por mim.}
+{115}{}{Otimo trabalho em hacking aqueles Rippers. O que eu posso fazer por você?}
+{116}{}{Você pode me ensinar mais algumas técnicas com laminas?}
 {117}{}{Como eu consigo entrar nos Gun Runners?}
 {118}{}{Nada, obrigado.}
 {119}{}{Coisa certa. Mas levara a maior parte do dia para melhorar um pouco.
- Voce ainda quer isso?}
+ Você ainda quer isso?}
 {120}{}{Sim.}
 {121}{}{Nao.}
-{122}{}{Ai vai voce. Voce mostrou um pouco de melhora. Boa sorte
- pra voce.}
-{123}{}{Coisa certa. Volte quando voce quiser mais treinamento.}
-{124}{}{Parece que nos deixamos um tolo entrar. Bem, se voce quer entrar
+{122}{}{Ai vai você. Você mostrou um pouco de melhora. Boa sorte
+ pra você.}
+{123}{}{Coisa certa. Volte quando você quiser mais treinamento.}
+{124}{}{Parece que nos deixamos um tolo entrar. Bem, se você quer entrar
  no lugar deles, ha uma pequena break no fosso deles. Procure por ela
- e corra feito louco. Voce pode ate mesmo conseguir passar.}
+ e corra feito louco. Você pode até mesmo conseguir passar.}
 {125}{}{Obrigado.}

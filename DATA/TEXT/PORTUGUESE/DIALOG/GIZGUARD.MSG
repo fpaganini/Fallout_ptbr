@@ -4,28 +4,28 @@
 {103}{}{Peguem eles!}
 {104}{}{Pare de ander furtivamente por ai!}
 {105}{}{No sneaking around in here!}
-{106}{}{Ei, voce! Pare de tentar se esconder, ou saia!}
+{106}{}{Ei, você! Pare de tentar se esconder, ou saia!}
 {107}{}{O que?}
-{108}{}{Ei, eu posso fazer a voce algumas perguntas?}
+{108}{}{Ei, eu posso fazer a você algumas perguntas?}
 {109}{}{Can you spare a few caps?}
 {110}{}{Deixe pra la, lamento.}
 {111}{}{Uuuh?}
 {112}{}{Eu estou no dever. Faça rapidamente.}
 {113}{}{Nao. Vai embora.}
-{114}{}{Voce pode me dizer algo a respeito do seu chefe?}
+{114}{}{Você pode me dizer algo a respeito do seu chefe?}
 {115}{}{O que mais ha por aqui nesta cidade?}
-{116}{}{O que voce e, estupido? Vai embora.}
+{116}{}{O que você e, estupido? Vai embora.}
 {117}{}{Nao. Va implorar em algum outro lugar.}
 {118}{}{Buzz off.}
-{119}{}{Nos nao temos um uso para paupers aqui.}
-{120}{}{Gizmo e um homem justo. O pagamento e bom, o trabalho e facil. Nao cause
+{119}{}{Nos não temos um uso para paupers aqui.}
+{120}{}{Gizmo e um homem justo. O pagamento e bom, o trabalho e fácil. Nao cause
  problemas e todos ficarao felizes.}
 {121}{}{Va beber alguns drinks no Skum Pit. Bom grog. Abre as quatro.
  Agora me deixe em paz.}
-{122}{}{Por que voce nao vai fazer compras no Killian's? A loja dele e a sudoeste
+{122}{}{Por que você não vai fazer compras no Killian's? A loja dele e a sudoeste
  daqui. Agora desapareca.}
 {123}{}{Fale com os negociantes.}
-{124}{}{Ei, se voce quer ter um pouco de diversao, pare na Crash House e pergunte
+{124}{}{Ei, se você quer ter um pouco de diversao, pare na Crash House e pergunte
  por Sinthia. Ela vale o preco.}
 {125}{}{Sem trapaca.}
 {126}{}{Devedores leverao um tiro.}
@@ -35,4 +35,4 @@
 {130}{}{Acho que eu visitarei Sinthia esta noite.}
 {131}{}{Saia daqui, seu retardado.}
 {132}{}{Sem armas aqui!}
-{133}{}{Ei! Voce! Guarde sua arma!}
+{133}{}{Ei! Você! Guarde sua arma!}

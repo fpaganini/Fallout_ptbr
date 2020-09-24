@@ -1,4 +1,4 @@
-{100}{}{Voce ve um cidadao de Shady Sands.}
+{100}{}{Você ve um cidadao de Shady Sands.}
 {101}{}{Bem-vindo a Shady Sands, estranho!}
 {102}{}{Uh, obrigado.}
 {103}{}{Qual e o problema com este lugar?}
@@ -7,11 +7,11 @@
 {106}{}{Como voces sobrevivem fora daqui?}
 {107}{}{Quem e seu líder?}
 {108}{}{Nos temos fazendas e irrigaçao e nos criamos Brahmin. Todo mundo
- contribui com suas tecnicas para fazer algo util.}
-{109}{}{Aradesh e nosso elder atual. Com a experiencia dele ele ajuda a
+ contribui com suas técnicas para fazer algo util.}
+{109}{}{Aradesh e nosso elder atual. Com a experiência dele ele ajuda a
  liderar a comunidade.}
 {110}{}{Oi.}
 {111}{}{Ola.}
-{112}{}{Como voce esta?}
-{113}{}{Bom ver voce.}
+{112}{}{Como você esta?}
+{113}{}{Bom ver você.}
 {114}{}{Bom dia.}

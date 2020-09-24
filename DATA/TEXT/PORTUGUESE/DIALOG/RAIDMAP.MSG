@@ -1,4 +1,4 @@
-{100}{}{Voce ganha }
-{101}{}{ pontos de experiencia por libertar Tandi.}
-{102}{}{ pontos de experiencia por fazer amizade com os Khans.}
-{103}{}{ pontos de experiencia pelo resgate de um escravo.}
+{100}{}{Você ganha }
+{101}{}{ pontos de experiência por libertar Tandi.}
+{102}{}{ pontos de experiência por fazer amizade com os Khans.}
+{103}{}{ pontos de experiência pelo resgate de um escravo.}

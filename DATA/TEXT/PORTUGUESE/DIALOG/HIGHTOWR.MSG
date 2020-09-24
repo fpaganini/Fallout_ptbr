@@ -1,28 +1,28 @@
-{100}{}{Voce ve o Daren Hightower.}
-{101}{}{Quem e voce?!? E quem deixou voce entrar?}
+{100}{}{Você ve o Daren Hightower.}
+{101}{}{Quem e você?!? E quem deixou você entrar?}
 {102}{}{Eu tenho uma mensagem de um amigo.}
-{103}{}{Sua vida esta em perigo, e eu preciso falar com voce.}
+{103}{}{Sua vida esta em perigo, e eu preciso falar com você.}
 {104}{}{Meu nome e }
 {105}{}{. Leon me deixou entrar.}
 {106}{}{Meu nome?... Morte!}
 {107}{}{Eu sou seu pior pesadelo.}
 {108}{}{BoBo?}
-{109}{}{Eu nao tenho amigos. Qual e sua mensagem?}
+{109}{}{Eu não tenho amigos. Qual e sua mensagem?}
 {110}{}{Decker envia his regards.}
-{111}{}{Um... Bob me enviou... ah... ele disse que voce pagou 100 tampinhas a mais pra ele e me enviou pra da-las de volta a voce.}
+{111}{}{Um... Bob me enviou... ah... ele disse que você pagou 100 tampinhas a mais pra ele e me enviou pra da-las de volta a você.}
 {112}{}{Nao ha mensagem realmente, eu apenas estava tentando conversar pra sair fora desta.}
-{113}{}{Eu amo voce.}
-{114}{}{Me diga algo que eu nao saiba, seu retardado!}
-{115}{}{Retardado? Eu estava tentando ajudar voce. Voce pode ir pro inferno.}
-{116}{}{Decker quer voce morto e ele me contratou pra faze-lo.}
-{117}{}{Voce obviamente nao sabe que voce esta para morrer!}
+{113}{}{Eu amo você.}
+{114}{}{Me diga algo que eu não saiba, seu retardado!}
+{115}{}{Retardado? Eu estava tentando ajudar você. Você pode ir pro inferno.}
+{116}{}{Decker quer você morto e ele me contratou pra faze-lo.}
+{117}{}{Você obviamente não sabe que você esta para morrer!}
 {118}{}{Esqueca. Eu estava apenas tentando ajudar.}
-{119}{}{Foi um prazer encontrar voce }
-{120}{}{. Agora o meu assistente Leon guiara voce pra fora da minha casa.}
-{121}{}{Eu nao conheco qualquer Bob, mas eu pegarei as 100 tampinhas e voce pode sair.}
+{119}{}{Foi um prazer encontrar você }
+{120}{}{. Agora o meu assistente Leon guiara você pra fora da minha casa.}
+{121}{}{Eu não conheco qualquer Bob, mas eu pegarei as 100 tampinhas e você pode sair.}
 {122}{}{Vai pro inferno!}
-{123}{}{OK, aqui vai voce. Obrigado pelo seu tempo.}
-{124}{}{Uhh...  Aquele BASTARDO do Bob nao me deu tampinhas o bastante! Eu as pegarei pra voce Sr. Hightower, de verdade, eu pegarei!}
+{123}{}{OK, aqui vai você. Obrigado pelo seu tempo.}
+{124}{}{Uhh...  Aquele BASTARDO do Bob não me deu tampinhas o bastante! Eu as pegarei pra você Sr. Hightower, de verdade, eu pegarei!}
 {125}{}{Nao se preocupe com isso. Eu sempre aprecio estranhos vindo na minha casa e me dando dinheiro. Leon, mostre a porta pra este tolo!
  Volte de novo, e meus guardas terao sua cabeca!}
 {126}{}{Leon, mostre a porta pra este tolo! Volte de novo, e meus guardas terao sua cabeca!}

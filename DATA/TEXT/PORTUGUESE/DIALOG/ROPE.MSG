@@ -1,7 +1,7 @@
-{100}{}{O fosso do elevador nao e easily climbed sem uma corda.}
-{101}{}{Voce joga uma corda com sucesso no fosso do elevador.}
-{102}{}{Voce nao consegue descer no fosso usando apenas o metal beam.}
-{103}{}{Voce prende a corda com sucesso no metal beam.}
-{104}{}{Nao e facil de descer no fosso do elevador sem uma corda.}
+{100}{}{O fosso do elevador não e easily climbed sem uma corda.}
+{101}{}{Você joga uma corda com sucesso no fosso do elevador.}
+{102}{}{Você não consegue descer no fosso usando apenas o metal beam.}
+{103}{}{Você prende a corda com sucesso no metal beam.}
+{104}{}{Nao e fácil de descer no fosso do elevador sem uma corda.}
 {105}{}{You successfully sling a rope down no fosso do elevador.}
 {106}{}{Nao ha necessidade de jogar outra corda no fosso do elevador.}

@@ -1,5 +1,5 @@
-{100}{}{Voce ve um prisoneiro hapless.}
-{101}{}{Estas pessoas aqui sao loucas. Me ajude a sair daqui!}
+{100}{}{Você ve um prisoneiro hapless.}
+{101}{}{Estas pessoas aqui são loucas. Me ajude a sair daqui!}
 {102}{}{De modo algum!}
 {103}{}{Morra!}
 {104}{}{Okay.}

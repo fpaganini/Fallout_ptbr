@@ -1,23 +1,23 @@
-{100}{}{Voce ve um guarda.}
+{100}{}{Você ve um guarda.}
 {101}{}{Qual e seu negocio aqui?}
 {102}{}{Urr?}
 {103}{}{Eu estou apenas olhando.}
 {104}{}{Eu quero comprar algumas armas.}
 {105}{}{}
 {106}{}{}
-{107}{}{Eu nao tenho paciencia para piadas. Se voce nao sair
- desta area agora eu atirarei em voce!}
-{108}{}{Nos nao gostamos de pessoas inxeridas. Vai embora agora e eu nao atirarei em voce.}
+{107}{}{Eu não tenho paciencia para piadas. Se você não sair
+ desta area agora eu atirarei em você!}
+{108}{}{Nos não gostamos de pessoas inxeridas. Vai embora agora e eu não atirarei em você.}
 {109}{}{}
 {110}{}{}
-{111}{}{Voce cheira como um brahmin mas eu aposto que voce nao e tao inteligente.}
+{111}{}{Você cheira como um brahmin mas eu aposto que você não e tao inteligente.}
 {112}{}{}
-{113}{}{Ahh, muito bom. Fregueses sao sempre bem-vindos.
+{113}{}{Ahh, muito bom. Fregueses são sempre bem-vindos.
  Entre mas por favor mantenha suas armas holstered.
- Va achar o Zack, ele pode set you up com qualquer coisa que voce precise.}
+ Va achar o Zack, ele pode set you up com qualquer coisa que você precise.}
 {114}{}{}
 {115}{}{Eu preciso falar com seu chefe. E muito importante.}
-{116}{}{Oh, ok. Gabriel falara com voce. Entre.}
-{117}{}{Sim, eu lembro de voce. Entre.}
+{116}{}{Oh, ok. Gabriel falara com você. Entre.}
+{117}{}{Sim, eu lembro de você. Entre.}
 {118}{}{Eu preciso falar com o Gabriel. E muito importante.}
 {119}{}{Eu quero comprar armas do Zack.}

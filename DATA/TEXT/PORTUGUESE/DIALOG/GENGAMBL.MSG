@@ -1,23 +1,23 @@
-{100}{}{Voce ve um jogador.}
+{100}{}{Você ve um jogador.}
 {101}{}{Ack! It's a stick up!}
-{102}{}{Eu nao quero qualquer problema com voce.}
+{102}{}{Eu não quero qualquer problema com você.}
 {103}{}{Ele tem uma arma!}
 {104}{}{Ela tem uma arma!}
-{105}{}{Oh, e voce.}
-{106}{}{Eu ouvi muitas coisas ruins sobre voce. Bacana.}
-{107}{}{Voce gotten off pra um mal comeco, huh?}
-{108}{}{Voce pessoa horrivel. Matar aquelas criancas. Eu nao consigo acreditar.}
-{109}{}{Eu ouvi que ha alguns cacadores de recompensas atras de voce. Voce
+{105}{}{Oh, e você.}
+{106}{}{Eu ouvi muitas coisas ruins sobre você. Bacana.}
+{107}{}{Você gotten off pra um mal comeco, huh?}
+{108}{}{Você pessoa horrivel. Matar aquelas crianças. Eu não consigo acreditar.}
+{109}{}{Eu ouvi que ha alguns cacadores de recompensas atras de você. Você
  matou eles tambem?}
 {110}{}{Nao fale comigo.}
-{111}{}{Puxa, voce matou o prefeito, nao matou?}
-{112}{}{Oh, quando Killian estava vivo eu nao gostava deste lugar. Agora esta
+{111}{}{Puxa, você matou o prefeito, não matou?}
+{112}{}{Oh, quando Killian estava vivo eu não gostava deste lugar. Agora esta
  OK vir aqui.}
 {113}{}{Vai embora.}
-{114}{}{Ei, como voce esta indo hoje? Eu estou OK.}
-{115}{}{Ei, como voce esta indo esta noite? Eu estou OK.}
+{114}{}{Ei, como você esta indo hoje? Eu estou OK.}
+{115}{}{Ei, como você esta indo esta noite? Eu estou OK.}
 {116}{}{Me deixe em paz. Eu estou numa hot streak.}
-{117}{}{Baby, estas maquinas de slot sao minhas.}
+{117}{}{Baby, estas maquinas de slot são minhas.}
 {118}{}{Me de algo pra beber, will you bub?}
 {119}{}{Grrr! Este lugar e uma droga!}
 {120}{}{Eu estou ganhando muito dinheiro agora.}

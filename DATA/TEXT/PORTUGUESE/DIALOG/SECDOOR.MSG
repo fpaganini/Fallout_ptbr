@@ -1,7 +1,7 @@
 {100}{}{A porta de seguranca esta trancada.}
-{101}{}{A porta de seguranca nao esta trancada.}
-{102}{}{Voce consegue destrancar a porta de seguranca.}
-{103}{}{Voce falha em destrancar a porta de seguranca.}
-{104}{}{Voce consegue engatilhar o alerta passivo na porta, clamping down a
+{101}{}{A porta de seguranca não esta trancada.}
+{102}{}{Você consegue destrancar a porta de seguranca.}
+{103}{}{Você falha em destrancar a porta de seguranca.}
+{104}{}{Você consegue engatilhar o alerta passivo na porta, clamping down a
  tranca eletronica. Bom trabalho, chromo.}
-{105}{}{Voce ganha 25 pontos de experiencia por abrir a tranca.}
+{105}{}{Você ganha 25 pontos de experiência por abrir a tranca.}

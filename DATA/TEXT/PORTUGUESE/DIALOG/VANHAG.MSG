@@ -1,15 +1,15 @@
-{100}{}{Voce ve um membro das Criancas da Catedral.}
-{101}{}{Eu nao falo com almas heathen tais como voce mesmo.}
+{100}{}{Você ve um membro das Crianças da Catedral.}
+{101}{}{Eu não falo com almas heathen tais como você mesmo.}
 {102}{}{Seu relatorio, VanHagan.}
 {103}{}{O Mestre esta feliz com seu progresso, mas a necessidade
  dele e grande e o tempo e limitado.}
 {104}{}{O Mestre deveria saber que o material puro e limitado.
- Nos nao podemos criar nossos soldados sem mais estoque.}
+ Nos não podemos criar nossos soldados sem mais estoque.}
 {105}{}{Ele esta ciente dos seus problemas. Ele ests trabalhando
  nisso conforme nos falamos.}
 {106}{}{Diga-me dos planos dele. Nos precisaremos coordenar
  as atividades, se a Unidade tem que ser bem sucedida.}
-{107}{}{O Mestre se tornou ciente de uma vault nao descoberta, e
+{107}{}{O Mestre se tornou ciente de uma vault não descoberta, e
  vivente. Com tanto material puro, nos podemos criar uma grande
  forca. De acordo com o software de previsao, serao os numeros
  que nos precisamos pra sermos bem sucedidos.}
@@ -20,5 +20,5 @@
 {110}{}{Oh, isto e muito excitante. Qual e a vault que nos
  plunder?}
 {111}{}{Vault-13. E nos teremos eles em breve. Muito em breve.}
-{112}{}{Voce ganha 1000 pontos de experiencia por overhearing a
+{112}{}{Você ganha 1000 pontos de experiência por overhearing a
  conversa inteira sobre sua vault.}

@@ -1,8 +1,8 @@
-{100}{}{Voce ve Orfeo, um Membro Senior das Criancas da Catedral.}
+{100}{}{Você ve Orfeo, um Membro Senior das Crianças da Catedral.}
 {101}{}{Ah. Um novo convertido. Bem-Vindo.}
 {102}{}{Mim matar!!!}
-{103}{}{Eu nao sou um convertido!}
+{103}{}{Eu não sou um convertido!}
 {104}{}{Obrigado, Irmao.}
 {105}{}{Entao nos tomaremos conta desse problema em breve.}
-{106}{}{Nos devemos primeiro limpar voce das immpurezas da terra devastada. Venha.}
-{107}{}{Nos limparemos voce!}
+{106}{}{Nos devemos primeiro limpar você das immpurezas da terra devastada. Venha.}
+{107}{}{Nos limparemos você!}

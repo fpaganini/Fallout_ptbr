@@ -1,16 +1,16 @@
-{100}{}{Voce ve uma pequena crianca.}
+{100}{}{Você ve uma pequena criança.}
 {101}{}{Oi!}
 {102}{}{Ola.}
 {103}{}{Aonde estao seus pais?}
 {104}{}{Erf.}
 {105}{}{Eu dunno. Por aqui em algum lugar.}
-{106}{}{Voce e engracado!}
-{107}{}{Ei, voce vai matar alguem?}
+{106}{}{Você e engracado!}
+{107}{}{Ei, você vai matar alguem?}
 {108}{}{Sim.}
 {109}{}{Nao!}
 {110}{}{Erf.}
 {111}{}{Eu vou falar pra minha mamae!}
-{112}{}{Entao voce nao deveria carregar uma arma assim.}
+{112}{}{Entao você não deveria carregar uma arma assim.}
 
 {980}{}{Huh?}
 {981}{}{Eu sei. Pergunte a mamae.}
@@ -33,7 +33,7 @@
 {1014}{}{Policia}
 {1015}{}{Caravanas}
 {1016}{}{Comerciantes}
-{1017}{}{Criancas}
+{1017}{}{Crianças}
 {1018}{}{Necropolis}
 {1019}{}{Spot}
 {1020}{}{Irmandade}
@@ -51,21 +51,21 @@
 {1105}{}{Cancoes do mar engracadas.}
 {1106}{}{Grandes malvados!}
 {1107}{}{Homem mau.}
-{1108}{}{Eu nao vou dizer pra voce.}
+{1108}{}{Eu não vou dizer pra você.}
 {1109}{}{Cidade grande.}
-{1110}{}{Eu nao vou dizer.}
-{1111}{}{Nao, nao vou dizer pra voce.}
-{1112}{}{A mamae nao quer que eu fale sobre ele.}
+{1110}{}{Eu não vou dizer.}
+{1111}{}{Nao, não vou dizer pra você.}
+{1112}{}{A mamae não quer que eu fale sobre ele.}
 {1113}{}{O papail acha que ele e engracado.}
 {1114}{}{Pessoas grandes.}
 {1115}{}{Eles tem esses fedidos que puxam eles.}
 {1116}{}{Pessoas boas. Elas me dao doce.}
-{1117}{}{Eles nao gostam de brincar de pique-esconde.}
+{1117}{}{Eles não gostam de brincar de pique-esconde.}
 {1118}{}{Lugar assustador.}
 {1119}{}{Lugar nojento.}
 {1120}{}{Lugar assustador.}
 {1121}{}{Lugar assustador.}
-{1122}{}{A mamae nao nos deixa brincar la.}
+{1122}{}{A mamae não nos deixa brincar la.}
 {1123}{}{O papai fica nos dizendo pra brincar ali.}
 {1124}{}{Area das pessoas grandes.}
 {1125}{}{Area das pessoas grandes.}

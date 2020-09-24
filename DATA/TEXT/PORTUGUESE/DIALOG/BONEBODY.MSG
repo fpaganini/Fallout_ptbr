@@ -1,3 +1,3 @@
-{100}{}{O que quer que atacou esta pessoa limpou ela ate os ossos.}
+{100}{}{O que quer que atacou esta pessoa limpou ela até os ossos.}
 {101}{}{O vento bleached estes ossos limpos.}
 {102}{}{Estes cadaveres aparentam estar aqui por um bom tempo.}

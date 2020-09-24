@@ -49,7 +49,7 @@
 {3100}{}{Homem em Armadura de Couro}
 {3200}{}{Campones}
 {3201}{}{}
-{3300}{}{Cidadao}
+{3300}{}{Cidadão}
 {3301}{}{}
 {3400}{}{Morador da Vault}
 {3500}{}{Morador da Vault}
@@ -91,7 +91,7 @@
 {5700}{}{Guarda}
 {5800}{}{Tecnico}
 {5801}{}{}
-{5900}{}{Cidadao}
+{5900}{}{Cidadão}
 {5901}{}{}
 {6000}{}{Bum}
 {6001}{}{}
@@ -110,12 +110,12 @@
 {6801}{}{}
 {6900}{}{Robobrain}
 {7000}{}{Guarda Saqueador}
-{7100}{}{Cidadao}
+{7100}{}{Cidadão}
 {7101}{}{}
-{7200}{}{Cidadao}
+{7200}{}{Cidadão}
 {7201}{}{}
 {7300}{}{Conselheiro do Garl}
-{7400}{}{Cidadao}
+{7400}{}{Cidadão}
 {7401}{}{}
 {7500}{}{Saqueador}
 {7600}{}{Ian}
@@ -127,15 +127,15 @@
 {8100}{}{Izo}
 {8200}{}{Viajante}
 {8201}{}{}
-{8300}{}{Cidadao}
+{8300}{}{Cidadão}
 {8301}{}{}
-{8400}{}{Cidadao}
+{8400}{}{Cidadão}
 {8401}{}{}
 {8500}{}{Viajante}
 {8501}{}{}
 {8600}{}{Campones}
 {8601}{}{}
-{8700}{}{Cidadao}
+{8700}{}{Cidadão}
 {8701}{}{}
 {8800}{}{Mercador}
 {8801}{}{}
@@ -208,7 +208,7 @@
 {13800}{}{Jeremiah}
 {13900}{}{Medico Super Mutante}
 {14000}{}{Gideon}
-{14001}{}{Suas maos estao brilhando com uma estranha energia.}
+{14001}{}{Suas mãos estao brilhando com uma estranha energia.}
 {14100}{}{Dominic}
 {14101}{}{Uma estranha energia brilha dos seus olhos.}
 {14200}{}{Lucy}
@@ -335,18 +335,18 @@
 {21800}{}{Facinora}
 {21900}{}{Mercenario}
 {22000}{}{Guarda}
-{22100}{}{Cidadao}
+{22100}{}{Cidadão}
 {22200}{}{Estranho}
 {22300}{}{Facinora}
 {22400}{}{Mercenario}
 {22500}{}{Guarda}
-{22600}{}{Cidadao}
+{22600}{}{Cidadão}
 {22700}{}{Viajante}
 {22800}{}{Estranho}
 {22900}{}{Facinora}
 {23000}{}{Mercenario}
 {23100}{}{Guarda}
-{23200}{}{Cidadao}
+{23200}{}{Cidadão}
 {23300}{}{Viajante}
 {23400}{}{Mercenario}
 {23500}{}{Guarda}
@@ -418,7 +418,7 @@
 {30100}{}{Doutor}
 {30200}{}{Katja}
 {30300}{}{Sasha}
-{30301}{}{Voce ve uma Husky Siberiana esperando pacientemente pelo mestre dela.}
+{30301}{}{Você ve uma Husky Siberiana esperando pacientemente pelo mestre dela.}
 {30400}{}{Estranho Misterioso}
 {30500}{}{Ghoul Estupido}
 {30600}{}{Globo Ocular, Mk II}

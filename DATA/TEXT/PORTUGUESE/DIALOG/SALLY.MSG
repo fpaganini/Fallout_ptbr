@@ -1,6 +1,6 @@
-{100}{}{Voce ve Sally.}
+{100}{}{Você ve Sally.}
 {101}{}{Por que todos falam engracado comigo??}
-{102}{}{O mutante ignora voce.}
+{102}{}{O mutante ignora você.}
 
 {1000}{}{Chip}
 {1001}{}{Necropolis}
@@ -12,7 +12,7 @@
 {1007}{}{Normais}
 
 {1100}{}{Eu dunno.}
-{1101}{}{Voce de pe nela.}
+{1101}{}{Você de pe nela.}
 {1102}{}{Ele e uma bicha. Nos deveriamos simplesmente erradicar ele e seus ghouls.}
 {1103}{}{Isso e aqui.}
 {1104}{}{Eu dunno.}

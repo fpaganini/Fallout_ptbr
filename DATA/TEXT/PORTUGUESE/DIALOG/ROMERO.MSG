@@ -1,51 +1,51 @@
-{100}{}{Voce ve Romero.}
-{103}{}{Voce ve um membro dos Blades.}
-{104}{}{Voce ve um membro dos Blades.}
-{105}{}{Voce acha que poderiam ser Livros.}
-{106}{}{Voce acha que poderiam ser Cicatrizes.}
-{107}{}{Voce acha que poderia ser Gunner.}
-{108}{}{Voce acha que poderia ser Twitch.}
-{109}{}{Voce acha que poderia ser Hammer.}
-{110}{}{Voce acha que poderia ser Razor.}
+{100}{}{Você ve Romero.}
+{103}{}{Você ve um membro dos Blades.}
+{104}{}{Você ve um membro dos Blades.}
+{105}{}{Você acha que poderiam ser Livros.}
+{106}{}{Você acha que poderiam ser Cicatrizes.}
+{107}{}{Você acha que poderia ser Gunner.}
+{108}{}{Você acha que poderia ser Twitch.}
+{109}{}{Você acha que poderia ser Hammer.}
+{110}{}{Você acha que poderia ser Razor.}
 {111}{}{Stand down!}
-{112}{}{O que? O que voce quer dizer?}
+{112}{}{O que? O que você quer dizer?}
 {113}{}{Nunca!}
 {114}{}{Eu estou aqui pra falar sobre a paz.}
 {115}{}{Okay.}
-{116}{}{Eu faco as perguntas aqui. O que voce esta fazendo aqui?}
+{116}{}{Eu faco as perguntas aqui. O que você esta fazendo aqui?}
 {117}{}{Eu estou procurando um amigo.}
 {118}{}{Eu estou aqui pra falar sobre a paz.}
 {119}{}{Eu quero acabar com a guerra de gangues!}
 {120}{}{Eu quero beber o sangue dos Blades!}
-{121}{}{Entao voce esta procurando na area errada. Desapareca.}
-{122}{}{Voce deve ser um daqueles pequenos mantos purpuras fracotes.
- Saia daqui antes que nos explodamos voce.}
-{123}{}{Espere! Eu nao sei do que voce esta falando. Eu estou aqui
+{121}{}{Entao você esta procurando na area errada. Desapareca.}
+{122}{}{Você deve ser um daqueles pequenos mantos purpuras fracotes.
+ Saia daqui antes que nos explodamos você.}
+{123}{}{Espere! Eu não sei do que você esta falando. Eu estou aqui
  por Adytum. Eles querem que eu faca todos deixarem eles em paz.}
 {124}{}{Paz com ISTO!}
 {125}{}{Lamento. Eu irei agora.}
-{126}{}{Hmm. Se voce e realmente de Adytum, entao voce ainda e um perdedor.
+{126}{}{Hmm. Se você e realmente de Adytum, entao você ainda e um perdedor.
  Nunca podera haver paz enquanto aqueles Rippers ainda estiverem por ai.}
-{127}{}{O que voce quer dizer?}
+{127}{}{O que você quer dizer?}
 {128}{}{Uh, com certeza.}
 {129}{}{Pergunte pra Razor. Ela explicara sobre esses incestuosos sedentos de sangue.}
 {130}{}{Desapareca!}
-{131}{}{Ei, agora que voce e um Blade, eu preciso pedir um favor pra voce.}
+{131}{}{Ei, agora que você e um Blade, eu preciso pedir um favor pra você.}
 {132}{}{Com certeza.}
 {133}{}{O que e?}
 {134}{}{De modo algum.}
 {135}{}{Otimo. Leve este locket pra Julianna. Diga a ela que eu espero
  ver ela em breve.}
 {136}{}{Parece que eu me apaixonei por uma garota de Adytum. Por causa dos
- Reguladores atirando em nos a vista, eu nao consigo ficar perto dela.}
+ Reguladores atirando em nos a vista, eu não consigo ficar perto dela.}
 {137}{}{Como eu posso ajudar?}
 {138}{}{Continue.}
 {139}{}{Entrada dificil.}
-{140}{}{Se voce levar este locket pra Julianna, eu ficaria em debito com voce.}
+{140}{}{Se você levar este locket pra Julianna, eu ficaria em debito com você.}
 {141}{}{Coisa certa.}
 {142}{}{Ache outro alguem.}
-{143}{}{Com aliados como voce, quem precisa de inimigos? Adeus!}
-{144}{}{Eu acho que ela me ama tambem, mas eu nao sei. Os Blades nao
+{143}{}{Com aliados como você, quem precisa de inimigos? Adeus!}
+{144}{}{Eu acho que ela me ama tambem, mas eu não sei. Os Blades não
  arriscarao me deixando tentar entrar em Adytum.}
 {145}{}{Entrada dificil.}
 {146}{}{Okay, eu ajudarei.}

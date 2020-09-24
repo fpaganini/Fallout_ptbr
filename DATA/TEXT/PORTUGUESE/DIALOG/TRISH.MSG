@@ -1,92 +1,92 @@
-{100}{}{Voce ve a Trish, uma garconete do Skum Pitt.}
-{101}{}{O que diabos voce esta fazendo no meu quarto?}
+{100}{}{Você ve a Trish, uma garconete do Skum Pitt.}
+{101}{}{O que diabos você esta fazendo no meu quarto?}
 {102}{}{Gug!}
 {103}{}{Oops, lamento. Eu pensei que este era meu quarto.}
 {104}{}{Lamento. Tchau.}
-{105}{}{De jeito nenhum! Eu nao gosto disso! Vai falar com a Sinthia la embaixo no salao.
+{105}{}{De jeito nenhum! Eu não gosto disso! Vai falar com a Sinthia la embaixo no salao.
  Ela poderia estar disponivel, mas ela nunca esta livre.}
 {106}{}{Sim, certo. Que seja. Este e o meu quarto. Saia daqui.}
-{107}{}{O que diabos voce esta fazendo no meu quarto?}
+{107}{}{O que diabos você esta fazendo no meu quarto?}
 {108}{}{Grub!}
 {109}{}{Oops, lamento. Eu pensei que este era meu quarto.}
-{110}{}{Voce conhece um cara chamado Saul?}
-{111}{}{Eu costumava pensar que sim. Agora, eu nao tenho tanta certeza.}
-{112}{}{Ele realmente se importa com voce.}
-{113}{}{Eu acho que voce deveria deixa-lo.}
-{114}{}{Assim ele diz. Se ele o fizesse, ele nao estaria fazendo o que ele esta fazendo.}
+{110}{}{Você conhece um cara chamado Saul?}
+{111}{}{Eu costumava pensar que sim. Agora, eu não tenho tanta certeza.}
+{112}{}{Ele realmente se importa com você.}
+{113}{}{Eu acho que você deveria deixa-lo.}
+{114}{}{Assim ele diz. Se ele o fizesse, ele não estaria fazendo o que ele esta fazendo.}
 {115}{}{O que e isso?}
 {116}{}{E a respeito do boxe, certo?}
-{117}{}{Voce diria isso. Voce quer tomar seu lugar, certo?}
-{118}{}{Nao. Voce e muito shanky.}
+{117}{}{Você diria isso. Você quer tomar seu lugar, certo?}
+{118}{}{Nao. Você e muito shanky.}
 {119}{}{Com certeza.}
 {120}{}{Apenas me deixe em paz.}
-{121}{}{Talvez voce esteja certo. Talvez eu precise entender o que ele faz
+{121}{}{Talvez você esteja certo. Talvez eu precise entender o que ele faz
  e deixar assim.}
-{122}{}{Sua luta, claro. Eu nao entendo.}
+{122}{}{Sua luta, claro. Eu não entendo.}
 {123}{}{É uma coisa de homem.}
-{124}{}{Claro que nao, querido.}
+{124}{}{Claro que não, querido.}
 {125}{}{Claro que e o boxe. Ele e um cara realmente legal, mas ele precisa
  sair disso antes que mate ele.}
 {126}{}{Talvez isso seja o que ele quer fazer.}
-{127}{}{Ei, eu encontrei voce no Skum Pitt. O que diabos voce esta fazendo no meu quarto?}
+{127}{}{Ei, eu encontrei você no Skum Pitt. O que diabos você esta fazendo no meu quarto?}
 {128}{}{Plato}
-{129}{}{Eu queria dar uma olhada mais de perto em voce.}
-{130}{}{Eu queria obter um pouco de informacao de voce, e eu nao queri faze-lo
+{129}{}{Eu queria dar uma olhada mais de perto em você.}
+{130}{}{Eu queria obter um pouco de informacao de você, e eu não queri faze-lo
  na frente daquele bartender.}
 {131}{}{Apenas me deixe em paz, seu perdedor. A Sinthia poderia ser seu tipo de
- mulher, mas eu com certeza nao sou.}
-{132}{}{Voce deveria me deixar em paz. I realmente nao quero falar com voce.}
-{133}{}{Lamento perturbar voce.}
+ mulher, mas eu com certeza não sou.}
+{132}{}{Você deveria me deixar em paz. I realmente não quero falar com você.}
+{133}{}{Lamento perturbar você.}
 {134}{}{Saia do meu quarto!}
 {135}{}{Eu vou trazer a Marcelles e ela limpara seu relogio.}
-{136}{}{Meu namorado poderia derrotar voce.}
+{136}{}{Meu namorado poderia derrotar você.}
 {137}{}{Olha, este e meu quarto. Por favor saia.}
 {138}{}{Obrigado por ajudar com o Saul. Ele e realmente um cara bacana.}
-{139}{}{Voce fez meu namorado ser morto. Eu deveria odiar voce, mas eu sabia que
+{139}{}{Você fez meu namorado ser morto. Eu deveria odiar você, mas eu sabia que
  ia acontecer mais cedo ou mais tarde. Por favor me deixe em paz.}
 {140}{}{Ei, obrigado por me ajudar quando aqueles Skulz pularam em mim. Nao ha
  muitas pessoas querendo fazer esse tipo de coisa estes dias.}
 {141}{}{Hnnn.}
-{142}{}{De nada. Vejo voce por ai.}
+{142}{}{De nada. Vejo você por ai.}
 {143}{}{De nada. Eu poderia fazer algumas perguntas?}
 {144}{}{Eu creio que sim.}
 {145}{}{Quem possui o bar?}
 {146}{}{Quem e Gizmo?}
-{147}{}{Por que voce gritou por Saul?}
+{147}{}{Por que você gritou por Saul?}
 {148}{}{Obrigado, tchau.}
 {149}{}{Neal possui o bar. Ele e um bom cara, sempre me tratou bem. Nos
  costumavamos namorar, mas ele ficou um pouco muito serio pro meu gosto.
- Eu nao quero ser uma viuva.}
-{150}{}{Oh! Saul, onde esta voce?!?}
+ Eu não quero ser uma viuva.}
+{150}{}{Oh! Saul, onde esta você?!?}
 {151}{}{Zzzz}
 {152}{}{Lamento, nos estamos fechados. Volte mais tarde.}
 {153}{}{Nada, obrigado.}
 {154}{}{Gizmo comanda o Cassino. Ele gostaria de tomar o bar do Neal, mas o
- Neal nao quer vender.}
-{155}{}{O Killian e o Gizmo nao gostam um do outro. Um deles ou tera que
+ Neal não quer vender.}
+{155}{}{O Killian e o Gizmo não gostam um do outro. Um deles ou tera que
  sair da cidade ou ser enterrado debaixo dela.}
-{156}{}{Bem-vindo ao Skum Pitt. Eu posso pegar algo para voce beber?}
-{157}{}{Sim, o que voce tem?}
+{156}{}{Bem-vindo ao Skum Pitt. Eu posso pegar algo para você beber?}
+{157}{}{Sim, o que você tem?}
 {158}{}{Saul e meu namorado. Ele e realmente bom para mim.}
 {159}{}{Na verdade, eu posso fazer algumas perguntas?}
-{160}{}{Nao, como uma questao de fato, voce nao pode. Se voce nai vai pedir uma
- bebida entao voce esta no lugar errado.}
-{161}{}{Do que voce gostaria?}
-{162}{}{Gizmo, bem, Gizmo tem a intencao de tomar o bar. E se o Neal nao vender,
+{160}{}{Nao, como uma questao de fato, você não pode. Se você nai vai pedir uma
+ bebida entao você esta no lugar errado.}
+{161}{}{Do que você gostaria?}
+{162}{}{Gizmo, bem, Gizmo tem a intencao de tomar o bar. E se o Neal não vender,
  eu aposto que algumas coisas ruins acontecerao.}
 {163}{}{Um dia, algum vagabundo vai matar o Neal por um copo de porcaria de agua
- ou algo estupido assim. No caso de voce nao ter notado, ser dono de um bar e
+ ou algo estupido assim. No caso de você não ter notado, ser dono de um bar e
  trabalho dificil estes dias.}
 {164}{}{Nuka-cola, 3 tampinhas.}
 {165}{}{Cerveja, 5 tampinhas.}
 {166}{}{A coisa forte, 20 tampinhas.}
-{167}{}{Voce ve uma garconete.}
+{167}{}{Você ve uma garconete.}
 {168}{}{Ainda assim, trabalhar para o Gizmo vai mata-lo.}
-{169}{}{Nao, mas voce nao pode muda-lo e ele nao pode mudar voce. Se voce nao gosta
- do que ele faz, entao voce deveria procurar em outro lugar.}
+{169}{}{Nao, mas você não pode muda-lo e ele não pode mudar você. Se você não gosta
+ do que ele faz, entao você deveria procurar em outro lugar.}
 {170}{}{Hnnngh! Hoo!}
-{171}{}{Lamento, parece que voce ja a little gone.}
-{172}{}{Voce ganha 300 pontos de experiencia por ajudar a derrotar os Skulz na
+{171}{}{Lamento, parece que você já a little gone.}
+{172}{}{Você ganha 300 pontos de experiência por ajudar a derrotar os Skulz na
  briga de bar.}
-{173}{}{You ganha 250 pontos de experiencia por salvar o relacionamento de Saul e Trish.}
-{174}{}{Aqui vai voce. Aprecie.}
+{173}{}{You ganha 250 pontos de experiência por salvar o relacionamento de Saul e Trish.}
+{174}{}{Aqui vai você. Aprecie.}

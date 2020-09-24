@@ -1,5 +1,5 @@
 {100}{}{Esta pessoa deve ter ficado muito perto da explosao.}
-{101}{}{Este corpo esta tao charred, voce nao consegue nem mesmo advinhar o que uma vez foi.}
+{101}{}{Este corpo esta tao charred, você não consegue nem mesmo advinhar o que uma vez foi.}
 {102}{}{Os ventos que mudam devem ter feito com que algumas das cinzas fossem levadas.}
 {103}{}{A explosao nuclear deve ter feito este estrago.}
 {104}{}{Cinzas caem atraves dos seus dedos.}

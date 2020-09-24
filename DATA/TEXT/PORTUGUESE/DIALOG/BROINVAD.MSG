@@ -10,7 +10,7 @@
 {109}{}{Mantenha sua presenca tatica, senhora.}
 {110}{}{Melhor nos irmos.}
 {111}{}{Sem tempo pra bate-papo, senhora.}
-{112}{}{Bom, voce esta aqui. Vamos incendiar este lugar.}
+{112}{}{Bom, você esta aqui. Vamos incendiar este lugar.}
 {113}{}{Ha algo errado a respeito desta sala.}
 {114}{}{Este lugar esta comecando a me dar calafrios          .}
 {115}{}{Agora e a hora de nos voltarmos para a Irmandade.}

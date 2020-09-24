@@ -1,16 +1,16 @@
-{100}{}{Voce ve Barterman.}
-{101}{}{Voce quer negociar?}
+{100}{}{Você ve Barterman.}
+{101}{}{Você quer negociar?}
 {102}{}{Clique em Barter -->}
 {103}{}{Nao.}
 {104}{}{Nos fomos            por radscorpions por algum tempo
  agora. Todos que foram enviados para destruir estes
- monstros nao retornaram. Eu darei a voce armas
- e armadura se voce seguir meu guia para o covil deles
+ monstros não retornaram. Eu darei a você armas
+ e armadura se você seguir meu guia para o covil deles
  e matar todos eles.}
 {105}{}{Soa bom.}
 {106}{}{Nao, obrigado.}
 {107}{}{Isso e uma vergonha. Por favor saia.}
-{108}{}{Excelente. O Sammy aqui guiara voce para o covil.
+{108}{}{Excelente. O Sammy aqui guiara você para o covil.
  Leve estes itens, eles virao a ser uteis.}
 {109}{}{Por favor ajude-nos tao breve quanto possivel. O tempo esta se esgotando.}
-{110}{}{Eu nao falo com seu tipo, estranho.}
+{110}{}{Eu não falo com seu tipo, estranho.}

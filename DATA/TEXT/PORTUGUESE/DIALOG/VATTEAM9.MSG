@@ -1,1 +1,1 @@
-{100}{}{Voce ve um soldado dos Nightkin.}
+{100}{}{Você ve um soldado dos Nightkin.}

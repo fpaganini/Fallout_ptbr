@@ -1,3 +1,3 @@
-{100}{}{Voce ouve uma voz de mulher pelo alto-falante.}
-{101}{}{Aviso! Voce entrou numa area protegida! Nao entre!
- Forca letal autorizada! Aviso!}
+{100}{}{Você ouve uma voz de mulher pelo alto-falante.}
+{101}{}{Aviso! Você entrou numa area protegida! Nao entre!
+ Força letal autorizada! Aviso!}

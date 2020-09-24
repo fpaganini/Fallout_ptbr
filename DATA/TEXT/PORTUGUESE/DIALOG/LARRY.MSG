@@ -1,12 +1,12 @@
-{100}{}{Voce enfureceu o Larry.}
-{101}{}{Voce ve o Larry.}
-{102}{}{Se voce perturbar o chefe ele vai bater em voce.}
-{103}{}{Humanos nao sao permitidos em Necropolis. Voce vem comigo.}
+{100}{}{Você enfureceu o Larry.}
+{101}{}{Você ve o Larry.}
+{102}{}{Se você perturbar o chefe ele vai bater em você.}
+{103}{}{Humanos não são permitidos em Necropolis. Você vem comigo.}
 {104}{}{Mas . . .}
 {105}{}{Nunca!}
 {106}{}{Hngh!!}
 {107}{}{Morra humano!}
-{108}{}{O mutante ignora voce.}
+{108}{}{O mutante ignora você.}
 
 {1000}{}{Agua}
 {1001}{}{Necropolis}
@@ -18,7 +18,7 @@
 {1007}{}{Normais}
 
 {1100}{}{I dunno.}
-{1101}{}{Voce de pe nela.}
+{1101}{}{Você de pe nela.}
 {1102}{}{He's a wus. We should just wipe out him and his ghouls.}
 {1103}{}{That's here.}
 {1104}{}{I dunno.}

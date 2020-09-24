@@ -1,9 +1,9 @@
-{100}{}{Voce ve um ghoul do subsolo.}
+{100}{}{Você ve um ghoul do subsolo.}
 {101}{}{Nos queremos apenas que nos deixem em paz.}
 {102}{}{Set e um tolo incompetente que matara a todos nos.}
 {103}{}{Os super mutantes vao nos matar algum dia e
- Set nao ajuda.}
-{104}{}{Nos estamos nos escondendo aqui; por favor nao diga aonde nos estamos.}
-{105}{}{Eu nao gosto da sua aparencia.}
+ Set não ajuda.}
+{104}{}{Nos estamos nos escondendo aqui; por favor não diga aonde nos estamos.}
+{105}{}{Eu não gosto da sua aparencia.}
 {106}{}{Va embora e nos deixe em paz.}
-{107}{}{Eu ouvi coisas ruins sobre voce. Elas sao todas verdadeiras?}
+{107}{}{Eu ouvi coisas ruins sobre você. Elas são todas verdadeiras?}

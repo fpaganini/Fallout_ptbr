@@ -1,7 +1,7 @@
-{100}{}{Voce ve um prisoneiro.}
-{101}{}{Eu nao matei ninguem!}
+{100}{}{Você ve um prisoneiro.}
+{101}{}{Eu não matei ninguem!}
 {102}{}{Eu sou inocente!}
-{103}{}{O que voce esta olhando?}
+{103}{}{O que você esta olhando?}
 {104}{}{Eu estava apenas pegando emprestado. Juro!}
 {105}{}{Onde esta meu pao e agua?}
 {106}{}{Armaram pra mim!}

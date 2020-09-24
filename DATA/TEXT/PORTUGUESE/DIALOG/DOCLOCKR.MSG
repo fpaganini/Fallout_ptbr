@@ -1,13 +1,13 @@
 {100}{}{O armario esta trancado.}
-{101}{}{Voce localiza uma armadilha no armario, e a desarma.}
-{102}{}{Voce localiza uma armadilha no armario, mas falha em desarma-la.}
-{103}{}{Voce localiza uma armadilha no armario, e acidentalmente a detona!}
-{104}{}{Voce desarma a armadilha.}
-{105}{}{Voce falha em desarmar a armadilha.}
-{106}{}{Voce acidentalmente detona a armadilha!}
-{107}{}{Voce destranca o armario.}
-{108}{}{Voce falha em bypass a tranca no armario.}
-{109}{}{O armario ja esta destrancado.}
-{110}{}{Enquanto mexia com a tranca, voce trip up the tumblers. Nao ha
+{101}{}{Você localiza uma armadilha no armario, e a desarma.}
+{102}{}{Você localiza uma armadilha no armario, mas falha em desarma-la.}
+{103}{}{Você localiza uma armadilha no armario, e acidentalmente a detona!}
+{104}{}{Você desarma a armadilha.}
+{105}{}{Você falha em desarmar a armadilha.}
+{106}{}{Você acidentalmente detona a armadilha!}
+{107}{}{Você destranca o armario.}
+{108}{}{Você falha em bypass a tranca no armario.}
+{109}{}{O armario já esta destrancado.}
+{110}{}{Enquanto mexia com a tranca, você trip up the tumblers. Nao ha
  jeito de bypassing esta tranca agora.}
-{111}{}{Voce nota que ha um dispositivo explosivo   no armario.}
+{111}{}{Você nota que ha um dispositivo explosivo   no armario.}

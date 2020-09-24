@@ -3,6 +3,6 @@
 {102}{}{Armas!}
 {103}{}{Tirem ele daqui!}
 {104}{}{Nao va dentro do ringue, chump.}
-{105}{}{Ei, aonde voce pensa que voce este indo?}
-{106}{}{Fale com Gustofer se voce quer apostar.}
+{105}{}{Ei, aonde você pensa que você este indo?}
+{106}{}{Fale com Gustofer se você quer apostar.}
 {107}{}{Lutas de Boxe as 2:00 de cada terceiro dia.}

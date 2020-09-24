@@ -1,10 +1,10 @@
-{100}{}{Voce ve uma porta de elevador com marcas azuis nela.}
-{101}{}{Voce e eletrocutado pelo sistema de seguranca, mas nao sustem dano.
- Talvez voce devesse tentar usar algo pra passar pelo sistema de seguranca.}
-{102}{}{Voce e eletrocutado pelo sistema de seguranca, e sustem um ponto de dano.
- Talvez voce devesse tentar usar algo pra passar pelo sistema de seguranca.}
-{103}{}{Voce e eletrocutado pelo sistema de seguranca, e sustem }
-{104}{}{ pontos de dano. Talvez voce devesse usar algo pra passar
+{100}{}{Você ve uma porta de elevador com marcas azuis nela.}
+{101}{}{Você e eletrocutado pelo sistema de seguranca, mas não sustem dano.
+ Talvez você devesse tentar usar algo pra passar pelo sistema de seguranca.}
+{102}{}{Você e eletrocutado pelo sistema de seguranca, e sustem um ponto de dano.
+ Talvez você devesse tentar usar algo pra passar pelo sistema de seguranca.}
+{103}{}{Você e eletrocutado pelo sistema de seguranca, e sustem }
+{104}{}{ pontos de dano. Talvez você devesse usar algo pra passar
  pelo sistema de seguranca.}
-{105}{}{Voce desarma o sistema de seguranca na porta.}
-{106}{}{Esse item nao tem efeito na porta.}
+{105}{}{Você desarma o sistema de seguranca na porta.}
+{106}{}{Esse item não tem efeito na porta.}

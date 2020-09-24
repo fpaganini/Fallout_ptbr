@@ -1,91 +1,91 @@
-{100}{}{Eu nao consigo acreditar nas coisas que voce fez.}
-{101}{}{Eu nao me importo. Eu estou ferido. Me cure.}
+{100}{}{Eu não consigo acreditar nas coisas que você fez.}
+{101}{}{Eu não me importo. Eu estou ferido. Me cure.}
 {102}{}{Hngh!}
-{103}{}{Nao. Eu fiz um voto de nao machucar a vida, mas eu nao
- ajudarei voce.}
-{104}{}{A falta de inteligencia nao e desculpa para o que voce tem
- feito. Vai embora, eu nao falarei mais com voce.}
-{105}{}{Oh minha nossa, voce esta seriamente ferido. Aqui, deixe-me ajudar voce.}
+{103}{}{Nao. Eu fiz um voto de não machucar a vida, mas eu não
+ ajudarei você.}
+{104}{}{A falta de inteligencia não e desculpa para o que você tem
+ feito. Vai embora, eu não falarei mais com você.}
+{105}{}{Oh minha nossa, você esta seriamente ferido. Aqui, deixe-me ajudar você.}
 {106}{}{Bem-vindo de volta, }
 {107}{}{. Como
  vai a busca?}
 {108}{}{Esta indo ok.}
 {109}{}{Eu preciso de ajuda.}
 {110}{}{Lol?}
-{111}{}{Ah. Sim. Aqui, eu achei estes. Tente eles quando voce precisar de um
+{111}{}{Ah. Sim. Aqui, eu achei estes. Tente eles quando você precisar de um
  boost.}
-{112}{}{Bom, mantenha o bom trabalho. E deixe-me saber se voce
+{112}{}{Bom, mantenha o bom trabalho. E deixe-me saber se você
  precisar de alguma coisa.}
-{113}{}{O que eu posso fazer por voce?}
+{113}{}{O que eu posso fazer por você?}
 {114}{}{Eu preciso de cura.}
 {115}{}{Eu preciso de algumas drogas.}
 {116}{}{Eu preciso de mais alguns stimpaks.}
 {117}{}{Doh!}
 {118}{}{Duh!}
-{119}{}{Eu nao estou autorizado a dar nenhum a voce. Lamento.}
+{119}{}{Eu não estou autorizado a dar nenhum a você. Lamento.}
 {120}{}{Obrigado, de qualquer maneira.}
 {121}{}{Eu tenho uma necessidade urgente delas. Sem as drogas a seguranca
  da Vault esta em jogo.}
-{122}{}{Lamento, eu nao posso da-las a voce.}
-{123}{}{Bem, ja que voce poe desse modo. Mas nao diga a ninguem que
- eu deixei voce ter estas. Elas sao extremamente viciantes e
+{122}{}{Lamento, eu não posso da-las a você.}
+{123}{}{Bem, já que você poe desse modo. Mas não diga a ninguem que
+ eu deixei você ter estas. Elas são extremamente viciantes e
  perigosas de usar.}
 {124}{}{Obrigado.}
-{125}{}{Os stimpaks estao sendo racionados. Voce e bem-vindo para o que
- nos tivermos no conteiner medico na parede. Leve tantos quantos voce
+{125}{}{Os stimpaks estao sendo racionados. Você e bem-vindo para o que
+ nos tivermos no conteiner medico na parede. Leve tantos quantos você
  precisar, mas use eles aos poucos. Demorara um tempo antes que nos
- possamos conseguir mais um pouco pra voce.}
-{126}{}{Hmm. Vamos ver se voce esta ferido.}
-{127}{}{Voce parece ok pra mim. Volte se voce precisar de um pouco de cura.}
-{128}{}{Voce parece ferido. Aqui, deixe-me ajudar voce.}
-{129}{}{Se voce precisar de cura volte aqui pra mim ou use
- alguns dos stimpaks que nos temos. Voce pode pegar mais
+ possamos conseguir mais um pouco pra você.}
+{126}{}{Hmm. Vamos ver se você esta ferido.}
+{127}{}{Você parece ok pra mim. Volte se você precisar de um pouco de cura.}
+{128}{}{Você parece ferido. Aqui, deixe-me ajudar você.}
+{129}{}{Se você precisar de cura volte aqui pra mim ou use
+ alguns dos stimpaks que nos temos. Você pode pegar mais
  stimpaks da parede.}
 {130}{}{Deite-se aqui e nos comecaremos o processo de cura.}
-{131}{}{Voce esta completamente curado. Tome conta de si mesmo
- no futuro, mas volte se voce precisar de mais cura.}
+{131}{}{Você esta completamente curado. Tome conta de si mesmo
+ no futuro, mas volte se você precisar de mais cura.}
 {132}{}{Os scanners medicos detectaram um pouco de envenenamento mortal por
- radiacao. Voce gostaria que nos tentassemos um cura? Levara um tempo.}
+ radiação. Você gostaria que nos tentassemos um cura? Levara um tempo.}
 {133}{}{Os scanners medicos detectaram um pouco de envenenamento serio por
- radiacao. Voce gostaria que nos tentassemos um cura? Levara um tempo.}
+ radiação. Você gostaria que nos tentassemos um cura? Levara um tempo.}
 {134}{}{Os scanners medicos detectaram um pouco de envenenamento maior por
- radiacao. Voce gostaria que nos tentassemos um cura? Levara um tempo.}
+ radiação. Você gostaria que nos tentassemos um cura? Levara um tempo.}
 {135}{}{Os scanners medicos detectaram um pouco de envenenamento leve por
- radiacao. Voce gostaria que nos tentassemos um cura? Levara um tempo.}
-{136}{}{Voce ve o medico da Vault-13.}
+ radiação. Você gostaria que nos tentassemos um cura? Levara um tempo.}
+{136}{}{Você ve o medico da Vault-13.}
 {137}{}{}
 {138}{}{Nao.}
 {139}{}{Ok, faca.}
 {140}{}{Quanto tempo?}
-{141}{}{Quanto vai demorar e quanta radiacao voce consegue
+{141}{}{Quanto vai demorar e quanta radiação você consegue
  remover?}
 {142}{}{Nao.}
 {143}{}{Sim.}
 {144}{}{É seu corpo.}
 {145}{}{Levara }
-{146}{}{ minutos. Voce quer
+{146}{}{ minutos. Você quer
  comecar o processo?}
 {147}{}{Nao.}
 {148}{}{Sim.}
 {149}{}{Levara }
 {150}{}{ minutos. Sera capaz de
  remover por volta de }
-{151}{}{ por cento. Voce quer
+{151}{}{ por cento. Você quer
  comecar o processo?}
 {152}{}{Nao.}
 {153}{}{Sim.}
 {154}{}{Isto vai ser realmente, realmente doloroso.}
-{155}{}{Ok, isto nao deve machucar de modo algum.}
-{156}{}{Ok, voce deve estar se sentindo muito melhor. Seja cuidadoso
+{155}{}{Ok, isto não deve machucar de modo algum.}
+{156}{}{Ok, você deve estar se sentindo muito melhor. Seja cuidadoso
  la fora.}
-{157}{}{Eu ouvi sobre o que voce fez, salvando a Vault. Obrigado a voce.}
+{157}{}{Eu ouvi sobre o que você fez, salvando a Vault. Obrigado a você.}
 {158}{}{[Mais]}
-{159}{}{O medico se recusa a falar com voce.}
-{160}{}{Por favor nao faca isso.}
+{159}{}{O medico se recusa a falar com você.}
+{160}{}{Por favor não faca isso.}
 
 # Medic tell-me-abouts
 
 {1000}{}{Medico}
 {1001}{}{Cura}
 {1100}{}{Eu estou aqui o tempo todo, para oferecer assistencia e cura.}
-{1101}{}{Eu posso curar voce se voce esta ferido.}
+{1101}{}{Eu posso curar você se você esta ferido.}

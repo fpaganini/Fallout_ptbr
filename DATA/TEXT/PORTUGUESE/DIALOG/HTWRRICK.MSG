@@ -1,20 +1,20 @@
-{100}{}{Voce ve o Rick, um guarda.}
-{101}{}{O que voce quer?}
+{100}{}{Você ve o Rick, um guarda.}
+{101}{}{O que você quer?}
 {102}{}{Da... Um...}
-{103}{}{Me desculpe. Eu poderia fazer algumas perguntas pra voce?}
+{103}{}{Me desculpe. Eu poderia fazer algumas perguntas pra você?}
 {104}{}{Sua cabeca num palito!}
 {105}{}{Deixa pra la.}
 {106}{}{Volte para o lado leste, seu hop head!}
 {107}{}{O que?}
 {108}{}{Eu vou.}
-{109}{}{Faca depressa. Eu nao deveria estar conversando no trabalho.}
+{109}{}{Faca depressa. Eu não deveria estar conversando no trabalho.}
 {110}{}{Aonde eu estou?}
 {111}{}{Qual e seu trabalho?}
-{112}{}{Lamento aborrecer voce. Tchau.}
-{113}{}{Melhor voce tomar cuidado com aonde voce vai e com sua boca, vagabundo!}
-{114}{}{NAO! Melhor voce tomar cuidado! Eu vou por uma bala na sua cabeca!}
-{115}{}{Voce nao vale meu tempo.}
-{116}{}{Se voce nao sabe, voce provavelmente nao deveria estar aqui. Esta sao as Alturas. O Senhor Hightower vive aqui
+{112}{}{Lamento aborrecer você. Tchau.}
+{113}{}{Melhor você tomar cuidado com aonde você vai e com sua boca, vagabundo!}
+{114}{}{NAO! Melhor você tomar cuidado! Eu vou por uma bala na sua cabeca!}
+{115}{}{Você não vale meu tempo.}
+{116}{}{Se você não sabe, você provavelmente não deveria estar aqui. Esta são as Alturas. O Senhor Hightower vive aqui
  e ele so ve pessoas com appointment.}
 {117}{}{Qual  e seu trabalho?}
 {118}{}{Eu posso agendar um encontro com o Sr. Hightower?}
@@ -24,13 +24,13 @@
 {122}{}{Aonde eu estou?}
 {123}{}{Obrigado pelo seu tempo. Tchau.}
 {124}{}{Nao.}
-{125}{}{Eu nao gosto da sua atitude. Melhor voce sair.}
+{125}{}{Eu não gosto da sua atitude. Melhor você sair.}
 {126}{}{Tudo bem. Eu estou indo.}
 {127}{}{Me faca, sua maldita aberracao de cabelo comprido!}
 {128}{}{Apos o por do sol ninguem e permitido nesta area. Os outros guardas nem mesmo darao um aviso. Se eles pegarem
- voce eles atacarao. Melhor voltar pro centro da cidade enquanto sua cabeca ainda esta presa ao seu pescoco.}
+ você eles atacarão. Melhor voltar pro centro da cidade enquanto sua cabeca ainda esta presa ao seu pescoco.}
 {129}{}{Ok. Eu vou.}
 {130}{}{Nao. Eu fico.}
-{131}{}{Eu nao vou a lugar algum.}
+{131}{}{Eu não vou a lugar algum.}
 {132}{}{Lamento, eu estou indo.}
-{133}{}{Cara, voce e estupido feito uma rocha, nao e?  Take a hike!}
+{133}{}{Cara, você e estupido feito uma rocha, não e?  Take a hike!}

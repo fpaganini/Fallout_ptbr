@@ -1,12 +1,12 @@
-{100}{}{Voce ve um cientista louco. Ele esta trabalhando diligentemente em alguma coisa.}
-{101}{}{Boa noite, irmao. O que traz voce ao nosso pequeno canto do paraiso?}
-{102}{}{Boa noite, irma. O que traz voce ao nosso pequeno canto do paraiso?}
+{100}{}{Você ve um cientista louco. Ele esta trabalhando diligentemente em alguma coisa.}
+{101}{}{Boa noite, irmao. O que traz você ao nosso pequeno canto do paraiso?}
+{102}{}{Boa noite, irma. O que traz você ao nosso pequeno canto do paraiso?}
 {103}{}{Eu estou aqui para checar seu progresso.}
-{104}{}{O que voce poderia estar fazendo aqui?}
-{105}{}{O que?! Voce ousa me questionar? Que tal eu experimentar no seu cerebro,
+{104}{}{O que você poderia estar fazendo aqui?}
+{105}{}{O que?! Você ousa me questionar? Que tal eu experimentar no seu cerebro,
  seu twisted skag?!}
 {106}{}{Gack.}
-{107}{}{Voce de novo? E por que voce esta perturbando o futuro glorioso do Mestre
+{107}{}{Você de novo? E por que você esta perturbando o futuro glorioso do Mestre
  desta vez?}
 {108}{}{O Mestre fica mais impaciente com suas falhas, e eu com sua
  impudence!}
@@ -14,73 +14,73 @@
 {110}{}{Basta! Eu estou pondo um fim no SEU futuro aqui mesmo e agora, chump!}
 {111}{}{Oofah!}
 {112}{}{Nao esta indo bem. Eu estive injetando o VEF diretamente na glandula
- pineal mas eu nao estou obtendo os resultados que eu esperava.}
-{113}{}{Por que voce nao tenta injeta-lo diretamente na amidala?}
-{114}{}{Por que voce nao tenta injeta-lo na medula?}
-{115}{}{Quais resultados que voce esta obtendo?}
+ pineal mas eu não estou obtendo os resultados que eu esperava.}
+{113}{}{Por que você não tenta injeta-lo diretamente na amidala?}
+{114}{}{Por que você não tenta injeta-lo na medula?}
+{115}{}{Quais resultados que você esta obtendo?}
 {116}{}{Hmmm. E?}
 {117}{}{Eu imploro seu perdao, senhor. Como eu posso ser util?}
 {118}{}{Eu imploro seu perdao, senhora. Como eu posso ser util?}
-{119}{}{Voce pode falar comigo com respeito da proxima vez ou voce nunca falara
+{119}{}{Você pode falar comigo com respeito da proxima vez ou você nunca falara
  com ninguem de novo!}
 {120}{}{A verdade do Mestre e revelada, resultando em habilidade psiquica aumentada.
  [balanca a cabeca dele] Mas as pobres almas se tornam terminalmente insanas e devem
  ser sequestradas e anuladas pra impedir elas de fazerem o mal a si mesmas ou aos
  outros.}
-{121}{}{Oh, quao pensativo de voce...}
+{121}{}{Oh, quao pensativo de você...}
 {122}{}{Onde eles estao sendo mantidos?}
 {123}{}{Seu acougueiro sem coracao! Eu acho que eu anularei seu cerebro e vou sequestra-lo
  do resto do seu corpo! Morra, seu bastardo!}
-{124}{}{Em uma sala a noroeste daqui. Ha algo mais com o que eu possa ajudar voce?}
-{125}{}{Obrigado a voce pela sua ajuda. Tchau.}
+{124}{}{Em uma sala a noroeste daqui. Ha algo mais com o que eu possa ajudar você?}
+{125}{}{Obrigado a você pela sua ajuda. Tchau.}
 {126}{}{Sim, uh. O que e VEF?}
-{127}{}{Voce pode morrer!}
-{128}{}{Eu nao tenho tempo para sua tomfoolery!}
+{127}{}{Você pode morrer!}
+{128}{}{Eu não tenho tempo para sua tomfoolery!}
 {129}{}{Que ideia intrigante! Eu devo experimenta-la agora!}
-{130}{}{Uh, aonde voce esta mantendo os experimentos falhos?}
+{130}{}{Uh, aonde você esta mantendo os experimentos falhos?}
 {131}{}{Nao diga.}
-{132}{}{Sim! Vamos experimenta-lo em voce!}
+{132}{}{Sim! Vamos experimenta-lo em você!}
 {133}{}{Vincent! Prepare nosso mais novo volutario!}
-{134}{}{O que? Essa e a coisa mais ludicrous que eu ja ouvi! [olha pra voce
- com suspeita] Quem e voce realmente?}
+{134}{}{O que? Essa e a coisa mais ludicrous que eu já ouvi! [olha pra você
+ com suspeita] Quem e você realmente?}
 {135}{}{Oh, lamento. Eu tenho que ir agora.}
-{136}{}{Eu sou um pessoa..uh...novo.... Eu fui enviado para descobrir como voce esta indo.}
-{137}{}{Eu ja disse a voce, eu fui enviado pelo mestre para checar voce.}
+{136}{}{Eu sou um pessoa..uh...novo.... Eu fui enviado para descobrir como você esta indo.}
+{137}{}{Eu já disse a você, eu fui enviado pelo mestre para checar você.}
 {138}{}{Eu vim para remover seu baco... sem anestesico!}
 {139}{}{Tudo bem entao. Entao, como esta indo?}
 {140}{}{Sua atitude me disse tudo que eu precisava saber. Adeus.}
 {141}{}{Ah ha! Um interloper! Como eu suspeitava. Vincent!}
-{142}{}{Quem e voce? E por que voce esta usando este? [para si mesmo] Eu nao via
+{142}{}{Quem e você? E por que você esta usando este? [para si mesmo] Eu não via
  um desses ha muito tempo.}
 {143}{}{Eu estou com um disfarce. Intrusos se infiltraram no santuario do Mestre
  e eu estou vestido como um deles para ganhar a confianca deles.}
-{144}{}{Como ousa voce questionar um dos operativos especiais do mestre?}
-{145}{}{Quando voce viu uma suite como esta antes?}
-{146}{}{E borracha extruded, assim e bem facil limpar seu sangue apos
- eu matar voce!}
-{147}{}{Oh, voce sabe, quando nos pegamos aquele ultimo lote de humanos de pure-strain em...
- Eu acho que ainda ha um nos holding pens. Por que voce pergunta?}
+{144}{}{Como ousa você questionar um dos operativos especiais do mestre?}
+{145}{}{Quando você viu uma suite como esta antes?}
+{146}{}{E borracha extruded, assim e bem fácil limpar seu sangue apos
+ eu matar você!}
+{147}{}{Oh, você sabe, quando nos pegamos aquele ultimo lote de humanos de pure-strain em...
+ Eu acho que ainda ha um nos holding pens. Por que você pergunta?}
 {148}{}{Por nenhuma razao. Como os experimentos estao indo?}
-{149}{}{Eu tenho que relatar de volta ao mestre. Eu nao tenho tempo para isto.}
+{149}{}{Eu tenho que relatar de volta ao mestre. Eu não tenho tempo para isto.}
 {150}{}{[Balanca a cabeca dele] Alias, as pobres almas se tornam terminalmente
  insanas e devem ser sequestradas e anuladas pra impedir elas de fazerem o mal
  a si mesmas ou aos outros.}
-{151}{}{Oh, quao pensativo de voce...}
+{151}{}{Oh, quao pensativo de você...}
 {152}{}{Seu bastardo sem coracao! Eu acho que eu anularei seu cerebro e vou sequestra-lo
  do resto do seu corpo! Morra, seu bastardo!}
-{200}{}{Voce ve o Vincent, um guarda super mutante. Ele parece entediado.}
-{201}{}{Voce ve um super mutante, obviamente protegendo os cientistas. Ele
+{200}{}{Você ve o Vincent, um guarda super mutante. Ele parece entediado.}
+{201}{}{Você ve um super mutante, obviamente protegendo os cientistas. Ele
  parece entendiado.}
 {202}{}{Intrusos!}
 {203}{}{Eu estou apenas observando o louco. Nao fale comigo.}
 {204}{}{Deixe-me em paz.}
-{300}{}{Voce ve um cientista louco dormindo.}
+{300}{}{Você ve um cientista louco dormindo.}
 {301}{}{Zzzzzz}
 {302}{}{Huh! O que? [esfrega os olhos] Vincent, remova este heathen das nossas camaras!}
 {303}{}{Huh? [ronco] ...zzzzzzzzz}
-{400}{}{Voce ve o Vincent. Ele esta guardando os loucos adormecidos.}
-{401}{}{Voce ve um guarda super mutante. Ele esta proximo de pe aos corpos prone.}
+{400}{}{Você ve o Vincent. Ele esta guardando os loucos adormecidos.}
+{401}{}{Você ve um guarda super mutante. Ele esta proximo de pe aos corpos prone.}
 {402}{}{Deixe eles em paz e saia. Ninguem e permitido aqui enquanto eles estao
  dormindo.}
-{403}{}{Voce de novo! Eu disse a voce pra deixar os cientistas em paz!}
-{404}{}{Voce prolongou sua estada.}
+{403}{}{Você de novo! Eu disse a você pra deixar os cientistas em paz!}
+{404}{}{Você prolongou sua estada.}

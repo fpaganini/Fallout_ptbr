@@ -1,79 +1,79 @@
 {100}{}{Morra, seu cachorro!}
-{101}{}{Minha derrota sera vingada!}
-{102}{}{Pare Iniciado! O que voce tem a relatar?}
+{101}{}{Minha derrota será vingada!}
+{102}{}{Pare Iniciado! O que você tem a relatar?}
 {103}{}{Tudo quieto no fronte ocidental.}
 {104}{}{Radscorpions e calor intoleravel. Uh . . . senhor.}
-{105}{}{Na verdade, eu queria saber se voce ouviu alguma coisa.}
+{105}{}{Na verdade, eu queria saber se você ouviu alguma coisa.}
 {106}{}{Nada pra relatar, senhor!}
 {107}{}{Ruh?}
-{108}{}{Pare! Eu reconheco voce -- voce visitou a Irmandade. Alguns podem confiar em 
- voce mas eu nao. Declare seus negocios!}
-{109}{}{Meus negocios sao meus proprios, assim como os seus pertencem a voce.}
+{108}{}{Pare! Eu reconheco você -- você visitou a Irmandade. Alguns podem confiar em 
+ você mas eu não. Declare seus negocios!}
+{109}{}{Meus negocios são meus proprios, assim como os seus pertencem a você.}
 {110}{}{Eu queria ver uma face amistosa.}
 {111}{}{Vagueando as terras devastadas, tentando sobreviver.}
-{112}{}{Eu estou matando vermes do deserto. Voce desaprova?}
-{113}{}{Eu so declararei ao cabeca da sua ordem. Leve-me ate a Irmandade.}
+{112}{}{Eu estou matando vermes do deserto. Você desaprova?}
+{113}{}{Eu so declararei ao cabeca da sua ordem. Leve-me até a Irmandade.}
 {114}{}{Biz?}
-{115}{}{Pare! Eu reconheco voce e eu nao confio em voce. Eu dou a voce um aviso
- justo: se voce criar problemas pra nos, voce sera morto a tiros. Agora mexa-se!}
+{115}{}{Pare! Eu reconheco você e eu não confio em você. Eu dou a você um aviso
+ justo: se você criar problemas pra nos, você será morto a tiros. Agora mexa-se!}
 {116}{}{Pare! Quem vem la! State seu nome e seus negocios!}
 # TRANSLATION NOTES
 # The player-character's name is inserted after line 117, and then has
 # line 118, 119, 120, or 121 appended.
 {117}{}{Eu sou }
-{118}{}{ e eu procuro um chip de agua para a minha vault. Voce pode me ajudar?}
+{118}{}{ e eu procuro um chip de agua para a minha vault. Você pode me ajudar?}
 {119}{}{ e eu estou tentando achar a fonte dos ataques mutantes.}
-{120}{}{ e isso nao e da sua conta!}
+{120}{}{ e isso não e da sua conta!}
 {121}{}{ e eu estou procurando por aventura.}
 {122}{}{Up yours, garoto soldado.}
 {123}{}{Runk!}
-{124}{}{Alto! Estas terras pertencem a Irmandade do Aco. Saia agora ou nos
- atiraremos em voce como um invasor.}
+{124}{}{Alto! Estas terras pertencem a Irmandade do Aço. Saia agora ou nos
+ atiraremos em você como um invasor.}
 {125}{}{Muito bom. Continue, Iniciado.}
 {126}{}{Eu entendo. Continue, Iniciado.}
 {127}{}{Ha relatorios de grandes humanos mutantes atacando viajantes, entao nos
  estamos aumentando nossa vigilancia. Mantenha um olho proximo na area e recue
  para o compound se necessario. Iniciado, dispensado!}
-{128}{}{Estes sao tempos problematicos, Iniciado! Os mutantes estao na marcha,
+{128}{}{Estes são tempos problematicos, Iniciado! Os mutantes estao na marcha,
  atacando caravanas! Nos precisamos de informacao e nos precisamos dele agora!
- Nada a relatar nao e bom o bastante!}
+ Nada a relatar não e bom o bastante!}
 {129}{}{Tire seu traseiro lamentavel daqui e nos traga de volta alguma
  inteligencia util! Iniciado, dispensado!}
-{130}{}{Oh sim, eu ouvi sobre voce. QI nao muito grande mas um lutador helluva.
+{130}{}{Oh sim, eu ouvi sobre você. QI não muito grande mas um lutador helluva.
  Muito ruim.}
-{131}{}{Esta e a nossa terra e aqui seus negocios sao nossos negocios. Eu repito,
+{131}{}{Esta e a nossa terra e aqui seus negocios são nossos negocios. Eu repito,
  declare seus negocios.}
-{132}{}{Eu procuro um chip de agua para a minha vault. Voce pode me ajudar?}
+{132}{}{Eu procuro um chip de agua para a minha vault. Você pode me ajudar?}
 {133}{}{Eu estou tentando achar a fonte dos ataques mutantes.}
-{134}{}{Esta pode ser sua terra, mas eu nao sou seu escravo.}
+{134}{}{Esta pode ser sua terra, mas eu não sou seu escravo.}
 {135}{}{Eu estive vagueando pelas terras devastadas por muito tempo. Eu queria
- saber se voce tem noticias.}
-{136}{}{Uma face amistosa? Nao sera a minha. Eu recomendaria sair.}
-{137}{}{Como somos todos nos. Tanto quanto voce nao aja contra a Irmandade, voce
- nao sera prejudicado, mas trilhe cuidadosamente.}
-{138}{}{Isso depende se voce nos considera vermes ou nao. Se voce atacar nossos
- inimigos. sera permitido a voce viajar em nosso territorio. Se voce nos atacar,
- voce morrera. Considere-se avisado.}
+ saber se você tem noticias.}
+{136}{}{Uma face amistosa? Nao será a minha. Eu recomendaria sair.}
+{137}{}{Como somos todos nos. Tanto quanto você não aja contra a Irmandade, você
+ não será prejudicado, mas trilhe cuidadosamente.}
+{138}{}{Isso depende se você nos considera vermes ou não. Se você atacar nossos
+ inimigos. será permitido a você viajar em nosso territorio. Se você nos atacar,
+ você morrera. Considere-se avisado.}
 {139}{}{Esse e um pedido razoavel. Fall in.}
-{140}{}{Chip de Agua? Eu espero que voce nao esteja falando serio! Melhor voce estar
- lutando na superficie do que escravizar a si mesmo a um unico pedaco de maquinaria.}
+{140}{}{Chip de Agua? Eu espero que você não esteja falando serio! Melhor você estar
+ lutando na superficie do que escravizar a si mesmo a um único pedaco de maquinaria.}
 {141}{}{Como somos nos. A teoria mais comum e que eles vieram do Glow, mas eu
- duvido que ate mesmo os mutantes conseguiriam sobreviver la por tanto tempo.
- Se voce descobrir alguma coisa, deixe-nos saber.}
-{142}{}{Como ousa voce me acusar de tal coisa! A Irmandade do Aco nunca forcou
+ duvido que até mesmo os mutantes conseguiriam sobreviver la por tanto tempo.
+ Se você descobrir alguma coisa, deixe-nos saber.}
+{142}{}{Como ousa você me acusar de tal coisa! A Irmandade do Aço nunca forcou
  ninguem a servir contra a vontade deles. Isso vai contra tudo que nos
  acreditamos. Saia da minha frente!}
 {143}{}{Nos achamos uma caravana destrocada aproximadamente da jornada de um dia
  para o oeste. Nos achams uma sobrevivente - pobre garota. Ela clamou que eles
  foram atacados por humanos mutantes com uma forca incrivel.}
 {144}{}{Nos ouvimos relatorios o bastante para que nos fiquemos . . . preocupados.
- Eu caminharia cautelosamente se eu fosse voce.}
-{145}{}{Eu vou ter que ensinar a voce algumas maneiras, rapaz. Isto deve dar
+ Eu caminharia cautelosamente se eu fosse você.}
+{145}{}{Eu vou ter que ensinar a você algumas maneiras, rapaz. Isto deve dar
  pra um entretenimento leve.}
-{146}{}{Eu vou ter que ensinar a voce algumas maneiras, garota. Isto deve dar
+{146}{}{Eu vou ter que ensinar a você algumas maneiras, garota. Isto deve dar
  pra um entretenimento leve.}
 {147}{}{Sua mente se foi completamente. Pobre criatura.}
 {148}{}{Pare de desperdicar meu tempo, tolo!}
-{149}{}{O que voce quer?}
+{149}{}{O que você quer?}
 {150}{}{Nada.}
-{151}{}{Entao eu sugiro a voce que saia.}
+{151}{}{Entao eu sugiro a você que saia.}

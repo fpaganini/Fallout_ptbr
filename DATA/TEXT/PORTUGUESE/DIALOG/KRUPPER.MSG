@@ -1,12 +1,12 @@
-{100}{}{Voce ve um enorme mutante.}
-{101}{}{Parado! Voce nao pode escapar!}
-{102}{}{Voce nao deveria estar aqui. Esta area esta fora dos limites para as Criancas.}
+{100}{}{Você ve um enorme mutante.}
+{101}{}{Parado! Você não pode escapar!}
+{102}{}{Você não deveria estar aqui. Esta area esta fora dos limites para as Crianças.}
 {103}{}{Por que? O que e este lugar?}
 {104}{}{Eu tenho o ultimo passe pro salao. Conheca minha arma!}
 {105}{}{Hng.}
-{106}{}{Voe muito estupido pra ser uma Crianca. Voce deve ser o intruso!}
-{107}{}{Isto bloco de celas dos prisoneiros. Aqui nos mantemos humanos ate voces
+{106}{}{Voe muito estupido pra ser uma Crianca. Você deve ser o intruso!}
+{107}{}{Isto bloco de celas dos prisoneiros. Aqui nos mantemos humanos até voces
  mergulha-los. Boa coisa, huh?}
 {108}{}{O que e o mergulho?}
 {109}{}{Ok, obrigado.}
-{110}{}{Voce precisa sair.}
+{110}{}{Você precisa sair.}

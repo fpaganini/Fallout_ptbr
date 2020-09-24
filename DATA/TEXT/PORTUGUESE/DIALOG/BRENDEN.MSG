@@ -1,16 +1,16 @@
-{100}{}{Voce ve um stern, jovem iniciado com um livro.}
-{101}{}{Voce ve o Iniciado Brenden.}
+{100}{}{Você ve um stern, jovem iniciado com um livro.}
+{101}{}{Você ve o Iniciado Brenden.}
 {102}{}{Bom dia. Como eu posso ser de assistencia?}
 {103}{}{Eu estou procurando a Escriba Mestra Vree.}
 {104}{}{Eu estou procurando o General Maxson.}
 {105}{}{Eu estou procurando o Paladino Rhombus.}
-{106}{}{O que voce esta lendo?}
+{106}{}{O que você esta lendo?}
 {107}{}{Gaahh.}
-{108}{}{Hmm. Aparentemente eu nao posso ser de assistencia.}
-{109}{}{A Escriba Mestra Vree esta no nivel tres, no laboratorio dos computadores.}
-{110}{}{O General Maxson esta geralmente no nivel quatro, nas camaras do conselho.}
-{111}{}{O Paladino Rhombus passa a maior parte do tempo dele no nivel um, na sala de suprimentos.}
-{112}{}{Ha algo mais em que eu possa ajudar voce?}
+{108}{}{Hmm. Aparentemente eu não posso ser de assistencia.}
+{109}{}{A Escriba Mestra Vree esta no nível tres, no laboratorio dos computadores.}
+{110}{}{O General Maxson esta geralmente no nível quatro, nas camaras do conselho.}
+{111}{}{O Paladino Rhombus passa a maior parte do tempo dele no nível um, na sala de suprimentos.}
+{112}{}{Ha algo mais em que eu possa ajudar você?}
 {113}{}{Obrigado. Bom dia.}
 {114}{}{Realmente, e um jornal que eu estou mantendo. Eu estou trabalhando num tratado 
  sobre as dinamicas sociais da Irmandade.}
@@ -20,21 +20,21 @@
  da guerra e sobre as sociedades do mundo exterior. Eu acho que a Irmandade chega
  mais perto em organizacao aos Cavaleiros Templarios da assim chamada
  'Idade das Trevas'.}
-{118}{}{Por que voce decidiu estudar isto?}
+{118}{}{Por que você decidiu estudar isto?}
 {119}{}{Os Cavaleiros Templarios?}
 {120}{}{Embora a Irmandade coloque uma alta enfase em ciencias dificeis e
  tecnologia das aplicacoes, houve pouco no caminho da pesquisa das ciencias
  leves como psicologia e sociologia. Para uma educacao bem-rodeada, nos
  nos devemos aplicar o pensamento cientifico a todas os endeavors.}
-{121}{}{Entao o que voce descobriu?}
+{121}{}{Entao o que você descobriu?}
 {122}{}{Eu cheguei a conclusao que a Irmandade funciona mais como um organizacao
  pseudo-religiosa. Nos temos a forte hierarquia militar, combinada com codigos de
- honra passados adiante dos nossos ancestrais. Combine isto com as nossas tecnicas
+ honra passados adiante dos nossos ancestrais. Combine isto com as nossas técnicas
  e eu acho que ha dois caminhos  de desenvolvimento pra Irmandade: uma ditadura
  tecno-religiosa ou uma sociedade de pesquisa benevolente.}
 {123}{}{O que poderia influenciar o desenvolvimento da Irmandade?}
 {124}{}{Ultimamente nos temos uma hierarquia de comando, com os Elders no topo. As
- posicoes mais influenciais, entao, estao sao as dos Elders e a do Elder Supremo. Um
+ posicoes mais influenciais, entao, estao são as dos Elders e a do Elder Supremo. Um
  Elder supremo carismatico poderia dirigir a Irmandade quase completamente. Nos
  precisamos ser cuidadosos pra ter certeza que nos tenhamos um lider que seja ambos:
  forte e visionario. Thankfully, eu acho que o General Maxson se encaixa nessa descricao.}
@@ -46,4 +46,4 @@
  estava primariamente envolvida no controle de ouro e da terra.}
 {126}{}{E como isto se relaciona com a Irmandade?}
 {127}{}{Nos devemos entender nosso passado se nos precisamos reconhecer nossas direcoes
- paro o futuro . . . mas eu tenho certeza que voce nao entenderia isso.}
+ paro o futuro . . . mas eu tenho certeza que você não entenderia isso.}

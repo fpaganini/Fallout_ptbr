@@ -1,31 +1,31 @@
 {100}{}{Saia daqui!}
-{101}{}{Eu ouvi coisas ruins sobre voce, elas sao verdadeiras?}
+{101}{}{Eu ouvi coisas ruins sobre você, elas são verdadeiras?}
 {102}{}{Oi.}
 {103}{}{Este e meu lugar, quer hang out for a while?}
-{104}{}{Hmm, voce parece juicy . . .}
-{105}{}{Eu espero que voce nao va me chutar daqui.}
+{104}{}{Hmm, você parece juicy . . .}
+{105}{}{Eu espero que você não va me chutar daqui.}
 {106}{}{Nao.}
 {107}{}{Esse e um jeito estranho de comecar uma conversa.}
 {108}{}{Hnnn.}
-{109}{}{Oh, bem, se voce quiser ficar um pouco, va bem em frente. Eu acho que nos
+{109}{}{Oh, bem, se você quiser ficar um pouco, va bem em frente. Eu acho que nos
  estamos seguros aqui.}
-{110}{}{Bem, voce tem que ser cuidadoso estes dias. Eu esper que voce esteja tendo
+{110}{}{Bem, você tem que ser cuidadoso estes dias. Eu esper que você esteja tendo
  uma vida melhor do que eu estou.}
 {111}{}{Bem, e verdade. Apos o que aconteceu com meus amigos, eu tenho que proteger
- meu turf. Eu apenas espero que voce nao va me matar.}
-{112}{}{Nao, eu nao machucarei voce. Muito.}
-{113}{}{Por que voce diz isso?}
+ meu turf. Eu apenas espero que você não va me matar.}
+{112}{}{Nao, eu não machucarei você. Muito.}
+{113}{}{Por que você diz isso?}
 {114}{}{Gack!}
 {115}{}{Sem motivo. De verdade.}
 # Translation note:
 # Line 116 has one of lines 117-120 appended to it, depending upon circumstances.
 {116}{}{Aqueles cara da cura 'prestativos' queriam o lugar do meu amigo, entao eles
- o tomaram. Eu nao sei o que aconteceu aos meus amigos.}
+ o tomaram. Eu não sei o que aconteceu aos meus amigos.}
 {117}{}{ E o Killian esta muito ocupado pra me ajudar.}
 {118}{}{ O Killian esta muito ocupado limpando a bagunca do Gizmo pra ajudar.}
 {119}{}{ O Gizmo riu de mim quando eu pedi pela ajuda dele.}
 {120}{}{ Nao ha ninguem por aqui pra me ajudar.}
-{121}{}{Voce esta seguro?}
+{121}{}{Você esta seguro?}
 {122}{}{Isso e uma pena.}
 {123}{}{Eu espero que sim, eu realmente espero que sim.}
 {124}{}{Por favor deixe-me em paz!}

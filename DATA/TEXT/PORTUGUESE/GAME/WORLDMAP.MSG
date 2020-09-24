@@ -81,7 +81,7 @@
 {311}{}{Interior}
 
 # Misc messages
-{500}{}{Voce ganhou 10.000 pontos de experiencia!}
+{500}{}{Você ganhou 10.000 pontos de experiência!}
 {501}{}{Ruinas}
 
 #

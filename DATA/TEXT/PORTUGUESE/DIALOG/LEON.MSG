@@ -1,5 +1,5 @@
-{100}{}{Voce ve o Leone.}
-{101}{}{Se voce quer companhia, alugue uma prostituta. Eu estou ocupado.}
-{102}{}{Nao ate que o chefe diga que sim. Apenas ignore ele e ele ira embora.}
-{103}{}{Nao ate que o chefe diga que sim. Apenas ignore ela e ela ira embora.}
-{105}{}{Me de um descanso. Qualquer um pode machucar um joelho ou quebrar os dedos. Isso apenas nao choca as pessoas como costumava fazer.}
+{100}{}{Você ve o Leone.}
+{101}{}{Se você quer companhia, alugue uma prostituta. Eu estou ocupado.}
+{102}{}{Nao até que o chefe diga que sim. Apenas ignore ele e ele ira embora.}
+{103}{}{Nao até que o chefe diga que sim. Apenas ignore ela e ela ira embora.}
+{105}{}{Me de um descanso. Qualquer um pode machucar um joelho ou quebrar os dedos. Isso apenas não choca as pessoas como costumava fazer.}

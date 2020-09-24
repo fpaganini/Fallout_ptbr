@@ -1,4 +1,4 @@
-{100}{}{Voce ve um ghoul brilhante.}
-{101}{}{Uma soneca suja sera dada se alteracoes sao feitas. A
+{100}{}{Você ve um ghoul brilhante.}
+{101}{}{Uma soneca suja será dada se alteracoes são feitas. A
  ultima foi tentada aqui.}
 {102}{}{O fluxo termina. Assim como sua vida.}

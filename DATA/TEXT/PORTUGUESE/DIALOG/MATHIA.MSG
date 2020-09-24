@@ -1,34 +1,34 @@
-{100}{}{Voce ve Mathia.}
-{101}{}{Ola, Iniciado. Entao, voce e aquele que conseguiu sair
+{100}{}{Você ve Mathia.}
+{101}{}{Ola, Iniciado. Entao, você e aquele que conseguiu sair
  da Ordem Antiga vivo.}
 {102}{}{O que?}
-{103}{}{E quem e voce?}
-{104}{}{Lamento, eu pensei que voce era outra pessoa. Tchau.}
+{103}{}{E quem e você?}
+{104}{}{Lamento, eu pensei que você era outra pessoa. Tchau.}
 {105}{}{O nome e Mathia. Eu sou oficialmente o assistente do Maxson, mas
  eu estou aqui tambem pra ter certeza de que ninguem mexa com o velho.}
 {106}{}{Velho? Isso soa um pouco desrespeitoso.}
-{107}{}{O que voce faz como assistente do Maxson?}
-{108}{}{Bom encontrar voce. Tchau.}
-{109}{}{Nao, nao, de modo algum. Ele e um cara bom. (Brincano) Alem disso,
- eu nao falaria mal dele enquanto ele estivesse de pe proximo a mim.}
-{110}{}{Entao, o que e que voce faz para o Maxson como assistente dele?}
+{107}{}{O que você faz como assistente do Maxson?}
+{108}{}{Bom encontrar você. Tchau.}
+{109}{}{Nao, não, de modo algum. Ele e um cara bom. (Brincano) Alem disso,
+ eu não falaria mal dele enquanto ele estivesse de pe proximo a mim.}
+{110}{}{Entao, o que e que você faz para o Maxson como assistente dele?}
 {111}{}{Adeus.}
-{112}{}{Eu tomo conta de todo o trabalho em papel. Ele nao conseguiria fazer
- trabalho em papel pra salvar a vida dele. Tambem, se ele clears um
+{112}{}{Eu tomo conta de todo o trabalho em papel. Ele não conseguiria fazer
+ trabalho em papel pra salvar a vida dele. Também, se ele clears um
  upgrade das armas para um dos Irmaos, eu processo a ordem.}
 {113}{}{Ok, obrigado pela informacao.}
-{114}{}{Eu nao consigo acreditar que um idiota como voce e aquele que
+{114}{}{Eu não consigo acreditar que um idiota como você e aquele que
  fez a Ordem Antiga funcionar. Vai entender.}
-{115}{}{Ola de novo Iniciado. Como eu posso ajudar voce?}
+{115}{}{Ola de novo Iniciado. Como eu posso ajudar você?}
 {116}{}{O que?}
 {117}{}{Eu lamento, eu esqueci seu nome.}
-{118}{}{Lamento, eu pensei que voce era outra pessoa. Bom dia.}
-{119}{}{Certo, vamos lao. (Ele agarra voce pelo braco)}
+{118}{}{Lamento, eu pensei que você era outra pessoa. Bom dia.}
+{119}{}{Certo, vamos lao. (Ele agarra você pelo braço)}
 {120}{}{Uh huh.}
 {121}{}{Uh uh.}
 {122}{}{Certo, certo. Eu estou indo.}
-{123}{}{Fique longe de mim. Eu nao vou a qualquer lugar.}
-{124}{}{Ok. Maxson has cleared um upgrade de arma pra voce. O que voce
+{123}{}{Fique longe de mim. Eu não vou a qualquer lugar.}
+{124}{}{Ok. Maxson has cleared um upgrade de arma pra você. O que você
  gostaria?}
 {125}{}{O que?}
 {126}{}{Rifle de Sniper.}
@@ -36,8 +36,8 @@
 {128}{}{Pistola Laser.}
 {129}{}{Punho de Energia.}
 {130}{}{Ripper.}
-{131}{}{Ai vai voce. Estou feliz de que voce esta no nosso lado Iniciado.}
-{132}{}{Os Elders have called uma reuniao. Eles desejam que voce encontre
+{131}{}{Ai vai você. Estou feliz de que você esta no nosso lado Iniciado.}
+{132}{}{Os Elders have called uma reuniao. Eles desejam que você encontre
  eles na sala de conferencia imediatamente.}
 {133}{}{Aonde e a sala de conferencia?}
 {134}{}{Ok, obrigado.}

@@ -1,71 +1,71 @@
-{100}{}{Oi, o que eu posso fazer por voce?}
-{101}{}{Quem e voce?}
-{102}{}{Voce e a lider desta gangue?}
+{100}{}{Oi, o que eu posso fazer por você?}
+{101}{}{Quem e você?}
+{102}{}{Você e a lider desta gangue?}
 {103}{}{Deixa pra la.}
 {104}{}{A...O qu?}
 {105}{}{Razor e o nome. Eu sou a coisa mais proxima que nos temos de um lider.}
-{106}{}{Entao voce e a lider desta gangue?}
+{106}{}{Entao você e a lider desta gangue?}
 {107}{}{Qual e a estoria com a area cercada ao sul?}
 # Fixed with patch 1.2 from TeamX. Player's name will be substitued at the end of the line 108.
-{108}{}{Bom encontrar voce. Eu sou }
-{109}{}{Bom encontrar voce. Mas eu preciso ir.}
+{108}{}{Bom encontrar você. Eu sou }
+{109}{}{Bom encontrar você. Mas eu preciso ir.}
 {110}{}{Gangue? Nos dificilmente somos uma gangue. Mas eu sou a lider aqui.}
-{111}{}{Se voces nao sao uma gangue, entao o que sao voces?}
+{111}{}{Se voces não são uma gangue, entao o que são voces?}
 {112}{}{Bem, voces parecem uma gangue pra mim.}
 {113}{}{Adeus}
-{114}{}{Essa e Adytum. E um acampamento de trabalho escravo comandado por um grupo chamado os Reguladores, mas eles dizem a todo mundo que e uma "cidade". Eles vem aqui e levam nosso povo para trabalhar pra eles ate que eles morram. Entao eles vem e levam mais de nos.}
-{115}{}{Voces nao conseguem entrar la e libertar seu povo?}
-{116}{}{Entao para o que eu estou falando com voce? Aqueles sao os caras com quem eu preciso me enturmar.}
+{114}{}{Essa e Adytum. E um acampamento de trabalho escravo comandado por um grupo chamado os Reguladores, mas eles dizem a todo mundo que e uma "cidade". Eles vem aqui e levam nosso povo para trabalhar pra eles até que eles morram. Entao eles vem e levam mais de nos.}
+{115}{}{Voces não conseguem entrar la e libertar seu povo?}
+{116}{}{Entao para o que eu estou falando com você? Aqueles são os caras com quem eu preciso me enturmar.}
 {117}{}{Eu vou descobrir o que eu puder sobre Adytum. Adeus.}
-{118}{}{Entao. O que trouxe voce a este canto das terras devastadas?}
-{119}{}{Eu estou procurando por um Chip de Agua. Voce sabe onde eu posso achar um?}
+{118}{}{Entao. O que trouxe você a este canto das terras devastadas?}
+{119}{}{Eu estou procurando por um Chip de Agua. Você sabe onde eu posso achar um?}
 {120}{}{Eu estou apenas caminhando pela terra.}
 {121}{}{Apenas olhando por ai. Tchau.}
-{122}{}{Nos somos apenas pessoas tentando sobreviver. Adytum nos pos nesta posicao. Eles nos mantem la embaixo e usam nossos amigos e familias como animais. Nos nao temos ao menos um modo de defender a nos mesmos.}
-{123}{}{Por que voce nao enfrenta eles?}
+{122}{}{Nos somos apenas pessoas tentando sobreviver. Adytum nos pos nesta posição. Eles nos mantem la embaixo e usam nossos amigos e familias como animais. Nos não temos ao menos um modo de defender a nos mesmos.}
+{123}{}{Por que você não enfrenta eles?}
 {124}{}{Defender a si mesmos de quem?}
-{125}{}{Bem, as pessoas de Adytum sao mais fortes e mais espertas do que voce, e o direto delas explorar os fracos.}
+{125}{}{Bem, as pessoas de Adytum são mais fortes e mais espertas do que você, e o direto delas explorar os fracos.}
 {126}{}{Eu vou olhar por ai para ver o que eu posso descobrir. Tchau}
 {127}{}{Eu desejo que nos fossemos uma gangue. Pelo menos entao nos teriamos armas decentes para defender a nos mesmos.}
 {128}{}{Defender a si mesmos de quem?}
-{129}{}{Bem, voce nao esta me enganando. Voces sao todos um bando de degenerados e eu acho que voces estao prontos pra fazer o mal.}
+{129}{}{Bem, você não esta me enganando. Voces são todos um bando de degenerados e eu acho que voces estao prontos pra fazer o mal.}
 {130}{}{Voces todos parecem uma gangue para mim.}
-{131}{}{Bem, eu nao posso ajudar voce com isso.}
+{131}{}{Bem, eu não posso ajudar você com isso.}
 {132}{}{Qual e a estoria com a area cercada ao sul?}
-{133}{}{Voce e a lider desta gangue?}
-{134}{}{Nos precisamos de armas melhores. Os Gun Runners, a little ways daqui, tem armas, mas nos nao conseguimos chegar ate eles.}
-{135}{}{Por que voce nao pode?}
+{133}{}{Você e a lider desta gangue?}
+{134}{}{Nos precisamos de armas melhores. Os Gun Runners, a little ways daqui, tem armas, mas nos não conseguimos chegar até eles.}
+{135}{}{Por que você não pode?}
 {136}{}{Eu vou descobrir o que eu puder sobre a situacao.}
-{137}{}{Os Reguladores. Eles sao aqueles que realmente comandam Adytum. Nao o Zimmerman. Eles vem aqui e arrastam nosso povo de volta a Adytum como escravos. Eles nos matam quando nos tentamos enfrenta-los. As vezes eles simplesmente vem e matam alguns de nos pra trazer pro Zimmerman, pra que eles possam dizer que nos tentamos to break into cidade deles, ou alguma outra estoria ridicula. Aqueles filhos da puta ate mesmo mataram o filho do Zimmerman!}
+{137}{}{Os Reguladores. Eles são aqueles que realmente comandam Adytum. Nao o Zimmerman. Eles vem aqui e arrastam nosso povo de volta a Adytum como escravos. Eles nos matam quando nos tentamos enfrenta-los. As vezes eles simplesmente vem e matam alguns de nos pra trazer pro Zimmerman, pra que eles possam dizer que nos tentamos to break into cidade deles, ou alguma outra estoria ridicula. Aqueles filhos da puta até mesmo mataram o filho do Zimmerman!}
 {138}{}{Filho do Zimmerman? Por que eles quiseram mata-lo?}
-{139}{}{Voce esta dizendo que voce nunca fez nada contra Adytum?}
-{140}{}{Ha um ninho de deathclaws entre nos e eles. Nos nunca nem mesmo falamos com qualquer dos Gun Runners. Os Reguladores tem o poder de fogo para limpar os deathclaws, mas eles nao o fazem por algum motivo.}
+{139}{}{Você esta dizendo que você nunca fez nada contra Adytum?}
+{140}{}{Ha um ninho de deathclaws entre nos e eles. Nos nunca nem mesmo falamos com qualquer dos Gun Runners. Os Reguladores tem o poder de fogo para limpar os deathclaws, mas eles não o fazem por algum motivo.}
 {141}{}{Aonde eu posso achar os Gun Runners?}
 {142}{}{OK. Adeus.}
 {143}{}{Josh viveu aqui comigo... a... eu...eu quero dizer nos. Ele sabia a verdade por tras do que estava acontecendo. Os Reguladores disseram a ele que ele tentasse contactar o pai dele ou retornar para Adytum, que eles o matariam.}
 {144}{}{Eles mataram ele? O que ele fez?}
 {145}{}{Eu vou para Adytum para verificar isto.}
 {146}{}{Tarde da noite ele tentou entrar furtivamente na cidade para dizer ao pai dele o que realmente estava acontecendo. Eu estava monitorando as transmissoes de radio dos Reguladores na noite que .. eles.. ele foi ...pego. [Ela olha pra baixo e balanca a cabeca dela lentamente.] Aqui, esta tudo neste holodisco.}
-{147}{}{Por que voce nao deu isto ao Pai do Josh?}
-{148}{}{Nao e como se qualquer de nos pudesse ao menos chegar perto de Adytum. Nos seriamos mortos com tiros antes que nos ate mesmo chegassemos aos portoes.}
-{149}{}{Por que eu nao dou a ele o disco?}
-{150}{}{Por que voces nao fazem um grande grupo juntos e tomam Adytum pela forca?}
-{151}{}{Voce arriscaria sua vida para nos ajudar?}
+{147}{}{Por que você não deu isto ao Pai do Josh?}
+{148}{}{Nao e como se qualquer de nos pudesse ao menos chegar perto de Adytum. Nos seriamos mortos com tiros antes que nos até mesmo chegassemos aos portoes.}
+{149}{}{Por que eu não dou a ele o disco?}
+{150}{}{Por que voces não fazem um grande grupo juntos e tomam Adytum pela forca?}
+{151}{}{Você arriscaria sua vida para nos ajudar?}
 {152}{}{Com certeza. Qualquer coisa para ajudar.}
 {153}{}{Eu poderia. Eu preciso ir verificar algumas coisas antes que eu faca algo.}
-{154}{}{Obrigado a voce. Isto realmente poderia nos ajudar. Boa sorte. [Ela entrega a voce o holodisco.]}
-{155}{}{Vejo voce mais tarde.}
-{156}{}{Muito bem. Eu espero que voce tome a decisao certa.}
+{154}{}{Obrigado a você. Isto realmente poderia nos ajudar. Boa sorte. [Ela entrega a você o holodisco.]}
+{155}{}{Vejo você mais tarde.}
+{156}{}{Muito bem. Eu espero que você tome a decisao certa.}
 {157}{}{Adeus.}
-{158}{}{Os Gun Runners estao para o leste e entao, o norte daqui. Mas seja cuidadoso - deathclaws nao sao para serem levados lightly. Eu vi um Deathclaw dividir um homem pela metade com um swipe.}
+{158}{}{Os Gun Runners estao para o leste e entao, o norte daqui. Mas seja cuidadoso - deathclaws não são para serem levados lightly. Eu vi um Deathclaw dividir um homem pela metade com um swipe.}
 {159}{}{Eu vou ver o que eu posso descobrir.}
-{160}{}{Eu lamento que voce se sinta desse modo. Eu acho que seria melhor se voce saisse.}
+{160}{}{Eu lamento que você se sinta desse modo. Eu acho que seria melhor se você saisse.}
 {161}{}{Tchau.}
-{162}{}{Eu posso ajudar voce?}
-{163}{}{Voce e a lider desta gangue?}
+{162}{}{Eu posso ajudar você?}
+{163}{}{Você e a lider desta gangue?}
 {164}{}{Deixa pra la.}
 {165}{}{A...O qu?}
-{166}{}{Gangue? Nos dificilmente somos uma gangue. Mas eu sou aquela a quem todos chegam por direcao.}
+{166}{}{Gangue? Nos dificilmente somos uma gangue. Mas eu sou aquela a quem todos chegam por direção.}
 {167}{}{Zimmerman me enviou.}
 {168}{}{Bem, voces parecem uma gangue pra mim.}
 {169}{}{Adeus}
@@ -73,73 +73,73 @@
 {171}{}{Para por uma bala na sua cabeca.}
 {172}{}{Para dar o troco por matar seu filho.}
 {173}{}{O QUE??? AQUELES PEDACOS DE MERDA BASTARDOS DA PORRA! EU MATAREI TODOS ELES, EU MANDAREI TODOS ELES PARA O INFERNO!!}
-{174}{}{Nao, voce e o que esta indo para o inferno.}
+{174}{}{Nao, você e o que esta indo para o inferno.}
 {175}{}{Uh...quem voces vao mandar para o inferno?}
-{176}{}{... os Reguladores. Foram eles que mataram o Josh! Eu nunca faria qualquer coisa pra machucar o Josh. Sao os Reguladores que estao comandando Adytum, nao o Zimmerman.}
+{176}{}{... os Reguladores. Foram eles que mataram o Josh! Eu nunca faria qualquer coisa pra machucar o Josh. Sao os Reguladores que estao comandando Adytum, não o Zimmerman.}
 {177}{}{Esta e uma tentativa patetica de conversar para sair fora disto.}
 {178}{}{Por que os Reguladores matariam o filho do Zimmerman?}
-{179}{}{Josh vivia aqui comigo... um... eu...eu quero dizer, nos. Ele sabia a verdade por tras do que estava acontecendo. Os Reguladores disseram a ele que se ele sequer tentasse contactar seu pai ou retonar para Adytum, que eles o matariam. Eles riram dele... eles tinham tanta certeza de que ele nao conseguiria chegar ao pai dele....}
+{179}{}{Josh vivia aqui comigo... um... eu...eu quero dizer, nos. Ele sabia a verdade por tras do que estava acontecendo. Os Reguladores disseram a ele que se ele sequer tentasse contactar seu pai ou retonar para Adytum, que eles o matariam. Eles riram dele... eles tinham tanta certeza de que ele não conseguiria chegar ao pai dele....}
 {180}{}{Eles mataram ele? O que ele fez?}
 {181}{}{Como esta indo nosso plano?}
 {182}{}{Eu ainda estou tentando fazer com que tudo fique resolvido.}
 {183}{}{A...O qu?}
-{184}{}{Eu nao tenho tanta certeza que ajudaria sem a ameaca da violencia por tras. O que nos realmente precisamos sao algumas armas dos Gun Runners.}
-{185}{}{Bem, aonde estao estes Gun Runners? Por que voces nao pegam algumas armas deles?}
+{184}{}{Eu não tenho tanta certeza que ajudaria sem a ameaca da violencia por tras. O que nos realmente precisamos são algumas armas dos Gun Runners.}
+{185}{}{Bem, aonde estao estes Gun Runners? Por que voces não pegam algumas armas deles?}
 {186}{}{Oh, bem, eu ofereci. Adeus.}
 {187}{}{Eles estao um pouco a leste daqui, mas ha um ninho de deathclaws entre nos e eles. Nos nunca nem mesmo falamos com qualquer dos Gun Runners.}
 {188}{}{Ok, me de o holodisco e eu irei falar com os Gun Runners antes de eu me aproximar do Zimmerman.}
-{189}{}{Eu espero que voce possa achar um modo de nos ajudar. Adeus.}
+{189}{}{Eu espero que você possa achar um modo de nos ajudar. Adeus.}
 {190}{}{O que esta errado?}
 {191}{}{Eles mataram Zimmerman!}
 {192}{}{A...O qu?}
-{193}{}{....Agora nos nao temos escolha a nao ser pegar essas armas dos Gun Runners. Voce nos ajudara?}
+{193}{}{....Agora nos não temos escolha a não ser pegar essas armas dos Gun Runners. Você nos ajudara?}
 {194}{}{Sim.}
 {195}{}{Nao.}
-{196}{}{Obrigado a voce. Possam os Deuses estar com voce na sua jornada.}
-{197}{}{Obrigado por toda a sua ajuda. Nos vamos invadir Adytum. Nos poderiamos usar alguem como voce no nosso lado.}
-{198}{}{Nao obrigado, eu ja vi acao o bastante esta semana.}
+{196}{}{Obrigado a você. Possam os Deuses estar com você na sua jornada.}
+{197}{}{Obrigado por toda a sua ajuda. Nos vamos invadir Adytum. Nos poderiamos usar alguem como você no nosso lado.}
+{198}{}{Nao obrigado, eu já vi ação o bastante esta semana.}
 {199}{}{Com certeza, Eu ficaria feliz em destruir os Reguladores.}
 {200}{}{A...O qu?}
 {201}{}{Eu gostaria de falar com o Zimmerman primeiro.}
 {202}{}{Bem, obrigado de novo por sua ajuda. Adeus.}
 {203}{}{Otimo. Vamos la.}
-{204}{}{Eu nao acho que e uma boa ideia, mas voce e bem vindo para tentar.}
+{204}{}{Eu não acho que e uma boa ideia, mas você e bem vindo para tentar.}
 # 205 fixed with patch 1.3 from TeamX. 240 or 241 will be substituted BEFORE this line.
-{205}{}{Seu burro! Com os Gun Runners acabados nos nunca teremos chance de armar as nos mesmos. Saia daqui, voce nao e bem vindo aqui.}
+{205}{}{Seu burro! Com os Gun Runners acabados nos nunca teremos chance de armar as nos mesmos. Saia daqui, você não e bem vindo aqui.}
 {206}{}{Eu lamento.}
 {207}{}{Go stuff it.}
 {208}{}{Eu estou indo falar com o Zimmerman e dar a ele este holodisco, tudo vai ficar OK.}
-{209}{}{Voce sabe a maior? Eu vou matar voce.}
+{209}{}{Você sabe a maior? Eu vou matar você.}
 {210}{}{A...O qu?}
-{211}{}{Va em frente. E o seu funeral. Sem aquelas armas nos nao temos nada para nos apoiar.}
+{211}{}{Va em frente. E o seu funeral. Sem aquelas armas nos não temos nada para nos apoiar.}
 {212}{}{Vai embora!}
-{213}{}{Voce nao e bem vindo aqui.}
+{213}{}{Você não e bem vindo aqui.}
 {214}{}{Desapareca.}
-{215}{}{Obrigado a voce.}
+{215}{}{Obrigado a você.}
 {216}{}{Meu povo esta livre.}
 {217}{}{Ola.}
-{218}{}{O que aconteceu com voce? Alguem atirou em voce na cabeca?}
+{218}{}{O que aconteceu com você? Alguem atirou em você na cabeca?}
 {219}{}{Hunh?}
-{220}{}{Voce ve a Razor, lider dos Blades.}
-{221}{}{Voce ve uma mulher muito linda com um olhar triste nos olhos dela.}
+{220}{}{Você ve a Razor, lider dos Blades.}
+{221}{}{Você ve uma mulher muito linda com um olhar triste nos olhos dela.}
 {222}{}{Por favor va embora. Eu estou muito ocupada.}
-{223}{}{Obrigado a voce por nos ajudar com os Reguladores. Por favor sinta-se livre para ficar tanto quanto voce quiser. Voce poderia querer checar com Miles e Smitty, eles podem ser capazes de ajudar voce com suas novas viagens.}
-{224}{}{Oi, eu posso ajudar voce?}
-{225}{}{Quem e voce?}
+{223}{}{Obrigado a você por nos ajudar com os Reguladores. Por favor sinta-se livre para ficar tanto quanto você quiser. Você poderia querer checar com Miles e Smitty, eles podem ser capazes de ajudar você com suas novas viagens.}
+{224}{}{Oi, eu posso ajudar você?}
+{225}{}{Quem e você?}
 {226}{}{Hootzpah!}
-{227}{}{O nome e Razor, eu sou a lider das pessoas que voce ve aqui. Nos vivemos aqui pelo capricho dos Reguladores de Adytum.}
+{227}{}{O nome e Razor, eu sou a lider das pessoas que você ve aqui. Nos vivemos aqui pelo capricho dos Reguladores de Adytum.}
 {228}{}{Reguladores? Eu tomei conta de todos eles. Isso e um problema?}
-{229}{}{Voce matou eles todos? Isso nao e um problema de modo algum. Meu povo pode agora viver vidas livres com o povo de Adytum.}
-{230}{}{Eu nao consigo acreditar. Voce foi capaz de matar todos eles. Os Blades e eu agradecemos a voce.}
-{231}{}{Eu ouvi que os Reguladores ainda controlam Adytum. Voce nao foi capaz de matar todos eles como voce tinha esperado?}
+{229}{}{Você matou eles todos? Isso não e um problema de modo algum. Meu povo pode agora viver vidas livres com o povo de Adytum.}
+{230}{}{Eu não consigo acreditar. Você foi capaz de matar todos eles. Os Blades e eu agradecemos a você.}
+{231}{}{Eu ouvi que os Reguladores ainda controlam Adytum. Você não foi capaz de matar todos eles como você tinha esperado?}
 {232}{}{Nao se preocupe, eu tomarei conta disto.}
-{233}{}{Eu nao acho que eu vou ser capaz de faze-lo.}
-{234}{}{Nos iriamos com voce, mas sem armas os Reguladores matariam a nos todos. Poderia haver outra possibilidade [Razor pondera por um momento] Se voce pudesse conseguir que os Gun Runners nos suprissem com armas, entao um numero de nos poderia ir com voce.}
+{233}{}{Eu não acho que eu vou ser capaz de faze-lo.}
+{234}{}{Nos iriamos com você, mas sem armas os Reguladores matariam a nos todos. Poderia haver outra possibilidade [Razor pondera por um momento] Se você pudesse conseguir que os Gun Runners nos suprissem com armas, entao um numero de nos poderia ir com você.}
 {235}{}{Soa bem. Eu vou falar com eles.}
 {236}{}{Eu tentarei destruir os Reguladores eu mesmo de novo.}
-{237}{}{Ola de novo, eu ouvi que voce esteve brincando com os Reguladores. Eu queria agradecer a voce por nos livrar deles. Meu povo sera capaz de viver com as pessoas de Adytum em liberdade agora.}
+{237}{}{Ola de novo, eu ouvi que você esteve brincando com os Reguladores. Eu queria agradecer a você por nos livrar deles. Meu povo será capaz de viver com as pessoas de Adytum em liberdade agora.}
 {238}{}{Eu tomarei conta dos Reguladores eu mesmo.}
-{239}{}{Voce ira? Bem, se voce precisar de ajuda ou o fizer, volte e fale comigo.}
+{239}{}{Você ira? Bem, se você precisar de ajuda ou o fizer, volte e fale comigo.}
 
 # 240-241 added with patch 1.3 from TeamX.
 # TRANSLATION NOTE: Following two lines are gender dependent.

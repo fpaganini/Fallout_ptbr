@@ -1,4 +1,4 @@
-{100}{}{Voce ve um ghoul brilhante.}
-{101}{}{O ghoul ignora voce.}
-{102}{}{O liquido claro nao mais flui. Sem o fluir nos todos
+{100}{}{Você ve um ghoul brilhante.}
+{101}{}{O ghoul ignora você.}
+{102}{}{O liquido claro não mais flui. Sem o fluir nos todos
  tiraremos o descanso final.}

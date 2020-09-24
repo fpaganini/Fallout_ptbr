@@ -1,8 +1,8 @@
-{100}{}{A pessoa parece que pode ter sido da Irmandade do Aco.}
-{101}{}{Voce imagina o que poderia ter causado tal dano ao membro da Irmandade.}
-{102}{}{Quem quer que fez isto nao parece estar mais por ai.}
-{103}{}{Quem quer que fez isto poderia estar lurking mas abaixo no complexo. Talvez voce deva ser
+{100}{}{A pessoa parece que pode ter sido da Irmandade do Aço.}
+{101}{}{Você imagina o que poderia ter causado tal dano ao membro da Irmandade.}
+{102}{}{Quem quer que fez isto não parece estar mais por ai.}
+{103}{}{Quem quer que fez isto poderia estar lurking mas abaixo no complexo. Talvez você deva ser
  cauteloso enquanto caminhar por aqui.}
-{104}{}{Voce imagina o que poderia ter feito este robo ser morto.}
-{105}{}{Voce imagina se talvez a explosao fez este robo morrer.}
+{104}{}{Você imagina o que poderia ter feito este robo ser morto.}
+{105}{}{Você imagina se talvez a explosao fez este robo morrer.}
 {106}{}{Isto parece ter sido alguma coisa em que os cientistas estavam trabalhando aqui.}

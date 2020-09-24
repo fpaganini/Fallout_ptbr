@@ -1,18 +1,18 @@
-{100}{}{Voce ve a Cindy.}
+{100}{}{Você ve a Cindy.}
 {101}{}{Ela esta chorando.}
 {102}{}{Ola, }
-{103}{}{. Voce ja achou o chip da agua?}
-{104}{}{Ainda nao. Eu nao tive muita sorte.}
-{105}{}{Sem sorte ainda, mas eu sei que eu acharei ele. A proposito, como voce esta indo?}
+{103}{}{. Você já achou o chip da agua?}
+{104}{}{Ainda não. Eu não tive muita sorte.}
+{105}{}{Sem sorte ainda, mas eu sei que eu acharei ele. A proposito, como você esta indo?}
 {106}{}{Urug!}
-{107}{}{Oh . . . voce nao me entende. Eu creio que nos realmente nao temos muita
+{107}{}{Oh . . . você não me entende. Eu creio que nos realmente não temos muita
  esperanca depois de tudo. Desculpe-me enquanto eu choro.}
 {108}{}{Ugg!}
 {109}{}{Por favor ache ele antes que nos morramos de sede.}
-{110}{}{Voce tem que acha-lo! Nao nos deixe morrer assim!}
-{111}{}{Continue tentando. Eu acredito em voce. Eu sei que voce fara tudo que voce
+{110}{}{Você tem que acha-lo! Nao nos deixe morrer assim!}
+{111}{}{Continue tentando. Eu acredito em você. Eu sei que você fara tudo que você
  puder pra nos salvar.}
-{112}{}{Quem voce acha que poderia estar envolvido?}
+{112}{}{Quem você acha que poderia estar envolvido?}
 {113}{}{Eu estou com medo do que esta acontecendo. Alguem tem roubado agua e agora
  todos estao no limite.}
 {114}{}{Quem faria tal coisa?}
@@ -25,15 +25,15 @@
  muito paranoicos e comecaram a guardar a agua deles. Alguns dias depois alguem
  nocauteou o guarda na area de suprimentos do racionameto e roubou a agua.}
 {119}{}{Isso e terrivel! O que eu posso fazer?}
-{120}{}{Talvez voce consiga parar quem quer que esteja fazendo isto.}
+{120}{}{Talvez você consiga parar quem quer que esteja fazendo isto.}
 {121}{}{Eu darei uma olhada por ai.}
-{122}{}{Voce e o ladrao de agua?! Como voce pode?}
+{122}{}{Você e o ladrão de agua?! Como você pode?}
 {123}{}{Muito obrigado por salvar a todos nos.}
-{124}{}{Voce fez um bom trabalho pegando o ladrao. Por favor apresse-se e ache o
+{124}{}{Você fez um bom trabalho pegando o ladrão. Por favor apresse-se e ache o
  chip da agua.}
-{125}{}{Como voce pode nos trair? Agora todos aqui morrerao! Mas voce nao se
+{125}{}{Como você pode nos trair? Agora todos aqui morrerao! Mas você não se
  importa, importa?}
-{126}{}{Eu estou assustada. Eu nao sei o que acontecera a todos nos. Por favor,
- nao nos desaponte.}
-{127}{}{Nao se preocupe, eu farei o meu melhor. Voce ficara bem.}
+{126}{}{Eu estou assustada. Eu não sei o que acontecera a todos nos. Por favor,
+ não nos desaponte.}
+{127}{}{Nao se preocupe, eu farei o meu melhor. Você ficara bem.}
 {128}{}{Sim, que seja.}

@@ -1,6 +1,6 @@
-{100}{}{Voce ve uma jovem mulher esbelta com uma face manchada e vestuario escuro.}
-{101}{}{Voce ve Katja, a ladra.}
-{102}{}{Voce nao e daqui. Quem e voce?}
+{100}{}{Você ve uma jovem mulher esbelta com uma face manchada e vestuario escuro.}
+{101}{}{Você ve Katja, a ladra.}
+{102}{}{Você não e daqui. Quem e você?}
 
 # TRANSLATION NOTE
 # The player-character's name is inserted between lines 103 and 104 by the code.
@@ -8,74 +8,74 @@
 {103}{}{O nome e }
 {104}{}{.}
 {105}{}{Eu sou um viajante.}
-{106}{}{Eu poderia perguntar o mesmo de voce.}
-{107}{}{E o que, posso eu perguntar, que voce esta fazendo na Boneyard?}
-{108}{}{Voce faz muitas perguntas.}
-{109}{}{Primeiro voce me diz quem voce e.}
+{106}{}{Eu poderia perguntar o mesmo de você.}
+{107}{}{E o que, posso eu perguntar, que você esta fazendo na Boneyard?}
+{108}{}{Você faz muitas perguntas.}
+{109}{}{Primeiro você me diz quem você e.}
 {110}{}{Eu sou apenas um explorador.}
 {111}{}{Eu estou procurando por um chip de agua substituto pra minha Vault.}
-{112}{}{Voce aprende a ser cuidadoso por aqui. Entao o que voce esta fazendo aqui?}
-{113}{}{Tudo bem, justo o bastante. Eu sou chamada Katja. Qual e o problema com voce?}
+{112}{}{Você aprende a ser cuidadoso por aqui. Entao o que você esta fazendo aqui?}
+{113}{}{Tudo bem, justo o bastante. Eu sou chamada Katja. Qual e o problema com você?}
 {114}{}{Por que e tao hostil?}
-{115}{}{Ei, se voce vai ser rude sobre isso, entao eu verei voce mais tarde.}
-{116}{}{Eu estou procurando informacao. Voce pode ajudar?}
-{117}{}{Voce poderia, mas voce esta my home turf, nao vice-versa. Entao put up ou
+{115}{}{Ei, se você vai ser rude sobre isso, entao eu verei você mais tarde.}
+{116}{}{Eu estou procurando informacao. Você pode ajudar?}
+{117}{}{Você poderia, mas você esta my home turf, não vice-versa. Entao put up ou
  cale-se.}
 {118}{}{Nao e importante, eu sou apenas um viajante, Eu preciso de um pouco de informacao.}
-{119}{}{Um chip de purificacao da agua? Lamento, nao sei nada sobre isso. Nao
+{119}{}{Um chip de purificacao da agua? Lamento, não sei nada sobre isso. Nao
  vejo muito desse tipo de tecnologia aqui na Boneyard, exceto talvez a coisa
  em que Miles trabalha.}
 {120}{}{Bem, obrigado de qualquer modo.}
 {121}{}{Miles? Onde eu posso acha-lo? Poderia ele ajudar?}
-{122}{}{Voce pode me dizer mais sobre as Boneyard entao?}
+{122}{}{Você pode me dizer mais sobre as Boneyard entao?}
 {123}{}{Apenas um viajante. Eu ouvi essa antes. Ninguem vem para a Boneyard
  exceto aqueles mercadores do Hub e pessoas procurando por uma morte rapida
- nas maos das gangues. Pelo que voce esta aqui realmente?}
-{124}{}{Voce esta certa. Eu estou procurando um chip de purificacao da agua.}
-{125}{}{Eu nao preciso dizer nada a voce.}
-{126}{}{Bem direto. Mas essa e uma rua de duas maos.}
-{127}{}{Talvez. Voce nao e um desses gangland shiv-shovers. O que
- voce quer?}
+ nas mãos das gangues. Pelo que você esta aqui realmente?}
+{124}{}{Você esta certa. Eu estou procurando um chip de purificacao da agua.}
+{125}{}{Eu não preciso dizer nada a você.}
+{126}{}{Bem direto. Mas essa e uma rua de duas mãos.}
+{127}{}{Talvez. Você não e um desses gangland shiv-shovers. O que
+ você quer?}
 {128}{}{Eu estou procurando por uma chip de purificacao da agua.}
 {129}{}{Eu preciso de mais informacao sobre o Boneyard.}
 {130}{}{Eu preciso saber sobre a area ao redor desta cidade.}
-{131}{}{O que voce pode me dizer sobre os Blades?}
-{132}{}{O que voce pode me dizer sobre os Rippers?}
-{133}{}{O que voce pode me dizer sobre os Gun Runners?}
-{134}{}{O que voce pode me dizer sobre os Seguidores?}
-{135}{}{O que voce pode me dizer sobre Adytum?}
+{131}{}{O que você pode me dizer sobre os Blades?}
+{132}{}{O que você pode me dizer sobre os Rippers?}
+{133}{}{O que você pode me dizer sobre os Gun Runners?}
+{134}{}{O que você pode me dizer sobre os Seguidores?}
+{135}{}{O que você pode me dizer sobre Adytum?}
 {136}{}{Bem, foi um papo bom, tenho que ir.}
 {137}{}{Miles vive em Adytum. Ele e um cientista, na maior parte trabalhando com quimica.
  Seu alguem poderia surrupiar um chip de agua ou fazer um substituto, seria ele.}
 {138}{}{Muito obrigado.}
 {139}{}{Adytum e meu lar original. Um pouco muito entediante para mim. É uma cidade
- cercada e auto-suficiente no fim do sul da Boneyard, mas nao tao longe quanto
+ cercada e auto-suficiente no fim do sul da Boneyard, mas não tao longe quanto
  a Catedral. Nos negociamos as vezes com o Hub.}
-{140}{}{Eu lidei com eles antes. Eles nao sao muito ruins, tao longe quant as gangues sao.
- Eles tem um esconderijo em um velho clube, com alguns postos avancados. Se voce e
- cuidadoso voce poderia ate mesmo ser capaz de fazer alguns deles falar.}
-{141}{}{O Rippers sao apenas simplesmente ferozes. Eles sao um bando inbred que
- se deleita em tortura e assassinato. Eu fico longe deles e voce deveria tambem.
+{140}{}{Eu lidei com eles antes. Eles não são muito ruins, tao longe quant as gangues são.
+ Eles tem um esconderijo em um velho clube, com alguns postos avancados. Se você e
+ cuidadoso você poderia até mesmo ser capaz de fazer alguns deles falar.}
+{141}{}{O Rippers são apenas simplesmente ferozes. Eles são um bando inbred que
+ se deleita em tortura e assassinato. Eu fico longe deles e você deveria tambem.
  Eles realmente poem uma porra de minas terrestes em volta da fortaleza deles.}
 {142}{}{Os Gun Runners costumavam ser uma gangue de verdade, mas eles amoleceram. Eles
  comecaram a estabelecer um negocio aonde eles negociam armas que eles pegam das sua
- vitimas ou compram do Hub. Como ninguem aqui esta apto para a viajem ate o Hub
- pessoalmente, eles fazem bons negocios mesmo embora seus precos sejam altos.}
-{143}{}{Os Seguidores do Apocalipse sao um grupo de pregadores da paz que vivem em
- uma grande biblioteca perto do coracao da Boneyard. Por que eles ainda nao foram
- eliminados eu nao posso dizer. Eles sao combatentes muito ruins e nao tem entendimento
- do mundo verdadeiro, mas alem disso eles sao polidos e bem educados.}
+ vitimas ou compram do Hub. Como ninguem aqui esta apto para a viajem até o Hub
+ pessoalmente, eles fazem bons negocios mesmo embora seus preços sejam altos.}
+{143}{}{Os Seguidores do Apocalipse são um grupo de pregadores da paz que vivem em
+ uma grande biblioteca perto do coracao da Boneyard. Por que eles ainda não foram
+ eliminados eu não posso dizer. Eles são combatentes muito ruins e não tem entendimento
+ do mundo verdadeiro, mas alem disso eles são polidos e bem educados.}
 {144}{}{A Boneyard e um lugar bastante hostil. Eu nunca tive a oportunidade de sair,
- embora eu suponho que eu a aceitaria. Vamos ver . . . bem ao sul daqui voce tem a
+ embora eu suponho que eu a aceitaria. Vamos ver . . . bem ao sul daqui você tem a
  Catedral. Ha algum tipo de culto la, mas eu fico longe deles. Algo sinitrso esta
- acontecendo la. Tambem, Eu ouvi sobre o centro de comercio chamado o Hub, e as
+ acontecendo la. Também, Eu ouvi sobre o centro de comercio chamado o Hub, e as
  caravanas ocasionalmente se mostram, mas eu nunca estive la.}
-{145}{}{Eu nao planejo ficar neste lugar por muito mais tempo eu mesmo.}
+{145}{}{Eu não planejo ficar neste lugar por muito mais tempo eu mesmo.}
 {146}{}{Obrigado pela informacao.}
-{147}{}{Voce pode me dizer um pouco mais?}
-{148}{}{Sem brincadeira. Se voce esta procurando por outra mao, eu assinarei. Melhor
+{147}{}{Você pode me dizer um pouco mais?}
+{148}{}{Sem brincadeira. Se você esta procurando por outra mao, eu assinarei. Melhor
  do que passar o resto da minha existencia neste buraco do inferno, certo?}
-{149}{}{Voce e uma adicao bem vinda, mas o deserto nao e muito mais divertido.}
+{149}{}{Você e uma adicao bem vinda, mas o deserto não e muito mais divertido.}
 {150}{}{Nao se preocupe com isso. Obrigado de qualquer modo.}
 {151}{}{Eu posso algumas perguntas mais primeiro?}
 {152}{}{Esta area esta assolada com as tres gangues - os Blades, Rippers e os Gun
@@ -83,37 +83,37 @@
  Adytum.}
 {153}{}{Tudo bem, parece que nos temos que dar um pouco de chutes no traseiro!}
 {154}{}{Olha, 90% das pessoas nesta cidade caem em uma ou mais das tres categorias - 
- estupradores, assassinos ou ladroes. Eu sou uma ladra e voce realmente parece
+ estupradores, assassinos ou ladroes. Eu sou uma ladra e você realmente parece
  polido, entao isso me faz imaginar, ok? Chame de um instinto de sobrevivencia.}
-{155}{}{Lamento pisar nos seus pes entao. Eu creio que eu apenas irei pra longe.}
+{155}{}{Lamento pisar nos seus pés entao. Eu creio que eu apenas irei pra longe.}
 {156}{}{Bem, eu posso pelo menos fazer algumas perguntas?}
-{157}{}{Eu nao sou daqui, entao eu nao acho que eu conto.}
+{157}{}{Eu não sou daqui, entao eu não acho que eu conto.}
 {158}{}{Ok, mas faca-o rapido.}
-{159}{}{Huh. Creio que eu nao posso discutir com essa logica. Entao o que voce quer?}
+{159}{}{Huh. Creio que eu não posso discutir com essa logica. Entao o que você quer?}
 {160}{}{Eu posso fazer algumas perguntas??}
-{161}{}{Eu estou procurando por um chip de purificacao de agua. Voce pode ajudar?}
+{161}{}{Eu estou procurando por um chip de purificacao de agua. Você pode ajudar?}
 {162}{}{Obrigado de qualquer modo, mas eu irei agora.}
 {163}{}{O que e que ha?}
-{164}{}{Voce pode dar uma tentativa nesta tranca?}
-{165}{}{Voce pode dar uma olhada nesta armadilha?}
+{164}{}{Você pode dar uma tentativa nesta tranca?}
+{165}{}{Você pode dar uma olhada nesta armadilha?}
 {166}{}{Qualquer conselho?}
-{167}{}{Obrigado por sua ajuda. Voce pode ir agora.}
+{167}{}{Obrigado por sua ajuda. Você pode ir agora.}
 {168}{}{Nada ainda. Mas fique ligado.}
-{169}{}{Voce de novo? Pelo que voce esta de volta agora?}
+{169}{}{Você de novo? Pelo que você esta de volta agora?}
 {170}{}{Apenas queria parar e dizer oi.}
-{171}{}{Eu tenho algumas perguntas mais se voce puder dispor de um pouco de tempo.}
+{171}{}{Eu tenho algumas perguntas mais se você puder dispor de um pouco de tempo.}
 {172}{}{Esta destrancada.}
 {173}{}{Ha algo engracado sobre aquela estante na parede leste. Parece que
  esta escondendo algo.}
 {174}{}{Ponha suas armas longe.}
 {175}{}{Eu odeio caes.}
 {176}{}{Essa comida cheira bem.}
-{177}{}{Quais tipos de tecnicas de combate voce tem?}
+{177}{}{Quais tipos de técnicas de combate você tem?}
 {178}{}{Eu aprendi como ser uma scrapper do meu tempo na Boneyard. Eu sou boa com
- facas e sub-metralhadoras. Minha favorita sao facas de arremesso, claro.}
-{179}{}{Tudo bem, embora eu nao sinta bem sem uma boa faca.}
-{180}{}{Voce ganha 200 pontos de experiencia por escolher Katja, a catadora de lixo da Boneyard.}
-{181}{}{O que voce quer agora?}
+ facas e sub-metralhadoras. Minha favorita são facas de arremesso, claro.}
+{179}{}{Tudo bem, embora eu não sinta bem sem uma boa faca.}
+{180}{}{Você ganha 200 pontos de experiência por escolher Katja, a catadora de lixo da Boneyard.}
+{181}{}{O que você quer agora?}
 {182}{}{Eu mudei de ideia. Eu ainda gostaria da sua ajuda.}
 {183}{}{Nada. Deixa pra la.}
 {184}{}{Eu estou realmente comecando a odiar este lugar.}
@@ -123,15 +123,15 @@
 {188}{}{Cuidado com os deathclaws!}
 {189}{}{Hubba hubba!}
 {190}{}{Saia!}
-{191}{}{Eu lamento mas eu nao entendo voce. Adeus.}
+{191}{}{Eu lamento mas eu não entendo você. Adeus.}
 
 #
 # Katja tell-me-abouts
 #
 
-{980}{}{Eu nao sei nada sobre isso.}
-{981}{}{Eu nao posso realmente dizer que eu ja ouvi isso.}
-{982}{}{Nao, eu nao ouvi isso.}
+{980}{}{Eu não sei nada sobre isso.}
+{981}{}{Eu não posso realmente dizer que eu já ouvi isso.}
+{982}{}{Nao, eu não ouvi isso.}
 
 {1000}{}{Agua}
 {1001}{}{Boneyard}
@@ -167,7 +167,7 @@
 {1031}{}{Iniciados}
 {1032}{}{Paladinos}
 {1033}{}{Escribas}
-{1034}{}{Criancas}
+{1034}{}{Crianças}
 {1036}{}{Irmandade}
 {1037}{}{Vats}
 {1038}{}{Militares}
@@ -198,80 +198,80 @@
 {1064}{}{Policia}
 {1065}{}{Mercadores}
 
-{1100}{}{Eu nao sei onde voce poderia achar tal reliquia da tecnologia antiga.}
+{1100}{}{Eu não sei onde você poderia achar tal reliquia da tecnologia antiga.}
 {1101}{}{A Boneyard dos Anjos e tudo que restou da antiga cidade de Los Angeles.
  Na maior parte dividida entre faccoes rivais estes dias.}
 {1102}{}{A Guerra trouxe miseria e morte por todo o mundo. Eu certamente espero que
- algo como isso nunca aconteca de novo. Mas do que eu ouvi, nao ha muita
+ algo como isso nunca aconteca de novo. Mas do que eu ouvi, não ha muita
  esperanca para a humanidade.}
-{1103}{}{Adytum costumava ser meu lar, mas essas pessoas sao apenas muito paranoicas e
+{1103}{}{Adytum costumava ser meu lar, mas essas pessoas são apenas muito paranoicas e
  reclusas. Eles nunca sobreviverao se retirando do mundo.}
 {1104}{}{Os Seguidores do Apocalipse pregam paz e tolerância. Muito ruim que
- simplesmente nao funciona neste mundo.}
+ simplesmente não funciona neste mundo.}
 {1105}{}{A Catedral e uma estrutura monumental ao sul de Adytum por aproximadamente um
  dia de caminhada. É dirigida por um culto esquisito que adora algum tipo de deus sombrio.}
-{1106}{}{Eu nao sei onde voce poderia achar tal reliquia da tecnologia antiga.}
-{1107}{}{Eu nao sei mais sobre isso do que voce sabe.}
-{1108}{}{Eu nao sei mais sobre isso do que voce sabe.}
-{1109}{}{Eu nao sei mais sobre isso do que voce sabe.}
-{1110}{}{Eu nao sei mais sobre isso do que voce sabe.}
-{1111}{}{Eu nao sei mais sobre isso do que voce sabe.}
-{1112}{}{O que, a cidade dos mortos? Isso nao e um mito?}
-{1113}{}{Eu nao sei mais sobre isso do que voce sabe.}
-{1114}{}{Eu nao sei mais sobre isso do que voce sabe.}
-{1115}{}{Eu nao sei mais sobre isso do que voce sabe.}
+{1106}{}{Eu não sei onde você poderia achar tal reliquia da tecnologia antiga.}
+{1107}{}{Eu não sei mais sobre isso do que você sabe.}
+{1108}{}{Eu não sei mais sobre isso do que você sabe.}
+{1109}{}{Eu não sei mais sobre isso do que você sabe.}
+{1110}{}{Eu não sei mais sobre isso do que você sabe.}
+{1111}{}{Eu não sei mais sobre isso do que você sabe.}
+{1112}{}{O que, a cidade dos mortos? Isso não e um mito?}
+{1113}{}{Eu não sei mais sobre isso do que você sabe.}
+{1114}{}{Eu não sei mais sobre isso do que você sabe.}
+{1115}{}{Eu não sei mais sobre isso do que você sabe.}
 {1116}{}{Os Seguidores tem um medico a mao em todos os tempos.}
-{1117}{}{Voce deveria ir ver o medico nos Seguidores se voce precisa de cura.}
-{1118}{}{As vaults nao eram como grandes abrigos no subsolo?}
-{1119}{}{As vaults nao eram como grandes abrigos no subsolo?}
-{1120}{}{As vaults nao eram como grandes abrigos no subsolo?}
-{1121}{}{Eu nao sei mais sobre isso do que voce sabe.}
-{1122}{}{Eu nao sei mais sobre isso do que voce sabe.}
+{1117}{}{Você deveria ir ver o medico nos Seguidores se você precisa de cura.}
+{1118}{}{As vaults não eram como grandes abrigos no subsolo?}
+{1119}{}{As vaults não eram como grandes abrigos no subsolo?}
+{1120}{}{As vaults não eram como grandes abrigos no subsolo?}
+{1121}{}{Eu não sei mais sobre isso do que você sabe.}
+{1122}{}{Eu não sei mais sobre isso do que você sabe.}
 {1123}{}{Um, pequena cidade ao norte do Hub, eu acho.}
 {1124}{}{Shady o que?}
 {1125}{}{Shady Sands? Nunca ouvi sobre ela.}
 {1126}{}{O Hub e um centro de comercio enorme com todos os tipos de lojas e mercadores.}
-{1127}{}{Eu nao sei mais sobre isso do que voce sabe.}
+{1127}{}{Eu não sei mais sobre isso do que você sabe.}
 {1128}{}{Os Gun Runners vendem coisas e ha uma loja em Adytum.}
 {1129}{}{Ugh! Os deathclaws estao por toda a Boneyard. Eu preferiria nem mesmo
  pensar sobre eles. Enormes e convenientemente nomeados.}
-{1130}{}{Eu nao sei mais sobre isso do que voce sabe.}
-{1131}{}{Eu nao sei mais sobre isso do que voce sabe.}
-{1132}{}{Eu nao sei mais sobre isso do que voce sabe.}
-{1133}{}{Eu nao sei mais sobre isso do que voce sabe.}
-{1134}{}{Eu nao gosto de criancas.}
-{1136}{}{Eu ouvi que eles sao algum tipo de monges high-tech.}
-{1137}{}{Eu nao sei mais sobre isso do que voce sabe.}
-{1138}{}{Eu nao sei mais sobre isso do que voce sabe.}
+{1130}{}{Eu não sei mais sobre isso do que você sabe.}
+{1131}{}{Eu não sei mais sobre isso do que você sabe.}
+{1132}{}{Eu não sei mais sobre isso do que você sabe.}
+{1133}{}{Eu não sei mais sobre isso do que você sabe.}
+{1134}{}{Eu não gosto de crianças.}
+{1136}{}{Eu ouvi que eles são algum tipo de monges high-tech.}
+{1137}{}{Eu não sei mais sobre isso do que você sabe.}
+{1138}{}{Eu não sei mais sobre isso do que você sabe.}
 {1139}{}{Eu suponho que deve haver algums remnants dos militares antigos.}
-{1141}{}{Voce quer dizer a grande guerra? Uau, voce certamente levou uma vida escondida
- se voce nao sabe nada sobre isso.}
+{1141}{}{Você quer dizer a grande guerra? Uau, você certamente levou uma vida escondida
+ se você não sabe nada sobre isso.}
 {1142}{}{Eu vi um rato com tres olhos uma vez. Isso e tudo que eu sei sobre
  mutantes.}
 {1143}{}{Eu acho que ele e um Sumo Sacerdote para a Catedral, ou algo assim.}
-{1144}{}{Eu nao sei mais sobre isso do que voce sabe.}
-{1145}{}{Eu nao sei mais sobre isso do que voce sabe.}
-{1146}{}{Eu nao sei mais sobre isso do que voce sabe.}
-{1147}{}{Eu nao sei mais sobre isso do que voce sabe.}
-{1148}{}{Eu nao sei mais sobre isso do que voce sabe.}
-{1149}{}{Eu nao sei mais sobre isso do que voce sabe.}
-{1150}{}{Eu nao sei mais sobre isso do que voce sabe.}
+{1144}{}{Eu não sei mais sobre isso do que você sabe.}
+{1145}{}{Eu não sei mais sobre isso do que você sabe.}
+{1146}{}{Eu não sei mais sobre isso do que você sabe.}
+{1147}{}{Eu não sei mais sobre isso do que você sabe.}
+{1148}{}{Eu não sei mais sobre isso do que você sabe.}
+{1149}{}{Eu não sei mais sobre isso do que você sabe.}
+{1150}{}{Eu não sei mais sobre isso do que você sabe.}
 {1151}{}{Nao, obrigado.}
-{1152}{}{Ugh. Nao, Eu prefiro nao usar. Eu assisti um amigo morrer de uma overdose de
+{1152}{}{Ugh. Nao, Eu prefiro não usar. Eu assisti um amigo morrer de uma overdose de
  Psycho uma vez. Nao e bonito.}
-{1153}{}{Eu nao sei mais sobre isso do que voce sabe.}
-{1154}{}{Eu nao sei mais sobre isso do que voce sabe.}
-{1155}{}{Eu nao sei mais sobre isso do que voce sabe.}
+{1153}{}{Eu não sei mais sobre isso do que você sabe.}
+{1154}{}{Eu não sei mais sobre isso do que você sabe.}
+{1155}{}{Eu não sei mais sobre isso do que você sabe.}
 {1156}{}{Ele e o prefeito de Adytum. Um justo, se de algum modo, vacilante, homem.}
 {1157}{}{Eles observam Adytum e a mantem sob controle.}
 {1158}{}{Eu costumava ser uma catador de lixo. Nos saimos a noite e tentavamos achar
  coisa util nas ruinas da Boneyard. Trabalho muito perigoso. Eu fiquei enojada de,
  Adytum.}
-{1159}{}{Eles sao um grupo de exilados que vivem do lado de fora de Adytum.}
+{1159}{}{Eles são um grupo de exilados que vivem do lado de fora de Adytum.}
 {1160}{}{Ela e o lider dos Seguidores. Uma mulher inteligente e de bom
  coracao tambem.}
-{1161}{}{Eu nao sei mais sobre isso do que voce sabe.}
-{1162}{}{Eu tenho "intuicao feminina" ocasionalmente, se isso e o que voce quer dizer.}
-{1163}{}{Eu nao sei mais sobre isso do que voce sabe.}
-{1164}{}{Eu nao sei mais sobre isso do que voce sabe.}
+{1161}{}{Eu não sei mais sobre isso do que você sabe.}
+{1162}{}{Eu tenho "intuicao feminina" ocasionalmente, se isso e o que você quer dizer.}
+{1163}{}{Eu não sei mais sobre isso do que você sabe.}
+{1164}{}{Eu não sei mais sobre isso do que você sabe.}
 {1165}{}{Os mercadores negociam ocasionalmente com Adytum, e vendem pros Gun Runners.}

@@ -52,6 +52,6 @@
 #
 # Demo versions only
 #
-{200}{}{Lamento, voce nao pode salvar ou carregar} # 1
+{200}{}{Lamento, você não pode salvar ou carregar} # 1
 {201}{}{na versao demo.}         # 2
 

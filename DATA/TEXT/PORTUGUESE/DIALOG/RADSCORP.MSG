@@ -1,1 +1,1 @@
-{100}{}{O Rad Scorpion chama voce pra vir mais perto.}
+{100}{}{O Rad Scorpion chama você pra vir mais perto.}

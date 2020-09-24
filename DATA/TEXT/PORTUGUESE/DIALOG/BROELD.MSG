@@ -1,4 +1,4 @@
-{100}{}{Voce ve um Elder da Irmandade.}
+{100}{}{Você ve um Elder da Irmandade.}
 {101}{}{Saudacoes, Iniciado.}
 {102}{}{Maxson parece um pouco estressado ultimamente.}
 {103}{}{Vree tem feito algumas descobertas muito pertubadoras.}

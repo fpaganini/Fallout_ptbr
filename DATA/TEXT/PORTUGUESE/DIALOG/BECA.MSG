@@ -1,18 +1,18 @@
-{100}{}{Voce ve a Jade.}
-{101}{}{Voce ve a Beca.}
+{100}{}{Você ve a Jade.}
+{101}{}{Você ve a Beca.}
 {102}{}{}
 {103}{}{}
-{104}{}{Voce ve um membro dos Blades.}
-{105}{}{Voce ve um membro dos Blades.}
-{106}{}{Voce acha que poderiam ser Livros.}
-{107}{}{Voce acha que poderiam ser Cicatrizes.}
-{108}{}{Voce acha que poderia ser Gunner.}
-{109}{}{Voce acha que poderia ser Twitch.}
-{110}{}{Voce acha que poderia ser Hammer.}
-{111}{}{Voce acha que poderia ser Razor.}
-{112}{}{Estes sao os quartos de dormir. Agora saia daqui antes que eu chute sua bunda.}
+{104}{}{Você ve um membro dos Blades.}
+{105}{}{Você ve um membro dos Blades.}
+{106}{}{Você acha que poderiam ser Livros.}
+{107}{}{Você acha que poderiam ser Cicatrizes.}
+{108}{}{Você acha que poderia ser Gunner.}
+{109}{}{Você acha que poderia ser Twitch.}
+{110}{}{Você acha que poderia ser Hammer.}
+{111}{}{Você acha que poderia ser Razor.}
+{112}{}{Estes são os quartos de dormir. Agora saia daqui antes que eu chute sua bunda.}
 {113}{}{Tente.}
 {114}{}{Lamento sobre isso. Adeus.}
 {115}{}{Posso ficar aqui?}
-{116}{}{Nao. Estes sao paras os Blades de verdade, nao para alguma bicha.}
-{117}{}{Ei, homie! Qual a boa? fique here se voce precisa de um lugar seguro.}
+{116}{}{Nao. Estes são paras os Blades de verdade, não para alguma bicha.}
+{117}{}{Ei, homie! Qual a boa? fique here se você precisa de um lugar seguro.}

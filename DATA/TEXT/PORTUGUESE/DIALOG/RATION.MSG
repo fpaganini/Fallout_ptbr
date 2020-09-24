@@ -1,30 +1,30 @@
-{100}{}{Voce ve a Cindy chorando.}
-{101}{}{Voce ve a Lisa chorando.}
-{102}{}{Voce ve a Sandy chorando.}
-{103}{}{Voce ve a Mary chorando.}
-{104}{}{Voce ve a Stacy chorando.}
-{105}{}{Voce ve a Susan chorando.}
-{106}{}{Voce ve a Cindy.}
-{107}{}{Voce ve a Lisa.}
-{108}{}{Voce ve a Sandy.}
-{109}{}{Voce ve a Mary.}
-{110}{}{Voce ve a Stacy.}
-{111}{}{Voce ve a Susan.}
+{100}{}{Você ve a Cindy chorando.}
+{101}{}{Você ve a Lisa chorando.}
+{102}{}{Você ve a Sandy chorando.}
+{103}{}{Você ve a Mary chorando.}
+{104}{}{Você ve a Stacy chorando.}
+{105}{}{Você ve a Susan chorando.}
+{106}{}{Você ve a Cindy.}
+{107}{}{Você ve a Lisa.}
+{108}{}{Você ve a Sandy.}
+{109}{}{Você ve a Mary.}
+{110}{}{Você ve a Stacy.}
+{111}{}{Você ve a Susan.}
 {112}{}{Ola, }
 {113}{}{.
- Voce ja achou o chip da agua?}
-{114}{}{Nao, ainda nao.}
+ Você já achou o chip da agua?}
+{114}{}{Nao, ainda não.}
 {115}{}{Eu acharei. Como voces estao indo?}
 {116}{}{Urug!}
-{117}{}{Oh . . . voce nao me entende. Eu creio que nos realmente nao
+{117}{}{Oh . . . você não me entende. Eu creio que nos realmente não
  temos muita esperanca depois de tudo. Me desculpe enquanto eu choro.}
 {118}{}{Ugg!}
 {119}{}{Por favor ache ele antes que meu bebe morra de sede.}
 {120}{}{[Feito]}
-{121}{}{Voce tem que acha-lo! Nao nos deixe morrer assim!}
+{121}{}{Você tem que acha-lo! Nao nos deixe morrer assim!}
 {122}{}{[Feito]}
-{123}{}{Continue tentando. Eu acredito em voce. Eu sei que voce fara
- tudo que voce puder pra nos salvar.}
+{123}{}{Continue tentando. Eu acredito em você. Eu sei que você fara
+ tudo que você puder pra nos salvar.}
 {124}{}{[Feito]}
 {125}{}{Eu estou com medo do que esta acontecendo. Alguem tem
  roubado agua e agora todos estao no limite.}
@@ -40,5 +40,5 @@
  dias depois alguem nocauteou o guarda na area de
  racionamento de suprimentos e roubou a agua.}
 {131}{}{Isso e terrivel! O que eu posso fazer?}
-{132}{}{Talvez voce possa parar quem quer esteja fazendo isto.}
+{132}{}{Talvez você possa parar quem quer esteja fazendo isto.}
 {133}{}{Eu darei uma olhada por ai.}

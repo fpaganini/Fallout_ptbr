@@ -1,4 +1,4 @@
 {100}{}{A explosao fecha o tunel com um poderoso blast!}
-{101}{}{Voce solta os explosivos e eles detonam!}
+{101}{}{Você solta os explosivos e eles detonam!}
 {102}{}{A explosao apenas fez o buraco maior. Nao seria possivel fecha-lo agora.}
-{103}{}{Voce ganha pontos de experiencia por usar os explosivos com sucesso.}
+{103}{}{Você ganha pontos de experiência por usar os explosivos com sucesso.}

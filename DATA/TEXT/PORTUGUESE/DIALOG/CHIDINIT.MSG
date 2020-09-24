@@ -1,17 +1,17 @@
-{100}{}{Voce ve o Iniciado Ronald das Criancas da Catedral.}
-{101}{}{Voce ve a Iniciada Caroline das Criancas da Catedral.}
-{102}{}{Voce ve o Iniciado Myles das Criancas da Catedral.}
-{103}{}{Voce ve a Iniciada Alisha das Criancas da Catedral.}
-{104}{}{Voce ve o Iniciado Thomas das Criancas da Catedral.}
-{105}{}{Voce ve o Iniciado Gabriel das Criancas da Catedral.}
-{106}{}{Voce ve a Iniciada Charlene das Criancas da Catedral.}
-{107}{}{Voce ve o Iniciado Ekdar das Criancas da Catedral.}
-{108}{}{Voce ve o Iniciado Hopper das Criancas da Catedral.}
-{109}{}{Voce ve o Iniciado Radek das Criancas da Catedral.}
+{100}{}{Você ve o Iniciado Ronald das Crianças da Catedral.}
+{101}{}{Você ve a Iniciada Caroline das Crianças da Catedral.}
+{102}{}{Você ve o Iniciado Myles das Crianças da Catedral.}
+{103}{}{Você ve a Iniciada Alisha das Crianças da Catedral.}
+{104}{}{Você ve o Iniciado Thomas das Crianças da Catedral.}
+{105}{}{Você ve o Iniciado Gabriel das Crianças da Catedral.}
+{106}{}{Você ve a Iniciada Charlene das Crianças da Catedral.}
+{107}{}{Você ve o Iniciado Ekdar das Crianças da Catedral.}
+{108}{}{Você ve o Iniciado Hopper das Crianças da Catedral.}
+{109}{}{Você ve o Iniciado Radek das Crianças da Catedral.}
 {110}{}{Esses Seguidores perdidos foram faceis de matar.}
 {111}{}{Agora que os Seguidores estao fora do caminho, a reconstrucao pode comecar.}
 {112}{}{No final desta busca, eu espero ser um Escriba ou Estudioso.}
 {113}{}{Algum dia eu serei um estudioso e irei adiante pregar a Unidade.}
 {114}{}{Orfeo e uma pessoa dificil de se trabalhar.}
 {115}{}{Eu ainda estou assustado por causa dos Nightkin.}
-{116}{}{Os Elders disseram que os Nightkin sao nossos aliados.}
+{116}{}{Os Elders disseram que os Nightkin são nossos aliados.}

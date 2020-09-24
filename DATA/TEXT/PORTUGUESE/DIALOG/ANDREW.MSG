@@ -1,18 +1,18 @@
-{100}{}{Voce ve Andrew, o guarda das celas.}
-{101}{}{Ok, voce pode ir agora.}
-{102}{}{Ei! Voce! Pare!}
-{103}{}{Eu posso ajudar voce?}
-{104}{}{Quem e voce?}
-{105}{}{O que voce esta fazendo?}
+{100}{}{Você ve Andrew, o guarda das celas.}
+{101}{}{Ok, você pode ir agora.}
+{102}{}{Ei! Você! Pare!}
+{103}{}{Eu posso ajudar você?}
+{104}{}{Quem e você?}
+{105}{}{O que você esta fazendo?}
 {106}{}{Nao, obrigado.}
 {107}{}{Eu sou Andrew. Meu trabalho e guardar as celas.}
-{108}{}{Eu estou guardando as celas. Eu garanto que os miscreants nao
+{108}{}{Eu estou guardando as celas. Eu garanto que os miscreants não
  entrem ou saiam.}
-{109}{}{Por que voce impediria as pessoas de entrarem nas celas?}
+{109}{}{Por que você impediria as pessoas de entrarem nas celas?}
 {110}{}{Oh.}
-{111}{}{Tenha voce um bom dia. E fique longe de problemas.}
+{111}{}{Tenha você um bom dia. E fique longe de problemas.}
 {112}{}{Alguem poderia deixar algo para ajudar um prisoneiro a escapar. Ou
- alguem poderia ficar trancado dentro e preso ate que pudessemos pegar as chaves.}
+ alguem poderia ficar trancado dentro e preso até que pudessemos pegar as chaves.}
 {113}{}{Eergh!}
 {114}{}{Mova-se, camarada.}
 {115}{}{Mova-se, senhorita.}

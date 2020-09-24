@@ -1,4 +1,4 @@
-{100}{}{Voce um ghoul brilhante.}
+{100}{}{Você um ghoul brilhante.}
 {101}{}{Arrrr!}
 {102}{}{Mmmm!}
 {103}{}{Uck!}

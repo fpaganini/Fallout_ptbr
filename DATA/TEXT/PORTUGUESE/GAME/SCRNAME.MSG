@@ -11,7 +11,7 @@
 {111}{}{Entrada para o Mapa}                            #map_init
 {112}{}{Radscorpion}                                    #radscorp
 {113}{}{Sentinela Super Mutante}                        #mutant2
-{114}{}{Poco de Shady Sands}                            #sswell
+{114}{}{Poço de Shady Sands}                            #sswell
 {115}{}{Set}                                            #set
 {116}{}{Harry}                                          #harry
 {117}{}{Stimpak}                                        #stimpack
@@ -38,7 +38,7 @@
 {138}{}{Campones de Junktown}                           #JtPeasnt
 {139}{}{Butch}                                          #Butch
 {140}{}{Cabbot}                                         #Cabbot
-{141}{}{Membro das Criancas da Catedral}               #  Childmem
+{141}{}{Membro das Crianças da Catedral}               #  Childmem
 {142}{}{Decker}                                         #Decker
 {143}{}{Elder}                                          #Elder
 {144}{}{Gizmo}                                          #Gizmo
@@ -104,15 +104,15 @@
 {204}{}{Morbid}                                       #  Morbid
 {205}{}{Dumar}                                          #  Dumar
 {206}{}{Barstow}                                        #  Barstow
-{207}{}{Iniciado das Criancas da Catedral}              #  Genint
-{208}{}{Curador das Criancas da Catedral}               #  JtChidMem
+{207}{}{Iniciado das Crianças da Catedral}              #  Genint
+{208}{}{Curador das Crianças da Catedral}               #  JtChidMem
 {209}{}{Vigia dos Habitantes do Subsolo}                #  Lookout
 {210}{}{Computador}                                    #  MachIV
 {211}{}{Sala Bloqueada}                                 #  BlkRoom
 {212}{}{Deserto}                                       #  RndDesrt
 {213}{}{Guarda de Shady Sands}                          #  TGuard
 {214}{}{Cozinheiro de Shady Sands}                      #  cook
-{215}{}{Cidadao de Shady Sands}                      #  citizen
+{215}{}{Cidadão de Shady Sands}                      #  citizen
 {216}{}{Cadeira}                                       #  HousChar
 {217}{}{Cama da Agatha}                                 #  AgathBed
 {218}{}{Cama do Razlo}                                  #  RozBed
@@ -127,7 +127,7 @@
 {227}{}{Fruta Apos Mutacao}                             #  Fruit
 {228}{}{Cheiro do Curral dos Brahmins}                  #  PenSmell
 {229}{}{Razlo}                                          #  Razlo
-{230}{}{Cidadao da Vault 13}                         #  ValtCtzn
+{230}{}{Cidadão da Vault 13}                         #  ValtCtzn
 {231}{}{Camara de Ar da Vault 13}                       #  ValtLock
 {232}{}{Monitor da Vault 13}                            #  ValtMon
 {233}{}{Nucleo Central da Vault 13}                     #  CoreComp
@@ -165,7 +165,7 @@
 {265}{}{Boca-de-Lobo}                                   #  NWUp2Dn1
 {266}{}{Boca-de-Lobo}                                   #  NWUp2Dn2
 {267}{}{Boca-de-Lobo}                                   #  NWUp2Dn3
-{268}{}{Cidadao da Vault 13}                         #  Ration
+{268}{}{Cidadão da Vault 13}                         #  Ration
 {269}{}{Escada}                                        #  NWDn2Up1
 {270}{}{Escada}                                        #  NWDn2Up2
 {271}{}{Escada}                                         #  NWDn2Up3
@@ -182,13 +182,13 @@
 {282}{}{Cavernas dos Radscorpions}                      #  RadSCave
 {283}{}{Seth}                                           #  Seth
 {284}{}{Medico da Vault 13}                             #  Medic
-{285}{}{Cidadao da Vault 13}                         #  GenVault
+{285}{}{Cidadão da Vault 13}                         #  GenVault
 {286}{}{Cassino de Junktown}                            #  JunkCas
 {287}{}{Crashhouse de Junktown}                         #  JunkKill
 {288}{}{Entrada de Junktown}                            #  JunkEnt
 {289}{}{Passagem Bloqueada}                             #  Blkrom
 {290}{}{Camara de Ar}                                   #  BVAir
-{291}{}{Provisoes Medicas}                                   #  BVCache
+{291}{}{Provisões Medicas}                                   #  BVCache
 {292}{}{Entrada da Vault 15}                            #  BVEnt
 {293}{}{Shady Sands}                                    #  ShadyEt
 {294}{}{Shady Sands}                                    #  ShadyWst
@@ -202,18 +202,18 @@
 {302}{}{Elevador}                                       #  BVElv2W
 {303}{}{Elevador}                                       #  BVElv3
 {304}{}{Elevador Quebrado}                              #  BVBroken
-{305}{}{Entrada da Irmandade do Aco}                   #  BroHdEnt
-{306}{}{Poco de Criacao de Ratos}                       #  RatPit
-{307}{}{Escuridao}                                     #  FearDark
+{305}{}{Entrada da Irmandade do Aço}                   #  BroHdEnt
+{306}{}{Poço de Criacao de Ratos}                       #  RatPit
+{307}{}{Escuridão}                                     #  FearDark
 {308}{}{Abertura da Caverna}                            #  ValtLeav
-{309}{}{Cidadao da Vault 13}                         #  ValtCupl
+{309}{}{Cidadão da Vault 13}                         #  ValtCupl
 {310}{}{Seu Alojamento}                                     #  YourRoom
 {311}{}{Katrina}                                        #  SSGuide
 {312}{}{Abertura da Caverna}                            #  LiteLeav
 {313}{}{Nucleo Central da Vault 13}                     #  ValtCore
 {314}{}{Computador}                                    #  VCompOp
-{315}{}{Sala de Operacoes da Vault 13}                  #  ValtOp
-{316}{}{Sala de Seguranca da Vault 13}                  #  ValtSec
+{315}{}{Sala de Operações da Vault 13}                  #  ValtOp
+{316}{}{Sala de Segurança da Vault 13}                  #  ValtSec
 {317}{}{Armazem da Vault 13}                            #  ValtStor
 {318}{}{Sala de Reuniao da Vault 13}                    #  ValtMeet
 {319}{}{Laboratorio Medico da Vault 13}                        #  ValtMed
@@ -258,8 +258,8 @@
 {358}{}{Sabio dos Seguidores}                           #  FolSchol
 {359}{}{Iniciado dos Seguidores}                        #  FolInit
 {360}{}{Batedor dos Nightkin}                           #  FlSupMut
-{361}{}{Sabio das Criancas da Catedral}                 #  ChidScol
-{362}{}{Iniciado das Criancas da Catedral}              #  ChidInit
+{361}{}{Sabio das Crianças da Catedral}                 #  ChidScol
+{362}{}{Iniciado das Crianças da Catedral}              #  ChidInit
 {363}{}{Batedor dos Seguidores}                         #  FolScout
 {364}{}{Guarda dos Seguidores}                          #  FolGuard
 {365}{}{Pensador Super Mutante}                         #  ThSupMut
@@ -272,8 +272,8 @@
 {372}{}{Amber}                                          #  Amber
 {373}{}{Uthern}                                         #  Uthern
 {374}{}{Talius}                                         #  Talius
-{375}{}{Guarda das Criancas da Catedral}                #  ChdGuard
-{376}{}{Batedor das Criancas da Catedral}               #  ChdScout
+{375}{}{Guarda das Crianças da Catedral}                #  ChdGuard
+{376}{}{Batedor das Crianças da Catedral}               #  ChdScout
 {377}{}{Batedor Super Mutante}                          #  ScSupMut
 {378}{}{Razor}                                          #  Razor
 {379}{}{Capataz dos Blades}                               #  Blade
@@ -283,8 +283,8 @@
 {383}{}{Michelle}                                       #  Michelle
 {384}{}{Observador Noturno dos Blades}                  #  Dragon
 {385}{}{Romero}                                         #  Romero
-{386}{}{Irmandade do Aco}                               #  Brohd12
-{387}{}{Irmandade do Aco}                               #  Brohd34
+{386}{}{Irmandade do Aço}                               #  Brohd12
+{387}{}{Irmandade do Aço}                               #  Brohd34
 {388}{}{Jon}                                            #  Jon
 {389}{}{Prisoneiro}                                    #  RippPris
 {390}{}{Escriba da Irmandade}                           #  SCRIBEB
@@ -293,7 +293,7 @@
 {393}{}{Ossos Secos}                                    #  BoneBody
 {394}{}{Cadaver envolvido numa armadura estranha}       #  DeadBro
 {395}{}{Holodisco}                                     #  GenDisk
-{396}{}{Area da Radiacao}                            #  HotSpot
+{396}{}{Area da Radiação}                            #  HotSpot
 {397}{}{Cadaver envolvido numa armadura estranha}       #  PerNPwr
 {398}{}{Porta Segura}                                   #  Glo1Weap
 {399}{}{Computador}                                    #  GloComp
@@ -355,9 +355,9 @@
 {455}{}{Maquina de Slots}                              #  GoodSlot
 {456}{}{Mesa do Blackjack}                              #  LowJack
 {457}{}{Mesa do Blackjack}                              #  HighJack
-{458}{}{Tecnico das Criancas da Catedral}               #  ChocTech
+{458}{}{Tecnico das Crianças da Catedral}               #  ChocTech
 {459}{}{Abel}                                           #  Abel
-{460}{}{Campo de Forca}                                #  FieldA
+{460}{}{Campo de Força}                                #  FieldA
 {461}{}{Radio}                                          #  Radio
 {462}{}{Sinal}                                         #  VatSign
 {463}{}{Porta Muito Segura}                            #  VConDoor
@@ -376,7 +376,7 @@
 {476}{}{Phil}                                           #  DemoPhil
 {477}{}{Zack}                                           #  Zack
 {478}{}{Theresa}                                        # theresa
-{479}{}{Cidadao Aborrecido da Vault 13}           # REBEL
+{479}{}{Cidadão Aborrecido da Vault 13}           # REBEL
 {480}{}{Refrigerador}                                  # demodoor
 {481}{}{Escriba da Irmandade}                           # SCRIBEC
 {482}{}{Jason}                                          # JASON
@@ -406,7 +406,7 @@
 {506}{}{Lenny}                                          #Lenny
 {507}{}{Quebrador de Gelo}                              #Icepick
 {508}{}{Skizzer}                                        # Skizzer
-{509}{}{Cidadao do Monte de Lixo}                    # Pez
+{509}{}{Cidadão do Monte de Lixo}                    # Pez
 {510}{}{Rocha}                                         # Rock
 {511}{}{Lex}                                            # Lex.int
 {512}{}{Rayze}                                          # Rayze.int
@@ -435,14 +435,14 @@
 {535}{}{VanHaggen}                                      # Vanhag
 {536}{}{Vasquez}                                        # Vasquez
 {537}{}{Batedor de Junktown}                            # JnkScout
-{538}{}{Cidadao de Junktown}                         # PeasantC
+{538}{}{Cidadão de Junktown}                         # PeasantC
 {539}{}{Saqueador}                                         # GenRaid2
 {540}{}{Jarvis}                                         # Jarvis
 {541}{}{Fortaleza}                                      # MBStrong
 {542}{}{Tanques}                                           # MBVats
 {543}{}{Entrada da Base Militar}                        # MBEnt
-{544}{}{Criancas da Catedral}                           #Childrn1.int
-{545}{}{Criancas da Catedral}                           #Childrn2.int
+{544}{}{Crianças da Catedral}                           #Childrn1.int
+{545}{}{Crianças da Catedral}                           #Childrn2.int
 {546}{}{Vault do Mestre}                                #Master1.int
 {547}{}{Vault do Mestre}                                # Master2.int
 {548}{}{Computador}                                    # MVComp
@@ -458,9 +458,9 @@
 {558}{}{Vault 13}                                       # V132Cave.int
 {559}{}{Porta Segura}                                   # SecDoor.int
 {560}{}{Holofotes}                                     # SPOTLITE
-{561}{}{Ladrao D'agua}                                 # WtrThief.int
+{561}{}{Ladrão D'agua}                                 # WtrThief.int
 {562}{}{Jennifer}                                       # Jennifer.int
-{563}{}{Explosao}                                       # Blast.int
+{563}{}{Explosão}                                       # Blast.int
 {564}{}{Cadeira}                                       # UzChair.int
 {565}{}{Parede da caverna}                              # CaveWall.int
 {566}{}{Elevador}                                       # Elev0.int
@@ -499,7 +499,7 @@
 {599}{}{Dane}                                           # Dane.int
 {600}{}{Jonathan}                                       # Jonathan.int
 {601}{}{Estudante da Irmandade}                         # Student.int
-{602}{}{Criancas da Catedral}                           # Cath2MV.int
+{602}{}{Crianças da Catedral}                           # Cath2MV.int
 {603}{}{Porta Segura}                                   # Glo4Supl.int
 {604}{}{Esgotos}                                       # Hall2Mtl.int
 {605}{}{Esgotos}                                       # Hall2Shd.int
@@ -534,14 +534,14 @@
 {634}{}{Holodisco}                                     # DoorCode.int
 {635}{}{Garret}                                         # Guard2.int
 {636}{}{Guarda Super Mutante}                           # VDoorMut.int
-{637}{}{Campo de Forca}                                # FieldB.int
-{638}{}{Campo de Forca}                                # FieldC.int
-{639}{}{Campo de Forca}                                # FieldD.int
-{640}{}{Campo de Forca}                                # FieldE.int
-{641}{}{Campo de Forca}                                # FieldF.int
-{642}{}{Campo de Forca}                                # FieldG.int
-{643}{}{Campo de Forca}                                # FieldH.int
-{644}{}{Campo de Forca}                                # FieldI.int
+{637}{}{Campo de Força}                                # FieldB.int
+{638}{}{Campo de Força}                                # FieldC.int
+{639}{}{Campo de Força}                                # FieldD.int
+{640}{}{Campo de Força}                                # FieldE.int
+{641}{}{Campo de Força}                                # FieldF.int
+{642}{}{Campo de Força}                                # FieldG.int
+{643}{}{Campo de Força}                                # FieldH.int
+{644}{}{Campo de Força}                                # FieldI.int
 {645}{}{Computador}                                    # ForceCon.int
 {646}{}{Guarda Super Mutante}                           # VTeam1.int
 {647}{}{Guarda Super Mutante}                           # VTeam2.int
@@ -576,7 +576,7 @@
 {676}{}{Guido}                                          # guido.int
 {677}{}{Porta Segura}                                   # gunlock.int
 {678}{}{Guarda-Costas}                                 # hbodgrd2.int
-{679}{}{Guarda das Criancas da Catedral}                # hchdgrd.int
+{679}{}{Guarda das Crianças da Catedral}                # hchdgrd.int
 {680}{}{Fazendeiro}                                    # hgenfarm.int
 {681}{}{Guarda Hubiano}                                 # hgengrd.int
 {682}{}{Daren Hightower}                                # hightowr.int
@@ -587,7 +587,7 @@
 {687}{}{Oficial de Policia Hubiano}                     # hubcop.int
 {688}{}{Crianca das Flores}                             # hubflrcd.int
 {689}{}{Jake}                                           # hubjake.int
-{690}{}{Paciente das Criancas da Catedral}              # hubpatnt.int
+{690}{}{Paciente das Crianças da Catedral}              # hubpatnt.int
 {691}{}{Smitty}                                         # hubsmity.int
 {692}{}{Jasmine}                                        # jasmine.int
 {693}{}{Posto de Trabalho}                              # jobpost.int
@@ -656,8 +656,8 @@
 {756}{}{Maquina dos Jornais}                            # MVNews.int
 {757}{}{Vendedor de Carros Usados}                      # Dealer.int
 {758}{}{Grupo de Carros Usados}                                   # UsedCar.int
-{759}{}{Irmandade do Aco}                               # BroDead.int
-{760}{}{Criancas da Catedral}                           # ChilDead.int
+{759}{}{Irmandade do Aço}                               # BroDead.int
+{760}{}{Crianças da Catedral}                           # ChilDead.int
 {761}{}{Entrada da Base Militar}                        # MBDead.int
 {762}{}{Sarah}                                          # Sarah.int
 {763}{}{Agatha}                                         # Agatha.int
@@ -666,7 +666,7 @@
 {766}{}{Brenden}                                        # Brenden.int
 {767}{}{Patrick}                                        # Patrick.int
 {768}{}{Ismarc}                                         # Ismarc.int
-{769}{}{Zangado Com Voce}                               # Enemy.int
+{769}{}{Zangado Com Você}                               # Enemy.int
 {770}{}{Alex}                                           # Alex.int
 {771}{}{Gideon}                                         # Gideon.int
 {772}{}{Jeremiah}                                       # Jerem.int
@@ -689,7 +689,7 @@
 {789}{}{Porta Muito Segura}                            # BHDoor.int
 {790}{}{Assistente do Doutor}                           # BOSAsIs.int
 {791}{}{Seu Colega de Quarto}                           # RD1.int
-{792}{}{Iniciado da Irmandade do Aco}                   # GenInit.int
+{792}{}{Iniciado da Irmandade do Aço}                   # GenInit.int
 {793}{}{Coiote}                                         # Coyote.int
 {794}{}{Sentinela Super Mutante}                        # Smone.int
 {795}{}{Guarda Super Mutante}                           # SMTwo.int
@@ -808,7 +808,7 @@
 {908}{}{Porta}                                          # JakeDoor.int
 {909}{}{Escrivaninha}                                  # JakeDesk.int
 {910}{}{Estante de Livros}                              # Bookcase.int
-{911}{}{Tecnico das Criancas da Catedral}           # MLOps.int
+{911}{}{Tecnico das Crianças da Catedral}           # MLOps.int
 {912}{}{Perigoso}                                       # Viscious.int
 {913}{}{Caixa de Armazenagem dos Recipientes D'agua}    # VaultBox.int
 {914}{}{Computador}                                    # MstrComp.int
@@ -825,7 +825,7 @@
 {925}{}{Escombros}                                     # SDebris.int
 {926}{}{Escombros}                                     # EDebris.int
 {927}{}{Escombros}                                     # WDebris.int
-{928}{}{Terminal da Forca}                              # GPwrTerm.int
+{928}{}{Terminal da Força}                              # GPwrTerm.int
 {929}{}{Pegadas}                                       # FootPrnt.int
 {930}{}{Guarda do Mercador da Agua}                     # WMGuard.int
 {931}{}{Robo Sentinela}                                # GSenRob.int
@@ -872,35 +872,35 @@
 {972}{}{Caixa forte}                                    # HtwrBox.int
 {973}{}{Porta}                                          # KilDoor1.int
 {974}{}{Porta}                                          # KilDoor2.int
-{975}{}{Emissor do Campo de Forca}                      # Emiter1a.int
-{976}{}{Campo de Forca}                                # Field1a.int
+{975}{}{Emissor do Campo de Força}                      # Emiter1a.int
+{976}{}{Campo de Força}                                # Field1a.int
 {977}{}{Geladeira}                                         # MorbCool.int
 {978}{}{Porta}                                          # HtwrDoor.int
-{979}{}{Campo de Forca}                                # Field1a.int
-{980}{}{Emissor do Campo de Forca}                      # Emiter1a.int
-{981}{}{Campo de Forca}                                # Field1a.int
-{982}{}{Emissor do Campo de Forca}                      # Emiter1a.int
-{983}{}{Campo de Forca}                                # Field1a.int
-{984}{}{Emissor do Campo de Forca}                      # Emiter1a.int
-{985}{}{Campo de Forca}                                # Field1a.int
-{986}{}{Emissor do Campo de Forca}                      # Emiter1a.int
-{987}{}{Campo de Forca}                                # Field1a.int
-{988}{}{Emissor do Campo de Forca}                      # Emiter1a.int
+{979}{}{Campo de Força}                                # Field1a.int
+{980}{}{Emissor do Campo de Força}                      # Emiter1a.int
+{981}{}{Campo de Força}                                # Field1a.int
+{982}{}{Emissor do Campo de Força}                      # Emiter1a.int
+{983}{}{Campo de Força}                                # Field1a.int
+{984}{}{Emissor do Campo de Força}                      # Emiter1a.int
+{985}{}{Campo de Força}                                # Field1a.int
+{986}{}{Emissor do Campo de Força}                      # Emiter1a.int
+{987}{}{Campo de Força}                                # Field1a.int
+{988}{}{Emissor do Campo de Força}                      # Emiter1a.int
 {989}{}{Flutuador}                                     # Floater.int
 {990}{}{Lenore}                                         # Lenore.int
 {991}{}{Bob}                                            # BitsBob.int
 {992}{}{Porta}                                          # KaneDoor.int
-{993}{}{Campo de Forca}                                # Field1a.int
-{994}{}{Emissor do Campo de Forca}                      # Emiter1a.int
-{995}{}{Campo de Forca}                                # Field1a.int
-{996}{}{Emissor do Campo de Forca}                      # Emiter1a.int
+{993}{}{Campo de Força}                                # Field1a.int
+{994}{}{Emissor do Campo de Força}                      # Emiter1a.int
+{995}{}{Campo de Força}                                # Field1a.int
+{996}{}{Emissor do Campo de Força}                      # Emiter1a.int
 {997}{}{Campo da Dor}                                   # PainFeld.int
-{998}{}{Campo de Forca}                                # Field1a.int
-{999}{}{Emissor do Campo de Forca}                      # Emiter1a.int
-{1000}{}{Campo de Forca}                               # Field1a.int
-{1001}{}{Emissor do Campo de Forca}                     # Emiter1a.int
-{1002}{}{Campo de Forca}                               # Field1a.int
-{1003}{}{Emissor do Campo de Forca}                     # Emiter1a.int
+{998}{}{Campo de Força}                                # Field1a.int
+{999}{}{Emissor do Campo de Força}                      # Emiter1a.int
+{1000}{}{Campo de Força}                               # Field1a.int
+{1001}{}{Emissor do Campo de Força}                     # Emiter1a.int
+{1002}{}{Campo de Força}                               # Field1a.int
+{1003}{}{Emissor do Campo de Força}                     # Emiter1a.int
 {1004}{}{Porta do Elevador}                             # VBrokElv.int
 {1005}{}{}                                              # Stuff.int
 {1006}{}{Porta Protegida}                             # ArmDoor.int
@@ -928,7 +928,7 @@
 {1028}{}{Radscorpion}                                   # Radscor2.int
 {1029}{}{Caixa}                                        # VanceBox.int
 {1030}{}{Caixa}                                        # BethBox.int
-{1031}{}{Emissor do Campo de Forca}                     # Emiter1a.int
+{1031}{}{Emissor do Campo de Força}                     # Emiter1a.int
 {1032}{}{Porta}                                         # RhomDoor.int
 {1033}{}{Armario}                                      # RhomLock.int
 {1034}{}{Rato}                                         # WanRat2.int
@@ -945,8 +945,8 @@
 {1045}{}{Ghoul}                                         # RanGhoul.int
 {1046}{}{Bau de Gelo}                                   # IceChest.int
 {1047}{}{Holodisco}                                    # LtCodes.int
-{1048}{}{Campo de Forca}                               # PrisFeld.int
-{1049}{}{Campo de Forca}                               # PsyField.int
+{1048}{}{Campo de Força}                               # PrisFeld.int
+{1049}{}{Campo de Força}                               # PsyField.int
 {1050}{}{Kenny}                                         # Kenny.int
 {1051}{}{Guarda da Irmandade}                           # SuplyGrd.int
 {1052}{}{Hub}                                           # HubMis1.int
@@ -956,7 +956,7 @@
 {1056}{}{Prisoneiro}                                   # HubPris.int
 {1057}{}{Seguidores}                                   # LAFollwr.int
 {1058}{}{Porta}                                         # RaidDoor.int
-{1059}{}{Emissor do Campo de Forca Danificado}          # GenEmit.int
+{1059}{}{Emissor do Campo de Força Danificado}          # GenEmit.int
 {1060}{}{Teste}                                        #
 {1061}{}{Item do Trapaceiro}                            # Chitem.int
 {1062}{}{Fregues da Caravana}                          # carcust.int

@@ -1,2 +1,2 @@
 {100}{}{Sua tentativa de re-grampear o emissor de forca falha.}
-{101}{}{Voce desliga o emissor de forca.}
+{101}{}{Você desliga o emissor de forca.}

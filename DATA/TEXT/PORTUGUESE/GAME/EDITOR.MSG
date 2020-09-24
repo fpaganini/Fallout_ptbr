@@ -26,42 +26,42 @@
 {115}{}{Prox. Nivel:}
 {116}{}{PTS DO PERS.}
 {117}{}{TECNICAS}
-{118}{}{Voce deve usar todos os pontos de personagem} # 1
+{118}{}{Você deve usar todos os pontos de personagem} # 1
 {119}{}{antes de começar o jogo!}         # 2
 #
 {120}{}{Pontos do Personagem}
 {121}{}{Quantia de pontos do personagem livres que podem ser adicionados a uma das estat. basicas.}
 {122}{}{Proximo Nivel}
-{123}{}{A quantia de pontos de experiencia necessarios pra promover pro proximo nivel.}
+{123}{}{A quantia de pontos de experiência necessarios pra promover pro proximo nível.}
 {124}{}{Beneficios}
 {125}{}{Karma}
 {126}{}{- Mortes}
-{127}{}{Beneficios adicionam habilidades adicionais. A cada terceiro nivel de exp, voce pode escolher um beneficio.}
-{128}{}{Estes sao os efeitos das escolhas que voce faz durante o jogo.}
-{129}{}{Um contador que mantem rastro dos tipos e números das criaturas que voce matou ou viu serem mortas na sua presença.}
+{127}{}{Beneficios adicionam habilidades adicionais. A cada terceiro nível de exp, você pode escolher um benefício.}
+{128}{}{Estes são os efeitos das escolhas que você faz durante o jogo.}
+{129}{}{Um contador que mantem rastro dos tipos e números das criaturas que você matou ou viu serem mortas na sua presença.}
 {130}{}{Pontos das Tecnicas}
-{131}{}{Use pontos de tecnicas livres para aumentar o nivel de uma tecnica.}
+{131}{}{Use pontos de técnicas livres para aumentar o nível de uma técnica.}
 #
-{132}{}{No nivel maximo.}        # 1
+{132}{}{No nível maximo.}        # 1
 {133}{}{Incapaz de incrementar.}  # 2
-{134}{}{No nivel minimo.}        # 1
+{134}{}{No nível minimo.}        # 1
 {135}{}{Incapaz de decrementar.}  # 2
-{136}{}{Nao ha pontos de tecnica livres disponiveis.}
+{136}{}{Nao ha pontos de técnica livres disponiveis.}
 {137}{}{Base:}
 {138}{}{TEC DE IDEN}
 {139}{}{TRACOS OPCIONAIS}
-{140}{}{Voce ja tem o maximo de} # 1
-{141}{}{tres tecnicas de identificaçao!}               # 2
-{142}{}{Voce deve selecionar todas as tecnicas de identificaçao}  # 1
+{140}{}{Você já tem o maximo de} # 1
+{141}{}{tres técnicas de identificaçao!}               # 2
+{142}{}{Você deve selecionar todas as técnicas de identificaçao}  # 1
 {143}{}{antes de iniciar o jogo!}       # 2
 {144}{}{Tecnicas de Identificaçao}
-{145}{}{Tecnicas de Ident. sao tecnicas nas quais seu/sua personagem se especializa. Cada tecnica de ident. ganha +20% e aumenta 2x mais rapido. Voce deve escolher 3 tecnicas de ident.}
+{145}{}{Tecnicas de Ident. são técnicas nas quais seu/sua personagem se especializa. Cada técnica de ident. ganha +20% e aumenta 2x mais rapido. Você deve escolher 3 técnicas de ident.}
 {146}{}{Traços Opcionais}
-{147}{}{Traços opcionais descrevem seu/sua personagem em mais detalhes. Todos os traços terao efeitos positivos e negativos. Voce pode escolher ate 2 traços durante a criaçao.}
-{148}{}{Voce ja tem o maximo de} # 1
+{147}{}{Traços opcionais descrevem seu/sua personagem em mais detalhes. Todos os traços terao efeitos positivos e negativos. Você pode escolher até 2 traços durante a criaçao.}
+{148}{}{Você já tem o maximo de} # 1
 {149}{}{dois traços!}                     # 2
 {150}{}{Tecnicas}
-{151}{}{Tecnicas sao conhecimento aprendido. Tecnicas aumentam com a experiencia ou durante o curso do jogo atraves de eventos especiais. Mais alto o nivel da tecnica, melhor voce e nessa tecnica.}
+{151}{}{Tecnicas são conhecimento aprendido. Tecnicas aumentam com a experiência ou durante o curso do jogo atraves de eventos especiais. Mais alto o nível da técnica, melhor você e nessa técnica.}
 #
 {152}{}{ESCOLHA UM BENEFÍCIO}
 {153}{}{ESCOLHA UM NOVO TRACO}
@@ -114,15 +114,15 @@
 # Damage info texts
 #
 # Poisoned
-{400}{}{Seu/Sua personagem foi envenenado. O veneno fara dano por um periodo de tempo ate que seja curado ou ele passe do seu sistema.}
+{400}{}{Seu/Sua personagem foi envenenado. O veneno fara dano por um periodo de tempo até que seja curado ou ele passe do seu sistema.}
 # Radiation
 {401}{}{Seu/Sua personagem esta sofrendo de uma quantia significante de envenenamento por radiaçao. Maior o dano por radiaçao, mais mortal o efeito.}
 # Eye Damage
 {402}{}{Isto significa que seu/sua personagem foi seriamente atingido em um ou ambos dos seus olhos. Isto afeta sua Percepçao.}
 # Crippled right arm
-{403}{}{O braço dir foi severamente ferido e nao consegue funcionar bem. Se um braço foi incapacitado, voce nao pode usar armas de duas maos. Se ambos os braços foram incapacitados, voce nao consegue atacar com armas.}
+{403}{}{O braço dir foi severamente ferido e não consegue funcionar bem. Se um braço foi incapacitado, você não pode usar armas de duas mãos. Se ambos os braços foram incapacitados, você não consegue atacar com armas.}
 # Crippled left arm
-{404}{}{O braço esq do seu/sua pers. foi severamente ferido e nao consegue funcionar bem. Se um braço foi incapacitado, voce nao pode usar armas de 2 maos. Se ambos os braços foram incapacitados, voce nao consegue atacar com armas.}
+{404}{}{O braço esq do seu/sua pers. foi severamente ferido e não consegue funcionar bem. Se um braço foi incapacitado, você não pode usar armas de 2 mãos. Se ambos os braços foram incapacitados, você não consegue atacar com armas.}
 # Crippled right leg
 {405}{}{Seu/Sua personagem tem uma perna direita incapacitada.}
 # Crippled left leg
@@ -150,12 +150,12 @@
 {602}{}{IMPRIMIR}
 {603}{}{APAGAR}
 {604}{}{FEITO}
-{605}{}{Voce tem certeza que voce quer apagar}      # line 1
+{605}{}{Você tem certeza que você quer apagar}      # line 1
 {606}{}{o personagem atual?}                 # line 2
 {607}{}{ foi salvo com sucesso.}
 {608}{}{ foi carregado com sucesso.}
-{609}{}{ja existe.}
-{610}{}{Voce deseja sobrescrever?}
+{609}{}{já existe.}
+{610}{}{Você deseja sobrescrever?}
 {611}{}{Erro ao salvar }
 {612}{}{Erro ao carregar }
 {613}{}{Arquivo do personagem invalido.}
@@ -175,7 +175,7 @@
 # -
 #{000}{}{      Força: 00        Pts de Dano: 000/000          Sequencia: 00}
 #{000}{}{  Percepçao: 00     Classe de Arm.: 000           Taxa de Cura: 00}
-#{000}{}{Resistencia: 00        Pts de Açao: 000         Chance Critico: 000%}
+#{000}{}{Resistência: 00        Pts de Açao: 000         Chance Critico: 000%}
 #{000}{}{    Carisma: 00 Dano Corpo-a-Corpo: 000          Carregar Peso: 000 lbs.}
 #{000}{}{Inteligencia: 00       Res ao Dano: 000%}
 #{000}{}{  Agilidade: 00     Res a Radiaçao: 000%}
@@ -190,7 +190,7 @@
 {628}{}{       Classe de Arm.:}
 {629}{}{        Taxa de Cura:}
 # -
-{630}{}{      Resistencia:}
+{630}{}{      Resistência:}
 {631}{}{     Pts de Açao:}
 {632}{}{      Chance Critico:}
 # -
@@ -244,27 +244,27 @@
 #
 # Karma description strings
 #
-{1100}{}{Esta e uma estat. que representa sua reputaçao geral. Mais alto o número, melhor conhecido e respeitado voce e. Se sua rep. e negativa, voce e odiado por alguns por suas açoes mas.}
-{1101}{}{Voce matou um grande número de pessoas. Isto nao e geralmente uma coisa boa para ficar conhecido. Pessoas do lado errado da trilha contudo gostarao um pouco mais de voce.}
-{1102}{}{Suas açoes revelaram que voce ser um(a) campeao das pessoas. Sua guerra contra o mal e vilania e amplamente conhecida. Pessoas honraveis respeitarao mais voce.}
-{1103}{}{Voce matou crianças, a juventude da terra devastada. Isto e considerado ser uma coisa realmente ruim. Sua pessoa ma, ma.}
-{1104}{}{Voce aprecia totalmente a Nuka-Cola, o pop do mundo pos-nuclear.}
-{1105}{}{Voce esta viciado no chem Buffout. Voce deve tomar este chem numa base diaria ou sofrer os efeitos da retirada.}
-{1106}{}{Voce esta sofrendo do vicio em Mentats. Voce deve tomar este chem particular ou sofrer com a retirada.}
-{1107}{}{Voce tem um vicio em chems. Se voce nao tomar Psycho numa agenda regular, voce sofrera, Se voce o fizer, outros sofrerao.}
-{1108}{}{Seu corpo se tornou viciado em Radaway. Enquanto nao ameaça a vida, voce deve toma-lo regularmente.}
-{1109}{}{Voce tem um problema com alcool. Realmente, voce tem muitos problemas com o seu habito de beber.}
+{1100}{}{Esta e uma estat. que representa sua reputaçao geral. Mais alto o número, melhor conhecido e respeitado você e. Se sua rep. e negativa, você e odiado por alguns por suas açoes mas.}
+{1101}{}{Você matou um grande número de pessoas. Isto não e geralmente uma coisa boa para ficar conhecido. Pessoas do lado errado da trilha contudo gostarao um pouco mais de você.}
+{1102}{}{Suas açoes revelaram que você ser um(a) campeao das pessoas. Sua guerra contra o mal e vilania e amplamente conhecida. Pessoas honraveis respeitarao mais você.}
+{1103}{}{Você matou crianças, a juventude da terra devastada. Isto e considerado ser uma coisa realmente ruim. Sua pessoa ma, ma.}
+{1104}{}{Você aprecia totalmente a Nuka-Cola, o pop do mundo pos-nuclear.}
+{1105}{}{Você esta viciado no chem Buffout. Você deve tomar este chem numa base diaria ou sofrer os efeitos da retirada.}
+{1106}{}{Você esta sofrendo do vicio em Mentats. Você deve tomar este chem particular ou sofrer com a retirada.}
+{1107}{}{Você tem um vicio em chems. Se você não tomar Psycho numa agenda regular, você sofrera, Se você o fizer, outros sofrerao.}
+{1108}{}{Seu corpo se tornou viciado em Radaway. Enquanto não ameaça a vida, você deve toma-lo regularmente.}
+{1109}{}{Você tem um problema com alcool. Realmente, você tem muitos problemas com o seu habito de beber.}
 {1110}{}{TEMPORARIO - O que e isto?}
 
 
 #
 # Special Demo version only text
 #
-{5000}{}{Lamento, voce so pode imprimir seu/sua}   # 1
+{5000}{}{Lamento, você so pode imprimir seu/sua}   # 1
 {5001}{}{personagem na versao completa.}   # 2
-{5002}{}{Lamento, voce so pode salvar seu/sua}    # 1
+{5002}{}{Lamento, você so pode salvar seu/sua}    # 1
 {5003}{}{personagem na versao completa.}   # 2
-{5004}{}{Lamento, voce so pode carregar um(a)} # 1
+{5004}{}{Lamento, você so pode carregar um(a)} # 1
 {5005}{}{personagem salva na versao completa.}   # 2
 {5006}{}{MODO TRAPACA}
 {5007}{}{Nao disponivel no demo.}

@@ -1,52 +1,52 @@
-{100}{}{Voce ve o Vance.}
-{101}{}{O que posso fazer por voce?}
+{100}{}{Você ve o Vance.}
+{101}{}{O que posso fazer por você?}
 {102}{}{Eu comprar coisa.}
-{103}{}{Quem e voce?}
+{103}{}{Quem e você?}
 {104}{}{O que acontece neste predio?}
-{105}{}{Eu ouvi que voce tem o que eu preciso. Eu posso score some?}
+{105}{}{Eu ouvi que você tem o que eu preciso. Eu posso score some?}
 {106}{}{Deixa pra la. Tchau.}
-{107}{}{O nome e Vance, e isso e tudo que voce precisa saber. Eu posso conseguir algo pra voce?}
-{108}{}{Como deveria eu saber, se voce nao me diz o que voce esta vendendo?}
-{109}{}{Bom encontrar voce Vance. O que voce tem pra vender?}
+{107}{}{O nome e Vance, e isso e tudo que você precisa saber. Eu posso conseguir algo pra você?}
+{108}{}{Como deveria eu saber, se você não me diz o que você esta vendendo?}
+{109}{}{Bom encontrar você Vance. O que você tem pra vender?}
 {110}{}{Vazio.}
 {111}{}{Deixa pra la. Tchau.}
-{112}{}{Se voce nao sab voce nao deveria estar aqui. Agora saia.}
+{112}{}{Se você não sab você não deveria estar aqui. Agora saia.}
 {113}{}{EU VOU AONDE QUER QUE BEM AGRADE A MIM! VAI PRO INFERNO!}
 {114}{}{OK. Eu sairei.}
 {115}{}{Deixa pra la esta certo! Agora saia daqui!}
-{116}{}{Me faca... se voce puder, aberracao!}
+{116}{}{Me faca... se você puder, aberracao!}
 {117}{}{OK OK... Eu estou saindo.}
-{118}{}{Voce parece OK. Aqui esta o que eu tenho.}
+{118}{}{Você parece OK. Aqui esta o que eu tenho.}
 {119}{}{<Permutar>}
-{120}{}{O que eu posso fazer por voce?}
+{120}{}{O que eu posso fazer por você?}
 {121}{}{Quero mais.}
 {122}{}{Eu gostaria de comprar mais algumas coisas.}
-{123}{}{Eu nao gosto do seu tipo.}
-{124}{}{Quem sao seus amigos ali?}
-{125}{}{Quem sao seus amigos na sala de tras?}
+{123}{}{Eu não gosto do seu tipo.}
+{124}{}{Quem são seus amigos ali?}
+{125}{}{Quem são seus amigos na sala de tras?}
 {126}{}{Just hangin' out.}
 {127}{}{Lamento ouvir isso. Agora saia.}
 {128}{}{NAO!}
 {129}{}{Eu estou saindo.}
-{130}{}{Aqueles sao Justin e Chad. Eles estao aqui pra garantir que ninguem cause problema.}
+{130}{}{Aqueles são Justin e Chad. Eles estao aqui pra garantir que ninguem cause problema.}
 {131}{}{Eles parecem um casal de pansies.}
 {132}{}{Bacana encontrar voces caras.}
 {133}{}{Eu apenas vou hang out por um tempo, se estiver tudo bem pra voces caras.}
-{134}{}{Apenas alguns amigos meus. Isso e tudo que voce precisa saber. Nao faca muitas perguntas.}
-{135}{}{Muito bem. O que voce tem pra vender?}
-{136}{}{Eu sei o que voce esta fazendo aqui e eu nao gosto.}
+{134}{}{Apenas alguns amigos meus. Isso e tudo que você precisa saber. Nao faca muitas perguntas.}
+{135}{}{Muito bem. O que você tem pra vender?}
+{136}{}{Eu sei o que você esta fazendo aqui e eu não gosto.}
 {137}{}{Eu apenas vou hang out por um tempo, se estiver tudo bem pra voces caras.}
 {138}{}{Vamos direto aos negocios.}
-{139}{}{OK, o que voce tem?}
+{139}{}{OK, o que você tem?}
 {140}{}{Eu acho que eu apenas irei hang out por um tempo.}
-{141}{}{Voce nao e bem-vindo aqui. Agora saia daqui!}
-{142}{}{Eu vou mandar voce pro inferno aonde seu tipo pertence.}
+{141}{}{Você não e bem-vindo aqui. Agora saia daqui!}
+{142}{}{Eu vou mandar você pro inferno aonde seu tipo pertence.}
 {143}{}{Lamento. Me desculpe.}
 {144}{}{Ei, acalme-se. Nos apenas tivemos um desentendimento. Vamos conversar.}
-{145}{}{Eu nao quero qualquer problema, entao eu acho que seria melhor se voce saisse antes que eu faca algo que voce se arrependera.}
+{145}{}{Eu não quero qualquer problema, entao eu acho que seria melhor se você saisse antes que eu faca algo que você se arrependera.}
 {146}{}{naaaaaaaaoooooooo!}
 {147}{}{OhhKaay. Eu vou.}
-{148}{}{Eu nao me importo com o que voce acha.}
+{148}{}{Eu não me importo com o que você acha.}
 {149}{}{Deixa pra la. Tchau.}
 {150}{}{Nao use tudo em um lugar.}
 {151}{}{Obrigado.}

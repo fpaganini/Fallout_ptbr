@@ -1,12 +1,12 @@
-{100}{}{Voce ve um teamster.}
+{100}{}{Você ve um teamster.}
 {101}{}{Hoje vai ser um longo dia!}
-{102}{}{Eu realmente nao quero trabalhar hoje.}
-{103}{}{Eu espero que nos nao sejamos saqueados . . . ou pior.}
-{104}{}{Lamento, nos nao precisamos de mais guardas . . . eu acho.}
+{102}{}{Eu realmente não quero trabalhar hoje.}
+{103}{}{Eu espero que nos não sejamos saqueados . . . ou pior.}
+{104}{}{Lamento, nos não precisamos de mais guardas . . . eu acho.}
 {105}{}{Lamento, nos estamos cheios.}
-{106}{}{Voce deveria checar o Mercado dos Mercadores se voce quer um trabalho.}
+{106}{}{Você deveria checar o Mercado dos Mercadores se você quer um trabalho.}
 {107}{}{Eu espero que nos vendamos tudo.}
-{108}{}{Eu nao posso esperar ate nos terminarmos.}
+{108}{}{Eu não posso esperar até nos terminarmos.}
 {109}{}{Eu estou pronto pra chutar algumas bundas.}
 {110}{}{Nos estamos fora daqui!}
 {111}{}{Com certeza estava quente hoje.}
@@ -14,7 +14,7 @@
 {113}{}{Qual dia que e?}
 {114}{}{Eu estou indo pro Falcon tao breve quanto eu terminar!}
 {115}{}{Lamento, nos acabamos de voltar de uma rota.}
-{116}{}{Voce deveria checar o Mercado dos Mercadores se voce quer um trabalho.}
+{116}{}{Você deveria checar o Mercado dos Mercadores se você quer um trabalho.}
 {117}{}{Hoje e dia de pagamento!}
 {118}{}{Eu estou indo direto pro Bob's!}
 {119}{}{Eu vou pagar o emprestimo hoje!}

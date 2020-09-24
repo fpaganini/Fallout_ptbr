@@ -1,32 +1,32 @@
-{100}{}{Voce ve um mercador wandering de descendencia asiatica.}
-{101}{}{Voce ve o Duc, o mercador wandering.}
+{100}{}{Você ve um mercador wandering de descendencia asiatica.}
+{101}{}{Você ve o Duc, o mercador wandering.}
 {102}{}{Bem, ola wanderer. Meu nome e Duc, e eu estou indo pra Shady Sands pra fazer um 
- pouco de comercio. Talvez eu possa interessar a voce com algumas mercadorias?}
-{103}{}{O que voce tem pra vender?}
-{104}{}{Voce vai pra Shady Sands frequentemente?}
+ pouco de comercio. Talvez eu possa interessar a você com algumas mercadorias?}
+{103}{}{O que você tem pra vender?}
+{104}{}{Você vai pra Shady Sands frequentemente?}
 {105}{}{Erf!}
-{106}{}{Deixe-me mostrar a voce.}
-{107}{}{Sim, Shady Sands e parte da minha rota normal de comercio. Voce pode vijar
- pra la conosco com seguranca se voce quiser.}
+{106}{}{Deixe-me mostrar a você.}
+{107}{}{Sim, Shady Sands e parte da minha rota normal de comercio. Você pode vijar
+ pra la conosco com seguranca se você quiser.}
 {108}{}{Com certeza, soa bom.}
 {109}{}{Nao, obrigado.}
-{110}{}{Oh, lamento -- nao percebi que voce era estupido assim.}
+{110}{}{Oh, lamento -- não percebi que você era estupido assim.}
 {111}{}{So deve levar um dia ou dois. Vamos la!}
 {112}{}{ShadyW.map}
-{113}{}{Nao ha muitas pessoas que se aventuram pelas terras devastadas sozinhas. Quem e voce?}
+{113}{}{Nao ha muitas pessoas que se aventuram pelas terras devastadas sozinhas. Quem e você?}
 {114}{}{Nao e da sua conta.}
 {115}{}{Eu sou }
 {116}{}{.}
 {117}{}{Erf!}
-{118}{}{Ola de novo! O que eu posso fazer por voce?}
+{118}{}{Ola de novo! O que eu posso fazer por você?}
 {119}{}{Eu posso me juntar a seu grupo para Shady Sands?}
-{120}{}{O que voce tem pra vender?}
+{120}{}{O que você tem pra vender?}
 {121}{}{Nada, obrigado.}
-{122}{}{O que voce quer?}
+{122}{}{O que você quer?}
 {123}{}{Nada, lamento.}
-{124}{}{O que voce tem pra vender?}
+{124}{}{O que você tem pra vender?}
 {125}{}{Erf!}
-{126}{}{Voce deveria ser cuidadoso se voce esta viajando sozinho.
+{126}{}{Você deveria ser cuidadoso se você esta viajando sozinho.
  Algumas pessoas desapareceram de Shady Sands recentemente.}
-{127}{}{Ei, eu ouvi sobre como voce salvou aquela mulher de
+{127}{}{Ei, eu ouvi sobre como você salvou aquela mulher de
  Shady Sands. Bom trabalho.}

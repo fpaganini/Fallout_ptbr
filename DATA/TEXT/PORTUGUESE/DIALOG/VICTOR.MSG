@@ -1,21 +1,21 @@
-{100}{}{Voce ve o Victor.}
-{101}{}{Voce ve um membro de gangue.}
+{100}{}{Você ve o Victor.}
+{101}{}{Você ve um membro de gangue.}
 {102}{}{Aaaaggghhh . . .}
 {103}{}{Sangue novo. Heh. Heh heh.}
 {104}{}{Um, sim. Uh, eu acho que eu irei agora.}
-{105}{}{Voce nao e uma pessoa muito feliz, nao e?}
+{105}{}{Você não e uma pessoa muito feliz, não e?}
 {106}{}{Huh huh!}
-{107}{}{Nao, realmente, eu acho que eu manterei voce aqui por um tempo.}
-{108}{}{Por que voce diz isso? Eu estou bastante feliz. Eu estou muito feliz
+{107}{}{Nao, realmente, eu acho que eu manterei você aqui por um tempo.}
+{108}{}{Por que você diz isso? Eu estou bastante feliz. Eu estou muito feliz
  por que ha muitas coisas que sangram.}
-{109}{}{Voce e um psicopata de verdade, voce sabe disso?}
+{109}{}{Você e um psicopata de verdade, você sabe disso?}
 {110}{}{Um, sim. Tchau.}
 {111}{}{Ah, sim, apreciacao da arte. Uh, eu consigo entender isso. Eu acho.}
-{112}{}{Nao diga isso! Minha mae disse isso! Eu farei voce pagar! Eu sou um bom garoto,
+{112}{}{Nao diga isso! Minha mae disse isso! Eu farei você pagar! Eu sou um bom garoto,
  certo mamae?}
 {113}{}{Alguem que me entende! Finalmente!}
 {114}{}{Ola de novo, meu amigo artistico.}
 {115}{}{Ha! Ha! Heh heh hee! Ho ho ha!}
 {116}{}{Zzzzz}
-{117}{}{Victor, eu ja disse a voce que voce e um psicopata de verdade?}
+{117}{}{Victor, eu já disse a você que você e um psicopata de verdade?}
 {118}{}{Uh, oi.}

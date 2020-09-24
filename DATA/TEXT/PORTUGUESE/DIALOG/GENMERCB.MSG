@@ -1,8 +1,8 @@
-{101}{}{Eu nao preciso dos seus servicos agora. Talvez mais tarde.}
+{101}{}{Eu não preciso dos seus servicos agora. Talvez mais tarde.}
 {102}{}{Ajuda! Me Salva!}
-{103}{}{Voce deve morrer pelo que voce fez!}
+{103}{}{Você deve morrer pelo que você fez!}
 {104}{}{Me poupe! Por favor!}
-{105}{}{Eles ja estao mortos? Talvez haja mais deles!}
+{105}{}{Eles já estao mortos? Talvez haja mais deles!}
 
 #
 # TRANSLATION NOTE: The following three sets of lines are identical in English,
@@ -11,7 +11,7 @@
 # for the case of the player-character feminine ("my friend" will be feminine).
 #
 
-{106}{}{Sua chegada foi bem na hora, meu amigo. Permita-me presentear voce com
+{106}{}{Sua chegada foi bem na hora, meu amigo. Permita-me presentear você com
  um pequeno     da minha gratidao.}
-{107}{}{Sua chegada foi bem na hora, minha amiga. Permita-me presentear voce com
+{107}{}{Sua chegada foi bem na hora, minha amiga. Permita-me presentear você com
  um pequeno token da minha gratidao.}

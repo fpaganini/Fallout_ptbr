@@ -1,13 +1,13 @@
-{100}{}{Voce ve o Estudioso Theslin das Criancas da Catedral.}
-{101}{}{Voce ve o Estudioso Slater das Criancas da Catedral.}
-{102}{}{Voce ve o Estudioso Aunanut das Criancas da Catedral.}
-{103}{}{Voce ve o Estudioso Eikenkoff das Criancas da Catedral.}
-{104}{}{Voce ve o Estudioso Spikavar das Criancas da Catedral.}
-{105}{}{Voce ve o Estudioso Varalone das Criancas da Catedral.}
-{106}{}{Voce ve o Estudioso Quinonos das Criancas da Catedral.}
-{107}{}{Voce ve o Estudioso Ziegliff das Criancas da Catedral.}
-{108}{}{Voce ve o Estudioso Jones das Criancas da Catedral.}
-{109}{}{Voce ve o Estudioso Smithe das Criancas da Catedral.}
+{100}{}{Você ve o Estudioso Theslin das Crianças da Catedral.}
+{101}{}{Você ve o Estudioso Slater das Crianças da Catedral.}
+{102}{}{Você ve o Estudioso Aunanut das Crianças da Catedral.}
+{103}{}{Você ve o Estudioso Eikenkoff das Crianças da Catedral.}
+{104}{}{Você ve o Estudioso Spikavar das Crianças da Catedral.}
+{105}{}{Você ve o Estudioso Varalone das Crianças da Catedral.}
+{106}{}{Você ve o Estudioso Quinonos das Crianças da Catedral.}
+{107}{}{Você ve o Estudioso Ziegliff das Crianças da Catedral.}
+{108}{}{Você ve o Estudioso Jones das Crianças da Catedral.}
+{109}{}{Você ve o Estudioso Smithe das Crianças da Catedral.}
 {110}{}{Em algum lugar por aqui estao os planos dos Seguidores.}
 {111}{}{Eu estou certo de que os Seguidores tinham uma lista de todos os seus aliados.}
 {112}{}{Aqueles tolos deveriam ter feito melhor do que mexer com o nosso deus!}
@@ -18,4 +18,4 @@
 {117}{}{Em algum lugar tem que estar um lista de todos os Seguidores.}
 {118}{}{Infelizmente, nos so podemos procurar neste lugar durante o dia.}
 {119}{}{Nos devemos estar wary dos Nightkin, pois eles procuram durante as horas de noite.}
-{120}{}{Que possa voce viver em tempos interessantes!}
+{120}{}{Que possa você viver em tempos interessantes!}

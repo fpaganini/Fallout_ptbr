@@ -1,11 +1,11 @@
-{100}{}{Voce ve Lyle.}
-{101}{}{Entao voce e o ladrao da agua! Seu traidor!}
-{102}{}{Eu estou tao feliz que o ordeal acabou. Obrigado a voce.}
+{100}{}{Você ve Lyle.}
+{101}{}{Entao você e o ladrão da agua! Seu traidor!}
+{102}{}{Eu estou tao feliz que o ordeal acabou. Obrigado a você.}
 {103}{}{Ola, }
 {104}{}{.}
-{105}{}{Ola Lyle. Como voce esta holding up?}
-{106}{}{Nos estamos indo bem aqui. Mas eu espero que voce ache o chip da agua em breve.
- Todos estao no limite e nos nao temos muito tempo.}
+{105}{}{Ola Lyle. Como você esta holding up?}
+{106}{}{Nos estamos indo bem aqui. Mas eu espero que você ache o chip da agua em breve.
+ Todos estao no limite e nos não temos muito tempo.}
 {107}{}{Wahnnnngh!}
 {108}{}{Nao tao bem. Desde que eu tive uma das minhas racoes de agua roubadas
  outro dia, as coisas tem ido pra pior. Todos estao ficando assustados e
@@ -13,9 +13,9 @@
 {109}{}{Isso e muito ruim. Eu espero que as coisas fiquem melhores.}
 {110}{}{Eu darei uma olhada e verei o que eu posso fazer.}
 {111}{}{Sim, eu espero que sim tambem.}
-{112}{}{Obrigado. Eu com certeza espero que voce possa chegar ao fundo disto. E
- por favor apresse-se e ache um novo chip da agua. Esta loucura nao teria
+{112}{}{Obrigado. Eu com certeza espero que você possa chegar ao fundo disto. E
+ por favor apresse-se e ache um novo chip da agua. Esta loucura não teria
  acontecido de modo algum se nos tivessemos um chip funcional.}
-{113}{}{Obrigado por pegar aquele ladrao. Voce esta fazendo um bom trabalho. Mas
- por favor apresse-se e ache o chip ou nao importara!}
-{114}{}{Como voce poderia nos trair assim? Me deixe em paz!}
+{113}{}{Obrigado por pegar aquele ladrão. Você esta fazendo um bom trabalho. Mas
+ por favor apresse-se e ache o chip ou não importara!}
+{114}{}{Como você poderia nos trair assim? Me deixe em paz!}

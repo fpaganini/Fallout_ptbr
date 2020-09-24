@@ -1,4 +1,4 @@
-{100}{}{Paz para voce.}
+{100}{}{Paz para você.}
 {101}{}{Exterminar!}
 {102}{}{Matar o humano!}
 {103}{}{Matar o intruso!}

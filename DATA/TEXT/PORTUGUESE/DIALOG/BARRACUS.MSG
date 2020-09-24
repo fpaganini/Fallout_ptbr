@@ -1,12 +1,12 @@
-{100}{}{Voce ve o Ton.}
-{101}{}{Voce ve diversos membros da Children.}
+{100}{}{Você ve o Ton.}
+{101}{}{Você ve diversos membros da Children.}
 {102}{}{homem}
 {103}{}{mulher}
 {104}{}{[Feito]}
 {105}{}{[Mais]}
 {106}{}{Desculpe cara, mas você passou do ponto sem volta com a gente. E hora de você dar o fora!}
 {107}{}{Desculpe cara, mas você passou do ponto sem volta com a gente. E hora de você dar o fora!}
-{108}{}{E por que eu iria querer falar com alguem que sai por ai matando criancas? Saia da minha frente!}
+{108}{}{E por que eu iria querer falar com alguem que sai por ai matando crianças? Saia da minha frente!}
 {109}{}{Ouvi dizer que você é muito durão. Mas infelizmente isto não impressiona o Ton commo gostaria. Você tem algo a me dizer ou já quer comecar?}
 {110}{}{Paz, irmão! Estou apenas conhecendo este lugar.}
 {111}{}{Não estou nem um pouco interessado em impressionar você. Então se você tem algo útil para me dizer, então me diga logo!}
@@ -19,13 +19,13 @@
 {118}{}{garoto}
 {119}{}{garota}
 {120}{}{Ei, você acha que sua arma vai te valer alguma coisa? Cara, isso vai te valer um túmulo, isto sim. Guarde logo isso.}
-{121}{}{Ei, voce acha que sua arma vai te valer alguma coisa? Cara, isso vai te valer um túmulo, isto sim. Guarde logo isso.}
+{121}{}{Ei, você acha que sua arma vai te valer alguma coisa? Cara, isso vai te valer um túmulo, isto sim. Guarde logo isso.}
 {122}{}{O que você quer, seu zumbi estupido? Saia da minha frente antes que eu te quebre ao meio.}
 {123}{}{Eu estava procurando por alguém inteligente o suficiente para me dizer o que realmente esta acontecendo por aqui!}
 {124}{}{O que os padres dirão se o ouvirem falando assim?}
 {125}{}{A qualquer hora, amigo. Estou mesmo esperando por uma boa briga!}
 {126}{}{Ei, qual é o problema? Apenas algumas bebidas e seremos bons amigos!}
-{127}{}{Você sabia que até mesmo uma crianca pode aplicar pressão suficiente no ponto certo do seu joelho para aleija-lo para o resto da sua vida? Apenas achei que você gostaria de saber disto.}
+{127}{}{Você sabia que até mesmo uma criança pode aplicar pressão suficiente no ponto certo do seu joelho para aleija-lo para o resto da sua vida? Apenas achei que você gostaria de saber disto.}
 {128}{}{Você quer falar com o Ton? Tudo bem, mas se eu ouvir a palavra "Prazer" eu vou matar você.}
 {129}{}{Você não é um grande fã de cultos de adoracão, não é?}
 {130}{}{Qual é o seu problema amigo?}
@@ -38,13 +38,13 @@
 {137}{}{Ole. Eu fui evoluído pelo FEV para que qualquer um que me incomode morra. Pare de me irritar, serzinho.}
 {138}{}{Verifique em outro lugar. Ton não gosta muito da sua presença aqui.}
 {139}{}{Bem. Você quer jogar serio então? As vezes, matar é realmente necessário e até gosto disso. Mas ouvi dizer também que você adora matar. . . o tempo todo! Cada vez que eu encontro um psicopata como você, ou ele morre ou Ton morre. Só que Ton ainda esta aqui. Então, por que você não vai para outro lugar?}
-{140}{}{Cara, eu poderia aprender a gostar de você. Ou você é um completo idiota, ou voce tem muita coragem. De qualquer forma, esta pronto para o Ton, contanto que você não me atrabalhe. Você quer participar?}
+{140}{}{Cara, eu poderia aprender a gostar de você. Ou você é um completo idiota, ou você tem muita coragem. De qualquer forma, esta pronto para o Ton, contanto que você não me atrabalhe. Você quer participar?}
 {141}{}{O que aconteceu com o "paz e o amor"?}
 {142}{}{O que está envolvido?}
 {143}{}{De jeito nenhum}
 {144}{}{Vou tocar o que eu quiser, onde eu quiser. Então, vamos acabar com os empecilhos!}
 {145}{}{Para ver você sofrer. Vamos, "hombre", me de o que eu quero.}
-{146}{}{Cuidado com o que você deseja. Você pode nao gostar do que recebe.}
+{146}{}{Cuidado com o que você deseja. Você pode não gostar do que recebe.}
 {147}{}{Prefiro muito mais ser seu amigo}
 {148}{}{Você não vale meu tempo.}
 {149}{}{Continue. Faça o primeiro movimento. O ultimo é meu.}

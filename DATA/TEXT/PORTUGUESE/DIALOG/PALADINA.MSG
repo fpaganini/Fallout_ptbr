@@ -4,10 +4,10 @@
 {103}{}{Ola Iniciado, tudo esta seguro.}
 {104}{}{Oi, Irmao }
 {105}{}{.}
-{106}{}{Lamento, eu nao deveria estar falando com ninguem. Voce sabe como e.}
-{107}{}{Voce deveria falar com Talus ou Maxson se voce tem quaisquer perguntas.}
-{108}{}{Vree esta na biblioteca durante o dia se voce tem
- perguntas tecnicas.}
+{106}{}{Lamento, eu não deveria estar falando com ninguem. Você sabe como e.}
+{107}{}{Você deveria falar com Talus ou Maxson se você tem quaisquer perguntas.}
+{108}{}{Vree esta na biblioteca durante o dia se você tem
+ perguntas técnicas.}
 {109}{}{Rhombus e meu idolo.}
 {110}{}{Eu desejo que eu estivesse treinando agora. Este dever de guarda
  e uma perda de tempo.}

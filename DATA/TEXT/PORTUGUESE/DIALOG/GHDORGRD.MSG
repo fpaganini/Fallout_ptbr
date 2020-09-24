@@ -1,19 +1,19 @@
-{100}{}{Voce ve um guarda ghoul.}
-{101}{}{Vai embora! Voce nao e desejado aqui.}
-{102}{}{OK. Bom encontrar voce tambem.}
+{100}{}{Você ve um guarda ghoul.}
+{101}{}{Vai embora! Você não e desejado aqui.}
+{102}{}{OK. Bom encontrar você tambem.}
 {103}{}{Hã?}
-{104}{}{Eu estou no dever. Se voce quer ver o Set, voce tem que faze-lo la dentro.}
-{105}{}{A porta esta trancada. Voce tera que voltar mais tarde quando estiver escuro.}
+{104}{}{Eu estou no dever. Se você quer ver o Set, você tem que faze-lo la dentro.}
+{105}{}{A porta esta trancada. Você tera que voltar mais tarde quando estiver escuro.}
 {106}{}{Obrigado.}
 {107}{}{Hã?}
-{108}{}{Eu disse a voce pra sair. Seu tipo nao e desejado aqui.}
+{108}{}{Eu disse a você pra sair. Seu tipo não e desejado aqui.}
 {109}{}{Certo.}
 {110}{}{Myuh!}
-{111}{}{As portas nao abrirao ate escurecer.}
-{112}{}{Eu preciso entrar la. Ha algum modo de que voce possa me ajudar?}
+{111}{}{As portas não abrirao até escurecer.}
+{112}{}{Eu preciso entrar la. Ha algum modo de que você possa me ajudar?}
 {113}{}{Hmm, OK.}
 {114}{}{Ugh!}
-{115}{}{Bem, eu creio que nao vai doer.}
-{116}{}{Eu desejo que eu pudesse ajudar voce, mas o Set bronzearia meu traseiro se eu
- o fizesse. Voce sabe como e . . . sempre tem que fazer o que o cara grande diz.}
+{115}{}{Bem, eu creio que não vai doer.}
+{116}{}{Eu desejo que eu pudesse ajudar você, mas o Set bronzearia meu traseiro se eu
+ o fizesse. Você sabe como e . . . sempre tem que fazer o que o cara grande diz.}
 {117}{}{Sim, eu entendo. Obrigado.}

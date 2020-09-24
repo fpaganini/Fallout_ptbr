@@ -159,7 +159,7 @@
 {222}{}{Não deals, no way.}
 {223}{}{Fine. Have it your way!}
 {224}{}{Eu will take something from you. And then we will be even.}
-{225}{}{Okay.}
+{225}{}{Certo.}
 {226}{}{Não way.}
 {227}{}{Excellent!}
 {228}{}{Doutor Mórbido reaches up with a surgical tool, and, before you can react,

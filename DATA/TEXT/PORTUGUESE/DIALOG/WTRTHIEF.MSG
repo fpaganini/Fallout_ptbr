@@ -12,7 +12,7 @@
 {110}{}{Eaah!}
 {111}{}{Eu estava preocupado com a vault e tive um pesadelo. Eu não conseguia
  voltar a dormir entao eu pensei em dar uma caminhada pra relaxar.}
-{112}{}{Okay.}
+{112}{}{Certo.}
 {113}{}{Você viu alguem mais por aqui?}
 {114}{}{Eu lamento, mas eu estou procurando pelo ladrão de agua e eu
  preciso ver o que você esta carregando.}

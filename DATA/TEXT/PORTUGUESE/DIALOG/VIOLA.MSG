@@ -66,7 +66,7 @@
 {165}{}{Upstairs. Ask the Nightkin to shed your blood, they'll be more than happy to oblige.}
 {166}{}{Because the Master is a necessary evil. Because somebody has to unite the world, and he's the only one in the area who has a chance to unify it.}
 {167}{}{Anyone ever tell you that Unity is overrated?}
-{168}{}{Why?}
+{168}{}{Por quê?}
 {169}{}{I don't believe in necessary evils.}
 {170}{}{I like this world just fine.}
 {171}{}{I don't think I like this conversation.}

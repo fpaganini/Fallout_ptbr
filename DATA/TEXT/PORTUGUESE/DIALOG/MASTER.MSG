@@ -9,7 +9,7 @@
 {106}{}{Ugh. Lee.}
 {107}{Mast01}{Excellent. Your talents will be useful. But first, you must tell me
  everything about your Vault.}
-{108}{}{Why?}
+{108}{}{Por quê?}
 {109}{}{OK. Eu'll tell you everything you want to know.}
 {110}{Mast02}{Eu will conquer it and turn all those pure strain humans into mutants.
  They will give me the army Eu need to bring peace to the entire wasteland.}

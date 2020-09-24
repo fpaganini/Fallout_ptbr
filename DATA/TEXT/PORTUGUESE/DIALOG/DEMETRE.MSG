@@ -134,7 +134,7 @@
 {210}{}{I already told you. Just talk to Keri in the next room.}
 {211}{}{Your daughter?}
 {212}{}{That ugly thing is your daughter?  That explains a lot!}
-{213}{}{Okay.}
+{213}{}{Certo.}
 {214}{}{Yes, she's my pride and joy! Isn't she beautiful? Just talk to her
  when you want another job. Some day . . . hopefully soon,
  I'll be able to retire and she'll take over for me.}

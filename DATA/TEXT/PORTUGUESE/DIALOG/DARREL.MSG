@@ -119,7 +119,7 @@
 {185}{}{What?...}
 {186}{}{Why does the Ancient Order have two names?}
 {187}{}{Where is the Ancient Order, and the dangers are...?}
-{188}{}{Can I ask you a few questions?}
+{188}{}{Posso te fazer algumas perguntas?}
 {189}{}{Most topsiders think that it is just a big Radioactive hole.
  Thus the name became the Glow or some even call it the Hot Spot.
  We in the Brotherhood know the truth. According to the ancient

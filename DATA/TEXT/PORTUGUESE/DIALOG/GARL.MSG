@@ -96,7 +96,7 @@
 {168}{}{Fine. We shall settle this with no weapons. Knock me
  out, and I'll let you take the woman and leave. I
  knock you out, you leave without her.}
-{169}{}{Fine.}
+{169}{}{Bem.}
 {170}{}{This will be interesting, but not very sporting.
  Very well, let's do it.}
 {171}{}{OK.}

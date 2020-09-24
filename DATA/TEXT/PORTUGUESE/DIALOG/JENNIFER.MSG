@@ -132,7 +132,7 @@
 {180}{}{Pfft!}
 {181}{}{Well, yes, you are a member of the Brotherhood, but the Elders
  have put a hold on all training of new Initiates.}
-{182}{}{Why?}
+{182}{}{Por quê?}
 {183}{}{Oh, that's just GREAT! Why the hell did I join this stupid
  group? Where's the door?!}
 {184}{}{There are rumors about some kind of army. I think the Elders

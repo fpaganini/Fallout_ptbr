@@ -11,7 +11,7 @@
 {112}{}{O que? O que você quer dizer?}
 {113}{}{Nunca!}
 {114}{}{Eu estou aqui pra falar sobre a paz.}
-{115}{}{Okay.}
+{115}{}{Certo.}
 {116}{}{Eu faco as perguntas aqui. O que você esta fazendo aqui?}
 {117}{}{Eu estou procurando um amigo.}
 {118}{}{Eu estou aqui pra falar sobre a paz.}

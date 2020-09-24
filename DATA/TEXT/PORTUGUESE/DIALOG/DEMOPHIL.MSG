@@ -8,13 +8,13 @@
 {106}{}{Ma'am,}
 {107}{}{ I would be really happy if you were to get rid of
  that damn dog.}
-{108}{}{Why?}
+{108}{}{Por quê?}
 {109}{}{Nah, I only deal with important stuff.}
 {110}{}{Where did it come from?}
 {111}{}{Hnnn.}
 {112}{}{Mebbe you can talk it to death.}
 {113}{}{It won't let us back into our house, that's why.}
-{114}{}{Okay.}
+{114}{}{Certo.}
 {115}{}{Isn't it your dog?}
 {116}{}{It was the 'pet' of a traveler. When the traveler died, this
  damn dog just plopped its furry ass down on my doorstep

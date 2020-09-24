@@ -17,7 +17,7 @@
 {115}{}{Interesting. That means you know stuff.}
 {116}{Vree03a}{Yes. I guess you could say I know, 'stuff.'}
 {117}{Vree17}{What can I help you with?}
-{118}{Vree17a}{Go ahead.}
+{118}{Vree17a}{Continue.}
 {119}{}{I need a water-chip repaired. Can you help me?}
 {120}{}{I'd like to know more about the weapons we make here.}
 {121}{}{I heard something about holo-discs, how can I read them?}

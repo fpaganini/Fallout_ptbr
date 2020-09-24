@@ -47,7 +47,7 @@
  when I’m not paying attention to o que I’m doing.}
 {138}{}{Ele so esta tentando ajudar. Trabalhe duro e eu tenho certeza de que ele será mais bacana.}
 {139}{}{Aqui garoto, leve 50 pratas e get away panaca.}
-{140}{}{Okay.}
+{140}{}{Certo.}
 {141}{}{Aaaaaarg!}
 {142}{}{Rhu?}
 {143}{}{Por favor não, eu já estou com problemas o bastante.}

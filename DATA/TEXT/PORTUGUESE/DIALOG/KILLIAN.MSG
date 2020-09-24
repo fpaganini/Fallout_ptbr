@@ -246,7 +246,7 @@
 {270}{}{You gain 500 experience points for securing Gizmo's confession.}
 {271}{}{I'm here to take you in, Gizmo. This time, I've got the proof I need.}
 {272}{}{What do you know about this Gizmo character?}
-{273}{}{Okay.}
+{273}{}{Certo.}
 {274}{}{Yeah, he's dangerous. I'm here to kill you for him.}
 {275}{}{I'll say . . . that fat slob just tried to hire me to kill you.
  Why don't you do something about him?}

@@ -1,7 +1,7 @@
 {100}{}{Você ve um patrulheiro para os Nightkin.}
 {101}{}{O que nos temos aqui? Um normal. Eu acho que você vira comigo.}
 {102}{}{Nao.}
-{103}{}{Okay.}
+{103}{}{Certo.}
 {104}{}{Por que eu deveria?}
 {105}{}{Pense de novo!}
 {106}{}{E realmente bastante simples. Se você vier comigo, eu posso ajudar você.}

@@ -48,7 +48,7 @@
 {133}{}{Umm.. Me, no, I would never do such a thing. I am just going
  to see how it all works.}
 {134}{}{Of course, my people need the Water Chip to survive.}
-{135}{}{Why?}
+{135}{}{Por quê?}
 {136}{}{If you take the Water Chip from us, then we will all die. With
  our water pump broken we need it to survive.}
 {137}{}{Well, I really don't care about you and your people. We need

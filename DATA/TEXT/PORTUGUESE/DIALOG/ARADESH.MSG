@@ -48,7 +48,7 @@
 {130}{}{Nao, apenas estupido.}
 {131}{Ara_9}{Como Dharma disse, 'Cuidado e vida em tempos dificeis'.
  Sua origem não e a questao. Sua intencao e.}
-{132}{}{Okay.}
+{132}{}{Certo.}
 {133}{Ara_9A}{Eu deixarei você passar, mas saiba isto: Seth e eu
  observaremos você muito, muito de perto. Nem ao menos considere
  trazer problemas aqui.}

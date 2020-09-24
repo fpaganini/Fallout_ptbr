@@ -54,7 +54,7 @@ Everything is my business in the Hub. Either tell me, or you may leave.}
 I see . . . My assistant will show you to the door.}
 {140}{DECK_15}{
 I'm very proud of you. You're ruthless, an attribute I admire. Kane will give you your payment. I hope you're available in the future.}
-{141}{}{Can I ask you a few questions?}
+{141}{}{Posso te fazer algumas perguntas?}
 {142}{}{Thanks.}
 {143}{DECK_16}{
 Under the circumstances, yes.}
@@ -107,7 +107,7 @@ A small matter. Kill the High Priestess, Jain. Once she's gone, this little nuis
 {178}{}{But that would be immoral!}
 {179}{DECK_30}{
 I believe I'm beginning to like you. The pay is 1000 up front and 4000 upon completion. And trust me, I'll know when it's done.}
-{180}{}{Okay.}
+{180}{}{Certo.}
 {181}{DECK_31}{
 Talk to Kane on your way out. He'll provide you with details.}
 {182}{DECK_32}{
@@ -116,7 +116,7 @@ And killing the merchant wasn't?}
 {184}{}{I don't care. I won't do it.}
 {185}{DECK_33}{
 The pay is 1000 in advance and 4000 upon . . . execution. And trust me, I'll know when it's over.}
-{186}{}{Okay.}
+{186}{}{Certo.}
 # Line 187 has been changed due to gender issues. See 234-235.
 {187}{}{}
 {188}{DECK_35}{

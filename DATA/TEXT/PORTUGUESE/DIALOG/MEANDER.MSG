@@ -9,7 +9,7 @@
 {108}{}{Morte! Morte! Morte!}
 {109}{}{Ei, você ouviu que Set foi morto?}
 {110}{}{Set esta morto. Set esta morto. Set esta morto . . .}
-{111}{}{Ha bastante agua to go around para todos.
+{111}{}{Há bastante água to go around para todos.
  Set faz ter certeza disso.}
 {112}{}{Eu ouvi que os mutantes fugiram da cidade.}
 {113}{}{Desde que os mutantes sairam tem sido melhor.}

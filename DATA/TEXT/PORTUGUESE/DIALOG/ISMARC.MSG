@@ -1,12 +1,12 @@
-{100}{}{Você ve um homem de aparencia zangada e magro.}
-{101}{}{Você ve o Ismarc.}
+{100}{}{Você vê um homem de aparencia zangada e magro.}
+{101}{}{Você vê o Ismarc.}
 {102}{}{O que?}
 {103}{}{Sim, o que você quer?}
 {104}{}{Ei, bom canto.}
 {105}{}{Seu canto faz meus ouvidos sangrarem.}
-{106}{}{Deixa pra la.}
+{106}{}{Deixa pra lá.}
 {107}{}{Hoo!}
-{108}{}{Oh, otimo. Você não sabe quao grato isso me faz. Vai embora.}
+{108}{}{Ah, otimo. Você não sabe quao grato isso me faz. Vai embora.}
 {109}{}{Obrigado. O que eu posso fazer por você?}
 {110}{}{Você faz musica em mais algum lugar?}
 {111}{}{Apenas me senti como se diz, jogando um pouco de dinheiro no chapeu.}
@@ -18,26 +18,26 @@
 {116}{}{Você pode me dizer como chegar até o Hub?}
 {117}{}{Eu preciso saber como chegar até a Irmandade.}
 {118}{}{Como eu chego a Adytum?}
-{119}{}{Um, deixa pra la, obrigado.}
-{120}{}{O Hub? Oh, esta apenas a uma curta distancia ao sul de Junktown. O que mai?}
-{121}{}{A Irmandade esta a alguns dias a oeste e um pouco ao norte daqui. Nao va
- la. Eles não deixarao você entrar a menos que você esteja com uma caravana.
+{119}{}{Um, deixa pra lá, obrigado.}
+{120}{}{O Hub? Ah, esta apenas a uma curta distancia ao sul de Junktown. O que mai?}
+{121}{}{A Irmandade esta a alguns dias a oeste e um pouco ao norte daqui. Não vá
+ lá. Eles não deixarao você entrar a menos que você esteja com uma caravana.
  Você precisa de algo mais?}
-{122}{}{Hmm. Rume a sudoeste do Hub. Adytum e parte da Boneyard. E uma pequena
- cidade semi-industrial. Eu não gostei muito de la. O que mais você quer?}
-{123}{}{Ei, obrigado. E dificil ser um artista faminto. Se você tiver algo que
- você precise saber, e so você perguntar.}
+{122}{}{Hmm. Rume a sudoeste do Hub. Adytum e parte da Boneyard. É uma pequena
+ cidade semi-industrial. Eu não gostei muito de lá. O que mais você quer?}
+{123}{}{Ei, obrigado. É difícil ser um artista faminto. Se você tiver algo que
+ você precise saber, e só você perguntar.}
 {124}{}{Eu aprecio o pensamento e tal, mas você esta strapped pior do que eu estou.}
 {125}{}{Ah, Eu peguei aqui e ali. Aprendi um pouco de um velho cantor no Hub, e
  consegui algumas musicas dos scavs em Adytum, na Boneyard. Você sabe.
  Apenas exige um pouco de pratica.}
-{126}{}{Ha um homem cantand raucously no canto.}
+{126}{}{Há um homem cantand raucously no canto.}
 {127}{}{Sua cabeca esta em um bowl!}
-{128}{}{E redonda como uma toupeira!}
+{128}{}{É redonda como uma toupeira!}
 {129}{}{Eu preferiria fritar!}
-{130}{}{Entao pague você a taxa!}
+{130}{}{Então pague você a taxa!}
 {131}{}{Eu conheco sua mente.}
-{132}{}{E uma gaiola de aco.}
+{132}{}{É uma gaiola de aco.}
 {133}{}{Enfurecido dentro esta . . .}
 {134}{}{O DeathClaw.}
 {135}{}{Eu preciso de você.}

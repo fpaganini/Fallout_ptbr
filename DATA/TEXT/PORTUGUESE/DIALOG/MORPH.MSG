@@ -1,7 +1,7 @@
 {100}{}{Você vê Morpheus.}
-{101}{MORP02}{Eu não me lembro de convidar alguém para o meu quarto? E ainda tenho um
+{101}{MORP02}{Eu não me lembro de convidar alguém para o meu quarto? É ainda tenho um
  Visitante. Por quê?}
-{102}{}{Oh, me desculpe. Eu pareço estar perdido.}
+{102}{}{Ah, me desculpe. Eu pareço estar perdido.}
 {103}{}{Porque eu tenho um bom negócio para você ...}
 {104}{}{Eu estou}
 {105}{}{. O que é seu?}
@@ -19,7 +19,7 @@
 {112}{}{Bem, eu não estou realmente perdido.}
 {113}{}{Eu estava indo para cá para te matar.}
 {114}{}{Eu esqueci. Eu irei apenas.}
-{115}{MORP04}{Ahh ... Heh, heh heh. Isso seria Lasher. Ele adora receber os adoradores
+{115}{MORP04}{Ahh ... Ei, heh heh. Isso seria Lasher. Ele adora receber os adoradores
  em apuros. Este é o seu dia de sorte, meu pequeno amigo ignorante. Você pode sair
  agora sem incidentes. }
 {116}{MORP04A}{Você foi avisado. Guardas! }
@@ -50,13 +50,13 @@
 {136}{}{Sim, certo. Você é um cachorrinho com uma coleira curta.}
 {137}{}{Não importa. Eu tenho informações sobre um Vault ele
  quereria.}
-{138}{}{Ele dá comandos, certo? E você os segue, não
+{138}{}{Ele dá comandos, certo? É você os segue, não
  perguntas feitas.}
 {139}{MORP11}{Eu não tolero
  insultos. Guardas! }
 {140}{MORP12}{Ótimo. Eu vou te levar ao Mestre. Mas se
  você está mentindo, ele saberá. }
-{141}{}{Ok, tudo bem}
+{141}{}{Certo, tudo bem}
 {142}{}{Você não está me levando a lugar algum!}
 {143}{MORP13}{Isso não é da sua conta.
  se você for verdadeiramente de um Vault, o Mestre descobrirá. Guardas! Venha comigo.}
@@ -66,7 +66,7 @@
 {146}{}{ou o quê?}
 {147}{}{Eu não te direi nada.}
 {148}{MORP15}{Não? Então eu vou pegar as informações de você. Guardas! }
-{149}{MORP16}{E quem seriam meus inimigos? }
+{149}{MORP16}{É quem seriam meus inimigos? }
 {150}{}{Bem, os seguidores, por um.}
 {151}{}{De onde estou, parece que todos.}
 {152}{MORP17}{Diga-me o que você sabe. }
@@ -79,7 +79,7 @@
  Surpreso? Eu tenho minhas fontes. Agora, vou levá-lo como um presente para o Mestre.
  Ele ficará muito satisfeito. }
 {159}{}{Que tal nós tiramos você em uma sacola?}
-{160}{}{E assim será I.}
+{160}{}{É assim será I.}
 {161}{MORP20}{Um espião? Muito tolo de você. Será
  difícil relatar a ele quando você está morto, não vai? }
 {162}{MORP21}{Você é
@@ -92,7 +92,7 @@
 {167}{}{Gostaria de oferecer algumas informações sobre seus inimigos.}
 {168}{}{Você não é muito intimidante.}
 {169}{}{Eu não te direi nada.}
-{170}{MORP24}{Ah, é mesmo? E como você planeja fazer
+{170}{MORP24}{Ah, é mesmo? É como você planeja fazer
  aquele? Com sua inteligência estonteante e língua afiada? }
 {171}{}{Não, com isso. . .}
 {172}{}{Isso seria muito fácil contra você. Eu irei a rota mais desafiadora.}
@@ -126,7 +126,7 @@
  deve se esforçar para alcançar. O nosso objetivo é encontrar a vida melhor, mais
  cumprindo, do que o presente, marcado por dificuldades e conflitos. }
 {196}{}{Você está brincando, certo?}
-{197}{}{E você encontrou este nível mais alto?}
+{197}{}{É você encontrou este nível mais alto?}
 {198}{MORP33}{[Irritada] Por que você! ... [Calmamente] Você está perdoado. Nem todo mundo é
  capaz de ver a luz. Mas me diga meu filho, por que você se juntou a nós? }
 {199}{}{Eu tinha que ver se isso era tanto uma piada quanto eu tinha ouvido. Agora eu sei.}
@@ -144,10 +144,10 @@
  espero, estamos certos de encontrá-lo. Mas tudo isso deve ser conhecido por você, meu
  criança.}
 {208}{}{Eu sei, mas apenas mais algumas perguntas, por favor.}
-{209}{}{Eu sei. Adeus.}
+{209}{}{Eu sei. Tchau.}
 {210}{MORP39}{Nós curamos o corpo físico para começar. Você certamente
  vimos nossos hospitais. Então oferecemos esperança e cura para o espírito. }
-{211}{}{Uau. Eu quase acreditei nisso. Voce é bom!}
+{211}{}{Uau. Eu quase acreditei nisso. Você é bom!}
 {212}{}{Onde estão esses hospitais?}
 {213}{MORP40}{O nosso glorioso esforço acabou de chegar ao Adytum e, claro, o
  Hub brilha com nossos esforços lá. Mas tenho a sensação de que há mais você
@@ -165,7 +165,7 @@
 {221}{} {Você me ouviu. Leve-me para ver o Mestre agora!}
 {222}{MORP42B}{Uh, sim.
  Bem. Por favor siga-me. }
-{223}{MORP42C}{Oh, meu filho, você não faz sentido
+{223}{MORP42C}{Ah, meu filho, você não faz sentido
  qualquer. por favor, encontre um dos nossos médicos e peça ajuda. }
 {224}{MORP45}{Meu filho, fale com
  Lasher Ele vai te ajudar com isso. }

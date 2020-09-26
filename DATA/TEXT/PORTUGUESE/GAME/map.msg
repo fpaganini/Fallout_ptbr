@@ -80,10 +80,10 @@
 #
 #	Note: The maximum description width is approximately:
 #	  "Brotherhood of Steel (Lower Levels)" -- about 34 characters,
-#	  but it's proportional, so you need to double-check it by
+#	  but it's proportional, só you need to double-check it by
 #	  going into mapper/game and going to the automap for that map.
 #
-#	Note: Descriptions *MUST* *NOT* be empty, and so temporary
+#	Note: Descriptions *MUST* *NOT* be empty, and só temporary
 #	  descriptions are just the map name itself (this also helps
 #	  pinpoint unfinished ones when you go through here).
 #

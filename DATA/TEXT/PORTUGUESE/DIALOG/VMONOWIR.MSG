@@ -8,4 +8,4 @@
  antes que ele corte e abra suas mãos.}
 {105}{}{Você tenta desarmar o fio, mas não consegue um bom manejamento nele. Você
  volta pra tras antes que ele corte você.}
-{106}{}{Você tenta desarmar o fio, mas escorrega e corta a si mesmo com ele.}
+{106}{}{Você tenta desarmar o fio, mas escorrega e corta a si próprio com ele.}

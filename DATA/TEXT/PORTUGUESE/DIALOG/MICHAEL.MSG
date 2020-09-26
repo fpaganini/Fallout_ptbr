@@ -1,11 +1,11 @@
-{100}{}{Você ve o Michael.}
+{100}{}{Você vê o Michael.}
 {101}{}{Bem, eu creio que isso e o que o problema era. Você deveria ver a Doutora, ela esta no nível dois.}
 {102}{}{Você esta bem tanto quanto eu possa dizer.}
 {103}{}{A sala dos suprimentos esta fora dos limites meu filho. So eu mesmo e dois outros tem acesso a aquela sala.
  Se você precisa de algo, você precisa falar comigo sobre isso.}
 {104}{}{A sala dos suprimentos esta fora dos limites meu filho. So eu mesmo e dois outros tem acesso a aquela sala.
  Se você precisa de algo, você precisa falar comigo sobre isso.}
-{105}{}{Você não me ouviu? Eu disse que as salas estao fora dos limites.}
+{105}{}{Você não me ouviu? Eu disse que as salas estão fora dos limites.}
 {106}{}{Ola, Irmao. Como eu posso ajudar você?}
 {107}{}{Por favor me desculpe por perguntar, mas o que você faz pela nossa Irmandade?}
 {108}{}{O que você faz por aqui?}
@@ -17,124 +17,124 @@
 {114}{}{Eu ainda não entendo você. Talvez você precise ver a Doutora. 
  Ela esta no nível dois.}
 {115}{}{Você deveria ver a Doutora. Ela esta no nível 2.}
-{116}{}{Oh, nada tao glorioso como nossos Paladinos. Eu apenas comando a sala dos suprimentos, verificando o equipamento e outros suprimentos para as pessoas.}
-{117}{}{Eu fui enviado aqui pelo ... Bob. Ele queria que eu pegasse pra ele ... aquela nova arma-coisa high-tech. Ele disse pra traze-la imediatamente.}
+{116}{}{Ah, nada tão glorioso como nossos Paladinos. Eu apenas comando a sala dos suprimentos, verificando o equipamento e outros suprimentos para as pessoas.}
+{117}{}{Eu fui enviado aqui pelo ... Bob. Ele queria que eu pegasse pra ele ... aquela nova arma-coisa high-tech. Ele disse pra traze-lá imediatamente.}
 {118}{}{Eu gostaria de verificar algo. Como eu faco isso?}
-{119}{}{Oh, isso e bacana. Tchau.}
+{119}{}{Ah, isso e bacana. Tchau.}
 {120}{}{[A Mentira Falhou] Bob? Bob quem? Do que você esta falando? Qual arma-coisa nova high-tech? Eu preciso
- de mais especificacoes do que isso e você deve ter o quem quer que seja para pegar pra mim a autorizacao
+ de mais especificações do que isso e você deve ter o quem quer que seja para pegar pra mim a autorizacao
  apropriada. Eu não posso dar nada sem a autorizacao.}
-{121}{}{[Mentira Bem Sucedida] Oh, você quer dizer a pistola laser? Ok, espere um segundo por favor. Eu não tenho qualquer
- autorizacao de um Bob para dar a qualquer um um laser. Oh, espere um segundo. Eu saquei. Aquelas garotas no andar
+{121}{}{[Mentira Bem Sucedida] Ah, você quer dizer a pistola laser? Certo, espere um segundo por favor. Eu não tenho qualquer
+ autorizacao de um Bob para dar a qualquer um um laser. Ah, espere um segundo. Eu saquei. Aquelas garotas no andar
  de baixo acham que elas são realmente engrancadas não acham? Eu desejo que elas parassem de me aborrecer.}
-{122}{}{Bem, você sabe. Eles me disseram pra não dizer a você, mas e porque eles gostam tanto de você. Eu acho que um deles
+{122}{}{Bem, você sabe. Eles me disseram pra não dizer a você, mas é porque eles gostam tanto de você. Eu acho que um deles
  tem uma queda por você.}
 {123}{}{Lamento, eu não tinha ideia do que eles estavam pra fazer. Eles me disseram para vir aqui em cima e dizer isto a você, e que você ganharia um grande chute pra fora.}
 {124}{}{Eu lamento. Foi uma piada ruim. Eu estava apenas brincando com você.}
-{125}{}{[A Mentira Falhou] Você esta fazendo de novo! Pare de me atormentar! Elas são tao crueis! Eu não posso acreditar que você se
- rebaixaria ao nível delas. Nos caras supostamente temos que ficar unidos.}
-{126}{}{Você esta mentindo! Você esta em sociedade com eles. Como você poderia ser tao cruel?}
-{127}{}{[Mentira Bem Sucedida]  Realmente? Você não estaria puxando minha perna de novo, estaria? Nao, você parece um bom
+{125}{}{[A Mentira Falhou] Você esta fazendo de novo! Pare de me atormentar! Elas são tão crueis! Eu não posso acreditar que você se
+ rebaixaria ao nível delas. Nós caras supostamente temos que ficar unidos.}
+{126}{}{Você esta mentindo! Você esta em sociedade com eles. Como você poderia ser tão cruel?}
+{127}{}{[Mentira Bem Sucedida]  Realmente? Você não estaria puxando minha perna de novo, estaria? Não, você parece um bom
  camarada. Eles provavelmente forcaram você a fazer isto. Você sabe, eu peguei Lara olhando para mim durante o Treinamento. Eu aposto que foi ela, certo?}
-{128}{}{Sim, você sacou. Ela e a culpada, Nao diga a ela que eu disse a você. Ela me mataria.}
-{129}{}{Nao, Eu lamento. Eu estava apenas brincando com você. Ninguem me enviou aqui.}
-{130}{}{Você esta fazendo de novo! Pare de me atormentar! Voces mulheres são tao crueis!}
-{131}{}{[Mentira Bem Sucedida]  Realmente? Você não estaria puxando minha perna de novo, estaria? Nao, você parece um bom
+{128}{}{Sim, você sacou. Ela é a culpada, Não diga a ela que eu disse a você. Ela me mataria.}
+{129}{}{Não, Eu lamento. Eu estava apenas brincando com você. Ninguem me enviou aqui.}
+{130}{}{Você esta fazendo de novo! Pare de me atormentar! Vocês mulheres são tão crueis!}
+{131}{}{[Mentira Bem Sucedida]  Realmente? Você não estaria puxando minha perna de novo, estaria? Não, você parece um bom
  camarada. Eles provavelmente forcaram você a fazer isto. Você sabe, eu peguei Lara olhando para mim durante o Treinamento. Eu aposto que foi ela, certo?}
-{132}{}{Sim, você sacou. Ela e the one. Nao diga a ela que eu disse a você. Ela me mataria.}
-{133}{}{Nao, Eu lamento. Eu estava apenas brincando com você. Ninguem me enviou aqui.}
+{132}{}{Sim, você sacou. Ela e the one. Não diga a ela que eu disse a você. Ela me mataria.}
+{133}{}{Não, Eu lamento. Eu estava apenas brincando com você. Ninguem me enviou aqui.}
 {134}{}{Bem, eu não sei o que dizer. Eu sempre tipo tive uma queda por ela, mas eu não queria agir,
  porque eu não sabia se ela se sentia do mesmo modo ou não. Da proxima vez que eu ver ela, eu acho que eu pedirei a ela pra sair. 
- Talvez eu tentarei entrar na mesma patrulha que ela e surpreende-la com um jantar romântico bacana. Muito
+ Talvez eu tentarei entrar na mesma patrulha que ela e surpreende-lá com um jantar romântico bacana. Muito
  obrigado. Você realmente fez meu dia. Aqui, leve estas. Você deve ser capaz de achar algum uso para elas. Elas são
  granadas de pulso. Muito uteis contra robôs. Esperancosamente, você nunca tera que usa-las. Tchau.}
-{135}{}{Isso não e muito bacana de você. Por que você diria algo assim se não fosse verdade? Algumas pessoas...}
-{136}{}{Oh. Você tem um estranho senso de humor. Bem, não me aborreca a menos que você tenha algo para verificar.}
-{137}{}{Oh, aquelas garotas estao sempre me dando um tempo dificl. Eu não sei por que elas continuam fazendo isso. Aquela Lara
- apesar disso, com certeza e bonita. Eu gostei dela já por algum tempo. Eu conheci ela quando ela era mais jovem. Ela era tao querida. 
- Agora ela esta mais velha e ela me trata tao terrivelmente. Eu nunca fiz nada para merecer isto.}
+{135}{}{Isso não é muito bacana de você. Por que você diria algo assim se não fosse verdade? Algumas pessoas...}
+{136}{}{Ah. Você tem um estranho senso de humor. Bem, não me aborreca a menos que você tenha algo para verificar.}
+{137}{}{Ah, aquelas garotas estão sempre me dando um tempo dificl. Eu não sei por que elas continuam fazendo isso. Aquela Lara
+ apesar disso, com certeza e bonita. Eu gostei dela já por algum tempo. Eu conheci ela quando ela era mais jovem. Ela era tão querida. 
+ Agora ela esta mais velha e ela me trata tão terrivelmente. Eu nunca fiz nada para merecer isto.}
 {138}{}{Bem, talvez ela goste de você. Você já pensou sobre isso? Ela apenas poderia não saber como se aproximar de você. Você deve
  perguntar a ela. Se você realmente gosta dela, o que você tem a perder?}
 {139}{}{Talvez ela goste de você.}
-{140}{}{Uh, sim. Ok. Tchau.}
+{140}{}{Uh, sim. Certo. Tchau.}
 {141}{}{Você sabe, você esta certo. O que eu tenho a perder? Da proxima vez que eu ver ela, eu acho que eu pedirei
- a ela. Talvez eu tentarei entrar na mesma patrulha que ela e surpreende-la com um jantar romântico bacana. 
+ a ela. Talvez eu tentarei entrar na mesma patrulha que ela e surpreende-lá com um jantar romântico bacana. 
  Obrigado. Você realmente fez meu dia. Aqui, leve estes. Você deve ser capaz de achar um uso pra eles.
  Eles são aumentadores de destreza. Seja cuidadoso com eles. Eles podem ser altamente viciantes. Tchau.}
-{142}{}{Nao, isso não e provável. Mulheres certamente me confundem as vezes. Eu posso ler e entender qualquer novo
+{142}{}{Não, isso não é provável. Mulheres certamente me confundem as vezes. Eu posso ler e entender qualquer novo
  esquematico na frente de mim; mas quando se trata de mulheres, eu sou uma perda total. Obrigado de qualquer maneira.}
-{143}{}{Nao, isso não e provável. Voces mulheres certamente me confundem as vezes. Eu posso ler e entender qualquer novo
+{143}{}{Não, isso não é provável. Vocês mulheres certamente me confundem as vezes. Eu posso ler e entender qualquer novo
  esquematico na frente de mim; mas quando se trata de mulheres, eu sou uma perda total. Obrigado de qualquer maneira.}
 {144}{}{Você precisa ter a autorizacao apropriada. So pessoal especifico pode dar autorizacao para verificar itens na sala de suprimentos.}
-{145}{}{Oh. Ok, obrigado. Com quem eu preciso falar entao?}
+{145}{}{Ah. Certo, obrigado. Com quem eu preciso falar então?}
 {146}{}{Foi dada a mim autorizacao verificar algo. Você poderia checar o terminal para ver se chegou?}
 {147}{}{Quem pode me dar autorizacao?}
-{148}{}{Bem, ha bastante pessoas realmente, mas Talus e a pessoa com quem você deve provavelmente falar. Você
+{148}{}{Bem, há bastante pessoas realmente, mas Talus é a pessoa com quem você deve provavelmente falar. Você
  poderia tambem querer verificar com a Mathia, ela poderia ser capaz de ajudar você tambem.}
 {149}{}{Onde eu posso achar a Mathia?}
 {150}{}{Onde esta o Talus?}
-{151}{}{Ok, obrigado.}
-{152}{}{Mathia e a assistente do Maxon. Ela e tecnicamente a assistente do Elder Supremo, mas ela trabalha com todos os
+{151}{}{Certo, obrigado.}
+{152}{}{Mathia é a assistente do Maxon. Ela e tecnicamente a assistente do Elder Supremo, mas ela trabalha com todos os
  outros Elders. Ela esta normalmente nas Salas dos Elders. Isso esta localizado no quarto andar.}
-{153}{}{Ok. Onde esta o Talus?}
-{154}{}{Ok. Obrigado. Tchau.}
+{153}{}{Certo. Onde esta o Talus?}
+{154}{}{Certo. Obrigado. Tchau.}
 {155}{}{Por que? Ele esta na sala de treinamento a minha esquerda.}
 {156}{}{Ótimo. Agora, você poderia tambem me direcionar para onde eu possa achar a Mathia?}
-{157}{}{E quanto a Mathia?}
+{157}{}{É quanto a Mathia?}
 {158}{}{Obrigado. Falo com você depois.}
 {159}{}{Sim, durante o dia ela esta normalmente nas Salas dos Elders. Essa esta localizada no quarto andar.}
 {160}{}{Obrigado a você. Você foi muito util.}
 {161}{}{Bem, aqui esta a droga para a qual você teve autorizacao. Tenha cuidado com isso. Elas podem se tornar viciantes
  se você usa-las muito frequentemente. Desentoxicacao e retiradas não são muito divertidas. Mas eu creio que elas são
- muito a mesma coisa. Use a seu proprio risco. Ha algo mais que eu possa fazer por você?}
-{162}{}{Nao, isso e tudo. Obrigado.}
+ muito a mesma coisa. Use a seu proprio risco. Há algo mais que eu possa fazer por você?}
+{162}{}{Não, isso e tudo. Obrigado.}
 {163}{}{Sim, Eu tenho algo a mais para pegar.}
-{164}{}{Bem, aqui esta a droga que você queria, Essa e uma coisa pratica. Eu tenho certeza que será util. Você precisava
+{164}{}{Bem, aqui esta a droga que você queria, Essa é uma coisa pratica. Eu tenho certeza que será util. Você precisava
  de algo mais?}
-{165}{}{Nao, isso e tudo. Obrigado.}
+{165}{}{Não, isso e tudo. Obrigado.}
 {166}{}{Sim, Eu tenho algo a mais para pegar.}
-{167}{}{Ok, Eu tenho um pouco disso. Você nunca pode ter munição o bastante, certo? Bem, ai vai você. Algo mais?}
-{168}{}{Nao, isso e tudo. Obrigado.}
+{167}{}{Certo, Eu tenho um pouco disso. Você nunca pode ter munição o bastante, certo? Bem, ai vai você. Algo mais?}
+{168}{}{Não, isso e tudo. Obrigado.}
 {169}{}{Sim, Eu tenho algo a mais para pegar.}
-{170}{}{Oh, estas podem ser realmente perigosas. Apenas tenha certeza que você esta longe o bastante quando
+{170}{}{Ah, estas podem ser realmente perigosas. Apenas tenha certeza que você esta longe o bastante quando
  elas detonarem. Ai vai você. Algo mais?}
-{171}{}{Nao, isso e tudo. Obrigado.}
+{171}{}{Não, isso e tudo. Obrigado.}
 {172}{}{Sim, Eu tenho algo a mais para pegar.}
 {173}{}{Ah, nada como uma boa arma ao seu lado. Algo mais?}
-{174}{}{Nao, isso e tudo. Obrigado.}
+{174}{}{Não, isso e tudo. Obrigado.}
 {175}{}{Sim, Eu tenho algo a mais para pegar.}
-{176}{}{Uma boa defesa e a melhor ofensiva. Ou era o contrario? Bem, não importa. Aqui esta sua aramadura. Tenha
+{176}{}{Uma boa defesa é a melhor ofensiva. Ou era o contrario? Bem, não importa. Aqui esta sua aramadura. Tenha
  certeza de tomar conta dela. Eu não posso dar mais do que um conjunto. Havia outro item que você precisasse?}
-{177}{}{Nao, isso e tudo. Obrigado.}
+{177}{}{Não, isso e tudo. Obrigado.}
 {178}{}{Sim, Eu tenho algo a mais para pegar.}
 {179}{}{Bem, isto pode ser util nas mãos certas. Aqui vai você. Algo mais?}
-{180}{}{Nao, isso e tudo. Obrigado.}
+{180}{}{Não, isso e tudo. Obrigado.}
 {181}{}{Sim, Eu tenho algo a mais para pegar.}
-{182}{}{Oh, algo mais? Lamento, eu devo ter perdido. Deixe-me ver.}
+{182}{}{Ah, algo mais? Lamento, eu devo ter perdido. Deixe-me ver.}
 {183}{}{Ola de novo. Como você esta indo hoje? Como eu posso ajudar você?}
-{184}{}{Ha algo que eu possa fazer para ajudar você? Você parece estar terrivelmente ocupado.}
+{184}{}{Há algo que eu possa fazer para ajudar você? Você parece estar terrivelmente ocupado.}
 {185}{}{Eu tenho algo a pegar.}
 {186}{}{Nada, tchau.}
 {187}{}{Você poderia possivelmente me ajudar? Eu acho que não. Saia do meu caminho.}
-{188}{}{Ok, deixe-me ver aqui.}
+{188}{}{Certo, deixe-me ver aqui.}
 {189}{}{Ah, sim. Você tem autorizacao para verificar.}
 {190}{}{Bem, na verdade Sophia tem estado com necessidade de algumas grenadas de pulso mas eu não tive uma chance de entrega-las
  a ela ainda. Você acha que você poderia entrega-las por mim?}
 {191}{}{Com certeza. Passe elas pra ca.}
-{192}{}{Lamento, eu não tenho tempo. Espero que você possa achar alguem mais.}
+{192}{}{Lamento, eu não tenho tempo. Espero que você possa achar alguém mais.}
 {193}{}{Com o que eu pareco, seu lacaio?}
-{194}{}{Ok, ai vai você.. Sophia e uma das duas Escribas Mestras Assistentes para a Vree.
+{194}{}{Certo, ai vai você.. Sophia é uma das duas Escribas Mestras Assistentes para a Vree.
  Ela esta normalmente na biblioteca no terceiro andar.}
 {195}{}{Por que você não entregou os itens que eu dei a você? Sophia esta esperando por eles.}
 {196}{}{Eu lamento. Você poderia me dizer onde ela esta de novo?}
 {197}{}{Eu perdi eles. Eu posso ter um pouco mais?}
 {198}{}{Eu lamento, eu perdi a trilha do tempo.}
-{199}{}{Ha! Você pensou que eu realmente entregaria? Você e mais burro do que você parece!}
+{199}{}{Há! Você pensou que eu realmente entregaria? Você e mais burro do que você parece!}
 {200}{}{Ela esta normalmente na biblioteca no terceiro andar.}
-{201}{}{Guardas! Nos temos um ladrão! Mostrem a ele o que nos fazemos com aqueles que traem a Irmandade.}
-{202}{}{Guardas! Nos temos um ladrão! Mostrem a ela o que nos fazemos com aqueles que traem a Irmandade.}
-{203}{}{Lamento, eu não falo com os tipos de voces.}
-{204}{}{Estoria tipica. Eu sabia que eu não deveria ter confiado em alguem como você.}
+{201}{}{Guardas! Nós temos um ladrão! Mostrem a ele o que nos fazemos com aqueles que traem a Irmandade.}
+{202}{}{Guardas! Nós temos um ladrão! Mostrem a ela o que nos fazemos com aqueles que traem a Irmandade.}
+{203}{}{Lamento, eu não falo com os tipos de vocês.}
+{204}{}{Estoria tipica. Eu sabia que eu não deveria ter confiado em alguém como você.}
 {205}{}{Eu consigo acreditar que você mostraria sua cara aqui de novo.
  Eu espero que as granadas foram uteis, você nunca vai pegar qualquer coisa de mim de novo.
  Eu não me importo com quem supostamente der autorizacao a você.}
@@ -144,8 +144,8 @@
 {207}{}{O que você quer.}
 {208}{}{Apenas me de o que tenho que pegar e eu estarei fora do seu caminho.}
 {209}{}{Nada.}
-{210}{}{Bem entao. Deixe-me apenas verificar e ver se eu tenho uma ordem.}
-{211}{}{Ok, Você precisa de um pouco de munição, não precisa? Bem, de que tipo você precisava.}
+{210}{}{Bem então. Deixe-me apenas verificar e ver se eu tenho uma ordem.}
+{211}{}{Certo, Você precisa de um pouco de munição, não precisa? Bem, de que tipo você precisava.}
 {212}{}{Eu não sei.}
 {213}{}{10mm Jacketed Hollow Point.}
 {214}{}{10mm Armor Piercing.}
@@ -157,50 +157,50 @@
 {220}{}{5mm Armor Piercing.}
 {221}{}{Shotgun shells.}
 {222}{}{Be, você precisa descubrir que tipo de munição você precisa antes que
- eu possa da-la pra você. Apenas examine a arma para a qual você requisitou munição.
+ eu possa da-lá pra você. Apenas examine a arma para a qual você requisitou munição.
  Quando você descobrir, me de um grito.}
-{223}{}{Ah, um lancador de foguetes...nada como uma boa arma ao seu lado. Entao, isso e tudo?}
-{224}{}{Nao, isso e tudo. Obrigado.}
+{223}{}{Ah, um lancador de foguetes...nada como uma boa arma ao seu lado. Então, isso e tudo?}
+{224}{}{Não, isso e tudo. Obrigado.}
 {225}{}{Sim, Eu tenho algo a mais para pegar.}
-{226}{}{Ah sim, aqui esta a pistola boa que você esta procurando. Entao, isso e tudo?}
-{227}{}{Nao, isso e tudo. Obrigado.}
+{226}{}{Ah sim, aqui esta a pistola boa que você esta procurando. Então, isso e tudo?}
+{227}{}{Não, isso e tudo. Obrigado.}
 {228}{}{Sim, Eu tenho algo a mais para pegar.}
-{229}{}{Uma boa defesa e a melhor ofensiva. Ou era o contrario? Bem, não importa. Aqui estasua armadura. Tenha
+{229}{}{Uma boa defesa é a melhor ofensiva. Ou era o contrario? Bem, não importa. Aqui estasua armadura. Tenha
  certeza de tomar conta dela. Eu não posso dar mais do que um set. Havia outro item que você precisasse?}
-{230}{}{Nao, isso e tudo. Obrigado.}
+{230}{}{Não, isso e tudo. Obrigado.}
 {231}{}{Sim, Eu tenho algo a mais para pegar.}
 {232}{}{Hmmm...Powered Armor. Tenha certeza de tomar conta dela. Eu não posso dar
  mais do que um conjunto. Havia outro item que você precisasse?}
-{233}{}{Nao, isso e tudo. Obrigado.}
+{233}{}{Não, isso e tudo. Obrigado.}
 {234}{}{Sim, Eu tenho algo a mais para pegar.}
 {235}{}{Bem, isto pode ser util nas mãos certas. Aqui vai você. Algo mais?}
-{236}{}{Nao, isso e tudo. Obrigado.}
+{236}{}{Não, isso e tudo. Obrigado.}
 {237}{}{Sim, Eu tenho algo a mais para pegar.}
 {240}{}{Eu estou procurando por um Motivador Systolico.}
 {241}{}{Você tem a autorizacao apropriada?}
 {242}{}{Sim. Eu fui enviado aqui para pegar um Motivador Systolico.}
-{243}{}{Nao, eu não. Mas e imperativo que eu obtenha essa parte.}
+{243}{}{Não, eu não. Mas e imperativo que eu obtenha essa parte.}
 {244}{}{Kyle me enviou para pegar a parte.}
-{245}{}{Nao. Como eu obtenho autorizacao?}
+{245}{}{Não. Como eu obtenho autorizacao?}
 {246}{}{Deixe-me olhar aqui. (ele checa o terminal) Bem, eu não vejo um
  Pedido para um Motivador Sistolico. Você precisara obter a autorizacao
  apropriada.}
 {247}{}{Agora olha, eu não quero qualquer problema. Apenas me de a maldita parte.}
-{248}{}{Vamos la? Por favor. Eu realmente preciso desta parte.}
+{248}{}{Vamos lá? Por favor. Eu realmente preciso desta parte.}
 {249}{}{OK. Lamento aborrecer você.}
 {250}{}{Você não tem? A artilharia supostamente deveria ter mandando um ontem.
  Olha, você pode me ajudar? Se eu não pegar esta parte vai ser o meu traseiro.
  Eu tenho certeza que o formulario estara aqui mais tarde hoje.}
-{251}{}{OK. Aqui vai você. So não diga a ninguem que eu dei isto para você.
+{251}{}{OK. Aqui vai você. So não diga a ninguém que eu dei isto para você.
  Rhombus teria minha cabeca se ele soubesse que eu dei as partes sem
  a autorizacao apropriada.}
 {252}{}{Obrigado a você. Tchau.}
-{253}{}{Eu daria a você se eu pudesse. Mas eu não posso. Nao sem
+{253}{}{Eu daria a você se eu pudesse. Mas eu não posso. Não sem
  autorizacao apropriada.}
 {254}{}{Você conhece o Michael, você e provavelmente um dos caras mais brilhantes
  com quem eu conversei aqui. Mas eu não entendo por que você esta me dando uma
  dura. Eu realmente preciso dessa parte.}
-{255}{}{Oh.. bem. Eu creio que eu entendo. Eu não sei o que eu
+{255}{}{Ah.. bem. Eu creio que eu entendo. Eu não sei o que eu
  vou fazer.}
 {256}{}{Apenas o de para mim.}
 {257}{}{Se você não tem autorizacao você não pode pegar
@@ -209,16 +209,16 @@
 {259}{}{OK. Lamento aborrecer você. Tchau.}
 {260}{}{Kyle? Isto e sobre aquela velha Power Armor sucateada?}
 {261}{}{Sim.}
-{262}{}{Nao.}
+{262}{}{Não.}
 {263}{}{Você pode dizer aele que quando ele restaurar aquela unidade de volta a
- sua gloria original, entao e so entao ele obtera a autorizacao que
- ele precisa. Adeus.}
-{264}{}{Nao você. Primeiro Kyle precisa ver a Unidade em necessidade de reparo.
- Se ele sente que o reparo e justificado, ele entao faz um pedido para partes.
+ sua gloria original, então e só então ele obtera a autorizacao que
+ ele precisa. Tchau.}
+{264}{}{Não você. Primeiro Kyle precisa ver a Unidade em necessidade de reparo.
+ Se ele sente que o reparo e justificado, ele então faz um pedido para partes.
  Rhombus revisa os pedidos e determina qual deles são viaveis.
- Va falar com o Kyle. Tchau.}
-{265}{}{Adeus.}
-{266}{}{Oh...sim, bem, Kyle me enviou. Você poderia checar seu terminal
+ Vá falar com o Kyle. Tchau.}
+{265}{}{Tchau.}
+{266}{}{Ah...sim, bem, Kyle me enviou. Você poderia checar seu terminal
  mais uma vez?}
 {267}{}{Mas Rhombus me enviou.}
 {268}{}{Você não vai pegar a parte e ponto final. Eu disse a você o que

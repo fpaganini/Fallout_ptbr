@@ -1,5 +1,5 @@
 {100}{}{Você enfureceu o Larry.}
-{101}{}{Você ve o Larry.}
+{101}{}{Você vê o Larry.}
 {102}{}{Se você perturbar o chefe ele vai bater em você.}
 {103}{}{Humanos não são permitidos em Necropolis. Você vem comigo.}
 {104}{}{Mas . . .}

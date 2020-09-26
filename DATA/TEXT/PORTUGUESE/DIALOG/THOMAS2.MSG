@@ -1,4 +1,4 @@
-{100}{}{Você ve o Irmao Thomas.}
+{100}{}{Você vê o Irmao Thomas.}
 {101}{}{Por que, ola. Você deve ser o novo Iniciado sobre o qual Talus me disse a respeito.
  Esta terrivelmente tarde pra uma chamada social, o que eu posso fazer por você?}
 {102}{}{Eu preciso de alguns suprimentos.}
@@ -18,10 +18,10 @@
  de suprimentos de manha.}
 {114}{}{Bem, os Elders disseram não pra um novo treinamento de iniciados mas... com
  certeza. Você parece um lad jovem bacana. Eu odiaria que algo acontecesse com você
- la fora, quando eu poderia ter sido capaz de ajudar. Pro que você esta procurando
+ lá fora, quando eu poderia ter sido capaz de ajudar. Pro que você esta procurando
 {115}{}{Bem, os Elders disseram não pra um novo treinamento de iniciados mas... com
  certeza. Você parece uma jovem moca bacana. Eu odiaria que algo acontecesse com
- você la fora, quando eu poderia ter sido capaz de ajudar. Para o que você esta
+ você lá fora, quando eu poderia ter sido capaz de ajudar. Para o que você esta
  procurando treinamento?}
 {118}{}{Armas pequenas.}
 {119}{}{Armas grandes.}
@@ -34,7 +34,7 @@
  man. The Elders said no new initiate training but...I might be able to
  help. They probably didn't have you in mid when they said that. What are
  you looking to train in?}
-{126}{}{Ola de novo. Bom ver você. Nao seja timido, eu não mais durmo muito.
+{126}{}{Ola de novo. Bom ver você. Não seja timido, eu não mais durmo muito.
  Você esta procurando por mais treinamento? O que será hoje... Eu quero
  dizer, esta noite?}
 {127}{}{Eu sabia que você voltaria! No que você esta mood para esta noite?}
@@ -53,10 +53,10 @@
  arremesso.}
 {138}{}{Sem problema. Deixe-me sabe se você mudar de ideia.}
 {139}{}{Eu não sei por que eu estou desperdicando meu tempo com você.}
-{140}{}{Sim? Oh, eu suponho que você esta procurando por mais treinamento. Bem,
+{140}{}{Sim? Ah, eu suponho que você esta procurando por mais treinamento. Bem,
  eu não mais durmo muito de qualquer modo, por que não? O que será?}
 {141}{}{Agora o que? Mais questoes estupidas?}
-{142}{}{Oh, esta tudo bem. Como eu disse, eu dificilmente durmo. Volte a qualquer
+{142}{}{Ah, esta tudo bem. Como eu disse, eu dificilmente durmo. Volte a qualquer
  hora.}
-{143}{}{Bem, pare de me pestering entao. Eu sou um homem velho e eu preciso do meu
+{143}{}{Bem, pare de me pestering então. Eu sou um homem velho e eu preciso do meu
  sono de beleza.}

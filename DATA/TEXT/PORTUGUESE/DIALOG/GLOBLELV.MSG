@@ -1,4 +1,4 @@
-{100}{}{Você ve uma porta de elevador com marcas azuis nela.}
+{100}{}{Você vê uma porta de elevador com marcas azuis nela.}
 {101}{}{Você e eletrocutado pelo sistema de seguranca, mas não sustem dano.
  Talvez você devesse tentar usar algo pra passar pelo sistema de seguranca.}
 {102}{}{Você e eletrocutado pelo sistema de seguranca, e sustem um ponto de dano.

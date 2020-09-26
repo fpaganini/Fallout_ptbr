@@ -26,10 +26,10 @@
 {114}{}{Obrigado, tchau.}
 {115}{}{Você está bem? Talvez você precise ver o médico ou talvez
  você só precisa dormir um pouco. Bem, é melhor eu voltar a estudar. Tchau.}
-{116}{}{Oh, a propósito, estou feliz que você seja minha nova colega de quarto. Meu último
+{116}{}{Ah, a propósito, estou feliz que você seja minha nova colega de quarto. Meu último
  um sempre usava tampões de ouvido, não sei por quê. De qualquer forma, sinta-se livre para
  Deixa o que quiseres aqui, eu não ocupo muito espaço. Você quer
- o beliche de cima? Eu vou mudar se você quiser ... você não ronca, não é? Oh,
+ o beliche de cima? Eu vou mudar se você quiser ... você não ronca, não é? Ah,
  Não importa. Até mais.}
 {117}{}{Sim, foi o que eu pensei. Bem, eu estou feliz que você será meu novo
  colega de quarto. Meu último sempre usava tampões de ouvido, não sei por quê. De qualquer forma,

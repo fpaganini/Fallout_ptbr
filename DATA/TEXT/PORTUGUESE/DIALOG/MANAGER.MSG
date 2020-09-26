@@ -8,20 +8,20 @@
 {107}{}{Nothing.}
 {108}{}{Estou à procura de tecnologia perdida.}
 {109}{}{Isso é o que eu pensei que você diz. Saia da minha casa.}
-{110}{}{Oh não sei por aqui. Talvez uppa da
+{110}{}{Ah não sei por aqui. Talvez uppa da
  templo ou atta lugar de água. Vai indo.}
 {111}{}{Ack! Donna você está explorando todas as minhas coisas.
  Vamos sair! Quero dizer.}
-{112}{}{Donna estar na minha cara, likka dat. Eu runna dis show.}
-{113}{}{Oh, sim}}
-{114}{}{Eu vou levar essa sua cara e enfiá-la em você. . .}
-{115}{}{Ack! Ok, eu admito. Eu deixo.}
+{112}{}{Donna estar na minha frente, likka dat. Eu runna dis show.}
+{113}{}{Ah, sim}}
+{114}{}{Eu vou levar essa sua cara e enfiá-lá em você. . .}
+{115}{}{Ack! Certo, eu admito. Eu deixo.}
 {116}{}{Você não é nada demais para me pedir como dat. Pegue um pouco de dis e enfie-o!}
 {117}{}{Eu não quero falar com você.}
 {118}{}{O que você é?}
 {119}{}{Eu sou um carniçal. Você nunca viu um ghoul antes?}
 {120}{}{Sim}
-{121}{}{Nao}
+{121}{}{Não}
 {122}{}{Musta foi um undergrounder pansie. Eles deixam você viver assim é você
  poderia me incomodar. Agora saia da minha casa.}
 {123}{}{Bem, agora você tem. Saia daqui!}

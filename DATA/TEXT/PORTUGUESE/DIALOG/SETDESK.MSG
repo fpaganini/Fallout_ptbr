@@ -1,3 +1,3 @@
 {100}{}{Você não acha nada de importancia.}
-{101}{}{Você acha uma nota de alguem chamado o tenente para  Set.
+{101}{}{Você acha uma nota de alguém chamado o tenente para  Set.
  Ele ordena a ele que observe por humanos de pure-strain.}

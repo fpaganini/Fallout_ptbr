@@ -1,116 +1,116 @@
 {100}{}{A moldura desta porta de segurança tem restos de tinta amarela.}
-{101}{}{Voce recebe um choque leve do campo eletrico na porta e leva um ponto
+{101}{}{Você recebe um choque leve do campo eletrico na porta e leva um ponto
  de dano.}
-{102}{}{Voce recebe um choque forte do campo eletrico na porta. Voce sofre }
+{102}{}{Você recebe um choque forte do campo eletrico na porta. Você sofre }
 {103}{}{ pontos de dano.}
-{104}{}{Voce força a porta pra abri-la.}
+{104}{}{Você força a porta pra abri-lá.}
 {105}{}{A porta esta trancada.}
 {106}{}{Autorizaçao garantida. Agora desarmando o campo eletrico.}
-{107}{}{Voce nao esta autorizado a entrar nesta sala.}
-{108}{}{Este item nao tem efeito nos sistemas de segurança.}
-{109}{}{Voce abre a tranca na porta de segurança.}
+{107}{}{Você não esta autorizado a entrar nesta sala.}
+{108}{}{Este item não tem efeito nos sistemas de segurança.}
+{109}{}{Você abre a tranca na porta de segurança.}
 {110}{}{Parece haver algum tipo de medida de segurança nesta porta.}
-{111}{}{Voce falhou em abrir a tranca na porta.}
-{112}{}{Esta tecnica nao tem efeito na porta.}
-{113}{}{Voce desarmar o campo eletrico on the porta.}
-{114}{}{Voce intesificou a força do campo eletrico.}
-{115}{}{Voce falha em desarmar o campo eletrico.}
-{116}{}{Voce abre a tranca na porta sem alertar o sistema de segurança.}
-{117}{}{Voce falha em abrir a tranca e leva um dano serio do sistema de segurança.}
-{118}{}{Voce falha em abrir a tranca e leva dano do sistema de segurança.}
-{119}{}{Voce e eletrocutado pelo sistema de segurança e perde a concentraçao pra abrir a tranca.}
-{120}{}{Voce toma um choque intenso do sistema de segurança e perde a concentraçao pra abrir a tranca.}
-{121}{}{Voce falha totalmente em tentar abrir esta tranca e destroi suas gazuas.}
-{122}{}{Voce falha em abrir esta tranca.}
-{123}{}{Voce ve uma porta reforçada e enferrujada.}
+{111}{}{Você falhou em abrir a tranca na porta.}
+{112}{}{Esta tecnica não tem efeito na porta.}
+{113}{}{Você desarmar o campo eletrico on the porta.}
+{114}{}{Você intesificou a força do campo eletrico.}
+{115}{}{Você falha em desarmar o campo eletrico.}
+{116}{}{Você abre a tranca na porta sem alertar o sistema de segurança.}
+{117}{}{Você falha em abrir a tranca e leva um dano serio do sistema de segurança.}
+{118}{}{Você falha em abrir a tranca e leva dano do sistema de segurança.}
+{119}{}{Você e eletrocutado pelo sistema de segurança e perde a concentraçao pra abrir a tranca.}
+{120}{}{Você toma um choque intenso do sistema de segurança e perde a concentraçao pra abrir a tranca.}
+{121}{}{Você falha totalmente em tentar abrir esta tranca e destroi suas gazuas.}
+{122}{}{Você falha em abrir esta tranca.}
+{123}{}{Você vê uma porta reforçada e enferrujada.}
 
-{124}{}{Voce ve uma porta destrancada com tinta verde nela.}
-{125}{}{Voce ve uma porta destrancada com tinta verde nela.}
-{126}{}{Voce ve uma porta destrancada com um campo verde se movendo na frente dela.}
-{127}{}{Voce ve uma porta destrancada com um sistema de segurança de alta voltagem armado nela.}
-{128}{}{Voce ve uma porta com tinta verde nela.}
-{129}{}{Voce ve uma porta com tinta verde nela.}
-{130}{}{Voce ve uma porta com um campo amarelo se movendo na frente dela.}
-{131}{}{Voce ve uma porta com um sistema de segurança de alta voltagem armado nela.}
-{132}{}{Voce ve uma porta trancada com tinta verde nela.}
-{133}{}{Voce ve uma porta trancada com tinta verde nela.}
-{134}{}{Voce ve uma porta trancada com um campo verde se movendo na frente dela.}
-{135}{}{Voce ve uma porta trancada com um sistema de segurança de alta voltagem armado nela.}
+{124}{}{Você vê uma porta destrancada com tinta verde nela.}
+{125}{}{Você vê uma porta destrancada com tinta verde nela.}
+{126}{}{Você vê uma porta destrancada com um campo verde se movendo na frente dela.}
+{127}{}{Você vê uma porta destrancada com um sistema de segurança de alta voltagem armado nela.}
+{128}{}{Você vê uma porta com tinta verde nela.}
+{129}{}{Você vê uma porta com tinta verde nela.}
+{130}{}{Você vê uma porta com um campo amarelo se movendo na frente dela.}
+{131}{}{Você vê uma porta com um sistema de segurança de alta voltagem armado nela.}
+{132}{}{Você vê uma porta trancada com tinta verde nela.}
+{133}{}{Você vê uma porta trancada com tinta verde nela.}
+{134}{}{Você vê uma porta trancada com um campo verde se movendo na frente dela.}
+{135}{}{Você vê uma porta trancada com um sistema de segurança de alta voltagem armado nela.}
 {136}{}{A tranca nesta porta verde parece precisar de uma chave-passe especial.}
 {137}{}{A tranca nesta porta verde parece precisar de uma chave-passe especial.}
-{138}{}{A tranca nesta porta parece precisar de uma chave-passe especial. Adicionalmente, voce nota um campo verde levemente tremulo diante da porta.}
-{139}{}{A tranca nesta porta parece precisar de uma chave-passe amarela especial. Adicionalmente, voce nota um sistema de segurança de alta voltagem armado nela.}
+{138}{}{A tranca nesta porta parece precisar de uma chave-passe especial. Adicionalmente, você nota um campo verde levemente tremulo diante da porta.}
+{139}{}{A tranca nesta porta parece precisar de uma chave-passe amarela especial. Adicionalmente, você nota um sistema de segurança de alta voltagem armado nela.}
 
-{140}{}{Voce ve uma porta destrancada.}
-{141}{}{Voce ve uma porta destrancada.}
-{142}{}{Voce ve uma porta destrancada com um campo se movendo na frente dela.}
-{143}{}{Voce ve uma porta destrancada com um sistema de segurança de alta voltagem armado nela.}
-{144}{}{Voce ve uma porta.}
-{145}{}{Voce ve uma porta.}
-{146}{}{Voce ve uma porta com um campo se movendo na frente dela.}
-{147}{}{Voce ve uma porta com um sistema de segurança de alta voltagem armado nela.}
-{148}{}{Voce ve uma porta trancada.}
-{149}{}{Voce ve uma porta trancada.}
-{150}{}{Voce ve uma porta trancada com um campo se movendo na frente dela.}
-{151}{}{Voce ve uma porta trancada com um sistema de segurança de alta voltagem armado nela.}
+{140}{}{Você vê uma porta destrancada.}
+{141}{}{Você vê uma porta destrancada.}
+{142}{}{Você vê uma porta destrancada com um campo se movendo na frente dela.}
+{143}{}{Você vê uma porta destrancada com um sistema de segurança de alta voltagem armado nela.}
+{144}{}{Você vê uma porta.}
+{145}{}{Você vê uma porta.}
+{146}{}{Você vê uma porta com um campo se movendo na frente dela.}
+{147}{}{Você vê uma porta com um sistema de segurança de alta voltagem armado nela.}
+{148}{}{Você vê uma porta trancada.}
+{149}{}{Você vê uma porta trancada.}
+{150}{}{Você vê uma porta trancada com um campo se movendo na frente dela.}
+{151}{}{Você vê uma porta trancada com um sistema de segurança de alta voltagem armado nela.}
 {152}{}{A tranca nesta porta parece precisar de uma chave-passe especial.}
 {153}{}{A tranca nesta porta parece precisar de uma chave-passe especial.}
-{154}{}{A tranca nesta porta parece precisar de uma chave-passe especial. Adicionalmente, voce nota um campo levemente tremulo diante da porta.}
-{155}{}{A tranca nesta porta parece precisar de uma chave-passe especial. Adicionalmente, voce nota um sistema de segurança de alta voltagem armado nela.}
+{154}{}{A tranca nesta porta parece precisar de uma chave-passe especial. Adicionalmente, você nota um campo levemente tremulo diante da porta.}
+{155}{}{A tranca nesta porta parece precisar de uma chave-passe especial. Adicionalmente, você nota um sistema de segurança de alta voltagem armado nela.}
 
-{156}{}{Voce ve uma porta destrancada com tinta amarela nela.}
-{157}{}{Voce ve uma porta destrancada com tinta amarela nela.}
-{158}{}{Voce ve uma porta destrancada com um campo amarelo se movendo na frente dela.}
-{159}{}{Voce ve uma porta destrancada com um sistema de segurança de alta voltagem armado nela.}
-{160}{}{Voce ve uma porta com tinta amarela nela.}
-{161}{}{Voce ve uma porta com tinta amarela nela.}
-{162}{}{Voce ve uma porta com um campo amarelo se movendo na frente dela.}
-{163}{}{Voce ve uma porta com um sistema de segurança de alta voltagem armado nela.}
-{164}{}{Voce ve uma porta trancada com tinta amarela nela.}
-{165}{}{Voce ve uma porta trancada com tinta amarela nela.}
-{166}{}{Voce ve uma porta trancada com um campo amarelo se movendo na frente dela.}
-{167}{}{Voce ve uma porta trancada com um sistema de segurança de alta voltagem armado nela.}
+{156}{}{Você vê uma porta destrancada com tinta amarela nela.}
+{157}{}{Você vê uma porta destrancada com tinta amarela nela.}
+{158}{}{Você vê uma porta destrancada com um campo amarelo se movendo na frente dela.}
+{159}{}{Você vê uma porta destrancada com um sistema de segurança de alta voltagem armado nela.}
+{160}{}{Você vê uma porta com tinta amarela nela.}
+{161}{}{Você vê uma porta com tinta amarela nela.}
+{162}{}{Você vê uma porta com um campo amarelo se movendo na frente dela.}
+{163}{}{Você vê uma porta com um sistema de segurança de alta voltagem armado nela.}
+{164}{}{Você vê uma porta trancada com tinta amarela nela.}
+{165}{}{Você vê uma porta trancada com tinta amarela nela.}
+{166}{}{Você vê uma porta trancada com um campo amarelo se movendo na frente dela.}
+{167}{}{Você vê uma porta trancada com um sistema de segurança de alta voltagem armado nela.}
 {168}{}{A tranca nesta porta amarela parece precisar de uma chave-passe especial.}
 {169}{}{A tranca nesta porta amarela parece precisar de uma chave-passe especial.}
-{170}{}{A tranca nesta porta parece precisar de uma chave-passe especial. Adicionalmente, voce nota um campo amarelo levemente tremulo diante da porta.}
-{171}{}{A tranca nesta porta parece precisar de uma chave-passe especial. Adicionalmente, voce nota um sistema de segurança de alta voltagem armado nela.}
+{170}{}{A tranca nesta porta parece precisar de uma chave-passe especial. Adicionalmente, você nota um campo amarelo levemente tremulo diante da porta.}
+{171}{}{A tranca nesta porta parece precisar de uma chave-passe especial. Adicionalmente, você nota um sistema de segurança de alta voltagem armado nela.}
 
-{172}{}{Voce ve uma porta destrancada com tinta amarela nela.}
-{173}{}{Voce ve uma porta destrancada com tinta amarela nela.}
-{174}{}{Voce ve uma porta destrancada com um campo amarelo se movendo na frente dela.}
-{175}{}{Voce ve uma porta destrancada com um sistema de segurança de alta voltagem armado nela.}
-{176}{}{Voce ve uma porta com tinta amarela nela.}
-{177}{}{Voce ve uma porta com tinta amarela nela.}
-{178}{}{Voce ve uma porta com um campo amarelo se movendo na frente dela.}
-{179}{}{Voce ve uma porta com um sistema de segurança de alta voltagem armado nela.}
-{180}{}{Voce ve uma porta trancada com tinta amarela nela.}
-{181}{}{Voce ve uma porta trancada com tinta amarela nela.}
-{182}{}{Voce ve uma porta trancada com um campo amarelo se movendo na frente dela.}
-{183}{}{Voce ve uma porta trancada com um sistema de segurança de alta voltagem armado nela.}
+{172}{}{Você vê uma porta destrancada com tinta amarela nela.}
+{173}{}{Você vê uma porta destrancada com tinta amarela nela.}
+{174}{}{Você vê uma porta destrancada com um campo amarelo se movendo na frente dela.}
+{175}{}{Você vê uma porta destrancada com um sistema de segurança de alta voltagem armado nela.}
+{176}{}{Você vê uma porta com tinta amarela nela.}
+{177}{}{Você vê uma porta com tinta amarela nela.}
+{178}{}{Você vê uma porta com um campo amarelo se movendo na frente dela.}
+{179}{}{Você vê uma porta com um sistema de segurança de alta voltagem armado nela.}
+{180}{}{Você vê uma porta trancada com tinta amarela nela.}
+{181}{}{Você vê uma porta trancada com tinta amarela nela.}
+{182}{}{Você vê uma porta trancada com um campo amarelo se movendo na frente dela.}
+{183}{}{Você vê uma porta trancada com um sistema de segurança de alta voltagem armado nela.}
 {184}{}{A tranca nesta porta amarela parece precisar de uma chave-passe especial.}
 {185}{}{A tranca nesta porta amarela parece precisar de uma chave-passe especial.}
-{186}{}{A tranca nesta porta parece precisar de uma chave-passe especial. Adicionalmente, voce nota um campo amarelo levemente tremulo diante da porta.}
-{187}{}{A tranca nesta porta parece precisar de uma chave-passe amarela especial. Adicionalmente, voce nota um sistema de segurança de alta voltagem armado nela.}
+{186}{}{A tranca nesta porta parece precisar de uma chave-passe especial. Adicionalmente, você nota um campo amarelo levemente tremulo diante da porta.}
+{187}{}{A tranca nesta porta parece precisar de uma chave-passe amarela especial. Adicionalmente, você nota um sistema de segurança de alta voltagem armado nela.}
 
-{188}{}{Voce ve uma porta com tinta verde nela.}
-{189}{}{Voce ve uma porta com um campo verde se movendo na frente dela.}
-{190}{}{Voce ve um sistema de segurança de alta voltagem nesta porta verde.}
-{191}{}{Voce ve um sistema de segurança de alta voltagem nesta porta verde. Voce imagina se ha uma chave-passe pra evita-lo.}
+{188}{}{Você vê uma porta com tinta verde nela.}
+{189}{}{Você vê uma porta com um campo verde se movendo na frente dela.}
+{190}{}{Você vê um sistema de segurança de alta voltagem nesta porta verde.}
+{191}{}{Você vê um sistema de segurança de alta voltagem nesta porta verde. Você imagina se há uma chave-passe pra evita-lo.}
 
-{192}{}{Voce ve uma porta.}
-{193}{}{Voce ve uma porta com um campo se movendo na frente dela.}
-{194}{}{Voce ve um sistema de segurança de alta voltagem nesta porta.}
-{195}{}{Voce ve um sistema de segurança de alta voltagem nesta porta. Voce imagina se ha uma chave-passe pra evita-lo.}
+{192}{}{Você vê uma porta.}
+{193}{}{Você vê uma porta com um campo se movendo na frente dela.}
+{194}{}{Você vê um sistema de segurança de alta voltagem nesta porta.}
+{195}{}{Você vê um sistema de segurança de alta voltagem nesta porta. Você imagina se há uma chave-passe pra evita-lo.}
 
-{196}{}{Voce ve uma porta com tinta amarela nela.}
-{197}{}{Voce ve uma porta com um campo amarelo se movendo na frente dela.}
-{198}{}{Voce ve um sistema de segurança de alta voltagem nesta porta amarela.}
-{199}{}{Voce ve um sistema de segurança de alta voltagem nesta porta amarela. Voce imagina se ha uma chave-passe pra evita-lo.}
+{196}{}{Você vê uma porta com tinta amarela nela.}
+{197}{}{Você vê uma porta com um campo amarelo se movendo na frente dela.}
+{198}{}{Você vê um sistema de segurança de alta voltagem nesta porta amarela.}
+{199}{}{Você vê um sistema de segurança de alta voltagem nesta porta amarela. Você imagina se há uma chave-passe pra evita-lo.}
 
-{200}{}{Voce ve uma porta com tinta amarela nela.}
-{201}{}{Voce ve uma porta com um campo amarelo se movendo na frente dela.}
-{202}{}{Voce ve um sistema de segurança de alta voltagem nesta porta amarela.}
-{203}{}{Voce ve um sistema de segurança de alta voltagem nesta porta amarela. Voce imagina se ha uma chave-passe pra evita-lo.}
+{200}{}{Você vê uma porta com tinta amarela nela.}
+{201}{}{Você vê uma porta com um campo amarelo se movendo na frente dela.}
+{202}{}{Você vê um sistema de segurança de alta voltagem nesta porta amarela.}
+{203}{}{Você vê um sistema de segurança de alta voltagem nesta porta amarela. Você imagina se há uma chave-passe pra evita-lo.}
 
-{204}{}{Voce nota que ha uma armadilha nesta porta.}
+{204}{}{Você nota que há uma armadilha nesta porta.}
 {205}{}{O elevador esta inoperavel. Parece precisar de força.}

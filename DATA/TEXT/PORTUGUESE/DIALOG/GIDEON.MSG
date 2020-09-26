@@ -21,17 +21,17 @@
 {118}{}{Uh, eu tenho que ir.}
 {119}{}{Encontro da alma... melded com, para proteger, o Mestre de todos.}
 {120}{}{Eu entendo. Como eu protejo a mim mesmo dos protetores do Mestre?}
-{121}{}{E quanto aos cães de guerra?}
+{121}{}{É quanto aos cães de guerra?}
 {122}{}{Eu preciso proteger o Mestre. Como eu chego até ele?}
 {123}{}{Posso matar qualquer pessoa ou qualquer coisa. Abra este campo de força e eu irei
   demonstrar.}
-{124}{}{Adeus.}
+{124}{}{Tchau.}
 {125}{}{Só há paz e união .. o preço .. a dor .. é preciso ser
   cego .. anulado.}
 {126}{}{Bem, eu preciso me unir. Aonde eu posso pegar um desses anuladores snazzy?}
 {127}{}{Ótimo! Como eu me uno?}
 {128}{}{Eu gostaria de unir minha arma com sua cabeça!}
-{129}{}{Eu não tenho tempo para isto. Adeus.}
+{129}{}{Eu não tenho tempo para isto. Tchau.}
 {130}{}{Eu vou untar você... Eu vou dar o que eu não devo.}
 {131}{}{Obrigado.}
 {132}{}{Ninguém vai me untar, seu bastardo insano!}
@@ -40,7 +40,7 @@
 {135}{}{Você não pode matar o gênio de... o todo.. Seu... hehf!}
 {136}{}{Sim, mas eu posso causar um monte de dor.}
 {137}{}{Eu não quero matar. Eu quero adorar.}
-{138}{}{Obviamente. Adeus.}
+{138}{}{Obviamente. Tchau.}
 {139}{}{Phlegm! Desenvolvimente insubstancial... comunicação, anular... fim da morte.}
 {140}{}{As paredes também tem mentes... Eu vi você... amanhã foi?}
 {141}{}{Eu tomarei isso como um sim.}
@@ -52,7 +52,7 @@
 {147}{}{Eu devo completar minha jornada, o mestre deseja.}
 {148}{}{Quem? Fez o que?}
 {149}{}{Sim, mas eu posso causar a eles um monte de dor.}
-{150}{}{Lamento perturbar você de novo. Adeus.}
+{150}{}{Lamento perturbar você de novo. Tchau.}
 {151}{}{Eu gostaria de ajudar você a escapar.}
 {200}{}{Você vê Moore, um camarada de aparência scruffy. Ele está usando uma coroa.}
 {201}{}{Você vê um camarada de aparência scruffy.}
@@ -60,14 +60,14 @@
 {203}{}{Exatamente.}
 {204}{}{Do que você está falando?}
 {205}{}{Sim, ficará vermelho com seu sangue.}
-{206}{}{Uh, sim. Adeus.}
+{206}{}{Uh, sim. Tchau.}
 {207}{}{Urgh!}
 {208}{}{Eu pararei o motor! O mestre me deu a força...}
-{209}{}{Ok Hank. Eu gostaria de encontrar o Mestre, como eu chego lá?}
+{209}{}{Certo Hank. Eu gostaria de encontrar o Mestre, como eu chego lá?}
 {210}{}{Que motor?}
 {211}{}{Claro! Eu entendo completamente...}
 {212}{}{Eu gostaria de dividir sua cabeça aberta, seu idiota blithering.}
-{213}{}{Oh, você de novo não. Adeus.}
+{213}{}{Ah, você de novo não. Tchau.}
 {214}{}{Só os poderosos podem passar, mas eles serão impedidos de passar.}
 {215}{}{Abra este campo de força, eu quero mostrar a você o meu poder.}
 {216}{}{Mas eu tenho que ver o Mestre!}
@@ -78,11 +78,11 @@
 {301}{}{Você vê uma mulher humana. Ela está olhando para seus sapatos.}
 {302}{}{Não há lugar como o lar, nenhum lugar como o lar, nenhum lugar como o lar ...
   [ritmo para frente e para trás]}
-{303}{}{Hng!}
+{303}{}{Hum!}
 {304}{}{Pare com isso!}
-{305}{}{E quanto a este plugar? Esta não é sua casa?}
+{305}{}{É quanto a este plugar? Esta não é sua casa?}
 {306}{}{Concordo. Completamente e totalmente. Você está certo ... [ela faz uma pausa por um
-  momento] O que você disse? Oh, deixa pra lá.}
+  momento] O que você disse? Ah, deixa pra lá.}
 {307}{}{[olhando para você intensamente] Eu vou te matar por isso! Eu vou fazer o seu
   o sangue corre vermelho. Espere um minuto. O sangue é vermelho, como posso fazê-lo correr vermelho? Eu
   não posso fazer isso muito bem. Hmmm. Eu preciso pensar sobre isso. Vá embora!}

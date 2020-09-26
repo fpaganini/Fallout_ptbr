@@ -1,7 +1,7 @@
 # Chris Avellone is a male bounty hunter. He has an abrupt attitude and is serious about
 # his money. He does not like child killers (which is the only way the player will meet him).
 
-{100}{}{Você ve um cacador de recompensa burly com um botao que diz,
+{100}{}{Você vê um cacador de recompensa burly com um botao que diz,
  'Eu sou o Christopher e você e carne.'}
 # Bounty Hunter is considered Male term
 
@@ -10,17 +10,17 @@
 {103}{}{O que você esta fazendo aqui?}
 {104}{}{Apenas olhando por ai.}
 {105}{}{Nada.}
-{106}{}{Nos não apreciamos mafiosos aqui. Desapareca.}
+{106}{}{Nós não apreciamos mafiosos aqui. Desapareca.}
 # Alternate for "Buzz off" could be "Get lost" or "Get out of here"
 
 {107}{}{Essa piada não foi engracada nem mesmo na primeira vez. Você esta
  pra descobrir por que eu sou um dos cacadores de recompensa mais
- temidos na terra devastada. E eu nem mesmo serei pago por isso.}
-{108}{}{Nao e da sua conta.}
-{109}{}{Bem, va olhar mais em algum outro lugar.}
+ temidos na terra devastada. É eu nem mesmo serei pago por isso.}
+{108}{}{Não e da sua conta.}
+{109}{}{Bem, vá olhar mais em algum outro lugar.}
 # Alternate for "poke around" could be "Look around"
 
-{110}{}{Você sabia que ha uma recompensa de 1.500 tampinhas na sua cabeca
+{110}{}{Você sabia que há uma recompensa de 1.500 tampinhas na sua cabeca
  por matar crianças? Hora de coletar!}
 # 1500 caps is equivalant to 1500 dollars. Children is considered male plural
 
@@ -39,17 +39,17 @@
 {1012}{}{Chip}
 
 {1100}{}{Uma pequena cidade ao sul. Ocasionalmente alguns deles nos visitam.}
-{1101}{}{Esses são as aberracoes amantes da paz que vivem perto de nos.}
+{1101}{}{Esses são as aberrações amantes da paz que vivem perto de nos.}
 {1102}{}{Um culto estranho ao sul de Adytum e do resto da Boneyard. Nicole
- diz que eles estao pra fazer alguma coisa.}
+ diz que eles estão pra fazer alguma coisa.}
 {1103}{}{Uma gangue ultra-violenta a nosso oeste.}
 {1104}{}{Uma gangue ao leste. Eles usam vibro-facas.}
-{1105}{}{Uma gangue que veio do Hub, e vende armas. Eles estao ao norte daqui.}
-{1106}{}{O Hub e uma cidade grande de comerciantes e negocios, a leste.}
-{1107}{}{Junktown e uma cidade pequena bem ao norte do Hub.}
+{1105}{}{Uma gangue que veio do Hub, e vende armas. Eles estão ao norte daqui.}
+{1106}{}{O Hub é uma cidade grande de comerciantes e negócios, a leste.}
+{1107}{}{Junktown é uma cidade pequena bem ao norte do Hub.}
 {1108}{}{Eu não posso ajudar você com isso.}
-{1109}{}{Ela e a lider dos Seguidores.}
+{1109}{}{Ela é a lider dos Seguidores.}
 {1110}{}{Esta lugar e o Boneyard dos Anjos, os restos da antiga cidade de
  Los Angeles.}
-{1111}{}{Uma gangue que veio do Hub, e vende armas. Eles estao ao norte daqui.}
+{1111}{}{Uma gangue que veio do Hub, e vende armas. Eles estão ao norte daqui.}
 {1112}{}{Eu não posso ajudar você com isso.}

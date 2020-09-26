@@ -1,4 +1,4 @@
-{100}{}{A porta esta trancada. Um codigo de seguranca e requerido para destranca-la.}
+{100}{}{A porta esta trancada. Um codigo de seguranca e requerido para destranca-lá.}
 {101}{}{Você insere o codigo da fita, e destranca a porta.}
 {102}{}{A porta não esta trancada.}
 {103}{}{Você bypass o codigo de seguranca e destranca a porta.}

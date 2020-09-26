@@ -7,13 +7,13 @@
 Daren Hightower propriedade tão indolor quanto possível. A propriedade de Hightower está localizada nas alturas. Tem um
 mínimo de dois guardas de plantão em todos os momentos. O colar é provavelmente em um cofre, que muitas vezes têm
 algumas pequenas armadilhas, então tenha cuidado. Aqui estão alguns lockpicks e um par de foguetes para tornar seu trabalho um pouco
-mais fácil .. E uma garrafa de Nuka-Cola. Tente não matar o Sr. Hightower. Ele é um dos nossos "favoritos". Você
+mais fácil .. É uma garrafa de Nuka-Cola. Tente não matar o Sr. Hightower. Ele é um dos nossos "favoritos". Você
 tem tudo isso?
 {106}{}{O que você quer dizer com "favorito"?}
 {107}{}{Lockpicks e Flares? Isso é tudo.}
 {108}{}{Nuka Cola?}
 {109}{}{não o mata? Sem promessas, mulher.}
-{110}{}{Este trabalho é uma droga. Encontre outra pessoa.}
+{110}{}{Este trabalho é  uma droga. Encontre outra pessoa.}
 {111}{}{Não tem problema. Estou fora daqui.}
 {112}{}{Runk!}
 {113}{}{Com licença, senhor, mas você não deveria estar trabalhando na sua tarefa?}

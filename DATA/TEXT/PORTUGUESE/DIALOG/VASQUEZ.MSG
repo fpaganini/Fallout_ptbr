@@ -1,37 +1,37 @@
-{100}{}{Você ve o Vasquez, o mercenario desperado.}
-{101}{}{Você ve um pistoleiro seedy-looking.}
+{100}{}{Você vê o Vasquez, o mercenario desperado.}
+{101}{}{Você vê um pistoleiro seedy-looking.}
 {102}{}{O que você quer?}
-{103}{}{Quem e você?}
+{103}{}{Quem é você?}
 {104}{}{Hnn.}
 {105}{}{Eu não trabalho para os fracos de mente. Você saia agora.}
 {106}{}{Você não ouviu sobre mim? Eu fiquei magoado! Meu nome e Vasquez
- Villanova Hernandez Ortega. Eu sou um famoso desperado,  meu amigo. E,
+ Villanova Hernandez Ortega. Eu sou um famoso desperado,  meu amigo. É,
  se você tiver necessidade, eu sou um pistoleiro para contratar.}
 {107}{}{Mesmo? Quanto você custa?}
-{108}{}{Vejo você por ai, talvez . . . boa sorte. Heh.}
+{108}{}{Vejo você por ai, talvez . . . boa sorte. Ei.}
 {109}{}{Ahh, direto ao ponto meu amigo. Excelente. Eu ajudarei você
  na cidade por meros $500 por semana. Meus servicos não são
- baratos, mas entao, eu valho o preco.}
-{110}{}{Otimo, eu contratarei você. Aqui estao $500.}
+ baratos, mas então, eu valho o preço.}
+{110}{}{Otimo, eu contratarei você. Aqui estão $500.}
 {111}{}{Lamento aborrecer você, mas eu não acho que eu preciso
  dos seus servicos.}
 {112}{}{Eu lamento meu amigo, mas eu não trabalho por dinheiro
  imaginario. Eu preciso de dinheiro vivo.}
-{113}{}{Excelente. Eu sou seu. Vamos la, este lugar me da tedio.}
-{114}{}{Va em frene, eu sou seu para comandar!}
+{113}{}{Excelente. Eu sou seu. Vamos lá, este lugar me da tedio.}
+{114}{}{Vá em frene, eu sou seu para comandar!}
 {115}{}{Vamos pegar alguma coisa pra beber!}
 {116}{}{Aonde nos iremos primeiro?}
 {117}{}{Tanto quanto você fique em Junktown, eu sou seu. Eu não
  gosto de sair desta cidade.}
-{118}{}{Você sabia que ha uma recompensa pela minha cabeca?
+{118}{}{Você sabia que há uma recompensa pela minha cabeca?
  Contudo, e muito pequena.}
-{119}{}{Ah, meu amigo. E bom ver você de novo.}
+{119}{}{Ah, meu amigo. É bom ver você de novo.}
 {120}{}{Eu quero contratar você por uma semana.}
 {121}{}{Bom encontrar você de novo.}
 {122}{}{Hnn.}
-{123}{}{Bem, talvez não seja tao bom ver você de novo. Tenha
+{123}{}{Bem, talvez não seja tão bom ver você de novo. Tenha
  um bom dia.}
-{124}{}{Claro. Minha cota e pequena, e meu valor e tao
+{124}{}{Claro. Minha cota e pequena, e meu valor e tão
  grande. $500, por favor.}
 {125}{}{Aqui vai você.}
 {126}{}{Você não deveria ter feito isso, meu amigo que em

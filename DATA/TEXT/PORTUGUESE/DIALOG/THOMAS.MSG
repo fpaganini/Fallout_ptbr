@@ -1,5 +1,5 @@
 {100}{}{Você vê o irmão Thomas.}
-{101}{}{Ok, filhos. Hoje vamos passar por algumas artes marciais.
+{101}{}{Certo, filhos. Hoje vamos passar por algumas artes marciais.
 {102}{}{Em combate próximo a técnica que você usa depende do seu
  oponentes tamanho, alcance e rapidez.}
 {103}{}{Se for dada a oportunidade, teste seu oponente.}
@@ -17,7 +17,7 @@
 {115}{}{Overextending deixa seu interior vulnerável a um contra-ataque
  e te desequilibra.}
 {116}{}{Um empurrãozinho te deixará na sua bunda.}
-{117}{}{Ok, vamos tentar outro jovem punk em gramps.}
+{117}{}{Certo, vamos tentar outro jovem punk em gramps.}
 {118}{}{Vejamos se você aprendeu com o exemplo anterior.}
 {119}{}{Nada mal, esse último movimento quase me pegou.}
 {120}{}{Tem certeza de que quer ser um Iniciado Escriba?}
@@ -33,7 +33,7 @@
 {129}{}{As artes marciais têm seus lados bons e ruins.}
 {130}{}{Nós estaremos aprendendo muitos estilos diferentes para entender melhor
  seus pontos fortes e fracos.}
-{131}{}{Ok. Mostre-me o que você tem.}
+{131}{}{Certo. Mostre-me o que você tem.}
 {132}{}{Muito bom. Você durou muito mais tempo do que eu pensava.}
 {133}{}{Você pode voltar para a linha.}
 {134}{}{Bem, eu espero que vocês, crianças, tenham entendido o que estava acontecendo.}
@@ -53,7 +53,7 @@
 {147}{}{Haverá muito tempo para isso mais tarde.}
 {200}{}{Não é ruim.}
 {201}{}{Isso foi muito bom.}
-{202}{}{Ok, você está aprendendo.}
+{202}{}{Certo, você está aprendendo.}
 {203}{}{Mantenha o foco.}
 {204}{}{Mantenha os olhos em mim.}
 {205}{}{Não extrapolar.}

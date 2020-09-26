@@ -1,5 +1,5 @@
 {100}{}{Obrigado a você.}
-{101}{}{Adeus.}
+{101}{}{Tchau.}
 {102}{}{Ola.}
 {103}{}{Você ganha }
 {104}{}{ pontos de experiência.}
@@ -13,7 +13,7 @@
 {112}{}{Aqui vai você.}
 {113}{}{Algo mais?}
 {114}{}{Sim.}
-{115}{}{Nao.}
+{115}{}{Não.}
 {116}{}{Você ganha }
 {117}{}{ pontos de técnica em Armas Pequenas.}
 {118}{}{ pontos de técnica em Armas Grandes.}
@@ -71,11 +71,11 @@
 {170}{}{Aradesh esta furioso e se recusa a falar mais com você.}
 {171}{}{Eu acredito que o Master deseja falar com você.}
 {172}{}{Você pagara pela sua BLASFÊMIA!}
-{173}{}{Este robo parece estar inoperavel. Isto e possivelmente devido a falta de forca.}
-{174}{}{Você não ve nada especial neste robo.}
+{173}{}{Este robo parece estar inoperavel. Isto e possivelmente devido a falta de força.}
+{174}{}{Você não vê nada especial neste robo.}
 {175}{}{Este Blade se recusa a falar com você.}
 {176}{}{A mala esta selada e não abre.}
-{177}{}{Por favor, nos devemos nos apressar. Nos não temos tempo para falar.}
+{177}{}{Por favor, nos devemos nos apressar. Nós não temos tempo para falar.}
 {178}{}{So o Morpheus tem a chave pra esta porta. Eu devo sair agora pra deixar
  a Nicole saber o que esta acontecendo aqui.}
 {179}{}{Por favor, eu tenho que sair daqui antes que eles descubram quem eu sou.}
@@ -88,7 +88,7 @@
 {185}{}{Eu não falo muito.}                        # 1
 {186}{}{Você ouve o alto-falante alto: Aviso! Alerta de Intruso.}
 {187}{}{A gosma retardou a transmissao dos seus keystrokes.}
-{188}{}{Os radscorpions estao agora selados na caverna deles.}
+{188}{}{Os radscorpions estão agora selados na caverna deles.}
 {189}{}{A boca da caverna beckons você mais fundo no covil dos radscorpions.}
 
 {200}{}{Você um campo emissor horrivelmente danificado.}

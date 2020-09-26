@@ -58,7 +58,7 @@
 {154}{}{Eu poderia te dizer, mas eu teria que te matar.}
 {155}{}{Uh .. bem .. eu não posso falar sobre isso.}
 {156}{}{Alguém na catedral vai morrer em breve. Talvez muitas pessoas.}
-{157}{}{Ótimo. Eu realmente não me importo com quem você é. Agora saia da minha cara!}
+{157}{}{Ótimo. Eu realmente não me importo com quem você é. Agora saia da minha frente!}
 {158}{}{Todos! Tire esse idiota agora!}
 {159}{}{Senhor, você é louco! Por que você não sai daqui?}
 {160}{}{Senhora, você é louco! Por que você não sai daqui?}
@@ -77,10 +77,10 @@
 {173}{}{O que está acontecendo por aqui?}
 {174}{}{Onde está o mestre?}
 {175}{}{Apenas procurando por um amigo.}
-{176}{}{Para ver a sua cabeça cair dos seus ombros, para que eu possa chutá-la ao redor desta sala como uma bola de futebol até que seu crânio tenha sido completamente despedaçado!}
+{176}{}{Para ver a sua cabeça cair dos seus ombros, para que eu possa chutá-lá ao redor desta sala como uma bola de futebol até que seu crânio tenha sido completamente despedaçado!}
 {177}{}{Se você não estivesse usando essas vestes, eu mataria você. Assim, quero matar você. Saia de perto de mim. Agora.}
 {178}{}{Você não é Nightkin. Guardas! Nós temos um espião ..}
-{179}{}{Onde diabos eles te escavaram? E por que você simplesmente não volta para onde você veio? Saia daqui!}
+{179}{}{Onde diabos eles te escavaram? É por que você simplesmente não volta para onde você veio? Saia daqui!}
 {180}{}{Estamos nos preparando para a guerra! Nós vamos salvar o mundo! Então, podemos preenchê-lo com toda essa besteira de paz e união.}
 {181}{}{Guerra? Onde está o primeiro passo?}
 {182}{}{Bullshit? Me diga que você está brincando! Deve ser verdade! [piscadela]}
@@ -94,12 +94,12 @@
 {190}{}{Você foi útil. Obrigado amigo.}
 {191}{}{Você precisa ser mais social. Você sabe onde eles escondem a bebida?}
 {192}{}{Muito ruim. Eu estava esperando que você stiffs teria algumas bolas.}
-{193}{}{E eu pensei que era louco! É melhor você sair daqui antes que alguém te mate!}
+{193}{}{É eu pensei que era louco! É melhor você sair daqui antes que alguém te mate!}
 {194}{}{Por favor não me mata! Eu vou te dizer o que você quer saber.
 {195}{}{O que está acontecendo por aqui?}
 {196}{}{Onde está o mestre?}
 {197}{}{Quem está no comando aqui?}
-{198}{}{Quem diabos quer saber alguma coisa? Eu só gosto de sentir o medo de uma pessoa antes de matá-la. Cara, que alto!}
+{198}{}{Quem diabos quer saber alguma coisa? Eu só gosto de sentir o medo de uma pessoa antes de matá-lá. Cara, que alto!}
 {199}{}{Eu ouço que estamos nos movendo para o Norte, ou planejando mudar para o Norte em breve. Eles não nos dizem muito, exceto todas as besteiras usuais. Mas o que estamos fazendo falando sobre isso ao ar livre? Você deve estar louco!}
 {200}{}{[Risos] Eu, prefiro ferrar alguém em vez de me ferrar. Mas não devemos falar assim ao ar livre. Os zumbis não gostam disso.}
 {201}{}{Você sabe, há muitas outras pessoas por aqui que pensam assim. Vá incomodá-los.}
@@ -127,7 +127,7 @@
 {223}{}{Você foi útil. Obrigado amigo.}
 {224}{}{Ele tem alguma bebida nele? Existe algum beijo na articulação?}
 {225}{}{Hmm, um bom lugar privado, ninguém para me incomodar quando eu o mato.}
-{226}{}{Você deve estar brincando. O Nightkin são assassinos. Você olha para eles do jeito errado, e eles cortam as partes do seu corpo, cozinham e alimentam um pedaço de cada vez. Eles não podem ser mortos. Eles são os executores do Mestre e vão destruir o mundo para ele. E eu não estou dizendo mais nada!}
+{226}{}{Você deve estar brincando. O Nightkin são assassinos. Você olha para eles do jeito errado, e eles cortam as partes do seu corpo, cozinham e alimentam um pedaço de cada vez. Eles não podem ser mortos. Eles são os executores do Mestre e vão destruir o mundo para ele. É eu não estou dizendo mais nada!}
 {227}{}{Não há mais nada para contar, e se você for esperto, você não quer saber!}
 {228}{}{Eu não sei. Eu mesmo procurei por eles! Eu ouço Morpheus tem um estoque, mas o Nightkin guarda o principal. Conheço caras que procuravam por passagens secretas que nunca mais foram vistas. Parei de cuidar daqui a pouco e, se você for esperto, não vai começar! Não vale a pena!}
 {229}{}{Você deve estar brincando. Fale com os zumbis, cara!}
@@ -140,7 +140,7 @@
 {236}{}{Apenas procurando por um amigo.}
 {237}{}{Tudo que eu quero é um pouco de bebida. Talvez algum suco de escorpião rad?}
 {238}{} {Eu quero um garoto com uma atitude punk para me irritar o suficiente
- que eu vou tirar a língua dele, preservá-la e usá-la
+ que eu vou tirar a língua dele, preservá-lá e usá-lá
  um colar como um lembrete de quão estúpidas as pessoas podem
  estar.}
 {239}{}{O Mestre pode beijar minha bunda. Contanto que eu termine no lado vencedor, eu não dou a mínima. Você tem isso, zumbi!}
@@ -157,8 +157,8 @@
 {250}{}{Eu aposto que o seu não gritou tão alto quanto o meu. Eu gosto quando eles gritam.}
 {251}{}{Ei! Um cara com uma arma ainda é um cara com uma arma! Você acha que pode fazer melhor?}
 {252}{}{Não, meu amigo. Eu sou dedicado à paz, amor e união.}
-{253}{}{Um cara com uma arma é perigoso. Um cara ou uma mulher com uma arma E um cérebro é letal.}
-{254}{}{Um cara com uma arma é perigoso. Um cara com uma arma E um cérebro é letal.}
+{253}{}{Um cara com uma arma é perigoso. Um cara ou uma mulher com uma arma É um cérebro é letal.}
+{254}{}{Um cara com uma arma é perigoso. Um cara com uma arma É um cérebro é letal.}
 {255}{}{Sim, eu posso fazer melhor.}
 {256}{}{Não há como saber. Você quer começar e descobrir?}
 {257}{}{Pense? Quem precisa pensar? Eu só vou te mostrar o que posso fazer. Morra, imbecil!}

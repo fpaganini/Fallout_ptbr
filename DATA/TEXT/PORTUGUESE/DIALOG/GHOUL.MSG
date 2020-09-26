@@ -1,4 +1,4 @@
-{100}{}{Você ve o gerente Ghoul.}
+{100}{}{Você vê o gerente Ghoul.}
 {101}{}{O que você esta fazendo aqui?}
 {102}{}{Procurando pelos restos do passado futuro.}
 {103}{}{Eu sou um explorador.}
@@ -8,13 +8,13 @@
 {107}{}{Nad.}
 {108}{}{Eu estou procurando por tecnologia perdida.}
 {109}{}{Isso e o que eu pensei que você disse. Saia da minha casa.}
-{110}{}{Oh, nenhum desse por aqui. Talvez pra cima do
- templo ou na lugar de agua. Vai indo.}
-{111}{}{Ack! Nao teja você explorando qualquer minhas coisas.
+{110}{}{Ah, nenhum desse por aqui. Talvez pra cima do
+ templo ou na lugar de água. Vai indo.}
+{111}{}{Ack! Não teja você explorando qualquer minhas coisas.
  Saia! Eu falo pra valer.}
-{112}{}{Nao ficar na minha face azim. Eu comandar est showDonna be in my face likka dat. I runna dis show.}
-{113}{}{Oh, sim.}
-{114}{}{Eu vou pegar essa face sua e enfia-la no seu . . .}
+{112}{}{Não ficar na minha face azim. Eu comandar est showDonna be in my face likka dat. I runna dis show.}
+{113}{}{Ah, sim.}
+{114}{}{Eu vou pegar essa face sua e enfia-lá no seu . . .}
 {115}{}{Ack! OK, eu concede. Eu saio.}
 {116}{}{Você não chefe pra me ordenar assim. Tome um pouco disto e enfia!}
 {117}{}{Eu não quero falar com você.}

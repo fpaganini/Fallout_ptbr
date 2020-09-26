@@ -1,1 +1,1 @@
-{100}{}{Você ve algo na escuridão debaixo da cama.}
+{100}{}{Você vê algo na escuridão debaixo da cama.}

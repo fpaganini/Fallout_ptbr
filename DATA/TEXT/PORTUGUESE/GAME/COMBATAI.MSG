@@ -25,7 +25,7 @@
 #
 {1006}{}{}
 {1007}{}{Você cometeu um grande erro!}
-{1008}{}{Nos não gostamos do seu tipo por aqui!}
+{1008}{}{Nós não gostamos do seu tipo por aqui!}
 {1009}{}{Eu não gosto do seu tipo}
 {1010}{}{}
 {1011}{}{}
@@ -38,7 +38,7 @@
 {1015}{}{}
 {1016}{}{}
 {1017}{}{Você vai morrer}
-{1018}{}{Vamos ver quao forte você e...}
+{1018}{}{Vamos ver quao forte você é...}
 {1019}{}{Miseravel}
 {1020}{}{Ataque!}
 {1021}{}{}
@@ -47,14 +47,14 @@
 #
 {1022}{}{}
 {1023}{}{Eu estive fazendo isto por anos, miseravel}
-{1024}{}{Você não e bom/boa o bastante}
+{1024}{}{Você não é bom/boa o bastante}
 {1025}{}{Esse foi seu ultimo erro}
-{1026}{}{Amador(a)}
+{1026}{}{Amador}
 {1027}{}{}
 #
 # target hit in head
 #
-{1028}{}{Ai! Seu/Sua filho(a) da...}
+{1028}{}{Ai! Seu/Sua filho da...}
 {1029}{}{Eu vou matar você por isso}
 {1030}{}{}
 #
@@ -132,7 +132,7 @@
 {1114}{}{Agora você morre!}
 {1115}{}{Você gosta disto?}
 {1116}{}{}
-{1117}{}{Nao deveria comecar o que você não pode terminar}
+{1117}{}{Não deveria comecar o que você não pode terminar}
 {1118}{}{Melhor você rezar para os deuses!}
 {1119}{}{}
 {1120}{}{}
@@ -142,7 +142,7 @@
 #
 {1122}{}{}
 {1123}{}{Isso e o melhor que você pode fazer?}
-{1124}{}{Vamos perdedor(a). Me de uma luta!}
+{1124}{}{Vamos perdedor. Me de uma luta!}
 {1125}{}{Tente mirar da proxima vez}
 {1126}{}{Civil}
 {1127}{}{}
@@ -186,8 +186,8 @@
 #
 # target hit in eyes
 #
-{1147}{}{Eu estou cego(a)!}
-{1148}{}{Meus olhos estao queimando!}
+{1147}{}{Eu estou cego!}
+{1148}{}{Meus olhos estão queimando!}
 {1149}{}{Eu não consigo ver!}
 #
 # target hit in groin
@@ -222,31 +222,31 @@
 # attacking (10)
 #
 {1212}{}{}
-{1213}{}{Nao se incomode de gritar por misericordia...}
-{1214}{}{Esta e a melhor parte...}
+{1213}{}{Não se incomode de gritar por misericordia...}
+{1214}{}{Esta é a melhor parte...}
 {1215}{}{}
 {1216}{}{Vou alimentar os cachorros com você}
-{1217}{}{Nao deveria comecar o que você não pode terminar}
+{1217}{}{Não deveria comecar o que você não pode terminar}
 {1218}{}{Espero que você não morra muito rapido}
 {1219}{}{So um de nos esta saindo fora}
 {1220}{}{Morra!}
 {1221}{}{Eu como miseraveis como você no cafe da manha}
 {1222}{}{Eu vou alimentar minha iguana de estimacao com você}
-{1223}{}{A ultima coisa que você verá e minha face com um sorriso largo}
+{1223}{}{A ultima coisa que você verá é minha face com um sorriso largo}
 {1224}{}{Este e meu trabalho favorito}
 #
 # target being missed (6)
 #
-{1225}{}{Você e uma piada}
+{1225}{}{Você é uma piada}
 {1226}{}{Isso e o melhor que você pode fazer?}
 {1227}{}{}
 {1228}{}{}
-{1229}{}{Muito lento(a)!}
-{1230}{}{Perdedor(a)}
+{1229}{}{Muito lento!}
+{1230}{}{Perdedor}
 #
 # target hit in head (3)
 #
-{1231}{}{Nao na cara!}
+{1231}{}{Não na cara!}
 {1232}{}{Ai!}
 {1233}{}{Você quebrou meu nariz!}
 #
@@ -300,7 +300,7 @@
 #
 #  running away (6)
 #
-{1300}{}{Você ouviu alguem chamar meu nome?}
+{1300}{}{Você ouviu alguém chamar meu nome?}
 {1301}{}{}
 {1302}{}{Socorro!}
 {1303}{}{Aaaaahhhh!}
@@ -331,12 +331,12 @@
 #
 # target being missed (6)
 #
-{1322}{}{Ha, não me acertou!}
+{1322}{}{Há, não me acertou!}
 {1323}{}{Nyah, nyah!}
-{1324}{}{Ha!}
+{1324}{}{Há!}
 {1325}{}{Nyah, nyah!}
 {1326}{}{Que foguete!}
-{1327}{}{Nao consegue me tocar}
+{1327}{}{Não consegue me tocar}
 #
 # target hit in head (3)
 #
@@ -364,12 +364,12 @@
 {1340}{}{Você pode se arrepender de fazer isso, Eu certamente me arrependi}
 {1341}{}{Eu acho que eu vou desmaiar}
 {1342}{}{O que pensa que eu sou, um saco de pancada?}
-{1343}{}{Você não e muito legal}
+{1343}{}{Você não é muito legal}
 #
 # target hit in right leg
 #
 {1344}{}{Ai, minha perna}
-{1345}{}{Ai! Nao faca isso!}
+{1345}{}{Ai! Não faca isso!}
 {1346}{}{!}
 #
 # target hit in left leg
@@ -380,15 +380,15 @@
 #
 # target hit in eyes
 #
-{1350}{}{Por que esta tao escuro?}
+{1350}{}{Por que esta tão escuro?}
 {1351}{}{Onde todo mundo foi?}
 {1352}{}{Ouch, minha retina!}
 #
 # target hit in groin
 #
 {1353}{}{Uuuuuu, minha virilha!}
-{1354}{}{Minha virilha e a virilha de fogo!}
-{1355}{}{Minha virilha e a virilha de fogo!}
+{1354}{}{Minha virilha é a virilha de fogo!}
+{1355}{}{Minha virilha é a virilha de fogo!}
 {1356}{}{Eu...não...consigo...respirar...}
 {1357}{}{}
 {1358}{}{A dor, a dor...}
@@ -410,7 +410,7 @@
 {1406}{}{}
 {1407}{}{Você e historia!}
 {1408}{}{A hora de brincar acabou}
-{1409}{}{Alguem esta morrendo}
+{1409}{}{Alguém esta morrendo}
 {1410}{}{Negocie comigo}
 {1411}{}{}
 #
@@ -418,21 +418,21 @@
 #
 {1412}{}{Tome isto!}
 {1413}{}{Morra!}
-{1414}{}{Perdedor(a)}
+{1414}{}{Perdedor}
 {1415}{}{Miseravel}
 {1416}{}{}
 {1417}{}{Espero que isto doa}
 {1418}{}{}
 {1419}{}{}
 {1420}{}{Eu enterrarei você}
-{1421}{}{Você esta morto(a)}
+{1421}{}{Você esta morto}
 #
 # target being missed
 #
-{1422}{}{Nao me acertou!}
-{1423}{}{Nao estou impressionado}
+{1422}{}{Não me acertou!}
+{1423}{}{Não estou impressionado}
 {1424}{}{}
-{1425}{}{Você e lento(a)}
+{1425}{}{Você e lento}
 {1426}{}{Você e inutil}
 {1427}{}{}
 #
@@ -478,7 +478,7 @@
 #
 # target hit in eyes
 #
-{1449}{}{Eu estou cego(a)!}
+{1449}{}{Eu estou cego!}
 {1450}{}{Eu não consigo ver!}
 {1451}{}{Meu olho!}
 #
@@ -499,7 +499,7 @@
 {1500}{}{Eu estou fora daqui!}
 {1501}{}{Eu fui!}
 {1502}{}{}
-{1503}{}{Talvez isto não era uma ideia tao boa}
+{1503}{}{Talvez isto não era uma ideia tão boa}
 {1504}{}{Um cara poderia se machucar aqui!}
 {1505}{}{}
 #
@@ -508,7 +508,7 @@
 {1506}{}{Hora de aumentar a velha contagem de corpos}
 {1507}{}{O trabalho de um guarda nunca esta terminado}
 {1508}{}{}
-{1509}{}{De novo não. A munição e tao cara!}
+{1509}{}{De novo não. A munição e tão cara!}
 {1510}{}{Melhor eles não me prenderem com os deveres do enterro}
 {1511}{}{Quem você pensa que você e?}
 #
@@ -518,11 +518,11 @@
 {1513}{}{Você não deveria ter se levantado esta manha}
 {1514}{}{Você vai tirar uma soneca no po!}
 {1515}{}{}
-{1516}{}{E agora eu deito você pra descansar...}
+{1516}{}{É agora eu deito você pra descansar...}
 {1517}{}{}
 {1518}{}{É a sobrevivencia do mais apto, e você esta fora de forma}
 {1519}{}{}
-{1520}{}{Finja de morto(a)!}
+{1520}{}{Finja de morto!}
 {1521}{}{Eu vou ser a ultima coisa que você verá!}
 #
 # target being missed
@@ -558,25 +558,25 @@
 {1538}{}{Ugh!}
 {1539}{}{Oof!}
 {1540}{}{Quer vir e tentar isso de novo?}
-{1541}{}{Quando você crescer, eu aposto que você quer ser tao bom quanto eu}
-{1542}{}{Pelo menos isso não foi tao feio quanto sua cara!}
-{1543}{}{Ouch!  Maldito(a) seja!}
+{1541}{}{Quando você crescer, eu aposto que você quer ser tão bom quanto eu}
+{1542}{}{Pelo menos isso não foi tão feio quanto sua cara!}
+{1543}{}{Ouch!  Maldito seja!}
 #
 # target hit in right leg
 #
 {1544}{}{Ai!}
 {1545}{}{Apenas um arranhao ...e alguns ossos quebrados}
-{1546}{}{Nao precisava desse joelho mesmo}
+{1546}{}{Não precisava desse joelho mesmo}
 #
 # target hit in left leg
 #
 {1547}{}{Ack!}
 {1548}{}{Apenas um arranhao ...e alguns ossos quebrados}
-{1549}{}{Nao precisava desse joelho mesmo}
+{1549}{}{Não precisava desse joelho mesmo}
 #
 # target hit in eyes
 #
-{1550}{}{Eu estou cego(a)!}
+{1550}{}{Eu estou cego!}
 {1551}{}{Agora eu não tenho que ver sua cara feia}
 {1552}{}{Agora eu não tenho que ver sua cara feia}
 #
@@ -586,7 +586,7 @@
 {1554}{}{Você esta tornando isto realmente pessoal}
 {1555}{}{}
 {1556}{}{La se vai minha vida sexual!}
-{1557}{}{Oh, a dor!}
+{1557}{}{Ah, a dor!}
 {1558}{}{Ai! Agora isso e o que eu chamo doloroso!}
 
 # 7. Guard 7 (Rookie)
@@ -625,7 +625,7 @@
 #
 # target being missed
 #
-{1622}{}{Ha, não me acertou!}
+{1622}{}{Há, não me acertou!}
 {1623}{}{Você não me acertou!}
 {1624}{}{Movimento esperto, huh?}
 {1625}{}{Isso e o melhor que você pode fazer?}
@@ -636,7 +636,7 @@
 #
 {1628}{}{Ai!}
 {1629}{}{Minha cara! O que você fez?}
-{1630}{}{Aggghhh! Minha cara! Nao! Nao!}
+{1630}{}{Aggghhh! Minha cara! Não! Não!}
 #
 # target hit in left arm
 #
@@ -656,7 +656,7 @@
 {1638}{}{}
 {1639}{}{Ferida! Ferida! Ferida!}
 {1640}{}{Eu não tenho certeza se eu gosto disto...}
-{1641}{}{Va com calma comigo, eu sou apenas um iniciante}
+{1641}{}{Vá com calma comigo, eu sou apenas um iniciante}
 {1642}{}{Oof!}
 {1643}{}{Ack!}
 {1644}{}{Ouch! Isso doi!}
@@ -682,7 +682,7 @@
 # target hit in groin
 #
 {1654}{}{Ai! Minha virilha!}
-{1655}{}{Uuuuuu, seu/sua pequeno(a) sujo(a)...}
+{1655}{}{Uuuuuu, seu/sua pequeno sujo...}
 {1656}{}{Urp!}
 {1657}{}{Essas são minha entranhas?}
 {1658}{}{Eu...não...consigo...respirar...}
@@ -698,14 +698,14 @@
 {1702}{}{Eu vou sumir!}
 {1703}{}{La se vai minha rep...}
 {1704}{}{Eu não tenho queixas contra você}
-{1705}{}{Me ponha longe deste estupido}
+{1705}{}{Me ponha longe deste estúpido}
 #
 # moving in to attack
 #
 {1706}{}{Outro hooligan não!}
 {1707}{}{Você acabou de cruzar a linha!}
 {1708}{}{Você não vai embora com isso aqui!}
-{1709}{}{Nao no meu turno!}
+{1709}{}{Não no meu turno!}
 {1710}{}{Eu vou desgracar você!}
 {1711}{}{}
 #
@@ -716,9 +716,9 @@
 {1714}{}{Isto ensinara você a não causar problemas}
 {1715}{}{Eu vou abrir você!}
 {1716}{}{}
-{1717}{}{Vamos ver o quao forte você e.}
+{1717}{}{Vamos ver o quao forte você é.}
 {1718}{}{Pensa que você e algum tipo de pessoa famosa, huh?}
-{1719}{}{Nao deveria comecar o que você não pode terminar}
+{1719}{}{Não deveria comecar o que você não pode terminar}
 {1720}{}{Você esperava sair bem com isto?}
 {1721}{}{Eu como prostitutas como você no cafe da manha}
 #
@@ -734,7 +734,7 @@
 # target hit in head
 #
 {1728}{}{Você quebrou meu nariz!}
-{1729}{}{Ai! Maldito(a) seja!}
+{1729}{}{Ai! Maldito seja!}
 {1730}{}{Maldicao! Isso doi!}
 #
 # target hit in left arm
@@ -781,12 +781,12 @@
 {1751}{}{Urp!}
 
 # 9. Loser
-# Loser don't want no trouble. How's he survived so long?
+# Loser don't want no trouble. How's he survived só long?
 #
 #  running away
 #
 {1800}{}{Misericordia!}
-{1801}{}{Alguem me ajude!}
+{1801}{}{Alguém me ajude!}
 {1802}{}{Por favor pare!}
 {1803}{}{Socorro!}
 {1804}{}{Aaaaahhhh!}
@@ -808,11 +808,11 @@
 {1814}{}{Você pediu por isto!}
 {1815}{}{Você gosta disto?}
 {1816}{}{}
-{1817}{}{Seu/Sua bruto(a)!}
+{1817}{}{Seu/Sua bruto!}
 {1818}{}{Eu não quero fazer isto!}
 {1819}{}{}
 {1820}{}{Eu não queria esta luta, mas...}
-{1821}{}{Seu/Sua malcriado(a)!}
+{1821}{}{Seu/Sua malcriado!}
 #
 # target being missed
 #
@@ -865,7 +865,7 @@
 #
 # target hit in eyes
 #
-{1850}{}{Eu estou cego(a)! Oh Deus, Eu estou cego(a)!}
+{1850}{}{Eu estou cego! Ah Deus, Eu estou cego!}
 {1851}{}{Minha cara! Meus olhos! Arrrrgh!}
 {1852}{}{Meus olhos!}
 #
@@ -879,7 +879,7 @@
 {1858}{}{A dor, a dor...}
 
 # 10. Berserker
-# Berserker just want trouble. How's he survived so long?
+# Berserker just want trouble. How's he survived só long?
 #
 #  running away
 #
@@ -895,7 +895,7 @@
 {1906}{}{Eu vou prender suas orelhas de volta!}
 {1907}{}{Carne fresca!}
 {1908}{}{Você fez o meu dia!}
-{1909}{}{Você vai ser minha puto(a)!}
+{1909}{}{Você vai ser minha puto!}
 {1910}{}{Eu vou prender suas orelhas de volta!}
 {1911}{}{Eu vou me vingar!}
 #
@@ -910,7 +910,7 @@
 {1918}{}{Morra! Morra! Morra! Morra! Morra!}
 {1919}{}{Morra!}
 {1920}{}{Vamos abrir você um pouco...}
-{1921}{}{Você e comida de cachorro, amigo(a).}
+{1921}{}{Você e comida de cachorro, amigo.}
 #
 # target being missed
 #
@@ -925,7 +925,7 @@
 #
 {1928}{}{Essa será uma cicatriz legal!}
 {1929}{}{Eu estou comecando a ficar chateado}
-{1930}{}{Faca isso de novo, porco(a)}
+{1930}{}{Faca isso de novo, porco}
 #
 # target hit in left arm
 #
@@ -937,7 +937,7 @@
 #
 {1934}{}{}
 {1935}{}{É apenas um arranhao...}
-{1936}{}{Você quebrou meu braço, entao eu vou quebrar seu pescoco}
+{1936}{}{Você quebrou meu braço, então eu vou quebrar seu pescoco}
 #
 # target hit in torso
 #
@@ -963,9 +963,9 @@
 #
 # target hit in eyes
 #
-{1950}{}{Ei, Eu estou cego(a)}
+{1950}{}{Ei, Eu estou cego}
 {1951}{}{Eu não consigo ver. Isso tornara isto justo}
-{1952}{}{Meus olhos, puto(a)!}
+{1952}{}{Meus olhos, puto!}
 #
 # target hit in groin
 #
@@ -973,7 +973,7 @@
 {1954}{}{Esse foi um movimento corajoso}
 {1955}{}{}
 {1956}{}{}
-{1957}{}{Entao esse e o modo que você quer jogar}
+{1957}{}{Então esse e o modo que você quer jogar}
 {1958}{}{Ack!}
 
 # 11. Peasant
@@ -981,9 +981,9 @@
 #
 #  running away
 #
-{2000}{}{Ataque alguem mais, por favor!}
+{2000}{}{Ataque alguém mais, por favor!}
 {2001}{}{Tenha misericordia!}
-{2002}{}{Alguem me ajude!}
+{2002}{}{Alguém me ajude!}
 {2003}{}{Por favor pare!}
 {2004}{}{}
 {2005}{}{Eu não vou morrer por isto!}
@@ -993,7 +993,7 @@
 {2006}{}{Espere até eu pegar você...}
 {2007}{}{}
 {2008}{}{Ei você!}
-{2009}{}{Você não e bem-vindo(a) aqui}
+{2009}{}{Você não é bem-vindo aqui}
 {2010}{}{Ninguem vai tomar este lugar...}
 {2011}{}{Quem você pensa que você e?}
 #
@@ -1061,8 +1061,8 @@
 #
 # target hit in eyes
 #
-{2050}{}{Aggghhh! Eu estou cego(a)!}
-{2051}{}{Maldito(a) seja até o inferno!}
+{2050}{}{Aggghhh! Eu estou cego!}
+{2051}{}{Maldito seja até o inferno!}
 {2052}{}{Meu olho!}
 #
 # target hit in groin
@@ -1103,7 +1103,7 @@
 {2115}{}{}
 {2116}{}{Por que você comecou isto?}
 {2117}{}{Eu não quero fazer isto!}
-{2118}{}{Nao tome isto como pessoal...}
+{2118}{}{Não tome isto como pessoal...}
 {2119}{}{Espero que eu não machuque você muito gravemente}
 {2120}{}{Você percebe que você comecou isto?}
 {2121}{}{}
@@ -1113,13 +1113,13 @@
 {2122}{}{Whew!}
 {2123}{}{Você realmente não tem que fazer isto}
 {2124}{}{Ei! Isso poderia ter machucado!}
-{2125}{}{Nos não deveriamos estar lutando}
+{2125}{}{Nós não deveriamos estar lutando}
 {2126}{}{Violencia não resolvera o problema de verdade}
-{2127}{}{Seu coracao não esta nisto}
+{2127}{}{Seu coração não esta nisto}
 #
 # target hit in head
 #
-{2128}{}{Nao na cara!}
+{2128}{}{Não na cara!}
 {2129}{}{Ah, minha cabeca!}
 {2130}{}{Ai! Minha orelha!}
 #
@@ -1153,7 +1153,7 @@
 #
 # target hit in eyes
 #
-{2143}{}{Eu estou cego(a)!}
+{2143}{}{Eu estou cego!}
 {2144}{}{Eu tenho lagrimas de sangue!}
 {2145}{}{Isso doi...}
 #
@@ -1176,7 +1176,7 @@
 {2202}{}{Eu voltarei!}
 {2203}{}{Meus amigos pegarao você por mim!}
 {2204}{}{Você pagara por isto -- mais tarde!}
-{2205}{}{Nos somo os Escolhidos! Você morre mais tarde!}
+{2205}{}{Nós somo os Escolhidos! Você morre mais tarde!}
 #
 # moving in to attack
 #
@@ -1185,7 +1185,7 @@
 {2208}{}{Armas humanas não podem me prejudicar!}
 {2209}{}{Você sofrera, sofrera muito!}
 {2210}{}{Eu esmago cranios nos meus dedos!}
-{2211}{}{Nos somos o futuro e nos rimos de você!}
+{2211}{}{Nós somos o futuro e nós rimos de você!}
 #
 # attacking
 #
@@ -1198,16 +1198,16 @@
 {2218}{}{Seu sangue e meu vinho!}
 {2219}{}{Agora você morre!}
 {2220}{}{Assim e como você morre!}
-{2221}{}{Sofra, humano(a)!}
+{2221}{}{Sofra, humano!}
 #
 # target being missed
 #
 {2222}{}{Por que você luta?}
 {2223}{}{Isso e o melhor que os humanos podem fazer?}
-{2224}{}{Você não tem forca!}
+{2224}{}{Você não tem força!}
 {2225}{}{Você me faz rir muito!}
 {2226}{}{Isso foi um ataque?}
-{2227}{}{Você não e nada!}
+{2227}{}{Você não é nada!}
 #
 # target hit in head
 #
@@ -1251,17 +1251,17 @@
 #
 # target hit in eyes
 #
-{2250}{}{Ahhhgh! Humano(a) miseravel! Eu estou cego(a)!}
+{2250}{}{Ahhhgh! Humano miseravel! Eu estou cego!}
 {2251}{}{Ahhhgh! Dor! O que você fez!}
 {2252}{}{Ahhhgh! Eu torturarei você por muitos dias!}
 #
 # target hit in groin
 #
-{2253}{}{Essa e a fraqueza humana!}
-{2254}{}{Você não pode me machucar la!}
-{2255}{}{Você e humano(a) estupido(a)!}
-{2256}{}{Por que você me ataca la?}
-{2257}{}{Sua morte será dolorosa, humano(a)!}
+{2253}{}{Essa é a fraqueza humana!}
+{2254}{}{Você não pode me machucar lá!}
+{2255}{}{Você e humano estúpido!}
+{2256}{}{Por que você me ataca lá?}
+{2257}{}{Sua morte será dolorosa, humano!}
 {2258}{}{Morte para você por isso...}
 
 # 14. Nightkin
@@ -1274,16 +1274,16 @@
 {2302}{}{Isto não acabou!}
 {2303}{}{A vinganca do Mestre atingira você!}
 {2304}{}{Você pagara por isto - mais tarde!}
-{2305}{}{Eu banquetearei com seu coracao outro dia!}
+{2305}{}{Eu banquetearei com seu coração outro dia!}
 #
 # moving in to attack
 #
 {2306}{}{Sua morte e iminente}
-{2307}{}{Você enraiveceu seus chefes, agora pague o preco!}
+{2307}{}{Você enraiveceu seus chefes, agora pague o preço!}
 {2308}{}{Eu vi para os meus inimigos, empunhando a Chama Sagrada!}
 {2309}{}{Aqueles que se opoem a Unidade devem ser varridos!}
 {2310}{}{Morte aos inimigos do Mestre!}
-{2311}{}{Nos somos o futuro e você e historia!}
+{2311}{}{Nós somos o futuro e você e historia!}
 #
 # attacking
 #
@@ -1296,13 +1296,13 @@
 {2318}{}{Em nome do Mestre, morra!}
 {2319}{}{Agora desce o golpe da morte!}
 {2320}{}{Eu queimarei você com a Chama Sagrada!}
-{2321}{}{Sofra, humano(a)!}
+{2321}{}{Sofra, humano!}
 #
 # target being missed
 #
 {2322}{}{Lamentavel! Por que você ainda assim luta?}
 {2323}{}{Isto e o melhor que a humanidade tem a oferecer?}
-{2324}{}{Seu ataque e tao fraco quanto seu espirito!}
+{2324}{}{Seu ataque e tão fraco quanto seu espirito!}
 {2325}{}{Esse foi seu ultimo erro}
 {2326}{}{O Mestre me protege de seus inimigos!}
 {2327}{}{Você não pode ferir os Escolhidos}
@@ -1316,13 +1316,13 @@
 # target hit in left arm
 #
 {2331}{}{Ahhhgh! Meu braço}
-{2332}{}{Ahhhgh! Eu não sou derrotado tao facilmente!}
+{2332}{}{Ahhhgh! Eu não sou derrotado tão facilmente!}
 {2333}{}{Ahhhgh! Eu quebrarei todos os seus ossos por isso}
 #
 # target hit in right arm
 #
 {2334}{}{Ahhhgh! Meu braço}
-{2335}{}{Ahhhgh! Eu não sou derrotado tao facilmente!}
+{2335}{}{Ahhhgh! Eu não sou derrotado tão facilmente!}
 {2336}{}{Ahhhgh! Você se arrependera disso}
 #
 # target hit in torso
@@ -1337,28 +1337,28 @@
 # target hit in right leg
 #
 {2343}{}{Ahhhgh! Minha perna}
-{2344}{}{Ahhhgh! Eu não sou derrotado tao facilmente!}
+{2344}{}{Ahhhgh! Eu não sou derrotado tão facilmente!}
 {2345}{}{Ahhhgh! Eu quebrarei você por isso!}
 #
 # target hit in left leg
 #
 {2346}{}{Ahhhgh! Minha perna}
-{2347}{}{Ahhhgh! Eu não sou derrotado tao facilmente!}
+{2347}{}{Ahhhgh! Eu não sou derrotado tão facilmente!}
 {2348}{}{Ahhhgh! Eu esmagarei você por isso!}
 #
 # target hit in eyes
 #
-{2349}{}{Ahhhgh! Humano(a) miseravel! Você me cegou!}
+{2349}{}{Ahhhgh! Humano miseravel! Você me cegou!}
 {2350}{}{Ahhhgh! A dor! O que você fez!}
 {2351}{}{Ahhhgh! Você ganhou dias de agonia por isso!}
 #
 # target hit in groin
 #
-{2352}{}{Eu não compartilho essa fraqueza com você, humano(a)!}
-{2353}{}{Meus quadris são mais fortes do que o seu, humano(a)!}
-{2354}{}{Que tatica patetica, humano(a)!}
-{2355}{}{O Mestre me protege, humano(a)!}
-{2356}{}{Sua morte fica mais dolorosa, humano(a)!}
+{2352}{}{Eu não compartilho essa fraqueza com você, humano!}
+{2353}{}{Meus quadris são mais fortes do que o seu, humano!}
+{2354}{}{Que tatica patetica, humano!}
+{2355}{}{O Mestre me protege, humano!}
+{2356}{}{Sua morte fica mais dolorosa, humano!}
 {2357}{}{Oof! Talvez eu devesse testar seus pontos fracos}
 
 # 15. Children, Brainwashed (Cathedral)
@@ -1369,7 +1369,7 @@
 {2400}{}{Mestre! Por que você me abandonou!}
 {2401}{}{O Mestre me vingara!}
 {2402}{}{Mestre, me perdoe, mas eu devo fugir!}
-{2403}{}{Você não teme a retribuicao?}
+{2403}{}{Você não teme a retribuição?}
 {2404}{}{Chama Sagrada, me proteja!}
 {2405}{}{Me ajude Mestre, me ajude!}
 #
@@ -1384,7 +1384,7 @@
 #
 # attacking
 #
-{2412}{}{Nao corra, nos somos seus amigos}
+{2412}{}{Não corra, nos somos seus amigos}
 {2413}{}{Morra em nome do Mestre!}
 {2414}{}{Contemplem a chama sagrada!}
 {2415}{}{Beije o fogo, toque o tumulo!}
@@ -1399,7 +1399,7 @@
 #
 {2422}{}{O Mestre me protege!}
 {2423}{}{Louvem o Mestre, você não pode me fazer mal!}
-{2424}{}{Obrigado(a) a você, Mestre!}
+{2424}{}{Obrigado a você, Mestre!}
 {2425}{}{A misericordia do Mestre e incrivel!}
 {2426}{}{Eu sou protegido pela Chama Sagrada!}
 {2427}{}{Você não pode fazer mal as Crianças}
@@ -1444,7 +1444,7 @@
 #
 # target hit in eyes
 #
-{2448}{}{Mestre, Eu estou cego(a)!}
+{2448}{}{Mestre, Eu estou cego!}
 {2449}{}{Mestre, meus olhos, eles queimam!}
 {2450}{}{Mestre, Eu não consigo ver!}
 #
@@ -1463,9 +1463,9 @@
 #  running away
 #
 {2500}{}{Por que você me abandonou!}
-{2501}{}{Eu serei vingado(a)!}
+{2501}{}{Eu serei vingado!}
 {2502}{}{Perdoe-me, mas eu devo fugir!}
-{2503}{}{Você não teme a retribuicao?}
+{2503}{}{Você não teme a retribuição?}
 {2504}{}{Chama Sagrada, me proteja!}
 {2505}{}{Chama Sagrada, guie a minha fuga!}
 #
@@ -1486,8 +1486,8 @@
 {2515}{}{Em nome da Paz, morra!}
 {2516}{}{Unidade!}
 {2517}{}{Ninguem pode parar a causa da paz!}
-{2518}{}{Pagao(a)!}
-{2519}{}{Nao corra, nos somos seus amigos!}
+{2518}{}{Pagao!}
+{2519}{}{Não corra, nos somos seus amigos!}
 {2520}{}{Mestre, me abencoe!}
 {2521}{}{Queime no Fogo Sagrado, barbaro!}
 #
@@ -1496,7 +1496,7 @@
 {2522}{}{O Mestre me protege!}
 {2523}{}{Louvem a Chama Sagrada, você não pode me fazer!}
 {2524}{}{Seu deus e falso!}
-{2525}{}{Seu mal derrota a si mesmo!}
+{2525}{}{Seu mal derrota a si próprio!}
 {2526}{}{Eu sou protegido pela Chama Sagrada!}
 {2527}{}{Você não pode fazer mal as Crianças}
 #
@@ -1516,13 +1516,13 @@
 #
 {2534}{}{Ai, meu braço}
 {2535}{}{Você quebrou meu braço!}
-{2536}{}{Seu/Sua pecador(a)!}
+{2536}{}{Seu/Sua pecador!}
 #
 # target hit in torso
 #
 {2537}{}{Ouch!  Isso doi!}
 {2538}{}{!*&^@#!}
-{2539}{}{Oh, oh, isso doi!}
+{2539}{}{Ah, oh, isso doi!}
 {2540}{}{Ouch!}
 {2541}{}{Ooph!}
 {2542}{}{Oof!}
@@ -1543,7 +1543,7 @@
 #
 {2549}{}{Eu não consigo ver!}
 {2550}{}{Meus olhos!}
-{2551}{}{Eu fui cegado(a) pelos meus pecados!}
+{2551}{}{Eu fui cegado pelos meus pecados!}
 #
 # target hit in groin
 #
@@ -1569,33 +1569,33 @@
 # moving in to attack
 #
 {2606}{}{}
-{2607}{}{Vamos enterrar este(a) arruaceiro(a)!}
+{2607}{}{Vamos enterrar este arruaceiro!}
 {2608}{}{Hora de morrer!}
-{2609}{}{Você não e permitido(a) aqui!}
+{2609}{}{Você não é permitido aqui!}
 {2610}{}{Hora de tirar o lixo pra fora...}
 {2611}{}{Você pagara pelos seus "pecados"...}
 #
 # attacking
 #
 {2612}{}{Tome isto!}
-{2613}{}{Seu/Sua louco(a)!}
+{2613}{}{Seu/Sua louco!}
 {2614}{}{Agora, você morre!}
 {2615}{}{Vamos, seu/sua oportunista, vamos lutar!}
 {2616}{}{Eu vou chicotear você}
 {2617}{}{Eu vou chicotear você}
 {2618}{}{}
 {2619}{}{}
-{2620}{}{Beije minha chama sagrada, amigo(a)!}
-{2621}{}{Beije minha chama sagrada, amigo(a)!}
+{2620}{}{Beije minha chama sagrada, amigo!}
+{2621}{}{Beije minha chama sagrada, amigo!}
 #
 # target being missed
 #
-{2622}{}{Ha, não me acertou!}
-{2623}{}{Que estupido(a)!}
-{2624}{}{Ha, você não me acertou!}
-{2625}{}{Você e até mesmo um(a) perdedor(a) maior do que os zumbis!}
-{2626}{}{Alguem já ensinou a você como mirar?}
-{2627}{}{Você e até mesmo um(a) perdedor(a) maior do que os zumbis!}
+{2622}{}{Há, não me acertou!}
+{2623}{}{Que estúpido!}
+{2624}{}{Há, você não me acertou!}
+{2625}{}{Você e até mesmo um perdedor maior do que os zumbis!}
+{2626}{}{Alguém já ensinou a você como mirar?}
+{2627}{}{Você e até mesmo um perdedor maior do que os zumbis!}
 #
 # target hit in head
 #
@@ -1639,10 +1639,10 @@
 #
 # target hit in groin
 #
-{2646}{}{Oh, você me pegou deslealmente!}
+{2646}{}{Ah, você me pegou deslealmente!}
 {2647}{}{Maldicao, isso doi!}
 {2648}{}{!%@$ #^%!@# ^#$%@^#!!!}
-{2649}{}{Oh, maldicao!}
+{2649}{}{Ah, maldicao!}
 {2650}{}{}
 {2651}{}{}
 
@@ -1653,39 +1653,39 @@
 #
 {2700}{}{Esta batalha e desnecessaria}
 {2701}{}{Eu serei vingado!}
-{2702}{}{Seu triunfo será de duracao curta!}
+{2702}{}{Seu triunfo será de duração curta!}
 {2703}{}{Você não derrotara a Unidade}
 {2704}{}{Meus servos me protegerao!}
-{2705}{}{Esperanca! Eu devo ter esperanca!}
+{2705}{}{Esperanca! Eu devo ter esperança!}
 #
 # moving in to attack
 #
 {2706}{}{Seus pecados agora serao punidos}
 {2707}{}{Meus inimigos devem morrer! Morra!}
 {2708}{}{A Unidade prevalecera! Prevaleca!}
-{2709}{}{Nao será permitido a você destruir nosso mundo}
+{2709}{}{Não será permitido a você destruir nosso mundo}
 {2710}{}{O futuro deve ser preservado! Preservado!}
 {2711}{}{Me de a Unidade, ou me de a Morte! Morte!}
 #
 # attacking
 #
 {2712}{}{Morra!}
-{2713}{}{Você será totalmente destruido(a)}
+{2713}{}{Você será totalmente destruido}
 {2714}{}{Você selou a sua destruição}
 {2715}{}{Você pagara pelo que você fez! Fez!}
 {2716}{}{Unidade!}
 {2717}{}{Ninguem pode parar a causa da paz! Paz!}
 {2718}{}{Nada espera você alem do fogo. Fogo!}
 {2719}{}{Deixe este ser seu epitafio}
-{2720}{}{Você não e nada. Nada!}
-{2721}{}{Este e o fim da sua existencia}
+{2720}{}{Você não é nada. Nada!}
+{2721}{}{Este e o fim da sua existência}
 #
 # target being missed
 #
 {2722}{}{Seus esforcas são inuteis! Inuteis!}
 {2723}{}{Você não pode prevalecer contra mim!}
 {2724}{}{Você errou de novo}
-{2725}{}{Seu mal derrota a si mesmo!}
+{2725}{}{Seu mal derrota a si próprio!}
 {2726}{}{Você não sobrevivera}
 {2727}{}{Sua performance e inadequada}
 #
@@ -1699,7 +1699,7 @@
 # target hit in frame
 #
 {2731}{}{Você acha que você por me ferir ai?}
-{2732}{}{Ferida menor, humano(a), menor}
+{2732}{}{Ferida menor, humano, menor}
 {2733}{}{Essa dor foi levemente desagradavel}
 {2734}{}{Nenhum dano nos circuitos/organicos que não possa ser reparados depois}
 {2735}{}{Você morre! Morra!}
@@ -1717,7 +1717,7 @@
 {2800}{}{Tenho que sair daqui!}
 {2801}{}{Eu voltarei...}
 {2802}{}{Você não vai me matar hoje!}
-{2803}{}{Mais tarde, normalzinho(a)!}
+{2803}{}{Mais tarde, normalzinho!}
 {2804}{}{Você ainda não ouviu sobre mim pela ultima vez!}
 {2805}{}{Você pagara por isto - mais tarde!}
 #
@@ -1733,7 +1733,7 @@
 # attacking (10)
 #
 {2812}{}{Seu numero aumentou!}
-{2813}{}{Nao se incomode de gritar por misericordia...}
+{2813}{}{Não se incomode de gritar por misericordia...}
 {2814}{}{Eu vou apreciar isto}
 {2815}{}{Uuuu, isso deve doer!}
 {2816}{}{}
@@ -1747,14 +1747,14 @@
 #
 {2822}{}{Você não pode me ferir!}
 {2823}{}{}
-{2824}{}{Você não me acertou, normalzinho(a)!}
-{2825}{}{Você não me acertou, normalzinho(a)!}
+{2824}{}{Você não me acertou, normalzinho!}
+{2825}{}{Você não me acertou, normalzinho!}
 {2826}{}{Você não pode matar o que você não consegue acertar!}
-{2827}{}{Muito lento(a)!}
+{2827}{}{Muito lento!}
 #
 # target hit in head (3)
 #
-{2828}{}{Oh, minha linda face}
+{2828}{}{Ah, minha linda face}
 {2829}{}{Ai! Minha cabeca!}
 {2830}{}{Oof!}
 #
@@ -1773,7 +1773,7 @@
 # target hit in torso
 #
 {2837}{}{(Grunt!)}
-{2839}{}{Oh bosta!}
+{2839}{}{Ah bosta!}
 {2840}{}{Grrr!}
 {2841}{}{Você vai se arrepender disso!}
 {2842}{}{Você deveria parar enquanto você ainda esta na frente!}
@@ -1796,13 +1796,13 @@
 #
 {2851}{}{Maldito sangue nos meus olhos!}
 {2852}{}{Meu olho! Você pagara por isso!}
-{2853}{}{Bastardo(a)!}
+{2853}{}{Bastardo!}
 #
 # target hit in groin
 #
 {2854}{}{Uuuuuu, minha virilha!}
 {2855}{}{Uuu! Eu vou aprender esse movimento...}
-{2856}{}{Suino(a) desumano(a)!}
+{2856}{}{Suino desumano!}
 {2857}{}{AAAAAAAAAAAACCCKKKKKK!}
 {2858}{}{Urp!}
 {2859}{}{Oof! Eu vou matar você por isso!}
@@ -1817,11 +1817,11 @@
 {2902}{}{Isto não acabou!}
 {2903}{}{Meus amigos pegarao você por mim!}
 {2904}{}{Você pagara por isto - mais tarde!}
-{2905}{}{Eu banquetearei com seu coracao outro dia!}
+{2905}{}{Eu banquetearei com seu coração outro dia!}
 #
 # moving in to attack
 #
-{2906}{}{Eu matarei você, humano(a)!}
+{2906}{}{Eu matarei você, humano!}
 {2907}{}{Ninguem nos desafia e vive!}
 {2908}{}{Suas armas lamentaveis não me farao mal!}
 {2909}{}{Outra vitima vem brincar conosco!}
@@ -1838,16 +1838,16 @@
 {2917}{}{}
 {2918}{}{Seus deuses abandonaram você!}
 {2919}{}{Eu quero ouvir seus gritos!}
-{2920}{}{E assim e como você morre!}
-{2921}{}{Sofra, humano(a)!}
+{2920}{}{É assim e como você morre!}
+{2921}{}{Sofra, humano!}
 #
 # target being missed
 #
 {2922}{}{Lamentavel! Por que você ainda assim luta?}
 {2923}{}{Isto e o melhor que a humanidade tem a oferecer?}
-{2924}{}{Seu ataque e tao fraco quanto seu espirito!}
+{2924}{}{Seu ataque e tão fraco quanto seu espirito!}
 {2925}{}{Esse foi seu ultimo erro}
-{2926}{}{Tolo(a)! E você me derrotaria?}
+{2926}{}{Tolo! É você me derrotaria?}
 {2927}{}{Patetico!}
 #
 # target hit in head
@@ -1859,13 +1859,13 @@
 # target hit in left arm
 #
 {2931}{}{Ahhhgh! Meu braço}
-{2932}{}{Ahhhgh! Eu não sou derrotado tao facilmente!}
+{2932}{}{Ahhhgh! Eu não sou derrotado tão facilmente!}
 {2933}{}{Ahhhgh! Eu quebrarei seu pescoco por isso!}
 #
 # target hit in right arm
 #
 {2934}{}{Ahhhgh! Meu braço}
-{2935}{}{Ahhhgh! Eu não sou derrotado tao facilmente!}
+{2935}{}{Ahhhgh! Eu não sou derrotado tão facilmente!}
 {2936}{}{Ahhhgh! Eu quebrarei seu pescoco por isso!}
 #
 # target hit in torso
@@ -1876,7 +1876,7 @@
 {2940}{}{(Sorrisos)}
 {2941}{}{Isso não machucou!}
 {2942}{}{Você pode fazer melhor que isso}
-{2943}{}{Ate mesmo estes ghouls são mais fortes do que você!}
+{2943}{}{Até mesmo estes ghouls são mais fortes do que você!}
 {2944}{}{}
 {2945}{}{}
 {2946}{}{Haha! Que tentativa fraca... (geme)}
@@ -1884,28 +1884,28 @@
 # target hit in right leg
 #
 {2947}{}{Ahhhgh! Minha perna}
-{2948}{}{Ahhhgh! Eu não sou derrotado tao facilmente!}
+{2948}{}{Ahhhgh! Eu não sou derrotado tão facilmente!}
 {2949}{}{Ahhhgh! Eu quebrarei seu pescoco por isso!}
 #
 # target hit in left leg
 #
 {2950}{}{Ahhhgh! Minha perna}
-{2951}{}{Ahhhgh! Eu não sou derrotado tao facilmente!}
+{2951}{}{Ahhhgh! Eu não sou derrotado tão facilmente!}
 {2952}{}{Ahhhgh! Eu quebrarei seu pescoco por isso!}
 #
 # target hit in eyes
 #
-{2953}{}{Ahhhgh! Humano(a) miseravel! Você me cegou!}
+{2953}{}{Ahhhgh! Humano miseravel! Você me cegou!}
 {2954}{}{Ahhhgh! A dor! O que você fez!}
 {2955}{}{Ahhhgh! Você ganhou dias de agonia por isso!}
 #
 # target hit in groin
 #
-{2956}{}{Eu não compartilho essa fraqueza com você, humano(a)!}
-{2957}{}{Meus quadris são mais fortes do que o seu, humano(a)!}
-{2958}{}{Que tatica patetica, humano(a)!}
-{2959}{}{Esse não e meu local vulneravel, humano(a)!}
-{2960}{}{Sua morte fica mais dolorosa, humano(a)!}
+{2956}{}{Eu não compartilho essa fraqueza com você, humano!}
+{2957}{}{Meus quadris são mais fortes do que o seu, humano!}
+{2958}{}{Que tatica patetica, humano!}
+{2959}{}{Esse não é meu local vulneravel, humano!}
+{2960}{}{Sua morte fica mais dolorosa, humano!}
 {2961}{}{Talvez eu devesse testar seus pontos fracos}
 
 # 21. Guard, Raider
@@ -1921,10 +1921,10 @@
 #
 # moving in to attack
 #
-{3006}{}{Matem este(a) tolo(a)!}
+{3006}{}{Matem este tolo!}
 {3007}{}{Carne fresca...}
 {3008}{}{Saquear!}
-{3009}{}{Este(a) e meu/minha!}
+{3009}{}{Este e meu!}
 {3010}{}{Capturem-no!}
 {3011}{}{}
 #
@@ -1932,15 +1932,15 @@
 #
 {3012}{}{Aprecie os ultimos segundos de sua vida}
 {3013}{}{Sangue! Sangue! Sangue!}
-{3014}{}{Seu coracao e meu!}
+{3014}{}{Seu coração e meu!}
 {3015}{}{RAAAAAAARRRR!!}
 {3016}{}{Suas armas serao meus trofeus!}
 {3017}{}{Morte!}
-{3018}{}{Você e meu/minha para matar!}
+{3018}{}{Você e meu para matar!}
 {3019}{}{Seus ossos branquearao nas terras devastadas!}
 {3020}{}{Sangue e trevas!}
 {3021}{}{}
-{3022}{}{Perfurem o(a) bastardo(a) entrangulador(a)!}
+{3022}{}{Perfurem o bastardo entrangulador!}
 #
 # target being missed (6)
 #
@@ -2024,7 +2024,7 @@
 {3106}{}{Deixe o desafio comecar!}
 {3107}{}{Carne fresca...}
 {3108}{}{Saquear!}
-{3109}{}{Este(a) e meu/minha!}
+{3109}{}{Este e meu!}
 {3110}{}{Khans, ataquem!}
 {3111}{}{}
 #
@@ -2048,7 +2048,7 @@
 {3124}{}{Eu sou indestrutivel!}
 {3125}{}{Meu sangue e mais forte do que o seu!}
 {3126}{}{RAAAAAAAAARRRR!!}
-{3127}{}{Você não e digno(a) de combate comigo!}
+{3127}{}{Você não é digno de combate comigo!}
 #
 # target hit in head (3)
 #
@@ -2114,10 +2114,10 @@
 #
 #  running away
 #
-{3200}{}{Nao pense que isto esta acabado!}
+{3200}{}{Não pense que isto esta acabado!}
 {3201}{}{Eu preciso de ajuda aqui!}
-{3202}{}{Alguem me ajude!}
-{3203}{}{Nos ainda traremos a justica até você!}
+{3202}{}{Alguém me ajude!}
+{3203}{}{Nós ainda traremos a justica até você!}
 {3204}{}{Algum dia, você tera o que esta vindo pra você!}
 {3205}{}{ Eu não vou morrer por isto!}
 #
@@ -2126,7 +2126,7 @@
 {3206}{}{}
 {3207}{}{}
 {3208}{}{}
-{3209}{}{Nos não precisamos do seu tipo por aqui!}
+{3209}{}{Nós não precisamos do seu tipo por aqui!}
 {3210}{}{Ninguem vai tomar este lugar...}
 {3211}{}{Shady Sands não precisa dos tipos de você!}
 #
@@ -2145,10 +2145,10 @@
 #
 # target being missed
 #
-{3222}{}{Você não e tao bom quanto você pensa }
+{3222}{}{Você não é tão bom quanto você pensa }
 {3223}{}{}
 {3224}{}{Você e mais burro do que um rato-toupeira}
-{3225}{}{Shady Sands não derruba e morre por ninguem}
+{3225}{}{Shady Sands não derruba e morre por ninguém}
 {3226}{}{}
 {3227}{}{Esse foi seu ultimo erro}
 #
@@ -2175,7 +2175,7 @@
 {3237}{}{Ouch!}
 {3238}{}{Doh!}
 {3239}{}{}
-{3240}{}{Que você possa morrer de sede, sozinho(a) e com frio...}
+{3240}{}{Que você possa morrer de sede, sozinho e com frio...}
 {3241}{}{Gasp!}
 {3242}{}{}
 {3243}{}{Por favor não...}
@@ -2197,7 +2197,7 @@
 #
 # target hit in eyes
 #
-{3253}{}{Aggghhh! Eu estou cego(a)!}
+{3253}{}{Aggghhh! Eu estou cego!}
 {3254}{}{Maldicao! Tudo esta escuro!}
 {3255}{}{Meu olho! Você pagara por isso!}
 #
@@ -2225,9 +2225,9 @@
 # moving in to attack
 #
 {3306}{}{}
-{3307}{}{O que e desta vez?}
+{3307}{}{O que é desta vez?}
 {3308}{}{Eu lidarei com isto...}
-{3309}{}{Nao outra interrupcao!}
+{3309}{}{Não outra interrupcao!}
 {3310}{}{Se não são os Radscorpions, são eles os malditos saqueadores...}
 {3311}{}{}
 #
@@ -2235,7 +2235,7 @@
 #
 {3312}{}{}
 {3313}{}{Morra!}
-{3314}{}{Perdedor(a)}
+{3314}{}{Perdedor}
 {3315}{}{Miseravel}
 {3316}{}{}
 {3317}{}{Seu numero aumentou!}
@@ -2246,12 +2246,12 @@
 #
 # target being missed
 #
-{3322}{}{Nao estou impressionado}
-{3323}{}{Amador(a)}
-{3324}{}{Patetico(a)}
-{3325}{}{Você e lento(a)}
+{3322}{}{Não estou impressionado}
+{3323}{}{Amador}
+{3324}{}{Patetico}
+{3325}{}{Você e lento}
 {3326}{}{Você e inutil}
-{3327}{}{Nao desista do seu trabalho de dia}
+{3327}{}{Não desista do seu trabalho de dia}
 #
 # target hit in head
 #
@@ -2280,7 +2280,7 @@
 {3341}{}{(Segurando as costelas) Ouch!}
 {3342}{}{Vamos! Sem luta na cidade!}
 {3343}{}{Gasp!}
-{3344}{}{Ai! Eu estou desapontado com voces, forasteiros...}
+{3344}{}{Ai! Eu estou desapontado com vocês, forasteiros...}
 {3345}{}{Oof!}
 {3346}{}{Isso doi!}
 #
@@ -2299,7 +2299,7 @@
 #
 # target hit in eyes
 #
-{3353}{}{Eu estou cego(a)!}
+{3353}{}{Eu estou cego!}
 {3354}{}{Eu não consigo ver!}
 {3355}{}{Tao escuro}
 #
@@ -2326,10 +2326,10 @@
 #
 # moving in to attack
 #
-{3406}{}{Amigo(a), você cometeu um grande erro}
-{3407}{}{O que e desta vez?}
+{3406}{}{Amigo, você cometeu um grande erro}
+{3407}{}{O que é desta vez?}
 {3408}{}{Eu lidarei com isto...}
-{3409}{}{Nao outra interrupcao!}
+{3409}{}{Não outra interrupcao!}
 {3410}{}{Se não são radscorpions, são criadores de problemas...}
 {3411}{}{}
 #
@@ -2348,10 +2348,10 @@
 #
 # target being missed
 #
-{3422}{}{Nao estou impressionado}
-{3423}{}{Nao deveria lutar a menos que você saiba o que você esta fazendo}
-{3424}{}{Patetico(a)}
-{3425}{}{Você e lento(a)}
+{3422}{}{Não estou impressionado}
+{3423}{}{Não deveria lutar a menos que você saiba o que você esta fazendo}
+{3424}{}{Patetico}
+{3425}{}{Você e lento}
 {3426}{}{}
 {3427}{}{}
 #
@@ -2383,7 +2383,7 @@
 {3442}{}{Ai! Isso doi!}
 {3443}{}{Ouch! Isso foi muito desagradavel}
 {3444}{}{Ai! Por que você faz isto?}
-{3445}{}{Arg! Eu devo controlar minhas emocoes...}
+{3445}{}{Arg! Eu devo controlar minhas emoções...}
 {3446}{}{Ack! Você e semelhante a bosta de radscorpion!}
 #
 # target hit in right leg
@@ -2402,7 +2402,7 @@
 # target hit in eyes
 #
 {3453}{}{Meus olhos!}
-{3454}{}{Agghh! Entao e assim que você quer jogar...}
+{3454}{}{Agghh! Então e assim que você quer jogar...}
 {3455}{}{Agghh! Pequeno sujo filho da...}
 #
 # target hit in groin
@@ -2442,11 +2442,11 @@
 {3514}{}{Por favor não morra ainda. Eu quero que você sofra}
 {3515}{}{}
 {3516}{}{Uma porcao de morte, saindo agora mesmo!}
-{3517}{}{Você ficara tao bonito(a) quando você estiver morto(a)}
+{3517}{}{Você ficara tão bonito quando você estiver morto}
 {3518}{}{Morra! Morra! Morra! Morra! Morra!}
-{3519}{}{Sua dor e minha alegria!}
+{3519}{}{Sua dor é minha alegria!}
 {3520}{}{Vamos abrir você um pouco...}
-{3521}{}{E eu pensei que não haveria carnificina hoje...}
+{3521}{}{É eu pensei que não haveria carnificina hoje...}
 #
 # target being missed
 #
@@ -2454,7 +2454,7 @@
 {3523}{}{Eu estou TÃO assustado!}
 {3524}{}{Vamos garoto viado, me de uma luta!}
 {3525}{}{Isso e o melhor que você pode fazer?}
-{3526}{}{Você não e nada comparado a mim!}
+{3526}{}{Você não é nada comparado a mim!}
 {3527}{}{Isto vai ser mais fácil do que eu pensei}
 #
 # target hit in head
@@ -2466,32 +2466,32 @@
 # target hit in left arm
 #
 {3531}{}{Eu amo o som de ossos esmagando}
-{3532}{}{Uuu, você esta ficando serio(a)!}
-{3533}{}{Eu gosto brutal, querido(a)}
+{3532}{}{Uuu, você esta ficando serio!}
+{3533}{}{Eu gosto brutal, querido}
 #
 # target hit in right arm
 #
 {3534}{}{Eu amo o som de ossos esmagando}
-{3535}{}{Uuu, você esta ficando serio(a)!}
-{3536}{}{Eu gosto brutal, querido(a)}
+{3535}{}{Uuu, você esta ficando serio!}
+{3536}{}{Eu gosto brutal, querido}
 #
 # target hit in torso
 #
 {3537}{}{Eu amo quando você e bruto...}
 {3538}{}{Me de outro tapinha de amor...}
-{3539}{}{Ouch! Oh, o amor doi, baby!}
+{3539}{}{Ouch! Ah, o amor doi, baby!}
 {3540}{}{Oof!}
 {3541}{}{Doh!}
 {3542}{}{Argh! Isto significa que esta acabado?}
 {3543}{}{Gasp!}
 {3544}{}{Me acerte de novo, por favor...}
 {3545}{}{Eu tenho que arremessar da proxima vez}
-{3546}{}{Oh, a dor, a dor...}
+{3546}{}{Ah, a dor, a dor...}
 #
 # target hit in right leg
 #
 {3547}{}{Eu amo o som de ossos esmagando}
-{3548}{}{Uuu, você esta ficando serio(a)!}
+{3548}{}{Uuu, você esta ficando serio!}
 {3549}{}{}
 #
 # target hit in left leg
@@ -2502,7 +2502,7 @@
 #
 # target hit in eyes
 #
-{3553}{}{Ei, Eu estou cego(a). Que investida!}
+{3553}{}{Ei, Eu estou cego. Que investida!}
 {3554}{}{Eu não consigo ver. Eu creio que eu apenas terei que farejar o seu medo!}
 {3555}{}{Meus olhos! Cara, eu gosto do modo como você luta}
 #
@@ -2510,9 +2510,9 @@
 #
 {3556}{}{Uuuuuu, minha virilha!}
 {3557}{}{Esse foi um movimento corajoso}
-{3558}{}{Uuuu! Isso e uma proposta, baby?}
+{3558}{}{Uuuu! Isso é uma proposta, baby?}
 {3559}{}{}
-{3560}{}{Entao esse e o modo que você quer jogar}
+{3560}{}{Então esse e o modo que você quer jogar}
 {3561}{}{Uuuuu, movimento bacana, amigo}
 
 # 27. Blade
@@ -2532,8 +2532,8 @@
 {3606}{}{Atacar!}
 {3607}{}{Eu vou apreciar enterrar você em uma tumulo raso!}
 {3608}{}{}
-{3609}{}{Alguem esta morrendo}
-{3610}{}{Matem o(a) intruso(a)!}
+{3609}{}{Alguém esta morrendo}
+{3610}{}{Matem o intruso!}
 {3611}{}{}
 #
 # attacking
@@ -2552,11 +2552,11 @@
 # target being missed
 #
 {3622}{}{Eu sou mais virtuoso do que Deus!}
-{3623}{}{Nao estou impressionado}
+{3623}{}{Não estou impressionado}
 {3624}{}{Mostre-me algumas bolas!}
 {3625}{}{}
 {3626}{}{Sua Mamae dormiu com os Rippers!}
-{3627}{}{Você esta tentando acertar as moscas, bobo(a)?}
+{3627}{}{Você esta tentando acertar as moscas, bobo?}
 #
 # target hit in head
 #
@@ -2583,7 +2583,7 @@
 {3639}{}{Ouch! Esse foi um erro ruim...}
 {3640}{}{Ai! Eu mostrarei a você...}
 {3641}{}{Gasp!}
-{3642}{}{Nao consigo respirar...}
+{3642}{}{Não consigo respirar...}
 {3643}{}{}
 {3644}{}{Oof!}
 {3645}{}{You skag! Isso doi!}
@@ -2604,9 +2604,9 @@
 #
 # target hit in eyes
 #
-{3653}{}{Eu estou cego(a)!}
+{3653}{}{Eu estou cego!}
 {3654}{}{Eu não consigo ver!}
-{3655}{}{Meus olhos! Seu/Sua filho(a) de um(a) Ripper...}
+{3655}{}{Meus olhos! Seu/Sua filho de um Ripper...}
 #
 # target hit in groin
 #
@@ -2627,12 +2627,12 @@
 {3702}{}{}
 {3703}{}{}
 {3704}{}{Eu não vou morrer por isto!}
-{3705}{}{Eu não posso acreditar no que eles estao carregando...}
+{3705}{}{Eu não posso acreditar no que eles estão carregando...}
 #
 # moving in to attack
 #
 {3706}{}{Tentando to muscle em nosso negocio, huh?}
-{3707}{}{Alguem acabou de cometer um grande erro!}
+{3707}{}{Alguém acabou de cometer um grande erro!}
 {3708}{}{}
 {3709}{}{Quem você pensa que você e?}
 {3710}{}{Hora de demonstrar um pouco da mercadoria}
@@ -2646,8 +2646,8 @@
 {3715}{}{Você gosta disto?}
 {3716}{}{Eu vou derrubar você como um vicio ruim}
 {3717}{}{Que tal isto como poder de fogo?}
-{3718}{}{Vamos ver quao forte você e.}
-{3719}{}{Lutar e minha vida}
+{3718}{}{Vamos ver quao forte você é.}
+{3719}{}{Lutar é minha vida}
 {3720}{}{}
 {3721}{}{Talvez você aprendera um pouco de respeito}
 #
@@ -2657,12 +2657,12 @@
 {3723}{}{Eu estive fazendo isto por anos, miseravel}
 {3724}{}{Você não esperava isso, esperava?}
 {3725}{}{Esse foi seu ultimo erro}
-{3726}{}{Amador(a)}
-{3727}{}{Isto não e como atirar em ratos-toupeira, amigo(a).}
+{3726}{}{Amador}
+{3727}{}{Isto não é como atirar em ratos-toupeira, amigo.}
 #
 # target hit in head
 #
-{3728}{}{Ai! Seu/Sua filho(a) da...}
+{3728}{}{Ai! Seu/Sua filho da...}
 {3729}{}{Eu vou matar você por isso}
 {3730}{}{Eu arrancarei sua cabeca fora!}
 #
@@ -2707,12 +2707,12 @@
 #
 {3753}{}{Eu não consigo ver!}
 {3754}{}{Meu olho! Você pagara por isso!}
-{3755}{}{Aaieeee! Eu estou cego(a)!}
+{3755}{}{Aaieeee! Eu estou cego!}
 #
 # target hit in groin
 #
 {3756}{}{Uuuuuu, minha virilha!}
-{3757}{}{Entao esse e o modo como você quer jogar}
+{3757}{}{Então esse e o modo como você quer jogar}
 {3758}{}{}
 {3759}{}{Urp!}
 {3760}{}{}
@@ -2724,18 +2724,18 @@
 #  running away
 #
 {3800}{}{Eu preciso de reforcos!}
-{3801}{}{Alguem me ajude!}
+{3801}{}{Alguém me ajude!}
 {3802}{}{Reagrupar!}
 {3803}{}{Recuar! Recuar!}
 {3804}{}{Recuar! Recuar!}
-{3805}{}{Nos precisamos achar uma posição melhor!}
+{3805}{}{Nós precisamos achar uma posição melhor!}
 #
 # moving in to attack
 #
-{3806}{}{Nos temos um alvo!}
-{3807}{}{Nos estamos sob ataque!}
+{3806}{}{Nós temos um alvo!}
+{3807}{}{Nós estamos sob ataque!}
 {3808}{}{Soem um alerta! Eu segurarei eles!}
-{3809}{}{Nos temos um problema. Eu lidarei com ele.}
+{3809}{}{Nós temos um problema. Eu lidarei com ele.}
 {3810}{}{Alvo localizado, movendo para interceptar!}
 {3811}{}{Entrando em combate com o alvo!}
 #
@@ -2743,9 +2743,9 @@
 #
 {3812}{}{Gangland miseravel!}
 {3813}{}{Eu vou por você fora do seu sofrimento}
-{3814}{}{Você não e melhor do que um animal!}
-{3815}{}{Melhor você ficar abaixado(a)(a) desta vez}
-{3816}{}{Você nunca aborrecera ninguem de novo}
+{3814}{}{Você não é melhor do que um animal!}
+{3815}{}{Melhor você ficar abaixado desta vez}
+{3816}{}{Você nunca aborrecera ninguém de novo}
 {3817}{}{Nenhuma misericordia para miseraveis!}
 {3818}{}{Melhor você rezar para os deuses!}
 {3819}{}{}
@@ -2755,7 +2755,7 @@
 # target being missed
 #
 {3822}{}{Seu ataque fede pior do que o seu bafo, verme!}
-{3823}{}{Vamos perdedor(a). Apenas finja de morto(a) pra mim}
+{3823}{}{Vamos perdedor. Apenas finja de morto pra mim}
 {3824}{}{}
 {3825}{}{Você esta jogando o jogo errado, scumbag!}
 {3826}{}{Qual e o problema, miseravel?}
@@ -2787,18 +2787,18 @@
 #
 {3837}{}{Aggghh! Tiro sortudo!}
 {3838}{}{}
-{3839}{}{Você não vai me incapacitar, amigo(a).}
+{3839}{}{Você não vai me incapacitar, amigo.}
 #
 # target hit in left leg
 #
 {3840}{}{Aggghh! Tiro sortudo!}
 {3841}{}{}
-{3842}{}{Você não vai me incapacitar, amigo(a).}
+{3842}{}{Você não vai me incapacitar, amigo.}
 #
 # target hit in eyes
 #
-{3843}{}{Eu estou cego(a)!}
-{3844}{}{Meus olhos estao queimando!}
+{3843}{}{Eu estou cego!}
+{3844}{}{Meus olhos estão queimando!}
 {3845}{}{Eu não consigo ver!}
 #
 # target hit in groin
@@ -2811,12 +2811,12 @@
 {3851}{}{Seu/Sua miseravel...}
 
 # 30. Adytowner
-# They've broken through our defenses! Fall back!
+# They'vê broken through our defenses! Fall back!
 #
 #  running away
 #
 {3900}{}{Eu preciso de reforcos!}
-{3901}{}{Alguem me ajude!}
+{3901}{}{Alguém me ajude!}
 {3902}{}{}
 {3903}{}{Recuar! Recuar!}
 {3904}{}{Recuar! Recuar!}
@@ -2825,10 +2825,10 @@
 # moving in to attack
 #
 {3906}{}{Por Adytown!}
-{3907}{}{Nos estamos sob ataque!}
+{3907}{}{Nós estamos sob ataque!}
 {3908}{}{Eu preciso de reforco!}
 {3909}{}{Atacar!}
-{3910}{}{Nos não precisamos do seu tipo por aqui!}
+{3910}{}{Nós não precisamos do seu tipo por aqui!}
 {3911}{}{Para as armas! Para as armas!}
 #
 # attacking
@@ -2836,8 +2836,8 @@
 {3912}{}{Isto e para Adytown!}
 {3913}{}{Isto e o que nos fazemos com animais!}
 {3914}{}{Bem vindo ao Inferno, miseravel}
-{3915}{}{Melhor você ficar abaixado(a) desta vez}
-{3916}{}{Você nunca aborrecera ninguem de novo}
+{3915}{}{Melhor você ficar abaixado desta vez}
+{3916}{}{Você nunca aborrecera ninguém de novo}
 {3917}{}{Nenhuma misericordia para miseraveis!}
 {3918}{}{Melhor você rezar para os deuses!}
 {3919}{}{}
@@ -2846,12 +2846,12 @@
 #
 # target being missed
 #
-{3922}{}{Você e um desperdicio de munição}
+{3922}{}{Você é um desperdicio de munição}
 {3923}{}{}
 {3924}{}{}
-{3925}{}{Agora e a minha vez}
-{3926}{}{Surpreso(a), miseravel?}
-{3927}{}{Nos não somos faceis de matar}
+{3925}{}{Agora é a minha vez}
+{3926}{}{Surpreso, miseravel?}
+{3927}{}{Nós não somos faceis de matar}
 #
 # target hit in head (3)
 #
@@ -2863,21 +2863,21 @@
 #
 {3931}{}{Aggghh! Meu braço}
 {3932}{}{Ai! Isso doi!}
-{3933}{}{Maldicao. Eu posso estar ferido(a) gravemente}
+{3933}{}{Maldicao. Eu posso estar ferido gravemente}
 #
 # target hit in right arm
 #
 {3934}{}{Aggghh! Meu braço}
 {3935}{}{Ai! Isso doi!}
-{3936}{}{Maldicao. Eu posso estar ferido(a) gravemente}
+{3936}{}{Maldicao. Eu posso estar ferido gravemente}
 #
 # target hit in torso
 #
 {3937}{}{Ouch!}
 {3938}{}{Oof! Isso doi!}
-{3939}{}{Oof! É... dificil... respirar...}
+{3939}{}{Oof! É... difícil... respirar...}
 {3940}{}{Eu fui atingido! Medico!}
-{3941}{}{Eu ficarei ok, e so uma ferida menor}
+{3941}{}{Eu ficarei ok, e só uma ferida menor}
 {3942}{}{Argh!}
 {3943}{}{Ouch! Maldicao!}
 {3944}{}{Ai! Eu pegarei você}
@@ -2898,7 +2898,7 @@
 #
 # target hit in eyes
 #
-{3953}{}{Eu fui cegado(a)! Alguem me ajude!}
+{3953}{}{Eu fui cegado! Alguém me ajude!}
 {3954}{}{Maldicao, bem nos olhos!}
 {3955}{}{Eu não consigo ver!}
 #
@@ -2916,8 +2916,8 @@
 #
 #  running away
 #
-{4000}{}{Alguem pode me cobrir!}
-{4001}{}{Alguem me ajude!}
+{4000}{}{Alguém pode me cobrir!}
+{4001}{}{Alguém me ajude!}
 {4002}{}{Medico!}
 {4003}{}{Recuar! Recuar!}
 {4004}{}{Recuar! Recuar!}
@@ -2926,8 +2926,8 @@
 # moving in to attack
 #
 {4006}{}{Isto parece problema.}
-{4007}{}{Nos estamos sob ataque!}
-{4008}{}{Nos temos problemas!}
+{4007}{}{Nós estamos sob ataque!}
+{4008}{}{Nós temos problemas!}
 {4009}{}{Mais uma vez na discordia!}
 {4010}{}{Eu morrerei antes que eu deixe você me empurrar por ai!}
 {4011}{}{Você esta mexendo com as pessoas erradas}
@@ -2950,9 +2950,9 @@
 {4022}{}{Você não vai vencer esta luta}
 {4023}{}{}
 {4024}{}{Você não pode vencer...}
-{4025}{}{Agora e a minha vez}
+{4025}{}{Agora é a minha vez}
 {4026}{}{Você não sacou? Você não vencera!}
-{4027}{}{Nos não somos faceis de matar}
+{4027}{}{Nós não somos faceis de matar}
 #
 # target hit in head (3)
 #
@@ -2964,13 +2964,13 @@
 #
 {4031}{}{Aggghh! Meu braço}
 {4032}{}{Ai! Isso doi!}
-{4033}{}{Maldicao. Eu posso estar ferido(a) gravemente}
+{4033}{}{Maldicao. Eu posso estar ferido gravemente}
 #
 # target hit in right arm
 #
 {4034}{}{Aggghh! Meu braço}
 {4035}{}{Ai! Isso doi!}
-{4036}{}{Maldicao. Eu posso estar ferido(a) gravemente}
+{4036}{}{Maldicao. Eu posso estar ferido gravemente}
 #
 # target hit in torso
 #
@@ -2998,7 +2998,7 @@
 #
 # target hit in eyes
 #
-{4053}{}{Eu fui cegado(a)! Alguem me ajude!}
+{4053}{}{Eu fui cegado! Alguém me ajude!}
 {4054}{}{}
 {4055}{}{Eu não consigo ver!}
 #
@@ -3017,7 +3017,7 @@
 #  running away
 #
 {4100}{}{}
-{4101}{}{Alguem ajude!}
+{4101}{}{Alguém ajude!}
 {4102}{}{}
 {4103}{}{Recuar! Recuar!}
 {4104}{}{Recuar! Recuar!}
@@ -3050,7 +3050,7 @@
 {4122}{}{Você não vai vencer}
 {4123}{}{}
 {4124}{}{}
-{4125}{}{Agora e a minha vez}
+{4125}{}{Agora é a minha vez}
 {4126}{}{Você não pode vencer!}
 {4127}{}{}
 #
@@ -3064,13 +3064,13 @@
 #
 {4131}{}{Aggghh! Meu braço}
 {4132}{}{Bem, esse membro e muito inutil...}
-{4133}{}{Maldicao. Eu posso estar ferido(a) gravemente}
+{4133}{}{Maldicao. Eu posso estar ferido gravemente}
 #
 # target hit in right arm
 #
 {4134}{}{Aggghh! Meu braço}
 {4135}{}{Bem, esse membro e muito inutil...}
-{4136}{}{Maldicao. Eu posso estar ferido(a) gravemente}
+{4136}{}{Maldicao. Eu posso estar ferido gravemente}
 #
 # target hit in torso
 #
@@ -3099,7 +3099,7 @@
 #
 # target hit in eyes
 #
-{4153}{}{Eu estou cego(a)! Talvez se eu enxugar o sangue...}
+{4153}{}{Eu estou cego! Talvez se eu enxugar o sangue...}
 {4154}{}{Maldicao, bem nos olhos!}
 {4155}{}{Eu não consigo ver!}
 #
@@ -3118,11 +3118,11 @@
 #  running away
 #
 {4200}{}{}
-{4201}{}{Sem cobertura o bastante e eu estou ferido(a) gravemente!}
+{4201}{}{Sem cobertura o bastante e eu estou ferido gravemente!}
 {4202}{}{}
 {4203}{}{}
 {4204}{}{Recuar! Recuar!}
-{4205}{}{Alguem me cubra!}
+{4205}{}{Alguém me cubra!}
 #
 # moving in to attack
 #
@@ -3151,7 +3151,7 @@
 {4222}{}{Você não vai vencer esta luta}
 {4223}{}{}
 {4224}{}{}
-{4225}{}{Agora e a minha vez}
+{4225}{}{Agora é a minha vez}
 {4226}{}{Você acabou de cometer um grande erro}
 {4227}{}{}
 #
@@ -3165,13 +3165,13 @@
 #
 {4231}{}{Meu braço!}
 {4232}{}{}
-{4233}{}{Eu posso estar ferido(a) gravemente...}
+{4233}{}{Eu posso estar ferido gravemente...}
 #
 # target hit in right arm
 #
 {4234}{}{Meu braço!}
 {4235}{}{Bem, esse membro e muito inutil...}
-{4236}{}{Maldicao! Eu posso estar ferido(a) gravemente...}
+{4236}{}{Maldicao! Eu posso estar ferido gravemente...}
 #
 # target hit in torso
 #
@@ -3200,7 +3200,7 @@
 #
 # target hit in eyes
 #
-{4253}{}{Eu estou cego(a)!}
+{4253}{}{Eu estou cego!}
 {4254}{}{Maldicao, bem nos olhos!}
 {4255}{}{Eu não consigo ver!}
 #
@@ -3219,7 +3219,7 @@
 #  running away
 #
 {4300}{}{Tenho que achar uma posição melhor...}
-{4301}{}{Sem cobertura o bastante e eu estou ferido(a) gravemente...}
+{4301}{}{Sem cobertura o bastante e eu estou ferido gravemente...}
 {4302}{}{Isto não acabou!}
 {4303}{}{Melhor reagrupar....}
 {4304}{}{Recuar!}
@@ -3230,7 +3230,7 @@
 {4306}{}{Eu manejarei isto}
 {4307}{}{Isto não vai ser bonito!}
 {4308}{}{Defendam a colonia!}
-{4309}{}{Nos não podemos deixar esta escoria parar nossa missao!}
+{4309}{}{Nós não podemos deixar esta escoria parar nossa missao!}
 {4310}{}{}
 {4311}{}{}
 #
@@ -3244,35 +3244,35 @@
 {4317}{}{Eu não deixarei você destruir o que nos construimos}
 {4318}{}{}
 {4319}{}{Eu lamento que eu tenha que fazer isto}
-{4320}{}{Maldito(a) seja por me fazer a fazer isto!}
+{4320}{}{Maldito seja por me fazer a fazer isto!}
 {4321}{}{Eu tenho pena de você}
 #
 # target being missed
 #
 {4322}{}{Eu não posso deixar você vencer}
-{4323}{}{Você e tao desajeitado(a) quanto você e violento(a)}
-{4324}{}{Nos sabemos como tomar conta de nos mesmos}
-{4325}{}{Agora e a minha vez}
+{4323}{}{Você e tão desajeitado quanto você e violento}
+{4324}{}{Nós sabemos como tomar conta de nos mesmos}
+{4325}{}{Agora é a minha vez}
 {4326}{}{Esse e seu ultimo erro}
 {4327}{}{}
 #
 # target hit in head (3)
 #
 {4328}{}{Maldicao. Isso arde}
-{4329}{}{O osso da mandibula esta rachado. Nao posso deixa-lo me parar.}
+{4329}{}{O osso da mandibula esta rachado. Não posso deixa-lo me parar.}
 {4330}{}{Eu acho que meu nariz esta destruido}
 #
 # target hit in left arm
 #
 {4331}{}{Meu braço!}
 {4332}{}{O membro esta inaproveitavel. Tenho que continuar indo}
-{4333}{}{Maldicao! Eu posso estar ferido(a) gravemente}
+{4333}{}{Maldicao! Eu posso estar ferido gravemente}
 #
 # target hit in right arm
 #
 {4334}{}{Meu braço!}
 {4335}{}{O membro e inaproveitavel. Tenho que continuar indo}
-{4336}{}{Maldicao! Eu posso estar ferido(a) gravemente}
+{4336}{}{Maldicao! Eu posso estar ferido gravemente}
 #
 # target hit in torso
 #
@@ -3301,8 +3301,8 @@
 #
 # target hit in eyes
 #
-{4353}{}{Eu estou cego(a)! Nao posso deixar me parar...}
-{4354}{}{Eu estou cego(a)!}
+{4353}{}{Eu estou cego! Não posso deixar me parar...}
+{4354}{}{Eu estou cego!}
 {4355}{}{Eu não consigo ver!}
 #
 # target hit in groin
@@ -3332,21 +3332,21 @@
 {4407}{}{Carne fresca!}
 {4408}{}{}
 {4409}{}{}
-{4410}{}{Eu comerei você, um pedaco de cada vez!}
+{4410}{}{Eu comerei você, um pedaço de cada vez!}
 {4411}{}{}
 #
 # attacking
 #
 {4412}{}{Eu vou esculpir você como uma iguana-no-espeto!}
 {4413}{}{}
-{4414}{}{Nao morra ainda - Eu quero que você sofra.}
+{4414}{}{Não morra ainda - Eu quero que você sofra.}
 {4415}{}{Você ofendeu o Rei da Boneyard!}
 {4416}{}{}
-{4417}{}{Você ficara tao bonito(a) quando você estiver morto(a)}
+{4417}{}{Você ficara tão bonito quando você estiver morto}
 {4418}{}{Morra! Morra! Morra! Morra! Morra!}
 {4419}{}{}
 {4420}{}{Você vai alimentar as minhocas esta noite.}
-{4421}{}{Eu esfolarei você vivo(a)!}
+{4421}{}{Eu esfolarei você vivo!}
 #
 # target being missed
 #
@@ -3354,7 +3354,7 @@
 {4423}{}{Vamos! Bring it on, scag!}
 {4424}{}{Vamos miseravel. Me de uma luta!}
 {4425}{}{Isso e o melhor que você pode fazer?}
-{4426}{}{Você não e nada!}
+{4426}{}{Você não é nada!}
 {4427}{}{Eu não posso ser morto!}
 #
 # target hit in head
@@ -3373,7 +3373,7 @@
 #
 {4434}{}{Meu braço!}
 {4435}{}{}
-{4436}{}{Bastardo(a)! Meu braço!}
+{4436}{}{Bastardo! Meu braço!}
 #
 # target hit in torso
 #
@@ -3384,8 +3384,8 @@
 {4441}{}{Bah!}
 {4442}{}{Ack! Isso vai deixar um hematoma}
 {4443}{}{Ai!}
-{4444}{}{Tolo(a)!}
-{4445}{}{Nos podemos trocar golpes o dia todo}
+{4444}{}{Tolo!}
+{4445}{}{Nós podemos trocar golpes o dia todo}
 {4446}{}{}
 #
 # target hit in right leg
@@ -3398,7 +3398,7 @@
 #
 {4450}{}{Minha perna!}
 {4451}{}{}
-{4452}{}{Maldito(a) seja!}
+{4452}{}{Maldito seja!}
 #
 # target hit in eyes
 #
@@ -3410,9 +3410,9 @@
 #
 {4456}{}{Ack! Minha virilha!}
 {4457}{}{}
-{4458}{}{Uuuu! Isso e uma proposta, baby?}
+{4458}{}{Uuuu! Isso é uma proposta, baby?}
 {4459}{}{}
-{4460}{}{Entao esse e o modo que você quer jogar}
+{4460}{}{Então esse e o modo que você quer jogar}
 {4461}{}{}
 
 # 36. Blade, Scout
@@ -3447,16 +3447,16 @@
 {4518}{}{}
 {4519}{}{}
 {4520}{}{Eu enterrarei você}
-{4521}{}{Você esta morto(a)}
+{4521}{}{Você esta morto}
 #
 # target being missed
 #
 {4522}{}{Eu sou mais virtuoso do que Deus!}
 {4523}{}{}
 {4524}{}{Mostre-me algumas bolas!}
-{4525}{}{Você e tao fraco(a) quanto um Ripper!}
+{4525}{}{Você e tão fraco quanto um Ripper!}
 {4526}{}{}
-{4527}{}{Você não e um(a) Blade!}
+{4527}{}{Você não é um Blade!}
 #
 # target hit in head
 #
@@ -3504,7 +3504,7 @@
 #
 # target hit in eyes
 #
-{4553}{}{Eu estou cego(a)!}
+{4553}{}{Eu estou cego!}
 {4554}{}{Eu não consigo ver!}
 {4555}{}{Meus olhos! Filho de um Ripper...}
 #
@@ -3526,7 +3526,7 @@
 {4601}{}{}
 {4602}{}{É apenas uma prorrogacao, miseravel!}
 {4603}{}{Você não venceu!}
-{4604}{}{Nao ria! Eu vou mijar no seu tumulo}
+{4604}{}{Não ria! Eu vou mijar no seu tumulo}
 {4605}{}{Vejo você por ai}
 #
 # moving in to attack
@@ -3549,7 +3549,7 @@
 {4618}{}{}
 {4619}{}{}
 {4620}{}{Eu enterrarei você}
-{4621}{}{Você esta morto(a)}
+{4621}{}{Você esta morto}
 #
 # target being missed
 #
@@ -3584,12 +3584,12 @@
 {4638}{}{Ai! Meu peito!}
 {4639}{}{Oof! Minhas costelas!}
 {4640}{}{Grunt}
-{4641}{}{Ha! Eu zombo da dor!}
+{4641}{}{Há! Eu zombo da dor!}
 {4642}{}{Gasp!}
 {4643}{}{}
 {4644}{}{}
 {4645}{}{Oof!}
-{4646}{}{Oh, sim, isso me acordou!}
+{4646}{}{Ah, sim, isso me acordou!}
 #
 # target hit in right leg
 #
@@ -3606,7 +3606,7 @@
 #
 # target hit in eyes
 #
-{4653}{}{Eu estou cego(a)!}
+{4653}{}{Eu estou cego!}
 {4654}{}{Eu não consigo ver!}
 {4655}{}{Meus olhos! Filho de um Ripper...}
 #
@@ -3629,12 +3629,12 @@
 {4702}{}{}
 {4703}{}{}
 {4704}{}{Eu não vou morrer por isto!}
-{4705}{}{Eu não posso acreditar no que eles estao carregando...}
+{4705}{}{Eu não posso acreditar no que eles estão carregando...}
 #
 # moving in to attack
 #
 {4706}{}{}
-{4707}{}{Alguem acabou de cometer um grande erro!}
+{4707}{}{Alguém acabou de cometer um grande erro!}
 {4708}{}{}
 {4709}{}{Quem você pensa que você e?}
 {4710}{}{Hora de demonstrar a mercadoria}
@@ -3659,12 +3659,12 @@
 {4723}{}{}
 {4724}{}{Você não esperava isso, esperava?}
 {4725}{}{Esse foi seu ultimo erro}
-{4726}{}{Amador(a)}
+{4726}{}{Amador}
 {4727}{}{Seus movimentos são fracos!}
 #
 # target hit in head
 #
-{4728}{}{Ai! Seu/Sua filho(a) da...}
+{4728}{}{Ai! Seu/Sua filho da...}
 {4729}{}{Eu vou matar você por isso}
 {4730}{}{Eu arrancarei sua cabeca fora!}
 #
@@ -3714,11 +3714,11 @@
 # target hit in groin
 #
 {4756}{}{Uuuuuu, minha virilha!}
-{4757}{}{Entao esse e o modo como você quer jogar}
+{4757}{}{Então esse e o modo como você quer jogar}
 {4758}{}{}
 {4759}{}{Urp!}
 {4760}{}{}
-{4761}{}{Suino(a)!}
+{4761}{}{Suino!}
 
 # 39. Adytum, Leader,
 # We have a situation, and it's a bad one.
@@ -3726,7 +3726,7 @@
 #  running away
 #
 {4800}{}{Eu preciso de reforcos!}
-{4801}{}{Alguem me ajude!}
+{4801}{}{Alguém me ajude!}
 {4802}{}{Medico!}
 {4803}{}{Recuar! Recuar!}
 {4804}{}{Recuar! Recuar!}
@@ -3735,7 +3735,7 @@
 # moving in to attack
 #
 {4806}{}{Eu tomarei conta disto}
-{4807}{}{Nos estamos sob ataque!}
+{4807}{}{Nós estamos sob ataque!}
 {4808}{}{}
 {4809}{}{Atacar!}
 {4810}{}{}
@@ -3747,12 +3747,12 @@
 {4813}{}{Isto e o que nos fazemos com animais!}
 {4814}{}{Bem vindo ao Inferno, miseravel}
 {4815}{}{Aprecie os ultimos segundos de sua vida...}
-{4816}{}{Você nunca aborrecera ninguem de novo}
+{4816}{}{Você nunca aborrecera ninguém de novo}
 {4817}{}{}
 {4818}{}{Você não deveria ter comecado isto}
 {4819}{}{}
 {4820}{}{}
-{4821}{}{Você esta acabado(a), miseravel!}
+{4821}{}{Você esta acabado, miseravel!}
 #
 # target being missed
 #
@@ -3773,13 +3773,13 @@
 #
 {4831}{}{Maldicao! Meu braço}
 {4832}{}{Ai! Isso doi!}
-{4833}{}{Maldicao. Eu posso estar ferido(a) gravemente}
+{4833}{}{Maldicao. Eu posso estar ferido gravemente}
 #
 # target hit in right arm
 #
 {4834}{}{Maldicao! Meu braço}
 {4835}{}{Ai! Isso doi!}
-{4836}{}{Maldicao. Eu posso estar ferido(a) gravemente}
+{4836}{}{Maldicao. Eu posso estar ferido gravemente}
 #
 # target hit in torso
 #
@@ -3808,7 +3808,7 @@
 #
 # target hit in eyes
 #
-{4853}{}{Maldicao, Isto não e bom...}
+{4853}{}{Maldicao, Isto não é bom...}
 {4854}{}{Maldicao, bem nos olhos!}
 {4855}{}{Eu não consigo ver!}
 #
@@ -3843,7 +3843,7 @@
 #
 # attacking (10)
 #
-{4912}{}{Nao leve isto pro lado pessoal}
+{4912}{}{Não leve isto pro lado pessoal}
 {4913}{}{}
 {4914}{}{}
 {4915}{}{}
@@ -3860,12 +3860,12 @@
 {4923}{}{}
 {4924}{}{Você precisa mirar um pouco mais para a direita}
 {4925}{}{}
-{4926}{}{Este não e seu dia.}
+{4926}{}{Este não é seu dia.}
 {4927}{}{}
 #
 # target hit in head (3)
 #
-{4928}{}{Nao na cara!}
+{4928}{}{Não na cara!}
 {4929}{}{Ai! Minha cabeca!}
 {4930}{}{Você quebrou meu nariz!}
 #
@@ -3886,7 +3886,7 @@
 {4937}{}{Oof!}
 {4938}{}{Ai! Isso me doi! Muito!}
 {4939}{}{}
-{4940}{}{Gasp! Nao me acerte!}
+{4940}{}{Gasp! Não me acerte!}
 {4941}{}{Ack! Isso doi!}
 {4942}{}{Argh! Por favor pare!}
 {4943}{}{Ouch!}
@@ -3909,8 +3909,8 @@
 # target hit in eyes
 #
 {4953}{}{Argh! Minha retina!}
-{4954}{}{Meu olho! Oh meu deus, Eu estou cego(a)!}
-{4955}{}{Por que a vida e tao cruel!}
+{4954}{}{Meu olho! Ah meu deus, Eu estou cego!}
+{4955}{}{Por que a vida e tão cruel!}
 #
 # target hit in groin
 #
@@ -3936,8 +3936,8 @@
 #
 {5006}{}{}
 {5007}{}{}
-{5008}{}{Uma licao precisa ser ensinada a alguem}
-{5009}{}{Alguem esta morrendo}
+{5008}{}{Uma licao precisa ser ensinada a alguém}
+{5009}{}{Alguém esta morrendo}
 {5010}{}{}
 {5011}{}{}
 #
@@ -3957,7 +3957,7 @@
 # target being missed
 #
 {5022}{}{}
-{5023}{}{Nao estou impressionado}
+{5023}{}{Não estou impressionado}
 {5024}{}{}
 {5025}{}{Eu estou construindo sua tumba}
 {5026}{}{Você não vai me enterrar!}
@@ -4009,7 +4009,7 @@
 #
 # target hit in eyes
 #
-{5053}{}{Eu estou cego(a)!}
+{5053}{}{Eu estou cego!}
 {5054}{}{Eu não consigo ver!}
 {5055}{}{Meu olho!}
 #
@@ -4032,14 +4032,14 @@
 {5102}{}{Reagrupar!}
 {5103}{}{Isto não acabou!}
 {5104}{}{Eu retornarei!}
-{5105}{}{Nos voltaremos!}
+{5105}{}{Nós voltaremos!}
 #
 # moving in to attack
 #
 {5106}{}{}
 {5107}{}{}
-{5108}{}{Peguem o(a) intruso(a)!}
-{5109}{}{Morte para o(a) humano(a)!}
+{5108}{}{Peguem o intruso!}
+{5109}{}{Morte para o humano!}
 {5110}{}{}
 {5111}{}{}
 #
@@ -4047,7 +4047,7 @@
 #
 {5112}{}{Para o Glow com você!}
 {5113}{}{}
-{5114}{}{Humano(a) sujo(a)!}
+{5114}{}{Humano sujo!}
 {5115}{}{}
 {5116}{}{}
 {5117}{}{Morte e fogo!}
@@ -4058,11 +4058,11 @@
 #
 # target being missed
 #
-{5122}{}{Nao acertou}
+{5122}{}{Não acertou}
 {5123}{}{Ninguem sela minha tumba!}
-{5124}{}{Você não e lutador(a)}
+{5124}{}{Você não é lutador}
 {5125}{}{}
-{5126}{}{Você não vencera, humano(a)}
+{5126}{}{Você não vencera, humano}
 {5127}{}{}
 #
 # target hit in head
@@ -4134,16 +4134,16 @@
 {5202}{}{Eu voltarei!}
 {5203}{}{Meus amigos pegarao você pra mim!}
 {5204}{}{Você paga por isto -- mais tarde!}
-{5205}{}{Nos somo os Escolhidos! Você morre mais tarde!}
+{5205}{}{Nós somo os Escolhidos! Você morre mais tarde!}
 #
 # moving in to attack
 #
 {5206}{}{Sua morte chega!}
-{5207}{}{Aqueles que aborrecem os Escolhidos, não aborrecem ninguem de novo!}
+{5207}{}{Aqueles que aborrecem os Escolhidos, não aborrecem ninguém de novo!}
 {5208}{}{Armas humanas não podem me prejudicar!}
 {5209}{}{Você sofrera, sofrera muito!}
 {5210}{}{}
-{5211}{}{Quem e estupido(a) o bastante para nos enraivecer?}
+{5211}{}{Quem é estúpido o bastante para nos enraivecer?}
 #
 # attacking
 #
@@ -4151,12 +4151,12 @@
 {5213}{}{Ninguem salva você agora!}
 {5214}{}{}
 {5215}{}{Agora você morre morte ardente!}
-{5216}{}{Morra Humano(a) Tolo(a)!}
+{5216}{}{Morra Humano Tolo!}
 {5217}{}{Agora você morre uma morte gritando}
 {5218}{}{}
 {5219}{}{Agora eu esmago você}
 {5220}{}{Você não consegue enfrentar os Escolhidos!}
-{5221}{}{Sofra, humano(a)!}
+{5221}{}{Sofra, humano!}
 #
 # target being missed
 #
@@ -4165,7 +4165,7 @@
 {5224}{}{Você não tem poder!}
 {5225}{}{Você me faz rir bastante!}
 {5226}{}{Isso foi um ataque?}
-{5227}{}{Nos somos os Escolhidos!}
+{5227}{}{Nós somos os Escolhidos!}
 #
 # target hit in head
 #
@@ -4193,7 +4193,7 @@
 {5240}{}{Você não me machucar quando você morto!}
 {5241}{}{Eu zombo do seu ataque fraco!}
 {5242}{}{Grrr!}
-{5243}{}{Oh!}
+{5243}{}{Ah!}
 {5244}{}{Eu vou mergulhar você!}
 {5245}{}{Grrr! Você me enraivece}
 {5246}{}{Agh!}
@@ -4212,16 +4212,16 @@
 #
 # target hit in eyes
 #
-{5253}{}{Ahhhgh! Humano(a) miseravel! Eu estou cego(a)!}
+{5253}{}{Ahhhgh! Humano miseravel! Eu estou cego!}
 {5254}{}{Ahhhgh! Dor! O que você fez!}
 {5255}{}{Ahhhgh! Eu torturarei você por muitos dias!}
 #
 # target hit in groin
 #
-{5256}{}{Essa e a fraqueza humana!}
+{5256}{}{Essa é a fraqueza humana!}
 {5257}{}{}
-{5258}{}{Você e estupido(a), humano(a)!}
-{5259}{}{Por que você me ataca la?}
+{5258}{}{Você e estúpido, humano!}
+{5259}{}{Por que você me ataca lá?}
 {5260}{}{Eu machucarei você por muitas horas}
 {5261}{}{}
 
@@ -4261,12 +4261,12 @@
 #
 # target being missed
 #
-{5322}{}{Você e fraco(a)!}
-{5323}{}{Voces são fracos...}
-{5324}{}{Você não tem forca!}
+{5322}{}{Você e fraco!}
+{5323}{}{Vocês são fracos...}
+{5324}{}{Você não tem força!}
 {5325}{}{}
 {5326}{}{Isso foi um ataque?}
-{5327}{}{Voces são inuteis}
+{5327}{}{Vocês são inuteis}
 #
 # target hit in head
 #
@@ -4313,17 +4313,17 @@
 #
 # target hit in eyes
 #
-{5353}{}{Ahhhgh! Eu estou cego(a)!}
+{5353}{}{Ahhhgh! Eu estou cego!}
 {5354}{}{Ahhhgh! Dor! O que você fez a mim?}
 {5355}{}{Ahhhgh! Os olhos queimam como o fogo do Glow!}
 #
 # target hit in groin
 #
-{5356}{}{Essa e a fraqueza humana!}
+{5356}{}{Essa é a fraqueza humana!}
 {5357}{}{}
 {5358}{}{}
-{5359}{}{Por que você me ataca la?}
-{5360}{}{Sua morte será dolorosa, humano(a)!}
+{5359}{}{Por que você me ataca lá?}
+{5360}{}{Sua morte será dolorosa, humano!}
 {5361}{}{}
 
 # 45.  Super Mutant, Hostile
@@ -4345,29 +4345,29 @@
 {5408}{}{Armas humanas não podem me prejudicar!}
 {5409}{}{Você sofrera, sofrera muito!}
 {5410}{}{Eu vejo inimigos para destruir!}
-{5411}{}{Quem e estupido(a) o bastante para nos enraivecer?}
+{5411}{}{Quem é estúpido o bastante para nos enraivecer?}
 #
 # attacking
 #
 {5412}{}{}
 {5413}{}{Ninguem salva você agora!}
-{5414}{}{Nos somos seus Mestres!}
+{5414}{}{Nós somos seus Mestres!}
 {5415}{}{Agora você morre uma morte ardente!}
-{5416}{}{Morra Humano(a) Tolo(a)!}
+{5416}{}{Morra Humano Tolo!}
 {5417}{}{Agora você morre uma morte gritando}
 {5418}{}{}
 {5419}{}{Agora eu esmago você}
 {5420}{}{}
-{5421}{}{Sofra, humano(a)!}
+{5421}{}{Sofra, humano!}
 #
 # target being missed
 #
 {5422}{}{Por que você luta?}
 {5423}{}{Isso e o melhor que os humanos podem fazer?}
-{5424}{}{Você não tem forca!}
+{5424}{}{Você não tem força!}
 {5425}{}{}
 {5426}{}{}
-{5427}{}{Nos somos os Escolhidos!}
+{5427}{}{Nós somos os Escolhidos!}
 #
 # target hit in head
 #
@@ -4389,7 +4389,7 @@
 #
 # target hit in torso
 #
-{5437}{}{Nao ha dor que possa me machucar!}
+{5437}{}{Não há dor que possa me machucar!}
 {5438}{}{Oof! Eu mato você}
 {5439}{}{Eu odeio seu tipo!}
 {5440}{}{}
@@ -4414,7 +4414,7 @@
 #
 # target hit in eyes
 #
-{5453}{}{Ahhhgh! Humano(a) miseravel! Eu estou cego(a)!}
+{5453}{}{Ahhhgh! Humano miseravel! Eu estou cego!}
 {5454}{}{Ahhhgh! Dor! O que você fez!}
 {5455}{}{Ahhhgh! Eu torturarei você por muitos dias!}
 #
@@ -4422,8 +4422,8 @@
 #
 {5456}{}{}
 {5457}{}{}
-{5458}{}{Você e humano(a) estupido(a)!}
-{5459}{}{Por que você me ataca la?}
+{5458}{}{Você e humano estúpido!}
+{5459}{}{Por que você me ataca lá?}
 {5460}{}{Eu machucarei você por muitas horas}
 {5461}{}{}
 
@@ -4436,8 +4436,8 @@
 {5501}{}{Você não me matara!}
 {5502}{}{Eu voltarei!}
 {5503}{}{Isto não esta acabado!}
-{5504}{}{Sua vitoria será de duracao muito curta, humano(a)!}
-{5505}{}{Nos somos os Escolhidos! Você morrera mais tarde!}
+{5504}{}{Sua vitoria será de duração muito curta, humano!}
+{5505}{}{Nós somos os Escolhidos! Você morrera mais tarde!}
 #
 # moving in to attack
 #
@@ -4452,21 +4452,21 @@
 #
 {5512}{}{}
 {5513}{}{Ninguem pode salvar você}
-{5514}{}{Nos somos seus Mestres!}
+{5514}{}{Nós somos seus Mestres!}
 {5515}{}{Agora você morrera uma Morte Ardente!}
-{5516}{}{Morra Humano(a) Tolo(a)!}
+{5516}{}{Morra Humano Tolo!}
 {5517}{}{Agora você morre uma morte engracada}
 {5518}{}{Seu sangue e meu vinho!}
 {5519}{}{Agora eu esmago você}
 {5520}{}{Você não consegue enfrentar os Escolhidos!}
-{5521}{}{Sofra, humano(a)!}
+{5521}{}{Sofra, humano!}
 #
 # target being missed
 #
-{5522}{}{Por que você luta tao lamentavelmente?}
+{5522}{}{Por que você luta tão lamentavelmente?}
 {5523}{}{}
 {5524}{}{Você chama esta tolice cambaleante uma luta?}
-{5525}{}{Seu ataque so me faz rir}
+{5525}{}{Seu ataque só me faz rir}
 {5526}{}{}
 {5527}{}{}
 #
@@ -4498,8 +4498,8 @@
 {5542}{}{Grrr!}
 {5543}{}{Oof! Você não pode sobreviver}
 {5544}{}{}
-{5545}{}{Você não tem ideia de com o que você esta lidando, humano(a)}
-{5546}{}{Eu lavarei minha cara com seu sangue!}
+{5545}{}{Você não tem ideia de com o que você esta lidando, humano}
+{5546}{}{Eu lavarei minha frente com seu sangue!}
 #
 # target hit in right leg
 #
@@ -4515,16 +4515,16 @@
 #
 # target hit in eyes
 #
-{5553}{}{Ahhhgh! Humano(a) miseravel! Eu estou cego(a)!}
+{5553}{}{Ahhhgh! Humano miseravel! Eu estou cego!}
 {5554}{}{Ahhhgh! Mas eu não preciso de olhos para matar você.}
 {5555}{}{Ahhhgh! Eu torturarei você por muitos dias!}
 #
 # target hit in groin
 #
-{5556}{}{Essa e a fraqueza humana!}
+{5556}{}{Essa é a fraqueza humana!}
 {5557}{}{}
-{5558}{}{Você e humano(a) estupido(a)!}
-{5559}{}{Por que você me ataca la?}
+{5558}{}{Você e humano estúpido!}
+{5559}{}{Por que você me ataca lá?}
 {5560}{}{Eu machucarei você por muitas horas}
 {5561}{}{Essa foi a afronta final!}
 
@@ -4546,12 +4546,12 @@
 {5607}{}{Você não esta nos dando muita escolha!}
 {5608}{}{Quem você pensa que você e?}
 {5609}{}{Ninguem vai tomar este lugar...}
-{5610}{}{Nos poderiamos ter feito um acordo}
-{5611}{}{Esse foi um movimento ruim, meu/minha amigo(a)}
+{5610}{}{Nós poderiamos ter feito um acordo}
+{5611}{}{Esse foi um movimento ruim, meu amigo}
 #
 # attacking
 #
-{5612}{}{Nao deveria comecar o que você não pode terminar}
+{5612}{}{Não deveria comecar o que você não pode terminar}
 {5613}{}{Você pediu por isto!}
 {5614}{}{}
 {5615}{}{Eu sei como lidar com suinos!}
@@ -4566,27 +4566,27 @@
 #
 {5622}{}{Whew!}
 {5623}{}{Você não vale vinte pratas}
-{5624}{}{Você não e muito bom nisto}
+{5624}{}{Você não é muito bom nisto}
 {5625}{}{You're just a cut rate miseravel}
 {5626}{}{Você deveria apenas sair fora!}
 {5627}{}{}
 #
 # target hit in head
 #
-{5628}{}{Nao na cara!}
+{5628}{}{Não na cara!}
 {5629}{}{}
 {5630}{}{Ai! Minha orelha!}
 #
 # target hit in left arm
 #
 {5631}{}{Ai, meu braço}
-{5632}{}{Maldito(a) seja!}
+{5632}{}{Maldito seja!}
 {5633}{}{Você quebrou meu braço!}
 #
 # target hit in right arm
 #
 {5634}{}{Ai, meu braço}
-{5635}{}{Maldito(a) seja!}
+{5635}{}{Maldito seja!}
 {5636}{}{Você quebrou meu braço!}
 #
 # target hit in torso
@@ -4616,9 +4616,9 @@
 #
 # target hit in eyes
 #
-{5653}{}{Eu estou cego(a)!}
+{5653}{}{Eu estou cego!}
 {5654}{}{Ugggh. Minha cara! Meus olhos!}
-{5655}{}{Meus olhos! Maldito(a) seja até o Inferno...}
+{5655}{}{Meus olhos! Maldito seja até o Inferno...}
 #
 # target hit in groin
 #
@@ -4636,8 +4636,8 @@
 #
 {5700}{}{Eu tenho que sair daqui!}
 {5701}{}{Corra! Corra!}
-{5702}{}{Alguem me ajude!}
-{5703}{}{Nos todos vamos morrer!}
+{5702}{}{Alguém me ajude!}
+{5703}{}{Nós todos vamos morrer!}
 {5704}{}{Algum dia, você recebera o que esta vindo para você!}
 {5705}{}{ Eu não vou morrer por isto!}
 #
@@ -4646,7 +4646,7 @@
 {5706}{}{É muito tarde pra correr}
 {5707}{}{Quem deixou você no Hub?}
 {5708}{}{Ei você!}
-{5709}{}{Nos não precisamos do seu tipo por aqui!}
+{5709}{}{Nós não precisamos do seu tipo por aqui!}
 {5710}{}{Ninguem vai tomar este lugar...}
 {5711}{}{Quem você pensa que você e?}
 #
@@ -4656,7 +4656,7 @@
 {5713}{}{Você gosta disto?}
 {5714}{}{Isto e o que nos fazemos com os vermes!}
 {5715}{}{Isto e para você!}
-{5716}{}{Adeus!}
+{5716}{}{Tchau!}
 {5717}{}{}
 {5718}{}{Escoria criadora de problemas!}
 {5719}{}{}
@@ -4665,9 +4665,9 @@
 #
 # target being missed
 #
-{5722}{}{Você não e tao bom/boa quanto você pensa }
+{5722}{}{Você não é tão bom/boa quanto você pensa }
 {5723}{}{}
-{5724}{}{Você e apenas um(a) facinora comum}
+{5724}{}{Você e apenas um facinora comum}
 {5725}{}{}
 {5726}{}{Eu não vou ser sua vitima}
 {5727}{}{Esse foi seu ultimo erro}
@@ -4717,7 +4717,7 @@
 #
 # target hit in eyes
 #
-{5753}{}{Aggghhh! Eu estou cego(a)!}
+{5753}{}{Aggghhh! Eu estou cego!}
 {5754}{}{Maldicao! Tudo esta queimando...}
 {5755}{}{Meu olho! Você pagara por isso!}
 #
@@ -4758,17 +4758,17 @@
 {5814}{}{Isto e o que nos fazemos com os vermes!}
 {5815}{}{Eu vou empaturrar você para uma soneca no po!}
 {5816}{}{Seu/Sua patife insolente!}
-{5817}{}{Você e um(a) chato(a) de verdade}
+{5817}{}{Você é um chato de verdade}
 {5818}{}{Você me enoja!}
 {5819}{}{Morte or gloria!}
-{5820}{}{Você vai fazer uma bagunca terrivel}
+{5820}{}{Você vai fazer uma bagunca terrível}
 {5821}{}{Você se arrependera de por o pe no Hub!}
 #
 # target being missed
 #
 {5822}{}{Eu vou me baixar quando eu enfrentar você}
 {5823}{}{}
-{5824}{}{Você e apenas um(a) facinora comum}
+{5824}{}{Você e apenas um facinora comum}
 {5825}{}{}
 {5826}{}{Você realmente não deveria ter se incomodado}
 {5827}{}{Esse foi seu ultimo erro}
@@ -4798,7 +4798,7 @@
 {5839}{}{Ouch!}
 {5840}{}{Oof! Minhas costelas doem}
 {5841}{}{Bosta! Isso doi!}
-{5842}{}{Ouch! Maldito(a) seja!}
+{5842}{}{Ouch! Maldito seja!}
 {5843}{}{Argh!}
 {5844}{}{}
 {5845}{}{}
@@ -4818,21 +4818,21 @@
 #
 # target hit in eyes
 #
-{5853}{}{Aggghhh! Eu estou cego(a)!}
+{5853}{}{Aggghhh! Eu estou cego!}
 {5854}{}{Maldicao! Tudo esta queimando...}
 {5855}{}{O que você fez a mim!}
 #
 # target hit in groin
 #
 {5856}{}{Uuuuuu, minha virilha!}
-{5857}{}{Você não e nada alem de um(a) facinora comum!}
+{5857}{}{Você não é nada alem de um facinora comum!}
 {5858}{}{}
 {5859}{}{}
 {5860}{}{}
 {5861}{}{Maldicao, isso doi!}
 
 # 50.  Mutant, Hub
-# We've made a home for ourselves here, and we'll be damned if we just let you walk in and take it away from us.
+# We'vê made a home for ourselves here, and we'll be damned if we just let you walk in and take it away from us.
 #
 #  running away (6)
 #
@@ -4847,28 +4847,28 @@
 #
 {5906}{}{}
 {5907}{}{Defendam nossos lares!}
-{5908}{}{Uma licao deve ser ensinada a alguem}
-{5909}{}{Alguem esta morrendo}
+{5908}{}{Uma licao deve ser ensinada a alguém}
+{5909}{}{Alguém esta morrendo}
 {5910}{}{}
 {5911}{}{Ninguem mexe com o Hub!}
 #
 # attacking
 #
 {5912}{}{Tome isto!}
-{5913}{}{Morra e fique morto(a)!}
-{5914}{}{Finja de morto(a)!}
+{5913}{}{Morra e fique morto!}
+{5914}{}{Finja de morto!}
 {5915}{}{Miseravel}
 {5916}{}{You creep!}
 {5917}{}{Espero que isto machuque}
 {5918}{}{Nunca deveria ter mexido conosco}
 {5919}{}{Para o Glow com você!}
-{5920}{}{Va pro Inferno!}
-{5921}{}{Você esta morto(a)}
+{5920}{}{Vá pro Inferno!}
+{5921}{}{Você esta morto}
 #
 # target being missed
 #
-{5922}{}{Nao acertou!}
-{5923}{}{Nao estou impressionado}
+{5922}{}{Não acertou!}
+{5923}{}{Não estou impressionado}
 {5924}{}{}
 {5925}{}{Eu não sou assim fácil}
 {5926}{}{Ninguem vai me humilhar!}
@@ -4900,7 +4900,7 @@
 {5939}{}{Ouch!}
 {5940}{}{}
 {5941}{}{}
-{5942}{}{Ouch! Maldito(a) seja!}
+{5942}{}{Ouch! Maldito seja!}
 {5943}{}{Argh!}
 {5944}{}{Ai!}
 {5945}{}{}
@@ -4921,7 +4921,7 @@
 #
 # target hit in eyes
 #
-{5953}{}{Eu estou cego(a)!}
+{5953}{}{Eu estou cego!}
 {5954}{}{Eu não consigo ver!}
 {5955}{}{Meu olho!}
 #
@@ -4939,9 +4939,9 @@
 #
 #  running away
 #
-{6000}{}{Ataque alguem mais, por favor!}
+{6000}{}{Ataque alguém mais, por favor!}
 {6001}{}{Tenha misericordia!}
-{6002}{}{Alguem me ajude!}
+{6002}{}{Alguém me ajude!}
 {6003}{}{Por favor pare!}
 {6004}{}{Talvez isto não era uma boa ideia}
 {6005}{}{Eu não vou morrer por isto!}
@@ -4951,7 +4951,7 @@
 {6006}{}{Espere até eu pegar você...}
 {6007}{}{}
 {6008}{}{Ei você!}
-{6009}{}{Nos não precisamos do seu tipo por aqui!}
+{6009}{}{Nós não precisamos do seu tipo por aqui!}
 {6010}{}{}
 {6011}{}{Eu vou desmontar você como um relogio barato}
 #
@@ -4970,7 +4970,7 @@
 #
 # target being missed
 #
-{6022}{}{Você não e tao bom/boa quanto você pensa }
+{6022}{}{Você não é tão bom/boa quanto você pensa }
 {6023}{}{Isso e o melhor que você pode fazer?}
 {6024}{}{}
 {6025}{}{}
@@ -4987,7 +4987,7 @@
 #
 {6031}{}{Aggghhh! Meu braço}
 {6032}{}{Meu braço!}
-{6033}{}{Oh cara, isso doi!}
+{6033}{}{Ah cara, isso doi!}
 #
 # target hit in right arm
 #
@@ -5005,7 +5005,7 @@
 {6041}{}{Ugh! Isso doi!}
 {6042}{}{Maldicao! Eu cuspo em você!}
 {6043}{}{Argh!}
-{6044}{}{Oh, minhas costelas!}
+{6044}{}{Ah, minhas costelas!}
 {6045}{}{Ai!!!}
 {6046}{}{Oof!}
 #
@@ -5023,7 +5023,7 @@
 #
 # target hit in eyes
 #
-{6053}{}{Aggghhh! Eu estou cego(a)!}
+{6053}{}{Aggghhh! Eu estou cego!}
 {6054}{}{Meus olhos! Meus olhos!}
 {6055}{}{Meu olho! Você pagara por isso!}
 #
@@ -5043,7 +5043,7 @@
 #
 {6100}{}{Eu estou fora daqui!}
 {6101}{}{Talvez isto não era uma boa ideia}
-{6102}{}{Ataque alguem mais, ok?}
+{6102}{}{Ataque alguém mais, ok?}
 {6103}{}{Yikes!}
 {6104}{}{Eu não vou morrer por isto!}
 {6105}{}{Isso e demais para mim}
@@ -5052,7 +5052,7 @@
 #
 {6106}{}{Ei você!}
 {6107}{}{Eu vou ensinar a você algumas maneiras}
-{6108}{}{Nos não precisamos do seu tipo por aqui!}
+{6108}{}{Nós não precisamos do seu tipo por aqui!}
 {6109}{}{Você precisa aprender um pouco de respeito!}
 {6110}{}{Hora de ganhar meu pagamento...}
 {6111}{}{Espere até eu pegar você...}
@@ -5065,7 +5065,7 @@
 {6115}{}{Você gosta disto?}
 {6116}{}{}
 {6117}{}{}
-{6118}{}{Vamos ver o quao forte você e.}
+{6118}{}{Vamos ver o quao forte você é.}
 {6119}{}{Miseravel}
 {6120}{}{}
 {6121}{}{Eu vou por você no seu lugar para o bem}
@@ -5074,14 +5074,14 @@
 #
 {6122}{}{Sua mamae ensinou a você esse movimento?}
 {6123}{}{}
-{6124}{}{Você não e bom/boa o bastante}
+{6124}{}{Você não é bom/boa o bastante}
 {6125}{}{Esse foi seu ultimo erro}
-{6126}{}{Amador(a)}
+{6126}{}{Amador}
 {6127}{}{Você aprende a lutar em bares?}
 #
 # target hit in head
 #
-{6128}{}{Ai! Seu/Sua filho(a) da...}
+{6128}{}{Ai! Seu/Sua filho da...}
 {6129}{}{Você quebrou meu nariz!}
 {6130}{}{Eu arrancarei sua cabeca fora!}
 #
@@ -5106,7 +5106,7 @@
 {6141}{}{Ugh! Isso doi!}
 {6142}{}{Ouch!}
 {6143}{}{Argh!}
-{6144}{}{Oh, Eu acho que você quebrou uma costela!}
+{6144}{}{Ah, Eu acho que você quebrou uma costela!}
 {6145}{}{Ai!!! Meu baco!}
 {6146}{}{Oof!}
 #
@@ -5142,12 +5142,12 @@
 #
 #  running away
 #
-{6200}{}{Nos nos encontraremos de novo. Aposte nisso}
+{6200}{}{Nós nos encontraremos de novo. Aposte nisso}
 {6201}{}{Você me deve uma revanche. Depois}
 {6202}{}{Você venceu este round mas o jogo ainda não acabou}
 {6203}{}{Eu superarei você mais tarde}
-{6204}{}{Se você sabe o que e bom pra você, você saira da cidade}
-{6205}{}{Isto não esta acabado, amigo(a).}
+{6204}{}{Se você sabe o que é bom pra você, você saira da cidade}
+{6205}{}{Isto não esta acabado, amigo.}
 #
 # moving in to attack
 #
@@ -5166,7 +5166,7 @@
 {6215}{}{Você gosta disto?}
 {6216}{}{}
 {6217}{}{}
-{6218}{}{Vamos ver o quao forte você e.}
+{6218}{}{Vamos ver o quao forte você é.}
 {6219}{}{Miseravel}
 {6220}{}{}
 {6221}{}{Eu vou chutar seu traseiro para fora da cidade}
@@ -5175,14 +5175,14 @@
 #
 {6222}{}{Você esta fora da sua liga}
 {6223}{}{}
-{6224}{}{Você não e bom/boa o bastante}
-{6225}{}{Você deveria sair enquanto você ainda esta inteiro(a)}
-{6226}{}{Amador(a)}
+{6224}{}{Você não é bom/boa o bastante}
+{6225}{}{Você deveria sair enquanto você ainda esta inteiro}
+{6226}{}{Amador}
 {6227}{}{}
 #
 # target hit in head
 #
-{6228}{}{Ai! Seu/Sua filho(a) da...}
+{6228}{}{Ai! Seu/Sua filho da...}
 {6229}{}{}
 {6230}{}{Eu arrancarei sua cabeca fora!}
 #
@@ -5207,7 +5207,7 @@
 {6241}{}{}
 {6242}{}{}
 {6243}{}{}
-{6244}{}{Oh, minhas costelas!}
+{6244}{}{Ah, minhas costelas!}
 {6245}{}{}
 {6246}{}{}
 #
@@ -5277,11 +5277,11 @@
 {6324}{}{}
 {6325}{}{Tente mirar da proxima vez...}
 {6326}{}{}
-{6327}{}{Perdedor(a)}
+{6327}{}{Perdedor}
 #
 # target hit in head (3)
 #
-{6328}{}{Nao na cara!}
+{6328}{}{Não na cara!}
 {6329}{}{Ah, minha cabeca doi}
 {6330}{}{Você quebrou meu nariz!}
 #
@@ -5314,18 +5314,18 @@
 #
 {6347}{}{Ai, minha perna}
 {6348}{}{Você vai pagar por isso!}
-{6349}{}{Oh, meu joelho!}
+{6349}{}{Ah, meu joelho!}
 #
 # target hit in left leg
 #
 {6350}{}{Ai, minha perna}
 {6351}{}{}
-{6352}{}{Oh, meu joelho}
+{6352}{}{Ah, meu joelho}
 #
 # target hit in eyes
 #
 {6353}{}{Argh!}
-{6354}{}{Meus olhos.... Nao meus olhos...}
+{6354}{}{Meus olhos.... Não meus olhos...}
 {6355}{}{Esse foi um tiro verdadeiramente barato!}
 #
 # target hit in groin
@@ -5351,7 +5351,7 @@
 #
 {6406}{}{}
 {6407}{}{Carne fresca...}
-{6408}{}{Bem-vindo(a) a Junktown. Lugar bacana para o seu tumulo!}
+{6408}{}{Bem-vindo a Junktown. Lugar bacana para o seu tumulo!}
 {6409}{}{Skulz! Ataquem!}
 {6410}{}{É hora de matar!}
 {6411}{}{}
@@ -5380,7 +5380,7 @@
 #
 # target hit in head (3)
 #
-{6428}{}{Nao na cara!}
+{6428}{}{Não na cara!}
 {6429}{}{Cara, isto e pior do que uma ressaca}
 {6430}{}{Você quebrou meu nariz!}
 #
@@ -5413,18 +5413,18 @@
 #
 {6447}{}{Ai, minha perna}
 {6448}{}{Ninguem vai me tornar em um gimp!}
-{6449}{}{Oh, meu joelho!}
+{6449}{}{Ah, meu joelho!}
 #
 # target hit in left leg
 #
 {6450}{}{Ai, minha perna}
 {6451}{}{Ninguem vai me tornar em um gimp!}
-{6452}{}{Oh, meu joelho}
+{6452}{}{Ah, meu joelho}
 #
 # target hit in eyes
 #
 {6453}{}{Argh! Meus olhos!}
-{6454}{}{Meus olhos.... Nao meus olhos...}
+{6454}{}{Meus olhos.... Não meus olhos...}
 {6455}{}{}
 #
 # target hit in groin
@@ -5452,7 +5452,7 @@
 {6507}{}{Você nunca deveria ter se oposto a mim, miseravel}
 {6508}{}{Você esta precisando de uma nova atitude, miseravel.}
 {6509}{}{Ninguem se opoe a Gizmo mais do que uma vez}
-{6510}{}{Você vai estar morto(a) e enterrado(a)}
+{6510}{}{Você vai estar morto e enterrado}
 {6511}{}{Você estar me deixando realmente infeliz}
 #
 # attacking (10)
@@ -5465,14 +5465,14 @@
 {6517}{}{Ninguem vai tirar Junktown de mim}
 {6518}{}{Espero que você não morra muito rapido}
 {6519}{}{Eu vou rasgar você membro por membro!}
-{6520}{}{Você estar morto(a)!}
+{6520}{}{Você estar morto!}
 {6521}{}{Experimente isto pelo tamanho!}
 #
 # target being missed (6)
 #
 {6522}{}{Isso e patetico de verdade}
 {6523}{}{Você precisa de melhores chems de combate}
-{6524}{}{Você e até mesmo um(a) perdedor(a) maior do que o Killian}
+{6524}{}{Você e até mesmo um perdedor maior do que o Killian}
 {6525}{}{}
 {6526}{}{Esse foi seu ultimo tiro!}
 {6527}{}{}
@@ -5485,13 +5485,13 @@
 #
 # target hit in left arm
 #
-{6531}{}{Seu/sua beijador(a) de radscorpions...}
+{6531}{}{Seu/sua beijador de radscorpions...}
 {6532}{}{Você quebrou meu braço!}
 {6533}{}{Meu braço! Meu braço!}
 #
 # target hit in right arm
 #
-{6534}{}{Seu/sua beijador(a) de radscorpions...}
+{6534}{}{Seu/sua beijador de radscorpions...}
 {6535}{}{Você quebrou meu braço!}
 {6536}{}{Meu braço! Meu braço!}
 #
@@ -5504,7 +5504,7 @@
 {6541}{}{!}
 {6542}{}{Ai!}
 {6543}{}{Argh!}
-{6544}{}{Ninguem faz isso comigo, ninguem!}
+{6544}{}{Ninguem faz isso comigo, ninguém!}
 {6545}{}{Ai!!!}
 {6546}{}{Oof!}
 #
@@ -5512,18 +5512,18 @@
 #
 {6547}{}{Ai, minha perna}
 {6548}{}{Eu mal... posso... ficar de pe...}
-{6549}{}{Oh, meu joelho!}
+{6549}{}{Ah, meu joelho!}
 #
 # target hit in left leg
 #
 {6550}{}{Ai, minha perna}
 {6551}{}{Eu mal... posso... ficar de pe...}
-{6552}{}{Oh, meu joelho}
+{6552}{}{Ah, meu joelho}
 #
 # target hit in eyes
 #
 {6553}{}{Uggh! Naooo!}
-{6554}{}{Meus olhos.... Nao meus olhos...}
+{6554}{}{Meus olhos.... Não meus olhos...}
 {6555}{}{}
 #
 # target hit in groin
@@ -5554,7 +5554,7 @@
 {6608}{}{Quem você pensa que você e?}
 {6609}{}{Ninguem vai tomar este lugar...}
 {6610}{}{Você esta me forcando a ser inamistosa de verdade.}
-{6611}{}{Seu/Sua filho(a) da...}
+{6611}{}{Seu/Sua filho da...}
 #
 # attacking
 #
@@ -5563,9 +5563,9 @@
 {6614}{}{}
 {6615}{}{}
 {6616}{}{Por que você comecou isto?}
-{6617}{}{Morra, seu/sua filho(a) da...}
-{6618}{}{Nao tome isto como pessoal...}
-{6619}{}{Você merece cada pedaco disto!}
+{6617}{}{Morra, seu/sua filho da...}
+{6618}{}{Não tome isto como pessoal...}
+{6619}{}{Você merece cada pedaço disto!}
 {6620}{}{Você percebe que você comecou isto?}
 {6621}{}{}
 #
@@ -5573,8 +5573,8 @@
 #
 {6622}{}{Whew!}
 {6623}{}{Você realmente não tem que fazer isto}
-{6624}{}{Você e uma desculpa lamentavel para um(a) lutador(a)}
-{6625}{}{Você me lembra de alguem que eu costumava namorar}
+{6624}{}{Você é uma desculpa lamentavel para um lutador}
+{6625}{}{Você me lembra de alguém que eu costumava namorar}
 {6626}{}{Você não consegue lidar comigo}
 {6627}{}{}
 #
@@ -5582,7 +5582,7 @@
 #
 {6628}{}{Minha cara!}
 {6629}{}{Ah, minha cabeca doi}
-{6630}{}{Você esta baguncando minha cara!}
+{6630}{}{Você esta baguncando minha frente!}
 #
 # target hit in left arm
 #
@@ -5602,12 +5602,12 @@
 {6638}{}{!}
 {6639}{}{Ai! Isso doi!}
 {6640}{}{}
-{6641}{}{Nao acerte uma dama ai!}
+{6641}{}{Não acerte uma dama ai!}
 {6642}{}{Ai!!}
 {6643}{}{Ouch!}
-{6644}{}{Ai! Seu/Sua pequeno(a) pedaco de ...}
+{6644}{}{Ai! Seu/Sua pequeno pedaço de ...}
 {6645}{}{&*$#@!}
-{6646}{}{#$#@! Seu/Sua vermezinho(a)!}
+{6646}{}{#$#@! Seu/Sua vermezinho!}
 #
 # target hit in right leg
 #
@@ -5625,13 +5625,13 @@
 #
 {6653}{}{Minha cara! Minha cara!}
 {6654}{}{Meus... olhos... MEUS OLHOS!}
-{6655}{}{Seu/Sua bastardo(a)! Eu matarei você!}
+{6655}{}{Seu/Sua bastardo! Eu matarei você!}
 #
 # target hit in groin
 #
-{6656}{}{Você deve estar acostumado(a) a enfrentar homens}
+{6656}{}{Você deve estar acostumado a enfrentar homens}
 {6657}{}{}
-{6658}{}{Seu pedaco de lixo do deserto!}
+{6658}{}{Seu pedaço de lixo do deserto!}
 {6659}{}{Esse e meu espaco pessoal!}
 {6660}{}{You slime!}
 {6661}{}{Seu/Sua animal!}
@@ -5642,7 +5642,7 @@
 #  running away
 #
 {6700}{}{Eu preciso de reforcos!}
-{6701}{}{Alguem me ajude!}
+{6701}{}{Alguém me ajude!}
 {6702}{}{}
 {6703}{}{Recuar!}
 {6704}{}{Recuar!}
@@ -5664,7 +5664,7 @@
 {6714}{}{Agora você morre!}
 {6715}{}{Você gosta disto?}
 {6716}{}{Mexa com o melhor, morra como o resto}
-{6717}{}{Nao deveria comecar o que você não pode terminar}
+{6717}{}{Não deveria comecar o que você não pode terminar}
 {6718}{}{}
 {6719}{}{Vamos ver o quanto você gosta disto!}
 {6720}{}{}
@@ -5674,9 +5674,9 @@
 #
 {6722}{}{Enfrente os fatos. Você e outclassed.}
 {6723}{}{Isso e o melhor que você pode fazer?}
-{6724}{}{Perdedor(a)! Me de uma luta!}
+{6724}{}{Perdedor! Me de uma luta!}
 {6725}{}{}
-{6726}{}{Nos somos os Mestres do Combate!}
+{6726}{}{Nós somos os Mestres do Combate!}
 {6727}{}{Você não pode tocar a Irmandade}
 #
 # target hit in head (3)
@@ -5702,12 +5702,12 @@
 {6737}{}{Você destruiu uma costela!}
 {6738}{}{Oof!}
 {6739}{}{Ouch!}
-{6740}{}{Oof! Entao e assim como se sente com dor...}
+{6740}{}{Oof! Então e assim como se sente com dor...}
 {6741}{}{Ai! Meu treinamento não me preparou pra isto!}
 {6742}{}{Oof! A Irmandade me vingara se eu morrer!}
 {6743}{}{Ouch!}
 {6744}{}{}
-{6745}{}{Oh! Minhas costelas doloridas! Eu pegarei você por isso}
+{6745}{}{Ah! Minhas costelas doloridas! Eu pegarei você por isso}
 {6746}{}{Oof!}
 #
 # target hit in right leg
@@ -5724,8 +5724,8 @@
 #
 # target hit in eyes
 #
-{6753}{}{Eu estou cego(a)!}
-{6754}{}{Meus olhos estao queimando!}
+{6753}{}{Eu estou cego!}
+{6754}{}{Meus olhos estão queimando!}
 {6755}{}{Eu não consigo ver!}
 #
 # target hit in groin
@@ -5764,7 +5764,7 @@
 {6813}{}{Agora eu tenho você!}
 {6814}{}{Agora você morre!}
 {6815}{}{Você gosta disto?}
-{6816}{}{Eu sei como lidar com os tipos de voces}
+{6816}{}{Eu sei como lidar com os tipos de vocês}
 {6817}{}{Isto deve tirar a luta de você}
 {6818}{}{}
 {6819}{}{Deixe-nos ver o quanto você gosta disto!}
@@ -5773,9 +5773,9 @@
 #
 # target being missed
 #
-{6822}{}{O fato e. Você e outclassed}
+{6822}{}{O fato é. Você e outclassed}
 {6823}{}{Isto e o seu melhor?}
-{6824}{}{Seu/Sua estupido(a) pequeno(a) tolo(a)}
+{6824}{}{Seu/Sua estúpido pequeno tolo}
 {6825}{}{Isso foi patetico}
 {6826}{}{Você me insulta com sua incompetencia}
 {6827}{}{Você não consegue tocar a Irmandade}
@@ -5808,7 +5808,7 @@
 {6842}{}{Oof! A Irmandade vingara minha morte!}
 {6843}{}{Ouch!}
 {6844}{}{}
-{6845}{}{Oh! Minhas costelas doloridas! Eu pegarei você por isso}
+{6845}{}{Ah! Minhas costelas doloridas! Eu pegarei você por isso}
 {6846}{}{Oof!}
 #
 # target hit in right leg
@@ -5825,8 +5825,8 @@
 #
 # target hit in eyes
 #
-{6853}{}{Eu estou cego(a)!}
-{6854}{}{Eu fui cegado(a)! Eu preciso de ajuda aqui!}
+{6853}{}{Eu estou cego!}
+{6854}{}{Eu fui cegado! Eu preciso de ajuda aqui!}
 {6855}{}{Meus olhos!}
 #
 # target hit in groin
@@ -5853,7 +5853,7 @@
 # moving in to attack
 #
 {6906}{}{Eu estou indo!}
-{6907}{}{Este(a) e meu/minha!}
+{6907}{}{Este e meu!}
 {6908}{}{}
 {6909}{}{Mais uma vez na discordia}
 {6910}{}{}
@@ -5868,7 +5868,7 @@
 {6916}{}{Fall down!}
 {6917}{}{Isto deve tirar a luta fora de você}
 {6918}{}{}
-{6919}{}{Vamos ver do que você e feito(a)}
+{6919}{}{Vamos ver do que você e feito}
 {6920}{}{Eu estou apenas aquecendo}
 {6921}{}{Aqui vem o trovao}
 #
@@ -5876,10 +5876,10 @@
 #
 {6922}{}{Suas técnicas são fracas}
 {6923}{}{Isso e o melhor que você pode fazer?}
-{6924}{}{Seu/Sua pequeno(a) estupido(a) tolo(a)}
+{6924}{}{Seu/Sua pequeno estúpido tolo}
 {6925}{}{Isso foi patetico}
 {6926}{}{Você me insulta com sua incompetencia}
-{6927}{}{Você não e lutador(a)}
+{6927}{}{Você não é lutador}
 #
 # target hit in head (3)
 #
@@ -5901,11 +5901,11 @@
 #
 # target hit in torso
 #
-{6937}{}{Ai! Eu estou preparado(a) para o seu tipo!}
+{6937}{}{Ai! Eu estou preparado para o seu tipo!}
 {6938}{}{Oof!}
 {6939}{}{Ouch!}
 {6940}{}{Oof! Eu tive piores}
-{6941}{}{Ai! Faca o seu pior, Eu estou pronto(a)!}
+{6941}{}{Ai! Faca o seu pior, Eu estou pronto!}
 {6942}{}{A Irmandade me vingara se eu morrer!}
 {6943}{}{Ouch!}
 {6944}{}{Argh!}
@@ -5927,7 +5927,7 @@
 # target hit in eyes
 #
 {6953}{}{Aggghh!}
-{6954}{}{Eu fui cegado(a)! Eu preciso de ajuda aqui!}
+{6954}{}{Eu fui cegado! Eu preciso de ajuda aqui!}
 {6955}{}{Meus olhos!}
 #
 # target hit in groin
@@ -5954,7 +5954,7 @@
 # moving in to attack
 #
 {7006}{}{Eu estou indo!}
-{7007}{}{Este(a) e meu/minha!}
+{7007}{}{Este e meu!}
 {7008}{}{Isto deve ser rapido}
 {7009}{}{Mais uma vez na discordia}
 {7010}{}{Deixe-nos neutralizar este criador de problemas}
@@ -5964,18 +5964,18 @@
 #
 {7012}{}{Aprecie estes ultimos poucos segundos}
 {7013}{}{Let's flatline you!}
-{7014}{}{Assim e que e feito}
+{7014}{}{Assim e que é feito}
 {7015}{}{Esta acabado!}
 {7016}{}{Incoming fire!}
-{7017}{}{Eu aprecio o exercicio, mas e hora de terminar isto}
+{7017}{}{Eu aprecio o exercicio, mas é hora de terminar isto}
 {7018}{}{}
-{7019}{}{Vamos ver do que você e feito(a)}
+{7019}{}{Vamos ver do que você e feito}
 {7020}{}{Chega de brincar}
 {7021}{}{Eu quase me sinto pesaroso por você}
 #
 # target being missed
 #
-{7022}{}{Você e um(a) tolo(a) fraco(a)!}
+{7022}{}{Você é um tolo fraco!}
 {7023}{}{Isso foi o seu melhor?}
 {7024}{}{Você esta levando esta luta a serio?}
 {7025}{}{Mantenha seus olhos no alvo, seu/sua idiota!}
@@ -6006,12 +6006,12 @@
 {7038}{}{Oof!}
 {7039}{}{Ouch!}
 {7040}{}{Oof! Eu tive piores feitas em mim pela minha mae}
-{7041}{}{Ai! Seu/sua malcriado(a)!}
+{7041}{}{Ai! Seu/sua malcriado!}
 {7042}{}{Oof! A Irmandade me vingara se eu morrer!}
 {7043}{}{I will master my dor as I will master you!}
 {7044}{}{Sim...Dor, minha velha amiga}
 {7045}{}{}
-{7046}{}{É so uma ferida na carne!}
+{7046}{}{É só uma ferida na carne!}
 #
 # target hit in right leg
 #
@@ -6034,11 +6034,11 @@
 # target hit in groin
 #
 {7056}{}{Uuuuuu, minha virilha!}
-{7057}{}{Eu estou realmente comecando a não gostar deste(a) miseravel}
+{7057}{}{Eu estou realmente comecando a não gostar deste miseravel}
 {7058}{}{Eu já me senti melhor}
-{7059}{}{Entao, este miseravel gosta de descer escadas}
+{7059}{}{Então, este miseravel gosta de descer escadas}
 {7060}{}{Time to take this miseravel apart}
-{7061}{}{Nao outro artista de tiro barato}
+{7061}{}{Não outro artista de tiro barato}
 
 # 62. Brotherhood_Elders
 # Insolent pup. Why do you bother us with idle chatter when there are enemies to fight
@@ -6047,9 +6047,9 @@
 #
 {7100}{}{Me cubram!}
 {7101}{}{Do not mistake this por covardia, patife.}
-{7102}{}{Esta não e a minha hora!}
+{7102}{}{Esta não é a minha hora!}
 {7103}{}{Eu darei a você esta luta, patife.}
-{7104}{}{Nao pense que isto esta acabado.}
+{7104}{}{Não pense que isto esta acabado.}
 {7105}{}{}
 #
 # moving in to attack
@@ -6058,19 +6058,19 @@
 {7107}{}{Eu devo fazer tudo eu mesmo?}
 {7108}{}{Isto deve ser rapido}
 {7109}{}{Talvez isto será um desafio}
-{7110}{}{Alguem acabou de cometer um grande erro}
-{7111}{}{Alguem quer nos aborrecer? Quem e este(a) imbecil?}
+{7110}{}{Alguém acabou de cometer um grande erro}
+{7111}{}{Alguém quer nos aborrecer? Quem é este imbecil?}
 #
 # attacking
 #
 {7112}{}{Tudo muito fácil}
 {7113}{}{Pronto, mirar, fogo...}
-{7114}{}{Assim e que e feito}
+{7114}{}{Assim e que é feito}
 {7115}{}{Esta acabado!}
 {7116}{}{Incoming!}
-{7117}{}{Eu aprecio o exercicio, mas e hora de terminar isto}
+{7117}{}{Eu aprecio o exercicio, mas é hora de terminar isto}
 {7118}{}{Hora de acabar com suas ilusoes}
-{7119}{}{Esta e uma dura licao para alguem tao jovem}
+{7119}{}{Esta é uma dura licao para alguém tão jovem}
 {7120}{}{Chega de brincar}
 {7121}{}{Um presente dos Elders, criança.}
 #
@@ -6079,8 +6079,8 @@
 {7122}{}{Eu podia ver isso vindo}
 {7123}{}{Me levou vinte anos para aprender como esquivar assim}
 {7124}{}{Você tem talento, mas seu treinamento e patetico}
-{7125}{}{Nao ha substituto para a experiência}
-{7126}{}{Agora... e minha vez}
+{7125}{}{Não há substituto para a experiência}
+{7126}{}{Agora... é minha vez}
 {7127}{}{Você deveria ter ficado em casa}
 #
 # target hit in head (3)
@@ -6093,13 +6093,13 @@
 #
 {7131}{}{}
 {7132}{}{Hmm, me pegou no antebraco}
-{7133}{}{Meu braço acabou de ficar dormente. Nao foi a primeira vez}
+{7133}{}{Meu braço acabou de ficar dormente. Não foi a primeira vez}
 #
 # target hit in right arm
 #
 {7134}{}{}
 {7135}{}{Hmm, me pegou no antebraco}
-{7136}{}{Meu braço acabou de ficar dormente. Nao foi a primeira vez}
+{7136}{}{Meu braço acabou de ficar dormente. Não foi a primeira vez}
 #
 # target hit in torso
 #
@@ -6129,17 +6129,17 @@
 # target hit in eyes
 #
 {7153}{}{Devo ficar calmo. Eu sei onde mirar}
-{7154}{}{Atingido(a) nos olhos. Isto não e bom.}
+{7154}{}{Atingido nos olhos. Isto não é bom.}
 {7155}{}{Meus olhos!}
 #
 # target hit in groin
 #
 {7156}{}{Uuuuuu, minha virilha!}
 {7157}{}{}
-{7158}{}{Este(a) garoto(a) esta tentando me irritar}
+{7158}{}{Este garoto esta tentando me irritar}
 {7159}{}{}
 {7160}{}{Time to take this fool apart}
-{7161}{}{Nao outro artista de tiro barato}
+{7161}{}{Não outro artista de tiro barato}
 
 # 63. Brotherhood_Rhombus
 #
@@ -6155,32 +6155,32 @@
 # moving in to attack
 #
 {7206}{}{Eu estou indo!}
-{7207}{}{Este(a) e meu/minha!}
+{7207}{}{Este e meu!}
 {7208}{}{Eu vou tomar conta deste patife.}
 {7209}{}{Deixe-me apresentar você a dor}
-{7210}{}{Pequeno(a) bastardo(a) insolente}
+{7210}{}{Pequeno bastardo insolente}
 {7211}{}{Eu estou dentro!}
 #
 # attacking
 #
 {7212}{}{Aprecie estes ultimos poucos segundos}
 {7213}{}{Eu estou cansado de você}
-{7214}{}{Assim e que e feito}
+{7214}{}{Assim e que é feito}
 {7215}{}{Esta acabado!}
 {7216}{}{Assim e que um profissional o faz}
 {7217}{}{Você esta realmente comecando a me perturbar}
 {7218}{}{}
-{7219}{}{Você esta pedindo pra ser slagged, garoto(a)}
+{7219}{}{Você esta pedindo pra ser slagged, garoto}
 {7220}{}{Chega de brincar}
 {7221}{}{Eu quase me sinto pesaroso por você}
 #
 # target being missed
 #
 {7222}{}{Suas técnicas não são nada}
-{7223}{}{Pare de desperdicar meu tempo garoto(a)}
+{7223}{}{Pare de desperdicar meu tempo garoto}
 {7224}{}{Você esta levando esta luta a serio?}
 {7225}{}{Você não esteve fazendo isto por muito tempo, esteve?}
-{7226}{}{Tolo(a) Fraco(a)}
+{7226}{}{Tolo Fraco}
 {7227}{}{Você deveria ter ficado em casa}
 #
 # target hit in head (3)
@@ -6229,17 +6229,17 @@
 # target hit in eyes
 #
 {7253}{}{Aggghh!}
-{7254}{}{Seu/Sua bastardo(a)!}
+{7254}{}{Seu/Sua bastardo!}
 {7255}{}{Meus olhos!}
 #
 # target hit in groin
 #
-{7256}{}{Garato(a), pessoas que fazem jogos comigo acabam mortos!}
+{7256}{}{Garato, pessoas que fazem jogos comigo acabam mortos!}
 {7257}{}{}
 {7258}{}{Eu já me senti melhor}
 {7259}{}{}
 {7260}{}{Time to take this fool apart}
-{7261}{}{Eu esperaria isso de alguem como você}
+{7261}{}{Eu esperaria isso de alguém como você}
 
 # 64. Children, Morpheus
 # You actually expect to kill me?
@@ -6247,18 +6247,18 @@
 #  running away (6)
 #
 {7300}{}{Isto foi comico, mas eu devo ir.}
-{7301}{}{Esta batalha e sem significado. Adeus, tolo(a)!}
+{7301}{}{Esta batalha e sem significado. Tchau, tolo!}
 {7302}{}{Eu não desperdicarei mais tempo com você}
 {7303}{}{Eu tenho coisas melhores pra fazer do que sujar minhas mãos com você!}
 {7304}{}{Eu deixarei os Nightkin lidarem com você}
-{7305}{}{Adeus, tolo(a). Você não sobrevivera para me encontrar de novo}
+{7305}{}{Tchau, tolo. Você não sobrevivera para me encontrar de novo}
 #
 # moving in to attack
 #
-{7306}{}{Foi ha muito tempo desde quando eu apreciei sangue quente nos meus dedos!}
-{7307}{}{Eu verei você morto(a) pelo que você fez!}
+{7306}{}{Foi há muito tempo desde quando eu apreciei sangue quente nos meus dedos!}
+{7307}{}{Eu verei você morto pelo que você fez!}
 {7308}{}{Quando eu tiver terminado, você será comida para os ratos toupeira!}
-{7309}{}{Nao outra interrupcao!}
+{7309}{}{Não outra interrupcao!}
 {7310}{}{Sua insolencia não será tolerada!}
 {7311}{}{Você passou alem do reino do perdao}
 #
@@ -6267,9 +6267,9 @@
 {7312}{}{Tome isto!}
 {7313}{}{Eu unjo você com a chama sagrada!}
 {7314}{}{Assim e como eu lido com animais}
-{7315}{}{Seu(a) pequeno(a) selvagem inominavel!}
+{7315}{}{Seu pequeno selvagem inominavel!}
 {7316}{}{Eu ouvirei você gritar!}
-{7317}{}{Este e so o comeco da sua agonia!}
+{7317}{}{Este e só o comeco da sua agonia!}
 {7318}{}{Eu sou Morpheus, e eu empunho um cajado preto!}
 {7319}{}{Você queimara!}
 {7320}{}{Eu sou Morpheus, mestre da Morte!}
@@ -6279,10 +6279,10 @@
 #
 {7322}{}{Eu estou singularmente não impressionado}
 {7323}{}{Eu não passei dez anos nos Rippers por nada!}
-{7324}{}{Patetico(a)}
+{7324}{}{Patetico}
 {7325}{}{Eu tive lutas melhores com putas}
 {7326}{}{Você sempre foi incompetente ou este e um desenvolvimento recente?}
-{7327}{}{Blasfemador(a), falha, tolo(a). Em breve nos adicionaremos cadaver a sua lista de realizacoes}
+{7327}{}{Blasfemador, falha, tolo. Em breve nos adicionaremos cadaver a sua lista de realizações}
 #
 # target hit in head
 #
@@ -6306,13 +6306,13 @@
 #
 {7337}{}{Maldita seja sua sorte!}
 {7338}{}{Ai! Eu não me renderei!}
-{7339}{}{Você e uma verdadeira dor no traseiro!}
-{7340}{}{Você esta amaldicoando a si mesmo(a) aos olhos do Mestre}
+{7339}{}{Você é uma verdadeira dor no traseiro!}
+{7340}{}{Você esta amaldicoando a si próprio aos olhos do Mestre}
 {7341}{}{Ai!}
 {7342}{}{Ouch!}
 {7343}{}{Oof!}
 {7344}{}{Gasp!}
-{7345}{}{Oh, isso doi!}
+{7345}{}{Ah, isso doi!}
 {7346}{}{My minions causarao a você seria dor por isso!}
 #
 # target hit in right leg
@@ -6330,9 +6330,9 @@
 #
 # target hit in eyes
 #
-{7353}{}{Meus olhos! Seu/Sua suino(a) sujo(a)!}
-{7354}{}{Eu verei você rasgado(a) membro por membro!}
-{7355}{}{Agghh! Pequeno sujo(a) filho(a) da...}
+{7353}{}{Meus olhos! Seu/Sua suino sujo!}
+{7354}{}{Eu verei você rasgado membro por membro!}
+{7355}{}{Agghh! Pequeno sujo filho da...}
 #
 # target hit in groin
 #
@@ -6349,7 +6349,7 @@
 #  running away (6)
 #
 {7400}{}{Crianca, você foi punida o bastante. Pra fora com você}
-{7401}{}{Você não deveria resistir a mim criança. Nos trabalharemos nisso.}
+{7401}{}{Você não deveria resistir a mim criança. Nós trabalharemos nisso.}
 {7402}{}{Eu não desperdicarei mais tempo com você}
 {7403}{}{Eu tenho coisas melhores pra fazer do que sujar minhas mãos com você!}
 {7404}{}{Eu deixarei os Nightkin lidarem com você}
@@ -6366,25 +6366,25 @@
 #
 # attacking
 #
-{7412}{}{Sinta meu acoite e seja limpo(a)!}
+{7412}{}{Sinta meu acoite e seja limpo!}
 {7413}{}{Eu unjo você com a chama sagrada!}
-{7414}{}{Você e uma criatura perversa! Admita!}
+{7414}{}{Você é uma criatura perversa! Admita!}
 {7415}{}{Você merece punicao! Admita!}
-{7416}{}{Grite, criança! Na dor ha redencao!}
+{7416}{}{Grite, criança! Na dor há redencao!}
 {7417}{}{Eu não tomo alegria na dor, criança.}
 {7418}{}{Confesse seu pecado! Confesse seu pecado!}
-{7419}{}{Você e vil e profano(a). Admita!}
-{7420}{}{Sua resistência so adiciona aos seus pecados. Sumeta-se!}
-{7421}{}{Submeta-se a autoridade divina e você será curado(a)!}
+{7419}{}{Você e vil e profano. Admita!}
+{7420}{}{Sua resistência só adiciona aos seus pecados. Sumeta-se!}
+{7421}{}{Submeta-se a autoridade divina e você será curado!}
 #
 # target being missed
 #
-{7422}{}{Suas acoes so refletem uma mente doente e pervertida}
+{7422}{}{Suas ações só refletem uma mente doente e pervertida}
 {7423}{}{Sua resistência me enoja, mas eu devo resistir}
 {7424}{}{Eu temo que você esta alem da minha habilidade de redimir.}
-{7425}{}{Nao ha fim para o seu perfidio, criança?}
+{7425}{}{Não há fim para o seu perfidio, criança?}
 {7426}{}{Embora você me ataque, eu ainda amo você}
-{7427}{}{Blasfemador(a), falha, tolo(a). Arrependa-se!}
+{7427}{}{Blasfemador, falha, tolo. Arrependa-se!}
 #
 # target hit in head
 #
@@ -6406,33 +6406,33 @@
 #
 # target hit in torso
 #
-{7437}{}{Apos a dor, ha perdao, criança.}
+{7437}{}{Apos a dor, há perdao, criança.}
 {7438}{}{Eu entendo a dor.  Você entende?}
 {7439}{}{Eu posso sentir seus golpes, mas a dor não me importa}
 {7440}{}{Faca isso de novo, eu gosto do seu toque}
 {7441}{}{O Mestre me da a vontade para sobreviver}
-{7442}{}{Gasp! Você não e nada alem de um criança}
-{7443}{}{Meu corpo não e nada alem de um casco}
+{7442}{}{Gasp! Você não é nada alem de um criança}
+{7443}{}{Meu corpo não é nada alem de um casco}
 {7444}{}{Você não pode parar a Unidade}
 {7445}{}{Eu sinto sua dor, criança}
-{7446}{}{Nao tente isso de novo!}
+{7446}{}{Não tente isso de novo!}
 #
 # target hit in right leg
 #
-{7447}{}{Apos a dor, ha perdao, criança.}
+{7447}{}{Apos a dor, há perdao, criança.}
 {7448}{}{O Mestre e minhas pernas e bracos, criança.}
 {7449}{}{Cada fraqueza do corpo torna minhas almas mais fortes, criança.}
 #
 #
 # target hit in left leg
 #
-{7450}{}{Apos a dor, ha perdao, criança.}
+{7450}{}{Apos a dor, há perdao, criança.}
 {7451}{}{O Mestre e minhas pernas e bracos, criança.}
 {7452}{}{Cada fraqueza do corpo faz minhas almas mais fortes, criança.}
 #
 # target hit in eyes
 #
-{7453}{}{Apos a dor, ha perdao, criança.}
+{7453}{}{Apos a dor, há perdao, criança.}
 {7454}{}{Nenhum sacrifico e muito grande para o Mestre, criança.}
 {7455}{}{Cada fraqueza do corpo torna minhas almas mais fortes, criança.}
 #
@@ -6442,7 +6442,7 @@
 {7457}{}{A dor e um artefato de uma mente fraca. Eu resistirei}
 {7458}{}{Meu sofrimento me fortalece}
 {7459}{}{Ooof!}
-{7460}{}{Ate mesmo na batalha, você revela uma natureza decadente}
+{7460}{}{Até mesmo na batalha, você revela uma natureza decadente}
 {7461}{}{Seus pecados serao multiplicados em você tenfold, criança!}
 
 # 66. Hub, Jain
@@ -6454,7 +6454,7 @@
 {7501}{}{As marcas das Crianças esta em você agora!}
 {7502}{}{Eu verei você de novo!}
 {7503}{}{Eu verei seu cadaver!}
-{7504}{}{Nos nos encontraremos outra hora}
+{7504}{}{Nós nos encontraremos outra hora}
 {7505}{}{Isto não acabou!}
 #
 # moving in to attack
@@ -6463,31 +6463,31 @@
 {7507}{}{Morte em nome da Chama Sagrada!}
 {7508}{}{Como ousa você interromper nosso grande trabalho!}
 {7509}{}{Você deve aprender maneiras, criança}
-{7510}{}{Crianças, destruam o(a) intruso(a)!}
+{7510}{}{Crianças, destruam o intruso!}
 {7511}{}{Você ganhou grande dor, criança}
 #
 # attacking
 #
 {7512}{}{Esta e sua punicao!}
-{7513}{}{Blasfemador(a)!}
+{7513}{}{Blasfemador!}
 {7514}{}{Sofram as Crianças!}
 {7515}{}{Em nome da Chama Sagrada, Morra!}
-{7516}{}{E agora vem a noite}
-{7517}{}{Conheca o pedaco do tumulo, criança!}
+{7516}{}{É agora vem a noite}
+{7517}{}{Conheca o pedaço do tumulo, criança!}
 {7518}{}{Agora desce o golpe da morte!}
 {7519}{}{Você desecra a Chama Sagrada!}
-{7520}{}{Sofra, tolo(a)!}
+{7520}{}{Sofra, tolo!}
 {7521}{}{So no fim você entende!}
 
 #
 # target being missed
 #
-{7522}{}{Suas acoes so refletem uma mente doente e pervertida}
+{7522}{}{Suas ações só refletem uma mente doente e pervertida}
 {7523}{}{Você não pode me fazer mal, criança.}
 {7524}{}{Eu temo que você esta alem da minha habilidade de redimir}
-{7525}{}{Nao ha fim para sua perfidia, criança?}
+{7525}{}{Não há fim para sua perfidia, criança?}
 {7526}{}{A Chama Sagrada me protege!}
-{7527}{}{Minha forca esta alem da sua compreensao}
+{7527}{}{Minha força esta alem da sua compreensao}
 #
 # target hit in head
 #
@@ -6509,13 +6509,13 @@
 #
 # target hit in torso
 #
-{7537}{}{Pecador(a)!}
+{7537}{}{Pecador!}
 {7538}{}{Ai!}
 {7539}{}{Você esta derramando o sangue de uma mulher santa!}
 {7540}{}{Oof! Você não pode ter sucesso}
 {7541}{}{Ai! Eu punirei você por seus pecados}
-{7542}{}{Ai! Você desgraca a si mesmo}
-{7543}{}{Oh!}
+{7542}{}{Ai! Você desgraca a si próprio}
+{7543}{}{Ah!}
 {7544}{}{Meu Mestre me protege de suas fracas tentativas}
 {7545}{}{Ai!}
 {7546}{}{Oof!}
@@ -6529,7 +6529,7 @@
 #
 # target hit in left leg
 #
-{7550}{}{Apos a dor, ha perdao, criança}
+{7550}{}{Apos a dor, há perdao, criança}
 {7551}{}{Meu sangue e um sacrificio para a piedade}
 {7552}{}{Ai!}
 #
@@ -6537,15 +6537,15 @@
 #
 {7553}{}{Meus olhos!}
 {7554}{}{Aggh! Seu demonio!}
-{7555}{}{Meus olhos estao em chamas!}
+{7555}{}{Meus olhos estão em chamas!}
 #
 # target hit in groin
 #
-{7556}{}{Você e uma abominacao!}
+{7556}{}{Você é uma abominacao!}
 {7557}{}{Você toma prazer em vitorias baratas!}
 {7558}{}{Meu sofrimento me fortalece}
 {7559}{}{Ooof!}
-{7560}{}{Ate mesmo na batalha, você revela uma natureza decadente}
+{7560}{}{Até mesmo na batalha, você revela uma natureza decadente}
 {7561}{}{Seus pecados serao multiplicados em você tenfold, criança!}
 
 # 67. Hub, Underground
@@ -6564,14 +6564,14 @@
 {7606}{}{Você e historia!}
 {7607}{}{Você mexeu com as pessoas erradas!}
 {7608}{}{Eu vou dancar no seu tumulo}
-{7609}{}{Você comprou pra si mesmo(a) um lar a sete palmos abaixo!}
+{7609}{}{Você comprou pra si próprio um lar a sete palmos abaixo!}
 {7610}{}{Quando eu acabar com você, os ratos limparao você!}
 {7611}{}{Sua vida não significa nada pra mim}
 #
 # attacking (10)
 #
 {7612}{}{Hora de alimentar as minhocas!}
-{7613}{}{Você esta pra ficar bem feio(a)}
+{7613}{}{Você esta pra ficar bem feio}
 {7614}{}{}
 {7615}{}{Seu numero aumentou!}
 {7616}{}{Dois segundos mais e você encontrara seu criador}
@@ -6586,9 +6586,9 @@
 {7622}{}{Isso foi um tiro de aviso ou você e apenas suck?}
 {7623}{}{Deixe-me advinhar, você estava pretendendo errar?}
 {7624}{}{}
-{7625}{}{Entao e assim que você erra o alvo! Obrigado por me mostrar.}
+{7625}{}{Então e assim que você erra o alvo! Obrigado por me mostrar.}
 {7626}{}{Eu já fui machucado mais por um bom cuss!}
-{7627}{}{Perdedor(a)}
+{7627}{}{Perdedor}
 #
 # target hit in head (3)
 #
@@ -6625,18 +6625,18 @@
 #
 {7647}{}{Ai, minha perna}
 {7648}{}{Você vai pagar big time por isso!}
-{7649}{}{Oh, meu joelho!}
+{7649}{}{Ah, meu joelho!}
 #
 # target hit in left leg
 #
 {7650}{}{Ai, minha perna}
 {7651}{}{Você vai pagar big time por isso!}
-{7652}{}{Oh, meu joelho}
+{7652}{}{Ah, meu joelho}
 #
 # target hit in eyes
 #
 {7653}{}{Argh! Minha retina!}
-{7654}{}{Meus olhos.... Nao meus olhos...}
+{7654}{}{Meus olhos.... Não meus olhos...}
 {7655}{}{Esse foi um tiro verdadeiramente barato!}
 #
 # target hit in groin
@@ -6663,8 +6663,8 @@
 # moving in to attack
 #
 {7706}{}{Ei você!}
-{7707}{}{Alguem tem grandes problemas}
-{7708}{}{Nos não precisamos do seu tipo por aqui!}
+{7707}{}{Alguém tem grandes problemas}
+{7708}{}{Nós não precisamos do seu tipo por aqui!}
 {7709}{}{Quem você pensa que você e?}
 {7710}{}{}
 {7711}{}{Policia do Hub!}
@@ -6673,7 +6673,7 @@
 #
 {7712}{}{Tome isto!}
 {7713}{}{Agora eu tenho você!}
-{7714}{}{Desca e fique abaixado(a)}
+{7714}{}{Desca e fique abaixado}
 {7715}{}{Você gosta disto?}
 {7716}{}{}
 {7717}{}{Que seja}
@@ -6686,14 +6686,14 @@
 #
 {7722}{}{Você não esperava me tocar, esperava?}
 {7723}{}{Eu sou um profissional treinado}
-{7724}{}{Você não e bom/boa o bastante}
+{7724}{}{Você não é bom/boa o bastante}
 {7725}{}{Esse foi seu ultimo erro}
-{7726}{}{Amador(a)}
+{7726}{}{Amador}
 {7727}{}{Você aprende a lutar em bares?}
 #
 # target hit in head
 #
-{7728}{}{Ai! Seu/Sua filho(a) da...}
+{7728}{}{Ai! Seu/Sua filho da...}
 {7729}{}{Eu vou matar você por isso}
 {7730}{}{Eu arrancarei sua cabeca fora!}
 #
@@ -6717,7 +6717,7 @@
 {7740}{}{Oof!}
 {7741}{}{Basta! Eu já tive o bastante de você!}
 {7742}{}{Gonna put you away por isso}
-{7743}{}{Me acerte ai de novo e nos não teremos que ver um juiz}
+{7743}{}{Me acerte ai de novo e nós não teremos que ver um juiz}
 {7744}{}{Faca isso de novo por seu proprio peril}
 {7745}{}{Oof! Desista!}
 {7746}{}{}
@@ -6738,7 +6738,7 @@
 #
 {7753}{}{Eu não consigo ver!}
 {7754}{}{Meu olho! Você pagara por isso!}
-{7755}{}{Eu estou cego(a)!! Eu preciso de reforco}
+{7755}{}{Eu estou cego!! Eu preciso de reforco}
 #
 # target hit in groin
 #
@@ -6754,8 +6754,8 @@
 #  running away
 {7800}{}{Isto não esta acabado. De forma alguma!}
 {7801}{}{Eu voltarei...}
-{7802}{}{Você esta morto(a). Você me ouviu? Morto(a)!}
-{7803}{}{Eu ainda verei você morto(a)!}
+{7802}{}{Você esta morto. Você me ouviu? Morto!}
+{7803}{}{Eu ainda verei você morto!}
 {7804}{}{Você ainda não ouviu sobre mim pela ultima vez!}
 {7805}{}{Você vai ter o troco, eu prometo!}
 #
@@ -6764,9 +6764,9 @@
 {7806}{}{Esta acabado, miseravel! Você e historia!}
 {7807}{}{Você nunca deveria ter se oposto a mim, miseravel}
 {7808}{}{Você precisa de uma nova atitude, miseravel}
-{7809}{}{Você e um erro que eu tenho que corrigir}
+{7809}{}{Você é um erro que eu tenho que corrigir}
 {7810}{}{Você esta no trem expresso para o Inferno, miseravel}
-{7811}{}{Basta! Alguem vai morrer}
+{7811}{}{Basta! Alguém vai morrer}
 #
 # attacking (10)
 #
@@ -6788,7 +6788,7 @@
 {7824}{}{Eu ainda consigo manejar a mim mesmo em uma luta}
 {7825}{}{Você não consegue ter o trabalho feito}
 {7826}{}{Esse foi seu ultimo tiro!}
-{7827}{}{Perdedor(a)}
+{7827}{}{Perdedor}
 #
 # target hit in head (3)
 #
@@ -6798,13 +6798,13 @@
 #
 # target hit in left arm
 #
-{7831}{}{Seu/Sua sujo(a) beijador(a) de radscorpions...}
+{7831}{}{Seu/Sua sujo beijador de radscorpions...}
 {7832}{}{Você quebrou meu braço!}
 {7833}{}{Meu braço! Meu braço!}
 #
 # target hit in right arm
 #
-{7834}{}{Seu/Sua sujo(a) beijador(a) de radscorpions...}
+{7834}{}{Seu/Sua sujo beijador de radscorpions...}
 {7835}{}{Você quebrou meu braço!}
 {7836}{}{Meu braço! Meu braço!}
 #
@@ -6815,7 +6815,7 @@
 {7839}{}{Ai! O que pensa que eu sou? Um saco de pancada?}
 {7840}{}{Oof!}
 {7841}{}{Ai!}
-{7842}{}{Nao mexa comigo assim, I won't take it}
+{7842}{}{Não mexa comigo assim, I won't take it}
 {7843}{}{Oof! Você teve sua chance de negociar, and you blew it!}
 {7844}{}{Ai! Isso foi muito desagradavel}
 {7845}{}{Oof! Eu vou me lembrar disso...}
@@ -6825,18 +6825,18 @@
 #
 {7847}{}{Ai, minha perna}
 {7848}{}{Uuu.... Seu/Sua miseravel!}
-{7849}{}{Oh, meu joelho!}
+{7849}{}{Ah, meu joelho!}
 #
 # target hit in left leg
 #
 {7850}{}{Ai, minha perna}
 {7851}{}{Uuu.... Seu/Sua miseravel!}
-{7852}{}{Oh, meu joelho}
+{7852}{}{Ah, meu joelho}
 #
 # target hit in eyes
 #
 {7853}{}{Sangue. Todo este sangue...}
-{7854}{}{Meus olhos.... Nao meus olhos...}
+{7854}{}{Meus olhos.... Não meus olhos...}
 {7855}{}{Esse foi um tiro verdadeiramente barato!}
 #
 # target hit in groin
@@ -6844,7 +6844,7 @@
 {7856}{}{Uuuuuu, minha virilha!}
 {7857}{}{Uuu! Nada mal, miseravel}
 {7858}{}{Uuu! Você esta escavando seu tumulo, miseravel}
-{7859}{}{Uuu! Eu vou enterrar você vivo(a) no Glow!}
+{7859}{}{Uuu! Eu vou enterrar você vivo no Glow!}
 {7860}{}{Urp!}
 {7861}{}{Ai! Eu vou matar você por isso!}
 
@@ -6854,8 +6854,8 @@
 #  running away
 {7900}{}{Isto não esta acabado. De forma alguma!}
 {7901}{}{Eu voltarei...}
-{7902}{}{Você esta morto(a). Você me ouviu? Morto(a)!}
-{7903}{}{Eu ainda verei você morto(a)!}
+{7902}{}{Você esta morto. Você me ouviu? Morto!}
+{7903}{}{Eu ainda verei você morto!}
 {7904}{}{Você ainda não ouviu sobre mim pela ultima vez!}
 {7905}{}{Você vai ter o troco, eu prometo!}
 #
@@ -6866,13 +6866,13 @@
 {7908}{}{Eu vou mudar sua atitude}
 {7909}{}{Sr. Decker não gosta de você}
 {7910}{}{Você esta no trem expresso para o Inferno}
-{7911}{}{Basta! Alguem vai morrer}
+{7911}{}{Basta! Alguém vai morrer}
 #
 # attacking (10)
 #
 {7912}{}{Tome isto!}
 {7913}{}{Decker pensa que você precisa aprender respeito}
-{7914}{}{Esta e uma mensagem do Decker}
+{7914}{}{Esta é uma mensagem do Decker}
 {7915}{}{Isto vai doer!}
 {7916}{}{Você mexeu com o homem errado}
 {7917}{}{Decker diz ola.}
@@ -6910,11 +6910,11 @@
 #
 # target hit in torso
 #
-{7937}{}{Oof! Nenhum(a) miseravel como você vai me derrubar...}
+{7937}{}{Oof! Nenhum miseravel como você vai me derrubar...}
 {7938}{}{Oof! Minhas costelas!}
 {7939}{}{Ai! Whatta some kinda smuzzle or something?}
-{7940}{}{Ha! Eu tive hematomas maiores quand malhava!}
-{7941}{}{Oof! Voces miseraveis são todos parecidos...}
+{7940}{}{Há! Eu tive hematomas maiores quand malhava!}
+{7941}{}{Oof! Vocês miseraveis são todos parecidos...}
 {7942}{}{Gulp! Tenho... que... respirar...}
 {7943}{}{Ouch!}
 {7944}{}{Ai! Piss off you brat!}
@@ -6925,13 +6925,13 @@
 #
 {7947}{}{Ai, minha perna}
 {7948}{}{Uuuu....}
-{7949}{}{Oh, meu joelho!}
+{7949}{}{Ah, meu joelho!}
 #
 # target hit in left leg
 #
 {7950}{}{Ai, minha perna}
 {7951}{}{Uuuu....}
-{7952}{}{Oh, meu joelho}
+{7952}{}{Ah, meu joelho}
 #
 # target hit in eyes
 #
@@ -6944,7 +6944,7 @@
 {7956}{}{Uuuuuu, minha virilha!}
 {7957}{}{Uuu! Eu vou retornar o favor}
 {7958}{}{Uuu! Você esta escavando seu tumulo}
-{7959}{}{Uuu! Eu aposto que você pensa que e engracado}
+{7959}{}{Uuu! Eu aposto que você pensa que é engracado}
 {7960}{}{Urp!}
 {7961}{}{Ai! Eu não acho que eu gosto de você}
 
@@ -6955,7 +6955,7 @@
 #
 {8000}{}{Meu papai vai matar você! Espere até que ele chegue aqui!}
 {8001}{}{Mamae!!!}
-{8002}{}{Alguem me ajude!}
+{8002}{}{Alguém me ajude!}
 {8003}{}{Socorro!}
 {8004}{}{Aaaaahhhh!}
 {8005}{}{Waaaaahhhh!!}
@@ -6965,8 +6965,8 @@
 {8006}{}{Ei você!}
 {8007}{}{Eu odeio você! Eu odeio você!}
 {8008}{}{}
-{8009}{}{Você e um(a) mutante deformado(a)!}
-{8010}{}{Alguem precisa rasgar você!}
+{8009}{}{Você é um mutante deformado!}
+{8010}{}{Alguém precisa rasgar você!}
 {8011}{}{Eu vou matar você!}
 #
 # attacking
@@ -6988,7 +6988,7 @@
 {8023}{}{Você não pode me tocar, cerebro de radscorpion!}
 {8024}{}{Você não consegue nem mesmo derrotar uma criança}
 {8025}{}{Perdedor!}
-{8026}{}{Nao me acertou, cerebro de radiação!}
+{8026}{}{Não me acertou, cerebro de radiação!}
 {8027}{}{Qual e o problema, Bebe do Glow?}
 #
 # target hit in head
@@ -7043,7 +7043,7 @@
 # target hit in groin
 #
 {8056}{}{Uuuuuu, minha virilha!}
-{8057}{}{Ai! Seu/Sua Bebe do Glow sujo(a) fedido(a)!}
+{8057}{}{Ai! Seu/Sua Bebe do Glow sujo fedido!}
 {8058}{}{Urp!}
 {8059}{}{Eu...não...consigo...respirar...}
 {8060}{}{Uuuuu...}
@@ -7066,7 +7066,7 @@
 {8106}{}{Alvo alcancado!}
 {8107}{}{Eliminar! Eliminar!}
 {8108}{}{O(A) humanoide não deve escapar}
-{8109}{}{Eliminar o(a) intruso(a)}
+{8109}{}{Eliminar o intruso}
 {8110}{}{Sequencia de combate iniciada}
 {8111}{}{Fazendo upload do programa de combate}
 #
@@ -7075,8 +7075,8 @@
 {8112}{}{Sequencia de combate iniciada}
 {8113}{}{Atacando alvo}
 {8114}{}{Iniciando sequencia de ataque}
-{8115}{}{O(A) intruso(a) deve ser destruido(a)}
-{8116}{}{Selecao de opcoes taticas completada}
+{8115}{}{O(A) intruso deve ser destruido}
+{8116}{}{Selecao de opções taticas completada}
 {8117}{}{Comecando ataque}
 {8118}{}{O alvo deve ser destruido}
 {8119}{}{Sequencia de eliminacao do inimigo iniciada}
@@ -7154,17 +7154,17 @@
 #
 {8200}{}{Eu não vou morrer por isto!}
 {8201}{}{O trabalho não vale isto!}
-{8202}{}{Alguem mais pegue eles!}
+{8202}{}{Alguém mais pegue eles!}
 {8203}{}{La se vai minha reputação...}
 {8204}{}{Yikes!}
 {8205}{}{Eu não vou lutar contra isso!}
 #
 # moving in to attack
 #
-{8206}{}{Nao outro cabeca de osso!}
+{8206}{}{Não outro cabeca de osso!}
 {8207}{}{Você acabou de cruzar a linha!}
 {8208}{}{Você não vai embora com isso aqui!}
-{8209}{}{Nao no meu turno!}
+{8209}{}{Não no meu turno!}
 {8210}{}{Ninguem faz isso no meu lugar!}
 {8211}{}{Ei você!}
 #
@@ -7175,7 +7175,7 @@
 {8214}{}{Isto ensinara você a não causar problemas}
 {8215}{}{Seu numero aumentou!}
 {8216}{}{Você vai perder}
-{8217}{}{Vamos ver quao forte você e.}
+{8217}{}{Vamos ver quao forte você é.}
 {8218}{}{Miseravel}
 {8219}{}{Você lamenta agora?}
 {8220}{}{Você esperava sair bem com isto?}
@@ -7184,11 +7184,11 @@
 # target being missed
 #
 {8222}{}{Você esta dando tiros de aviso ou você e apenas ruim!}
-{8223}{}{Você não e apenas um(a) miseravel, você e um(a) miseravel incompetente!}
+{8223}{}{Você não é apenas um miseravel, você e um miseravel incompetente!}
 {8224}{}{Cara, você e ruim!}
 {8225}{}{Isso e o melhor que você pode fazer?}
 {8226}{}{Você não esperava to tag me, esperava?}
-{8227}{}{Você sempre foi uma falha ou isto e uma coisa recente?}
+{8227}{}{Você sempre foi uma falha ou isto é uma coisa recente?}
 #
 # target hit in head
 #
@@ -7213,23 +7213,23 @@
 {8237}{}{Ai!}
 {8238}{}{Isso foi um erro}
 {8239}{}{Oof!}
-{8240}{}{Ai! Ok, isso basta!}
-{8241}{}{Ai! Agora eu estou furioso(a)}
+{8240}{}{Ai! Certo, isso basta!}
+{8241}{}{Ai! Agora eu estou furioso}
 {8242}{}{Oof!}
 {8243}{}{Argh!}
 {8244}{}{Ouch!}
-{8245}{}{Ai! Eu vou pegar esta espingarda e enfia-la...}
+{8245}{}{Ai! Eu vou pegar esta espingarda e enfia-lá...}
 {8246}{}{Gulp!}
 #
 # target hit in right leg
 #
-{8247}{}{Outra perna destruida não! Oh bem...}
+{8247}{}{Outra perna destruida não! Ah bem...}
 {8248}{}{Você pode me incapacitar mas eu ainda chutarei sua bunda}
 {8249}{}{Isso foi um erro}
 #
 # target hit in left leg
 #
-{8250}{}{Outra perna destruida não! Oh bem...}
+{8250}{}{Outra perna destruida não! Ah bem...}
 {8251}{}{Você pode me incapacitar mas eu ainda chutarei sua bunda}
 {8252}{}{Isso foi um erro}
 #
@@ -7278,7 +7278,7 @@
 #
 # moving in to attack
 #
-{8403}{}{Isto vai machucar muito você e a mim nada, de modo algum.}
+{8403}{}{Isto vai machucar muito você é a mim nada, de modo algum.}
 {8404}{}{Eu vou chutar seu traseiro.}
 {8405}{}{Eu tentarei e farei isto rapido.}
 #
@@ -7290,12 +7290,12 @@
 #
 # target being missed
 #
-{8409}{}{Seu/Sua perdedor(a)!}
+{8409}{}{Seu/Sua perdedor!}
 {8410}{}{Tente com mais vontade!}
 #
 # target hit in head
 #
-{8411}{}{Maldito(a) seja, Seu/Sua pecador(a)!}
+{8411}{}{Maldito seja, Seu/Sua pecador!}
 {8412}{}{Você quebrou meu nariz!}
 #
 # target hit in left arm
@@ -7354,25 +7354,25 @@
 #
 # target being missed
 #
-{8506}{}{Nao exatamente.}
+{8506}{}{Não exatamente.}
 {8507}{}{Perto, mas isso não foi um nuke.}
 #
 # target hit in head
 #
 {8508}{}{Ai. Bom tiro.}
 {8509}{}{Ugh.}
-{8510}{}{Perdi outro pedaco da minha orelha . . .}
-{8511}{}{Maldito(a) seja, la se vai outro dente . . .}
+{8510}{}{Perdi outro pedaço da minha orelha . . .}
+{8511}{}{Maldito seja, lá se vai outro dente . . .}
 #
 # target hit in left arm
 #
 {8512}{}{Ugh.}
-{8513}{}{Nao precisava daquele braço mesmo.}
+{8513}{}{Não precisava daquele braço mesmo.}
 #
 # target hit in right arm
 #
 {8514}{}{Ai.}
-{8515}{}{Maldicao, essa e a minha mao que atira.}
+{8515}{}{Maldicao, essa é a minha mao que atira.}
 #
 # target hit in torso
 #
@@ -7393,12 +7393,12 @@
 # target hit in eyes
 #
 {8523}{}{Agora, isso e lutar sujo.}
-{8524}{}{Se eu ficar cego(a), eu vou machucar você antes de eu matar você.}
+{8524}{}{Se eu ficar cego, eu vou machucar você antes de eu matar você.}
 #
 # target hit in groin
 #
 {8525}{}{Ugh! Pare!}
-{8526}{}{Oh, minhas bolas . . .}
+{8526}{}{Ah, minhas bolas . . .}
 {8527}{}{Agora ISSO doi.}
 
 # 77. Vault Dwellers
@@ -7409,31 +7409,31 @@
 {8600}{}{Tenho que fugir}
 {8601}{}{Eu estou fora desta luta}
 {8602}{}{O que aconteceu com você}
-{8603}{}{Alguem me ajude!}
+{8603}{}{Alguém me ajude!}
 {8604}{}{Isto e bem longe do meu league!}
 {8605}{}{Meu deus, não!}
 #
 # moving in to attack
 #
-{8606}{}{Traidor(a)!}
+{8606}{}{Traidor!}
 {8607}{}{Eu não posso acreditar que você fez isso!}
 {8608}{}{A superficie deve deixar as pessoas insanas!}
-{8609}{}{Você ficou insano(a)!}
+{8609}{}{Você ficou insano!}
 {8610}{}{Defendam a Vault!}
-{8611}{}{Eu pensei que você era meu/minha amigo(a)!}
+{8611}{}{Eu pensei que você era meu amigo!}
 #
 # attacking
 #
 {8612}{}{Você nunca deveria ter voltado}
-{8613}{}{E pensar que nos costumavamos ser amigos!}
+{8613}{}{É pensar que nos costumavamos ser amigos!}
 {8614}{}{Eu gostaria que você nunca tivesse ido a superficie}
-{8615}{}{Ola, velho(a) amigo(a)}
+{8615}{}{Ola, velho amigo}
 {8616}{}{Eu estou pondo você pra fora de sua miseria}
 {8617}{}{Eu estou pondo você pra fora da minha miseria}
 {8618}{}{Isto não me da prazer}
-{8619}{}{Seu/Sua pequeno(a) rato(a) de caverna raivoso(a)!}
+{8619}{}{Seu/Sua pequeno rato de caverna raivoso!}
 {8620}{}{Eu tenho que por você pra fora}
-{8621}{}{Você e apenas um(a) bully e um(a) sneak}
+{8621}{}{Você e apenas um bully e um sneak}
 #
 # target being missed
 #
@@ -7446,7 +7446,7 @@
 #
 # target hit in head
 #
-{8628}{}{Oh, meu cranio dolorido!}
+{8628}{}{Ah, meu cranio dolorido!}
 {8629}{}{Uh}
 {8630}{}{Uuu}
 #
@@ -7465,9 +7465,9 @@
 # target hit in torso
 #
 {8637}{}{Ai!}
-{8638}{}{Oof! E nos costumavamos ser amigos...}
+{8638}{}{Oof! É nos costumavamos ser amigos...}
 {8639}{}{Oof!}
-{8640}{}{Ai! Ok, isso basta!}
+{8640}{}{Ai! Certo, isso basta!}
 {8641}{}{Ai! Agora eu estou furioso}
 {8642}{}{Oof!}
 {8643}{}{Argh!}
@@ -7490,7 +7490,7 @@
 # target hit in eyes
 #
 {8653}{}{Aggghhh!}
-{8654}{}{Seu/Sua pequeno(a) bastardo(a)!}
+{8654}{}{Seu/Sua pequeno bastardo!}
 {8655}{}{Meus olhos!}
 #
 # target hit in groin
@@ -7499,18 +7499,18 @@
 {8657}{}{Você nunca muda, não e?}
 {8658}{}{Eu já me senti melhor...}
 {8659}{}{Uuu, minha virilha!}
-{8660}{}{Você sempre foi o(a) lutador(a) mais sujo(a) na Vault}
-{8661}{}{Seu/Sua pequeno(a) rato(a) de caverna sujo(a)!}
+{8660}{}{Você sempre foi o lutador mais sujo na Vault}
+{8661}{}{Seu/Sua pequeno rato de caverna sujo!}
 
 # 78. Garl during Honor Fight
 # I'm fighting you over Tandi.  I shall triumph, unless you win!
 #
 #  running away
 #
-{8700}{}{Ok, você pode te-la!}
+{8700}{}{Certo, você pode te-lá!}
 {8701}{}{A puta e sua!}
 {8702}{}{A Tandi e sua. Me deixe em paz!}
-{8703}{}{Ok, você pode te-la!}
+{8703}{}{Certo, você pode te-lá!}
 {8704}{}{A Tandi e sua. Me deixe em paz!}
 {8705}{}{A puta e sua!}
 #
@@ -7519,7 +7519,7 @@
 {8706}{}{Deixe a luta de honra comecar!}
 {8707}{}{}
 {8708}{}{}
-{8709}{}{Este(a) e meu/minha!}
+{8709}{}{Este e meu!}
 {8710}{}{Khans, ataquem!}
 {8711}{}{}
 #
@@ -7543,7 +7543,7 @@
 {8724}{}{}
 {8725}{}{Minha honra e mais forte do que a sua!}
 {8726}{}{}
-{8727}{}{Você não e de valor de combate comigo!}
+{8727}{}{Você não é de valor de combate comigo!}
 #
 # target hit in head (3)
 #

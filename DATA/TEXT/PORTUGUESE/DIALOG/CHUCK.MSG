@@ -1,62 +1,62 @@
-{100}{}{Você ve um homem de pele escura adornado com scarves brilhantes e trinkets.}
-{101}{}{Você ve Chuck, o vidente cigano.}
+{100}{}{Você vê um homem de pele escura adornado com scarves brilhantes e trinkets.}
+{101}{}{Você vê Chuck, o vidente cigano.}
 {102}{}{Oi, estranho. Eu posso ajuda-lo?}
 {103}{}{Uugh!}
 {104}{}{Eu estou apenas olhando, obrigado.}
 {105}{}{Eu estou conhecendo as pessoas de Adytum.}
 {106}{}{Por que você assume que eu preciso de algo?}
-{107}{}{Hmm. Nao se preocupe, meu/minha simples amigo, você tem grandes coisas adiante.}
-{108}{}{E o que você acha de nossa cidade?}
-{109}{}{E ok.}
-{110}{}{Nao gosto muito. Nao muito amistosa.}
+{107}{}{Hmm. Não se preocupe, meu simples amigo, você tem grandes coisas adiante.}
+{108}{}{É o que você acha de nossa cidade?}
+{109}{}{É ok.}
+{110}{}{Não gosto muito. Não muito amistosa.}
 {111}{}{Você foi notavelmente bem, considerando as circunstancias hostis.}
 {112}{}{Eu sou chamado de Chuck. Bem-vindo a Adytum. Eu estou com medo de que a maioria das pessoas aqui não são muito forthcoming com estranhos.}
 {113}{}{Sim, eu notei.}
-{114}{}{Entao, qual e o seu trabalho, Chuck?}
+{114}{}{Então, qual é o seu trabalho, Chuck?}
 {115}{}{Vejo você por ai, Chuck.}
 {116}{}{Boas jornadas, viajante.}
-{117}{}{Nos todos precisamos de algo, não precisamos? E você não teria falado comigo se você não quisesse algo, seja informacao, conversacão ou talvez orientacao. Eu posso dizer que você passou por muito. Do que você precisa?}
+{117}{}{Nós todos precisamos de algo, não precisamos? É você não teria falado comigo se você não quisesse algo, seja informação, conversacão ou talvez orientacao. Eu posso dizer que você passou por muito. Do que você precisa?}
 {118}{}{Uh, eu não preciso de nada, obrigado.}
 {119}{}{Agora que você menciona, talvez você possa me dar um pouco de conselho.}
 {120}{}{[Chuck puxa um conjunto de cartas de taro.] Deixe-me consultar as cartas. [Chuck shuffles as cartas.]}
-{121}{}{[Chuck puxa uma carta com um retrato de um homem em um jaleco de laboratorio com um computador em uma mao e uma carta com um homem com power armor.] O Heirophant e o Principe dos Cajados no sul . . . grande sabedoria e nobreza esperam em um lugar ao sul.}
-{122}{}{[Chuck puxa uma carta com um retrato de um homem com uma vibro-blade e uma bandeira.] O Principe das Espadas no norte . . . você deve enfrentar um poderoso inimigo longe ao norte.}
-{123}{}{[Chuck puxa uma carta com um retrato de uma torre de radio e uma carta com um retrato de um homem em um terno com um cetro.] A Torre e o Imperador . . . grande mudanca espera pelas mãos de um poderoso lider. Se essa mudanca e a morte, eu não consigo dizer.}
+{121}{}{[Chuck puxa uma carta com um retrato de um homem em um jaleco de laboratorio com um computador em uma mao é uma carta com um homem com power armor.] O Heirophant e o Principe dos Cajados no sul . . . grande sabedoria e nobreza esperam em um lugar ao sul.}
+{122}{}{[Chuck puxa uma carta com um retrato de um homem com uma vibro-blade é uma bandeira.] O Principe das Espadas no norte . . . você deve enfrentar um poderoso inimigo longe ao norte.}
+{123}{}{[Chuck puxa uma carta com um retrato de uma torre de radio é uma carta com um retrato de um homem em um terno com um cetro.] A Torre e o Imperador . . . grande mudanca espera pelas mãos de um poderoso lider. Se essa mudanca é a morte, eu não consigo dizer.}
 {124}{}{[Chuck puxa uma carta com um retrato de um homem dancando em um ogiva nuclear.] O Tolo. Eu não posso ajudar você; você deve fazer seu proprio caminho no mundo.}
 {125}{}{[Mais]}
 {126}{}{Hmm. Obrigado pelo conselho.}
 {127}{}{Você realmente acredita nesta coisa?!}
-{128}{}{Funciona pra mim. Se você não quer acreditar entao não funciona pra você.}
+{128}{}{Funciona pra mim. Se você não quer acreditar então não funciona pra você.}
 {129}{}{Sem ofensa, mas soa como um monte de supersticao.}
 {130}{}{Bem, eu creio que nos todos temos nossas crencas.}
-{131}{}{Se e assim como você se sente, entao eu suponho que nos não temos nada mais a discutir.}
-{132}{}{De fato, nos temos. E seu universo e moldado pelas suas crencas, enquanto meu universo e moldado pelos meus pensamentos. Nos não podemos compartilhar crencas, mas eu desejo a você o bem em seu universo.}
-{133}{}{E o lar.}
+{131}{}{Se e assim como você se sente, então eu suponho que nós não temos nada mais a discutir.}
+{132}{}{De fato, nos temos. É seu universo e moldado pelas suas crencas, enquanto meu universo e moldado pelos meus pensamentos. Nós não podemos compartilhar crencas, mas eu desejo a você o bem em seu universo.}
+{133}{}{É o lar.}
 {134}{}{Uh, sim. Vejo você por ai.}
 {135}{}{As coisas parecem um pouco quietas por aqui.}
 {136}{}{Eu sei o que você quer dizer. Eu vi muito sofrimento.}
 {137}{}{Os Reguladores make sure of that. O povo de Adytum as vezes
  sofre por causa das regras estritas deles.}
 {138}{}{Eu creio que sim. Bem, vejo você por ai.}
-{139}{}{E você esta ok com isto?}
+{139}{}{É você esta ok com isto?}
 {140}{}{Ja que eu desejo permanecer aqui, eu aceito os Reguladores como parte disso
- que e Adytum. Contudo, eu faco o que eu posso para iluminar as vidas deles.}
+ que é Adytum. Contudo, eu faco o que eu posso para iluminar as vidas deles.}
 {141}{}{Você não parece concordar com o que eles fazem.}
-{142}{}{Ha algo mais que você poderia dizer?}
+{142}{}{Há algo mais que você poderia dizer?}
 {143}{}{Os Reguladores protegem seus proprios interesses, e eu devo respeitar isso.}
 {144}{}{Sim, que seja.}
-{145}{}{Eu não necessariamente concordo com essa visao, mas consigo entende-la.}
+{145}{}{Eu não necessariamente concordo com essa visao, mas consigo entende-lá.}
 {146}{}{Foi uma boa conversa. Vejo você por ai.}
-{147}{}{Bem, eu sou so uma pessoa, mas ajudo no que eu posso. Eu aconselho você
+{147}{}{Bem, eu sou só uma pessoa, mas ajudo no que eu posso. Eu aconselho você
  a lutar pelo que você acredita, mas acima de tudo, escolher as lutas que vale
- a pena lutar, e achar as horas quando o compromisso e a esperanca vencerao
+ a pena lutar, e achar as horas quando o compromisso é a esperança vencerao
  vitorias maiores.}
 {148}{}{Você tem qualquer outro conselho?}
 {149}{}{O povo de Adytum tem muito a fazer em um dia normal. Eles
  não querem seu trabalho ser achado wanting no fim do dia.}
 {150}{}{Sim, bem, que seja.}
 {151}{}{As coisas parecem um pouco quietas por aqui.}
-{152}{}{Obrigado a você. Foi dificil. Nos perdemos pessoas para os Deathclaws as vezes
+{152}{}{Obrigado a você. Foi difícil. Nós perdemos pessoas para os Deathclaws as vezes
  e os invernos podem ser rigidos, especialmente quando os comerciantes do Hub não vem.
  Mas nos estamos sobrevivendo.}
 {153}{}{Boa sorte.}
@@ -68,19 +68,19 @@
 {158}{}{Talvez. Eu acho que Adytum estara aqui. Ao inves de ir para o mundo,
  o mundo deve vir a nos, como você fez.}
 {159}{}{Hmm. Eu creio que sim.}
-{160}{}{Eu sou um fazendeiro. Eu tambem gosto de fazer um pouco de trabalho nas construcoes,
+{160}{}{Eu sou um fazendeiro. Eu tambem gosto de fazer um pouco de trabalho nas construções,
  restaurando elas e mantendo elas intactas e as vezes eu dou conselho.}
 {161}{}{Que tipo de conselho?}
-{162}{}{Sim, infelizmente. Eu acho . . . que e um tipo de crucible, que sobrevivendo a
- estes tempos dificeis, nos viemos a confiar um no outro e a aprender as técnicas que nos
+{162}{}{Sim, infelizmente. Eu acho . . . que é um tipo de crucible, que sobrevivendo a
+ estes tempos difíceis, nos viemos a confiar um no outro é a aprender as técnicas que nos
  precisamos para sobreviver. Eu acho, eventualmente, que a humanidade será melhor por isso.}
 {163}{}{Eu não concordo. Eu cruzei com muitas gangues e saqueadores nas minhas viagens. Eles se
  tornaram assassinos petty e ladroes. Eu acho que nos todos nos arriscamos com isso eventualmente.}
 {164}{}{Talvez você esteja certo. Certamente aqueles que sobrevivem serao mais fortes.}
-{165}{}{Eles eventualmente destruirao a si mesmos. E as pessoas que restarao
+{165}{}{Eles eventualmente destruirao a si mesmos. É as pessoas que restarao
  serao aquelas que trabalham juntas pra sobreviver, como nos.}
 {166}{}{Eu estou feliz que alguns dos forasteiros, como você, se sentem desse modo.
- Nos precisamos achar modos de trabalhar juntos para construir algo novo. Nao
+ Nós precisamos achar modos de trabalhar juntos para construir algo novo. Não
  comecara aqui; nos somos muito regulados, mas tem de comecar em algum lugar.}
 {167}{}{Ola. O que eu posso fazer por você?}
 {168}{}{Eu posso ajudar você?}
@@ -88,4 +88,4 @@
 {170}{}{Apenas parando para dizer ola.}
 {171}{}{Eu estou procurando por um pouco de conselho.}
 {172}{}{Eu posso perguntar o que você faz por aqui?}
-{173}{}{Ola entao. Eu espero que você esteja indo bem.}
+{173}{}{Ola então. Eu espero que você esteja indo bem.}

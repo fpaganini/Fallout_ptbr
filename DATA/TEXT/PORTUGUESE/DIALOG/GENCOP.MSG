@@ -1,64 +1,64 @@
-{100}{}{Você ve um oficial de policia do Hub.}
+{100}{}{Você vê um oficial de policia do Hub.}
 {101}{}{Eu desejo que eu estivesse posicionado perto da minha casa.}
 {102}{}{Eu imagino o que aconteceu a essas caravanas.}
 {103}{}{Andando.}
 {104}{}{Melhor você manter suas armas no coldre, estranho.}
 {105}{}{Mantenha seu nariz limpo.}
 {106}{}{Você tem quaisquer comodidades a declarar?}
-{107}{}{Nao fique waving sua arma na minha face.}
+{107}{}{Não fique waving sua arma na minha face.}
 {108}{}{Guarde isso a menos que você queira passar algum tempo na cadeia.}
 {109}{}{Você esta mirando isso em mim?}
 {110}{}{Eu ouvi sobre você. Cuidado.}
-{111}{}{Nos manteremos um olho em você.}
+{111}{}{Nós manteremos um olho em você.}
 {112}{}{Sem brigas na nossa cidade, valentao.}
-{113}{}{Nos não gostamos de assassinos de bebes!}
-{114}{}{Ponha uma mao numa criança e nos cacaremos você.}
+{113}{}{Nós não gostamos de assassinos de bebes!}
+{114}{}{Ponha uma mao numa criança e nós cacaremos você.}
 {115}{}{Eu odeio pessoas como você.}
-{116}{}{Nao chame por ajuda se você esta com problemas.}
+{116}{}{Não chame por ajuda se você esta com problemas.}
 {117}{}{Ei, obrigado por fazer nosso trabalho pra nos.}
-{118}{}{Nos não permitimos matanca aqui, mesmo se e justificada.}
+{118}{}{Nós não permitimos matanca aqui, mesmo se e justificada.}
 {119}{}{Se você e aquele que matou a deathclaw . . . obrigado.}
 {120}{}{Mantenha-se longe de problemas enquanto você estiver na nossa cidade.}
 {121}{}{Eu ficaria longe do Decker se eu fosse você.}
 {122}{}{Aprecie sua estada.}
 {123}{}{Bem-vindo ao Hub!}
-{124}{}{Saudacoes, estranho.}
+{124}{}{Saudações, estranho.}
 {125}{}{Visite o Maltese Falcon para bebidas refrescantes.}
 {126}{}{Siga a estrada principal se você esta procurando pelo mercado.}
 {127}{}{Continue andando.}
 {128}{}{Andando. Andando.}
-{129}{}{Nos estamos aqui para Prevenir e Survey.}
+{129}{}{Nós estamos aqui para Prevenir e Survey.}
 {130}{}{Mantenha essa arma sob controle enquanto você estiver na nossa cidade.}
-{131}{}{Nao entre você em quaisquer brigas com isso.}
+{131}{}{Não entre você em quaisquer brigas com isso.}
 {132}{}{Eu recomendo guardar a sua arma.}
-{133}{}{Você deveria guardar isso . . . sua arma, isso e.}
+{133}{}{Você deveria guardar isso . . . sua arma, isso é.}
 {134}{}{Bem-vindo Paladino, já tem algum tempo.}
 {135}{}{Você e aquele rowdy one. Sem mais brigas ok?}
 {136}{}{Melhor você não comecar outra briga!}
-{137}{}{E você . . . mantenha esse temperamento seu sob controle.}
+{137}{}{É você . . . mantenha esse temperamento seu sob controle.}
 {138}{}{Os Far Go Traders foram eliminados. Eu não consigo acreditar.}
 {139}{}{Os Mercadores das Aguas se foram. Que alivio.}
 {140}{}{A Crimson Caravan foi destruida.}
 {141}{}{Você ouviu? O Submundo foi finalmente eliminado!}
 {142}{}{O Decker esta morto!}
 {143}{}{O problema Decker foi finalmente resolvido.}
-{144}{}{Cuidado com suas costas -- este não e um lugar seguro.}
+{144}{}{Cuidado com suas costas -- este não é um lugar seguro.}
 {145}{}{Cuidado com seus scripts, cara.}
 {146}{}{Cuidado com seus scripts, dama.}
 {147}{}{O velho Harold e bom para contar estorias.}
-{148}{}{Você não deveria estar aqui, não e seguro.}
+{148}{}{Você não deveria estar aqui, não é seguro.}
 {149}{}{A Cidade Antiga esta realmente caindo aos pedacos.}
 {150}{}{Este lugar fede.}
-{151}{}{Nos deveriamos tear esta area inteira abaixo.}
+{151}{}{Nós deveriamos tear esta area inteira abaixo.}
 {152}{}{Eu sei que o maldito grupo dos ladroes esta por aqui em algum lugar.}
-{153}{}{Pobre Harold -- ele teve uma vida dificil.}
+{153}{}{Pobre Harold -- ele teve uma vida difícil.}
 {154}{}{Mantenha-se longe de problemas.}
 {155}{}{Ei. Eu conheco você. Sem mais brigas, okay?}
 {156}{}{Melhor você não estar pensando em comecar outra briga!}
 {157}{}{Se nos pegarmos você brigando de novo, você vai entrar!}
 {158}{}{Você ouviu? Os Far Go Traders foram eliminados.}
-{159}{}{Os Mercadores da Agua são historia. Isso e uma bencao.}
-{160}{}{Alguem matou a Crimson Caravan.}
+{159}{}{Os Mercadores da Agua são historia. Isso é uma bencao.}
+{160}{}{Alguém matou a Crimson Caravan.}
 {161}{}{Você ouviu? O Submundo foi finalmente eliminado!}
 {162}{}{O Decker esta morto!}
 {163}{}{Esta cidade seria mais segura com o Decker fora do quadro.}

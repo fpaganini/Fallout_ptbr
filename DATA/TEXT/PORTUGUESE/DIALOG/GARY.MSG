@@ -1,6 +1,6 @@
-{100}{}{Voce enfureceu Gary!}
-{101}{}{Voce ve Gary.}
-{102}{}{Ei! Apenas ghouls recebem uma racao de agua.}
+{100}{}{Você enfureceu Gary!}
+{101}{}{Você vê Gary.}
+{102}{}{Ei! Apenas ghouls recebem uma racao de água.}
 {103}{}{Cale a boca!}
 {104}{}{O mutante te ignora.}
 
@@ -14,12 +14,12 @@
 {1007}{}{Normals}
 {1008}{}{chip}
 
-{1100}{}{Nao sei.}
+{1100}{}{Não sei.}
 {1101}{}{Yer ficando nele.}
-{1102}{}{Ele e um wus. Nos deveriamos apenas acabar com ele e seus ghouls.}
+{1102}{}{Ele e um wus. Nós deveriamos apenas acabar com ele e seus ghouls.}
 {1103}{}{Isso e aqui}
-{1104}{}{Eu nao sei.}
+{1104}{}{Eu não sei.}
 {1105}{}{O chefe de Harry.}
 {1106}{}{Coisas frageis.}
 {1107}{}{Mais zangado que ghouls.}
-{1108}{}{Eu nao sei.}
+{1108}{}{Eu não sei.}

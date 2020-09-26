@@ -11,7 +11,7 @@
 {600}{}{Marreta}
 {601}{}{Um grande martelo com grande cabo. Muito popular com a turma muscular. Minimo de FORCA: 6.}
 {700}{}{Lanca}
-{701}{}{Uma arma longa com ponta em forma de lamina. O cabo e de madeira e a ponta e trabalhada em aco. Minimo de FORCA: 4.}
+{701}{}{Uma arma longa com ponta em forma de lamina. O cabo e de madeira é a ponta e trabalhada em aco. Minimo de FORCA: 4.}
 {800}{}{Pistola 10mm}
 {801}{}{Uma pistola Colt 6520 10mm auto-carregante. Cada puxada do gatilho recarregara a arma de fogo até que o carregador esteja vazio. Tiro único apenas, usando a poderosa capsula de 10mm. Minimo de FORCA: 3.}
 {900}{}{SMG 10mm}
@@ -19,7 +19,7 @@
 {1000}{}{Rifle de Caca}
 {1001}{}{Um rifle semi-automatico Colt Rangemaster de calibre .223. Tiro único apenas. Minimo de FORCA: 5.}
 {1100}{}{Flamejador}
-{1101}{}{Um lanca-chama Flambe modelo 450, variacao do varmiter. Dispara um curto spray de liquido extremamente quente e inflamavel. Requer combustivel especializado para funcionar apropriadamente. Minimo de FORCA: 6.}
+{1101}{}{Um lança-chama Flambe modelo 450, variacao do varmiter. Dispara um curto spray de liquido extremamente quente e inflamavel. Requer combustivel especializado para funcionar apropriadamente. Minimo de FORCA: 6.}
 {1200}{}{Minigun}
 {1201}{}{Uma minigun Rockwell CZ53 Personal. Uma arma em cadeia com multi-canos disparando munição de 5mm a aproximadamente 60,000 RPM. Minimo de FORCA: 7.}
 {1300}{}{Lancador de Foguetes}
@@ -29,17 +29,17 @@
 {1500}{}{Rifle de Plasma}
 {1501}{}{Um Rifle de Plasma Winchester Modelo P94. Uma arma de energia de grade industrial, disparando raios de plasma super aquecidos por um barril super condutor. Movido por Celulas de Micro Fusao. Minimo de FORCA: 6.}
 {1600}{}{Pistola Laser}
-{1601}{}{Uma Pistola Laser Wattz 1000. Modelo civil, entao a voltagem e menor do que as versoes policiais ou militares. Usa pequenas celulas de energia. Minimo de FORCA: 3.}
+{1601}{}{Uma Pistola Laser Wattz 1000. Modelo civil, então a voltagem e menor do que as versoes policiais ou militares. Usa pequenas celulas de energia. Minimo de FORCA: 3.}
 {1700}{}{Armadura de Combate}
 {1701}{}{Armadura de alta tecnologia feita de polimeros defensivos avancados.}
 {1800}{}{Desert Eagle .44}
 {1801}{}{Uma antiga pistola magnum Desert Eagle .44. Interesse nos filmes do final do seculo 20 tornaram esta uma das mais populares armas de mao de todos os tempos. Minimo de FORCA: 4.}
 {1900}{}{Rocha}
-{1901}{}{E uma rocha. O modelo Granito-Inc. e uma versao melhorada. Minimo de FORCA: 1.}
+{1901}{}{É uma rocha. O modelo Granito-Inc. é uma versao melhorada. Minimo de FORCA: 1.}
 {2000}{}{Pe de Cabra}
-{2001}{}{Um pedaco de metal muito solido e pesado, especialmente designado para exercer a ação de alavanca. Ou ferir cabecas. Minimo de FORCA: 5.}
+{2001}{}{Um pedaço de metal muito solido e pesado, especialmente designado para exercer a ação de alavanca. Ou ferir cabecas. Minimo de FORCA: 5.}
 {2100}{}{Soco Ingles}
-{2101}{}{Punho de soco ingles endurecido que e realmente feito de aco. Eles protegem sua mao e fazem mais dano em combate desarmado. Minimo de FORCA: 1.}
+{2101}{}{Punho de soco ingles endurecido que é realmente feito de aco. Eles protegem sua mao e fazem mais dano em combate desarmado. Minimo de FORCA: 1.}
 {2200}{}{Pistola 14mm}
 {2201}{}{Uma Pistola Automatica Sig-Sauer 14mm. Grande, arma de mao de tiro único. Excelente craftmanship. Minimo de FORCA: 4.}
 {2300}{}{Rifle de Ataque}
@@ -51,7 +51,7 @@
 {2600}{}{Granada (Plasma)}
 {2601}{}{Uma unidade de entrega de plasma selada magneticamente com explosivos detonantes. Cria uma explosao de plasma super aquecido no contato. Minimo de FORCA: 4.}
 {2700}{}{Granada (Pulso)}
-{2701}{}{Uma granada de pulso eletro-magnetico, gerando um intenso campo magnetico na detonacao. Nao afeta criaturas biologicas. Funde-se com o contato. Minimo de FORCA: 4.}
+{2701}{}{Uma granada de pulso eletro-magnetico, gerando um intenso campo magnetico na detonacao. Não afeta criaturas biologicas. Funde-se com o contato. Minimo de FORCA: 4.}
 {2800}{}{Laser Gatling}
 {2801}{}{Uma Laser Gatling H&K L30. Designada especificamente para uso militar, estas estavam no estagio prototipo no comeco da guerra. Multiplos canos permitem disparos mais longos antes de super aquecer. Movida por Celulas de Micro Fusao. Minimo de FORCA: 6.}
 {2900}{}{10mm JHP}
@@ -61,7 +61,7 @@
 {3100}{}{Magnum JHP .44}
 {3101}{}{Uma caixa de munição, calibre da magnum .44, pontos-de-cavidade.}
 {3200}{}{Combustivel de Lança-Chamas}
-{3201}{}{Um cilindro contendo um combustivel liquido extremamente inflamavel para lanca-chamas.}
+{3201}{}{Um cilindro contendo um combustivel liquido extremamente inflamavel para lança-chamas.}
 {3300}{}{14mm PA}
 {3301}{}{Municao de grande calibre. 14mm penetrante de armadura.}
 {3400}{}{.223 FMJ}
@@ -83,9 +83,9 @@
 {4200}{}{Geladeira}
 {4201}{}{Um refrigerador. Sem o liquido refrigerador.}
 {4300}{}{Bau de Gelo}
-{4301}{}{Um bau de gelo em estilo-antigo. As dobradicas estao em boa condicao de funcionamento.}
+{4301}{}{Um bau de gelo em estilo-antigo. As dobradicas estão em boa condicao de funcionamento.}
 {4400}{}{Bau de Gelo}
-{4401}{}{Um bau de gelo em estilo-antigo. As dobradicas estao em boa condicao de funcionamento.}
+{4401}{}{Um bau de gelo em estilo-antigo. As dobradicas estão em boa condicao de funcionamento.}
 {4500}{}{Faca de Arremesso}
 {4501}{}{Uma faca, balanceada especificamente para arremesso. Feita de titanio e afiada com laser. Minimo de FORCA: 3.}
 {4600}{}{Saco}
@@ -101,13 +101,13 @@
 {5100}{}{Dinamite}
 {5101}{}{Um explosivo forte, consistindo de nitroglicerina misturada com a substancia absorvente kiselguhr. Inclui um timer.}
 {5200}{}{Contador Geiger}
-{5201}{}{Um Contador Geiger da Wattz Electronics modelo C-Radz. Detecta a presenca e forca dos campos da radiação.}
+{5201}{}{Um Contador Geiger da Wattz Electronics modelo C-Radz. Detecta a presença e força dos campos da radiação.}
 {5300}{}{Mentats}
-{5301}{}{Uma caixa de pilulas chem alteradoras da mente. Aumenta as funcoes relacionadas a memoria e acelera outros processos mentais. Altamente viciante.}
+{5301}{}{Uma caixa de pilulas chem alteradoras da mente. Aumenta as funções relacionadas a memória e acelera outros processos mentais. Altamente viciante.}
 {5400}{}{Garoto Disfarce}
 {5401}{}{Um dispositivo RobCo Garoto Disfarce 3001 dispositovo de disfarce pessoal. Gera um campo modulante que transmite a luz refletida de um lado de um objeto para o outro.}
 {5500}{}{Chip de Água}
-{5501}{}{Um chip do sistema de computadores de controle da purificacao da agua. Parece surpreendentemente com o chip que sua Vault precisa.}
+{5501}{}{Um chip do sistema de computadores de controle da purificacao da água. Parece surpreendentemente com o chip que sua Vault precisa.}
 {5600}{}{Plaquetas de Identificação}
 {5601}{}{Um conjunto de plaquetas de identificação militares. O nome Darkwater esta legivel mas não muito mais esta.}
 {5700}{}{Microfone Miniatura}
@@ -139,17 +139,17 @@
 {7000}{}{Penteadeira}
 {7001}{}{Uma penteadeira de madeira.}
 {7100}{}{Fruta}
-{7101}{}{Um estranho pedaco de fruta. Sem conservantes e nenhum colorimento adicional na comida adicionados.}
+{7101}{}{Um estranho pedaço de fruta. Sem conservantes e nenhum colorimento adicional na comida adicionados.}
 {7200}{}{Pasta}
 {7201}{}{Uma pasta, com um rotulo Made-in-the-USA. Couro. Condicao boa, mas a tranca da combinação esta quebrada.}
 {7300}{}{Grande Livro da Ciencia}
-{7301}{}{Um conjunto de livros, contendo informacao sobre diferentes campos cientificos.}
+{7301}{}{Um conjunto de livros, contendo informação sobre diferentes campos cientificos.}
 {7400}{}{Jaqueta de Couro}
 {7401}{}{Uma jaqueta de couro pesada e preta.}
 {7500}{}{Ferramenta}
 {7501}{}{Um super conjunto de ferramentas, contendo varias ferramentas uteis.}
 {7600}{}{Eletronicos Deans}
-{7601}{}{Um livro de estudo no campo dos eletronicos. Uma nota na capa diz que e para o "jovem eletricista emergente em todo mundo!"}
+{7601}{}{Um livro de estudo no campo dos eletronicos. Uma nota na capa diz que é para o "jovem eletricista emergente em todo mundo!"}
 {7700}{}{Gazua Eletronica}
 {7701}{}{Uma gazua eletronica da Wattz Electronics Micromanipulator FingerStuff. Para derrotar trancas eletronicas e dispositivos de seguranca.}
 {7800}{}{Pintura Desfocada}
@@ -165,15 +165,15 @@
 {8300}{}{Conjunto de Chaves}
 {8301}{}{Multiplas chaves.}
 {8400}{}{Gazuas}
-{8401}{}{Um conjunto de ferramentas de serralheiro. Inclui todos os picoes necessarios e chaves de tensao para abrir trancas de fechaduras e pinos convencionais.}
+{8401}{}{Um conjunto de ferramentas de serralheiro. Inclui todos os pições necessarios e chaves de tensao para abrir trancas de fechaduras e pinos convencionais.}
 {8500}{}{Explosivos Plasticos}
 {8501}{}{Um chunk de Cordex, uma marca milita de explosivos plasticos. Altamente estaveis, muito destrutivos. Inclui um timer.}
 {8600}{}{Manual do Escoteiro}
 {8601}{}{Um livro sobre os metodos e ideais do escotismo. Informacao muito pratica a respeito da vida fora de casa.}
 {8700}{}{Buffout}
-{8701}{}{Esteroides altamente avancados. Enquanto em efeito, eles aumentam a forca e os reflexos. Muito viciante.}
+{8701}{}{Esteroides altamente avancados. Enquanto em efeito, eles aumentam a força e os reflexos. Muito viciante.}
 {8800}{}{Relogio de Pulso}
-{8801}{}{Um relogio de pulso caro. Nao funciona realmente, mas ainda parece bacana.}
+{8801}{}{Um relogio de pulso caro. Não funciona realmente, mas ainda parece bacana.}
 {8900}{}{Motor}
 {8901}{}{Um motor eletrico de 40-hps.}
 {9000}{}{Mochila}
@@ -201,7 +201,7 @@
 {10100}{}{Isqueiro}
 {10101}{}{Um isqueiro prata com butano, em boa condicao.}
 {10200}{}{Armas e Balas}
-{10201}{}{Um pasquim sobre armas. Uma revista devotada ao uso pratico de armas de fogo e a analise ocasional tendenciosa.}
+{10201}{}{Um pasquim sobre armas. Uma revista devotada ao uso pratico de armas de fogo é a analise ocasional tendenciosa.}
 {10300}{}{Iguana-no-espeto}
 {10301}{}{Um pouco de carne chamuscada e vegetais num espeto para cozimento.}
 {10400}{}{Gravador de Fita}
@@ -215,9 +215,9 @@
 {10800}{}{Ossos}
 {10801}{}{Uma colecao de ossos estranhos.}
 {10900}{}{Rad-X}
-{10901}{}{Chems anti-radiação para serem tomados antes da exposicao. Nao ha efeitos colaterais conhecidos.}
+{10901}{}{Chems anti-radiação para serem tomados antes da exposicao. Não há efeitos colaterais conhecidos.}
 {11000}{}{Psycho}
-{11001}{}{Um sistema de entrega único com quimicos estranhos e desconhecidos de origem provavelmente militar. E esperado que aumente o potencial de combate de um soldado.}
+{11001}{}{Um sistema de entrega único com quimicos estranhos e desconhecidos de origem provavelmente militar. É esperado que aumente o potencial de combate de um soldado.}
 {11100}{}{Magnum FMJ .44}
 {11101}{}{Uma caixa de munição, .44 calibre da magnum, revestimento completo de metal.}
 {11200}{}{Urna}
@@ -249,7 +249,7 @@
 {12500}{}{Bebida}
 {12501}{}{Um licor antigo, da era pre-Guerra.}
 {12600}{}{Frasco de Água}
-{12601}{}{Um recipiente para a contencao e preservacao de agua ou outros liquidos.}
+{12601}{}{Um recipiente para a contencao e preservacao de água ou outros liquidos.}
 {12700}{}{Corda}
 {12701}{}{Uma linha grossa, forte. Aproximadamente 45 pés de comprimento.}
 {12800}{}{Armario de Pe de Cama}
@@ -311,13 +311,13 @@
 {15600}{}{Estantes}
 {15601}{}{Um conjunto de estantes de madeira.}
 {15700}{}{Banca de Trabalho}
-{15701}{}{Um banca de trabalho. Sim, sua velha, ordinaria banca de trabalho padrao. Também parece bacana assentado la.}
+{15701}{}{Um banca de trabalho. Sim, sua velha, ordinaria banca de trabalho padrao. Também parece bacana assentado lá.}
 {15800}{}{Quadro de Ferramentas}
 {15801}{}{Este quadro segura uma variedade de ferramentas acima da banca de trabalho popular.}
 {15900}{}{Coquetel Molotov}
 {15901}{}{Uma granada inflamavel feita em casa. Minimo de FORCA: 3.}
 {16000}{}{Aguilhao de Rebanho}
-{16001}{}{Um aguilhao de rebanho modelo Melhor Amigo do Fazendeiro da Wattz Electronics. Usa pequenas celulas de energia para a forca. Minimo de FORCA: 4.}
+{16001}{}{Um aguilhao de rebanho modelo Melhor Amigo do Fazendeiro da Wattz Electronics. Usa pequenas celulas de energia para a força. Minimo de FORCA: 4.}
 {16100}{}{Arma Red Ryder BB}
 {16101}{}{Uma arma Red Ryder BB. A classica. Minimo de FORCA: 3.}
 {16200}{}{Arma Red Ryder LE BB}
@@ -327,7 +327,7 @@
 {16400}{}{Fita da Irmandade}
 {16401}{}{Um holodisco a respeito da Irmandade do Aço.}
 {16500}{}{Barraca da Iguana}
-{16501}{}{O lar dos Pedacos da Iguana do Bob. O que não ha para amar a respeito de iguana fresca e assada?}
+{16501}{}{O lar dos Pedacos da Iguana do Bob. O que não há para amar a respeito de iguana fresca e assada?}
 {16600}{}{Mesa}
 {16601}{}{Uma mesa generica. Mantem as coisas fora do chao.}
 {16700}{}{Mesa}
@@ -377,9 +377,9 @@
 {18900}{}{Armario}
 {18901}{}{Um armario.}
 {19000}{}{Disco do VEF}
-{19001}{}{Uma holofita contendo informacao medica. Pode ser usada para inserir informacao no seu PIPBoy.}
+{19001}{}{Uma holofita contendo informação medica. Pode ser usada para inserir informação no seu PIPBoy.}
 {19100}{}{Disco da Segurança}
-{19101}{}{Uma holofita com a escrita "Registro da Segurança" no rotulo. Você pode usa-la para transferir os dados que ela contem para o seu PIPBoy.}
+{19101}{}{Uma holofita com a escrita "Registro da Segurança" no rotulo. Você pode usa-lá para transferir os dados que ela contem para o seu PIPBoy.}
 {19200}{}{Disco do Experimento Alfa}
 {19201}{}{O rotulo nesta holofita diz: "Registro do Experimento Alfa"}
 {19300}{}{Disco do Experimento Delta}
@@ -389,7 +389,7 @@
 {19500}{}{Codigo de Honra da Irmandade}
 {19501}{}{Um holofita com um simbolo aspero da Irmandade do Aço inscrito nela. Use a fita para transferir os dados para o seu PIPBoy.}
 {19600}{}{Transmissoes Mutantes}
-{19601}{}{Esta holofita parece que foi designada para gravar dados de audio de um radio. Use a fita para transferir a informacao para o seu PIPBoy.}
+{19601}{}{Esta holofita parece que foi designada para gravar dados de audio de um radio. Use a fita para transferir a informação para o seu PIPBoy.}
 {19700}{}{Caixa}
 {19800}{}{Caixa}
 {19900}{}{Caixa}
@@ -403,7 +403,7 @@
 {20600}{}{Dinamite}
 {20601}{}{Um explosivo forte, consistindo de nitroglicerina misturado com a substancia absorvente kiselguhr. Inclui um timer, o qual esta ticking.}
 {20700}{}{Contador Geiger}
-{20701}{}{Um Contador Geiger da Wattz Electronics modelo C-Radz. Detecta a presenca e forca dos campos da radiação. Esta ligado.}
+{20701}{}{Um Contador Geiger da Wattz Electronics modelo C-Radz. Detecta a presença e força dos campos da radiação. Esta ligado.}
 {20800}{}{Sensor de Movimento}
 {20801}{}{Um sensor de movimento da Wattz Electronics modelo C-U. Detecta a movimentação de material biologico a um distancia de metros usando um dispositivo rader ajustado. Esta ligado.}
 {20900}{}{Explosivos Plasticos}
@@ -411,23 +411,23 @@
 {21000}{}{Garoto Disfarce}
 {21001}{}{Um dispositivo RobCo Garoto Disfarce 3001 dispositivo de disfarce pessoal. Gera um campo modulante que transmite a luz refletida de um lado de um objeto para o outro.}
 {21100}{}{Ossos}
-{21101}{}{Você ve o Ed. Ed esta morto.}
+{21101}{}{Você vê o Ed. Ed esta morto.}
 {21200}{}{Tandi}
 {21201}{}{Você esta permutando pela libertacao da Tandi.}
 {21300}{}{Restos do Gizmo}
-{21301}{}{Gizmo, chefe do crime formal de Junktown esta morto. E bastante fedido tambem.}
+{21301}{}{Gizmo, chefe do crime formal de Junktown esta morto. É bastante fedido tambem.}
 {21400}{}{Escrivaninha}
-{21401}{}{Uma escrivaninha. Apos observacao adicional, você decide que ainda e uma escrivaninha.}
+{21401}{}{Uma escrivaninha. Apos observacao adicional, você decide que ainda é uma escrivaninha.}
 {21500}{}{Historia da Irmandade}
-{21501}{}{Uma holofita contendo informacao relacionada a Irmandade do Aço. Pode ser usada para inserir informacao no seu PIPBoy 2000.}
+{21501}{}{Uma holofita contendo informação relacionada a Irmandade do Aço. Pode ser usada para inserir informação no seu PIPBoy 2000.}
 {21600}{}{Historia do Maxson}
 {21700}{}{Jornal do Maxson}
 {21800}{}{Cura Leve}
-{21801}{}{Permute por esta opcao se você quer cura leve.}
+{21801}{}{Permute por esta opção se você quer cura leve.}
 {21900}{}{Cura Media}
-{21901}{}{Permute por esta opcao se você quer cura media.}
+{21901}{}{Permute por esta opção se você quer cura media.}
 {22000}{}{Cura Pesada}
-{22001}{}{Permute por esta opcao se você quer muitos cuidados e cura pesada.}
+{22001}{}{Permute por esta opção se você quer muitos cuidados e cura pesada.}
 {22100}{}{Cartao de Segurança}
 {22101}{}{Um cartao com um nível de seguranca codificado dentro dos seus eletronicos muito simples.}
 {22200}{}{Interruptor de Campo}
@@ -436,18 +436,18 @@
 {22301}{}{Uma chave de seguranca eletronica, codificada com a cor amarela.}
 {22400}{}{Estatueta Pequena}
 {22401}{}{Você pensa que esta poderia ser uma escultura do "Pip Boy" mas você não consegue ter certeza.}
-{22500}{}{Você Nao Tem Ideia}
-{22501}{}{Conforme inspecao adicional, você ainda não tem ideia do que isto e.}
+{22500}{}{Você Não Tem Ideia}
+{22501}{}{Conforme inspecao adicional, você ainda não tem ideia do que isto é.}
 {22600}{}{Caixa de Noodles}
 {22601}{}{Você não tem ideia do que "Espaguete Instantaneo" significa.}
 {22700}{}{Pequena Caixa Empoeirada de Algum Tipo}
-{22701}{}{Um jantar congelado. Você não tem certeza, mas e definitivamente não comestivel. Você não esta bem certo(a) se alguma vez foi.}
+{22701}{}{Um jantar congelado. Você não tem certeza, mas é definitivamente não comestivel. Você não esta bem certo se alguma vez foi.}
 {22800}{}{Manual Tecnico}
 {22801}{}{Um manual técnica de reparo da Power Armor T-51b.}
 {22900}{}{Pequeno Pedaco de Maquinaria}
-{22901}{}{Você ve um Motivador Sistolico. Esta pedaco incomum de maquinaria e muito pequeno.}
+{22901}{}{Você vê um Motivador Sistolico. Esta pedaço incomum de maquinaria e muito pequeno.}
 {23000}{}{Registros da Vault}
-{23001}{}{Um compendio de eventos e gravacoes importantes de um sistema de computadores da Vault. Possivelmente estragado.}
+{23001}{}{Um compendio de eventos e gravações importantes de um sistema de computadores da Vault. Possivelmente estragado.}
 {23100}{}{Codigo de Segurança da Base Militar}
 {23101}{}{ }
 {23200}{}{Power Armor Fortalecida}
@@ -455,7 +455,7 @@
 {23300}{}{Rifle de Plasma Turbo}
 {23301}{}{Um rifle de plasma modificado Winchester P94. A camara do raio de plasma foi anexada para acelerar o processo de formacao do raio. Minimo de FORCA: 6.}
 {23400}{}{Soco Ingle com Pontas}
-{23401}{}{Uma versao melhorada do classico. O soco ingles com pontas faz mais dano, cortando na carne do(a) seu/sua oponente em combate desarmado. Minimo de FORCA: 1.}
+{23401}{}{Uma versao melhorada do classico. O soco ingles com pontas faz mais dano, cortando na carne do seu/sua oponente em combate desarmado. Minimo de FORCA: 1.}
 {23500}{}{Punho de Força}
 {23501}{}{Um Punho de Força "Big Frigger" da BeatCo. Considerada por muitos ser a arma suprema a usar em combate desarmado. Movida por pequenas celulas de energia. Minimo de FORCA: 1.}
 {23600}{}{Faca de Combate}
@@ -469,6 +469,6 @@
 {24000}{}{Armadura Tesla}
 {24001}{}{Esta armadura brilhante fornece protecao superior contra ataques de energia. As tres varinhas com espirais de atracao Tesla dispersam uma grande porcentagem dos ataques direcionados de energia.}
 {24100}{}{Pistola .223}
-{24101}{}{Um rifle .223 modificado e cortado para um pistola. Esta e uma arma de fogo de um tipo único, obviamente feita com amor e técnica. Minimo de FORCA: 5.}
+{24101}{}{Um rifle .223 modificado e cortado para um pistola. Esta é uma arma de fogo de um tipo único, obviamente feita com amor e técnica. Minimo de FORCA: 5.}
 {24200}{}{Espingarda de Combate}
 {24201}{}{Uma espingarda de combate calibre 12 Winchester City-Killer, variante com a cartucheira atras do gatilho. Em excelente condicao, ela tem a modificacao seladora ambiental DesertWarfare para confiabilidade extra. Minimo de FORCA: 5.}

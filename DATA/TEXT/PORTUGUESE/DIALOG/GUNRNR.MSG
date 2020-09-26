@@ -1,17 +1,17 @@
 {100}{}{Ei! O que você acha que você esta fazendo?!}
 {101}{}{Ei, você tem alguma Nuka Cola?}
-{102}{}{Os negocios estao bons.}
+{102}{}{Os negócios estão bons.}
 {103}{}{Gabriel e um grande chefe.}
 {104}{}{Dia bacana, não e?}
 {105}{}{Fale com o Zack se você esta procurando gear.}
 {106}{}{Zack vende as armas.}
 {107}{}{Mantenha suas armas holstered.}
-{108}{}{Nao tente qualquer coisa engracada.}
-{109}{}{Nos poderiamos deter um exercito aqui.}
+{108}{}{Não tente qualquer coisa engracada.}
+{109}{}{Nós poderiamos deter um exercito aqui.}
 {110}{}{Um cara caiu no fosso uma vez. Que jeito horrivel de se for.}
-{111}{}{Maldito seja aquele fosso, os vapores estao fazendo meus olhos doer.}
+{111}{}{Maldito seja aquele fosso, os vapores estão fazendo meus olhos doer.}
 {112}{}{Eu odeio este trabalho.}
 {113}{}{Saia do meu caminho!}
-{114}{}{Nao me aborreca.}
+{114}{}{Não me aborreca.}
 {115}{}{Você não pode ver que eu estou ocupado?}
-{116}{}{Você ve um tipico Gun Runner.}
+{116}{}{Você vê um tipico Gun Runner.}

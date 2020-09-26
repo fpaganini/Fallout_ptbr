@@ -1,40 +1,40 @@
-{100}{}{Você ve o Petrox, um bandido do deserto.}
-{101}{}{Saudacoes! Eu sou Petrox. Eu sou um dos saqueadores lideres do Garl. Quem e você?}
+{100}{}{Você vê o Petrox, um bandido do deserto.}
+{101}{}{Saudações! Eu sou Petrox. Eu sou um dos saqueadores lideres do Garl. Quem é você?}
 {102}{}{Eu sou }
 {103}{}{. O que você faz como um saqueador?}
-{104}{}{Meu nome não e importante no momento. Você pode me dizer algo sobre seu acampamento?}
+{104}{}{Meu nome não é importante no momento. Você pode me dizer algo sobre seu acampamento?}
 {105}{}{Hroo?}
 {106}{}{Como um saqueador, eu consigo viajar para muitas partes da terra devastada. Nas
  minhas viagens, eu obtenho suprimentos para o acampamento.}
 {107}{}{Em outras palavras, você rouba das pessoas até as quais você vai.}
 {108}{}{Ei, isso e realmente otimo de você. Eu tenho certeza que o Garl se agrada de você.}
 {109}{}{Em quais lugares você esteve?}
-{110}{}{Bem, e bacana que você ache que você e tao importante que você não precise de um
- nome pra ir por aqui. Mas eu pelo menos direi a você um pouco sobre nos. Nos somos as
+{110}{}{Bem, e bacana que você ache que você e tão importante que você não precise de um
+ nome pra ir por aqui. Mas eu pelo menos direi a você um pouco sobre nos. Nós somos as
  pessoas mais duronas das terras devastadas. Ninguem consegue ficar contra nos. Nem
  mesmo aqueles fracotes de Shady Sands ou Junktown.}
 {111}{}{O que a respeito de Shady Sands?}
-{112}{}{O que e Junktown?}
-{113}{}{Eu lamento, mas eu não tenho tempo pra desperdicar naqueles que são lentos. Adeus.}
-{114}{}{Nos nunca roubamos. Nos apenas levamos o extra que os outros tem e redistribuimos
+{112}{}{O que é Junktown?}
+{113}{}{Eu lamento, mas eu não tenho tempo pra desperdicar naqueles que são lentos. Tchau.}
+{114}{}{Nós nunca roubamos. Nós apenas levamos o extra que os outros tem e redistribuimos
  entre nosso povo faminto.}
-{115}{}{Entao, basicamente, voces roubam.}
+{115}{}{Então, basicamente, vocês roubam.}
 {116}{}{Isso soa como uma ideia realmente otima.}
 {117}{}{Eu estive em muitos lugares nas terras devastadas. O lugares mais
- proximos que eu já estive são Shady Sands e Junktown. Nao muito acontece
- nesses lugares, mas eles estao sempre cheios de informacao e suprimentos.}
+ proximos que eu já estive são Shady Sands e Junktown. Não muito acontece
+ nesses lugares, mas eles estão sempre cheios de informação e suprimentos.}
 {118}{}{Diga-me a respeito de Shady Sands.}
 {119}{}{Diga-me a respeito de Junktown.}
 {120}{}{Você esta comecando a se tornar chato agora. Eu acho que eu
  encerrarei esse leve problema.}
-{121}{}{Shady Sands e uma comunidade fertil. Eles estao felizes de, um,
+{121}{}{Shady Sands é uma comunidade fertil. Eles estão felizes de, um,
  compartilhar a bounty deles conosco.}
 {122}{}{O que você pode me dizer a respeito de Junktown?}
 {123}{}{Junktown esta um pouco ao sul daqui. Eles tem muitas boas mulheres.}
 {124}{}{Junktown esta um pouco ao sul daqui. Eles tem muitas boas mulheres.
  Diga . . . eu posso mostrar os arredores pra você alguma hora, talvez nos
  possamos vir a conhecer um ao outro melhor . . . o que me diz?}
-{125}{}{Nao obrigado, talvez alguma outra hora.}
+{125}{}{Não obrigado, talvez alguma outra hora.}
 {126}{}{Com certeza, talvez mais tarde.}
 {127}{}{Bem, talvez mais tarde.}
-{128}{}{Eu dissea você tudo que me e permitido. Por favor va.}
+{128}{}{Eu dissea você tudo que me e permitido. Por favor vá.}

@@ -11,7 +11,7 @@
 {104}{}{Sua mira esta bloqueada.}
 {105}{}{Você não pode usar armas com ambos os bracos incapacitados.}
 {106}{}{Você não pode usar armas de 2 mãos com um braço incapacitado.}
-{107}{}{Você não e forte o bastante pra usar esta arma apropriadamente.}
+{107}{}{Você não é forte o bastante pra usar esta arma apropriadamente.}
 {108}{}{ e }
 #
 # Combat Flag Strings (all of these happen to you, the MALE player)
@@ -32,10 +32,10 @@
 {213}{}{sua arma foi destruída}
 {214}{}{sua arma caiu}
 {215}{}{perdeu seu próximo turno}
-{216}{}{acertou a si mesmo}
+{216}{}{acertou a si próprio}
 {217}{}{perdeu o resto da sua munição}
 {218}{}{disparou um tiro que não chegou ao alvo}
-{219}{}{feriu a si mesmo}
+{219}{}{feriu a si próprio}
 {220}{}{acertou aleatoriamente}
 {221}{}{incapacitou um membro aleatório}
 {222}{}{crivado com fragmentos}
@@ -84,10 +84,10 @@
 {313}{}{sua arma foi destruída}
 {314}{}{sua arma caiu}
 {315}{}{perdeu seu próximo turno}
-{316}{}{atingiu a si mesmo}
+{316}{}{atingiu a si próprio}
 {317}{}{perdeu o resto da sua munição}
 {318}{}{disparou um tiro que não chegou ao alvo}
-{319}{}{feriu a si mesmo}
+{319}{}{feriu a si próprio}
 {320}{}{acertou aleatoriamente}
 {321}{}{incapacitou um membro aleatório}
 {322}{}{crivado com fragmentos}
@@ -128,7 +128,7 @@
 #          in the 1000's in this file, with the exception of line 509
 #          where the second %s is the name of another creature
 {506}{}{Você}
-{509}{}{Oops! %s foi atingido em vez do(a) %s!}
+{509}{}{Oops! %s foi atingido em vez do %s!}
 {511}{}{%s foi atingido criticamente no(s)/na %s com %d pontos de dano}
 {512}{}{%s foi atingido no(s)/na %s com %d pontos de dano}
 {513}{}{%s foi atingido com %d pontos de dano}
@@ -181,22 +181,22 @@
 #          in the 1000's in this file, with the exception of line 609
 #          where the second %s is the name of another creature
 #
-{608}{}{Oops! %s foi atingido(a) em vez de você!}
-{609}{}{Oops! %s foi atingido(a) em vez de %s!}
-{611}{}{%s foi atingido(a) criticamente no(s)/na %s com %d pontos de dano}
-{612}{}{%s foi atingido(a) no(s)/na %s com %d pontos de dano}
-{613}{}{%s foi atingido(a) com %d pontos de dano}
+{608}{}{Oops! %s foi atingido em vez de você!}
+{609}{}{Oops! %s foi atingido em vez de %s!}
+{611}{}{%s foi atingido criticamente no(s)/na %s com %d pontos de dano}
+{612}{}{%s foi atingido no(s)/na %s com %d pontos de dano}
+{613}{}{%s foi atingido com %d pontos de dano}
 {614}{}{%s errou criticamente}
 {615}{}{%s errou}
-{620}{}{%s foi atingido(a) criticamente com %d pontos de dano}
-{621}{}{%s foi atingido(a) criticamente no(s)/na %s com 1 ponto de dano}
-{622}{}{%s foi atingido(a) no(s)/na %s com 1 ponto de dano}
-{623}{}{%s foi atingido(a) com 1 ponto de dano}
-{624}{}{%s foi atingido(a) criticamente com 1 ponto de dano}
-{625}{}{%s foi atingido(a) criticamente no(s)/na %s sem nenhum dano}
-{626}{}{%s foi atingido(a) no(s)/na %s sem nenhum dano}
-{627}{}{%s foi atingido(a) sem nenhum dano}
-{628}{}{%s foi atingido(a) criticamente sem nenhum dano}
+{620}{}{%s foi atingido criticamente com %d pontos de dano}
+{621}{}{%s foi atingido criticamente no(s)/na %s com 1 ponto de dano}
+{622}{}{%s foi atingido no(s)/na %s com 1 ponto de dano}
+{623}{}{%s foi atingido com 1 ponto de dano}
+{624}{}{%s foi atingido criticamente com 1 ponto de dano}
+{625}{}{%s foi atingido criticamente no(s)/na %s sem nenhum dano}
+{626}{}{%s foi atingido no(s)/na %s sem nenhum dano}
+{627}{}{%s foi atingido sem nenhum dano}
+{628}{}{%s foi atingido criticamente sem nenhum dano}
 {633}{}{%s errou criticamente e tomou 1 ponto de dano}
 {634}{}{%s errou criticamente e tomou %d pontos de dano}
 #
@@ -207,22 +207,22 @@
 #          in the 1000's in this file, with the exception of line 709
 #          where the second %s is the name of another creature
 #
-{708}{}{Oops! %s foi atingido(a) em vez de você!}
-{709}{}{Oops! %s foi atingido(a) em vez de %s!}
-{711}{}{%s foi atingido(a) criticamente no(s)/na %s com %d pontos de dano}
-{712}{}{%s foi atingido(a) no(s)/na %s com %d pontos de dano}
-{713}{}{%s foi atingido(a) com %d pontos de dano}
+{708}{}{Oops! %s foi atingido em vez de você!}
+{709}{}{Oops! %s foi atingido em vez de %s!}
+{711}{}{%s foi atingido criticamente no(s)/na %s com %d pontos de dano}
+{712}{}{%s foi atingido no(s)/na %s com %d pontos de dano}
+{713}{}{%s foi atingido com %d pontos de dano}
 {714}{}{%s errou criticamente}
 {715}{}{%s errou}
-{720}{}{%s foi atingido(a) criticamente com %d pontos de dano}
-{721}{}{%s foi atingido(a) criticamente no(s)/na %s com 1 ponto de dano}
-{722}{}{%s foi atingido(a) no(s)/na %s com 1 ponto de dano}
-{723}{}{%s foi atingido(a) com 1 ponto de dano}
-{724}{}{%s foi atingido(a) criticamente com 1 ponto de dano}
-{725}{}{%s foi atingido(a) criticamente no(s)/na %s sem nenhum dano}
-{726}{}{%s foi atingido(a) no(s)/na %s sem nenhum dano}
-{727}{}{%s foi atingido(a) sem nenhum dano}
-{728}{}{%s foi atingido(a) criticamente sem nenhum dano}
+{720}{}{%s foi atingido criticamente com %d pontos de dano}
+{721}{}{%s foi atingido criticamente no(s)/na %s com 1 ponto de dano}
+{722}{}{%s foi atingido no(s)/na %s com 1 ponto de dano}
+{723}{}{%s foi atingido com 1 ponto de dano}
+{724}{}{%s foi atingido criticamente com 1 ponto de dano}
+{725}{}{%s foi atingido criticamente no(s)/na %s sem nenhum dano}
+{726}{}{%s foi atingido no(s)/na %s sem nenhum dano}
+{727}{}{%s foi atingido sem nenhum dano}
+{728}{}{%s foi atingido criticamente sem nenhum dano}
 {733}{}{%s errou criticamente e tomou 1 ponto de dano}
 {734}{}{%s errou criticamente e tomou %d pontos de dano}
 #
@@ -514,7 +514,7 @@
 {5026}{}{. A intensa dor de ter uma perna removida faz ele desistir}
 {5027}{}{ infligindo alguma dor extra}
 {5028}{}{ causando cegueira, infelizmente pra ele}
-{5029}{}{, e com nenhuma protecao la, causando seria dor}
+{5029}{}{, e com nenhuma protecao lá, causando seria dor}
 {5030}{}{, e cegando ele com um golpe estonteante}
 {5031}{}{. A perda de um olho e demais pra ele, e ele cai ao chao}
 {5032}{}{, tristemente, ele esta muito ocupado sentindo a torrente de ar no cerebro pra notar a morte se aproximando}
@@ -555,25 +555,25 @@
 {5126}{}{. Ela grita de dor por causa da perna quebrada}
 {5127}{}{ infligindo um pouco de dor extra}
 {5128}{}{ causando cegueira. Ela faz caretas}
-{5129}{}{, e com nenhuma protecao la, causando seria dor}
-{5130}{}{. A ferida causa cegueira severa, como se ha alguma de outro tipo}
+{5129}{}{, e com nenhuma protecao lá, causando seria dor}
+{5130}{}{. A ferida causa cegueira severa, como se há alguma de outro tipo}
 {5131}{}{. Ela desmaia com o ataque cegador}
 {5132}{}{, tristemente, ela não consegue rezar pra os deuses dela antes dela encontra-los}
 {5133}{}{. Ela aguenta como um homem. Isso e pra dizer, isso dói}
 {5134}{}{, nocauteando ela ao chao}
-{5135}{}{. Os dias de gravidez dela estao com problemas conforme ela cai em um monte mole}
+{5135}{}{. Os dias de gravidez dela estão com problemas conforme ela cai em um monte mole}
 #
 # series 5200 - children
 #
 {5200}{}{. A pequena criança comeca a chorar}
 {5201}{}{. Inconsciente, a pequena criança cai}
 {5202}{}{. Ai!}
-{5203}{}{. O golpe e verdadeiro, e a criança e nocauteada inconsciente}
+{5203}{}{. O golpe e verdadeiro, é a criança e nocauteada inconsciente}
 {5204}{}{, esmagando a pequena criança como um trapo mole}
 {5205}{}{. O braço esquerdo desta criança agora tem uma ferida}
 {5206}{}{, deixando a pequena criança desnorteada}
 {5207}{}{, quebrando aquele braço com um estalo alto. Algumas lagrimas serias comecam a fluir}
-{5208}{}{, facilmente estalando esse braço como um pequeno pedaco de doce}
+{5208}{}{, facilmente estalando esse braço como um pequeno pedaço de doce}
 {5209}{}{. O braço direito comeca a inchar, como um balao}
 {5210}{}{, e comeca a chorar}
 {5211}{}{ em um local sensível}
@@ -598,14 +598,14 @@
 {5300}{}{, ferindo o poderoso mutante}
 {5301}{}{, atingindo um local vital}
 {5302}{}{, atingindo um local vital e nocauteando o gigante ao chao}
-{5303}{}{. O gigante mutante olha ao redor por um momento, e entao cai ao chao}
+{5303}{}{. O gigante mutante olha ao redor por um momento, e então cai ao chao}
 {5304}{}{. A cabeca explode como uma melancia gigante e sangrenta}
 {5305}{}{, ferindo severamente o poderoso mutante}
 {5306}{}{, fazendo com que o gigante passe um momento xingando o universo}
 {5307}{}{, atingindo um nervo e forcando o gigante a agarrar seu braço com dor}
 {5308}{}{. O golpe quebra o cotovelo e provavelmente não se sentiu muito bem}
 {5309}{}{, quebrando o grosso braço e vomitando sangue mutante pelo chao}
-{5310}{}{, fazendo com que o gigante cambaleie por um momento e entao caia como uma arvore derrubada}
+{5310}{}{, fazendo com que o gigante cambaleie por um momento e então caia como uma arvore derrubada}
 {5311}{}{, e galoes de vísceras saem para o chao}
 {5312}{}{, enviando o gigante voando até o chao}
 {5313}{}{. O mutante cambaleia e cai, sua perna mal capaz de suporta-lo}
@@ -616,7 +616,7 @@
 {5318}{}{, quase cegando o mutante mas desnorteando ele}
 {5319}{}{. O mutante cego tropeca pra tras, despreparado pra o próximo ataque}
 {5320}{}{, cegando o agora-inconsciente mutante}
-{5321}{}{. Os olhos do mutante brilham por um momento, e entao a luz desvanece - permanentemente}
+{5321}{}{. Os olhos do mutante brilham por um momento, e então a luz desvanece - permanentemente}
 #
 # series 5400 - Ghouls
 #
@@ -626,7 +626,7 @@
 {5403}{}{, entrando atraves da armadura dele e acertando uma junta crítica}
 {5404}{}{, entrando atraves da armadura dele e cortando o braço fora}
 {5405}{}{. O ghoul se move do modo errado no momento errado, e perde um olho}
-{5406}{}{. O ghoul não esta usando armadura la}
+{5406}{}{. O ghoul não esta usando armadura lá}
 {5407}{}{, e sem armadura, o ghoul e cegado}
 {5408}{}{, fazendo o ghoul parecer desnorteado em seus momentos finais}
 #
@@ -638,7 +638,7 @@
 {5503}{}{, quebrando uma das pernas do Brahmin}
 {5504}{}{, seriamente ferindo a vaca mutante}
 {5505}{}{, facilmente penetrando o couro grosso da fera gigante}
-{5506}{}{, penetrando direto atraves de ambos os coracoes da vaca mutante}
+{5506}{}{, penetrando direto atraves de ambos os corações da vaca mutante}
 {5507}{}{, cegando ambos os pares de olhos com um único golpe}
 {5508}{}{, cegando ambas as cabecas e atordoando a vaca mutante}
 {5509}{}{, cegando completamente o Brahmin e nocauteando-o}
@@ -671,7 +671,7 @@
 #
 {5700}{}{. O cranio do roedor faz diversos sons não saudaveis}
 {5701}{}{, esmagando o cranio do roedor como um saco de papel molhado}
-{5702}{}{, e a pata esquerda agora parece um pouco plana}
+{5702}{}{, é a pata esquerda agora parece um pouco plana}
 {5703}{}{. A pata esquerda do rato e explodida}
 {5704}{}{. A pata direita e duramente prejudicada}
 {5705}{}{, explodindo a pata direita}
@@ -687,13 +687,13 @@
 #
 {5800}{}{, o flutuador cai ao chao}
 {5801}{}{, o flutuador cai ao chao, parecendo sem vida}
-{5802}{}{, com consequencias serias para a existencia continuada da criatura}
+{5802}{}{, com consequencias serias para a existência continuada da criatura}
 {5803}{}{, atordoando a criatura ma}
-{5804}{}{, acertando um local sensível la e atordoando o flutuador}
+{5804}{}{, acertando um local sensível lá e atordoando o flutuador}
 {5805}{}{. O golpe faz o flutuador tremer violentamente em um spray de carmesim}
 {5806}{}{, o golpe causando algum tipo de reação violenta na criatura}
 {5807}{}{. O flutuador de repente explode em chamas}
-{5808}{}{ entao ele move-se aos trancos selvagemente e estremece como um pudim supresa}
+{5808}{}{ então ele move-se aos trancos selvagemente e estremece como um pudim supresa}
 {5809}{}{, com o golpe acertando um local}
 {5810}{}{. A criatura esta obviamente agitada}
 #
@@ -711,7 +711,7 @@
 {5909}{}{, surpreendendo o centauro. Ele cegamente cambaleia por um momento}
 {5910}{}{, surpreendendo o centauro. Ele cai em um monte}
 {5911}{}{, surpreendendo o centauro. Ele cai em uma pilha de gosma}
-{5912}{}{. O ataque não foi tao efetivo como poderia ter sido}
+{5912}{}{. O ataque não foi tão efetivo como poderia ter sido}
 #
 # series 6000 - Robots
 #
@@ -757,7 +757,7 @@
 #
 # series 6300 - Deathclaw
 #
-{6300}{}{. Ate mesmo esta fera parece espantada por esse ataque estonteante}
+{6300}{}{. Até mesmo esta fera parece espantada por esse ataque estonteante}
 {6301}{}{, escapulindo as garras enormes pra atacar o monstro. O Deathclaw treme e ruge}
 {6302}{}{. O resultado e dano massivo nos olhos do Deathclaw}
 #
@@ -767,19 +767,19 @@
 {6401}{}{, causando ao Mestre um pouco de seria aflicao}
 {6402}{}{, quebrando as defesas bio-organicas e oprimindo o Mestre}
 {6403}{}{, surpreendendo o Mestre com um sólido plano ofensivo}
-{6404}{}{, causando uma sobrecarga de proporcoes cataclísmicas nos sistemas do Mestre}
+{6404}{}{, causando uma sobrecarga de proporções cataclísmicas nos sistemas do Mestre}
 {6405}{}{. O ataque contra o Mestre parece fazer menos dano do que deveria fazer}
 {6406}{}{. O golpe consegue passar pelas defesas bio-organicas, verdadeiramente cegando o Mestre}
 #
 # series 6500 - The Player
 #
-{6500}{}{. Você tera uma dor de cabeca amanha, se você viver até la}
+{6500}{}{. Você tera uma dor de cabeca amanha, se você viver até lá}
 {6501}{}{. Sua armadura não fornece protecao pra este golpe bem mirado}
-{6502}{}{. Você sente a dor por apenas um momento, e entao a escuridão leva você..}
+{6502}{}{. Você sente a dor por apenas um momento, e então a escuridão leva você..}
 {6503}{}{, trespassando sua armadura. O golpe bamboleia você}
 {6504}{}{, o choque faz sua visao ficar escura. Após um momento, você nota que sua visao não retornou}
 {6505}{}{. Você obtem uma vista bacana do seu corpo conforme sua cabeca veleja atraves do ar}
-{6506}{}{. Surpreendentemente, o dano não e pior do que o normal}
+{6506}{}{. Surpreendentemente, o dano não é pior do que o normal}
 {6507}{}{, espantando você por um momento}
 {6508}{}{. Sinta a dor}
 {6509}{}{. O ataque deixa seu braço inútil}
@@ -794,9 +794,9 @@
 {6518}{}{. O golpe doloroso faz você recuar, mas não faz mais que isso}
 {6519}{}{. Infelizmente pra você, tambem causa perda imediata da visao}
 {6520}{}{. Leva um momento pra você limpar o sangue dos seus olhos}
-{6521}{}{, resvalando sua armadura. Você fica de pe atordoado(a) conforme você percebe que você não consegue mais ver}
-{6522}{}{. Você sente uma sensacao estranha na sua cabeca. Você percebe que e a morte cerebral iminente}
+{6521}{}{, resvalando sua armadura. Você fica de pe atordoado conforme você percebe que você não consegue mais ver}
+{6522}{}{. Você sente uma sensacao estranha na sua cabeca. Você percebe que é a morte cerebral iminente}
 {6523}{}{, fazendo você encolher}
 {6524}{}{. Você poe a mao na virilha e cai no chao de dor}
 {6525}{}{. A dor e suficiente pra nocautear você. Ouch}
-{6526}{}{. Nao ha palavras o bastante no universo pra descrever a dor que você esta sentindo neste momento}
+{6526}{}{. Não há palavras o bastante no universo pra descrever a dor que você esta sentindo neste momento}

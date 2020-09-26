@@ -1,34 +1,34 @@
-{100}{}{Você ve Alya, uma saqueadora do deserto.}
+{100}{}{Você vê Alya, uma saqueadora do deserto.}
 {101}{}{Eu sou Alya dos Khans. Como eu poderia ajudar você hoje?}
 {102}{}{Eu estou procurando por uma mulher chamada Tandi. Você viu ela?}
 {103}{}{Que tal um beijinho?}
 {104}{}{Por que seu bando de saqueadores atacou Shady Sands?}
-{105}{}{Nao, obrigado.}
+{105}{}{Não, obrigado.}
 {106}{}{Uhu!}
-{107}{}{Se ela e uma dessas mulheres de Shady Sands, talvez você devesse procurar lá.
- Agora va, eu preciso terminar de afiar minhas facas. }
+{107}{}{Se ela é uma dessas mulheres de Shady Sands, talvez você devesse procurar lá.
+ Agora vá, eu preciso terminar de afiar minhas facas. }
 {108}{}{Beije isto!}
-{109}{}{Nos não atacamos aqueles de Shady Sands. Nos somos do mesmo lugar que eles são.
- E apenas certo que eles compartilhem conosco!}
-{110}{}{Mas você esta ferindo a cria deles e aterrorizando eles.}
-{111}{}{Isso parece justo pra mim.}
+{109}{}{Nós não atacamos aqueles que são de Shady Sands. Nós somos da mesma origem.
+ É apenas certo que eles compartilhem conosco o que é deles!}
+{110}{}{Mas você esta ferindo suas crianças e os aterrorizando.}
+{111}{}{Isso me parece.}
 {112}{}{Uh, sim. Eu acho que eu irei agora.}
-{113}{}{Você soa tao fracote como eles são. Olha, se eles estivessem com qualquer problema
- de fome, entao seria culpa deles por não planejarem adiante.
- Considere o que nos fazemos uma troca de talentos.}
-{114}{}{Uma troca de talentos?!? Como isto pode ser uma troca de talentos? Voces não
- dao nada a eles.}
+{113}{}{Você soa tão fracote como eles. Olha, se eles estivessem com qualquer problema
+ de fome, então seria culpa deles por não planejarem a longo prazo.
+ Considere o que nós fazemos como uma troca de talentos.}
+{114}{}{Uma troca de talentos?!? Como isto pode ser uma troca de talentos? Vocês não
+ dão nada a eles.}
 {115}{}{Com certeza, e galinhas tem 3 pernas.}
 {116}{}{Uh, sim. Eu acho que eu irei agora.}
 {117}{}{Eu lamento, mas eu não consigo entender você. Eu estou afiando minhas facas e não
  gostaria de ser incomodada.}
-{118}{}{Nos damos a eles a coisa mais importante possivel. Nos damos excitacao as suas
- vidas secas.}
-{119}{}{Eu não acho que eles querem seu tipo de excitacao.}
-{120}{}{Eu acho que eu farei as vidas deles entediantes de novo. Eu comecarei com você!}
+{118}{}{Nós damos a eles a coisa mais importante possível. Nós damos excitação as suas
+ vidas pacatas.}
+{119}{}{Eu não acho que eles querem seu tipo de excitação.}
+{120}{}{Eu acho que eu farei as vidas deles entediantes de novo. Eu começarei com você!}
 {121}{}{Uh, sim. Eu acho que eu irei agora.}
-{122}{}{Eu não perguntei. Mas já que você não tem qualquer conceito de diversao,
- eu acho que eu encerrarei sua existencia.}
-{123}{}{Mocking me does not bode well for you. Eu sugiro a você que deixe minha presenca.}
-{124}{}{Darn straight que e justo. Agora saia da minha frente.}
-{125}{}{Eu estou ocupada agora me preparando para nosso proximo saque.}
+{122}{}{Eu não perguntei. Mas já que você não tem qualquer conceito de diversão,
+ eu acho que eu encerrarei sua existência.}
+{123}{}{Zombar de mim não é um bom presságio. Eu sugiro a você que deixe minha presença.}
+{124}{}{Maldito justo. Agora saia da minha frente.}
+{125}{}{Eu estou ocupada agora me preparando para nosso próximo saque.}

@@ -1,71 +1,71 @@
-{100}{}{Você ve o Billy.}
+{100}{}{Você vê o Billy.}
 {101}{}{Oi.}
 {102}{}{Oi, o que você esta fazendo?}
 {103}{}{Eu posso ter um brahmin?}
 {104}{}{Oi. Uh, tchau.}
 {105}{}{Arg!}
 {106}{}{Ta.}
-{107}{}{Por que você iria querer um brahmin? Você tem uma caravana? Bem, não importa. Eu so tomo conta deles.
+{107}{}{Por que você iria querer um brahmin? Você tem uma caravana? Bem, não importa. Eu só tomo conta deles.
  O Dan e aquele que os possui; apesar disso ele não vendera eles.}
 {108}{}{Por que?}
 {109}{}{Eu estava apenas brincando.}
 {110}{}{Por causa de todas as caravanas desaparecidas. Ele não tem nenhum de sobra, as caravanas usam a maioria	deles. Os
  outros são vendidos pra comida. Bem, melhor eu parar de falar; o Dan ficara louco se ele me ver falando com um estranho.}
-{111}{}{Oh, ok.}
+{111}{}{Ah, ok.}
 {112}{}{Nada . . . eu quero dizer, eu estou tomando conta dos brahmin.}
-{113}{}{Para o que e a lanca? Eles são perigosos?}
-{114}{}{O que e um brahmin?}
-{115}{}{O que e um brahmin? Você deve estar brincando. Por que eles são uma das maiores
+{113}{}{Para o que é a lança? Eles são perigosos?}
+{114}{}{O que é um brahmin?}
+{115}{}{O que é um brahmin? Você deve estar brincando. Por que eles são uma das maiores
  fontes de comida e formas de transporte por aqui. Eles haul as caravanas. O Dan
- disse que este e um trabalho realmente importante mas e dificil.}
-{116}{}{Oh, eu sabia disso!}
+ disse que este e um trabalho realmente importante mas é difícil.}
+{116}{}{Ah, eu sabia disso!}
 {117}{}{O Dan esta certo. Você esta fazendo um otimo trabalho.}
 {118}{}{Sim, parece desse jeito. Divirta-se.}
 {119}{}{Ei, você e um daqueles skags, não e?}
 {120}{}{Mesmo? Você pensa assim? Puxa, obrigado.}
-{121}{}{Você não e daqui, e? Eu darei uma dica pra você:
- Nao seja pego roubando!}
+{121}{}{Você não é daqui, e? Eu darei uma dica pra você:
+ Não seja pego roubando!}
 {122}{}{Com certeza, obrigado.}
 {123}{}{Eu não sonharia em roubar. Roubar e errado.}
 {124}{}{Sim, eu acho que eu estou comecando a concordar com você. Este trabalho não
- e tao ruim, mesmo. Ele me faz sentir bem por alguma razao. Bem, eu tenho que ir
+ e tão ruim, mesmo. Ele me faz sentir bem por alguma razão. Bem, eu tenho que ir
  antes que eu me meta em probelmas.}
 {125}{}{Por favor não machuque a mim ou a meus brahmins.}
-{126}{}{Nao me machuque!}
+{126}{}{Não me machuque!}
 {127}{}{Pare com isso!}
 {128}{}{Por favor me deixe em paz.}
 {129}{}{Você esta me assustando.}
 {130}{}{Ei, o que você esta tentando fazer? Eu não tenho nada que você queira.}
 {131}{}{Pare com isso!}
-{132}{}{Perigosos? Nao, não mesmo. Eles podem dar uma mordida bem ruim em você,
+{132}{}{Perigosos? Não, não mesmo. Eles podem dar uma mordida bem ruim em você,
  mas eles são bem legais. Eles peidam e arrotam muito. Eu não sei por que.}
-{133}{}{Entao, para o que e a lanca?}
-{134}{}{Ok, obrigado.}
-{135}{}{Oh, eles podem ser terrivelmente teimosos quando eu quero que eles facam alguma coisas. Eu apenas gentilmente
+{133}{}{Então, para o que é a lança?}
+{134}{}{Certo, obrigado.}
+{135}{}{Ah, eles podem ser terrivelmente teimosos quando eu quero que eles facam alguma coisas. Eu apenas gentilmente
  espeto eles pra se moverem por ai . . . alem do mais eu não quero que eles fiquem muito perto; eles as vezes chutam.}
 {136}{}{Por favor não fale comigo. O Dan vai gritar comigo de novo. Ele realmente fica puto -  eu quero
  dizer - zangado, quando eu não estou prestando atenção no que eu estou fazendo.}
-{137}{}{Ele so esta tentando ajudar. Trabalhe duro e eu tenho certeza de que ele será mais bacana.}
+{137}{}{Ele só esta tentando ajudar. Trabalhe duro e eu tenho certeza de que ele será mais bacana.}
 {138}{}{Aqui garoto, leve 50 pratas e fique longe deste panaca.}
-{139}{}{Ok.}
+{139}{}{Certo.}
 {140}{}{Aaaaaarg!}
 {141}{}{Rhu?}
 {142}{}{Por favor não, eu já estou com problemas o bastante.}
 {143}{}{Eu ESTOU trabalhando duro!}
 {144}{}{Eu lamento, eu não quis dizer isso. Ele apenas esta tentando ajudar você.}
-{145}{}{Nao, você não esta, seu lazy little skeev!}
-{146}{}{Ok. }
+{145}{}{Não, você não esta, seu lazy little skeev!}
+{146}{}{Certo. }
 {147}{}{Sim, talvez você esteja certo . . . na verdade, ele parece bem legal,
  mas eu gostaria que ele não gritasse tanto comigo.}
 {148}{}{Sim, certo.}
-{149}{}{Ate você, seu peido velho!}
-{150}{}{Ate você, sua velha bruxa!}
+{149}{}{Até você, seu peido velho!}
+{150}{}{Até você, sua velha bruxa!}
 {151}{}{UAU! Eu posso viver nisto pelo resto da minha vida! Muito obrigado, senhor!}
 {152}{}{UAU! Eu posso viver nisto pelo resto da minha vida! Muito obrigado, senhora!}
 {153}{}{UAU! Obrigado . . . Bem? . . . Você esta apenas tentando me pôr em problema de novo!}
 {154}{}{Por favor não fale comigo, Dan esta realmente bravo.}
-{155}{}{Nao se preocupe. Eu tive uma conversa com ele, ele tentara ser mais bacana com você.}
-{156}{}{E ele deve estar! Você e um garoto terrivel!}
+{155}{}{Não se preocupe. Eu tive uma conversa com ele, ele tentara ser mais bacana com você.}
+{156}{}{É ele deve estar! Você é um garoto terrível!}
 {157}{}{Wac.}
 {158}{}{Oi!}
 {159}{}{Aquelas garotas logo ali com certeza são burras.}
@@ -74,12 +74,12 @@
 {162}{}{Dan vai me levar para o Falcon se eu fizer um bom trabalho.}
 {163}{}{Dan vai me levar numa caravana algum dia!}
 {164}{}{Eu vou ser um aventureiro quando eu crescer.}
-{165}{}{Mesmo? Oh, okay. Eu espero que você não tenha ferido ele. Ele não e realmente tao ruim.
+{165}{}{Mesmo? Ah, okay. Eu espero que você não tenha ferido ele. Ele não é realmente tão ruim.
  Ele apenas grita muito.}
 {166}{}{Ola de novo.}
-{167}{}{O que e que você fez de novo?}
+{167}{}{O que é que você fez de novo?}
 {168}{}{Eu posso ter um brahmin?}
-{169}{}{Apenas parando para ver como as coisas estao indo. Tchau.}
+{169}{}{Apenas parando para ver como as coisas estão indo. Tchau.}
 {170}{}{Arg!}
 {171}{}{Ta.}
 {172}{}{Melhor se eu voltasse para o trabalho.}

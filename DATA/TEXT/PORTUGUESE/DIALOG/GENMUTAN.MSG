@@ -17,13 +17,13 @@
 {114}{}{Apresse-se em sua tarefa, mas esteja avisado, estou te observando.}
 {115}{}{Sim, irmãozinho. O que é que você precisa de mim?}
 {116}{}{Sim, irmãzinha. O que é que você precisa de mim?}
-{117}{}{Hng!}
+{117}{}{Hum!}
 {118}{}{Hmm, onde está esse cara Mestre?}
 {119}{}{Louvor à Unidade, irmão.}
 {120}{}{Eu sinto muito, mas você terá que encontrar o caminho para Unity.}
 {121}{}{Você é obviamente um pagão! Pague pelos seus pecados!}
 {122}{}{Ele reside no nível 3, como ele deve. Por que você faz uma pergunta tão boba?}
-{123}{}{Oh, uh, não há razão.}
+{123}{}{Ah, uh, não há razão.}
 {124}{}{Eu vou chutar a bunda dele daqui para, uh, algum lugar bem longe!}
 {125}{}{Que pergunta? Eu disse "Salve ao Mestre, adeus".
 {126}{}{Você me insulta! Morrer!}

@@ -1,14 +1,14 @@
 {100}{}{Você ganha 400 pontos de experiência por trazer a Tandi de volta.}
-{101}{}{Ao sul, você ve uma parede adobe rodeando um vila de aparencia
+{101}{}{Ao sul, você vê uma parede adobe rodeando um vila de aparencia
  pacifica.}
 {102}{}{Um pequeno barracao e tudo que resta desta area. Felizmente, seus
  registros indicam uma entrada secundaria para a vault 15 ali.}
-{103}{}{Você ve uma pequena construcao, com uma serie de tendas proximas.
+{103}{}{Você vê uma pequena construcao, com uma serie de tendas proximas.
  Os habitantes parecem sujos e maus.}
 {104}{}{Você chega a uma cidade de tamanho medio. Uma parede de carros sucateados
  bloqueiam a entrada fácil. Uma fumaca hazy descansa baixo sobre a cidade.}
-{105}{}{Ao sul você ve uma cidade grande. Fazendas Outlying rodeiam a cidade.
- Ha muita vida neste oasis do deserto.}
+{105}{}{Ao sul você vê uma cidade grande. Fazendas Outlying rodeiam a cidade.
+ Há muita vida neste oasis do deserto.}
 {106}{}{Você se aproxima de uma cidade sombria e quebrada. Pouca vida pode ser
  vista. Um fedor de morte rodeia a area.}
 {107}{}{Uma pequena construcao rodeada por uma cerca chainlink esta ao norte.
@@ -23,10 +23,10 @@
  para armas ameacadores looms a frente.}
 {113}{}{Os sinais de atividade da gangues são evidentes no clube noturno parcialmente
  reconstruido e minusculos postos avancados aqui.}
-{114}{}{No coracao da cidade, uma grande biblioteca, fortificada e restaurada, se ergue
- com presenca proibitiva ainda graciosa. Você sente uma sensacao de paz.}
+{114}{}{No coração da cidade, uma grande biblioteca, fortificada e restaurada, se ergue
+ com presença proibitiva ainda graciosa. Você sente uma sensacao de paz.}
 {115}{}{Uma vila cercada, patrulhada por guardas, espera defiantly ao sul.}
-{116}{}{Você ve uma pegada gigante no chao. Você procura mas não acha outras
+{116}{}{Você vê uma pegada gigante no chao. Você procura mas não acha outras
  trilhas na area.}
 {117}{}{Marcas de Scorch e cinzas cobrem a area.}
 {118}{}{Esta area parece que foi atingida por uma bomba de fogo de alta pressao.}

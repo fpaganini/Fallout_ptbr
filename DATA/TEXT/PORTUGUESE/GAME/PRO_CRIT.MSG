@@ -208,7 +208,7 @@
 {13800}{}{Jeremiah}
 {13900}{}{Medico Super Mutante}
 {14000}{}{Gideon}
-{14001}{}{Suas mãos estao brilhando com uma estranha energia.}
+{14001}{}{Suas mãos estão brilhando com uma estranha energia.}
 {14100}{}{Dominic}
 {14101}{}{Uma estranha energia brilha dos seus olhos.}
 {14200}{}{Lucy}
@@ -418,7 +418,7 @@
 {30100}{}{Doutor}
 {30200}{}{Katja}
 {30300}{}{Sasha}
-{30301}{}{Você ve uma Husky Siberiana esperando pacientemente pelo mestre dela.}
+{30301}{}{Você vê uma Husky Siberiana esperando pacientemente pelo mestre dela.}
 {30400}{}{Estranho Misterioso}
 {30500}{}{Ghoul Estupido}
 {30600}{}{Globo Ocular, Mk II}

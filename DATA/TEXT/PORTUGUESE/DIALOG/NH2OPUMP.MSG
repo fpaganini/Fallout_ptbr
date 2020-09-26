@@ -1,17 +1,17 @@
-{100}{}{A bomba de agua esta consertada e funcionando bem.}
-{101}{}{A bomba de agua não esta funcionando devido a uma bomba de vacuo quebrada.}
-{102}{}{A bomba de agua não esta funcionando.}
-{103}{}{Um pedaco de maquinaria.}
-{104}{}{Esta bomba de agua não esta funcionando devido a uma bomba de vacuo quebrada.}
+{100}{}{A bomba de água esta consertada e funcionando bem.}
+{101}{}{A bomba de água não esta funcionando devido a uma bomba de vacuo quebrada.}
+{102}{}{A bomba de água não esta funcionando.}
+{103}{}{Um pedaço de maquinaria.}
+{104}{}{Esta bomba de água não esta funcionando devido a uma bomba de vacuo quebrada.}
 {105}{}{Ela poderia precisar de um novo fusivel.}
-{106}{}{A bomba de agua não esta funcionando.}
-{107}{}{Você não pode reparar a bomba de agua sem uma bomba de vacuo
+{106}{}{A bomba de água não esta funcionando.}
+{107}{}{Você não pode reparar a bomba de água sem uma bomba de vacuo
  substituta.}
-{108}{}{Você falha em reparar a bomba de agua. Ela poderia precisar de um novo fusivel.}
-{109}{}{Você falha em reparar a bomba de agua.}
-{110}{}{Esta bomba de agua não esta funcionando devido a uma bomba de vacuo quebrada.}
-{111}{}{Esta bomba de agua pode precisar de um novo fusivel.}
-{112}{}{A bomba de agua não esta funcionando.}
+{108}{}{Você falha em reparar a bomba de água. Ela poderia precisar de um novo fusivel.}
+{109}{}{Você falha em reparar a bomba de água.}
+{110}{}{Esta bomba de água não esta funcionando devido a uma bomba de vacuo quebrada.}
+{111}{}{Esta bomba de água pode precisar de um novo fusivel.}
+{112}{}{A bomba de água não esta funcionando.}
 {113}{}{Você não nota nada incomum.}
 {114}{}{A bomba massiva luta para vir a vida apos você instalar com
  sucesso as partes que faltavam.}

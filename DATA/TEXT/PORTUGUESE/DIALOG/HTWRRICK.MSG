@@ -1,9 +1,9 @@
-{100}{}{Você ve o Rick, um guarda.}
+{100}{}{Você vê o Rick, um guarda.}
 {101}{}{O que você quer?}
 {102}{}{Da... Um...}
 {103}{}{Me desculpe. Eu poderia fazer algumas perguntas pra você?}
 {104}{}{Sua cabeca num palito!}
-{105}{}{Deixa pra la.}
+{105}{}{Deixa pra lá.}
 {106}{}{Volte para o lado leste, seu hop head!}
 {107}{}{O que?}
 {108}{}{Eu vou.}
@@ -15,7 +15,7 @@
 {114}{}{NAO! Melhor você tomar cuidado! Eu vou por uma bala na sua cabeca!}
 {115}{}{Você não vale meu tempo.}
 {116}{}{Se você não sabe, você provavelmente não deveria estar aqui. Esta são as Alturas. O Senhor Hightower vive aqui
- e ele so ve pessoas com appointment.}
+ e ele só vê pessoas com appointment.}
 {117}{}{Qual  e seu trabalho?}
 {118}{}{Eu posso agendar um encontro com o Sr. Hightower?}
 {119}{}{Obrigado pelo seu tempo.}
@@ -23,14 +23,14 @@
 {121}{}{Well, I'm actually interested in killing Sr. Hightower.  It's time to earn your pay!}
 {122}{}{Aonde eu estou?}
 {123}{}{Obrigado pelo seu tempo. Tchau.}
-{124}{}{Nao.}
+{124}{}{Não.}
 {125}{}{Eu não gosto da sua atitude. Melhor você sair.}
 {126}{}{Tudo bem. Eu estou indo.}
 {127}{}{Me faca, sua maldita aberracao de cabelo comprido!}
-{128}{}{Apos o por do sol ninguem e permitido nesta area. Os outros guardas nem mesmo darao um aviso. Se eles pegarem
+{128}{}{Apos o por do sol ninguém e permitido nesta area. Os outros guardas nem mesmo darao um aviso. Se eles pegarem
  você eles atacarão. Melhor voltar pro centro da cidade enquanto sua cabeca ainda esta presa ao seu pescoco.}
-{129}{}{Ok. Eu vou.}
-{130}{}{Nao. Eu fico.}
+{129}{}{Certo. Eu vou.}
+{130}{}{Não. Eu fico.}
 {131}{}{Eu não vou a lugar algum.}
 {132}{}{Lamento, eu estou indo.}
-{133}{}{Cara, você e estupido feito uma rocha, não e?  Take a hike!}
+{133}{}{Cara, você e estúpido feito uma rocha, não e?  Take a hike!}

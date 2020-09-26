@@ -1,12 +1,12 @@
-{100}{}{Você ve o Ton.}
-{101}{}{Você ve diversos membros da Children.}
+{100}{}{Você vê o Ton.}
+{101}{}{Você vê diversos membros da Children.}
 {102}{}{homem}
 {103}{}{mulher}
 {104}{}{[Feito]}
 {105}{}{[Mais]}
-{106}{}{Desculpe cara, mas você passou do ponto sem volta com a gente. E hora de você dar o fora!}
-{107}{}{Desculpe cara, mas você passou do ponto sem volta com a gente. E hora de você dar o fora!}
-{108}{}{E por que eu iria querer falar com alguem que sai por ai matando crianças? Saia da minha frente!}
+{106}{}{Desculpe cara, mas você passou do ponto sem volta com a gente. É hora de você dar o fora!}
+{107}{}{Desculpe cara, mas você passou do ponto sem volta com a gente. É hora de você dar o fora!}
+{108}{}{É por que eu iria querer falar com alguém que sai por ai matando crianças? Saia da minha frente!}
 {109}{}{Ouvi dizer que você é muito durão. Mas infelizmente isto não impressiona o Ton commo gostaria. Você tem algo a me dizer ou já quer comecar?}
 {110}{}{Paz, irmão! Estou apenas conhecendo este lugar.}
 {111}{}{Não estou nem um pouco interessado em impressionar você. Então se você tem algo útil para me dizer, então me diga logo!}
@@ -20,7 +20,7 @@
 {119}{}{garota}
 {120}{}{Ei, você acha que sua arma vai te valer alguma coisa? Cara, isso vai te valer um túmulo, isto sim. Guarde logo isso.}
 {121}{}{Ei, você acha que sua arma vai te valer alguma coisa? Cara, isso vai te valer um túmulo, isto sim. Guarde logo isso.}
-{122}{}{O que você quer, seu zumbi estupido? Saia da minha frente antes que eu te quebre ao meio.}
+{122}{}{O que você quer, seu zumbi estúpido? Saia da minha frente antes que eu te quebre ao meio.}
 {123}{}{Eu estava procurando por alguém inteligente o suficiente para me dizer o que realmente esta acontecendo por aqui!}
 {124}{}{O que os padres dirão se o ouvirem falando assim?}
 {125}{}{A qualquer hora, amigo. Estou mesmo esperando por uma boa briga!}
@@ -59,7 +59,7 @@
 {158}{}{Para mim esta ótimo}
 {159}{}{Dane-se o Mestre! Vamos matar todos eles!}
 {160}{}{Não é seguro fazer a pergunta errada, compadre. Eles têem todas as respostas daquilo que eles querem que você ouça. Pessoas que fazem as perguntas erradas, ou pessoas que estragam tudo, acabam não ficando aqui por muito tempo.}
-{161}{}{Eu faço meu trabalho e eles gostam quando eu faço o meu trabalho. Eles gostam quando os lixos da rua e seus seguidores param de respirar. Isso permite que o Nightkin faça outras coisas. Não mexa comigo. . . não será nem um pouco bom para você}
+{161}{}{Eu faço meu trabalho éeles gostam quando eu faço o meu trabalho. Eles gostam quando os lixos da rua e seus seguidores param de respirar. Isso permite que o Nightkin faça outras coisas. Não mexa comigo. . . não será nem um pouco bom para você}
 {162}{}{O que você está fazendo vestido-se como um zumbi? Se você tem algo bonito, você precisa mostrar!}
 {163}{}{Quem disse que me importo com as roupas? Eu só quero saber o que está acontecendo aqui!}
 {164}{}{Eles não te incomodam tanto se você não parecer que eles precisam te converter.}
@@ -88,8 +88,8 @@
 {187}{}{Serio?}
 {188}{}{Que bando de perdedores.}
 {189}{}{Conte-me mais sobre seu pelotão.}
-{190}{}{Ok, vou me inscrever.}
-{191}{}{Alguém deve tirá-los de sua miséria. Alguem como eu . . .}
+{190}{}{Certo, vou me inscrever.}
+{191}{}{Alguém deve tirá-los de sua miséria. Alguém como eu . . .}
 {192}{}{Quando recebemos a palavra, saí­mos e matamos pessoas. Pessoas como os Seguidores ou alguns dos tipos de gangues mais perigosos.}
 {193}{}{Então, os Seguidores são um problema?}
 {194}{}{Isso parece muito doentio para mim.}
@@ -105,16 +105,16 @@
 {204}{}{Obrigado. Você é um verdadeiro amigo.}
 {205}{}{Eu não preciso de sorte enquanto eu tiver munição.}
 {206}{}{Essas pessoas, esses zumbis, aqui nem sempre foram assim. Eu poderia até suportar alguns deles. Então eles se converteram. Alguns deles sairam assim, outros nem sairam. Ton não gosta, mas essas pessoas pagam bem.}
-{207}{}{Por que você continua pulando entre a primeira e a terceira pessoa?}
+{207}{}{Por que você continua pulando entre a primeira é a terceira pessoa?}
 {208}{}{Conte-me mais sobre o processo de conversão.}
 {209}{}{Você passou pelo processo de conversão?}
 {210}{}{Este lugar é estritamente barato.}
 {211}{}{Realmente quanto?}
 {212}{}{Ninguém vai fazer isso comigo!}
 {213}{}{Você fala com Morpheus ou com Lasher, ou pode arriscar incomodar o Ton, e ele lhe responder com mais violência do que você poderia suportar.}
-{214}{}{Bem, baby, o que está acontecendo é que há muitos zumbis cantando, muitas pessoas morrendo e as crianças vão assumir tudo. E aí você e eu e nada mais importa!}
+{214}{}{Bem, baby, o que está acontecendo é que há muitos zumbis cantando, muitas pessoas morrendo e as crianças vão assumir tudo. É aí você e eu e nada mais importa!}
 {215}{}{Mas Barracas, querida, certamente há mais coisas acontecendo do que isso. . .}
-{216}{}{Oh, Ton!}
+{216}{}{Ah, Ton!}
 {217}{}{Esqueça, cara. Você não é meu tipo.}
 {218}{}{Nada mais importa? De jeito nenhum! Eu quero ouvir sobre a parte da morte!}
 {219}{}{Infelizmente, este é o pior lugar do mundo para experimentar o que Ton faz de melhor. Muitos zumbis atrapalham meu estilo. Avisarei quando pensar em algum lugar mais conveniente. . .}

@@ -1,35 +1,35 @@
 {100}{}{Este parece o computador do Controle do Campo.}
 {101}{}{Ele aparenta ter um transmissor para signaling do campo, um receptor para
- comandos remotos, e uma porta de comunicacoes de dados do radio padrao.}
+ comandos remotos, é uma porta de comunicações de dados do radio padrao.}
 {102}{}{Conforme você ativa o computador do Controle do Campo, você consegue
  ouvir um low-pitched hum atraves do complexo.}
 {103}{}{Você não usa o computador apropriadamente.}
 {104}{}{Você não consegue desativar o computador do Controle do Campo.
- Todos os controles estao trancados e encriptados.}
+ Todos os controles estão trancados e encriptados.}
 {105}{}{Você não entende o sistema operacional do
  computador.}
-{106}{}{Os sub-sistemas do campo de forca não estao nem de perto
+{106}{}{Os sub-sistemas do campo de força não estão nem de perto
  protegidos bem o bastante contra os talentos do seu tipo.
- Você desliga todos os campos de forca neste nível.}
-{107}{}{Os sub-sistemas do campo de forca estao bem protegidos, mas você
- consegue desligar a metade deles. E o melhor que você pode fazer.}
-{108}{}{Os sub-sistemas do campo de forca estao protegidos contra
+ Você desliga todos os campos de força neste nível.}
+{107}{}{Os sub-sistemas do campo de força estão bem protegidos, mas você
+ consegue desligar a metade deles. É o melhor que você pode fazer.}
+{108}{}{Os sub-sistemas do campo de força estão protegidos contra
  invasao eletronica. Você passa algum tempo trabalhando neles,
  mas não os quebrou ainda.}
 {109}{}{Você quebra a banca em um jogo de 21 e entra furtivamente
  no sistema principal atraves da tela do fim do jogo.}
-{110}{}{Você joga um jogo de 21 mas não e bom o bastante para
+{110}{}{Você joga um jogo de 21 mas não é bom o bastante para
  quebra-lo.}
-{111}{}{A unica pasta não protegida e a pasta de Jogos
+{111}{}{A unica pasta não protegida é a pasta de Jogos
  Recreacionais, a qual pode ser usada como um backdoor.}
-{112}{}{A unica pasta não protegida e a pasta de Jogos
+{112}{}{A unica pasta não protegida é a pasta de Jogos
  Recreacionais.}
 {113}{}{Você olha pro computador com nojo.}
-{114}{}{Você acha que todas as pastas estao protegidas mas você
+{114}{}{Você acha que todas as pastas estão protegidas mas você
  não completou sua busca.}
 {115}{}{Você entrou no sistema principal e agora precisa reprogramar
- os controles do campo de forca.}
+ os controles do campo de força.}
 {116}{}{Você ganha 800 pontos de experiência por seus procedimentos de hackeamento incomuns.
  Blackjack!}
-{117}{}{Você liga o radio ao computador de controle do campo de forca.}
+{117}{}{Você liga o radio ao computador de controle do campo de força.}
 {118}{}{Sua tentativa de wire o radio no computador falha.}

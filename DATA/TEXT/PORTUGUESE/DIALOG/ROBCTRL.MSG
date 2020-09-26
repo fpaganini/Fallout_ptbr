@@ -3,13 +3,13 @@
 {102}{}{Reprogramming complete. Initializing voice communication subsystems.
  Initializing personality subsystem. [Click!] How may this terminal
  be of service?}
-{103}{}{Hng.}
+{103}{}{Hum.}
 {104}{}{Quem ou o que é você?}
 {105}{}{Qual é a sua função?}
 {106}{}{Exibir lista de programas.}
 {107}{}{Erro na entrada de dados. Comando não em conjunto. Por favor reinicie.}
-{108}{}{Hng.}
-{109}{}{La-la.}
+{108}{}{Hum.}
+{109}{}{La-lá.}
 {110}{}{Brai!}
 {111}{}{Niggle!}
 {112}{}{Fim do sub-sistema de comunicação. Fim do processo.}
@@ -82,7 +82,7 @@ pelo jogo.}
 {160}{}{Obrigado. Fim da entrada de dados.}
 {161}{}{Initializing voice communication subsystems. Initializing personality
  subsystems. [Click!] How may this terminal be of service?}
-{162}{}{Hnng.}
+{162}{}{Hhumm.}
 {163}{}{Me mostre seus programas.}
 {164}{}{Desligar todos os campos de força.}
 {165}{}{Você sabe o que este local é?}

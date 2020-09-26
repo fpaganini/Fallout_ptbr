@@ -1,7 +1,7 @@
-{100}{}{Você ve um guarda do Hub.}
+{100}{}{Você vê um guarda do Hub.}
 {101}{}{Eu posso ajudar você?}
 {102}{}{Sim. Poderia me dizer aonde eu estou?}
-{103}{}{Adeus.}
+{103}{}{Tchau.}
 {104}{}{Uhhhhhhh.  Huh huh.  Uhhhhh.  Huh.}
 {105}{}{Cara, você e mais burro do que um saco de martelos, não e? Saia daqui!}
 {106}{}{Você esta no fim sul do Hub. Se você olhar por ai você achara os Mercadores das Aguas e um pequeno hospital.}

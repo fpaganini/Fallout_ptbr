@@ -1,5 +1,5 @@
-{100}{}{Ha uma granada rigged debaixo deste painel do chao.}
-{101}{}{ Nao esta armada.}
+{100}{}{Há uma granada rigged debaixo deste painel do chao.}
+{101}{}{ Não esta armada.}
 {102}{}{Você desarma a armadilha e remove a granada de plasma.}
 {103}{}{Você esta removendo o tripwire do interruptor da arma quando você solta
  o pino e detona a granada!}

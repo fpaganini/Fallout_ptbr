@@ -1,5 +1,5 @@
-{100}{}{Você ve uma porta que parece muito segura.}
-{101}{}{A porta não e afetada pela técnica.}
+{100}{}{Você vê uma porta que parece muito segura.}
+{101}{}{A porta não é afetada pela técnica.}
 {102}{}{Você e eletrocutado pelo sistema de seguranca e toma }
 {103}{}{ pontos de dano.}
 {104}{}{Você a destranca a porta com a Chave de Passe Vermelha.}
@@ -10,8 +10,8 @@
 {108}{}{A porta parece estar protegida por um campo de energia. Talvez você
  possa desativa-lo de algum modo.}
 {109}{}{A porta parece ter uma tranca secundaria.}
-{110}{}{Você nota que ha algumas marcas vermelhas na porta.}
-{111}{}{Você nota que ha algumas marcas vermelhas na porta.}
+{110}{}{Você nota que há algumas marcas vermelhas na porta.}
+{111}{}{Você nota que há algumas marcas vermelhas na porta.}
 {112}{}{Você pensa sobre o que poderia destrancar a porta.}
 {113}{}{Você passed com sucesso o sistema de seguranca.}
 {114}{}{Você ativa o sistema de seguranca e e eletrocutado e toma }

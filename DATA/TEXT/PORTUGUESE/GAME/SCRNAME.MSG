@@ -84,7 +84,7 @@
 {184}{}{Campones Ghoul}                                 #  Meander
 {185}{}{Super Mutante}                                 #  Mutant2
 {186}{}{Computador da Agua}                             #  NH2OComp
-{187}{}{Bomba D'agua}                                 #  NH2OPump
+{187}{}{Bomba D'água}                                 #  NH2OPump
 {188}{}{Parede}                                         #  OddWall
 {189}{}{Prisoneiro Ghoul}                               #  Prisonr
 {190}{}{Sally}                                          #  Sally
@@ -160,7 +160,7 @@
 {260}{}{Escada}                                        #  NDwn2Up1
 {261}{}{Escada}                                        #  NDwn2Up2
 {262}{}{Guarda do Portao}                               #  GateDemo   ;
-{263}{}{Guarda do Racionamento D'agua}                 #  WtrGrd
+{263}{}{Guarda do Racionamento D'água}                 #  WtrGrd
 {264}{}{Bacia Hidrografica}                             #  WatrShed
 {265}{}{Boca-de-Lobo}                                   #  NWUp2Dn1
 {266}{}{Boca-de-Lobo}                                   #  NWUp2Dn2
@@ -299,7 +299,7 @@
 {399}{}{Computador}                                    #  GloComp
 {400}{}{Porta Segura}                                   #  Glo3Supl
 {401}{}{Gerador}                                      #  GlowGen
-{402}{}{Bomba D'agua}                                 #  GlowPump
+{402}{}{Bomba D'água}                                 #  GlowPump
 {403}{}{Alojamentos}                                       #  SciRoom
 {404}{}{Arma Sentinela}                                 #  SentryGn
 {405}{}{Porta com tinta vermelha nela}                  #  GloRdDor
@@ -458,7 +458,7 @@
 {558}{}{Vault 13}                                       # V132Cave.int
 {559}{}{Porta Segura}                                   # SecDoor.int
 {560}{}{Holofotes}                                     # SPOTLITE
-{561}{}{Ladrão D'agua}                                 # WtrThief.int
+{561}{}{Ladrão D'água}                                 # WtrThief.int
 {562}{}{Jennifer}                                       # Jennifer.int
 {563}{}{Explosão}                                       # Blast.int
 {564}{}{Cadeira}                                       # UzChair.int
@@ -810,7 +810,7 @@
 {910}{}{Estante de Livros}                              # Bookcase.int
 {911}{}{Tecnico das Crianças da Catedral}           # MLOps.int
 {912}{}{Perigoso}                                       # Viscious.int
-{913}{}{Caixa de Armazenagem dos Recipientes D'agua}    # VaultBox.int
+{913}{}{Caixa de Armazenagem dos Recipientes D'água}    # VaultBox.int
 {914}{}{Computador}                                    # MstrComp.int
 {915}{}{Porta}                                          # Childoor.int
 {916}{}{Julio}                                          # HWMHost.int

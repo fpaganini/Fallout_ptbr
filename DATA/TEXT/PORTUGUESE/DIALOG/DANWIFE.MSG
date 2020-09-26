@@ -1,4 +1,4 @@
-{100}{}{Você ve a esposa do Dan.}
+{100}{}{Você vê a esposa do Dan.}
 {101}{}{Eu não deveria falar com ninguêm. Por favor veja meu marido.}
 {102}{}{Eu lamento, você precisa falar com meu marido.}
 {103}{}{Seu homem horrivel, por que você fez isto? Você matou meu Danny!}

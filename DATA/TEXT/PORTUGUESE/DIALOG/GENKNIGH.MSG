@@ -11,8 +11,8 @@
  Rhombus.}
 {108}{}{Eu gostaria de colocar minhas mãos nesses atacantes. Mostre a eles que ladrões
  merecer.}
-{109}{}{É isso. . . o que? Oh, desculpe. Eu não posso falar agora.}
-{110}{}{eu me pergunto. . . Hã? Oh, você me fez perder minha linha de pensamento.}
+{109}{}{É isso. . . o que? Ah, desculpe. Eu não posso falar agora.}
+{110}{}{eu me pergunto. . . Hã? Ah, você me fez perder minha linha de pensamento.}
 {111}{}{adoro trabalhar em novos protótipos.}
 {112}{}{Quando nossos suprimentos são limitados, pode ser realmente um desafio encontrar
  uma maneira de usar o que temos.}

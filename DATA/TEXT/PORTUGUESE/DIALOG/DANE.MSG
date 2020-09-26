@@ -1,114 +1,114 @@
-{100}{}{Voce ve um homem grande, forte, burly.}
-{101}{}{Nos nao acabamos de nos encontrar? Voce veio pra me matar?}
-{102}{}{Eu sei que os pais supostamente nao devem abraçar seus filhos, mas eu amo voce, papai!}
+{100}{}{Você vê um homem grande, forte, burly.}
+{101}{}{Nós não acabamos de nos encontrar? Você veio pra me matar?}
+{102}{}{Eu sei que os pais supostamente não devem abraçar seus filhos, mas eu amo você, papai!}
 {103}{}{Mestre, era isto o que eu supostamente deveria me tornar, Mestre?}
-{104}{}{Nao ha nada como um Dane.}
+{104}{}{Não há nada como um Dane.}
 {105}{}{Qual e sua cor favorita amigo? A minha e leite!}
-{106}{}{Voce e um idiota, Dane. Eles vao matar voce e voce merece! Fraco! Fraco!}
-{107}{}{Mae, por que voce achou que eles soltariam uma bomba?}
+{106}{}{Você é um idiota, Dane. Eles vao matar você e você merece! Fraco! Fraco!}
+{107}{}{Mae, por que você achou que eles soltariam uma bomba?}
 {108}{}{Eles o fizeram com graça e tal aplomb!}
-{109}{}{Meu nome d Dane, nao e Tom!}
-{110}{}{Sua poesia e uma droga, cara! E uma droga! E uma droga! E uma droga!}
+{109}{}{Meu nome d Dane, não é Tom!}
+{110}{}{Sua poesia é uma droga, cara! É uma droga! É uma droga! É uma droga!}
 {111}{}{Eu gosto do Sr. Handy! Eu quero ter sexo com as maozinhas pequenas e fofas dele...}
-{112}{}{Eu sou louco. Eu enlouqueci. Oh meu deus, eu fiquei completamente louco! Pense sobre a paz! Pense sobre a Unidade!}
+{112}{}{Eu sou louco. Eu enlouqueci. Ah meu deus, eu fiquei completamente louco! Pense sobre a paz! Pense sobre a Unidade!}
 {113}{}{Eu quero um cavalo! Eu preciso de um cavalo! Traga-me um cavaelo, maldiçao! Um cavalo!}
-{114}{}{Eles estao nos observando mesmo agora! Sr. Nightkin! Felix e Timothy! Gatos! Cachorros! Nightkin!}
-{115}{}{Cale-se! Eles pensarao que voce e um cuzao louco! Voce tem que se recompor!}
-{116}{}{Lasher! Voce tem que matar o Lasher! Salve o garoto! Pobre Criancinha da Flor. Pobre de mim.}
+{114}{}{Eles estão nos observando mesmo agora! Sr. Nightkin! Felix e Timothy! Gatos! Cachorros! Nightkin!}
+{115}{}{Cale-se! Eles pensarao que você e um cuzao louco! Você tem que se recompor!}
+{116}{}{Lasher! Você tem que matar o Lasher! Salve o garoto! Pobre Criancinha da Flor. Pobre de mim.}
 {117}{}{Cale-se seu filho da puta! Recomponha-se!}
 {118}{}{[Cantando off-key] Uma vez, eu estava perdido e agora eu vejo! Sem mais batismo agora pra mim!}
 {119}{}{Sabe, eu uma vez escutei escondido o Morpheus balançando seu punho para os Nightkin. Ou eu o cheirei?}
-{120}{}{Voce sao tolos por chorarem por mim. Nunca chore pelo leite derramado... ou mercadorias estragadas.}
-{121}{}{Alguem sabe como consertar uma torradeira?}
-{122}{}{Claro que eles sabem, idiota! E sua cabeça que eles nao conseguem consertar seu filho da puta!}
-{123}{}{Sao as armas seu cuzao! A polvora e inteligente e ma e controla seu cerebro! Quanto mais polvora perto de voce mais louco voce se torna! BOOM! BOOM! BOOM!}
+{120}{}{Você são tolos por chorarem por mim. Nunca chore pelo leite derramado... ou mercadorias estragadas.}
+{121}{}{Alguém sabe como consertar uma torradeira?}
+{122}{}{Claro que eles sabem, idiota! É sua cabeça que eles não conseguem consertar seu filho da puta!}
+{123}{}{Sao as armas seu cuzao! A polvora e inteligente e ma e controla seu cerebro! Quanto mais polvora perto de você mais louco você se torna! BOOM! BOOM! BOOM!}
 {124}{}{... eu apenas quero botar foooogoooo no mundo!!!}
-{125}{}{Voce quer rassle? Eu costumava ser muito bom nela... ate os Nightkin me derrotarem. Apesar disso ter precisado de dois deles. Os Nightkin sao muito fortes!}
-{126}{}{Eles sao mutantes seu tolo! Claro que eles sao fortes!}
-{127}{}{E assim sao os pinguins. E bufalo gyro. Eles atiraram neles com armas pra grandes bisoes. Voce tem que tomar cuidado com essas mulheres bufalo. Elas soltarao um bisao em voce tao rapido que voce nao sabera o que acertou voce! Ha!}
-{128}{}{Eu nao conheço voce de algum lugar? Seu cerebro doi tambem?}
-{129}{}{Claro que voce conhece ele, Dane, seu idiota! Ele e nosso inimigo! Ele deve ser destruido!}
-{529}{}{Claro que voce conhece ela, Dane, seu idiota! Ela e nossa inimiga! Ela deve ser destruida!}
-{130}{}{Nao se importe com ele, ele e um cuzao. Eu amo voce. Voce me ama?}
-{131}{}{Eu costumava viver em Penticton, British Columbia. Ou talvez eu a vi numa mapa dos velhos dias. Aqueles foram os bons velhos dias. Eu desejo que eu estivesse vivo la atras...}
-{132}{}{Voce nao esta cansado de falar comigo? Isto nao e incrivelmente tedioso?}
-{133}{}{Voce nao esta cansado de falar com voce mesmo, seu bastardo esquizofrenico?}
-{134}{}{Eu me odeio. Eu quero morrer mas voce esta contando comigo. Contando comigo pra dizer algo que faça toda minha merda significar alguma coisa! Algo importante!}
-{135}{}{So pra mudar por que eu nao posso ser o importante?}
+{125}{}{Você quer rassle? Eu costumava ser muito bom nela... até os Nightkin me derrotarem. Apesar disso ter precisado de dois deles. Os Nightkin são muito fortes!}
+{126}{}{Eles são mutantes seu tolo! Claro que eles são fortes!}
+{127}{}{É assim são os pinguins. É bufalo gyro. Eles atiraram neles com armas pra grandes bisoes. Você tem que tomar cuidado com essas mulheres bufalo. Elas soltarao um bisao em você tão rapido que você não sabera o que acertou você! Há!}
+{128}{}{Eu não conheço você de algum lugar? Seu cerebro doi tambem?}
+{129}{}{Claro que você conhece ele, Dane, seu idiota! Ele e nosso inimigo! Ele deve ser destruido!}
+{529}{}{Claro que você conhece ela, Dane, seu idiota! Ela e nossa inimiga! Ela deve ser destruida!}
+{130}{}{Não se importe com ele, ele e um cuzao. Eu amo você. Você me ama?}
+{131}{}{Eu costumava viver em Penticton, British Columbia. Ou talvez eu a vi numa mapa dos velhos dias. Aqueles foram os bons velhos dias. Eu desejo que eu estivesse vivo lá atras...}
+{132}{}{Você não esta cansado de falar comigo? Isto não é incrivelmente tedioso?}
+{133}{}{Você não esta cansado de falar com você mesmo, seu bastardo esquizofrenico?}
+{134}{}{Eu me odeio. Eu quero morrer mas você esta contando comigo. Contando comigo pra dizer algo que faça toda minha merda significar alguma coisa! Algo importante!}
+{135}{}{So pra mudar por que eu não posso ser o importante?}
 {136}{}{MUUUUUU! MUUUU! MUUUUUU! MUUUU!}
 {137}{}{MUUUUUU! MUUUU! MUUUUUU! MUUUU!}
-{138}{}{Eu estou entediado. O que e pior, eu fui ferrado. Nao e mais divertido. Voce ja teve a sensaçao que voce era apenas cordas e que eles nao se importavam de pendurar voce. Eu estou por todo o chao!}
+{138}{}{Eu estou entediado. O que é pior, eu fui ferrado. Não e mais divertido. Você ja teve a sensaçao que você era apenas cordas e que eles não se importavam de pendurar você. Eu estou por todo o chao!}
 {139}{}{MUUUUUU! MUUUU! MUUUUUU! MUUUU!}
-{140}{}{Basta com os brahmins! Voce começara a feder como eles! Entao todos vomitarao!}
-{141}{}{Eu costumava ser insano sabe, ate que eu fui atraves do processo do servidor. Eu costumava ser insano mas agora eu estou apenas em pedaços. Pedaços! Pedaços!}
-{142}{}{Filho da puta, eu sou um enigma! Voce me ajudara a me juntar?}
-{143}{}{Eu nao consigo acreditar que alguem ainda esta falando comigo...}
-{144}{}{E tudo um jogo veja voce. Um jogo e eu sou um dos pedaços. E um garoto ficou zangado mesmo e entao ele começou a pisar em mim. Pisar e pisar e pisar e pisar e finalmete eu simplesmente quebrei!}
+{140}{}{Basta com os brahmins! Você começara a feder como eles! Então todos vomitarao!}
+{141}{}{Eu costumava ser insano sabe, até que eu fui atraves do processo do servidor. Eu costumava ser insano mas agora eu estou apenas em pedaços. Pedaços! Pedaços!}
+{142}{}{Filho da puta, eu sou um enigma! Você me ajudara a me juntar?}
+{143}{}{Eu não consigo acreditar que alguém ainda esta falando comigo...}
+{144}{}{É tudo um jogo veja você. Um jogo e eu sou um dos pedaços. É um garoto ficou zangado mesmo e então ele começou a pisar em mim. Pisar e pisar e pisar e pisar e finalmete eu simplesmente quebrei!}
 {145}{}{Talvez they'll scoop out meu cerebro! Scoop out meu cerebro e me transformar no animal de estimaçao deles! Aqui, Dane! Pegue a bola, Dane! Sic 'em, Dane! Sic 'em, Dane! Sic 'em, Dane! Execute eles seu cao de cerebro morto!}
-{146}{}{Por que voce chama ele de Mestre?}
-{147}{}{A vida e uma droga, mas a morte e uma droga pior e nos nao podemos voltar no temp pra parar nosso nascimento, entao qual e o ponto?}
-{148}{}{Eu acho que eles entendem, cuzao! Eles sabem que o processo do servidor ferra voce! Eles sabem esta 'maquina de batismo' apenas mexe...}
-{149}{}{Meu nome e Dane. Eu sou um Viking. Eu gosto de patos. Eu estupro e saqueio! Voce estuprara e saqueara comigo?}
-{150}{}{Oh Deus! Mestre, nao Deus! Pelo menos eu lembro do meu proprio nome. Pelo menos eu ainda tenho isso. A maioria das outras falhas nao tinham antes deles atirarem nelas. Tambem nao eram cadaveres bonitos. Os alvos de pratica dos Nightkin!}
-{151}{}{E entao haviam aqueles que perderam as mentes deles completamente. Eu desejo que eles estivessem mortos.}
+{146}{}{Por que você chama ele de Mestre?}
+{147}{}{A vida é uma droga, mas a morte é uma droga pior e nós não podemos voltar no temp pra parar nosso nascimento, então qual é o ponto?}
+{148}{}{Eu acho que eles entendem, cuzao! Eles sabem que o processo do servidor ferra você! Eles sabem esta 'maquina de batismo' apenas mexe...}
+{149}{}{Meu nome e Dane. Eu sou um Viking. Eu gosto de patos. Eu estupro e saqueio! Você estuprara e saqueara comigo?}
+{150}{}{Ah Deus! Mestre, não Deus! Pelo menos eu lembro do meu proprio nome. Pelo menos eu ainda tenho isso. A maioria das outras falhas não tinham antes deles atirarem nelas. Tambem não eram cadaveres bonitos. Os alvos de pratica dos Nightkin!}
+{151}{}{É então haviam aqueles que perderam as mentes deles completamente. Eu desejo que eles estivessem mortos.}
 {152}{}{Eu acho eu chamarei minha primeira criança de Fallout. Eu tive um filho uma vez mas a radiaçao comeu ele no utero da mae dele.}
-{153}{}{Cuzao! Voce simplesmente riu! Voce nao deu uma merda de minima pra ele ou pra mae dele antes!}
-{154}{}{Os mutantes nao conseguem se reproduzir. E todos nos vamos nos tornar mutantes! Voce nao sabe o que isso significa! O mundo sera esteril! Esteril! Estereil! Nos nao procriaremos! Nos morreremos todos!}
-{155}{}{Pare ele! Pare ele! Pare ele! Alguem faça ele parar!}
-{156}{}{Mestre! Eu nao deveria ter dito nada. Eu ouvi os Nightkin chorando e eu lamento por isso.}
-{157}{}{O que e o mal? O mal e quando o bem fica completamente ferrado! O mal e quando pessoas corajosas nao conseguem ser corajosas mais! O Evil (mal) e um anagrama de vile (vil)! Tem que haver um padrao moral em algum lugar!}
-{158}{}{Cale-se cuzao! Padroes morais! Certo como o inferno que nao estao aqui!}
-{159}{}{Sabe, eu costumava pensar que a religiao era um chamado nobre, e talvez seja; mas voce nao pode caminhar nela cegamente ou eles tomarao o controle do seu cerebro.}
-{160}{}{... zumbis sao uma desgraça pra Deus, voce sabe.}
-{161}{}{Mas por que Deus faz pessoas que quebram tao facilmente?}
+{153}{}{Cuzao! Você simplesmente riu! Você não deu uma merda de minima pra ele ou pra mae dele antes!}
+{154}{}{Os mutantes não conseguem se reproduzir. É todos nos vamos nos tornar mutantes! Você não sabe o que isso significa! O mundo sera esteril! Esteril! Estereil! Nós não procriaremos! Nós morreremos todos!}
+{155}{}{Pare ele! Pare ele! Pare ele! Alguém faça ele parar!}
+{156}{}{Mestre! Eu não deveria ter dito nada. Eu ouvi os Nightkin chorando e eu lamento por isso.}
+{157}{}{O que é o mal? O mal e quando o bem fica completamente ferrado! O mal e quando pessoas corajosas não conseguem ser corajosas mais! O Evil (mal) e um anagrama de vile (vil)! Tem que haver um padrao moral em algum lugar!}
+{158}{}{Cale-se cuzao! Padroes morais! Certo como o inferno que não estão aqui!}
+{159}{}{Sabe, eu costumava pensar que a religiao era um chamado nobre, e talvez seja; mas você não pode caminhar nela cegamente ou eles tomarao o controle do seu cerebro.}
+{160}{}{... zumbis são uma desgraça pra Deus, você sabe.}
+{161}{}{Mas por que Deus faz pessoas que quebram tão facilmente?}
 {162}{}{Eu acho que eu posso finalmente responder algumas perguntas agora. Lamento que demorou tanto.}
 {163}{}{Para o que este lugar e usado?}
 {164}{}{Diga-me sobre os Nightkin.}
 {165}{}{O que esta acontecendo por aqui?}
-{166}{}{O que eles fizeram com voce?}
-{167}{}{Quem e o Mestre?}
-{168}{}{Voce quer morrer? Eu posso acabar com sua miseria.}
-{169}{}{Voce soa estupido!}
+{166}{}{O que eles fizeram com você?}
+{167}{}{Quem é o Mestre?}
+{168}{}{Você quer morrer? Eu posso acabar com sua miseria.}
+{169}{}{Você soa estúpido!}
 {170}{}{Este e o batismo. Eles fazem servidores aqui. Quando os acolitos forem doutrinados eles trazem ele aqui e eles vao atraves do processo. Alguns deles sobrevivem...}
-{171}{}{A maioria perde suas mentes mas eles ainda sao uteis. Eles jogam eles escada abaixo, rant com eles sobre o Mestre e caminham por ai em um estupor. Voce viu os zumbis. Otimo trabalho escravo -- e soldados...}
+{171}{}{A maioria perde suas mentes mas eles ainda são uteis. Eles jogam eles escada abaixo, rant com eles sobre o Mestre e caminham por ai em um estupor. Você viu os zumbis. Otimo trabalho escravo -- e soldados...}
 {172}{}{O corpo do John Brown esta molderin' no tumulo. O corpo do John Brown esta molderin no tumulo, o corpo do John Brown esta a-molderin' no tumulo e o Mestre esta nos ferrandoooooo.........}
-{173}{}{Pare com isso. Esta ficando dificil mesmo de me segurar.}
+{173}{}{Pare com isso. Esta ficando difícil mesmo de me segurar.}
 {174}{}{Diga-me sobre os Nightkin.}
 {175}{}{O que esta acontecendo por aqui?}
-{176}{}{O que eles fizeram com voce?}
-{177}{}{Quem e o Mestre?}
-{178}{}{Voce quer morrer? Eu posso acabar com sua miseria.}
-{179}{}{Ooops! Eu nao consigo mais me controlar! Whee! Whee! Whee!}
-{180}{}{Eles sao mutantes. Eu ouvi eles falaram. Eu sou muito furtivo. Eu sei todos os segredos deles. Eles me odeiam. Me odeiam muito.}
-{181}{}{Eu estou ferrado mas isto e so a Fase 1 do Plano de Ferrar com Todos da Catedral. Quando os servidores ficaram com os cerebros completamente lavados eles vao pra Fase  2. Isso e quando o Mestre batiza eles no VEF-2!}
-{182}{}{A maioria morre logo ali. Mas aqueles que sobrevivem se tornam mutantes. GRANDES mutantes. Nightkin! O Mestre acha que so os Nightkin podem sobreviver. Ele quer transformar todos em Nightkin porque eles sao fortes!}
-{183}{}{Voce sabe toda esta merda de paz e unidade? Nao e realmente merda para o Mestre. Ele realmente acha que ele esta salvando o mundo!}
-{184}{}{Esteril! Nos vamos todos ser aberraçoes hidoes, estereis! Estereis! Estereis! Estereis! Meu nome nao e Errol! Estereis!}
+{176}{}{O que eles fizeram com você?}
+{177}{}{Quem é o Mestre?}
+{178}{}{Você quer morrer? Eu posso acabar com sua miseria.}
+{179}{}{Ooops! Eu não consigo mais me controlar! Whee! Whee! Whee!}
+{180}{}{Eles são mutantes. Eu ouvi eles falaram. Eu sou muito furtivo. Eu sei todos os segredos deles. Eles me odeiam. Me odeiam muito.}
+{181}{}{Eu estou ferrado mas isto e só a Fase 1 do Plano de Ferrar com Todos da Catedral. Quando os servidores ficaram com os cerebros completamente lavados eles vao pra Fase  2. Isso e quando o Mestre batiza eles no VEF-2!}
+{182}{}{A maioria morre logo ali. Mas aqueles que sobrevivem se tornam mutantes. GRANDES mutantes. Nightkin! O Mestre acha que só os Nightkin podem sobreviver. Ele quer transformar todos em Nightkin porque eles são fortes!}
+{183}{}{Você sabe toda esta merda de paz e unidade? Não e realmente merda para o Mestre. Ele realmente acha que ele esta salvando o mundo!}
+{184}{}{Esteril! Nós vamos todos ser aberraçoes hidoes, estereis! Estereis! Estereis! Estereis! Meu nome não é Errol! Estereis!}
 {185}{}{Diga-me sobre os Nightkin.}
 {186}{}{O que esta acontecendo por aqui?}
-{187}{}{O que eles fizeram com voce?}
-{188}{}{Quem e o Mestre?}
-{189}{}{Voce quer morrer? Eu posso acabar com sua miseria.}
+{187}{}{O que eles fizeram com você?}
+{188}{}{Quem é o Mestre?}
+{189}{}{Você quer morrer? Eu posso acabar com sua miseria.}
 {190}{}{MUUUUUU! MUUUUUU! MUUUUUU! Brahmin Nightkin, atravessando! Aqui vem um pouco de leite esteril!}
-{191}{}{O fim do mundo como nos o conhecemos. Exercitos mutantes na Vault, nao me culpe, a culpa e do Mestre. Quando nos tivermos a Unidade, ai e quando a diversao do Mestre REALMENTE começa.}
+{191}{}{O fim do mundo como nos o conhecemos. Exercitos mutantes na Vault, não me culpe, a culpa e do Mestre. Quando nos tivermos a Unidade, ai e quando a diversão do Mestre REALMENTE começa.}
 {192}{}{Diga-me sobre os Nightkin.}
-{193}{}{Que tipo de diversao?}
-{194}{}{O que eles fizeram com voce?}
-{195}{}{Quem e o Mestre?}
-{196}{}{Voce quer morrer? Eu posso acabar com sua miseria.}
-{197}{}{Ooops! Eu nao consigo mais me controlar! Whee! Whee! Whee!}
-{198}{}{Me jogaram nos quimicos, me encheram cheios de buracos, fizeram barulhos altos pra mim. Esse tipo de merda. Tentaram me transformar em algo que eu nao sou. Os pais fazem isso o tempo todo.}
+{193}{}{Que tipo de diversão?}
+{194}{}{O que eles fizeram com você?}
+{195}{}{Quem é o Mestre?}
+{196}{}{Você quer morrer? Eu posso acabar com sua miseria.}
+{197}{}{Ooops! Eu não consigo mais me controlar! Whee! Whee! Whee!}
+{198}{}{Me jogaram nos quimicos, me encheram cheios de buracos, fizeram barulhos altos pra mim. Esse tipo de merda. Tentaram me transformar em algo que eu não sou. Os pais fazem isso o tempo todo.}
 {199}{}{Eu me machuquei pra valer.}
 {200}{}{Para o que este lugar e usado?}
 {201}{}{Diga-me sobre os Nightkin.}
 {202}{}{O que esta acontecendo por aqui?}
-{203}{}{Quem e o Mestre?}
-{204}{}{Voce quer morrer? Eu posso acabar com sua miseria.}
-{205}{}{Voce soa estupido!}
+{203}{}{Quem é o Mestre?}
+{204}{}{Você quer morrer? Eu posso acabar com sua miseria.}
+{205}{}{Você soa estúpido!}
 {206}{}{Eu tambem costumava machucar pessoas pra valer. Eu era um gato! Caramba,
- eu era um deus! Um deus durao filho da puta! Mas nao era o bastante. Eu era
+ eu era um deus! Um deus durao filho da puta! Mas não era o bastante. Eu era
  uma boa maquina de lutar! Mas agora eu estou... eu estou... me ajude...}
-{207}{}{Sabe, os Nightkin dizem que ele e mais feio do que eles sao.
+{207}{}{Sabe, os Nightkin dizem que ele e mais feio do que eles são.
  Isso significa que ele deve ser um filho da puta horrendo.}
 {208}{}{Ele e o cara! O homem com o plano!
  Ele planeja porque ele nos ama! E se o
@@ -117,14 +117,14 @@
 {209}{}{Para o que este lugar e usado?}
 {210}{}{Diga-me sobre os Nightkin.}
 {211}{}{O que esta acontecendo por aqui?}
-{212}{}{O que eles fizeram com voce?}
-{213}{}{Voce quer morrer? Eu posso acabar com sua miseria.}
-{214}{}{Voce soa estupido!}
+{212}{}{O que eles fizeram com você?}
+{213}{}{Você quer morrer? Eu posso acabar com sua miseria.}
+{214}{}{Você soa estúpido!}
 {215}{}{Amor e o que faz os cactus crescerem! Amor e o que faz os brahmins mu! Amor e ferrar, e ferrar sua vida! Eu odeio amor! Eu amo odiar! Se o Mestre nos odiasse todos nos estariamos bem!}
-{216}{}{Aonda esta sua consciencia, cara? Voce acha que a vida e supostamete uma foto bonita sem qualquer miseria nela? A vida E miseria! Miseria, e qualquer que seja o inferno que nos decidirmos fazer a respeito dela!}
+{216}{}{Aonda esta sua consciencia, cara? Você acha que a vida e supostamete uma foto bonita sem qualquer miseria nela? A vida É miseria! Miseria, e qualquer que seja o inferno que nos decidirmos fazer a respeito dela!}
 {217}{}{Copiar! Amar! Ferrar! Odiar! Arriscar! Pessoas entediantes! Bashing cuzoes! Se tornar amigos de outros cuzoes! Fugir dos seus erros! Enfrentar seus erros! Radiaçao!}
 {218}{}{Ter filhos e fazer a mesma coisa de novo, as vezes melhor, as vezes pior!}
-{219}{}{Essa e a vida, cara! E como estar bebado; olhe pra isso de um jeito e e um grande embaraço! Olhe pra isso de um jeito diferente e voce se sente otimo! Mas e tudo a mesma coisa! Tudo e a vida!}
-{220}{}{Ah ha! Ha! Ha! Ha! Ha! Voce esta certo! Nos somos todos estupidos! Voce nao entende? Ha! Ha! Ha!}
-{221}{}{Eu estou um pouco melhor agora. Como Orange Pekoe deixado na chuva. Ha! Eu gosto dessa frase! Eu acho que eu continuarei repetindo-a! Eu estou um pouco melhor agora. Como Orange Pekoe deixado na chuva...}
+{219}{}{Essa é a vida, cara! É como estar bebado; olhe pra isso de um jeito e e um grande embaraço! Olhe pra isso de um jeito diferente e você se sente otimo! Mas e tudo a mesma coisa! Tudo é a vida!}
+{220}{}{Ah há! Há! Há! Há! Há! Você esta certo! Nós somos todos estupidos! Você não entende? Há! Há! Há!}
+{221}{}{Eu estou um pouco melhor agora. Como Orange Pekoe deixado na chuva. Há! Eu gosto dessa frase! Eu acho que eu continuarei repetindo-a! Eu estou um pouco melhor agora. Como Orange Pekoe deixado na chuva...}
 {222}{}{[MAIS]}

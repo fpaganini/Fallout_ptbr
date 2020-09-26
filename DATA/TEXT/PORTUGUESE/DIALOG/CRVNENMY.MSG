@@ -1,1 +1,1 @@
-{100}{}{Você ve um feroz saqueador. Este poderia ser um dos famosos Vipers.}
+{100}{}{Você vê um feroz saqueador. Este poderia ser um dos famosos Vipers.}

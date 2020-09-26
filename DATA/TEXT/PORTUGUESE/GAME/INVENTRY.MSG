@@ -19,7 +19,7 @@
 {15}{}{Dano:}
 {16}{}{Alc:}
 {17}{}{Mun:}
-{18}{}{(Nao usado)}
+{18}{}{(Não usado)}
 {19}{}{Você não tem pontos de ação o bastante pra usar o inventario.}
 {20}{}{Peso Total:}
 {21}{}{MOVER ITENS}
@@ -27,7 +27,7 @@
 {23}{}{DEFINIR TIMER}
 {24}{}{Desarmado:}
 {25}{}{Você não pode pegar aquilo. Você esta na sua capacidade maxima de peso.}
-{26}{}{Nao ha espaco restante para aquele item.}
-{27}{}{OK, essa e uma boa negociacao.}
-{28}{}{Nao, sua oferta não e boa o bastante.}
+{26}{}{Não há espaco restante para aquele item.}
+{27}{}{OK, essa é uma boa negociacao.}
+{28}{}{Não, sua oferta não é boa o bastante.}
 {29}{}{Você ganha %d pontos de experiência por usar sua técnica de roubar com sucesso.}

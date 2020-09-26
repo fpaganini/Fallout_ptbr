@@ -1,4 +1,4 @@
-{100}{}{Você ve um Regulador, um dos guardas de Adytum.}
+{100}{}{Você vê um Regulador, um dos guardas de Adytum.}
 {101}{}{}
 {102}{}{Mantenha suas armas sob controle enquanto você estiver aqui.}
 {103}{}{Bem-vindo a Adytum, estranho. Watch yourself, nos estaremos observando você.}
@@ -10,13 +10,13 @@
 {108}{}{Bem-vind de volta! Você e bem-vindo aqui a qualquer hora.}
 {109}{}{Você não tem um trabalho a fazer? Volte aqui quando você lidou
  com ele.}
-{110}{}{Va embora!}
+{110}{}{Vá embora!}
 {111}{}{O que você quer agora?}
 {112}{}{Eu gostaria de entrar.}
 {113}{}{}
-{114}{}{Nada. Deixa pra la.}
+{114}{}{Nada. Deixa pra lá.}
 {115}{}{}
-{116}{}{Nao.}
+{116}{}{Não.}
 {117}{}{Do que você quer saber a respeito?}
 {118}{}{O que você faz aqui?}
 {119}{}{Você pode me dizer mais sobre a Boneyard?}
@@ -24,11 +24,11 @@
 {121}{}{O que você sabe sobre as Crianças da Catedral
  e dos Seguidores do Apocalipse?}
 {122}{}{Nada, obrigado.}
-{123}{}{Eu sou um dos Reguladores. E nosso trabalho manter a paz
+{123}{}{Eu sou um dos Reguladores. É nosso trabalho manter a paz
  em Adytum e proteger a cidade. Nosso chefe, Caleb,
  poderia dizer mais a você.}
-{124}{}{A oeste de nos estao os Seguidores. Eles são um bando de loucos-da-paz. Ao
- norte estao os blades, um bando de Skags se você me perguntar. A ways ao sul daqui
+{124}{}{A oeste de nos estão os Seguidores. Eles são um bando de loucos-da-paz. Ao
+ norte estão os blades, um bando de Skags se você me perguntar. A ways ao sul daqui
  esta a Catedral onde as Crianças tem seu centro religioso.}
 {125}{}{Lamento, mas nos temos que ser cuidadosos com estranhos aqui. Muito
  perigoso. Talvez você possa fazer algum trabalho para o Zimmerman.}
@@ -46,7 +46,7 @@
 {133}{}{[Feito]}
 
 {134}{}{Watch yourself.}
-{135}{}{Nos estamos observando você.}
+{135}{}{Nós estamos observando você.}
 {136}{}{Fique na linha.}
 {137}{}{O que esta olhado?}
 {138}{}{O que quer?}
@@ -72,15 +72,15 @@
 {1100}{}{Isso e aqui.}
 {1101}{}{Eles vivem a leste daqui.}
 {1102}{}{Esta ao sul de nos.}
-{1104}{}{Eles estao ao norte daqui.}
-{1105}{}{Eles estao a leste dos Blades e entao a norte dos deathclaws.}
-{1106}{}{Nos negociamos com eles.}
-{1107}{}{Essa não e uma cidade ao norte daqui?}
+{1104}{}{Eles estão ao norte daqui.}
+{1105}{}{Eles estão a leste dos Blades e então a norte dos deathclaws.}
+{1106}{}{Nós negociamos com eles.}
+{1107}{}{Essa não é uma cidade ao norte daqui?}
 {1108}{}{Um o que?}
 {1109}{}{A loja do Tine esta no subsolo perto do portao.}
 {1110}{}{Ele e o prefeito.}
-{1111}{}{Eu ouvi que e ao leste.}
+{1111}{}{Eu ouvi que é ao leste.}
 {1112}{}{Isso e um mito.}
-{1113}{}{Nos protegemos Adytum.}
+{1113}{}{Nós protegemos Adytum.}
 {1114}{}{Eles vao pro lado de fora para conseguir coisas.}
-{1115}{}{Esta e a Boneyard.}
+{1115}{}{Esta é a Boneyard.}

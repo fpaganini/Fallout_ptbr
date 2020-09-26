@@ -2,7 +2,7 @@
 {101}{}{Eu imagino com o que os velhos motores das turbinas realmente eram.}
 {102}{}{Rapaz, eu desejo que eu tivesse um automovel.}
 {103}{}{Você sabia que o homem esteve na lua? Ou, pelo menos,
- eu acho que e o que eles disseram.}
+ eu acho que é o que eles disseram.}
 {104}{}{Você consegue imaginar o que a vida seria sem tecnologia?
  Bem, eu creio que você possivelmente viu coisas bem proximas a essa.}
 {105}{}{Eu não consigo achar o arquivo que eu preciso.}
@@ -13,6 +13,6 @@
  chutar a bunda do Rhombus.}
 {109}{}{Eu gostaria de por minhas mãos naqueles saqueadores. Mostrar a eles
  o que ladroes merecem.}
-{110}{}{Basta . . . o que? Oh, lamento. Eu não posso falar agora.}
-{111}{}{Eu imagino que aconteceria se eu . . . huh? Oh, você me fez
+{110}{}{Basta . . . o que? Ah, lamento. Eu não posso falar agora.}
+{111}{}{Eu imagino que aconteceria se eu . . . huh? Ah, você me fez
  perder minha trilha de pensamento.}

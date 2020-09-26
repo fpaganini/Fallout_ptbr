@@ -2,17 +2,17 @@
 {101}{}{Basta! Não venha mais perto. Eu matarei ela. Eu juro.}
 {102}{}{Nung!}
 {103}{}{Não faça isso!}
-{104}{}{Se você não deixá-la ir, eu vou matar você.}
+{104}{}{Se você não deixá-lá ir, eu vou matar você.}
 {105}{}{Não há necessidade para violência. Vamos falar sobre isto.}
 {106}{}{What? Você just want to kill me, don't você?
  Just remember, this is your fault.}
-{107}{}{E por que não? Ela é apenas uma prostituta.}
+{107}{}{É por que não? Ela é apenas uma prostituta.}
 {108}{}{Ela tem tanto direito de viver quanto você tem.}
 {109}{}{Não. De modo algum. Não esta piranha.}
 {110}{}{What world do você live in? Out here in the real world, blood flows, homem.
  Blood flows, and it's gonna spill all over this room if você don't get out of here.}
 {111}{}{Nós podemos conversar sobre isto. O que eu posso fazer pra ajudar?}
-{112}{}{Ok, ok. I'm backing off. Você não tem que se preocupar comigo.}
+{112}{}{Certo, ok. I'm backing off. Você não tem que se preocupar comigo.}
 {113}{}{Puxa, isso é engraçado. Quem disse que eu quero ajuda?}
 {114}{}{Você do. By holding this mulher hostage, você're asking
  for help. I can help.}
@@ -20,20 +20,20 @@
 {116}{}{Sim. Não tente nada ou ela vai morrer.}
 {117}{}{homem}
 {118}{}{mulher}
-{119}{}{Oh, grande homem. Vamos ver você tentar. Mas primeiro . . .}
-{120}{}{Oh, grande mulher. Vamos ver você tentar. Mas primeiro . . .}
-{121}{}{Stay back . . . Eu não quero ferí-la, mas eu o farei.}
+{119}{}{Ah, grande homem. Vamos ver você tentar. Mas primeiro . . .}
+{120}{}{Ah, grande mulher. Vamos ver você tentar. Mas primeiro . . .}
+{121}{}{Stay back . . . Eu não quero ferí-lá, mas eu o farei.}
 {122}{}{Não o faça, ou eu terei que ferir você.}
-{123}{}{Por que você quer ferí-la?}
+{123}{}{Por que você quer ferí-lá?}
 {124}{}{Tente e ela morre primeiro. Agora, o que você estava dizendo?}
 {125}{}{Será difícl ferir ela com aquele buraco na sua cabeça.}
-{126}{}{Ok, mas você tem que continuar falando comigo.}
+{126}{}{Certo, mas você tem que continuar falando comigo.}
 {127}{}{Que buraco?}
 {128}{}{Aquele que eu vou pôr aí agora mesmo.}
 {129}{}{I'll keep talking as long as você do,
  but try anything tricky, and she'll take the fall.}
 {130}{}{I don't have to do anything. Você got to do it, and
- você ain't doing so hot.}
+ você ain't doing só hot.}
 {131}{}{Ela riu de mim. Eles todos riram de mim. Eu farei eles pagarem, eu juro.}
 {132}{}{Eu confio em você. Vamos trabalhar através disto, ok?}
 {133}{}{Talvez. Eu não sei.}
@@ -60,10 +60,10 @@
 {149}{}{Com certeza.}
 {150}{}{No money, but você can just walk away.
  No one will do anything. I promise.}
-{151}{}{Ok, but você have to let the girl go first.
+{151}{}{Certo, but você have to let the girl go first.
  Show me some trust, and I'll trust você.}
 {152}{}{Você mentiu para mim!}
-{153}{}{Ok. I want $100. Then we walk out of here.
+{153}{}{Certo. I want $100. Then we walk out of here.
  No one follows me, and I'll let her go when we get to the edge of town.}
 {154}{}{Aqui está o seu dinheiro.}
 {155}{}{Eu não tenho esse tipo de dinheiro comigo.}
@@ -80,7 +80,7 @@
 {165}{}{Eu quero meu dinheiro. Eu quero $200.}
 {166}{}{Eu não tenho dinheiro o bastante.}
 {167}{}{Aqui vai você.}
-{168}{}{Você parece um(a) mentiroso(a) e um trapaceiro(a) para mim.}
+{168}{}{Você parece um mentiroso e um trapaceiro para mim.}
 {169}{}{O sentimento é mútuo, camarada. Deixe a garota ir.}
 {170}{}{homem}
 {171}{}{mulher}
@@ -99,4 +99,4 @@
 {182}{}{Isso acabou de custar a você sua vida!}
 {183}{}{Your carefully-placed blow knocks the saqueador unconscious. He collapses
  like um rag doll.}
-{184}{}{Você poderia ser capaz de sneak up no saqueador se você for cuidadoso(a).}
+{184}{}{Você poderia ser capaz de sneak up no saqueador se você for cuidadoso.}

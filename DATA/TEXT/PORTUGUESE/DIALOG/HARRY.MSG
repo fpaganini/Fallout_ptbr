@@ -1,89 +1,89 @@
-{100}{}{Voce ve o Harry, o Super Mutante.}
-{101}{Harry_0}{Ei! Voce nao parece ghoul. How come?}
+{100}{}{Você vê o Harry, o Super Mutante.}
+{101}{Harry_0}{Ei! Você não parece ghoul. How come?}
 {102}{}{Isso e porque eu me vesti really snazzy hoje.}
 {103}{}{Mas eu sou um ghoul!}
-{104}{}{Deixe-me advinhar . . . porque eu nao sou um ghoul?}
+{104}{}{Deixe-me advinhar . . . porque eu não sou um ghoul?}
 {105}{}{Uh?}
 {106}{Harry_0a}{Huh?}
 {107}{Harry_0a}{Huh?}
 {108}{Harry_0b}{Whuh?}
 {109}{}{Mae?}
 {110}{Harry_01}{Uuuu...That was snazzy like, huh?}
-{111}{}{Nah, eu estava apenas enganando voce, eu nao sou um ghoul}
-{112}{}{O que voce faz aqui?}
-{113}{Harry_02}{Voce nao ghoul! Eu sabia, eu sabia! Nao enganar Harry!}
-{114}{}{Simmmm, isso e bastante obvio.}
-{115}{}{Voce esta certo. E agora que voce sabe eu terei que matar voce.}
-{116}{Harry_03}{Voce nao ghoul. Ordens dizer nao-ghoul, nao estar aqui.}
-{117}{}{Quem esta dando ordens a voce?}
-{118}{}{Ok, obrigado. Eu sairei agora.}
-{119}{Harry_04}{Lou me diz pra observar lugar. Nao deixar ninguem entrar. Nao
+{111}{}{Nah, eu estava apenas enganando você, eu não sou um ghoul}
+{112}{}{O que você faz aqui?}
+{113}{Harry_02}{Você não ghoul! Eu sabia, eu sabia! Não enganar Harry!}
+{114}{}{Simmmm, isso é bastante obvio.}
+{115}{}{Você esta certo. É agora que você sabe eu terei que matar você.}
+{116}{Harry_03}{Você não ghoul. Ordens dizer não-ghoul, não estar aqui.}
+{117}{}{Quem esta dando ordens a você?}
+{118}{}{Certo, obrigado. Eu sairei agora.}
+{119}{Harry_04}{Lou me diz pra observar lugar. Não deixar ninguém entrar. Não
  a maioria dos normais. Levar normais para o Lou. Ei...}
-{120}{}{Mas eu nao sou um normal!}
-{121}{}{Ok, vamos ver o Lou.}
-{122}{}{Frag it. Que tal 'Nao deixar voce viver'?}
-{123}{Harry_05}{Oh ho-ho, voce descobrir em breve.}
-{124}{Harry_06}{Oh, uh, Ok. Tenha bom...dia.}
+{120}{}{Mas eu não sou um normal!}
+{121}{}{Certo, vamos ver o Lou.}
+{122}{}{Frag it. Que tal 'Não deixar você viver'?}
+{123}{Harry_05}{Ah ho-ho, você descobrir em breve.}
+{124}{Harry_06}{Ah, uh, Certo. Tenha bom...dia.}
 {125}{Harry_07}{Harry acha que ele bater sua cabeça agora.}
-{126}{Harry_08}{Ooo...Harry confuso. Voce nao ghoul. Voce nao normal.  Hmm, o que voce? [Resmungando]}
+{126}{Harry_08}{Ooo...Harry confuso. Você não ghoul. Você não normal.  Hmm, o que você? [Resmungando]}
 {127}{}{Eu sou uma nova raça de super mutante.}
 {128}{}{Eu sou um robo altamente avançado.}
 {129}{}{Certo, eu sou um normal.}
-{130}{Harry_09}{Nao! Harry sabe que voce nao. Nao como voce!}
-{131}{Harry_10}{Oh, ok. Harry pensa no que fazer.}
-{132}{Harry_11}{Nao como voce. Machucar voce agora. Muito.}
-{133}{Harry_12}{Uh, ola, bela dama. Voce e bonita mesmo.}
-{134}{}{Voce esta ocupado? Eu poderia usar um homem grande, forte.}
-{135}{}{Mova-se um pouco mais perto. Eu tenho algo pra voce.}
+{130}{Harry_09}{Não! Harry sabe que você não. Não como você!}
+{131}{Harry_10}{Ah, ok. Harry pensa no que fazer.}
+{132}{Harry_11}{Não como você. Machucar você agora. Muito.}
+{133}{Harry_12}{Uh, ola, bela dama. Você e bonita mesmo.}
+{134}{}{Você esta ocupado? Eu poderia usar um homem grande, forte.}
+{135}{}{Mova-se um pouco mais perto. Eu tenho algo pra você.}
 {136}{Harry_13}{Harry tem que guardar este lugar. Tem que ficar bem aqui.}
-{137}{}{Ahh, eu entendo. Voce tenha um bom dia, entao.}
+{137}{}{Ahh, eu entendo. Você tenha um bom dia, então.}
 {138}{}{Isso me faz triste.}
-{139}{Harry_14}{Ei, voce um normal! Tenho que levar voce pra Lou. Agora!}
-{140}{}{Por favor, nao o faça. Me deixe ir.}
+{139}{Harry_14}{Ei, você um normal! Tenho que levar você pra Lou. Agora!}
+{140}{}{Por favor, não o faça. Me deixe ir.}
 {141}{}{Ah, pra inferno com isso! Observe estes wiles femininos, mutante! . . .}
 {142}{Harry_15}{Ohhh... Vai embora rapido ou Harry estar com problema.}
-{143}{Harry_16}{Ok. Ir agora. Ter que manter olhos abertos pra humanos. Nao ter
- tempo pra voce.}
-{144}{Harry_17}{O que voce tem pra mim?}
-{145}{}{A whittle smack so pra voce...}
-{146}{}{A whittle kiss so pra voce.}
-{147}{Harry_18}{Voce machucar amigos do Harry! Eu...machucar...voce!}
-{148}{Harry_19}{Ohhh...Voce de novo? O que quer agora?}
-{149}{}{Eu quero que voce me leve aos seus superiores.}
+{143}{Harry_16}{Certo. Ir agora. Ter que manter olhos abertos pra humanos. Não ter
+ tempo pra você.}
+{144}{Harry_17}{O que você tem pra mim?}
+{145}{}{A whittle smack só pra você...}
+{146}{}{A whittle kiss só pra você.}
+{147}{Harry_18}{Você machucar amigos do Harry! Eu...machucar...você!}
+{148}{Harry_19}{Ohhh...Você de novo? O que quer agora?}
+{149}{}{Eu quero que você me leve aos seus superiores.}
 {150}{}{Nada, apenas passando.}
 {151}{}{Eu voltei pra chutar seu traseiro.}
-{152}{Harry_20}{Um..Ok. Mova-se entao.}
-{153}{Harry_21}{Ei, voce um normal! Voce vem com o Harry!}
-{154}{Harry_22}{Hmm... Ok. Leve-me ate o Lou.}
-{155}{Harry_23}{Ummm... Sim. Voce normal primario. O Lou ficara feli. Levar embora, levar embora.}
-{156}{}{Espere, espere! Voce nao entende.}
-{157}{}{Eu matarei voce com minhas maos limpas.}
-{158}{Harry_24}{Nao ter que fazer. Harry segue ordens. Leve ate o Lou.}
-{159}{Harry_25}{Harry nao pensar assim, mas voce pode tentar. Vamos la gente.}
-{160}{Harry_26}{Ei, Harry ouvir sobre voce. Voce quebrar os Vats!}
-{161}{}{Sim, eu quebrei. E agora eu vou acabar com voce.}
-{162}{}{Sim, eu sou ele. O que voce vai fazer a respeito disso?}
+{152}{Harry_20}{Um..Certo. Mova-se então.}
+{153}{Harry_21}{Ei, você um normal! Você vem com o Harry!}
+{154}{Harry_22}{Hmm... Certo. Leve-me até o Lou.}
+{155}{Harry_23}{Ummm... Sim. Você normal primario. O Lou ficara feli. Levar embora, levar embora.}
+{156}{}{Espere, espere! Você não entende.}
+{157}{}{Eu matarei você com minhas maos limpas.}
+{158}{Harry_24}{Não ter que fazer. Harry segue ordens. Leve até o Lou.}
+{159}{Harry_25}{Harry não pensar assim, mas você pode tentar. Vamos lá gente.}
+{160}{Harry_26}{Ei, Harry ouvir sobre você. Você quebrar os Vats!}
+{161}{}{Sim, eu quebrei. É agora eu vou acabar com você.}
+{162}{}{Sim, eu sou ele. O que você vai fazer a respeito disso?}
 {163}{}{Uh-huh.}
-{164}{Harry_27}{Uhh, mim deixar voce ir. Ok? Voce nao mostrar cara aqui de novo. Por favor?}
-{165}{}{Nao bom o bastante.}
-{166}{}{Adeus. Eu nao espero ver voce de novo.}
+{164}{Harry_27}{Uhh, mim deixar você ir. Certo? Você não mostrar cara aqui de novo. Por favor?}
+{165}{}{Não bom o bastante.}
+{166}{}{Tchau. Eu não espero ver você de novo.}
 {167}{}{Uhh.}
-{168}{Harry200}{Nao ter que dizer qualquer coisa pra voce!}
-{169}{Harry201}{Voce matar Larry!}
-{170}{Harry202}{Voce matar Gary!}
-{171}{Harry203}{Voce matar meu irmao, Barry!}
-{172}{Harry204}{Voce matar Terry!}
-{173}{Harry205}{Voce matar Sally! Ele tinha nome lousy. Mas nao razao pra matar ele!}
-{174}{Harry26}{Nao me aborreça, me deixe em paz!}
-{175}{Harry207}{Uhhh...Nao saber.}
-{176}{Harry300}{Eu nao sei, mas pensa que ele parece um chefe de pessoas.}
-{177}{Harry301}{Ele Lou Tenant. Ele meu chefe. Nao dizer ele, mas Harry poderia derrota-lo num bom dia.}
+{168}{Harry200}{Não ter que dizer qualquer coisa pra você!}
+{169}{Harry201}{Você matar Larry!}
+{170}{Harry202}{Você matar Gary!}
+{171}{Harry203}{Você matar meu irmao, Barry!}
+{172}{Harry204}{Você matar Terry!}
+{173}{Harry205}{Você matar Sally! Ele tinha nome lousy. Mas não razão pra matar ele!}
+{174}{Harry26}{Não me aborreça, me deixe em paz!}
+{175}{Harry207}{Uhhh...Não saber.}
+{176}{Harry300}{Eu não sei, mas pensa que ele parece um chefe de pessoas.}
+{177}{Harry301}{Ele Lou Tenant. Ele meu chefe. Não dizer ele, mas Harry poderia derrota-lo num bom dia.}
 {178}{Harry302}{Set a wuss. Ele acha que ele comanda lugar, mas nos comandamos.}
 {179}{Harry303}{O o que?}
 {180}{Harry304}{Hmph! Punies.}
-{181}{Harry305}{Fraco. Nao saber por que o Lou quer normais. Eles sao uma droga!}
-{182}{Harry306}{Aqui, dummy. [Sigh] Voce estupido?}
-{183}{Harry307}{The U' U' U' Un, Eu nao sei.}
+{181}{Harry305}{Fraco. Não saber por que o Lou quer normais. Eles são uma droga!}
+{182}{Harry306}{Aqui, dummy. [Sigh] Você estúpido?}
+{183}{Harry307}{The U' U' U' Un, Eu não sei.}
 {184}{Harry308}{Bom pra caras pequenos. Harry machuca uma vez e eles os tornam melhores.
  Fazem perfeitos de novo!}
 {185}{}{HARRY LUTAR AGORA}
@@ -92,9 +92,9 @@
 {188}{}{HARRY LUTAR AGORA}
 {189}{}{HARRY ESPERAR 30 SEGUNDOS}
 {190}{}{HARRY SAIR AGORA}
-{191}{}{Voce nao vai me levar pra lugar algum!}
-{192}{}{Ok, me leve pro seu chefe.}
-{193}{}{O mutante ignora voce.}
+{191}{}{Você não vai me levar pra lugar algum!}
+{192}{}{Certo, me leve pro seu chefe.}
+{193}{}{O mutante ignora você.}
 
 
 
@@ -105,9 +105,9 @@
 
 {980}{Harry_0a}{Huh?}
 {981}{Harry_0b}{Whuh?}
-{982}{Harry207}{Uhhh...Nao saber.}
+{982}{Harry207}{Uhhh...Não saber.}
 {983}{Harry303}{O o que?}
-{984}{Harry200}{Nao ter que dizer qualquer coisa pra voce!}
+{984}{Harry200}{Não ter que dizer qualquer coisa pra você!}
 
 {1000}{}{Mastre}
 {1001}{}{Lou}
@@ -137,33 +137,33 @@
 {1025}{}{Terry}
 {1026}{}{Sally}
 
-{1100}{Harry300}{Eu nao sei, mas acho que ele parece um chefe de pessoas.}
-{1101}{Harry301}{Ele Lou Tenant. Ele meu chefe. Nao dizer ele, mas Harry poderia derrota-lo num bom dia.}
+{1100}{Harry300}{Eu não sei, mas acho que ele parece um chefe de pessoas.}
+{1101}{Harry301}{Ele Lou Tenant. Ele meu chefe. Não dizer ele, mas Harry poderia derrota-lo num bom dia.}
 {1102}{Harry302}{Set a wuss. Ele acha que ele comanda lugar, mas nos comandamos.}
-{1103}{Harry306}{Aqui, dummy. Hmpf. Voce estupido?}
+{1103}{Harry306}{Aqui, dummy. Hmpf. Você estúpido?}
 {1104}{Harry304}{Hmpf! Punies.}
-{1105}{Harry305}{Fraco. Nao saber por que o Lou quer normais. Eles sao uma droga!}
-{1106}{Harry306}{Aqui, dummy. Hmpf. Voce estupido?}
-{1107}{Harry307}{The U-U-U-Un, Eu nao sei.}
+{1105}{Harry305}{Fraco. Não saber por que o Lou quer normais. Eles são uma droga!}
+{1106}{Harry306}{Aqui, dummy. Hmpf. Você estúpido?}
+{1107}{Harry307}{The U-U-U-Un, Eu não sei.}
 {1108}{Harry308}{Bom pra caras pequenos. Harry machuca uma vez e eles os tornam melhores.
  Fazem perfeitos de novo!}
 {1109}{Harry303}{O o que?}
-{1110}{Harry207}{Uhhh...Nao saber.}
-{1111}{Harry207}{Uhhh...Nao saber.}
-{1112}{Harry305}{Fraco. Nao saber por que o Lou quer normais. Eles sao uma droga!}
-{1113}{Harry305}{Fraco. Nao saber por que o Lou quer normais. Eles sao uma droga!}
-{1114}{Harry305}{Fraco. Nao saber por que o Lou quer normais. Eles sao uma droga!}
+{1110}{Harry207}{Uhhh...Não saber.}
+{1111}{Harry207}{Uhhh...Não saber.}
+{1112}{Harry305}{Fraco. Não saber por que o Lou quer normais. Eles são uma droga!}
+{1113}{Harry305}{Fraco. Não saber por que o Lou quer normais. Eles são uma droga!}
+{1114}{Harry305}{Fraco. Não saber por que o Lou quer normais. Eles são uma droga!}
 {1115}{Harry308}{Bom pra caras pequenos. Harry machuca uma vez e eles os tornam melhores.
  Fazem perfeitos de novo!}
 {1116}{Harry308}{Bom pra caras pequenos. Harry machuca uma vez e eles os tornam melhores.
  Fazem perfeitos de novo!}
-{1117}{Harry306}{Aqui, dummy. Hmpf. Voce estupido?}
-{1118}{Harry301}{Ele Lou Tenant. Ele meu chefe. Nao dizer ele, mas Harry poderia derrota-lo num bom dia.}
-{1119}{Harry301}{Ele Lou Tenant. Ele meu chefe. Nao dizer ele, mas Harry poderia derrota-lo num bom dia.}
-{1120}{Harry301}{Ele Lou Tenant. Ele meu chefe. Nao dizer ele, mas Harry poderia derrota-lo num bom dia.}
-{1121}{Harry301}{Ele Lou Tenant. Ele meu chefe. Nao dizer ele, mas Harry poderia derrota-lo num bom dia.}
-{1122}{Harry200}{Nao ter que dizer qualquer coisa pra voce!}
-{1123}{Harry200}{Nao ter que dizer qualquer coisa pra voce!}
-{1124}{Harry200}{Nao ter que dizer qualquer coisa pra voce!}
-{1125}{Harry200}{Nao ter que dizer qualquer coisa pra voce!}
-{1126}{Harry200}{Nao ter que dizer qualquer coisa pra voce!}
+{1117}{Harry306}{Aqui, dummy. Hmpf. Você estúpido?}
+{1118}{Harry301}{Ele Lou Tenant. Ele meu chefe. Não dizer ele, mas Harry poderia derrota-lo num bom dia.}
+{1119}{Harry301}{Ele Lou Tenant. Ele meu chefe. Não dizer ele, mas Harry poderia derrota-lo num bom dia.}
+{1120}{Harry301}{Ele Lou Tenant. Ele meu chefe. Não dizer ele, mas Harry poderia derrota-lo num bom dia.}
+{1121}{Harry301}{Ele Lou Tenant. Ele meu chefe. Não dizer ele, mas Harry poderia derrota-lo num bom dia.}
+{1122}{Harry200}{Não ter que dizer qualquer coisa pra você!}
+{1123}{Harry200}{Não ter que dizer qualquer coisa pra você!}
+{1124}{Harry200}{Não ter que dizer qualquer coisa pra você!}
+{1125}{Harry200}{Não ter que dizer qualquer coisa pra você!}
+{1126}{Harry200}{Não ter que dizer qualquer coisa pra você!}

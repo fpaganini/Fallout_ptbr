@@ -12,14 +12,14 @@
 {105}{}{Isso foi muito desagradável. Se você realmente quiser, eu posso te dar outra
  400 scripts, se você voltar ao Hub comigo. É perigoso para um
  pessoa.}
-{106}{}{Você terá outros 400 roteiros se puder me pegar e a caravana
+{106}{}{Você terá outros 400 roteiros se puder me pegar é a caravana
  de volta em segurança para o Hub, mas somente se eu fizer isso. Você tem que cobrir
  me se entrarmos em uma briga.}
-{107}{}{Ok, eu vou com você.}
+{107}{}{Certo, eu vou com você.}
 {108}{}{Não obrigado. Eu tive bastante dever de guarda.}
 {109}{}{Tuk.}
 {110}{}{Ótimo! Vamos sair daqui!}
-{111}{}{Ok, eu entendo.}
+{111}{}{Certo, eu entendo.}
 {112}{}{Eu farei o devido.}
 {113}{}{Tudo bem.}
 {114}{}{Você está bem?}
@@ -31,12 +31,12 @@
  você os 400 scripts, se você quiser voltar conosco para o Hub.}
 {119}{}{Eu vou nos levar de volta se você quiser vir conosco. O pagamento será o
  mesmo.}
-{120}{}{Uau, não posso acreditar que somos os únicos que restaram. Eu irei com voce,
+{120}{}{Uau, não posso acreditar que somos os únicos que restaram. Eu irei com você,
  mas se eu não conseguir você não será pago os 400 scripts.}
 {121}{}{Isso foi muito desagradável. Se você realmente quiser, eu posso te pegar
  outros 400 scripts se você voltar ao Hub comigo. É também
  perigoso para uma pessoa.}
-{122}{}{Você terá outros 400 roteiros se puder me pegar e a caravana
+{122}{}{Você terá outros 400 roteiros se puder me pegar é a caravana
  de volta em segurança para o Hub, mas somente se eu fizer isso. Você tem que cobrir
  me se entrarmos em uma briga.}
 {123}{}{Então, você mudou de ideia?}

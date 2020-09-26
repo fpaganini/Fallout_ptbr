@@ -10,10 +10,10 @@
 {109}{}{Fico feliz que você tenha vindo falar comigo. Eu ouvi o que você disse a Laura. Você não deve fazer isso.}
 {110}{}{O que você acha que eu vou fazer?}
 {111}{}{Laura? Quem é Laura?
-{112}{}{Oh, oh.}
-{113}{}{Oh, isso foi um grande erro! E isso vai te custar.}
+{112}{}{Ah, oh.}
+{113}{}{Ah, isso foi um grande erro! É isso vai te custar.}
 {114}{}{tak? Raar!}
-{115}{}{Acho que dissemos tudo o que precisa ser dito. Adeus.}
+{115}{}{Acho que dissemos tudo o que precisa ser dito. Tchau.}
 {116}{}{Eu não falo com as pessoas no ponto de uma arma. Abaixe-o e podemos conversar.}
 {117}{}{Olá de novo. Espero que você tenha achado este lugar interessante.}
 {118}{}{Eu vi formas superiores de entretenimento.}
@@ -41,11 +41,11 @@
 {140}{}{Onde está o mestre?}
 {141}{}{Quem está no comando aqui?}
 {142}{}{Me dê uma irmãzinha. Ninguém serve a outra pessoa a menos que uma arma esteja contra a cabeça deles!}
-{143}{}{Eu sei quem você é. E você vai perdoar a minha grosseria, mas eu não falo com assassinos psicóticos. Adeus.}
+{143}{}{Eu sei quem você é. É você vai perdoar a minha grosseria, mas eu não falo com assassinos psicóticos. Tchau.}
 {144}{}{Minha reputação tem sido muito exagerada. A catedral julga as pessoas por boatos e insinuações?
 {145}{}{assassino psicótico? Quem eu!}
 {146}{}{Baby, eu não sou psicopata, eu sou simplesmente louco, e se você não responder minhas perguntas eu provarei isso!}
-{147}{}{Eu não forma laços de lealdade facilmente. E também não os quebro facilmente. Eu não direi nada.}
+{147}{}{Eu não forma laços de lealdade facilmente. É também não os quebro facilmente. Eu não direi nada.}
 {148}{}{bom. Então podemos nos deixar sozinhos e chamá-lo mesmo.}
 {149}{}{Louvando o Mestre não salvará minha vida. Vá em frente e faça isso. Eu não posso fazer nada para te impedir.}
 {150}{}{Há ainda um lugar longe da Catedral. Eles não permitem drogas ou álcool por aqui.}
@@ -70,18 +70,18 @@
 {169}{}{Eu não acredito em males necessários.}
 {170}{}{Eu gosto deste mundo muito bem.}
 {171}{}{Acho que não gosto desta conversa.}
-{172}{}{Muito bem, se você não reconhecer o que disse, não o ajudarei. Adeus.}
+{172}{}{Muito bem, se você não reconhecer o que disse, não o ajudarei. Tchau.}
 {173}{}{Porque você acha que é errado as crianças invadirem nossos vizinhos. Porque você acha que matar o Mestre vai pará-lo.}
 {174}{}{E se eu acreditasse nisso, por que estaria errado?}
 {175}{}{Isso é blasfêmia!}
 {176}{}{Se você acha que eu acredito, por que você não me entregou?}
 {177}{}{Eu pareço o tipo de pessoa que se importa com um bom assassinato?}
 {178}{}{Você já ouviu falar em estar na sua cabeça? Ninguém, por mais bem armado ou treinado, pode derrotar meia dúzia de Nightkin. Eu sou uma mulher de paz. Estou tentando te salvar.}
-{179}{}{Olhe para as pessoas que causaram o Apocalipse! Eles não acreditavam em paz e união, e olham o que fizeram para nós! A união é a única maneira de impedir que isso aconteça novamente, e a união deve acontecer agora, antes que os outros cofres ao redor do mundo tenham a chance de reunir suas forças.
+{179}{}{Olhe para as pessoas que causaram o Apocalipse! Eles não acreditavam em paz e união, e olham o que fizeram para nós! A união é a única maneira de impedir que isso aconteça novamente, é a união deve acontecer agora, antes que os outros cofres ao redor do mundo tenham a chance de reunir suas forças.
 {180}{}{Você parece um pouco inteligente demais para esse bando de zumbis.}
 {181}{}{Você quer que todos ajam como as pessoas nesta sala? Isso é pior do que estar morto!}
 {182}{}{Você está louco! Isso só vai levar a outro Apocalipse.}
-{183}{}{E por que o Mestre é o melhor para nos guiar?}
+{183}{}{É por que o Mestre é o melhor para nos guiar?}
 {184}{}{Você nunca tirou uma vida? Você não está empacotando poder de fogo suficiente para dar a inveja da Brotherhood of Steel? Pare de ser tão hipócrita! Você se sente justificado para se defender. O Mestre está defendendo a humanidade de outro ataque de autodestruição. É tudo a mesma coisa!}
 {185}{}{Como você sabe que não existe alguém melhor lá fora?}
 {186}{}{Talvez eu deva considerar isso.}
@@ -92,13 +92,13 @@
 {191}{}{Talvez eu deva considerar isso.}
 {192}{}{Um mundo onde eu possa ser livre para viver minha própria vida como eu escolher.}
 {193}{}{A vida não é bonita, irmã. Nunca foi, nunca será.}
-{194}{}{Tough. Não gosto de radiação e do vírus FEV, mas não tive escolha. Você não pode sempre conseguir o que quer neste mundo. Às vezes você tem que fazer concessões. E às vezes você tem que abrir sua mente para idéias desagradáveis.}
+{194}{}{Tough. Não gosto de radiação e do vírus FEV, mas não tive escolha. Você não pode sempre conseguir o que quer neste mundo. Às vezes você tem que fazer concessões. É às vezes você tem que abrir sua mente para idéias desagradáveis.}
 {195}{}{Engraçado. Eu não vejo o Mestre permitindo que o seu rebanho faça isso.}
 {196}{}{Há compromissos, e há genocídio.}
-{197}{}{Saia da minha cara!}
+{197}{}{Saia da minha frente!}
 {198}{}{A única escolha que me preocupa agora é quanto tempo você vai viver.}
 {199}{}{Talvez eu seja tão inteligente que quando o Mestre assumir o poder, eu serei capaz de fazer algo para ajudar. Talvez você também! Junte-se a nós! Junte-se a nós e mude o mundo! Basta pensar nisso, é tudo o que peço!}
-{200}{}{Sempre houve drones em qualquer sociedade. Esqueça eles! Precisamos de drones, mas também precisamos de soldados e rainhas. E você parece um bom soldado pelo menos. Considere o que você poderia fazer, você poderia ser muito útil para a nossa causa. Ajude-nos. Pense no que eu disse, é tudo o que peço!}
+{200}{}{Sempre houve drones em qualquer sociedade. Esqueça eles! Precisamos de drones, mas também precisamos de soldados e rainhas. É você parece um bom soldado pelo menos. Considere o que você poderia fazer, você poderia ser muito útil para a nossa causa. Ajude-nos. Pense no que eu disse, é tudo o que peço!}
 {201}{}{Ou talvez possamos sobrecarregar as defesas deles antes que eles tenham tempo para crescer novamente. Talvez possamos unir os outros cofres e cidades com um golpe rápido e limpo. Um mundo unido não será perfeito, mas terá uma chance melhor de se manter unido. Pense nisso!}
 {202}{}{Eu olhei para os locais. A Irmandade de Aço e os Filhos do Apocalipse só querem ficar sozinhos. O Hub pensa que eles podem comprar o mundo - que pacote de tolos! Apenas o Mestre tem a força para fazer o que deve ser feito. Pense nisso!}
 {203}{}{Fico feliz em ouvir isso. Espero que você tome a decisão certa.}
@@ -106,23 +106,23 @@
 {205}{}{É? Pense nisso. Pense bem. Se você continuar a se opor a nós, você vai morrer. Você viu nossas forças, você sabe que há mais de onde isso veio. Muito mais! Você não pode nos parar! Mas se você se juntar a nós, você pode salvar vidas. Basta pensar nisso!}
 {206}{}{eu não faço. Mas se eu vir alguém que eu goste, estarei em posição de ajudá-lo. Nenhum dos habitantes locais tem uma chance. Eles estão todos mortos ou convertidos se tiverem sorte. Você pode ser um dos afortunados. Junte-se a nós. Basta pensar nisso!}
 {207}{}{O mundo não vai ficar assim. Isso nunca acontece. E se tudo o que fizermos for construir pacotes de poderosos enclaves, um deles será poderoso o suficiente para começar o Apocalipse novamente. Junte-se a nós e una o mundo antes que isso aconteça! Pense nisso!}
-{208}{}{E isso é apenas uma desculpa covarde que não resolve nada. Se a vida é uma merda, devemos tentar mudar isso. Devemos a nós mesmos e aos nossos filhos. Você acha que o mundo permanecerá o mesmo quando nos dividirmos em pedaços de guerra? Pense nisso!}
+{208}{}{É isso é apenas uma desculpa covarde que não resolve nada. Se a vida é uma merda, devemos tentar mudar isso. Devemos a nós mesmos e aos nossos filhos. Você acha que o mundo permanecerá o mesmo quando nos dividirmos em pedaços de guerra? Pense nisso!}
 {209}{}{Ou talvez haja salvação disfarçada de genocídio. Talvez o mundo não seja um lugar tão ruim se as pessoas trabalharem pela visão do Mestre. Talvez possamos até encontrar maneiras de fazê-lo com menos derramamento de sangue. Pense nisso!}
 {210}{}{Ótimo. Mas se você continuar no seu caminho atual, você vai morrer. Eu pensei que deveria avisá-lo.}
 {211}{}{Você pode me matar. Você vai provar meu ponto, claro, mas eu ainda vou morrer. Sua escolha.}
-{212}{}{Por causa do Apocalipse! Veja o que isso fez para nós! A união é a única maneira de impedir que isso aconteça novamente, e a união deve acontecer agora, antes que os outros cofres ao redor do mundo tenham a chance de reunir suas forças.
+{212}{}{Por causa do Apocalipse! Veja o que isso fez para nós! A união é a única maneira de impedir que isso aconteça novamente, é a união deve acontecer agora, antes que os outros cofres ao redor do mundo tenham a chance de reunir suas forças.
 {213}{}{Você parece um pouco inteligente demais para esse bando de zumbis.}
 {214}{}{Você quer que todos ajam como as pessoas nesta sala? Isso é pior do que estar morto!}
 {215}{}{Eu vou considerar isso}
 {216}{}{Você é louco! Isso só vai levar a outro Apocalipse.}
-{217}{}{E por que o Mestre é o melhor para nos guiar?}
+{217}{}{É por que o Mestre é o melhor para nos guiar?}
 {218}{}{Eu não sou uma senhora filósofa. Eu sou apenas alguém que é bom em matar.}
 {219}{}{Porque você é uma pessoa inteligente e corajosa que poderia ser de grande ajuda para nós. Sim, algumas das coisas que fazemos são horríveis. Mas nosso objetivo geral não é apenas bom, é necessário para a sobrevivência da raça humana. Não seja tão apressado para ajudar os seguidores. Eles não têm todas as respostas!}
 {220}{}{Você parece um pouco inteligente demais para esse bando de zumbis.}
 {221}{}{Você quer que todos ajam como as pessoas nesta sala? Isso é pior do que estar morto!}
 {222}{}{Eu vou considerar isso}
 {223}{}{Você está louco! Isso só vai levar a outro Apocalipse.}
-{224}{}{E por que o Mestre é o melhor para nos guiar?}
+{224}{}{É por que o Mestre é o melhor para nos guiar?}
 {225}{}{Eu não sou uma senhora filósofa. Eu sou apenas alguém que é bom em matar.}
 {226}{}{Todos nós temos um papel a desempenhar. Alguns de nós são drones irracionais que fazem o trabalho para pessoas estúpidas. Alguns de nós são pensadores. Alguns de nós são assassinos. Há um lugar para você aqui se você quiser. Por favor, pense sobre isso!}
 {227}{}{Nós temos muitas coisas planejadas. A Chama Sagrada veio primeiro, que expurgou o mundo do mal. Então veio o Mestre. Agora estamos no tempo da Unidade, quando lutamos para conquistar as divisões do mundo. Depois da união virá a paz. A Era da Paz é a razão de todas as nossas lutas.}
@@ -130,8 +130,8 @@
 {229}{}{Isso parece maravilhoso. Louvado seja o Mestre!}
 {230}{}{Mas não foi o fogo do mal do Apocalipse?}
 {231}{}{Isso tudo soa como besteira para mim.}
-{232}{}{Tenho certeza de que você é. Nervosismo é uma emoção sábia, nos impede de nos curvarmos em cantos desagradáveis ??e nos impede de fazer coisas estúpidas. Adeus.}
-{233}{}{Iniciates procuram as respostas às perguntas. Qual é o que você deveria estar fazendo. Adeus.}
+{232}{}{Tenho certeza de que você é. Nervosismo é uma emoção sábia, nos impede de nos curvarmos em cantos desagradáveis ??e nós impede de fazer coisas estúpidas. Tchau.}
+{233}{}{Iniciates procuram as respostas às perguntas. Qual é o que você deveria estar fazendo. Tchau.}
 {234}{}{Eu não sei. As pessoas acreditam que seu espírito está dentro dessas paredes. Isso certamente soa assim para mim.}
 {235}{}{O que as pessoas dizem sobre sua forma física?}
 {236}{}{Eu ouvi um pouco de ceticismo?}
@@ -141,17 +141,17 @@
 {240}{}{O sumo sacerdote da catedral é Morpheus. Ele pode ser encontrado no Santuário Superior, mas não dá audiências pessoais. Você pode persuadir o padre Lasher a confirmar sua presença, ele pode ser encontrado aqui embaixo, na Reitoria.}
 {241}{}{Morpheus? Ele é um bom homem?
 {242}{}{Por que eles o chamam de Lasher?}
-{243}{}{E o que dizer do Mestre?}
+{243}{}{É o que dizer do Mestre?}
 {244}{}{Existe mais alguma coisa que eu deva saber?}
 {245}{}{Obrigado, irmã.}
-{246}{}{Você pode mudar de ideia. Ou você pode perder sua vida. Tudo depende das suas ações e do seu ponto de vista. Adeus.}
+{246}{}{Você pode mudar de ideia. Ou você pode perder sua vida. Tudo depende das suas ações e do seu ponto de vista. Tchau.}
 {247}{}{Temos interesses muito semelhantes. Você matou monstros e bandidos e tornou o mundo um lugar mais seguro. Nós planejamos fazer o mesmo, em uma escala maior.}
 {248}{}{Que tipo de escala?}
 {249}{}{Quem são os monstros e bandidos que você está planejando matar?}
 {250}{}{Isso tem algo a ver com a Chama Sagrada de que eu continuo ouvindo falar?}
 {251}{}{Desculpe senhora, mas eu não acredito em uma palavra do que você está dizendo.}
 {252}{}{Que maravilha. Louvado seja o Mestre! Elogie a Chama Sagrada!}
-{253}{}{Paz, amor e união, claro. O que mais poderíamos ser? Mas você pode descobrir essas coisas por si mesmo. Adeus.}
+{253}{}{Paz, amor e união, claro. O que mais poderíamos ser? Mas você pode descobrir essas coisas por si próprio. Tchau.}
 {254}{}{Você deve passar várias semanas de meditação e jejum aqui, e então se aproximar de um dos anciãos. Ou você pode se voluntariar para o trabalho de serviço.}
 {255}{}{Eu notei algumas pessoas em outras cidades ...}
 {256}{}{Quem eu abordo sobre voluntariado?}
@@ -164,64 +164,64 @@
 {263}{}{Onde está o mestre?}
 {264}{}{Quem está no comando aqui?}
 {265}{}{Me dê uma irmãzinha! Ninguém serve a outra pessoa a menos que uma arma esteja contra a cabeça deles!}
-{266}{}{É perigoso permitir que um cachorro louco entre em sua casa, só porque você não pode ver sua saliva. Adeus.}
-{267}{}{Então você foi difamado, porque todo o Boneyard conta histórias de horror sobre você. E não tenho vontade de descobrir se são verdadeiras. Adeus.}
-{268}{}{Nenhuma luta vem sem preço, e a maior luta inevitavelmente representa o maior custo. Esse é o paradoxo da paz, receio. Palavras para pensar, pelo menos. Adeus.}
-{269}{}{Isso é um paradoxo. Claro que foi, mas os maiores males podem levar ao bem maior. Tudo que requer é inteligência e coragem da parte daqueles que sobrevivem. Palavras para pensar, pelo menos. Adeus.}
+{266}{}{É perigoso permitir que um cachorro louco entre em sua casa, só porque você não pode ver sua saliva. Tchau.}
+{267}{}{Então você foi difamado, porque todo o Boneyard conta histórias de horror sobre você. É não tenho vontade de descobrir se são verdadeiras. Tchau.}
+{268}{}{Nenhuma luta vem sem preço, é a maior luta inevitavelmente representa o maior custo. Esse é o paradoxo da paz, receio. Palavras para pensar, pelo menos. Tchau.}
+{269}{}{Isso é um paradoxo. Claro que foi, mas os maiores males podem levar ao bem maior. Tudo que requer é inteligência e coragem da parte daqueles que sobrevivem. Palavras para pensar, pelo menos. Tchau.}
 {270}{}{Não devemos julgar as pessoas pela aparência física. O objetivo do Mestre é nobre e é tudo o que preciso saber. Quanto ao que as outras pessoas dizem, pergunte a elas.}
-{271}{}{Talvez um pouco. A visão do Mestre é tão ambiciosa e brilhante que suponho que posso ser perdoada algumas dúvidas. Se eu te desencorajei, peço desculpas. Eu sugiro que você busque almas mais fortes do que as minhas para instrução. Adeus.}
-{272}{}{É claro que há um mestre! Por que não haveria? Fazemos muitas coisas, até mesmo algumas coisas das quais não me orgulho inteiramente, mas o engano não é uma delas. A visão do Mestre de Paz e Unidade é verdadeira. Adeus.}
-{273}{}{Não há nada vago sobre "não sei". Adeus senhor.}
-{274}{}{Não há nada vago sobre "eu não sei". Adeus senhorita].}
+{271}{}{Talvez um pouco. A visão do Mestre é tão ambiciosa e brilhante que suponho que posso ser perdoada algumas dúvidas. Se eu te desencorajei, peço desculpas. Eu sugiro que você busque almas mais fortes do que as minhas para instrução. Tchau.}
+{272}{}{É claro que há um mestre! Por que não haveria? Fazemos muitas coisas, até mesmo algumas coisas das quais não me orgulho inteiramente, mas o engano não é uma delas. A visão do Mestre de Paz e Unidade é verdadeira. Tchau.}
+{273}{}{Não há nada vago sobre "não sei". Tchau senhor.}
+{274}{}{Não há nada vago sobre "eu não sei". Tchau senhorita].}
 {275}{}{você é bem vindo senhor. Que o Mestre te abençoe com sabedoria.}
 {276}{}{Você é bem vindo, senhorita. Que o Mestre te abençoe com sabedoria.}
-{277}{}{Ele é um homem inteligente e tem a confiança do Mestre. Isso deveria ser o suficiente. Que o Mestre te abençoe com sabedoria. Adeus.}
+{277}{}{Ele é um homem inteligente e tem a confiança do Mestre. Isso deveria ser o suficiente. Que o Mestre te abençoe com sabedoria. Tchau.}
 {278}{}{Ele educa as crianças, e faz isso com dureza. Mais alguma coisa?}
 {279}{}{Morpheus? Ele é um bom homem?
 {280}{}{Por que Lasher deveria ferir crianças?}
-{281}{}{E o que dizer do Mestre?}
+{281}{}{É o que dizer do Mestre?}
 {282}{}{Existe mais alguma coisa que eu deva saber?}
 {283}{}{Obrigado, irmã.}
 {284}{}{Eu não posso dizer nada que você já não saiba. Me desculpe.}
-{285}{}{Muitas coisas eu tenho certeza. Mas essas respostas são melhor descobertas por conta própria, não por meio de boatos e insinuações. Adeus.}
+{285}{}{Muitas coisas eu tenho certeza. Mas essas respostas são melhor descobertas por conta própria, não por meio de boatos e insinuações. Tchau.}
 {286}{}{Você é bem vindo, senhor.}
 {287}{}{Você é bem vindo, senhorita.}
-{288}{}{Tão grande quanto possível. O mundo está no caos. Precisa de ordem ou não sobreviverá. Traremos ordem e impediremos que os monstros a machuquem novamente, como fizeram no Apocalipse. Palavras para pensar, pelo menos. Adeus.}
-{289}{}{Aqueles que deixam seus desejos egoístas se opor ao bem melhor da humanidade. O Apocalipse foi causado pelo egoísmo humano. Se o mundo quiser sobreviver, essa loucura precisa ser expurgada do coração humano. Palavras para pensar, pelo menos. Adeus.}
+{288}{}{Tão grande quanto possível. O mundo está no caos. Precisa de ordem ou não sobreviverá. Traremos ordem e impediremos que os monstros a machuquem novamente, como fizeram no Apocalipse. Palavras para pensar, pelo menos. Tchau.}
+{289}{}{Aqueles que deixam seus desejos egoístas se opor ao bem melhor da humanidade. O Apocalipse foi causado pelo egoísmo humano. Se o mundo quiser sobreviver, essa loucura precisa ser expurgada do coração humano. Palavras para pensar, pelo menos. Tchau.}
 {290}{}{}
 {291}{}{}
 {292}{}{}
 {293}{}{}
 {294}{}{Havia o diácono Olivier; não, ela foi embora agora e o padre Pinochet não, ele não está mais disponível. Hesito em mencionar Lasher, mas ele é o único que resta agora. Bem, tenho certeza que você encontrará um caminho. Boa sorte.}
-{295}{}{A morte nunca é um serviço, mesmo quando é uma necessidade. Adeus senhor.}
-{296}{}{A morte nunca é um serviço, mesmo quando é uma necessidade. Adeus, senhorita.}
+{295}{}{A morte nunca é um serviço, mesmo quando é uma necessidade. Tchau senhor.}
+{296}{}{A morte nunca é um serviço, mesmo quando é uma necessidade. Tchau, senhorita.}
 {297}{}{Isso é algo que eu me perguntei. Mas tal crítica não é justificada,
  Tenho certeza. Talvez você deva falar com as crianças.}
 {298}{}{[feito]}
 {299}{}{Me go.}
 
 {300}{}{Levamos iniciados mais cedo, mas a Igreja está realizando alguns
-  grandes cruzadas, e eu acho que estamos sendo mais seletivos do que o normal sobre os recrutas. Mas a fé perseverará e a paciência é uma virtude. Boa sorte meu amigo.}
+  grandes cruzadas, e eu acho que estamos sendo mais seletivos do que o normal sobre os recrutas. Mas a fé perseverará é a paciência é uma virtude. Boa sorte meu amigo.}
 {301}{}{Já iniciamos mais cedo, mas a Igreja está realizando alguns
  grandes cruzadas, e eu acho que estamos sendo mais seletivos do que o normal sobre os recrutas.
- Mas a fé perseverará e a paciência é uma virtude. Boa sorte meu amigo.}
+ Mas a fé perseverará é a paciência é uma virtude. Boa sorte meu amigo.}
 {302}{}{Eu não conheço nenhum plano para invocar a Chama Sagrada novamente. O Fogo Sagrado era
  sagrado apenas porque nos dá a chance de purgar o mundo da imperfeição.
  São nossas ações que farão a chama sagrada. Devemos levar os males do
  mundo e torná-los ferramentas para o bem. Assim como suas armas defendem sua vida,
- Nossas ações defendem o mundo. Adeus, amigo.}
+ Nossas ações defendem o mundo. Tchau, amigo.}
 {303}{}{Eu não conheço nenhum plano para invocar a Chama Sagrada novamente. O Fogo Sagrado era
  sagrado apenas porque nos dá a chance de purgar o mundo da imperfeição.
  São nossas ações que farão a chama sagrada. Devemos levar os males do
  mundo e torná-los ferramentas para o bem. Assim como suas armas defendem sua vida,
- Nossas ações defendem o mundo. Adeus, amigo.}
+ Nossas ações defendem o mundo. Tchau, amigo.}
 {304}{}{Nós realizamos muitos serviços para as pessoas. Curando os doentes, alimentando os famintos
  ensinando os jovens. Tenho muito orgulho deles. Se você encurralar o padre Morpheus,
- ele pode lhe dizer como se envolver com nossos hospícios. Adeus, amigo.}
+ ele pode lhe dizer como se envolver com nossos hospícios. Tchau, amigo.}
 {305}{}{Nós realizamos muitos serviços para as pessoas. Curando os doentes, alimentando os famintos
  ensinando os jovens. Tenho muito orgulho deles. Se você encurralar o padre Morpheus,
- ele pode lhe dizer como se envolver com nossos hospícios. Adeus, amigo.}
+ ele pode lhe dizer como se envolver com nossos hospícios. Tchau, amigo.}
 {306}{}{Se você encurralar o padre Morpheus, ele pode lhe dizer como chegar
- envolvido com nossos hospices. Adeus, amigo.}
+ envolvido com nossos hospices. Tchau, amigo.}
 {307}{}{Se você encurralar o padre Morpheus, ele pode lhe dizer como chegar
- envolvido com nossos hospices. Adeus, amigo.}
+ envolvido com nossos hospices. Tchau, amigo.}

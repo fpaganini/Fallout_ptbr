@@ -1,102 +1,102 @@
-{100}{}{Voce ve a Sherry.}
-{101}{}{Voce ve um membro de gangue.}
+{100}{}{Você vê a Sherry.}
+{101}{}{Você vê um membro de gangue.}
 {102}{}{}
-{103}{}{Quem e voce e o que voce esta fazendo aqui?}
+{103}{}{Quem é você e o que você esta fazendo aqui?}
 {104}{}{Eu sou }
 {105}{}{. Eu sou novo nesta cidade.}
-{106}{}{Nao e da sua conta, wench!}
+{106}{}{Não e da sua conta, wench!}
 {107}{}{Puwah?}
 {108}{}{Aparentemente sim, ja que todos sabem que este o territorio dos
- Skulz. Melhor voce sumiur antes que alguem decida machucar voce.}
+ Skulz. Melhor você sumiur antes que alguém decida machucar você.}
 {109}{}{Manda ver!}
 {110}{}{Lamento, eu pensei que este era o banheiro. Tchau.}
-{111}{}{Os Skulz? Quem sao eles?}
+{111}{}{Os Skulz? Quem são eles?}
 {112}{}{Sim, eu sabia disso. Eu estou apenas hangin' out.}
-{113}{}{Take off, you hoser, antes que um de nos decida rasgar voce.}
+{113}{}{Take off, you hoser, antes que um de nos decida rasgar você.}
 {114}{}{Sheesh, lamento.}
 {115}{}{Sim? Manda ver!}
-{116}{}{Coisa lamentavel. You should run along. Nao e seguro aqui,
- especialmente pra alguem como voce que nao entenderia.}
-{117}{}{Esses somos nos! Nos somos a gangue mais malvada da cidade. Na verdade,
- nos somos a unica gangue. Mas ninguem brinca com nos.}
-{118}{}{Entao voces tem bastante do controle da cidade, eh?}
+{116}{}{Coisa lamentavel. You should run along. Não e seguro aqui,
+ especialmente pra alguém como você que não entenderia.}
+{117}{}{Esses somos nos! Nós somos a gangue mais malvada da cidade. Na verdade,
+ nos somos a unica gangue. Mas ninguém brinca com nos.}
+{118}{}{Então vocês tem bastante do controle da cidade, eh?}
 {119}{}{Que bacana. Tchau.}
-{120}{}{Oh. Bem, e melhor nao. Eu quero dizer, voce nao e um ds Skulz, e este e o
- nosso lugar. Entao, voce deveria desaparecer antes que o Victor fique itchy.}
+{120}{}{Ah. Bem, e melhor não. Eu quero dizer, você não é um ds Skulz, e este e o
+ nosso lugar. Então, você deveria desaparecer antes que o Victor fique itchy.}
 {121}{}{Na verdade, eu acho que eu ficarei.}
-{122}{}{Quem e Victor?}
+{122}{}{Quem é Victor?}
 {123}{}{Certo, eu estou fora daqui.}
-{124}{}{Certo. E o seu funeral.}
+{124}{}{Certo. É o seu funeral.}
 {125}{}{O Victor esta logo ali. Ele e o mais malvado de nos todos. Ele gosta de torturar
- as iguanas que ele pega. Eu realmente nao gosto dele, pra dizer a verdade, mas ele u um
+ as iguanas que ele pega. Eu realmente não gosto dele, pra dizer a verdade, mas ele u um
  de nos.}
-{126}{}{Bem, ha o Victor e o Shark, que hangs out no Skum Pitt. O Vinnie tambem,
- e alguns outros caras que param la de tempos em tempos.}
+{126}{}{Bem, há o Victor e o Shark, que hangs out no Skum Pitt. O Vinnie tambem,
+ e alguns outros caras que param lá de tempos em tempos.}
 {127}{}{Onde esta o Skum Pitt?}
-{128}{}{Oh, o Skum Pitt e um bar sleazy ao norte daqui, perto do cassino do Gizmo.}
-{129}{}{Voce pode apostar! Ninguem brinca com nos! Bem, exceto pelo Killian, mas ele e
- legal e tal. Ele e tipo o xerife cara. Nos fazemos o que quer que nos quisermos.}
-{130}{}{Nos apenas hang out, e as vezes nos jogamos jogos no Gizmo ou nos
+{128}{}{Ah, o Skum Pitt e um bar sleazy ao norte daqui, perto do cassino do Gizmo.}
+{129}{}{Você pode apostar! Ninguem brinca com nos! Bem, exceto pelo Killian, mas ele e
+ legal e tal. Ele e tipo o xerife cara. Nós fazemos o que quer que nos quisermos.}
+{130}{}{Nós apenas hang out, e as vezes nos jogamos jogos no Gizmo ou nos
  divertimos no Skum Pitt. As vezes nos fazemos bicos pro Gizmo ou para
  algum viajante. O Victor gosta de perseguir pessoas tambem. Pensando
- nisso, voce poderia querer ficar longe dele.}
-{131}{}{Voce trabalha para o Gizmo? O que voce pode me dizer sobre him?}
-{132}{}{Entao o que e que voces caras fazem?}
+ nisso, você poderia querer ficar longe dele.}
+{131}{}{Você trabalha para o Gizmo? O que você pode me dizer sobre him?}
+{132}{}{Então o que é que vocês caras fazem?}
 {133}{}{Quem mais esta na gangue?}
-{134}{}{Por que voce anda com estes caras?}
-{135}{}{Nos somos como uma familia! Nos tomamos conta um do outro. Bem, exceto pelo Shark,
- que esta sempre quebrando coisas. E o Victor, que olha engracado pras pessoas. Mas o
- Vinnie e legal. E nos fazemos coisas juntos. Voce sabe, nos somos como amigos e tal.}
-{136}{}{Oh, e voce de novo! Voce sabe, nao e provavelmente saudavel to hang out here
- se voce nao e um dos Skulz. E voce nao e.}
-{137}{}{Sim, bem, voces Skulz provavelmente nao nocauteariam um Brahmin adormecido,
+{134}{}{Por que você anda com estes caras?}
+{135}{}{Nós somos como uma familia! Nós tomamos conta um do outro. Bem, exceto pelo Shark,
+ que esta sempre quebrando coisas. É o Victor, que olha engracado pras pessoas. Mas o
+ Vinnie e legal. É nos fazemos coisas juntos. Você sabe, nos somos como amigos e tal.}
+{136}{}{Ah, e você de novo! Você sabe, não é provavelmente saudavel to hang out here
+ se você não é um dos Skulz. É você não é.}
+{137}{}{Sim, bem, vocês Skulz provavelmente não nocauteariam um Brahmin adormecido,
  muito menos take on me.}
-{138}{}{O que voce estao fazendo ultimamente?}
-{139}{}{Mesmo? Nos veremos isso! Victor!}
-{140}{}{Nao muito na verdade. Nao ha muito a fazer. Eu quero dizer, o Shark tem
- causado algumas brigas no Skum Pitt, como de costume, mas o que mais ha para
+{138}{}{O que você estão fazendo ultimamente?}
+{139}{}{Mesmo? Nós veremos isso! Victor!}
+{140}{}{Não muito na verdade. Não há muito a fazer. Eu quero dizer, o Shark tem
+ causado algumas brigas no Skum Pitt, como de costume, mas o que mais há para
  fazer por aqui?}
-{141}{}{Uh, nao muito, eu creio.}
-{142}{}{Voce sempre poderia tentar fazer algo mais. Voce deve ter algum talento
+{141}{}{Uh, não muito, eu creio.}
+{142}{}{Você sempre poderia tentar fazer algo mais. Você deve ter algum talento
  ou hobbies.}
-{143}{}{Bem, eu tipo gosto de desenhar. E o Vinnie diz que eu sou um cozinheiro
- muit bom. Mas eu quero dizer, ei, sabe, nos temos diversao e tal?}
+{143}{}{Bem, eu tipo gosto de desenhar. É o Vinnie diz que eu sou um cozinheiro
+ muit bom. Mas eu quero dizer, ei, sabe, nos temos diversão e tal?}
 {144}{}{Eu creio que isso e compreensivel.}
-{145}{}{Mas o que voce fara quando voce ficar mais velho? Aonde sua vida ira?
- Como voce ganhara dinheiro?}
+{145}{}{Mas o que você fara quando você ficar mais velho? Aonde sua vida ira?
+ Como você ganhara dinheiro?}
 {146}{}{Um, bem, eu nunca pensei muito. Eu quero dizer, o Vinnie e o Victor
  ganham algum dinheiro e o Shark ocasionalmente faz um trabalho de guarda-
- costas pra visitantes aqui. Eu nao sei.}
-{147}{}{Voce provavelmente deveria sair enquanto ainda voce pode.}
-{148}{}{Ei, lay off! Voce soa como os pais do Vinnie costumavam ser. Nos todos
- damos suporte um ao outro, ok? Entao back off.}
+ costas pra visitantes aqui. Eu não sei.}
+{147}{}{Você provavelmente deveria sair enquanto ainda você pode.}
+{148}{}{Ei, lay off! Você soa como os pais do Vinnie costumavam ser. Nós todos
+ damos suporte um ao outro, ok? Então back off.}
 {149}{}{Eu creio. Eu nunca pensei a respeito.}
-{150}{}{Oi! Como voce esta indo? Ja foi ha algum tempo.}
+{150}{}{Oi! Como você esta indo? Ja foi há algum tempo.}
 {151}{}{Eu estou bem, obrigada.}
 {152}{}{Eu ja estive melhor.}
-{153}{}{Ok. E quanto a voce?}
-{154}{}{Eu lamento ouvir isso. Talvez voce devesse arrumar um quarto e dormir. Fale
- com a Marcelles. Oh, e aqui, eu posso fazer algo pra voce comer, se voce gostar.}
+{153}{}{Certo. É quanto a você?}
+{154}{}{Eu lamento ouvir isso. Talvez você devesse arrumar um quarto e dormir. Fale
+ com a Marcelles. Ah, e aqui, eu posso fazer algo pra você comer, se você gostar.}
 {155}{}{Isso seria swell, obrigado.}
-{156}{}{Nao, obrigado, mas eu verei voce por ai.}
-{157}{}{Oh, Eu estou muito melhor, obrigado! Eu cozinho um pouco agora no Skum Pitt
+{156}{}{Não, obrigado, mas eu verei você por ai.}
+{157}{}{Ah, Eu estou muito melhor, obrigado! Eu cozinho um pouco agora no Skum Pitt
  e na Crash House. Fica bem cansativo algumas noites, mas eu gosto de cozinhar e eu
- consigo encontrar todos os tipos de pessoas interessantes. E eu sou pago tambem.
+ consigo encontrar todos os tipos de pessoas interessantes. É eu sou pago tambem.
  Obrigado pela sua ajuda.}
-{158}{}{Ai vai voce. Aprecie. E eu verei voce por ai!}
+{158}{}{Ai vai você. Aprecie. É eu verei você por ai!}
 {159}{}{Ele e este cara gordo enorme que comanda o Cassino. Ele quer comandar Junktown,
  mas o Killian mantem ele na linha. Ele paga muito bem. Ocasionalmente ele contrata
  o Vinnie ou o Victor pra lidar com as pessoas pra ele, se elas forem um problema,
  como um estranho que apareceu aqui algumas semanas atras.}
-{160}{}{Voce quer que eu entregue meus amigos?!?}
-{161}{}{Sim, eu preciso de sua informacao.}
-{162}{}{Lamento. Esqueca que eu perguntei.}
+{160}{}{Você quer que eu entregue meus amigos?!?}
+{161}{}{Sim, eu preciso de sua informação.}
+{162}{}{Lamento. Esqueça que eu perguntei.}
 {163}{}{Eles tem ferido pessoas, e eles continuarao ferindo pessoas a menos que
- eles sejam parados. Voce mudou sua vida pra melhor. Agora voce tem uma chance
+ eles sejam parados. Você mudou sua vida pra melhor. Agora você tem uma chance
  de ajudar a melhorar as vidas dos outros tambem.}
-{164}{}{Hmm. Bem, eu quero dizer, eles sao meus amigos. Mas eu creio que nao
- deveria ser permitido a eles machucarem pessoas do modo que eles faze. E eu
- creio que eu confio em voce ja que voce me ajudou. Tudo bem.}
-{165}{}{Nao, eu nao posso fazer isso! Esses sao meus amigos! Eu poss nao ser mais
- um Skul mas eu nao vou virar minhas costas pros meus velhos amigos.}
+{164}{}{Hmm. Bem, eu quero dizer, eles são meus amigos. Mas eu creio que não
+ deveria ser permitido a eles machucarem pessoas do modo que eles faze. É eu
+ creio que eu confio em você ja que você me ajudou. Tudo bem.}
+{165}{}{Não, eu não posso fazer isso! Esses são meus amigos! Eu poss não ser mais
+ um Skul mas eu não vou virar minhas costas pros meus velhos amigos.}
 {166}{}{Eu preciso da sua ajuda. Eu preciso de seu testemunho para acabar com os Skulz para o bem.}

@@ -1,139 +1,139 @@
-{100}{}{Voce ve a Keri.}
-{101}{}{Quem diabos e voce? Se voce quer um trabalho voce precisara falar com o Demetre.}
-{102}{}{Eu disse pr falar com o meu pai se voce quer um trabalho, nao eu.}
-{103}{}{Entao aquele velho bastardo deu o ok pra voce trabalhar pra nos, eh? Bem, voce deve ser uma piranha durona.
- Eu estou impressionada, mas nos veremos como voce se sai. Nos saimos so duas vezes por mes, nos
- nos dias 3 e 17. Voce consegue lidar com isso? Nos vamos todos pros locais quentes: A Irmandade do Aço,
- Junktown, Necropolis e a Boneyard.}
-{104}{}{Entao aquele velho bastardo deu o ok pra voce trabalhar pra nos, eh? Bem, voce deve ter bolas de aço.
- Eu estou impressionada, mas nos veremos como voce se sai. Nos saimos so duas vezes por mes, nos
- nos dias 3 e 17. Voce consegue lidar com isso? Nos vamos todos pros locais quentes:  A Irmandade do Aço,
- Junktown, Necropolis e a Boneyard.}
-{105}{}{E o pagamento?}
+{100}{}{Você vê a Keri.}
+{101}{}{Quem diabos e você? Se você quer um trabalho você precisara falar com o Demetre.}
+{102}{}{Eu disse pr falar com o meu pai se você quer um trabalho, não eu.}
+{103}{}{Então aquele velho bastardo deu o ok pra você trabalhar pra nos, eh? Bem, você deve ser uma piranha durona.
+ Eu estou impressionada, mas nos veremos como você se sai. Nós saimos só duas vezes por mes, nos
+ nos dias 3 e 17. Você consegue lidar com isso? Nós vamos todos pros locais quentes: A Irmandade do Aço,
+ Junktown, Necropolis é a Boneyard.}
+{104}{}{Então aquele velho bastardo deu o ok pra você trabalhar pra nos, eh? Bem, você deve ter bolas de aço.
+ Eu estou impressionada, mas nos veremos como você se sai. Nós saimos só duas vezes por mes, nos
+ nos dias 3 e 17. Você consegue lidar com isso? Nós vamos todos pros locais quentes:  A Irmandade do Aço,
+ Junktown, Necropolis é a Boneyard.}
+{105}{}{É o pagamento?}
 {106}{}{Uh.}
-{107}{}{Nosso pagamento e o melhor, 600 scripts, e sim, isso e pra cada caminho, ida e volta... mas voce nao tem que
- fazer ambos. Esta e uma viagem de caravana bem dificil, e garantido que voce encontrara alguns saqueadores... ou
- pior. Nos nao teremos bichas nas nossas caravanas e melhor voce ter bastante muniçao.}
-{108}{}{ Nos estamos saindo hoje. Voce esta interessado?}
-{109}{}{ Nos saimos as }
+{107}{}{Nosso pagamento e o melhor, 600 scripts, e sim, isso e pra cada caminho, ida e volta... mas você não tem que
+ fazer ambos. Esta é uma viagem de caravana bem difícil, e garantido que você encontrara alguns saqueadores... ou
+ pior. Nós não teremos bichas nas nossas caravanas e melhor você ter bastante muniçao.}
+{108}{}{ Nós estamos saindo hoje. Você esta interessado?}
+{109}{}{ Nós saimos as }
 {110}{}{Vazio}
 {111}{}{Vazio}
-{112}{}{. Voce esta interessado?}
-{113}{}{Nos estamos saindo hoje.}
-{114}{}{Nos estamos saindo em }
+{112}{}{. Você esta interessado?}
+{113}{}{Nós estamos saindo hoje.}
+{114}{}{Nós estamos saindo em }
 {115}{}{}
 {116}{}{}
-{117}{}{ Voce esta interessado?}
-{118}{}{Eu ainda darei um trabalho pro seu rabo lamentavel se voce estiver interessado?}
+{117}{}{ Você esta interessado?}
+{118}{}{Eu ainda darei um trabalho pro seu rabo lamentavel se você estiver interessado?}
 {119}{}{Com certeza.}
-{120}{}{Nao.}
-{121}{}{Eu acho que eu estou interessado em voce.}
+{120}{}{Não.}
+{121}{}{Eu acho que eu estou interessado em você.}
 {122}{}{Talvez.}
 {123}{}{Ug.}
-{124}{}{Ha! Eu pensei que voce era um covarde! Bem... se voce e corajoso e tal, passe e eu poderia dar um trabalho pra voce.
- Nos saimos nos dias 3 e 17, voce pode simplesmente aparecer nesse dia se voce quiser. Nos sempre podemos usar mais armas.}
-{125}{}{Voce simplesmente ama desperdiçar meu tempo, nao ama.}
-{126}{}{Que seja. Se voce tiver o desejo por um pouco de açao volte e eu porei voce na proxima caravana a sair.}
-{127}{}{Ei! Eu sei que voce consegue algumas drogas boas aqui mas eu nao devo contratar voce a menos que voce esteja sobrio.}
+{124}{}{Há! Eu pensei que você era um covarde! Bem... se você e corajoso e tal, passe e eu poderia dar um trabalho pra você.
+ Nós saimos nos dias 3 e 17, você pode simplesmente aparecer nesse dia se você quiser. Nós sempre podemos usar mais armas.}
+{125}{}{Você simplesmente ama desperdiçar meu tempo, não ama.}
+{126}{}{Que seja. Se você tiver o desejo por um pouco de açao volte e eu porei você na proxima caravana a sair.}
+{127}{}{Ei! Eu sei que você consegue algumas drogas boas aqui mas eu não devo contratar você a menos que você esteja sobrio.}
 {128}{}{Eu disse pra largar as drogas, cara!}
 {129}{}{Eu disse pra largar as drogas, piranha!}
-{130}{}{Bem agora... eu odeio dizer mas... eu ouvi sobre voce. Voce e tao durao em particular como em publico? Vamos
- ver... (Ela leva voce para um canto)}
-{131}{}{(No caminho de volta ela diz algumas coisas pra voce.)}
-{132}{}{Bem, voce pode durar por um BOM tempo.}
-{133}{}{Bem, voce ‘e' interessante e ‘muito' diferente da maioria das pessoas... mostre-me o que voce tem cara durao.
- (Ela leva voce para um canto)}
-{134}{}{(No caminho de volta ela diz algumas coisas pra voce.)}
-{135}{}{Bem, voce pode durar por um BOM tempo.}
-{136}{}{Ei papai, parece que nos temos um ladrao aqui! O que voce tem a dizer por si mesmo escoria?}
+{130}{}{Bem agora... eu odeio dizer mas... eu ouvi sobre você. Você e tão durao em particular como em publico? Vamos
+ ver... (Ela leva você para um canto)}
+{131}{}{(No caminho de volta ela diz algumas coisas pra você.)}
+{132}{}{Bem, você pode durar por um BOM tempo.}
+{133}{}{Bem, você ‘e' interessante e ‘muito' diferente da maioria das pessoas... mostre-me o que você tem cara durao.
+ (Ela leva você para um canto)}
+{134}{}{(No caminho de volta ela diz algumas coisas pra você.)}
+{135}{}{Bem, você pode durar por um BOM tempo.}
+{136}{}{Ei papai, parece que nos temos um ladrao aqui! O que você tem a dizer por si próprio escoria?}
 {137}{}{Eu lamento. Eu nunca o farei de novo.}
-{138}{}{Pegue-me se voce puder...}
-{139}{}{Eu nao gosto de quietude! Venham e me peguem!}
+{138}{}{Pegue-me se você puder...}
+{139}{}{Eu não gosto de quietude! Venham e me peguem!}
 {140}{}{(Balança a cabeça que sim)}
 {141}{}{OOOGABOOOGA!!!}
-{142}{}{Ei papai, esta merda idiota nao aprendeu a liçao da primeira vez.
- Ela tentou roubar de mim de novo. Vamos surra-la.}
-{143}{}{Ei papai, este merda idiota nao aprendeu a liçao da primeira vez. Ele tentou roubar de mim de novo. Vamos surra-lo.}
-{144}{}{Bem... eu sei quao facil e estar tentado a roubar, mas... Inferno, eu darei uma chance pra voce. Nao mostre sua
- face por aqui de novo e eu nao chamarei a policia. Agora desapareça.}
-{145}{}{Oh, nos teremos certeza disso nao teremos papai?}
+{142}{}{Ei papai, esta merda idiota não aprendeu a liçao da primeira vez.
+ Ela tentou roubar de mim de novo. Vamos surra-lá.}
+{143}{}{Ei papai, este merda idiota não aprendeu a liçao da primeira vez. Ele tentou roubar de mim de novo. Vamos surra-lo.}
+{144}{}{Bem... eu sei quao facil e estar tentado a roubar, mas... Inferno, eu darei uma chance pra você. Não mostre sua
+ face por aqui de novo e eu não chamarei a policia. Agora desapareça.}
+{145}{}{Ah, nos teremos certeza disso não teremos papai?}
 {146}{}{Vai pro inferno!}
 {147}{}{Eu acho que sim.}
-{148}{}{Voce e carne morta.}
+{148}{}{Você e carne morta.}
 {149}{}{Eu disse pra sair!}
 {150}{}{Policia!}
-{151}{}{Lamento, nos nao lidaremos mais com voce.}
-{152}{}{Nao ha trabalhos aqui, desapareça.}
-{153}{}{Nao provoque meu lado ruim.}
+{151}{}{Lamento, nós não lidaremos mais com você.}
+{152}{}{Não há trabalhos aqui, desapareça.}
+{153}{}{Não provoque meu lado ruim.}
 {154}{}{Retardado.}
-{155}{}{Intrigante, mas voce nao e meu tipo.}
-{156}{}{Bom. Como eu disse antes nos pagamos 600 scripts. Qual rota voce queria tomar?}
+{155}{}{Intrigante, mas você não é meu tipo.}
+{156}{}{Bom. Como eu disse antes nos pagamos 600 scripts. Qual rota você queria tomar?}
 {157}{}{Legal. A proxima esta saindo no }
-{158}{}{. Volte entao e eu porei voce numa caravana. Como sempre,
+{158}{}{. Volte então e eu porei você numa caravana. Como sempre,
  o pagamanto de 600 scripts.}
-{159}{}{Ok. }
-{160}{}{Lamento, eu nao posso esperar tanto assim.}
-{161}{}{Eu deveria pendurar voce pelas suas palpebras! Por causa de voce nos perdemos uma maldita caravana
- inteira! Saia da minha frente! Por causa de voce eu vou entrar numa merda seria por causa desta.}
-{162}{}{Eu deveria pendurar voce pelas suas bolas! Por causa de voce nos perdemos uma maldita caravana
- inteira! Saia da minha frente! Por causa de voce eu vou entrar numa merda seria por causa desta.}
+{159}{}{Certo. }
+{160}{}{Lamento, eu não posso esperar tanto assim.}
+{161}{}{Eu deveria pendurar você pelas suas palpebras! Por causa de você nos perdemos uma maldita caravana
+ inteira! Saia da minha frente! Por causa de você eu vou entrar numa merda seria por causa desta.}
+{162}{}{Eu deveria pendurar você pelas suas bolas! Por causa de você nos perdemos uma maldita caravana
+ inteira! Saia da minha frente! Por causa de você eu vou entrar numa merda seria por causa desta.}
 {163}{}{Irmandade do Aço}
 {164}{}{Junktown}
 {165}{}{Necropolis}
 {166}{}{Boneyard}
-{167}{}{Deixa pra la. Eu tenho algo que eu esqueci de fazer.}
-{168}{}{Armado e carregado! Nos estamos fora desta joint!}
+{167}{}{Deixa pra lá. Eu tenho algo que eu esqueci de fazer.}
+{168}{}{Armado e carregado! Nós estamos fora desta joint!}
 {169}{}{Deixe-me saber se alguma coisa legal acontece, o papai esta me fazendo ficar no armazem.}
-{170}{}{Otimo! Os outros psicopatas estao prontos. Nos sairemos imediatamente.}
+{170}{}{Otimo! Os outros psicopatas estão prontos. Nós sairemos imediatamente.}
 {171}{}{Legal, apenas demorara alguns minutos pra juntar os psicopatas.}
-{172}{}{Irmandade do Aço, aqui vamos nos! Bem... Eu nao estou indo com voces mas voces sabem o que eu quero dizer.}
-{173}{}{Ok, saia ja da minha frente. Aqueles fanaticos da Irmandade estao esperando por voce.}
-{174}{}{Eu espero que voce goste de montanhas! Voce esta indo direto nelas. Voce deve ver muita açao la.}
-{175}{}{Apronte-se pra ir e voce estara rumando direto pras montanhas! Deve ser um estouro!}
+{172}{}{Irmandade do Aço, aqui vamos nos! Bem... Eu não estou indo com vocês mas vocês sabem o que eu quero dizer.}
+{173}{}{Certo, saia ja da minha frente. Aqueles fanaticos da Irmandade estão esperando por você.}
+{174}{}{Eu espero que você goste de montanhas! Você esta indo direto nelas. Você deve ver muita açao lá.}
+{175}{}{Apronte-se pra ir e você estara rumando direto pras montanhas! Deve ser um estouro!}
 {176}{}{Junktown e bem facil. Eu prefiro as rotas mais perigosas.}
-{177}{}{Eu ouvi que ha um doutor louco la, voce devera procura-lo. O nome dele e Dr. Morbid.}
-{178}{}{E uma viagem curta pra Junktown, voce deve estar de volta em breve.}
-{179}{}{Cuidado com seu traseiro. Necropolis nao e um lugar muito amistoso.}
-{180}{}{O Set e o lider da cidade. Pelo menos ele era da ultima vez que eu estive la.}
-{181}{}{Aquela cidade esta cheia de skags! Bem, melhor eu fazer voce ir.}
-{182}{}{LA e bem legal. Voce gostara dela, mas tenha certeza em nao deixar a caravana ate nos chegarmos.
- Nao e seguro, isso e, para as caravanas.}
-{183}{}{Espero que voce tenha uma chance de ve-la, ha tambem uma igreja legal apenas algumas milhas
- ao sul dela. As pessoas sao loucas.}
-{184}{}{Me foi dito que a Boneyard costumava ser um lugar chamado LA. Eu nao sei
- o que as iniciais da pessoa representam mas e um lugar legal.}
-{185}{}{O que diabos voce quer?}
-{186}{}{Cale-se e saia do meu caminho, eu nao estou disposto a isso!}
+{177}{}{Eu ouvi que há um doutor louco lá, você devera procura-lo. O nome dele e Dr. Morbid.}
+{178}{}{É uma viagem curta pra Junktown, você deve estar de volta em breve.}
+{179}{}{Cuidado com seu traseiro. Necropolis não é um lugar muito amistoso.}
+{180}{}{O Set e o lider da cidade. Pelo menos ele era da ultima vez que eu estive lá.}
+{181}{}{Aquela cidade esta cheia de skags! Bem, melhor eu fazer você ir.}
+{182}{}{LA e bem legal. Você gostara dela, mas tenha certeza em não deixar a caravana até nos chegarmos.
+ Não e seguro, isso e, para as caravanas.}
+{183}{}{Espero que você tenha uma chance de vê-lá, há tambem uma igreja legal apenas algumas milhas
+ ao sul dela. As pessoas são loucas.}
+{184}{}{Me foi dito que a Boneyard costumava ser um lugar chamado LA. Eu não sei
+ o que as iniciais da pessoa representam mas é um lugar legal.}
+{185}{}{O que diabos você quer?}
+{186}{}{Cale-se e saia do meu caminho, eu não estou disposto a isso!}
 {187}{}{Eu quero outro trabalho.}
 {188}{}{Nada.}
 {189}{}{Zug.}
 {190}{}{Ug.}
-{191}{}{Sim, certo! Para que voce possa abandonar outra caravana? Voce tem sorte que eles chegaram inteiros.}
-{192}{}{Eu sou sortuda? Voce e sortudo de que eu nao quebro sua cara!}
-{193}{}{Ei! Eu tive lugares pra ir e... tal!}
-{194}{}{Ei! Voce nao disse que eu nao poderia sair! Nao e como se eles estivessem no meio do combate.}
-{195}{}{Saia daqui! Voce me deixa doente! E por isso que voce deixou a caravana? Voce estava drogado eu aposto!}
-{196}{}{Sim? Bem, por que voce nao vai la agora? Voce esta por bem fora da nossa lista.}
-{197}{}{O que? Voce nunca trabalhou numa caravana antes? Em primeiro lugar eu nao consigo acreditar que meu pai
- contratou voce! Desapareça! Nos so contratamos pessoal experiente! E por isso que nos pagamos bem!}
-{198}{}{Voce foi bem naquele ultimo trabalho. Voce esta procurando por outro?}
+{191}{}{Sim, certo! Para que você possa abandonar outra caravana? Você tem sorte que eles chegaram inteiros.}
+{192}{}{Eu sou sortuda? Você e sortudo de que eu não quebro sua cara!}
+{193}{}{Ei! Eu tive lugares pra ir é... tal!}
+{194}{}{Ei! Você não disse que eu não poderia sair! Não e como se eles estivessem no meio do combate.}
+{195}{}{Saia daqui! Você me deixa doente! É por isso que você deixou a caravana? Você estava drogado eu aposto!}
+{196}{}{Sim? Bem, por que você não vai lá agora? Você esta por bem fora da nossa lista.}
+{197}{}{O que? Você nunca trabalhou numa caravana antes? Em primeiro lugar eu não consigo acreditar que meu pai
+ contratou você! Desapareça! Nós só contratamos pessoal experiente! É por isso que nos pagamos bem!}
+{198}{}{Você foi bem naquele ultimo trabalho. Você esta procurando por outro?}
 {199}{}{Com certeza.}
-{200}{}{Nao.}
+{200}{}{Não.}
 {201}{}{Talvez.}
 {202}{}{Ug.}
 {203}{}{Lug.}
-{204}{}{Pronto pra ir? Nos estamos saindo hoje.}
+{204}{}{Pronto pra ir? Nós estamos saindo hoje.}
 {205}{}{Sim!}
-{206}{}{Nao.}
+{206}{}{Não.}
 {207}{}{Hrurra?}
-{208}{}{Voce chegou um dia mais cedo. Volte amanha se voce ainda quiser o trabalho.
- Se nao, nao apareça. Eu nao dou a minima.}
-{209}{}{Ei, voce chegou cedo. Eu nao estou enviando eles ate o dia }
+{208}{}{Você chegou um dia mais cedo. Volte amanha se você ainda quiser o trabalho.
+ Se não, não apareça. Eu não dou a minima.}
+{209}{}{Ei, você chegou cedo. Eu não estou enviando eles até o dia }
 {210}{}{3}
 {211}{}{17}
-{212}{}{. Volte entao se voce ainda quiser o maldito trabalho. Eu realmente nao me importo se voce aparecer
- ou nao. Mas se voce ainda quiser ele entao volte.}
-{213}{}{Ainda nao.}
+{212}{}{. Volte então se você ainda quiser o maldito trabalho. Eu realmente não me importo se você aparecer
+ ou não. Mas se você ainda quiser ele então volte.}
+{213}{}{Ainda não.}
 {214}{}{Papai, cale a boca!}
 {215}{}{Ei velho, eu estou faminto! Eu vou descasar um pouco!}
 {216}{}{Eu odeio trabalhar nos livros.}
@@ -149,4 +149,4 @@
 {226}{}{Outubro }
 {227}{}{Novembro }
 {228}{}{Dezembro }
-{229}{}{Voce obtem 3 pacotes de drogas.}
+{229}{}{Você obtem 3 pacotes de drogas.}

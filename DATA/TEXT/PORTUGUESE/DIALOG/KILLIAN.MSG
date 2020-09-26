@@ -22,7 +22,7 @@
 {121}{}{É melhor eu ir.}
 {122}{}{Nu-uhh?}
 {123}{Kill02}{O nome é Killian. Killian Darkwater. Eu sou o prefeito desta multa
- Cidade. E quem pode ser voce?}
+ Cidade. É quem pode ser você?}
 {124}{}{Eu}
 {125}{}{.}
 {126}{}{Meu nome é}
@@ -35,10 +35,10 @@
 {133}{}{Naturalmente, eu venho de lá, seu idiota.}
 {134}{Kill03a}{Ei, você parece que está esperando que eu preencha algumas lacunas para você.}
 {135}{Kill04}{Sim, se você diz isso. Então, o que você precisa?}
-{136}{Kill05}{Ah sim, claro que você faz. E quando você era bebê, seu berço era seguro.}
-{137}{}{Não, não. Chama-se um cofre. Nos protegeu
+{136}{Kill05}{Ah sim, claro que você faz. É quando você era bebê, seu berço era seguro.}
+{137}{}{Não, não. Chama-se um cofre. Nós protegeu
  da guerra. Está cheio de pessoas há 80 anos!}
-{138}{}{Heh, você tem minha piada. Eu realmente venho de um
+{138}{}{Ei, você tem minha piada. Eu realmente venho de um
  aldeia não muito longe de Shady Sands.}
 {139}{Kill06}{Não se sinta mal, não é a pior história que eu
  foi dito. Assim . . . O que posso fazer por você?}
@@ -67,7 +67,7 @@
  eles estão bem quietos ultimamente. No interior, os problemas vêm do Skulz.
  E eu ouvi falar de algumas coisas estranhas acontecendo no Hub, mas
  eles ainda não nos afetaram, batem na cabeça da minha sogra.}
-{155} {Kill13b}{Oh, nós temos toneladas para fazer. O Skum Pitt está no lado leste, pelo
+{155} {Kill13b}{Ah, nós temos toneladas para fazer. O Skum Pitt está no lado leste, pelo
  Entrada. Ótimo lugar para beber. O Gizmo está perto de lá. E se você está ferido, Doc
  Morbid é seu homem.}
 {156}{}{Obrigado.}
@@ -77,7 +77,7 @@
 {159}{}{Melhor que nada, eu acho.}
 {160}{}{Então não haverá nada excitante na cidade.}
 {161}{Kill15}{Por uma maldita visão.}
-{162}{Kill16}{Oh, você obviamente me confundiu com alguém que tem que tomar
+{162}{Kill16}{Ah, você obviamente me confundiu com alguém que tem que tomar
  seu lábio. Por que você não volta quando sua mãe lhe ensina algumas maneiras?}
 {163}{Kill21}{Bem, essa é uma bela coincidência! Isso é o que esta loja está aqui
  para! Nós temos tudo que você precisa. Deixe-me mostrar-lhe algumas
@@ -95,14 +95,14 @@
  noite em uma cela. Rapazes . . .}
 {172}{Kill31}{Agora, o que o tio Sam-inferno você acha que está fazendo aqui?}
 {173}{}{Uh. . . Eu me perdi?}
-{174}{}{Oh, este é o seu lugar?}
+{174}{}{Ah, este é o seu lugar?}
 {175}{}{Bem. . . Eu arrombei.}
 {176}{Kill32}{Você está certo que este é o meu lugar! Agora dê o fora antes
  Eu faço sua cabeça uma decoração de parede!}
-{177}{}{Ok, ok, estou indo.}
+{177}{}{Certo, ok, estou indo.}
 {178}{}{Você? Acorde, amigo, você ainda está sonhando.}
 {179}{Kill34}{Uh, não. Você ficou idiota. Saia daqui!}
-{180}{}{Ok. Desculpe pelo inconveniente.}
+{180}{}{Certo. Desculpe pelo inconveniente.}
 {181}{}{Quem vai me fazer? Você? Não me faça rir. . .}
 {182}{Kill35}{Um ladrão honesto. Hmpf. Bem, ainda vou ter que te levar.
  Venha calmamente e você não vai se machucar.}
@@ -154,7 +154,7 @@
 {217}{Kill52}{Bem, droga. Isso é ruim. Mas, você sabe, eu vou ter que trancar
  você até que isso seja feito. Não posso correr o risco de descobrir o Gizmo. Desculpa.}
 {218}{Kill53}{Tudo bem, eu te devo. Aqui está o bug e o fio.}
- Você me avisa quando terminar. E boa sorte.}
+ Você me avisa quando terminar. É boa sorte.}
 {219}{Kill54}{Então, você conseguiu a evidência?}
 {220}{}{Ainda não. Mas eu vou acreditar em mim!}
 {221}{}{eu tenho certeza}.
@@ -169,7 +169,7 @@
 {228}{Kill58}{Vamos ouvir isto.}
 {229}{Kill58b}{Essa é a primeira vez que fico feliz em ouvir a voz dele. Obrigado,
  amigos. Agora é hora de você e eu cuidarmos dos outros negócios.}
-{230}{Kill59}{Bem, obrigado novamente. Oh, ouça, vou pegar os guardas e fugir
+{230}{Kill59}{Bem, obrigado novamente. Ah, ouça, vou pegar os guardas e fugir
  Gizmo e seus amigos fora da cidade. Eu poderia usar outra arma. Você está pronto para isso?
  Pode ser bom para rir.}
 {231}{}{Claro. Vai valer a pena apenas vê-lo tentar andar mais de dez pés.}
@@ -185,13 +185,13 @@
 {239}{Kill63}{Ouça, é tudo o que estou oferecendo. Obrigado por receber o
  evidência, mas eu não vou implorar por seus serviços.}
 {240}{}{Tudo bem, farei isso por essa taxa.}
-{241}{}{Oh, bem. Vejo você por aí.}
+{241}{}{Ah, bem. Vejo você por aí.}
 {242}{Kill64} {Boa sorte nas suas viagens. Agora se você me der licença, eu tenho uma bunda gorda
  mover.}
-{243}{Kill65}{Gizmo é dono do cassino. Nomeado depois de si mesmo.
+{243}{Kill65}{Gizmo é dono do cassino. Nomeado depois de si próprio.
  Tenha muito cuidado com ele.}
 {244}{Kill66}{Bem, sou eu. Onde você esteve?}
-{245}{Kill67}{Oh, Lars dirige os guardas aqui. Ele é um cara legal.
+{245}{Kill67}{Ah, Lars dirige os guardas aqui. Ele é um cara legal.
  Bastante confiável.}
 {246}{Kill68}{Bem Vinnie, ele é um dos filhos problemáticos. Ele lidera um grupo
  de punks chamado Skulz. Ainda assim, eles pagam aluguel, e eles não se incomodaram
@@ -216,7 +216,7 @@
  O dono, Neil, não dá a mínima, nem mesmo de alguns dos Raiders que entram.}
 {255}{Kill76a}{Não há muito a dizer. Doc Morbid está muito chateado porque seus preços são
  menor para material médico. Eles estão no lado oeste.}
-{256}{Kill77}{A Garra da Morte? Oh, essa é uma história para dormir. Bebe sangue e uivos
+{256}{Kill77}{A Garra da Morte? Ah, essa é uma história para dormir. Bebe sangue e uivos
  na lua cheia. Okay, certo.}
 {257}{Kill78}{Bem, o Hub é o principal lugar para o comércio. Qualquer coisa que você não encontrar
  aqui você provavelmente encontrará no Hub. Não tenho certeza de como é seguro hoje em dia, com
@@ -301,10 +301,10 @@
 {1025}{}{Sands}
 {1026}{}{Pit}
 
-{1100}{Kill65}{Gizmo é dono do cassino no lado leste. Nomeado depois de si mesmo.
+{1100}{Kill65}{Gizmo é dono do cassino no lado leste. Nomeado depois de si próprio.
  Tenha muito cuidado com ele.}
 {1101}{Kill66}{Bem, sou eu. Onde você esteve?}
-{1102}{Kill67}{Oh, Lars lidera os guardas aqui. Ele é um cara legal.
+{1102}{Kill67}{Ah, Lars lidera os guardas aqui. Ele é um cara legal.
  Bastante confiável.}
 {1103}{Kill68}{Bem Vinnie, ele é um dos filhos problemáticos. Ele lidera um grupo
  de punks chamado Skulz. Ainda assim, eles pagam o aluguel e não se incomodaram
@@ -329,7 +329,7 @@
  O dono, Neal, não dá a mínima, nem mesmo de alguns dos Raiders que entram.}
 {1112}{Kill76a}{Não há muito a dizer. Doc Morbid está muito chateado porque seus preços são
  menor para material médico. Eles estão no lado oeste.}
-{1113}{Kill77}{A Garra da Morte? Oh, essa é uma história para dormir. Bebe sangue e uivos
+{1113}{Kill77}{A Garra da Morte? Ah, essa é uma história para dormir. Bebe sangue e uivos
  na lua cheia. Okay, certo.}
 {1114}{Kill78}{Bem, o Hub é o lugar principal para o comércio. Qualquer coisa que você não encontrar
  aqui você provavelmente encontrará no Hub. Não tenho certeza de como é seguro hoje em dia, com

@@ -3,31 +3,31 @@
 {101}{}{Você deve estar brincando. Estes carros são todos sucatas.}
 {102}{}{Uh, nada, obrigado.}
 {103}{}{Lug!}
-{104}{}{Oh, Eu lamento, você não parece que pode afford nossas taxas de financiamento.}
+{104}{}{Ah, Eu lamento, você não parece que pode afford nossas taxas de financiamento.}
 {105}{}{Mas, senhor, estes são bons exemplos de veiculos a motor.}
 {106}{}{Senhora, estes são veiculos excelentes.}
 {107}{}{Eles não podem estar em condições de funcionamento.}
 {108}{}{Sim, certo. Okay. Tchau.}
 {109}{}{Foi dado para estes carros um servico de 100-pontos completo pelo nosso dedicado departamento de servicos.}
-{110}{}{E aonde esta seu departmento de servicos?}
-{111}{}{Você e um lunatico.}
-{112}{}{Adeus.}
+{110}{}{É aonde esta seu departmento de servicos?}
+{111}{}{Você é um lunatico.}
+{112}{}{Tchau.}
 {113}{}{Bem logo ali, senhor. [O dealer aponta pro nada.]}
 {114}{}{Bem logo ali, senhora. [O dealer aponta pro nada.]}
-{115}{}{Aonde? Nao ha nada ali.}
+{115}{}{Aonde? Não há nada ali.}
 {116}{}{Você e louco.}
-{117}{}{O que você quer dizer? Eles estao trabalhando num '56 Corvega comprado recentemente. Uma excelente compra, eu devo acrescentar.}
+{117}{}{O que você quer dizer? Eles estão trabalhando num '56 Corvega comprado recentemente. Uma excelente compra, eu devo acrescentar.}
 {118}{}{Okay, o que quer que seja que você disse.}
 {119}{}{Você e simplesmente insano.}
 {120}{}{Tchau.}
-{121}{}{E nos temos uma garantia excelente. Você pode traze-lo de volta pra nos para quaisquer mudancas de oleo tambem. A primeira e gratis. O que você disse?}
+{121}{}{É nos temos uma garantia excelente. Você pode traze-lo de volta pra nos para quaisquer mudancas de oleo tambem. A primeira e gratis. O que você disse?}
 {122}{}{Ponha um tanque cheio de gasolina e você tem um acordo.}
 {123}{}{Você precisa de ajuda.}
 {124}{}{Eu estou saindo agora.}
-{125}{}{Eu lamento, nos não temos qualquer petroleo. Talvez da proxima vez. Adeus.}
+{125}{}{Eu lamento, nós não temos qualquer petroleo. Talvez da proxima vez. Tchau.}
 {126}{}{Eu estou insultado. Eu não tenho que aceitar isso de um fregues. Tenha um bom dia.}
 {127}{}{Eu estou na minha pausa pro cafe, volte mais tarde.}
-{128}{}{Va em frente, e leve um para um test drive.}
+{128}{}{Vá em frente, e leve um para um test drive.}
 {129}{}{Você deveria conseguir a pintura preventiva contra ferrugem com isso.}
 {130}{}{Eu conseguiria deixar você interessado num alarme automatico?}
 {131}{}{Oi! Eu sou o Bob.}

@@ -14,86 +14,86 @@
 {113}{}{. Eu venho em paz.}
 {114}{}{Eu sou }
 {115}{}{. Seu destruidor.}
-{116}{}{Quem sao os Seguidores?}
-{117}{}{OK. Eu posso ver que voce e um pouco lento. Quem e voce?}
+{116}{}{Quem são os Seguidores?}
+{117}{}{OK. Eu posso ver que você e um pouco lento. Quem é você?}
 {118}{}{Eu }
-{119}{}{. Voce morto.}
+{119}{}{. Você morto.}
 {120}{}{Eu }
 {121}{}{. Mim ajuda.}
 {122}{}{Mim matar!}
 {123}{}{Eu }
 {124}{}{. Mim ir.}
-{125}{}{Voce quer ajudar? Eu acho que voce precisara falar com a Nicole ou o Jake
- se voce quer nos ajudar. Eles tem mais tempo pra lidar com pessoas mais lentas.}
+{125}{}{Você quer ajudar? Eu acho que você precisara falar com a Nicole ou o Jake
+ se você quer nos ajudar. Eles tem mais tempo pra lidar com pessoas mais lentas.}
 {126}{}{OK. Apenas fique longe de problemas por aqui.}
-{127}{}{Voce procura acabar com o mal das Criancas?}
+{127}{}{Você procura acabar com o mal das Crianças?}
 {128}{}{Sim. Eu quero eliminar aquela escoria.}
-{129}{}{Nao. Eu prefiro matar voces fracotes.}
-{130}{}{Quem sao estas Criancas?}
-{131}{}{Por que eu iria querer matar criancas?}
-{132}{}{Excelente! Va falar com a Nicole e ela sera capaz de dizer a voce como
- voce pode nos ajudar.}
-{133}{}{As Criancas sao um grupo de ocultismo que adoram algum deus sombrio.
- Pessoalmente, eu acho que ha algo sobre eles que reeks do mal.}
+{129}{}{Não. Eu prefiro matar vocês fracotes.}
+{130}{}{Quem são estas Crianças?}
+{131}{}{Por que eu iria querer matar crianças?}
+{132}{}{Excelente! Vá falar com a Nicole e ela sera capaz de dizer a você como
+ você pode nos ajudar.}
+{133}{}{As Crianças são um grupo de ocultismo que adoram algum deus sombrio.
+ Pessoalmente, eu acho que há algo sobre eles que reeks do mal.}
 {134}{}{Eu matarei eles.}
-{135}{}{Eu nao sei. Eles soam muito fortes para mim.}
+{135}{}{Eu não sei. Eles soam muito fortes para mim.}
 {136}{}{O que eu posso fazer pra ajudar?}
-{137}{}{Esqueca! Nao ha nenhum modo pelo qual eu ajudarei voce.}
-{138}{}{Eles sao um grupo forte, mas eu acho que com alguem das suas tecnicas,
- voce sera capaz de entrar e nos ajudar a destruir eles.}
-{139}{}{Eu o farei entao.}
-{140}{}{Nao. Eu nao acho que eu ajudarei.}
-{141}{}{Suit yourself. Se eles dominarem as terras devastadas nao diga que nos
- nao avisamos voce.}
-{142}{}{Se voce falar com a Nicole, ela sera capaz de dizer a voce mais do
+{137}{}{Esqueça! Não há nenhum modo pelo qual eu ajudarei você.}
+{138}{}{Eles são um grupo forte, mas eu acho que com alguém das suas tecnicas,
+ você sera capaz de entrar e nós ajudar a destruir eles.}
+{139}{}{Eu o farei então.}
+{140}{}{Não. Eu não acho que eu ajudarei.}
+{141}{}{Suit yourself. Se eles dominarem as terras devastadas não diga que nos
+ não avisamos você.}
+{142}{}{Se você falar com a Nicole, ela sera capaz de dizer a você mais do
  que pode ser feito pra para-los. }
-{143}{}{Obrigado a voce. Adeus.}
-{144}{}{Nao criancas. Nos nao pensariamos em prejudica-las. Nao> Estas sao
- Criancas da Catedral. Um grupo malvado de pessoas.}
+{143}{}{Obrigado a você. Tchau.}
+{144}{}{Não crianças. Nós não pensariamos em prejudica-las. Não> Estas são
+ Crianças da Catedral. Um grupo malvado de pessoas.}
 {145}{}{Neste caso, com certeza - eu waste them.}
-{146}{}{Oh. eu pensei que voce estava falando sobre criancas pequenas. Eu
- nao acho que eu ajudarei.}
-{147}{}{O que voce pode me dizer sobre estas Criancas?}
-{148}{}{Nos somos os Seguidores do Apocalipse. Nos estamos tentando trazer
+{146}{}{Ah. eu pensei que você estava falando sobre crianças pequenas. Eu
+ não acho que eu ajudarei.}
+{147}{}{O que você pode me dizer sobre estas Crianças?}
+{148}{}{Nós somos os Seguidores do Apocalipse. Nós estamos tentando trazer
  paz as terras devastadas.}
 {149}{}{Soa como uma boa ideia. Boa sorte com ela.}
-{150}{}{Como voces planejam fazer isso?}
+{150}{}{Como vocês planejam fazer isso?}
 {151}{}{Isso parece altamente improvavel.}
-{152}{}{Nos estamos trabalhando pra trazer tolerancia para aqueles nas terras devastadas
+{152}{}{Nós estamos trabalhando pra trazer tolerancia para aqueles nas terras devastadas
  para aqueles poucos infelizes que sofreram mutacao pela natureza destrutiva do homem.}
-{153}{}{Boa sorte com isso entao.}
+{153}{}{Boa sorte com isso então.}
 {154}{}{Em toda a historia, nos nunca fomos capazes de obter tolerancia.
- Por que voce acha que a guerra aconteceu?}
+ Por que você acha que a guerra aconteceu?}
 {155}{}{Isso e apenas um monte de besteira.}
-{156}{}{Voce esta certo em dizer que nos, como humanos, fomos de mente fechada.
- Contudo, ha sempre esperanca.}
-{157}{}{Boa sorte com isso entao.}
-{158}{}{Eu penso que voce esta certo. Aqui, deixe-me tornar voce mais mente aberta com isto.}
-{159}{}{Seja isso como possa ser, sua opiniao nao foi requisitada. Adeus.}
-{160}{}{Um cinico em nosso meio. Eu tenho certeza que voce tem suas razoes. Regardless,
+{156}{}{Você esta certo em dizer que nos, como humanos, fomos de mente fechada.
+ Contudo, há sempre esperança.}
+{157}{}{Boa sorte com isso então.}
+{158}{}{Eu penso que você esta certo. Aqui, deixe-me tornar você mais mente aberta com isto.}
+{159}{}{Seja isso como possa ser, sua opiniao não foi requisitada. Tchau.}
+{160}{}{Um cinico em nosso meio. Eu tenho certeza que você tem suas razões. Regardless,
  Eu estou certo que nos podemos chegar a algum tipo de entendimento.}
-{161}{}{Boa sorte com isso entao. Adeus.}
-{162}{}{Eu ouvi que as Criancas foram capazes de obter alguns dos nossos segredos.
+{161}{}{Boa sorte com isso então. Tchau.}
+{162}{}{Eu ouvi que as Crianças foram capazes de obter alguns dos nossos segredos.
  Eu imagino como isto esta acontecendo.}
-{163}{}{Eu acredito que ha um espiao em algum lugar por aqui.}
+{163}{}{Eu acredito que há um espiao em algum lugar por aqui.}
 {164}{}{Eu sei. Eu estou vendendo seus segredos pra eles.}
-{165}{}{Eu tenho certeza que voce esta apenas imaginando coisas. Como eles poderiam saber de qualquer coisa?}
+{165}{}{Eu tenho certeza que você esta apenas imaginando coisas. Como eles poderiam saber de qualquer coisa?}
 {166}{}{Verdade? Eu pensava assim eu mesmo, mas temia que eu nunca teria
  sido capaz de obter muito suporte na teoria.}
-{167}{}{Voce tem quaisquer pistas de quem poderia ser?}
+{167}{}{Você tem quaisquer pistas de quem poderia ser?}
 {168}{}{Eu estou feliz em saber disso. Obrigado pelo seu tempo.}
-{169}{}{Voce e o agente duplo!!!}
-{170}{}{Nao realmente. A unica coisa que eu posso pensar e que a pessoa teria
- que ter acesso a alguma informacao e ter acesso ao lado de fora.
- Voce poderia querer procurar os iniciados ou patrulheiros.}
-{171}{}{Obrigado. Adeus.}
-{172}{}{Nicole estara satisfeita entao, em saber que eu matei o agente.}
-{173}{}{Voce deve estar certo. Obrigado a voce por setting me straight.}
-{174}{}{Eu acho que voce e o agente duplo. Tentando me enganar, eu entendo. Bem
- agora voce MORRE!}
+{169}{}{Você e o agente duplo!!!}
+{170}{}{Não realmente. A unica coisa que eu posso pensar e que a pessoa teria
+ que ter acesso a alguma informação e ter acesso ao lado de fora.
+ Você poderia querer procurar os iniciados ou patrulheiros.}
+{171}{}{Obrigado. Tchau.}
+{172}{}{Nicole estara satisfeita então, em saber que eu matei o agente.}
+{173}{}{Você deve estar certo. Obrigado a você por setting me straight.}
+{174}{}{Eu acho que você e o agente duplo. Tentando me enganar, eu entendo. Bem
+ agora você MORRE!}
 {175}{}{Otimo trabalho em eliminar aquele agente. Agora nos poderiamos ter uma chance
- contra aquelas Criancas.}
-{176}{}{Boa sorte pra voce.}
-{177}{}{Eu posso ajudar a treinar voce pra se tornar mais eficiente na sua luta.}
-{178}{}{Voce poderia? Isso seria maravilhoso.}
-{179}{}{Aí vai voce. Talvez isso ajudara voce na sua luta.}
+ contra aquelas Crianças.}
+{176}{}{Boa sorte pra você.}
+{177}{}{Eu posso ajudar a treinar você pra se tornar mais eficiente na sua luta.}
+{178}{}{Você poderia? Isso seria maravilhoso.}
+{179}{}{Aí vai você. Talvez isso ajudara você na sua luta.}

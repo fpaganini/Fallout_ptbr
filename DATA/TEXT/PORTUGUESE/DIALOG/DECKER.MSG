@@ -1,169 +1,169 @@
-{100}{}{Decker nao quer mais falar com voce.}
-{101}{}{Voce ve Decker.}
-{102}{}{Decker esta ocupado demais para falar com voce. Faça seu trabalho
+{100}{}{Decker não quer mais falar com você.}
+{101}{}{Você vê Decker.}
+{102}{}{Decker esta ocupado demais para falar com você. Faça seu trabalho
  e volte mais tarde.}
 {103}{DECK_1}{
-Assim. Voce esta procurando emprego. Que sorte. Eu tenho um que precisa ser feito. Ah, mas onde estao minhas boas maneiras? Qual o seu nome?}
+Assim. Você esta procurando emprego. Que sorte. Eu tenho um que precisa ser feito. Ah, mas onde estão minhas boas maneiras? Qual o seu nome?}
 {104}{}{eu sou}
 {105}{}{.}
 {106}{}{Que negocio e seu?}
 {107}{DECK_2}{
-Bem, as amabilidades estao agora concluidas. Voce deseja ouvir sobre o trabalho?}
-{108}{}{E por isso que estou aqui.}
-{109}{}{Nao particularmente.}
+Bem, as amabilidades estão agora concluidas. Você deseja ouvir sobre o trabalho?}
+{108}{}{É por isso que estou aqui.}
+{109}{}{Não particularmente.}
 {110}{DECK_3}{
-Antecedentes: Ha um certo comerciante que e. . . como expressar isso. . . nao eata cooperando totalmente com o Underground.}
-{111}{}{E o trabalho?}
+Antecedentes: Há um certo comerciante que é. . . como expressar isso. . . não eata cooperando totalmente com o Underground.}
+{111}{}{É o trabalho?}
 {112}{DECK_4}{
 Bem simples. Cacar o comerciante e sua esposa e extermina-los. }
-{113}{}{Voce quer dizer mata-los?}
+{113}{}{Você quer dizer mata-los?}
 {114}{}{Quanto para o trabalho?}
-{115}{}{Eu nao posso fazer isso!}
+{115}{}{Eu não posso fazer isso!}
 {116}{DECK_5}{
-Tudo uma questao de semantica, mas sim. Mate eles. Voce vai aceitar o trabalho?}
-{117}{}{Umm, claro - por que nao?}
-{118}{}{Nao! Isso seria errado!}
+Tudo uma questão de semantica, mas sim. Mate eles. Você vai aceitar o trabalho?}
+{117}{}{Umm, claro - por que não?}
+{118}{}{Não! Isso seria errado!}
 {119}{}{Quanto?}
 {120}{DECK_6}{
-Oh, excelente. O pagamento padrao e de 500 Scripts para abrir e outros 2500. . . fechar.}
+Ah, excelente. O pagamento padrao e de 500 Scripts para abrir e outros 2500. . . fechar.}
 {121}{}{Onde posso encontrar este comerciante?}
 {122}{DECK_7}{
-Eles moram nas alturas, na Barter Street e na Thunder Avenue. Conclua o trabalho e retorne.}
-{123}{}{Ok, vou.}
-{124}{}{Como voce vai saber que eu matei eles?}
-{125}{}{Eu nao penso assim}
+Eles moram nas alturas, na Barter Street e na Thunder Avenue. Conclua o trabalho éretorne.}
+{123}{}{Certo, vou.}
+{124}{}{Como você vai saber que eu matei eles?}
+{125}{}{Eu não penso assim}
 {126}{DECK_8}{
 Excelente. Meu assistente vai te renumerar ao sair. Por favor, feche a porta atras de você.}
 {127}{deck_9}{Confie em mim. Eu saberei.}
-{128}{}{Ok, farei isso}
+{128}{}{Certo, farei isso}
 {129}{}{Passe.}
 {130}{DECK_10}{
 Eu devo confessar me sentindo um pouco. . . desapontado com você. Mas essas coisas acontecem. Você vai lembrar que isso é confidencial. Dia bom.}
 {131}{DECK_11}{
-E pagamento normal. 500 caps para começar, mais 2500 quando o trabalho estiver concluído. Voce vai fazer isso?}
-{132}{}{Nao, obrigado.}
+É pagamento normal. 500 caps para começar, mais 2500 quando o trabalho estiver concluído. Você vai fazer isso?}
+{132}{}{Não, obrigado.}
 {133}{}{Sim, eu farei isso.}
 {134}{DECK_12}{
-Muito agradável. O comerciante mora nas alturas, na Barter Street e na Thunder Avenue. Seu pagamento inicial sera entregue a voce no seu caminho.}
+Muito agradável. O comerciante mora nas alturas, na Barter Street e na Thunder Avenue. Seu pagamento inicial sera entregue a você no seu caminho.}
 {135}{DECK_13}{
-Tudo e da minha conta no Hub. Ou me diga, ou voce pode sair.}
+Tudo e da minha conta no Hub. Ou me diga, ou você pode sair.}
 {136}{}{Meu nome e}
 {137}{}{.}
-{138}{}{Eu nao estou dizendo nada a voce.}
+{138}{}{Eu não estou dizendo nada a você.}
 {139}{DECK_14}{
 Entendo . . . Meu assistente te mostrara a porta.}
 {140}{DECK_15}{
-Estou muito orgulhoso de voce. Voce e implacavel, um atributo que admiro. Kane lhe dara seu pagamento. Espero que voce esteja disponível no futuro.}
+Estou muito orgulhoso de você. Você e implacavel, um atributo que admiro. Kane lhe dara seu pagamento. Espero que você esteja disponível no futuro.}
 {141}{}{Posso fazer algumas perguntas?}
 {142}{}{Obrigado.}
 {143}{DECK_16} {
 Sob as circunstancias, sim.}
-{144}{}{O que ha no Hub?}
+{144}{}{O que há no Hub?}
 {145}{}{Ouviram algum boato?}
 {146}{}{Nevermind.}
 {147}{Deck_16b} {Seja breve, por favor.}
 {148}{DECK_17}{
-O Merchant Market fica no centro da cidade, cercado por varios estabelecimentos. Voce tem as alturas a oeste e a cidade velha a leste.}
+O Merchant Market fica no centro da cidade, cercado por varios estabelecimentos. Você tem as alturas a oeste é a cidade velha a leste.}
 {149}{}{Que tipo de estabelecimentos?}
 {150}{}{Obrigado pela informação. Posso fazer mais algumas perguntas?}
 {151}{DECK_18}{
-Você esta no Falcao Maltes. Ha tambem a All in One Store, o Armory, a Friendly Lending Company, a policia e, infelizmente, o hospital Children of the Cathedral.}
-{152}{}{Nao parece que voce e um fa dos Filhos. Estas bem?}
+Você esta no Falcao Maltes. Há tambem a All in One Store, o Armory, a Friendly Lending Company, a policia e, infelizmente, o hospital Children of the Cathedral.}
+{152}{}{Não parece que você e um fa dos Filhos. Estas bem?}
 {153}{}{Obrigado. Posso fazer mais algumas perguntas?}
 {154}{DECK_19}{
 Eles . . . invadir. Vamos deixar assim, vamos?}
-{155}{}{Ok. Posso fazer mais algumas perguntas?}
+{155}{}{Certo. Posso fazer mais algumas perguntas?}
 {156}{DECK_20}{
-Eu nao sou um guia turistico. Va ver por si mesmo.}
+Eu não sou um guia turistico. Vá ver por si próprio.}
 {157}{}{Posso fazer mais algumas perguntas?}
 {158}{}{Verdadeiro. Os guias tursticos seriam muito mais agradaveis.}
 {159}{DECK_21}{
-Nao. Por favor, receba seu pagamento e saia.}
+Não. Por favor, receba seu pagamento e saia.}
 {160}{DECK_22}{
 Perdoe-me? }
-{161}{}{Voce me ouviu.}
+{161}{}{Você me ouviu.}
 {162}{}{Nada. Posso fazer mais algumas perguntas?}
 {163}{DECK_23}{
-Voce e arrogante. Meu assistente mostrara a voce. . . Quero dizer . . . para a porta.}
-{164}{deck_24}{Nao}
+Você e arrogante. Meu assistente mostrara a você. . . Quero dizer . . . para a porta.}
+{164}{deck_24}{Não}
 {165}{}{Bem, posso te perguntar outra coisa?}
-{166}{}{Voce e um cara mal-humorado.}
+{166}{}{Você é um cara mal-humorado.}
 {167}{DECK_25}{
-Alguem parece estar roubando caravanas inteiras dos Far Go Traders. E o Circulo dos Ladroes esta causando suas dificuldades normais.}
+Alguém parece estar roubando caravanas inteiras dos Far Go Traders. É o Circulo dos Ladroes esta causando suas dificuldades normais.}
 # Line 168 has been changed due to gender issues. See lines 232-233.
 {168}{}{}
 {169}{}{Claro.}
 {170}{}{De jeito nenhum no inferno!}
 {171}{DECK_27}{
-Excelente. Voce vê, o ultimo trabalho que eu dei a voce foi um teste e voce fez muito bem. Agora vem um trabalho de importancia.}
+Excelente. Você vê, o ultimo trabalho que eu dei a você foi um teste e você fez muito bem. Agora vem um trabalho de importancia.}
 {172}{}{Qual e?}
-{173}{{Parece assustador. Eu nao acho que estou interessado.}
+{173}{{Parece assustador. Eu não acho que estou interessado.}
 {174}{DECK_28}{
-Como voce deve saber, os Filhos da Catedral estao ganhando influencia nesta cidade e, sinceramente, nao vou tolerar isso.}
-{175}{}{Entao, o que voce quer que eu faça?}
+Como você deve saber, os Filhos da Catedral estão ganhando influencia nesta cidade e, sinceramente, não vou tolerar isso.}
+{175}{}{Então, o que você quer que eu faça?}
 {176}{DECK_29}{
 Um pequeno problema. Mate a Suma Sacerdotisa Jain. Uma vez que ela se foi, esse pequeno incomodo terminara. Interessado?}
 {177}{}{Absolutamente}
 {178}{}{Mas isso seria imoral!}
 {179}{DECK_30}{
-Eu acredito que estou começando a gostar de voce. O pagamento e de 1000 na frente e 4000 apos a conclusão. E acredite em mim, saberei quando terminar.}
+Eu acredito que estou começando a gostar de você. O pagamento e de 1000 na frente e 4000 apos a conclusão. É acredite em mim, saberei quando terminar.}
 {180}{}{Okay}
 {181}{DECK_31}{
 Fale com o Kane quando sair. Ele lhe dara detalhes.}
 {182}{DECK_32}{
-E matar o comerciante nao foi?
+É matar o comerciante não foi?
 {183}{}{Bem, tudo bem, eu farei.}
-{184}{}{Eu nao me importo. Eu nao farei isso.}
+{184}{}{Eu não me importo. Eu não farei isso.}
 {185}{DECK_33}{
-O pagamento e de 1000 adiantado e 4000 em cima. . . execucao. E acredite em mim, saberei quando acabar.}
+O pagamento e de 1000 adiantado e 4000 em cima. . . execucao. É acredite em mim, saberei quando acabar.}
 {186}{}{Okay}
 # Line 187 has been changed due to gender issues. See 234-235.
 {187}{}{}
 {188}{DECK_35}{
-Que pena. Tem certeza de que nem vai ouvir o que e o trabalho?}
-{189}{}{Sim, eu nao vou fazer isso.}
-{190}{}{Ok, o que e isso?}
-{191}{DECK_36}{Entao nao temos mais nada para discutir.}
-{192}{DECK_37}{trabalho excepcional. Eu acredito que a facçao religiosa nao deve mais interferir. Fale com Kane pela sua recompensa. Meus agradecimentos - e certamente vou mante-lo em mente no futuro.}
+Que pena. Tem certeza de que nem vai ouvir o que é o trabalho?}
+{189}{}{Sim, eu não vou fazer isso.}
+{190}{}{Certo, o que é isso?}
+{191}{DECK_36}{Então não temos mais nada para discutir.}
+{192}{DECK_37}{trabalho excepcional. Eu acredito que a facçao religiosa não deve mais interferir. Fale com Kane pela sua recompensa. Meus agradecimentos - e certamente vou mante-lo em mente no futuro.}
 {193}{DECK_38}{Coloque isso para baixo}
-{194}{DECK_39}{Eu sou um homem bastante paciente, mas ate eu tenho limites. Kane, ensina a este simplorio uma liçao.}
+{194}{DECK_39}{Eu sou um homem bastante paciente, mas até eu tenho limites. Kane, ensina a este simplorio uma liçao.}
 {195}{DECK_40}{Pare com isso}
 {196}{DECK_42}{Fale com Kane sobre isso. Ele pode te dizer mais.}
 {197}{DECK_43}{Como eu disse. . .}
 {198}{DECK_44}{Como eu disse. . .}
 {199}{DECK_45}{Eu ja te disse. . .}
-{200}{DECK_46}{nao estava me ouvindo? Eu disse . . .}
-{201}{DECK_47}{Esteja informado: nao estou acostumado a me repetir.}
-{202}{DECK_48}{Eu nao direi isso de novo.}
-{203}{DECK_49}{Voce nao precisa saber mais nada sobre mim.}
-{204}{DECK_50}{A maioria das pessoas nao usa o nome da minha organização de maneira leve. Nos controlamos Hub.}
+{200}{DECK_46}{não estava me ouvindo? Eu disse . . .}
+{201}{DECK_47}{Esteja informado: não estou acostumado a me repetir.}
+{202}{DECK_48}{Eu não direi isso de novo.}
+{203}{DECK_49}{Você não precisa saber mais nada sobre mim.}
+{204}{DECK_50}{A maioria das pessoas não usa o nome da minha organização de maneira leve. Nós controlamos Hub.}
 {205}{DECK_51}{A minha mae, a melhor mulher que conheci, deu-me a ideia para este, o melhor estabelecimento de entretenimento em todo o Hub.}
-{206}{DECK_52}{Eles roubam dos mercadores e dao aos pobres, ou algum desses absurdos. Eles sao irrelevantes para mim. Aquele velho mutante, Harold saberia mais.}
-{207}{DECK_53}{Ele e o chefe da policia. Cara legal, se você gosta da seta reta, tipo honesto. Nao é como o pai dele; agora havia um homem leal.}
-{208}{DECK_54}{Harold ja existe ha algum tempo. Ele está na cidade velha. Uma boa fonte para certos tipos de informação.}
-{209}{DECK_55}{Eles controlam a agua. Va para o extremo sul do Merchant Market, voce os encontrara la.}
+{206}{DECK_52}{Eles roubam dos mercadores e dão aos pobres, ou algum desses absurdos. Eles são irrelevantes para mim. Aquele velho mutante, Harold saberia mais.}
+{207}{DECK_53}{Ele e o chefe da policia. Cara legal, se você gosta da seta reta, tipo honesto. Não é como o pai dele; agora havia um homem leal.}
+{208}{DECK_54}{Harold ja existe há algum tempo. Ele está na cidade velha. Uma boa fonte para certos tipos de informação.}
+{209}{DECK_55}{Eles controlam a água. Vá para o extremo sul do Merchant Market, você os encontrara lá.}
 {210}{DECK_56}{Ele e o chefe dos Mercadores da Agua.}
-{211}{DECK_57}{Eles costumavam controlar o hospital ate as crianças assumirem o controle. Agora eles se sentam e meditam em seu armazem - muito estranho. Voce os encontrara no extremo noroeste do Merchant Market.}
+{211}{DECK_57}{Eles costumavam controlar o hospital até as crianças assumirem o controle. Agora eles se sentam e meditam em seu armazem - muito estranho. Você os encontrara no extremo noroeste do Merchant Market.}
 {212}{DECK_58}{Ele e o chefe da Caravana Carmesim.}
-{213}{DECK_59}{Eles sao os ultimos dos comerciantes, e eu quero dizer isso literalmente. Coisas pequenas, principalmente. Olhe para o nordeste do Merchant Market.}
+{213}{DECK_59}{Eles são os ultimos dos comerciantes, e eu quero dizer isso literalmente. Coisas pequenas, principalmente. Olhe para o nordeste do Merchant Market.}
 {214}{DECK_60}{Divertido. Ele se considera o lider dos Far Go Traders. Mais de uma figura, na verdade. Ele sabe melhor do que interferir no meu negocio.}
 {215}{DECK_61}{Ela e responsável pela loja de armas.}
 {216}{DECK_62}{Algo esta fazendo as caravanas dos Far Go Traders desaparecerem. Eu gostaria de saber a causa, uma vez que isso atrapalha uma parte do meu negocio.}
-{217}{Deck_63}{E no centro da cidade.}
-{218}{DECK_64}{Mitos e lendas. A Garra da Morte E supostamente um fantasma ou algo assim.}
-{219}{DECK_65}{Cidade Velha ocupa todo o lado leste. Os skags vivem la.}
-{220}{DECK_66}{A maioria dos comerciantes mora la. Simplesmente va para o oeste daqui.}
+{217}{Deck_63}{É no centro da cidade.}
+{218}{DECK_64}{Mitos e lendas. A Garra da Morte É supostamente um fantasma ou algo assim.}
+{219}{DECK_65}{Cidade Velha ocupa todo o lado leste. Os skags vivem lá.}
+{220}{DECK_66}{A maioria dos comerciantes mora lá. Simplesmente vá para o oeste daqui.}
 {221}{DECK_67}{Uma organizaçao irritante. Logo eles podem precisar de uma demonstraçao na gestao do poder.}
-{222}{DECK_68}{Morpheus e a cabeça dos Filhos da Catedral. Ele mora no cemiterio.}
+{222}{DECK_68}{Morpheus é a cabeça dos Filhos da Catedral. Ele mora no cemiterio.}
 {223}{DECK_69}{Ela e atualmente a cabeça dos Filhos da Catedral no Hub. Tenho motivos para acreditar que isso pode mudar em breve.}
 {224}{DECK_70}{Uma das invenções das Crianças. Ele e supostamente uma pequena divindade, ou algo assim.}
-{225}{DECK_71}{E um lugar pequeno que e vendido. . . armas justas. Nos Far Go Traders.}
-{226}{DECK_72}{Apenas fora da porta e para o norte. Voce nao pode perder isso.}
-{227}{DECK_73}{Isso nao e importante.}
-{228}{DECK_74}{O que? Isso nao e importante agora.}
+{225}{DECK_71}{É um lugar pequeno que é vendido. . . armas justas. Nós Far Go Traders.}
+{226}{DECK_72}{Apenas fora da porta e para o norte. Você não pode perder isso.}
+{227}{DECK_73}{Isso não é importante.}
+{228}{DECK_74}{O que? Isso não é importante agora.}
 {229}{DECK_75}{Realmente. Agora, por que eu iria querer fazer isso?
-{230}{}{Eu vejo que voce eliminou o meu segundo. Eu mesmo terei que cuidar de voce.}
-{231}{}{Que bom te ver, xerife Greene! Eu vejo que voce veio se despedir.}
+{230}{}{Eu vejo que você eliminou o meu segundo. Eu mesmo terei que cuidar de você.}
+{231}{}{Que bom te ver, xerife Greene! Eu vejo que você veio se despedir.}
 
 #
 # TRANSLATION NOTE: The following groups of  lines are identical in English,
@@ -172,21 +172,21 @@ Que pena. Tem certeza de que nem vai ouvir o que e o trabalho?}
 # for the case of the player-character feminine ("my friend" will be feminine).
 #
 
-{232}{DECK_26}{Bom dia novamente, meu amigo. Eu tenho outro trabalho para voce.
- Voce esta interessado?}
-{233}{DECK_26}{Bom dia novamente, minha amiga. Eu tenho outro trabalho para voce.
+{232}{DECK_26}{Bom dia novamente, meu amigo. Eu tenho outro trabalho para você.
+ Você esta interessado?}
+{233}{DECK_26}{Bom dia novamente, minha amiga. Eu tenho outro trabalho para você.
  Voce esta interessado?}
 
-{234}{DECK_34}{E eu tive tantas esperanças por voce!
- Mas eu nao posso ter voce avisando as crianças. Kane, remova nosso amigo aqui
+{234}{DECK_34}{É eu tive tantas esperanças por você!
+ Mas eu não posso ter você avisando as crianças. Kane, remova nosso amigo aqui
  e repassar algumas instruçoes sobre o silencio.}
-{235}{DECK_34}{E eu tive tantas esperanças por voce!
- Mas eu nao posso ter voce avisando as crianças. Kane, remova nosso amiga aqui
+{235}{DECK_34}{É eu tive tantas esperanças por você!
+ Mas eu não posso ter você avisando as crianças. Kane, remova nosso amiga aqui
  e repassar algumas instruçoes sobre o silencio.}
 
 # Decker Tell-Me-Abouts generic responses
-{980}{DECK_73}{Isso nao e importante.}
-{981}{DECK_74}{O que? Isso nao e importante agora.}
+{980}{DECK_73}{Isso não é importante.}
+{981}{DECK_74}{O que? Isso não é importante agora.}
 
 #
 # Decker Tell-Me-Abouts
@@ -232,42 +232,42 @@ Que pena. Tem certeza de que nem vai ouvir o que e o trabalho?}
 {1037}{}{Children}
 {1038}{}{All}
 
-{1100}{DECK_49}{Voce nao precisa saber mais nada sobre mim.}
-{1101}{DECK_50}{A maioria das pessoas nao usa o nome da minha organizaçao de maneira leve. Nos controlamos o Hub.}
+{1100}{DECK_49}{Você não precisa saber mais nada sobre mim.}
+{1101}{DECK_50}{A maioria das pessoas não usa o nome da minha organizaçao de maneira leve. Nós controlamos o Hub.}
 {1102}{DECK_51}{A minha mae, a melhor mulher que conheci, deu-me a ideia para este, o melhor estabelecimento de entretenimento em todo o Hub.}
-{1103}{DECK_52}{Eles roubam dos mercadores e dao aos pobres, ou algum desses absurdos. Eles sao irrelevantes para mim. Aquele velho mutante, Harold saberia mais.}
-{1104}{DECK_53}{Ele e o chefe da policia. Cara legal, se voce gosta da seta reta, tipo honesto. Nao como seu pai, agora havia um homem leal.}
-{1105}{DECK_54}{Harold ja existe ha algum tempo. Ele esta na cidade velha. Uma boa fonte para certos tipos de informaçao.}
-{1106}{DECK_55}{Eles controlam a agua. Va para o extremo sul do Merchant Market, voce os encontrara la.}
+{1103}{DECK_52}{Eles roubam dos mercadores e dão aos pobres, ou algum desses absurdos. Eles são irrelevantes para mim. Aquele velho mutante, Harold saberia mais.}
+{1104}{DECK_53}{Ele e o chefe da policia. Cara legal, se você gosta da seta reta, tipo honesto. Não como seu pai, agora havia um homem leal.}
+{1105}{DECK_54}{Harold ja existe há algum tempo. Ele esta na cidade velha. Uma boa fonte para certos tipos de informaçao.}
+{1106}{DECK_55}{Eles controlam a água. Vá para o extremo sul do Merchant Market, você os encontrara lá.}
 {1107}{DECK_56}{Ele e o chefe dos Mercadores da Agua.}
-{1108}{DECK_57}{Eles costumavam controlar o hospital ata os filhos assumirem o controle. Agora eles se sentam e meditam em seu armazem - muito estranho. Voce os encontrara no extremo noroeste do Merchant Market.}
+{1108}{DECK_57}{Eles costumavam controlar o hospital ata os filhos assumirem o controle. Agora eles se sentam e meditam em seu armazem - muito estranho. Você os encontrara no extremo noroeste do Merchant Market.}
 {1109}{DECK_58}{Ele e o chefe da Caravana Carmesim.}
-{1110}{DECK_59}{Eles sao os ultimos dos comerciantes, e eu quero dizer isso literalmente. Coisas pequenas, principalmente. Olhe para o nordeste do Merchant Market.}
+{1110}{DECK_59}{Eles são os ultimos dos comerciantes, e eu quero dizer isso literalmente. Coisas pequenas, principalmente. Olhe para o nordeste do Merchant Market.}
 {1111}{DECK_60}{Divertido. Ele se considera o lider dos Far Go Traders. Mais de uma figura, na verdade. Ele sabe melhor do que interferir no meu negocio.}
-{1112}{DECK_61}{Ela e responsavel pela loja de armas.}
+{1112}{DECK_61}{Ela e responsável pela loja de armas.}
 {1113}{DECK_62}{Algo esta fazendo as caravanas dos Far Go Traders desaparecerem. Eu gostaria de saber a causa, uma vez que isso atrapalha uma parte do meu negocio.}
 {1114}{Deck_63}{Esta no centro da cidade.}
 {1115}{DECK_64}{Mitos e lendas. A Garra da Morte e supostamente um fantasma ou algo assim.}
-{1116}{DECK_65}{Cidade Velha ocupa todo o lado leste. Os skags vivem la.}
-{1117}{DECK_66}{A maioria dos comerciantes moram la. Simplesmente va para o oeste daqui.}
+{1116}{DECK_65}{Cidade Velha ocupa todo o lado leste. Os skags vivem lá.}
+{1117}{DECK_66}{A maioria dos comerciantes moram lá. Simplesmente vá para o oeste daqui.}
 {1118}{DECK_67}{Uma organizaçao irritante. Logo eles podem precisar de uma demonstração na gestao do poder.}
-{1119}{DECK_68}{Morpheus e a cabeça dos Filhos da Catedral. Ele mora no cemiterio.}
+{1119}{DECK_68}{Morpheus é a cabeça dos Filhos da Catedral. Ele mora no cemiterio.}
 {1120}{DECK_69}{Ela e atualmente a cabeça dos Filhos da Catedral no Centro. Tenho motivos para acreditar que isso pode mudar em breve.}
 {1121}{DECK_70}{Uma das invençoes das Crianças. Ele supostamente e um pouco menor, ou algo assim.}
-{1122}{DECK_71}{E um lugar pequeno que se vende. . . armas justas. Nos Far Go Traders.}
-{1123}{DECK_72{Apenas fora da porta e para o norte. Voce nao pode perder isso.}
+{1122}{DECK_71}{É um lugar pequeno que se vende. . . armas justas. Nós Far Go Traders.}
+{1123}{DECK_72{Apenas fora da porta e para o norte. Você não pode perder isso.}
 {1124}{DECK_51}{A minha mae, a melhor mulher que conheci, deu-me a ideia para este, o melhor estabelecimento de entretenimento em todo o Hub.}
 {1125}{DECK_51}{A minha mae, a melhor mulher que conheci, deu-me a ideia para este, o melhor estabelecimento de entretenimento em todo o Hub.}
-{1126}{DECK_53}{Ele e o chefe da policia. Cara legal, se voce gosta da seta reta, tipo honesto. Nao como seu pai, agora havia um homem leal.}
+{1126}{DECK_53}{Ele e o chefe da policia. Cara legal, se você gosta da seta reta, tipo honesto. Não como seu pai, agora havia um homem leal.}
 {1127}{DECK_56}{Ele e o chefe dos Mercadores da Agua.}
 {1128}{DECK_62}{Algo esta fazendo as caravanas dos Far Go Traders desaparecerem. Eu gostaria de saber a causa, uma vez que isso atrapalha uma parte do meu negocio.}
 {1129}{DECK_58}{Ele e o chefe da Caravana Carmesim.}
-{1130}{DECK_59}{Eles sao os ultimos dos comerciantes, e quero dizer isso literalmente. Coisas pequenas, principalmente. Olhe para o nordeste do Merchant Market.}
-{1131}{DECK_59}{Eles sao os ultimos dos comerciantes, e eu quero dizer isso literalmente. Coisas pequenas, principalmente. Olhe para o nordeste do Merchant Market.}
+{1130}{DECK_59}{Eles são os ultimos dos comerciantes, e quero dizer isso literalmente. Coisas pequenas, principalmente. Olhe para o nordeste do Merchant Market.}
+{1131}{DECK_59}{Eles são os ultimos dos comerciantes, e eu quero dizer isso literalmente. Coisas pequenas, principalmente. Olhe para o nordeste do Merchant Market.}
 {1132}{DECK_60}{Divertido. Ele se considera o lider dos Far Go Traders. Mais de uma figura, na verdade. Ele sabe melhor do que interferir no meu negocio.}
 {1133}{DECK_64}{Mitos e lendas. A Garra da Morte e supostamente um fantasma ou algo assim.}
 {1134}{DECK_64}{Mitos e lendas. A Garra da Morte e supostamente um fantasma ou algo assim.}
-{1135}{DECK_65}{Cidade Velha ocupa todo o lado leste. Os skags vivem la.}
-{1136}{DECK_65}{Cidade Velha ocupa todo o lado leste. Os skags vivem la.}
+{1135}{DECK_65}{Cidade Velha ocupa todo o lado leste. Os skags vivem lá.}
+{1136}{DECK_65}{Cidade Velha ocupa todo o lado leste. Os skags vivem lá.}
 {1137}{DECK_67}{Uma organizaçao irritante. Logo eles podem precisar de uma demonstraçao na gestao do poder.}
-{1138}{DECK_72}{Apenas fora da porta e para o norte. Voce nao pode perder isso.}
+{1138}{DECK_72}{Apenas fora da porta e para o norte. Você não pode perder isso.}

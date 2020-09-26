@@ -1,2 +1,2 @@
-{100}{}{Esta e a sala do Nucleo Central da Vault. E
- aqui que as maquinas de computacao estao localizadas.}
+{100}{}{Esta é a sala do Nucleo Central da Vault. É
+ aqui que as maquinas de computacao estão localizadas.}

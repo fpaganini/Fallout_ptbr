@@ -1,51 +1,51 @@
-{100}{}{Você ve a Amber, uma professora dos Seguidores.}
-{101}{}{Agora e quando eu descanso. Por favor volte durante a noite.}
+{100}{}{Você vê a Amber, uma professora dos Seguidores.}
+{101}{}{Agora é quando eu descanso. Por favor volte durante a noite.}
 {102}{}{Bem-vindo nobre viajante. Você veio aqui pra estudar?}
-{103}{}{Nao. Eu realmente vim aqui apenas pra matar coisas.}
+{103}{}{Não. Eu realmente vim aqui apenas pra matar pessoas.}
 {104}{}{Depende do que você quer me ensinar.}
 {105}{}{Sim, eu estou querendo aprender.}
 {106}{}{Eu estou verdadeiramente pesarosa em ouvir isso. Os Seguidores acreditam
- na paz a todo custo. Por essa razao eu renunciei a violencia. Boa noite.}
+ na paz a todo custo. Por essa razão eu renunciei a violência. Boa noite.}
 {107}{}{Eu sou treinada em muitos dos idiomas e artes. Talvez você gostaria de
  aprender um desses?}
-{108}{}{Eu lamento, mas eu preciso de saber coisas as quais me ajudarao a sobreviver.}
-{109}{}{Eu não tenho tempo pra este tipo de coisa. Eu estou indo.}
-{110}{}{Talvez eu possa escutar uma cancao ou duas.}
+{108}{}{Eu lamento, mas eu preciso de saber coisas as quais me ajudarão a sobreviver.}
+{109}{}{Eu não tenho tempo pra este tipo de coisa. Eu estou me indo.}
+{110}{}{Talvez eu possa escutar uma canção ou duas.}
 {111}{}{Você pode me ensinar algo mais?}
-{112}{}{Ah, nos temos um estudante da vida. Em um caso como este, eu posso ensinar a
- você um pouco de herbalismo, mas o treinamento leva um tempo para pouco resultado.}
+{112}{}{Ah, nós temos um estudante da vida. Em um caso como este, eu posso ensinar a
+ você um pouco de herbalismo, mas o treinamento leva muito tempo para pouco resultado.}
 {113}{}{Certo, apenas me ensine.}
 {114}{}{Por favor, me ensine o que você puder.}
-{115}{}{Lamento, eu realmente não tenho tempo pra plantas. Adeus.}
+{115}{}{Lamento, eu realmente não tenho tempo pra plantas. Tchau.}
 {116}{}{Você não precisa ser rude. Se desculpe agora ou eu não ensinarei você.}
 {117}{}{Eu lamento. Você me ensinaria por favor?}
-{118}{}{Esqueca.}
-{119}{}{Agora assim esta melhor. Nos comecaremos seus estudos.}
-{120}{}{Você e um apto aprendiz. Possam seus caminhos serem leves. Va em paz.}
-{121}{}{Conforme você ver fit. Possa o futuro amolecer seu coracao e ampliar sua alma.}
+{118}{}{Esqueça.}
+{119}{}{Agora assim esta melhor. Nós começaremos seus estudos.}
+{120}{}{Você é um apto aprendiz. Possam seus caminhos serem leves. Vá em paz.}
+{121}{}{Conforme você ver fit. Possa o futuro amolecer seu coração e ampliar sua alma.}
 {122}{}{Muito bem, eu ensinarei a você os meios de sobreviver.}
-{123}{}{Você e um apto aprendiz. Possam seus caminhos serem leves. Va em paz.}
-{124}{}{Você não me convence. Eu acho que você procurar usar meus dons pro mal.
+{123}{}{Você é um apto aprendiz. Possam seus caminhos serem leves. Vá em paz.}
+{124}{}{Você não me convence. Eu acho que você procura usar meus dons para mal.
  Boa noite.}
-{125}{}{Ah, um estudante das artes e uma coisa rara neste mundo. Talvez ainda haja
- esperanca pra você. Cada cancao e de longa duracao. Você gostaria de ouvir?}
+{125}{}{Ah, um estudante das artes é uma coisa rara neste mundo. Talvez ainda haja
+ esperança pra você. Cada canção é de longa duração. Você gostaria de ouvir?}
 {126}{}{No Acordar da Sombra.}
 {127}{}{A Balada de Aires.}
-{128}{}{Em Memoria de Artemis.}
+{128}{}{Em Memória de Artemis.}
 {129}{}{O Levantar da Carruagem do Amanhecer.}
-{130}{}{Um pedaco impressionante de trabalho. Eu garantirei a você uma audiencia.}
+{130}{}{Um pedaço impressionante de trabalho. Eu garantirei a você uma audiencia.}
 {131}{}{Eu devo descansar. Este ensinamento exige muito de mim. Boa sorte pra você.}
-{132}{}{Um pedaco impressionante de trabalho. Eu garantirei a você uma audiencia.}
+{132}{}{Um pedaço impressionante de trabalho. Eu garantirei a você uma audiencia.}
 {133}{}{Eu devo descansar. Este ensinamento exige muito de mim. Boa sorte pra você.}
-{134}{}{Um pedaco impressionante de trabalho. Eu garantirei a você uma audiencia.}
+{134}{}{Um pedaço impressionante de trabalho. Eu garantirei a você uma audiencia.}
 {135}{}{Eu devo descansar. Este ensinamento exige muito de mim. Boa sorte pra você.}
-{136}{}{Um pedaco impressionante de trabalho. Eu garantirei a você uma audiencia.}
+{136}{}{Um pedaço impressionante de trabalho. Eu garantirei a você uma audiencia.}
 {137}{}{Eu devo descansar. Este ensinamento exige muito de mim. Boa sorte pra você.}
 {138}{}{Eu temo que eu desgastei a mim mesma demais. Eu lamento.}
-{139}{}{A Paz e a Beleza são tudo que eu posso ensinar. Eu lamento que esses
+{139}{}{A Paz é a Beleza são tudo que eu posso ensinar. Eu lamento que esses
  não são apelativos pra você. Bom dia.}
 {140}{}{Eu posso ensinar a você os caminhos dos velhos bardos e menestreis.}
-{141}{}{Eu ficaria honrado em ouvir uma cancao.}
+{141}{}{Eu ficaria honrado em ouvir uma canção.}
 {142}{}{Talvez outra hora. Obrigado.}
 {143}{}{Eu estava esperando aprender algo que pudesse me ajudar mais.}
 {144}{}{Você não tem necessidade dos meus talentos. Você ensinou a pessoas

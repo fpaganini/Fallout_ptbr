@@ -2,7 +2,7 @@
 {101}{Set00}{É melhor haver um motivo para ficar parado no meu
  sombra. O próximo item do menu toca uma campainha para você. . .
  normie.}
-{102} {} {Oh, assassino é, sem dúvida. Obviamente eu encontrei o
+{102} {} {Ah, assassino é, sem dúvida. Obviamente eu encontrei o
  cabeça, homem.}
 {103} {} {Uau, o que aconteceu com seu rosto?}
 {104} {} {Uau, você é muito esperto para um carniçal.}
@@ -37,7 +37,7 @@
  fora de você, os muties podem ouvir e saber. Então eu te digo,
  é hora do favor. Eu continuo calado. Consegui?}
 {125} {} {Entendido}.}
-{126} {} {E os ghouls?}
+{126} {} {É os ghouls?}
 {127} {} {Fantasmas, certo!}
 {128} {} {Huh?}
 {129} {Set07} {Evite meus ghouls, se você gosta da sua pele. Qualquer um que não possa
@@ -103,7 +103,7 @@
 {173} {Set20} {[Groan] Sim, sim. Siga Garret e mostre seus brancos também.
  E não se preocupe, eu mantenho uma palavra direta. O Mestre corre o risco.}
 {174} {} {O Mestre?}
-{175} {} {Ok, obrigado.}
+{175} {} {Certo, obrigado.}
 {176} {Set21} {Você não cuida das suas costas, você vai usar a faca dele, ele vai usar o seu
  pele. Seus mutantes sombream o deserto, especialmente o sul daqui.}
 {177} {} {Se o Mestre é tão forte, quem pode desafiá-lo?}
@@ -123,7 +123,7 @@
 {188} {Set25} {Nenhuma palavra corre para o meu ouvido sobre o galpão de água
  mutantes deixando de respirar. Major para meus planos. Contar
  me é um problema enterrado.}
-{189} {} {Oh, sim. Não é grande coisa, tudo foi cuidado.
+{189} {} {Ah, sim. Não é grande coisa, tudo foi cuidado.
  Confie em mim.}
 {190} {} {Não, ainda está trabalhando nisso}
 {191} {} {Nuh-uh.}
@@ -160,7 +160,7 @@
 {209} {Set34} {Riso vem difícil aqui. Você limpou o
  shed?}
 {210} {} {Esse é o fato.}
-{211} {} {Oh, não. Não fui eu.}
+{211} {} {Ah, não. Não fui eu.}
 {212} {Set35} {Meu errado, sua perda. O trabalho cresce, você deve andar
  agora.}
 {213} {Set36} {Ah, sim. Nenhuma trilha na areia. Boa. O preenchimento. Andar

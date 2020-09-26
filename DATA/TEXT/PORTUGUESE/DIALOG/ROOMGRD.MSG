@@ -1,11 +1,11 @@
-{100}{}{Você ve um Guarda da Irmandade.}
+{100}{}{Você vê um Guarda da Irmandade.}
 {101}{}{Você não deveria estar aqui Iniciado.}
 {102}{}{O que você esta fazendo aqui?}
-{103}{}{A sala dos guardas e para os guardas. Você não e um guarda. Você esta na
+{103}{}{A sala dos guardas e para os guardas. Você não é um guarda. Você esta na
  sala dos guardas. Portanto VOCE deve sair.}
 {104}{}{Por favor saia, você não deve estar aqui.}
 {105}{}{Ei, sem Iniciados.}
-{106}{}{Esta não e a biblioteca meu rapaz. Se você quer explorar va para a
+{106}{}{Esta não é a biblioteca meu rapaz. Se você quer explorar vá para a
  biblioteca.}
-{107}{}{Esta não e a biblioteca minha garota. Se você quer explorar va para a
+{107}{}{Esta não é a biblioteca minha garota. Se você quer explorar vá para a
  biblioteca.}

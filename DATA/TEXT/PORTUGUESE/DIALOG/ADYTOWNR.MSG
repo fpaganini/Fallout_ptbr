@@ -10,11 +10,11 @@
 {109}{}{Não posso falar agora.}
 {110}{}{Espero que a chuva não esteja brilhando como ontem.}
 {111}{}{Parece que nós vamos estar com pouca comida de novo.}
-{112}{}{Eu espero que as caravanas passem de novo em breve.}
+{112}{}{Eu espero que as caravanas passem novamente em breve.}
 {113}{}{Nós temos uma chance de conseguir agora.}
 {114}{}{Adytum será a cidade que nós queremos que ela seja.}
 {115}{}{Obrigado a você pela sua ajuda.}
 {116}{}{Obrigado a você por nos livrar dos Reguladores.}
 {117}{}{Obrigado a você pela nossa liberdade.}
 {118}{}{É bom que os Reguladores se foram.}
-{119}{}{Bem-vindo(a) a Nova Adytum.}
+{119}{}{Bem-vindo a Nova Adytum.}

@@ -1,8 +1,8 @@
-{100}{}{Você ve um guarda.}
+{100}{}{Você vê um guarda.}
 {101}{}{Eu trabalho para o Barterman.}
 {102}{}{Tem quaisquer rosquinhas?}
 {103}{}{Se você quebrar, você compra!}
 {104}{}{Ladroes serao mortos!}
 {105}{}{Você vai comprar algo? Talvez neste seculo?}
-{106}{}{Nao posso enfrentar radscorpions sem esta coisa.}
+{106}{}{Não posso enfrentar radscorpions sem esta coisa.}
 {107}{}{Eu trabalho para o Barterman.}

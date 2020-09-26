@@ -12,7 +12,7 @@
 {111}{}{Fico feliz que você possa voltar para uma visita.}
 {112}{}{A menos que você queira problemas, é melhor você guardar isso.}
 {113}{}{Queres festejar?}
-{114}{}{Oh, um duro, hein?}
+{114}{}{Ah, um duro, hein?}
 {115}{}{Garl Death-Hand ama seus guerreiros. Coloque essa coisa fora e vá falar com ele.}
 {116}{}{Então, você acha que é durão, hein? Mexa comigo e nós dois vamos descobrir.}
 {117}{}{Eu não gosto da sua aparência.}
@@ -21,12 +21,12 @@
 {120}{}{Estou à procura de uma mulher chamada Tandi. Visto ela?}
 {121}{}{Nada. Apenas olhando por aí.}
 {122}{}{Huh?}
-{123}{}{Oh. Você deve estar procurando um emprego. Vá e veja Garl na grande sala
+{123}{}{Ah. Você deve estar procurando um emprego. Vá e veja Garl na grande sala
  e nos deixe em paz.}
 {124}{}{Então faça isso em outro lugar.}
 {125}{}{Nah. Eu não a vi. Porque perguntas?}
 {126}{}{Nada. Apenas procurando por um amigo meu}
-{127}{}{Há uma recompensa por sua cabeça. Se eu puder matá-la, posso conseguir um bom dinheiro.}
+{127}{}{Há uma recompensa por sua cabeça. Se eu puder matá-lá, posso conseguir um bom dinheiro.}
 {128}{}{Você está mentindo. Onde ela está?}
 {129}{}{Ah, OK}
 {130}{}{Realmente? Como ela se parece?}

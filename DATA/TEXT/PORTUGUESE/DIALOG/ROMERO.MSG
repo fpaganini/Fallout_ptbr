@@ -1,6 +1,6 @@
-{100}{}{Você ve Romero.}
-{103}{}{Você ve um membro dos Blades.}
-{104}{}{Você ve um membro dos Blades.}
+{100}{}{Você vê Romero.}
+{103}{}{Você vê um membro dos Blades.}
+{104}{}{Você vê um membro dos Blades.}
 {105}{}{Você acha que poderiam ser Livros.}
 {106}{}{Você acha que poderiam ser Cicatrizes.}
 {107}{}{Você acha que poderia ser Gunner.}
@@ -17,14 +17,14 @@
 {118}{}{Eu estou aqui pra falar sobre a paz.}
 {119}{}{Eu quero acabar com a guerra de gangues!}
 {120}{}{Eu quero beber o sangue dos Blades!}
-{121}{}{Entao você esta procurando na area errada. Desapareca.}
+{121}{}{Então você esta procurando na area errada. Desapareca.}
 {122}{}{Você deve ser um daqueles pequenos mantos purpuras fracotes.
  Saia daqui antes que nos explodamos você.}
 {123}{}{Espere! Eu não sei do que você esta falando. Eu estou aqui
  por Adytum. Eles querem que eu faca todos deixarem eles em paz.}
 {124}{}{Paz com ISTO!}
 {125}{}{Lamento. Eu irei agora.}
-{126}{}{Hmm. Se você e realmente de Adytum, entao você ainda e um perdedor.
+{126}{}{Hmm. Se você e realmente de Adytum, então você ainda e um perdedor.
  Nunca podera haver paz enquanto aqueles Rippers ainda estiverem por ai.}
 {127}{}{O que você quer dizer?}
 {128}{}{Uh, com certeza.}
@@ -40,17 +40,17 @@
  Reguladores atirando em nos a vista, eu não consigo ficar perto dela.}
 {137}{}{Como eu posso ajudar?}
 {138}{}{Continue.}
-{139}{}{Entrada dificil.}
+{139}{}{Entrada difícil.}
 {140}{}{Se você levar este locket pra Julianna, eu ficaria em debito com você.}
 {141}{}{Coisa certa.}
-{142}{}{Ache outro alguem.}
-{143}{}{Com aliados como você, quem precisa de inimigos? Adeus!}
+{142}{}{Ache outro alguém.}
+{143}{}{Com aliados como você, quem precisa de inimigos? Tchau!}
 {144}{}{Eu acho que ela me ama tambem, mas eu não sei. Os Blades não
  arriscarao me deixando tentar entrar em Adytum.}
-{145}{}{Entrada dificil.}
+{145}{}{Entrada difícil.}
 {146}{}{Okay, eu ajudarei.}
-{147}{}{Obrigado! Ela me enviou uma nota. Nos vamos nos encontrar no lugar
- dos Seguidores e nos casar.}
+{147}{}{Obrigado! Ela me enviou uma nota. Nós vamos nos encontrar no lugar
+ dos Seguidores e nós casar.}
 {148}{}{Bem-vindo de volta.}
-{149}{}{Muito obrigado. Nos ficaremos aqui com os Seguidores agora, aonde
+{149}{}{Muito obrigado. Nós ficaremos aqui com os Seguidores agora, aonde
  nos podemos estar felizmente casados.}

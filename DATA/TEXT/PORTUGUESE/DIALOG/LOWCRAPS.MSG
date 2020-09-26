@@ -1,4 +1,4 @@
-{100}{}{Você ve diante de você a mesa low stakes Craps. Custa $20 pra jogar.}
+{100}{}{Você vê diante de você a mesa low stakes Craps. Custa $20 pra jogar.}
 {101}{}{Você fez um 7. Você vence!!}
 {102}{}{Você fez olhos de cobra. Você perde.}
 {103}{}{Você fez }

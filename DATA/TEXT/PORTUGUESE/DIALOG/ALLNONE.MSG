@@ -6,6 +6,6 @@
 {105}{}{Runk.}
 {106}{}{Ótimo. Aqui está o que eu tenho.}
 {107}{}{Ótimo, sempre procurando novas coisas.}
-{108}{}{Lamento, eu não consigo entender você. Volte quando você obtiver mais de um cérebro.}
-{109}{}{Obrigado. Volte de novo.}
+{108}{}{Lamento, eu não consigo entender você. Volte quando você obtiver cérebro novo.}
+{109}{}{Obrigado. Volte sempre.}
 {110}{}{Você vê Jake, o Negociante de Armas.}

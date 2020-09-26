@@ -1,5 +1,5 @@
-{100}{}{Você ve o: Andarilho da vault.}
-{101}{}{Você ve o: Andarilho da vault aborrecido.}
+{100}{}{Você vê o: Andarilho da vault.}
+{101}{}{Você vê o: Andarilho da vault aborrecido.}
 {102}{}{}
 {103}{}{}
 {104}{}{}
@@ -7,44 +7,44 @@
 {106}{}{Eu estava com um pouco de incerteza se você conseguiria
  faze-lo, mas eu confio em você agora.}
 {107}{}{Obrigado! Obrigado!}
-{108}{}{Você e um heroi. Meu pequeno Bobby quer ser como você
+{108}{}{Você é um heroi. Meu pequeno Bobby quer ser como você
  quando ele crescer. Eu não sei se eu gosto disso.}
-{109}{}{Você e um heroine. Meu pequeno Bobby quer ser como você
+{109}{}{Você é um heroine. Meu pequeno Bobby quer ser como você
  quando ele crescer. Eu não sei se eu gosto disso.}
-{110}{}{Você e um swell guy!}
-{111}{}{Você e um swell gal!}
+{110}{}{Você é um swell guy!}
+{111}{}{Você é um swell gal!}
 {112}{}{Você tem certeza que você precisa disso aqui?}
-{113}{}{Isso e uma arma!}
-{114}{}{Você realmente usou isso contra alguem?}
-{115}{}{Por que você acha que e necessario carregar uma arma
+{113}{}{Isso é uma arma!}
+{114}{}{Você realmente usou isso contra alguém?}
+{115}{}{Por que você acha que é necessario carregar uma arma
  aqui?}
 {116}{}{Ola! Como vai a busca?}
 {117}{}{Muito bem.}
-{118}{}{Nao tao boa.}
+{118}{}{Não tão boa.}
 {119}{}{Ugh.}
 {120}{}{Bem, isso e bom de ouvir. Mantenha o bom trabalho, eu acho.}
 {121}{}{Sem problema.}
-{122}{}{Nos sabiamos que não havia esperanca. Eu não acho que nos
+{122}{}{Nós sabiamos que não havia esperança. Eu não acho que nos
  conseguiremos um novo chip em tempo. Eu acho que alguns de nos
  deveriamos nos mudar pro lado de fora antes que seja tarde demais.}
 {123}{}{Eu não acho que essa seja uma boa ideia.}
 {124}{}{Hmm. Isso poderia ser o melhor.}
 {125}{}{Por favor se apresse.}
-{126}{}{Nao se preocupe, eu acharei o chip.}
+{126}{}{Não se preocupe, eu acharei o chip.}
 {127}{}{Talvez você devesse vir a uma de nossas reunioes. A Theresa tem
- algumas boas ideias. Nos nos encontramos na sala dela no segundo nível,
+ algumas boas ideias. Nós nos encontramos na sala dela no segundo nível,
  as cinco horas de cada noite.}
 {128}{}{Eu pensarei a respeito.}
-{129}{}{Nao obrigado. Eu tenho trabalho a fazer.}
-{130}{}{Isso e o que a Theresa acha. Ela tem tudo trabalhado. Nos estamos
+{129}{}{Não obrigado. Eu tenho trabalho a fazer.}
+{130}{}{Isso e o que a Theresa acha. Ela tem tudo trabalhado. Nós estamos
  pensando em deixar a vault em breve.}
 {131}{}{Boa sorte.}
 {132}{}{Eu acho que você ainda não deveria sair.}
-{133}{}{Por que o Supervisor escolheu você? E obvio que você não conseguiria
- achar os cardacos dos seus sapatos, muito menos um novo chip de agua.}
+{133}{}{Por que o Supervisor escolheu você? É obvio que você não conseguiria
+ achar os cardacos dos seus sapatos, muito menos um novo chip purificador de água.}
 {134}{}{Urgh.}
 {135}{}{Você não tem um trabalho a fazer? Se apresse e ache o chip!}
-{136}{}{Nao me diga o que fazer, garoto perdedor!}
+{136}{}{Não me diga o que fazer, garoto perdedor!}
 {137}{}{Esta certo! Algumas pessoas...}
 {138}{}{Gdorf!}
 {139}{}{Você selou o destino de todos nesta vault, traidor. Eu espero que você
@@ -54,11 +54,11 @@
 {1001}{}{Vault13}
 {1002}{}{Vault-13}
 {1003}{}{Vault}
-{1100}{}{O Supervisor apenas quer manter todos sob o controle dele aqui. Nos
+{1100}{}{O Supervisor apenas quer manter todos sob o controle dele aqui. Nós
  precisamos sair no mundo por nos mesmos.}
-{1101}{}{A vault foi nosso lar, mas simplesmente não durara mais. E hora
+{1101}{}{A vault foi nosso lar, mas simplesmente não durara mais. É hora
  de fazer um novo lar.}
-{1102}{}{A vault foi nosso lar, mas simplesmente não durara mais. E hora
+{1102}{}{A vault foi nosso lar, mas simplesmente não durara mais. É hora
  de fazer um novo lar.}
-{1103}{}{A vault foi nosso lar, mas simplesmente não durara mais. E hora
+{1103}{}{A vault foi nosso lar, mas simplesmente não durara mais. É hora
  de fazer um novo lar.}

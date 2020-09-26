@@ -1,33 +1,33 @@
-{100}{}{Você ve o Richie.}
+{100}{}{Você vê o Richie.}
 {101}{}{Você não deveria fazer isso. Eu vou ter que parar você!}
 {102}{}{Você não deveria estar aqui. Você percebe que eu devo matar você?}
 {103}{}{Seu turno acabou. Eu sou seu substituto.}
-{104}{}{Inspetor da vault do hub. Eu estou aqui pra inspecionar a vault. Va pro lado.}
-{105}{}{Garoto, lute. Encerre o ciclo de violencia agora!}
+{104}{}{Inspetor da vault do hub. Eu estou aqui pra inspecionar a vault. Vá pro lado.}
+{105}{}{Garoto, lute. Encerre o ciclo de violência agora!}
 {106}{}{Quem disse isso pra você? Senhor, se você me atacar, será o maior erro da sua vida!}
 {107}{}{Oi garoto! O que esta na vault de aco?}
 {108}{}{Tarde demais vagabundo. Você esta morto.}
 {109}{}{Uh… sim… runk…}
 {110}{}{Eu não deveria estar falando com você! Desapareca!}
-{111}{}{Ja estava na hora! E quente aqui! Entediante tambem! Se eu não precisasse deste trabalho pra
+{111}{}{Ja estava na hora! É quente aqui! Entediante tambem! Se eu não precisasse deste trabalho pra
  alimentar minha familia, eu diria a Lorenzo pra enfia-lo. Vejo você amanha.}
 {112}{}{Eu não deveria sair deste lugar e você não deveria estar aqui. Saia!}
-{113}{}{Voces oficiais do Hub me deixam doente! Inspecionando a vault dos meus chefes! Qual e a proxima? Taxas
- mais altas? Um homem não pode mais ganhar uma vida honesta sem voces burocratas tentando controlar tudo? Um
- destes dias nos vamos tomar uma posição. Sim, um destes dias o homem comum vai dar a voces gatos gordos uma
- joelhada nas bolas como voces merecem. Um destes dias nos pegaremos voces de jeito… Eu mal posso esperar... A
- proposito. Eu sei que você esta fazendo seu trabalho. Eu sairei da frente enquanto você faz sua inspecao. Tchau.}
-{114}{}{Nao fale bosta pra mim! Saia daqui ou eu terei que atirar em você!}
-{115}{}{Oh sim. Bem, ninguem pushes around Richie Glowsteader e se livra disso!}
-{116}{}{Oh, apenas dez mil pratas do Hub. Espero que você não esteja pensando em roubar. Eu teria que matar
- você. Eu quase matei alguem uma vez, entao não queira mexer comigo!}
-{117}{}{Cara, você e estupido. Oh, lamento, eu não quis ofender você. Agora vamos tentar isto de novo. "Sim"
- significa que eu explodo sua cabeca. "Nao" significa que você tira sua bunda daqui. Qual que vai ser?}
+{113}{}{Vocês oficiais do Hub me deixam doente! Inspecionando a vault dos meus chefes! Qual é a proxima? Taxas
+ mais altas? Um homem não pode mais ganhar uma vida honesta sem vocês burocratas tentando controlar tudo? Um
+ destes dias nos vamos tomar uma posição. Sim, um destes dias o homem comum vai dar a vocês gatos gordos uma
+ joelhada nas bolas como vocês merecem. Um destes dias nos pegaremos vocês de jeito… Eu mal posso esperar... A
+ propósito. Eu sei que você esta fazendo seu trabalho. Eu sairei da frente enquanto você faz sua inspecao. Tchau.}
+{114}{}{Não fale bosta pra mim! Saia daqui ou eu terei que atirar em você!}
+{115}{}{Ah sim. Bem, ninguém pushes around Richie Glowsteader e se livra disso!}
+{116}{}{Ah, apenas dez mil pratas do Hub. Espero que você não esteja pensando em roubar. Eu teria que matar
+ você. Eu quase matei alguém uma vez, então não queira mexer comigo!}
+{117}{}{Cara, você e estúpido. Ah, lamento, eu não quis ofender você. Agora vamos tentar isto de novo. "Sim"
+ significa que eu explodo sua cabeca. "Não" significa que você tira sua bunda daqui. Qual que vai ser?}
 {118}{}{Ah . . . sim . . .}
 {119}{}{Uh… não…}
 {120}{}{Runk! Runk!}
 {121}{}{Cara, eu não consigo faze-lo! Seria como atirar num animal burro. Apenas saia daqui, okay?}
-{122}{}{Isso e bom. Agora va andando. Eu tenho certeza que você conseguiria achar alguem pra alimentar você…}
+{122}{}{Isso e bom. Agora vá andando. Eu tenho certeza que você conseguiria achar alguém pra alimentar você…}
 {123}{}{Talvez um runk signifique "sim" e dois runks signifiquem "não". Okay, "runk" significa eu mato você.
  "Runk, runk" significa que você sai. Okay?}
 {124}{}{Runk}

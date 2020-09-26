@@ -10,17 +10,17 @@
 {109}{}{Procurando por um pouco de diversão.}
 {110}{}{Me dê tudo o que você tem!}
 {111}{}{Podes ajudar-me a adquirir equipamento?}
-{112}{}{Nada. Obrigado. Adeus.}
+{112}{}{Nada. Obrigado. Tchau.}
 {113}{}{Há muitas coisas para fazer aqui. Vamos ver. Você pode praticar seu objetivo nas vacas,
  ou você pode simplesmente passear por Junktown e ver as vistas, contanto que você não comece nenhum problema.}
 {114}{}{Existe mais alguma coisa por aqui?}
 {115}{}{Ótimo! Me dê tudo que você tem!}
-{116}{}{Obrigado. Adeus.}
+{116}{}{Obrigado. Tchau.}
 {117}{}{Bem, supostamente um dos antigos moradores tinha uma arma desagradável escondida em sua
  casa, no lado noroeste. Mas ninguém encontrou tudo.}
-{118}{}{Ok. Obrigado pelo seu tempo.}
+{118}{}{Certo. Obrigado pelo seu tempo.}
 {119}{}{Existe mais alguma coisa?}
-{120}{}{Ok, ok, ok. Por favor, não me machuque.
+{120}{}{Certo, ok, ok. Por favor, não me machuque.
 {121}{}{Não é uma chance! Die scum !!}
 {122}{}{Bem, supostamente o sujeito que morava no prédio a noroeste tinha uma linda
  arma desagradável. Talvez você possa encontrá-lo.}

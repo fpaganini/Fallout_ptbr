@@ -1,128 +1,128 @@
-{100}{}{Voce ve a Theresa.}
+{100}{}{Você vê a Theresa.}
 {101}{}{Ola, }
 {102}{}{. Como fares sua jornada?}
 {103}{}{Esta indo muito bem, obrigado.}
-{104}{}{Nao muito bem.}
+{104}{}{Não muito bem.}
 {105}{}{Hoogh!}
-{106}{}{E bom ouvir isso. Eu sabia que o mundo no lado de fora nao poderia ser
- tao ruim como todos dizem. Eu quero dizer, nossos ancestrais viviam no lado
- de fora, certo? Mas aquele Supervisor paranoico nao nos deixara sair.}
-{107}{}{O Supervisor provavelmente tem as razoes dele.}
-{108}{}{Na verdade, e muito ruim la fora.}
-{109}{}{Voce esta certa; o mundo no lado de fora nao e tao ruim assim.}
+{106}{}{É bom ouvir isso. Eu sabia que o mundo lá fora não poderia ser
+ tão ruim como todos dizem. Eu quero dizer, nossos ancestrais viviam no lado
+ de fora, certo? Mas aquele Supervisor paranoico não nos deixara sair.}
+{107}{}{O Supervisor provavelmente tem as razões dele.}
+{108}{}{Na verdade, e muito ruim lá fora.}
+{109}{}{Você esta certa; o mundo lá fora não é tão ruim assim.}
 {110}{}{O Supervisor esta simplesmente tentando nos proteger. O mundo no lado
- de fora e perigoso para os nao preparados.}
-{111}{}{Oh, eu lamento em ouvir isso. Eu espero que voce seja capaz de achar
+ de fora e perigoso para os não preparados.}
+{111}{}{Ah, eu lamento em ouvir isso. Eu espero que você seja capaz de achar
  o chip em breve.}
-{112}{}{Nao deve ser um problema.}
+{112}{}{Não deve ser um problema.}
 {113}{}{Com todos os perigoso que eu tenho encontrado pode levar
  algum tempo.}
-{114}{}{Hmm. Eu suponho que era esperar demais que o mundo no lado de fora
- ensinasse voce a se comunicar.}
-{115}{}{E eu suponho que ele escolheu voce pra ir pro lado de fora porque
- ele sabia que voce estava sob o dominio dele! Ele realmente nao quer
+{114}{}{Hmm. Eu suponho que era esperar demais que o mundo lá fora
+ ensinasse você a se comunicar.}
+{115}{}{É eu suponho que ele escolheu você pra ir pro lado de fora porque
+ ele sabia que você estava sob o dominio dele! Ele realmente não quer
  desistir do controle dele sobre nos.}
 {116}{}{Eu me resinto com essa declaraçao!}
-{117}{}{Na verdade, eu acho que ele acredita que nao ha razao pra se arriscar
- com a sobrevivencia no lado de fora enquanto ainda e seguro aqui.}
-{118}{}{Hmm. Do que eu li, o lado de fora nao e realmente
- perigoso assim. Mas eu suponho que voce saberia melhor
- do que eu, nao sabe?}
-{119}{}{Eu sabia que o lado de fora nao poderia ser muito ruim. E por isso que
+{117}{}{Na verdade, eu acho que ele acredita que não há razão pra se arriscar
+ com a sobrevivencia lá fora enquanto ainda e seguro aqui.}
+{118}{}{Hmm. Do que eu li, o lado de fora não é realmente
+ perigoso assim. Mas eu suponho que você saberia melhor
+ do que eu, não sabe?}
+{119}{}{Eu sabia que o lado de fora não poderia ser muito ruim. É por isso que
  eu estive tentando convencer algumas pessoas pra vir pro lado de fora comigo.
- Eu acho que nos temos uma melhor chance de sobrevivencia la fora.}
-{120}{}{O que voce esta fumando!?}
+ Eu acho que nos temos uma melhor chance de sobrevivencia lá fora.}
+{120}{}{O que você esta fumando!?}
 {121}{}{Essa e provavelmente uma boa ideia.}
 {122}{}{Eu suponho. Eu sempre imaginei que ele apenas teve algum tipo de viagem
- de poder. Mas eu acho que ele nao seria o Supervisor se ele nao estivesse
+ de poder. Mas eu acho que ele não seria o Supervisor se ele não estivesse
  realmente preocupado sobre nosso welfare, seria? Eu creio que nos devemos
- apenas esperar e ver se voce consegue achar o chip.}
-{123}{}{Nao se preocupe, eu tomarei conta disso.}
-{124}{}{Oh, vamos la! Acorda! Se ele acha que o lado de fora e tao perigoso entao
- como e possivel que ele enviou voce la pra fora? O homem apenas tem um complexo
- de controle. Voce e uma ferramenta estupida e voce nem ao menos sabe!}
+ apenas esperar e ver se você consegue achar o chip.}
+{123}{}{Não se preocupe, eu tomarei conta disso.}
+{124}{}{Ah, vamos lá! Acorda! Se ele acha que o lado de fora e tão perigoso então
+ como e possível que ele enviou você lá pra fora? O homem apenas tem um complexo
+ de controle. Você é uma ferramenta estupida e você nem ao menos sabe!}
 {125}{}{Honestamente, se ele pensasse que o lado de fora fosse perigoso assim,
- ele teria enviado um time inteiro com armas e equipamento, nao apenas voce.
- Mas voce e o peao dele, ja que ele nao quer que ningem perceba o que eles
- estao perdendo.}
-{126}{}{Oh, get real! Voce realmente acha que nos podemos viver nesta Vault
- geraçao apos geraçao? Talvez voce consiga achar um novo chip, mas o que
- acontece quando a proxima coisa quebrar? E a proxima?}
-{127}{}{Huh. Eu acho que voce esta certo.}
-{128}{}{Talvez nos nao possamos ficar aqui pra sempre. Mas correr
- pro mundo sem preparo e sem o consentimento do grupo nao e
+ ele teria enviado um time inteiro com armas e equipamento, não apenas você.
+ Mas você e o peao dele, ja que ele não quer que ningem perceba o que eles
+ estão perdendo.}
+{126}{}{Ah, get real! Você realmente acha que nos podemos viver nesta Vault
+ geraçao apos geraçao? Talvez você consiga achar um novo chip, mas o que
+ acontece quando a proxima coisa quebrar? É a proxima?}
+{127}{}{Huh. Eu acho que você esta certo.}
+{128}{}{Talvez nós não possamos ficar aqui pra sempre. Mas correr
+ pro mundo sem preparo e sem o consentimento do grupo não e
  a resposta.}
-{129}{}{Muitos de nos pensam assim. E por isso que nos estamos planejando
- levar alguns suprimentos e sair em alguns dia. Diga, voce tem qualquer
+{129}{}{Muitos de nos pensam assim. É por isso que nos estamos planejando
+ levar alguns suprimentos e sair em alguns dia. Diga, você tem qualquer
  conselho pra nos?}
-{130}{}{Lamento, realmente eu nao achei muito la fora.}
-{131}{}{Voce poderiam ir pra esta pequena vila chamada Shady Sands,
+{130}{}{Lamento, realmente eu não achei muito lá fora.}
+{131}{}{Você poderiam ir pra esta pequena vila chamada Shady Sands,
  alguns dias a leste. Eles poderiam ajudar.}
-{132}{}{Ok. Bem, obrigado.}
-{133}{}{Oh, simplesmente vai embora! Nos nao precisamos da ajuda de um dos
+{132}{}{Certo. Bem, obrigado.}
+{133}{}{Ah, simplesmente vai embora! Nós não precisamos da ajuda de um dos
  peos do Supervisor!}
-{134}{}{Bem-vindo ao nosso encontro! Como voce foi escolhido pelo Supervisor
- pra ir pro lado de fora, talvez voce possa nos dar algum conselho antes da
+{134}{}{Bem-vindo ao nosso encontro! Como você foi escolhido pelo Supervisor
+ pra ir pro lado de fora, talvez você possa nos dar algum conselho antes da
  nossa mudança pro lado de fora tambem.}
-{135}{}{Nao beba agua que brilha.}
-{136}{}{Sim . . . nao va.}
-{137}{}{Eu acho que seus planos pra sair sao ill-advised.}
+{135}{}{Não beba água que brilha.}
+{136}{}{Sim . . . não vá.}
+{137}{}{Eu acho que seus planos pra sair são ill-advised.}
 {138}{}{Hoooot!}
-{139}{}{Muito obrigado. Eu posso ver que voce vai ser de grande ajuda.
- Por que voce simplesmente nao sai?}
+{139}{}{Muito obrigado. Eu posso ver que você vai ser de grande ajuda.
+ Por que você simplesmente não sai?}
 {140}{}{Lamento, eu estou aqui pra ouvir tudo isto.}
-{141}{}{Certo entao.}
-{142}{}{Mesmo? Considerando nossa posiçao, nossa falta de agua e o proposito
- original desta Vault, por que voce acha que nos deveriamos ficar?}
-{143}{}{E apenas uma ideia ruim, e tudo.}
-{144}{}{O mundo no lado de fora e muito perigoso pros nao preparados. E
+{141}{}{Certo então.}
+{142}{}{Mesmo? Considerando nossa posiçao, nossa falta de água e o propósito
+ original desta Vault, por que você acha que nos deveriamos ficar?}
+{143}{}{É apenas uma ideia ruim, e tudo.}
+{144}{}{O mundo lá fora e muito perigoso pros não preparados. É
  melhor ter tempo pra fazer preparaçoes apropriadas antes de ir. O
  Supervisor esta tentando dar a Vault esse tempo necessario.}
-{145}{}{Bem, considerando que voce tem alguma experiencia com o lado
- de fora, talvez voce tenha alguma consideraçoes valiosas pra fazer.}
-{146}{}{O lado de fora e muito perigoso e hostil. Voces nao durariam muito.}
-{147}{}{Eu apenas preciso de um pouco mais de tempo pra achar o chip de agua.}
-{148}{}{Se voce nao vai nos dar boas razoes sobre por que nos nao
- deveriamos sair, entao nos nao vamos esperar aqui e morrer de
- envenenamento por agua. Por favor nao fique no nosso caminho.}
-{149}{}{Lamento pessoal, eu nao posso deixar voces fazerem isto.}
-{150}{}{Muito bem. E sua escolha.}
-{151}{}{E so uma questao de tempo antes que nos fiquemos sem agua aqui.
- Mas a Vault nunca teve o proposito de manter pessoas dentro dela pra
- sempre! Nos temos as pessoas e os suprimentos pra mudar pro lado de
- fora agora. Nos temos uma chance melhor.}
+{145}{}{Bem, considerando que você tem alguma experiencia com o lado
+ de fora, talvez você tenha alguma consideraçoes valiosas pra fazer.}
+{146}{}{O lado de fora e muito perigoso e hostil. Vocês não durariam muito.}
+{147}{}{Eu apenas preciso de um pouco mais de tempo pra achar o chip purificador de água.}
+{148}{}{Se você não vai nos dar boas razões sobre por que nós não
+ deveriamos sair, então nós não vamos esperar aqui e morrer de
+ envenenamento por água. Por favor não fique no nosso caminho.}
+{149}{}{Lamento pessoal, eu não posso deixar vocês fazerem isto.}
+{150}{}{Muito bem. É sua escolha.}
+{151}{}{É só uma questão de tempo antes que nos fiquemos sem água aqui.
+ Mas a Vault nunca teve o propósito de manter pessoas dentro dela pra
+ sempre! Nós temos as pessoas e os suprimentos pra mudar pro lado de
+ fora agora. Nós temos uma chance melhor.}
 {152}{}{O lado de fora e muito perigoso.}
 {153}{}{A Vault foi feita pra libertar seus habitantes juntos como um
- grupo, nao como um pequeno bando que sera rapidamente sobrepujado.}
-{154}{}{Hmm. Talvez voce esteja certo. Ha provavelmente outros sobreviventes
- la fora e eles tambem poderiam ser hostis. Eu creio que nos precisaremos
- esperar ate que todos os outros estejam prontos.}
-{155}{}{Nos estamos bem preparados agora. Nos temos equipamento e o treinamento do simulador.
- Alguns perigos do lado de fora sao melhores do que morrer lentamente de sede!}
-{156}{}{Lamento, eu nao posso deixar voce sair agora.}
-{157}{}{Bem, boa sorte entao.}
-{158}{}{Eu nao gosto, mas eu suponho que nos esperaremos ate que todos
+ grupo, não como um pequeno bando que sera rapidamente sobrepujado.}
+{154}{}{Hmm. Talvez você esteja certo. Há provavelmente outros sobreviventes
+ lá fora e eles tambem poderiam ser hostis. Eu creio que nos precisaremos
+ esperar até que todos os outros estejam prontos.}
+{155}{}{Nós estamos bem preparados agora. Nós temos equipamento e o treinamento do simulador.
+ Alguns perigos do lado de fora são melhores do que morrer lentamente de sede!}
+{156}{}{Lamento, eu não posso deixar você sair agora.}
+{157}{}{Bem, boa sorte então.}
+{158}{}{Eu não gosto, mas eu suponho que nos esperaremos até que todos
  estejam prontos pra sairem juntos.}
-{159}{}{E para o melhor. Confiem em mim,
+{159}{}{É para o melhor. Confiem em mim,
  eu sei do que eu estou falando.}
-{160}{}{Obrigado a voces todos por virem de novo.}
-{161}{}{Nossos planos ainda assim estao se movendo adiante.}
-{162}{}{Nos estamos unindo mais convertidos a cada semana.}
+{160}{}{Obrigado a vocês todos por virem de novo.}
+{161}{}{Nossos planos ainda assim estão se movendo adiante.}
+{162}{}{Nós estamos unindo mais convertidos a cada semana.}
 {163}{}{Em breve, nos teremos acesso ao equipamento que nos precisamos.}
-{164}{}{O chip de agua ainda nao foi achado. Nos devemos nos mover em breve.}
-{165}{}{O Supervisor nao pode se opor a um grupo tao grande.}
-{166}{}{Seja paciente. Nos so precisamos esperar mais algumas semanas.}
-{167}{}{Entao, nos estaremos finalmente livres da Vault e do Supervisor.}
+{164}{}{O chip purificador de água ainda não foi achado. Nós devemos nos mover em breve.}
+{165}{}{O Supervisor não pode se opor a um grupo tão grande.}
+{166}{}{Seja paciente. Nós só precisamos esperar mais algumas semanas.}
+{167}{}{Então, nos estaremos finalmente livres da Vault e do Supervisor.}
 {168}{}{Lembrem-se de praticar suas tecnicas ao ar livre nos simuladores!}
 {169}{}{Estejam bem, todos.}
-{170}{}{Por favor se apresse e ache o chip de agua. Nos nao podemos esperar muito mais.}
-{171}{}{Nao se preocupe, eu o acharei.}
-{172}{}{Eu nao achava que voce seria bem sucedido, mas voce fez um bom trabalho.
+{170}{}{Por favor se apresse e ache o chip purificador de água. Nós não podemos esperar muito mais.}
+{171}{}{Não se preocupe, eu o acharei.}
+{172}{}{Eu não achava que você seria bem sucedido, mas você fez um bom trabalho.
  Obrigado por salvar a nos todos.}
-{173}{}{Voce ganha 750 pontos de experiencia por acalmar pacificamente a facçao
+{173}{}{Você ganha 750 pontos de experiencia por acalmar pacificamente a facçao
  revolucionaria da Vault.}
-{174}{}{Traidor! Por que voce voltou aqui? Agora todos morrerao!}
-{175}{}{Nos ja passamos por isto antes. Deixe-nos em paz.}
+{174}{}{Traidor! Por que você voltou aqui? Agora todos morrerao!}
+{175}{}{Nós ja passamos por isto antes. Deixe-nos em paz.}
 
 # Theresa's tell-me-abouts
 {1000}{}{Chip}
@@ -131,19 +131,19 @@
 {1003}{}{Lado de fora}
 {1004}{}{Supervisor}
 {1005}{}{Agua}
-{1006}{}{Chip de agua}
+{1006}{}{Chip de água}
 
-{1100}{}{Sem ele, nos nao teremos agua pra beber. Ao inves disso nos precisamos acabar
- com nossa dependencia de tal equipamento e nos tornamos alto-suficientes.}
-{1101}{}{A Vault tem sido lar por um longo tempo, mas e hora de nos fazermos
+{1100}{}{Sem ele, nós não teremos água pra beber. Ao inves disso nos precisamos acabar
+ com nossa dependencia de tal equipamento e nós tornamos alto-suficientes.}
+{1101}{}{A Vault tem sido lar por um longo tempo, mas é hora de nos fazermos
  nosso caminho pro lado de fora agora.}
-{1102}{}{Eu acho que nos aprendemos nossa liçao. E hora de construir um novo mundo,
- nao de se preocupar com o antigo.}
-{1103}{}{O lado de fora e aonde nos deveriamos estar! E a grande aventura,
+{1102}{}{Eu acho que nos aprendemos nossa liçao. É hora de construir um novo mundo,
+ não de se preocupar com o antigo.}
+{1103}{}{O lado de fora e aonde nos deveriamos estar! É a grande aventura,
  começar de novo e viver pelas nossas proprias tecnicas e wits!}
-{1104}{}{Ele esta perdido no passado. Ele nao aceitara que e hora para nos
+{1104}{}{Ele esta perdido no passado. Ele não aceitara que é hora para nos
  fazermos nosso proprio futuro.}
-{1105}{}{Sem ele, nos nao teremos agua pra beber. Ao inves disso nos precisamos acabar
-  com nossa dependencia de tal equipamento e nos tornamos alto-suficientes.}
-{1106}{}{Sem ele, nos nao teremos agua pra beber. Ao inves disso nos precisamos acabar
- com nossa dependencia de tal equipamento e nos tornamos alto-suficientes.}
+{1105}{}{Sem ele, nós não teremos água pra beber. Ao inves disso nos precisamos acabar
+  com nossa dependencia de tal equipamento e nós tornamos alto-suficientes.}
+{1106}{}{Sem ele, nós não teremos água pra beber. Ao inves disso nos precisamos acabar
+ com nossa dependencia de tal equipamento e nós tornamos alto-suficientes.}

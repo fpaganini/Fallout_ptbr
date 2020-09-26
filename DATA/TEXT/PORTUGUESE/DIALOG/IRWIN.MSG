@@ -1,19 +1,19 @@
-{100}{}{Você ve o Irwin.}
-{101}{}{Oh rapaz, você não consegue me deixar em paz? Eu já tenho problemas o bastante na minha mao.}
+{100}{}{Você vê o Irwin.}
+{101}{}{Ah rapaz, você não consegue me deixar em paz? Eu já tenho problemas o bastante na minha mao.}
 {102}{}{Problemas? Talvez eu possa ajudar você.}
 {103}{}{Como se você fosse o único com problemas.}
-{104}{}{Okay, okay. Nenhuma razao pra gritar comigo.}
+{104}{}{Okay, okay. Nenhuma razão pra gritar comigo.}
 {105}{}{Hmm... Eu não sei. Exige um calibre diferente de heroi do que você. Escuta, por que você não volta quando você tiver um pouco mais de experiência?}
-{106}{}{Isto e uma tragedia, acredite em mim. Nada e do modo como costumava ser. Eu tenho uma pequena fazenda fora da cidade e alguns dias atras um bando de saqueadores apareceu do nada e agora usam minha casa como acampamento deles. Eles mataram o Pugsley, meu burro e eles ameacaram me matar se eu ousasse voltar.}
+{106}{}{Isto é uma tragedia, acredite em mim. Nada e do modo como costumava ser. Eu tenho uma pequena fazenda fora da cidade e alguns dias atras um bando de saqueadores apareceu do nada e agora usam minha casa como acampamento deles. Eles mataram o Pugsley, meu burro e eles ameacaram me matar se eu ousasse voltar.}
 {107}{}{Apenas me diga aonde e eu tomarei conta do resto.}
 {108}{}{Lamento Irwin, mas eu tenho coisas mais importantes pra fazer.}
-{109}{}{Realmente, você faria isso? Você sabe, eu não ouso ir la mais. Por que você não volta e me deixa saber quando e seguro voltar pra casa de novo?}
+{109}{}{Realmente, você faria isso? Você sabe, eu não ouso ir lá mais. Por que você não volta e me deixa saber quando e seguro voltar pra casa de novo?}
 {110}{}{Escute aberracao, eu disse a você pra me deixar em paz em primeiro lugar. Agora desapareca!}
 {111}{}{Eu sabia que você ficaria com medo. Todos ficam quando esta relacionado aos saqueadores.}
-{112}{}{Entao, você foi capaz de ensinar a aqueles saqueadores uma licao? Meu lar esta seguro de novo?}
+{112}{}{Então, você foi capaz de ensinar a aqueles saqueadores uma licao? Meu lar esta seguro de novo?}
 {113}{}{Com certeza esta, camarada.}
 {114}{}{Eu não tive o tempo ainda de tomar conta disso.}
-{115}{}{Oh, muito obrigado. Eu lamento que eu não tenho quaisquer riquezas para dar a você, mas aqui, leve este rifle por salvar minha casa.}
+{115}{}{Ah, muito obrigado. Eu lamento que eu não tenho quaisquer riquezas para dar a você, mas aqui, leve este rifle por salvar minha casa.}
 {116}{}{Você esta tentando me enganar, certo? Por favor não brinque comigo. Volte e me deixe saber quando estiver realmente seguro pra voltar pra minha casa, você entendeu?}
 {117}{}{Muito obrigado por me ajudar.}
 {118}{}{Grunk?}

@@ -1,4 +1,4 @@
-{100}{}{Você ve um campones de Junktown.}
+{100}{}{Você vê um campones de Junktown.}
 {101}{}{Saia daqui!}
 {102}{}{Eu ouvi coisas ruins sobre você. Elas são verdadeiras?}
 {103}{}{Oi.}

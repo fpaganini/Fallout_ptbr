@@ -1,5 +1,5 @@
 {500}{}{Apos destruir o Mestre e seu laboratorio no qual ele estava criando seu exercito de Super Mutantes, você
- retorna para o lar, so para descobrir que você e lancado fora da sua vault por ser muito destrutivo. Obrigado a você
+ retorna para o lar, só para descobrir que você e lancado fora da sua vault por ser muito destrutivo. Obrigado a você
  por jogar Fallout. }
 
 #                      #
@@ -38,14 +38,14 @@
 {2803}{}{Set}
 {2804}{}{Bacia Hidrografica}
 {2805}{}{Hall}
-{2900}{}{Ele não e algum cara grande importante?}
+{2900}{}{Ele não é algum cara grande importante?}
 {2901}{}{Eu não sei, mas a bacia hidrografica poderia ter um.}
 {2902}{}{Você de pe nela. Tudo que restou dela, pelo menos. Este
  lugar esta morrendo, lentamente mas certamente.}
-{2903}{}{Oh, eu gosto dele, eu gosto.  Você pode acha-lo no Hall.}
-{2904}{}{E para o norte. Cuidado com os guardas.  Eles levam o trabalho
+{2903}{}{Ah, eu gosto dele, eu gosto.  Você pode acha-lo no Hall.}
+{2904}{}{É para o norte. Cuidado com os guardas.  Eles levam o trabalho
  deles bem a serio.}
-{2905}{}{O Hall dos Mortos.  Onde Set faz seus negocios.  E smack
+{2905}{}{O Hall dos Mortos.  Onde Set faz seus negócios.  É smack
  right no centro de Necropolis.}
 
 
@@ -59,14 +59,14 @@
 {3403}{}{Set}
 {3404}{}{Bacia Hidrografica}
 {3405}{}{Hall}
-{3500}{}{Ele não e algum cara grande importante?}
+{3500}{}{Ele não é algum cara grande importante?}
 {3501}{}{Eu não sei, mas a bacia hidrografica poderia ter um.}
 {3502}{}{Você de pe nela. Tudo que restou dela, pelo menos. Este
  lugar esta morrendo, lentamente mas certamente.}
-{3503}{}{Oh, eu gosto dele, eu gosto.  Você pode acha-lo no Hall.}
-{3504}{}{E para o norte. Cuidado com os guardas.  Eles levam o trabalho
+{3503}{}{Ah, eu gosto dele, eu gosto.  Você pode acha-lo no Hall.}
+{3504}{}{É para o norte. Cuidado com os guardas.  Eles levam o trabalho
  deles bem a serio.}
-{3505}{}{O Hall dos Mortos.  Onde Set faz seus negocios.  E smack
+{3505}{}{O Hall dos Mortos.  Onde Set faz seus negócios.  É smack
  right no centro de Necropolis.}
 
 
@@ -80,14 +80,14 @@
 {4003}{}{Set}
 {4004}{}{Bacia Hidrografica}
 {4005}{}{Hall}
-{4100}{}{Ele não e algum cara grande importante?}
+{4100}{}{Ele não é algum cara grande importante?}
 {4101}{}{Eu não sei, mas a bacia hidrografica poderia ter um.}
 {4102}{}{Você de pe nela. Tudo que restou dela, pelo menos. Este
  lugar esta morrendo, lentamente mas certamente.}
-{4103}{}{Oh, eu gosto dele, eu gosto.  Você pode acha-lo no Hall.}
+{4103}{}{Ah, eu gosto dele, eu gosto.  Você pode acha-lo no Hall.}
 {4104}{}{Cuidado com os guardas.  Eles levam o trabalho deles
  bem a serio.}
-{4105}{}{O Hall dos Mortos.  Onde Set faz seus negocios.  E smack
+{4105}{}{O Hall dos Mortos.  Onde Set faz seus negócios.  É smack
  right no centro de Necropolis.}
 
 
@@ -106,21 +106,21 @@
 {4608}{}{Cura}
 {4609}{}{Biblioteca}
 {4700}{}{Isto e onde nos vivemos. Você deveria entender isso.}
-{4701}{}{O chip controla o nível de pureza no suprimento de agua do
- subsolo. E um pedaco de equipamento critico que não pode ser reparado.}
-{4702}{}{Um bom homem fazendo um trabalho dificil.}
-{4703}{}{O chip controla o nível de pureza no suprimento de agua do
- subsolo.  E um pedaco de equipamento critico que não pode ser reparado.}
-{4704}{}{O chip controla o nível de pureza no suprimento de agua do
- subsolo.  E um pedaco de equipamento critico que não pode ser reparado.}
+{4701}{}{O chip controla o nível de pureza no suprimento de água do
+ subsolo. É um pedaço de equipamento critico que não pode ser reparado.}
+{4702}{}{Um bom homem fazendo um trabalho difícil.}
+{4703}{}{O chip controla o nível de pureza no suprimento de água do
+ subsolo.  É um pedaço de equipamento critico que não pode ser reparado.}
+{4704}{}{O chip controla o nível de pureza no suprimento de água do
+ subsolo.  É um pedaço de equipamento critico que não pode ser reparado.}
 {4705}{}{Isto e onde nos vivemos. Você deveria entender isso.}
 {4706}{}{Isto e onde nos vivemos. Você deveria entender isso.}
-{4707}{}{O medico esta no primeiro andar, no medlab. Va la se você esta
- machucado(a).}
-{4708}{}{O medico esta no primeiro andar, no medlab. Va la se você esta
- machucado(a).}
+{4707}{}{O medico esta no primeiro andar, no medlab. Vá lá se você esta
+ machucado.}
+{4708}{}{O medico esta no primeiro andar, no medlab. Vá lá se você esta
+ machucado.}
 {4709}{}{A biblioteca esta na ala oeste do terceiro andar. Isso e aonde os
- computadores de pesquisa estao localizados.}
+ computadores de pesquisa estão localizados.}
 
 # VAULTENT.MAP (5200)
 # VAULTBUR.MAP (5800)
@@ -142,11 +142,11 @@
 {7100}{}{Killian e o prefeito. Ele dirige um loja.}
 {7101}{}{Gizmo dirige um cassino. Ele parece ok.}
 {7102}{}{Esta e Junktown.}
-{7103}{}{Umm, Eu acho que e um lugar bem pequeno. Eu nunca estive la.}
-{7104}{}{E uma cidade maior em algum lugar ao sul.}
+{7103}{}{Umm, Eu acho que é um lugar bem pequeno. Eu nunca estive lá.}
+{7104}{}{É uma cidade maior em algum lugar ao sul.}
 {7105}{}{O que? Eu lamento.}
-{7106}{}{E um grande predio na parte noroeste da cidade.}
-{7107}{}{Loja do Killian? E no centro da cidade..}
+{7106}{}{É um grande predio na parte noroeste da cidade.}
+{7107}{}{Loja do Killian? É no centro da cidade..}
 {7108}{}{Eu não sei, mas o nome me assusta.}
 
 
@@ -168,11 +168,11 @@
  ring de boxe.  Ele faz muito dinheiro e compra muitas coisas do
  Hub.}
 {7702}{}{Esta e Junktown.}
-{7703}{}{Bem, e uma comunidade realmente pequena ao norte. As pessoas que
- vivem la são pela maior parte, fazendeiros.  Nos ocasionalmente negociamos
+{7703}{}{Bem, é uma comunidade realmente pequena ao norte. As pessoas que
+ vivem lá são pela maior parte, fazendeiros.  Nós ocasionalmente negociamos
  com eles, mas ele na maioria das vezes querem ser deixados em paz.}
 {7704}{}{O Hub e o centro do comercio por aqui.  Quase todos os
- comerciantes vem do Hub.  Eles tem algumas companhias la que ainda
+ comerciantes vem do Hub.  Eles tem algumas companhias lá que ainda
  fazem coisas.  Se você quiser, você pode ir com dos grupos de comercio deles
  de volta para o Hub.}
 {7705}{}{Eu não sei nada sobre isso.}
@@ -202,11 +202,11 @@
 ring de boxe.  Ele faz muito dinheiro e compra muitas coisas do
  Hub.}
 {8302}{}{Esta e Junktown.}
-{8303}{}{Bem, e uma comunidade realmente pequena ao norte. As pessoas que
- vivem la são pela maior parte, fazendeiros.  Nos ocasionalmente negociamos
+{8303}{}{Bem, é uma comunidade realmente pequena ao norte. As pessoas que
+ vivem lá são pela maior parte, fazendeiros.  Nós ocasionalmente negociamos
  com eles, mas ele na maioria das vezes querem ser deixados em paz.}
 {8304}{}{O Hub e o centro do comercio por aqui.  Quase todos os
- comerciantes vem do Hub.  Eles tem algumas companhias la que ainda
+ comerciantes vem do Hub.  Eles tem algumas companhias lá que ainda
  fazem coisas.  Se você quiser, você pode ir com dos grupos de comercio deles
  de volta para o Hub.}
 {8305}{}{Eu não sei nada sobre isso.}
@@ -234,11 +234,11 @@ ring de boxe.  Ele faz muito dinheiro e compra muitas coisas do
 {8812}{}{Paladinos}
 {8813}{}{Chip da Agua}
 {8900}{}{Eu não tenho ideia do que você esta falando.}
-{8901}{}{Um ponto terrivelmente baixo na historia humana a qual formou nosso mundo presente. Nos preservamos
+{8901}{}{Um ponto terrivelmente baixo na historia humana a qual formou nosso mundo presente. Nós preservamos
  o conhecimento da Guerra para impedir outro holocausto.}
-{8902}{}{Uma decisao dificil e pesarosa. Nos perdemos muitas pessoas que escolheram ir embora por sua conta
- propria em vez de viajar com a forca principal procurando por um abrigo seguro para viver.}
-{8903}{}{Eu não sei muito sobre isso. Os relatorios que eu ouvi e que eles estao se juntando em algum lugar ao norte de nos.}
+{8902}{}{Uma decisao difícil e pesarosa. Nós perdemos muitas pessoas que escolheram ir embora por sua conta
+ propria em vez de viajar com a força principal procurando por um abrigo seguro para viver.}
+{8903}{}{Eu não sei muito sobre isso. Os relatorios que eu ouvi e que eles estão se juntando em algum lugar ao norte de nos.}
 {8904}{}{Essa e aonde nos estamos.}
 {8905}{}{Esses Mercadores das Aguas são bastardos roubadores, mas dos outros grupos, eu não tenho opiniao.}
 {8906}{}{Eu não sei nada sobre isso.}
@@ -268,11 +268,11 @@ ring de boxe.  Ele faz muito dinheiro e compra muitas coisas do
 {9412}{}{Paladinos}
 {9413}{}{Chip da Agua}
 {9500}{}{Eu não tenho ideia do que você esta falando.}
-{9501}{}{Um ponto terrivelmente baixo na historia humana a qual formou nosso mundo presente. Nos preservamos o
+{9501}{}{Um ponto terrivelmente baixo na historia humana a qual formou nosso mundo presente. Nós preservamos o
  conhecimento da Guerra para impedir outro holocausto.}
-{9502}{}{Uma decisao dificil e pesarosa. Nos perdemos muitas pessoas que escolheram ir embora por sua conta
- propria em vez de viajar com a forca principal procurando por um abrigo seguro para viver.}
-{9503}{}{Eu não sei muito sobre isso. Os relatorios que eu ouvi e que eles estao se juntando em algum lugar ao norte de nos.}
+{9502}{}{Uma decisao difícil e pesarosa. Nós perdemos muitas pessoas que escolheram ir embora por sua conta
+ propria em vez de viajar com a força principal procurando por um abrigo seguro para viver.}
+{9503}{}{Eu não sei muito sobre isso. Os relatorios que eu ouvi e que eles estão se juntando em algum lugar ao norte de nos.}
 {9504}{}{Essa e aonde nos estamos.}
 {9505}{}{Esses Mercadores das Aguas são bastardos roubadores, mas dos outros grupos, eu não tenho opiniao.}
 {9506}{}{Eu não sei nada sobre isso.}
@@ -302,11 +302,11 @@ ring de boxe.  Ele faz muito dinheiro e compra muitas coisas do
 {10012}{}{Paladinos}
 {10013}{}{Chip da Agua}
 {10100}{}{Eu não tenho ideia do que você esta falando.}
-{10101}{}{Um ponto terrivelmente baixo na historia humana a qual formou nosso mundo presente. Nos preservamos o
+{10101}{}{Um ponto terrivelmente baixo na historia humana a qual formou nosso mundo presente. Nós preservamos o
  conhecimento da Guerra para impedir outro holocausto.}
-{10102}{}{Uma decisao dificil e pesarosa. Nos perdemos muitas pessoas que escolheram ir embora por sua conta
- propria em vez de viajar com a forca principal procurando por um abrigo seguro para viver.}
-{10103}{}{Eu não sei muito sobre isso. Os relatorios que eu ouvi e que eles estao se juntando em algum lugar ao norte de nos.}
+{10102}{}{Uma decisao difícil e pesarosa. Nós perdemos muitas pessoas que escolheram ir embora por sua conta
+ propria em vez de viajar com a força principal procurando por um abrigo seguro para viver.}
+{10103}{}{Eu não sei muito sobre isso. Os relatorios que eu ouvi e que eles estão se juntando em algum lugar ao norte de nos.}
 {10104}{}{Essa e aonde nos estamos.}
 {10105}{}{Esses Mercadores das Aguas são bastardos roubadores, mas dos outros grupos, eu não tenho opiniao.}
 {10106}{}{Eu não sei nada sobre isso.}
@@ -336,14 +336,14 @@ ring de boxe.  Ele faz muito dinheiro e compra muitas coisas do
 
 {11300}{}{A Chama Sagrada e aquela que nos levera para um bravo novo mundo
  o qual não tem odio ou guerra.}
-{11301}{}{Nos somos todos parte da Unidade. E o amor e paz que nos passamos
+{11301}{}{Nós somos todos parte da Unidade. É o amor e paz que nos passamos
  para o nosso povo camarada - humano e mutante.}
 {11302}{}{Isso somos nos.}
 {11303}{}{Morpheus e o Sumo Sacerdote das Crianças. Tipicamente, ele esta nas
  suas salas quando ele não esta pregando para nos.}
 {11304}{}{Eles são pessoas que foram transformadas pela poeira radioativa.
  Mas eles ainda são boas pessoas.}
-{11305}{}{Nos todos temos mestres, não temos?}
+{11305}{}{Nós todos temos mestres, não temos?}
 {11306}{}{Eles são pessoas que procuram destruir a paz a qual o Mestre esta
  tentando por adiante.}
 {11307}{}{Lamento, nunca ouvi sobre isso.}
@@ -365,14 +365,14 @@ ring de boxe.  Ele faz muito dinheiro e compra muitas coisas do
 
 {11900}{}{A Chama Sagrada e aquela que nos levera para um bravo novo mundo
  o qual não tem odio ou guerra.}
-{11901}{}{Nos somos todos parte da Unidade. E o amor e paz que nos passamos
+{11901}{}{Nós somos todos parte da Unidade. É o amor e paz que nos passamos
  para o nosso povo camarada - humano e mutante.}
 {11902}{}{Isso somos nos.}
 {11903}{}{Morpheus e o Sumo Sacerdote das Crianças.
  Tipicamente, ele esta nas suas salas quando ele não esta pregando para nos.}
 {11904}{}{Eles são pessoas que foram transformadas pela poeira radioativa.
  Mas eles ainda são boas pessoas.}
-{11905}{}{Nos todos temos mestres, não temos?}
+{11905}{}{Nós todos temos mestres, não temos?}
 {11906}{}{Eles são pessoas que procuram destruir a paz a qual o Mestre esta
  tentando por adiante.}
 {11907}{}{Lamento, nunca ouvi sobre isso.}
@@ -406,16 +406,16 @@ ring de boxe.  Ele faz muito dinheiro e compra muitas coisas do
 {15500}{}{Isso somos nos, seu lacaio.}
 {15501}{}{Ele e o lider dos Khans.  Ele e o homem mais temido na
  terra despovoada.}
-{15502}{}{Eles estao para o sudoeste.  Nos as vezes vamos la para relaxar
+{15502}{}{Eles estão para o sudoeste.  Nós as vezes vamos lá para relaxar
  apos um dia duro saqueando.}
-{15503}{}{Por que nos não esmagamos eles completamente esta alem de mim.}
-{15504}{}{Eles estao ao sul.  Nos negociamos com eles.  Na maior parte por
- agua e munição, mas as vezes eles tambem obtem armas melhores.}
+{15503}{}{Por que nós não esmagamos eles completamente esta alem de mim.}
+{15504}{}{Eles estão ao sul.  Nós negociamos com eles.  Na maior parte por
+ água e munição, mas as vezes eles tambem obtem armas melhores.}
 {15505}{}{Por que eu deveria me importar?}
-{15506}{}{Eu não conheco ninguem por esse nome.}
-{15507}{}{Ela e uma conselheira. Ela planeja os ataques surpresa.}
+{15506}{}{Eu não conheco ninguém por esse nome.}
+{15507}{}{Ela é uma conselheira. Ela planeja os ataques surpresa.}
 {15508}{}{She is the armorer. Ela repara nosso equipamento.}
-{15509}{}{Ela e a segunda em comando.}
+{15509}{}{Ela é a segunda em comando.}
 {15510}{}{Ele coleta nossos suprimentos.}
 {15511}{}{Ele e o cozinheiro.}
 {15512}{}{Você tem algum?}
@@ -444,15 +444,15 @@ ring de boxe.  Ele faz muito dinheiro e compra muitas coisas do
 {16102}{}{Sao 4-6 dias para o sudoeste.  Bom comercio ocasionalmente, mas
  mais frequente do que não, eles tentam to stiff us.}
 {16103}{}{Você esta pisando nele.}
-{16104}{}{Muito mais longe para o sul do que Junktown.  O Hub e a maior
- cidade que eu ouvi a respeito.  Deve ter mil pessoas la, no minimo.}
+{16104}{}{Muito mais longe para o sul do que Junktown.  O Hub é a maior
+ cidade que eu ouvi a respeito.  Deve ter mil pessoas lá, no minimo.}
 {16105}{}{Lamento, eu não posso ajudar você.}
-{16106}{}{Ela e a filha de Aradesh.  Algum dia ela poderia nos liderar, mas
+{16106}{}{Ela é a filha de Aradesh.  Algum dia ela poderia nos liderar, mas
  ela deve aprender a moderar os seus modos.}
 {16107}{}{Ele e o lider da nossa comunidade e um verdadeiro heroi.  Você pode
  sempre achar ele no trabalho no salao publico.}
 {16108}{}{Ele trabalha com o Aradesh para ter certeza de que nos estamos seguros.}
-{16109}{}{Nosso Doutor.  Veja ele se você esta ferido(a).}
+{16109}{}{Nosso Doutor.  Veja ele se você esta ferido.}
 
 #
 # SHADYW.MAP
@@ -476,15 +476,15 @@ ring de boxe.  Ele faz muito dinheiro e compra muitas coisas do
 {16702}{}{Sao 4-6 dias para o sudoeste.  Bom comercio ocasionalmente, mas
  mais frequente do que não, eles tentam to stiff us.}
 {16703}{}{Você esta pisando nele.}
-{16704}{}{Muito mais longe para o sul do que Junktown.  O Hub e a maior
- cidade que eu ouvi a respeito.  Deve ter mil pessoas la, no minimo.}
+{16704}{}{Muito mais longe para o sul do que Junktown.  O Hub é a maior
+ cidade que eu ouvi a respeito.  Deve ter mil pessoas lá, no minimo.}
 {16705}{}{Lamento, eu não posso ajudar você.}
-{16706}{}{Ela e a filha de Aradesh.  Algum dia ela poderia nos liderar, mas
+{16706}{}{Ela é a filha de Aradesh.  Algum dia ela poderia nos liderar, mas
  ela deve aprender a moderar os seus modos.}
 {16707}{}{Ele e o lider da nossa comunidade e um verdadeiro heroi.  Você pode
  sempre achar ele no trabalho no salao publico.}
 {16708}{}{Ele trabalha com o Aradesh para ter certeza de que nos estamos seguros.}
-{16709}{}{Nosso Doutor.  Veja ele se você esta ferido(a).}
+{16709}{}{Nosso Doutor.  Veja ele se você esta ferido.}
 
 # GLOWENT.MAP  (17200)
 
@@ -516,19 +516,19 @@ ring de boxe.  Ele faz muito dinheiro e compra muitas coisas do
 {17900}{}{Isso e aqui.}
 {17901}{}{Eles vivem ao norte daqui.}
 {17902}{}{It's a ways south of us.}
-{17903}{}{Eles estao no lado oeste.}
-{17904}{}{Eles estao no lado leste.}
-{17905}{}{Eles estao alem dos Seguidores ao norte.}
-{17906}{}{Nos negociamos com eles.}
-{17907}{}{Essa não e uma cidade ao norte daqui?}
+{17903}{}{Eles estão no lado oeste.}
+{17904}{}{Eles estão no lado leste.}
+{17905}{}{Eles estão alem dos Seguidores ao norte.}
+{17906}{}{Nós negociamos com eles.}
+{17907}{}{Essa não é uma cidade ao norte daqui?}
 {17908}{}{A o que?}
 {17909}{}{A loja da Tine e no subsolo perto do portao.}
 {17910}{}{Ele e o prefeito.}
-{17911}{}{Eu ouco que e fora ao leste.}
+{17911}{}{Eu ouco que é fora ao leste.}
 {17912}{}{Isso e um mito.}
 {17913}{}{Eles nos protegem.}
 {17914}{}{Eles vao pro lado de fora para pegar coisas.}
-{17915}{}{Esta e a Boneyard.}
+{17915}{}{Esta é a Boneyard.}
 
 
 # Info level 2 [People who know something]
@@ -548,24 +548,24 @@ ring de boxe.  Ele faz muito dinheiro e compra muitas coisas do
 {18013}{}{Os Reguladores}
 {18014}{}{Os Scavs}
 {18015}{}{A Boneyard}
-{18100}{}{Você esta em Adytum, forasteiro(a).}
+{18100}{}{Você esta em Adytum, forasteiro.}
 {18101}{}{Os Seguidores vivem em uma velha biblioteca ao norte. Eles pregam
  tolerancia e paz.}
-{18102}{}{A Catedral e a ways para o sul, pela baia. As Crianças são uma
+{18102}{}{A Catedral é a ways para o sul, pela baia. As Crianças são uma
  religiao pacifica.}
-{18103}{}{Eles estao no lado oeste. They are very vicious and have lots of traps.}
-{18104}{}{Eles estao no lado leste. Eles usam algum tipo de facas high-tech.}
-{18105}{}{Eles estao alem dos Seguidores ao norte. Eles vendem armas para as gangues.}
-{18106}{}{Nos negociamos com eles. Eles são a maior cidade que eu conheco.}
+{18103}{}{Eles estão no lado oeste. They are very vicious and have lots of traps.}
+{18104}{}{Eles estão no lado leste. Eles usam algum tipo de facas high-tech.}
+{18105}{}{Eles estão alem dos Seguidores ao norte. Eles vendem armas para as gangues.}
+{18106}{}{Nós negociamos com eles. Eles são a maior cidade que eu conheco.}
 {18107}{}{Eles são uma pequena cidade a nordeste de nos.}
 {18108}{}{Nunca ouvi sobre isso.}
 {18109}{}{A loja da Tine e no subsolo perto do portao. Ele pode vender a você muitos suprimentos.}
 {18110}{}{Ele e o prefeito. Ele faz um bom trabalho.}
-{18111}{}{E uma cidade dos mortos, varios dias ao leste.}
-{18112}{}{Eu ouvi que e bem, bem para o sul.}
+{18111}{}{É uma cidade dos mortos, varios dias ao leste.}
+{18112}{}{Eu ouvi que é bem, bem para o sul.}
 {18113}{}{Eles nos protegem das gangues e mantem a paz.}
-{18114}{}{Eles vao no lado de fora para procurar por coisas.}
-{18115}{}{Nos estamos na Boneyard.}
+{18114}{}{Eles vao lá fora para procurar por coisas.}
+{18115}{}{Nós estamos na Boneyard.}
 
 
 # Info level 3 [People who know more than something but less than everything]
@@ -585,38 +585,38 @@ ring de boxe.  Ele faz muito dinheiro e compra muitas coisas do
 {18213}{}{Os Reguladores}
 {18214}{}{Os Scavs}
 {18215}{}{A Boneyard}
-{18300}{}{Nos somos os descendentes de uma velha Vault que costumava estar sob
+{18300}{}{Nós somos os descendentes de uma velha Vault que costumava estar sob
  o lado sul desta cidade.}
 {18301}{}{Os Seguidores são um povo culto e pacifico. Eles vivem em uma velha
  biblioteca ao norte daqui.}
 {18302}{}{As Crianças adoram um misterioso Deus Sombrio. Eles parecem inofensivos,
- mas ha algo estranho sobre a religiao deles. A Catedral esta
+ mas há algo estranho sobre a religiao deles. A Catedral esta
  ao sul daqui.}
 {18303}{}{Os Rippers são todaos inbred. Eles tem um predio fortificado com armadilhas
  ao redor dele onde eles levam prisoneiros para serem torturados e mortos.}
 {18304}{}{Os Blades são notorios por suas vibro-facas. Eles são os
- arqui-inimigos dos Rippers. O lider deles e uma mulher chamada Razor.}
+ arqui-inimigos dos Rippers. O lider deles é uma mulher chamada Razor.}
 {18305}{}{Eles costumavam ser uma gangue, mas eles se estabeleceram em um deposito no lado
  norte e comecaram a negociar armas brancas e do outro tipo para as pessoas.}
 {18306}{}{O Hub e um centro de negocio e comercio. Eles tem companhias que
- realmente produzem coisas. Eles estao a leste de nos.}
-#{18306 alternate If hydroponic farms aren't fixed:}{Nos vendemos balas para o Hub.}
-{18307}{}{Junktown e uma cidade de tamanho moderado ao leste daqui e ao norte do
+ realmente produzem coisas. Eles estão a leste de nos.}
+#{18306 alternate If hydroponic farms aren't fixed:}{Nós vendemos balas para o Hub.}
+{18307}{}{Junktown é uma cidade de tamanho moderado ao leste daqui e ao norte do
  Hub.}
 {18308}{}{Lamento, não posso ajudar você com isso.}
 {18309}{}{Tine dirige o armazem perto do portao da frente. Ele pode vender pra você
  armas e suprimentos de viagem.}
-{18310}{}{Jon e nosso prefeito. Ele faz acordos de negocios, dita as normas e
+{18310}{}{Jon e nosso prefeito. Ele faz acordos de negócios, dita as normas e
  delega responsibilidades aos Reguladores e aos Scavs.}
 {18311}{}{A cidade dos mortos? Esta supostamente em um lugar habitado por estranhos
- canibais longe para o leste. Eu não visitaria la se eu fosse você.}
-{18312}{}{E um grande lugar radioativo longe, longe para o sul, ou assim me foi dito.}
-{18313}{}{Eles são a forca policial de Adytum. Eles nos protegem das gangues.
+ canibais longe para o leste. Eu não visitaria lá se eu fosse você.}
+{18312}{}{É um grande lugar radioativo longe, longe para o sul, ou assim me foi dito.}
+{18313}{}{Eles são a força policial de Adytum. Eles nos protegem das gangues.
   Caleb e o lider.}
 {18314}{}{Os Scavs tem o trabalho de procurar a Boneyard por equipamento
  valioso. Eles são liderados por Sammael.}
 {18315}{}{A Boneyard dos Anjos e os restos da antiga cidade de Los Angeles.
-  Nos estamos no meio da Boneyard.}
+  Nós estamos no meio da Boneyard.}
 #  ======================================================================
 
 
@@ -639,17 +639,17 @@ ring de boxe.  Ele faz muito dinheiro e compra muitas coisas do
 {18408}{}{Chip da Agua}
 {18409}{}{Nicole}
 {18410}{}{A Boneyard}
-{18500}{}{E uma vila ao sul daqui.}
-{18501}{}{Nos somos os Seguidores do Apocalipse.}
+{18500}{}{É uma vila ao sul daqui.}
+{18501}{}{Nós somos os Seguidores do Apocalipse.}
 {18502}{}{Um culto para o sul, alem de Adytum.}
 {18503}{}{Uma gangue a oeste.}
 {18504}{}{Uma gangue a leste.}
 {18505}{}{Uma gangue ao norte.}
 {18506}{}{Uma grande cidade comercial para o nordeste.}
 {18507}{}{Uma cidade de tamanho medio ao norte do Hub.}
-{18508}{}{Nao posso ajudar você, lamento.}
+{18508}{}{Não posso ajudar você, lamento.}
 {18509}{}{Ela e nossa lider.}
-{18510}{}{Esta e a Boneyard.}
+{18510}{}{Esta é a Boneyard.}
 
 # Info level 2 [People who know something]
 {18600}{}{Adytum}
@@ -664,18 +664,18 @@ ring de boxe.  Ele faz muito dinheiro e compra muitas coisas do
 {18609}{}{Nicole}
 {18610}{}{A Boneyard}
 {18700}{}{Uma pequena cidade ao sul. Ocasionalmente alguns deles visitam.}
-{18701}{}{Nos somos os Seguidores do Apocalipse. Nos tomamos este nome porque nos
+{18701}{}{Nós somos os Seguidores do Apocalipse. Nós tomamos este nome porque nos
  viemos apos a tempestade da guerra, para trazer o balsamo da paz.}
 {18702}{}{Um estranho culto ao sul de Adytum e do resto da Boneyard. Nicole
- diz que eles estao pra fazer alguma coisa.}
+ diz que eles estão pra fazer alguma coisa.}
 {18703}{}{Uma gangue ultra-violenta ao nosso oeste.}
 {18704}{}{Uma gangue a leste. Eles usam vibro-facas.}
-{18705}{}{Uma gangue que veio do Hub e vende armas. Eles estao ao norte daqui.}
-{18706}{}{O Hub e uma grande cidade de comerciantes e negocios a leste.}
-{18707}{}{Junktown e uma pequena cidade ao norte do Hub.}
+{18705}{}{Uma gangue que veio do Hub e vende armas. Eles estão ao norte daqui.}
+{18706}{}{O Hub é uma grande cidade de comerciantes e negócios a leste.}
+{18707}{}{Junktown é uma pequena cidade ao norte do Hub.}
 {18708}{}{Eu não posso ajudar você com isso.}
 {18709}{}{Ela e nossa lider. Ela tem uma visao de restaurar a paz a um mund faccionalizado.}
-{18710}{}{Este lugar e a Boneyard dos Anjos, os restos da antiga cidade de
+{18710}{}{Este lugar é a Boneyard dos Anjos, os restos da antiga cidade de
  Los Angeles.}
 
 # Info level 3 [People who know more than something but less than everything]
@@ -692,12 +692,12 @@ ring de boxe.  Ele faz muito dinheiro e compra muitas coisas do
 {18810}{}{A Boneyard}
 {18900}{}{Uma pequena cidade ao sul. Eles são boas pessoas, ainda que um pouco
  paranoicas. Alguns deles trabalham pra nos de tempos em tempos.}
-{18901}{}{Nos somos os Seguidores do Apocalipse. E nosso dever trazer paz
+{18901}{}{Nós somos os Seguidores do Apocalipse. É nosso dever trazer paz
  e aprendizado mais uma vez para o mundo, e para ter certeza que as
  armas da guerra nunca cicatrizem de novo a terra.}
 {18902}{}{A Catedral e um grande predio ao sul da Boneyard. As Crianças
  são um culto adorando um deus sombrio e maligno. Elas devem ser paradas
- antes que eles espalhem a religiao dels atraves da violencia.}
+ antes que eles espalhem a religiao dels atraves da violência.}
 {18903}{}{Inbreds e chacais. Eles atacam qualquer coisa a vista que não esta
  relaciona a eles. Eles vivem a oeste daqui em uma fortaleza rodeada de armadilhas.}
 {18904}{}{Um grupo singularmente perigoso vivendo ao leste, que luta com
@@ -705,14 +705,14 @@ ring de boxe.  Ele faz muito dinheiro e compra muitas coisas do
  em uma familia feroz.}
 {18905}{}{Eles são uma gangue vivendo em um deposito ao norte, dentro de um fosso de
  lama radioativa. Eles vendem armas para as outras gangues.}
-{18906}{}{O Hub e uma vasta cidade mercantil ao leste de nos. Eles enviam
+{18906}{}{O Hub é uma vasta cidade mercantil ao leste de nos. Eles enviam
  caravanas para muitos lugares, incluindo Adytum.}
-{18907}{}{E uma pequena cidade ao norte do Hub. Me foi dito que e um bom lugar para
+{18907}{}{É uma pequena cidade ao norte do Hub. Me foi dito que é um bom lugar para
  parar para o viajante cansado.}
 {18908}{}{Embora eu já li sobre a tecnologia das Vaults, esta um pouco alem de mim.}
 {18909}{}{Nicole e nossa lider. Ela e compelida pelo insight e espiritualidade para
  trazer paz para um mundo quebrado pela guerra.}
-{18910}{}{Este e o coracao da Boneyard dos Anjos, nomeada pela velha cidade de
+{18910}{}{Este e o coração da Boneyard dos Anjos, nomeada pela velha cidade de
  Los Angeles e pelos esqueletos dos mortos que littered o lugar
  apos a Bomba.}
 ======================================================================
@@ -734,11 +734,11 @@ ring de boxe.  Ele faz muito dinheiro e compra muitas coisas do
 {19101}{}{Tal conhecimento não pertence a seres inferiores.}
 {19102}{}{Você não precisa se preocupar com eles.}
 {19103}{}{Você e muito inferior para me questionar.}
-{19104}{}{Nao e da sua conta.}
+{19104}{}{Não e da sua conta.}
 {19105}{}{Isto não te diz respeito.}
-{19106}{}{Você e muito tolo(a) para saber deles.}
-{19107}{}{Você não esta autorizado(a) a saber deles.}
-{19108}{}{Nao me aborreca a respeito de brinquedos.}
+{19106}{}{Você e muito tolo para saber deles.}
+{19107}{}{Você não esta autorizado a saber deles.}
+{19108}{}{Não me aborreca a respeito de brinquedos.}
 
 # MBSTRG12.MAP  (19600)
 
@@ -755,11 +755,11 @@ ring de boxe.  Ele faz muito dinheiro e compra muitas coisas do
 {19701}{}{Tal conhecimento não pertence a seres inferiores.}
 {19702}{}{Você não precisa se preocupar com eles.}
 {19703}{}{Você e muito inferior para me questionar.}
-{19704}{}{Nao e da sua conta.}
+{19704}{}{Não e da sua conta.}
 {19705}{}{Isto não te diz respeito.}
-{19706}{}{Você e muito tolo(a) para saber deles.}
-{19707}{}{Você não esta autorizado(a) a saber deles.}
-{19708}{}{Nao me aborreca a respeito de brinquedos.}
+{19706}{}{Você e muito tolo para saber deles.}
+{19707}{}{Você não esta autorizado a saber deles.}
+{19708}{}{Não me aborreca a respeito de brinquedos.}
 
 # MBVATS12.MAP  (20200)
 
@@ -776,11 +776,11 @@ ring de boxe.  Ele faz muito dinheiro e compra muitas coisas do
 {20301}{}{Tal conhecimento não pertence a seres inferiores.}
 {20302}{}{Você não precisa se preocupar com eles.}
 {20303}{}{Você e muito inferior para me questionar.}
-{20304}{}{Nao e da sua conta.}
+{20304}{}{Não e da sua conta.}
 {20305}{}{Isto não te diz respeito.}
-{20306}{}{Você e muito tolo(a) para saber deles.}
-{20307}{}{Você não esta autorizado(a) a saber deles.}
-{20308}{}{Nao me aborreca a respeito de brinquedos.}
+{20306}{}{Você e muito tolo para saber deles.}
+{20307}{}{Você não esta autorizado a saber deles.}
+{20308}{}{Não me aborreca a respeito de brinquedos.}
 
 
 # MSTRLR12.MAP  (20800)
@@ -798,11 +798,11 @@ ring de boxe.  Ele faz muito dinheiro e compra muitas coisas do
 {20901}{}{Tal conhecimento não pertence a seres inferiores.}
 {20902}{}{Você não precisa se preocupar com eles.}
 {20903}{}{Você e muito inferior para me questionar.}
-{20904}{}{Nao e da sua conta.}
+{20904}{}{Não e da sua conta.}
 {20905}{}{Isto não te diz respeito.}
-{20906}{}{Você e muito tolo(a) para saber deles.}
-{20907}{}{Você não esta autorizado(a) a saber deles.}
-{20908}{}{Nao me aborreca a respeito de brinquedos.}
+{20906}{}{Você e muito tolo para saber deles.}
+{20907}{}{Você não esta autorizado a saber deles.}
+{20908}{}{Não me aborreca a respeito de brinquedos.}
 
 # MSTRLR34.MAP  (21400)
 
@@ -819,11 +819,11 @@ ring de boxe.  Ele faz muito dinheiro e compra muitas coisas do
 {21501}{}{Tal conhecimento não pertence a seres inferiores.}
 {21502}{}{Você não precisa se preocupar com eles.}
 {21503}{}{Você e muito inferior para me questionar.}
-{21504}{}{Nao e da sua conta.}
+{21504}{}{Não e da sua conta.}
 {21505}{}{Isto não te diz respeito.}
-{21506}{}{Você e muito tolo(a) para saber deles.}
-{21507}{}{Você não esta autorizado(a) a saber deles.}
-{21508}{}{Nao me aborreca a respeito de brinquedos.}
+{21506}{}{Você e muito tolo para saber deles.}
+{21507}{}{Você não esta autorizado a saber deles.}
+{21508}{}{Não me aborreca a respeito de brinquedos.}
 
 
 # V13ENT.MAP    (22000)
@@ -844,33 +844,33 @@ ring de boxe.  Ele faz muito dinheiro e compra muitas coisas do
 {22611}{}{Torres de Agua}
 {22612}{}{Cidade Velha}
 {22613}{}{Centro da Cidade}
-{22614}{}{As Elevacoes}
+{22614}{}{As Elevações}
 {22615}{}{Deathclaw}
 {22616}{}{Chip da Agua}
-{22700}{}{A policia e dirigida pelo Xerife Greene para manter a lei e a ordem no Hub. Ha
+{22700}{}{A policia e dirigida pelo Xerife Greene para manter a lei é a ordem no Hub. Há
  alguns que acreditam que eles são mais um estorvo do que ajuda.}
-{22701}{}{Eles controlam toda a agua no Hub. Eles tomaram o controle das torres de agua e agora
- as pessoas tem que pagar a eles para obter agua.}
+{22701}{}{Eles controlam toda a água no Hub. Eles tomaram o controle das torres de água e agora
+ as pessoas tem que pagar a eles para obter água.}
 {22702}{}{Um grupo louco de comerciantes que tomam grandes riscos de modo a chegar ao topo.}
 {22703}{}{Um grupo medio moderado de comerciantes que oferecem preços justos sem tem quer procurar perigo para si mesmos.}
 {22704}{}{Um culto religioso que adora algo chamad o Mestre. Eles dirigem um hospital no lado sudeste da cidade
  ao lado dos Mercadores das Aguas.}
-{22705}{}{Lugar arrepiante. Alguns dizem que e assombrado por humanos transformados que comem os cerebros das pessoas normais por comida. Esta
+{22705}{}{Lugar arrepiante. Alguns dizem que é assombrado por humanos transformados que comem os cerebros das pessoas normais por comida. Esta
  em algum lugar ao leste do Hub.}
-{22706}{}{Ha algumas estorias que dizem que ha um lugar a sudeste daqui o qual foi atingido por uma ogiva nuclear.}
-{22707}{}{Isso esta ao norte de nos. Ha uma quantia justa de comercio entre nos e eles. Dos rumores, Killian e
- Gizmo estao nas gargantas um do outro.}
-{22708}{}{Aquele lugar esta a noroeste daqui. Eles são um bando de aberracoes tecno que adoram tecnologia. Pessoas muito assustadoras.}
-{22709}{}{Uma cidade primitiva que esta longe ao norte daqui. Nao muito e conhecido sobre eles, porque eles não tem dinheiro o bastante
+{22706}{}{Há algumas estorias que dizem que há um lugar a sudeste daqui o qual foi atingido por uma ogiva nuclear.}
+{22707}{}{Isso esta ao norte de nos. Há uma quantia justa de comercio entre nos e eles. Dos rumores, Killian e
+ Gizmo estão nas gargantas um do outro.}
+{22708}{}{Aquele lugar esta a noroeste daqui. Eles são um bando de aberrações tecno que adoram tecnologia. Pessoas muito assustadoras.}
+{22709}{}{Uma cidade primitiva que esta longe ao norte daqui. Não muito e conhecido sobre eles, porque eles não tem dinheiro o bastante
  para negociar conosco.}
-{22710}{}{Aquele lugar infestado de ratos esta crivado com a guerra entre gangues. Nao fosse pelo grande comercio com Adytum e os Gunrunners, eu
- duvido que qualquer comerciante se aventurasse la.}
-{22711}{}{Aqueles armazenam a agua para o Hub. Os Mercadores das Aguas controlam as torres.}
-{22712}{}{A cidade velha esta no lado mais a nordeste da cidade. As unicas pessoas que vao la são skags e  muties. Eu ouvi que
- ha um antro de ladroes la.}
-{22713}{}{Isso e aonde todos os mercadores vendem coisas. A Loja de Armas, O Armoreiro, A Companhia de Emprestimos Amistosa e o Falcao Maltes estao
+{22710}{}{Aquele lugar infestado de ratos esta crivado com a guerra entre gangues. Não fosse pelo grande comercio com Adytum e os Gunrunners, eu
+ duvido que qualquer comerciante se aventurasse lá.}
+{22711}{}{Aqueles armazenam a água para o Hub. Os Mercadores das Aguas controlam as torres.}
+{22712}{}{A cidade velha esta no lado mais a nordeste da cidade. As unicas pessoas que vao lá são skags e  muties. Eu ouvi que
+ há um antro de ladroes lá.}
+{22713}{}{Isso e aonde todos os mercadores vendem coisas. A Loja de Armas, O Armoreiro, A Companhia de Empréstimos Amistosa e o Falcao Maltes estão
  todos naquela area.}
-{22714}{}{Isso e aonde todos os mercadores ricos vivem. A lider dos Mercadores das Aguas, Daren Hightower tem um lugar enorme la.}
+{22714}{}{Isso e aonde todos os mercadores ricos vivem. A lider dos Mercadores das Aguas, Daren Hightower tem um lugar enorme lá.}
 {22715}{}{Um mito para assustar criancinhas para se comportarem.}
 {22716}{}{Eu não sei nada sobre isso.}
 
@@ -892,33 +892,33 @@ ring de boxe.  Ele faz muito dinheiro e compra muitas coisas do
 {23811}{}{Torres de Agua}
 {23812}{}{Cidade Velha}
 {23813}{}{Centro da Cidade}
-{23814}{}{As Elevacoes}
+{23814}{}{As Elevações}
 {23815}{}{Deathclaw}
 {23816}{}{Chip da Agua}
-{23900}{}{A policia e dirigida pelo Xerife Greene para manter a lei e a ordem no Hub. Ha
+{23900}{}{A policia e dirigida pelo Xerife Greene para manter a lei é a ordem no Hub. Há
  alguns que acreditam que eles são mais um estorvo do que ajuda.}
-{23901}{}{Eles controlam toda a agua no Hub. Eles tomaram o controle das torres de agua e agora
- as pessoas tem que pagar a eles para obter agua.}
+{23901}{}{Eles controlam toda a água no Hub. Eles tomaram o controle das torres de água e agora
+ as pessoas tem que pagar a eles para obter água.}
 {23902}{}{Um grupo louco de comerciantes que tomam grandes riscos de modo a chegar ao topo.}
 {23903}{}{Um grupo medio moderado de comerciantes que oferecem preços justos sem tem quer procurar perigo para si mesmos.}
 {23904}{}{Um culto religioso que adora algo chamad o Mestre. Eles dirigem um hospital no lado sudeste da cidade
  ao lado dos Mercadores das Aguas.}
-{23905}{}{Lugar arrepiante. Alguns dizem que e assombrado por humanos transformados que comem os cerebros das pessoas normais por comida. Esta
+{23905}{}{Lugar arrepiante. Alguns dizem que é assombrado por humanos transformados que comem os cerebros das pessoas normais por comida. Esta
  em algum lugar ao leste do Hub.}
-{23906}{}{Ha algumas estorias que dizem que ha um lugar a sudeste daqui o qual foi atingido por uma ogiva nuclear.}
-{23907}{}{Isso esta ao norte de nos. Ha uma quantia justa de comercio entre nos e eles. Dos rumores, Killian e
- Gizmo estao nas gargantas um do outro.}
-{23908}{}{Aquele lugar esta a noroeste daqui. Eles são um bando de aberracoes tecno que adoram tecnologia. Pessoas muito assustadoras.}
-{23909}{}{Uma cidade primitiva que esta longe ao norte daqui. Nao muito e conhecido sobre eles, porque eles não tem dinheiro o bastante
+{23906}{}{Há algumas estorias que dizem que há um lugar a sudeste daqui o qual foi atingido por uma ogiva nuclear.}
+{23907}{}{Isso esta ao norte de nos. Há uma quantia justa de comercio entre nos e eles. Dos rumores, Killian e
+ Gizmo estão nas gargantas um do outro.}
+{23908}{}{Aquele lugar esta a noroeste daqui. Eles são um bando de aberrações tecno que adoram tecnologia. Pessoas muito assustadoras.}
+{23909}{}{Uma cidade primitiva que esta longe ao norte daqui. Não muito e conhecido sobre eles, porque eles não tem dinheiro o bastante
  para negociar conosco.}
-{23910}{}{Aquele lugar infestado de ratos esta crivado com a guerra entre gangues. Nao fosse pelo grande comercio com Adytum e os Gunrunners, eu
- duvido que qualquer comerciante se aventurasse la.}
-{23911}{}{Aqueles armazenam a agua para o Hub. Os Mercadores das Aguas controlam as torres.}
-{23912}{}{A cidade velha esta no lado mais a nordeste da cidade. As unicas pessoas que vao la são skags e  muties. Eu ouvi que
- ha um antro de ladroes la.}
-{23913}{}{Isso e aonde todos os mercadores vendem coisas. A Loja de Armas, O Armoreiro, A Companhia de Emprestimos Amistosa e o Falcao Maltes estao
+{23910}{}{Aquele lugar infestado de ratos esta crivado com a guerra entre gangues. Não fosse pelo grande comercio com Adytum e os Gunrunners, eu
+ duvido que qualquer comerciante se aventurasse lá.}
+{23911}{}{Aqueles armazenam a água para o Hub. Os Mercadores das Aguas controlam as torres.}
+{23912}{}{A cidade velha esta no lado mais a nordeste da cidade. As unicas pessoas que vao lá são skags e  muties. Eu ouvi que
+ há um antro de ladroes lá.}
+{23913}{}{Isso e aonde todos os mercadores vendem coisas. A Loja de Armas, O Armoreiro, A Companhia de Empréstimos Amistosa e o Falcao Maltes estão
  todos naquela area.}
-{23914}{}{Isso e aonde todos os mercadores ricos vivem. A lider dos Mercadores das Aguas, Daren Hightower tem um lugar enorme la.}
+{23914}{}{Isso e aonde todos os mercadores ricos vivem. A lider dos Mercadores das Aguas, Daren Hightower tem um lugar enorme lá.}
 {23915}{}{Um mito para assustar criancinhas para se comportarem.}
 {23916}{}{Eu não sei nada sobre isso.}
 
@@ -938,33 +938,33 @@ ring de boxe.  Ele faz muito dinheiro e compra muitas coisas do
 {24411}{}{Torres de Agua}
 {24412}{}{Cidade Velha}
 {24413}{}{Centro da Cidade}
-{24414}{}{As Elevacoes}
+{24414}{}{As Elevações}
 {24415}{}{Deathclaw}
 {24416}{}{Chip da Agua}
-{24500}{}{A policia e dirigida pelo Xerife Greene para manter a lei e a ordem no Hub. Ha
+{24500}{}{A policia e dirigida pelo Xerife Greene para manter a lei é a ordem no Hub. Há
  alguns que acreditam que eles são mais um estorvo do que ajuda.}
-{24501}{}{Eles controlam toda a agua no Hub. Eles tomaram o controle das torres de agua e agora
- as pessoas tem que pagar a eles para obter agua.}
+{24501}{}{Eles controlam toda a água no Hub. Eles tomaram o controle das torres de água e agora
+ as pessoas tem que pagar a eles para obter água.}
 {24502}{}{Um grupo louco de comerciantes que tomam grandes riscos de modo a chegar ao topo.}
 {24503}{}{Um grupo medio moderado de comerciantes que oferecem preços justos sem tem quer procurar perigo para si mesmos.}
 {24504}{}{Um culto religioso que adora algo chamad o Mestre. Eles dirigem um hospital no lado sudeste da cidade
  ao lado dos Mercadores das Aguas.}
-{24505}{}{Lugar arrepiante. Alguns dizem que e assombrado por humanos transformados que comem os cerebros das pessoas normais por comida. Esta
+{24505}{}{Lugar arrepiante. Alguns dizem que é assombrado por humanos transformados que comem os cerebros das pessoas normais por comida. Esta
  em algum lugar ao leste do Hub.}
-{24506}{}{Ha algumas estorias que dizem que ha um lugar a sudeste daqui o qual foi atingido por uma ogiva nuclear.}
-{24507}{}{Isso esta ao norte de nos. Ha uma quantia justa de comercio entre nos e eles. Dos rumores, Killian e
- Gizmo estao nas gargantas um do outro.}
-{24508}{}{Aquele lugar esta a noroeste daqui. Eles são um bando de aberracoes tecno que adoram tecnologia. Pessoas muito assustadoras.}
-{24509}{}{Uma cidade primitiva que esta longe ao norte daqui. Nao muito e conhecido sobre eles, porque eles não tem dinheiro o bastante
+{24506}{}{Há algumas estorias que dizem que há um lugar a sudeste daqui o qual foi atingido por uma ogiva nuclear.}
+{24507}{}{Isso esta ao norte de nos. Há uma quantia justa de comercio entre nos e eles. Dos rumores, Killian e
+ Gizmo estão nas gargantas um do outro.}
+{24508}{}{Aquele lugar esta a noroeste daqui. Eles são um bando de aberrações tecno que adoram tecnologia. Pessoas muito assustadoras.}
+{24509}{}{Uma cidade primitiva que esta longe ao norte daqui. Não muito e conhecido sobre eles, porque eles não tem dinheiro o bastante
  para negociar conosco.}
-{24510}{}{Aquele lugar infestado de ratos esta crivado com a guerra entre gangues. Nao fosse pelo grande comercio com Adytum e os Gunrunners, eu
- duvido que qualquer comerciante se aventurasse la.}
-{24511}{}{Aqueles armazenam a agua para o Hub. Os Mercadores das Aguas controlam as torres.}
-{24512}{}{A cidade velha esta no lado mais a nordeste da cidade. As unicas pessoas que vao la são skags e  muties. Eu ouvi que
- ha um antro de ladroes la.}
-{24513}{}{Isso e aonde todos os mercadores vendem coisas. A Loja de Armas, O Armoreiro, A Companhia de Emprestimos Amistosa e o Falcao Maltes estao
+{24510}{}{Aquele lugar infestado de ratos esta crivado com a guerra entre gangues. Não fosse pelo grande comercio com Adytum e os Gunrunners, eu
+ duvido que qualquer comerciante se aventurasse lá.}
+{24511}{}{Aqueles armazenam a água para o Hub. Os Mercadores das Aguas controlam as torres.}
+{24512}{}{A cidade velha esta no lado mais a nordeste da cidade. As unicas pessoas que vao lá são skags e  muties. Eu ouvi que
+ há um antro de ladroes lá.}
+{24513}{}{Isso e aonde todos os mercadores vendem coisas. A Loja de Armas, O Armoreiro, A Companhia de Empréstimos Amistosa e o Falcao Maltes estão
  todos naquela area.}
-{24514}{}{Isso e aonde todos os mercadores ricos vivem. A lider dos Mercadores das Aguas, Daren Hightower tem um lugar enorme la.}
+{24514}{}{Isso e aonde todos os mercadores ricos vivem. A lider dos Mercadores das Aguas, Daren Hightower tem um lugar enorme lá.}
 {24515}{}{Um mito para assustar criancinhas para se comportarem.}
 {24516}{}{Eu não sei nada sobre isso.}
 
@@ -984,33 +984,33 @@ ring de boxe.  Ele faz muito dinheiro e compra muitas coisas do
 {25011}{}{Torres de Agua}
 {25012}{}{Cidade Velha}
 {25013}{}{Centro da Cidade}
-{25014}{}{As Elevacoes}
+{25014}{}{As Elevações}
 {25015}{}{Deathclaw}
 {25016}{}{Chip da Agua}
-{25100}{}{A policia e dirigida pelo Xerife Greene para manter a lei e a ordem no Hub. Ha
+{25100}{}{A policia e dirigida pelo Xerife Greene para manter a lei é a ordem no Hub. Há
  alguns que acreditam que eles são mais um estorvo do que ajuda.}
-{25101}{}{Eles controlam toda a agua no Hub. Eles tomaram o controle das torres de agua e agora
- as pessoas tem que pagar a eles para obter agua.}
+{25101}{}{Eles controlam toda a água no Hub. Eles tomaram o controle das torres de água e agora
+ as pessoas tem que pagar a eles para obter água.}
 {25102}{}{Um grupo louco de comerciantes que tomam grandes riscos de modo a chegar ao topo.}
 {25103}{}{Um grupo medio moderado de comerciantes que oferecem preços justos sem tem quer procurar perigo para si mesmos.}
 {25104}{}{Um culto religioso que adora algo chamad o Mestre. Eles dirigem um hospital no lado sudeste da cidade
  ao lado dos Mercadores das Aguas.}
-{25105}{}{Lugar arrepiante. Alguns dizem que e assombrado por humanos transformados que comem os cerebros das pessoas normais por comida. Esta
+{25105}{}{Lugar arrepiante. Alguns dizem que é assombrado por humanos transformados que comem os cerebros das pessoas normais por comida. Esta
  em algum lugar ao leste do Hub.}
-{25106}{}{Ha algumas estorias que dizem que ha um lugar a sudeste daqui o qual foi atingido por uma ogiva nuclear.}
-{25107}{}{Isso esta ao norte de nos. Ha uma quantia justa de comercio entre nos e eles. Dos rumores, Killian e
- Gizmo estao nas gargantas um do outro.}
-{25108}{}{Aquele lugar esta a noroeste daqui. Eles são um bando de aberracoes tecno que adoram tecnologia. Pessoas muito assustadoras.}
-{25109}{}{Uma cidade primitiva que esta longe ao norte daqui. Nao muito e conhecido sobre eles, porque eles não tem dinheiro o bastante
+{25106}{}{Há algumas estorias que dizem que há um lugar a sudeste daqui o qual foi atingido por uma ogiva nuclear.}
+{25107}{}{Isso esta ao norte de nos. Há uma quantia justa de comercio entre nos e eles. Dos rumores, Killian e
+ Gizmo estão nas gargantas um do outro.}
+{25108}{}{Aquele lugar esta a noroeste daqui. Eles são um bando de aberrações tecno que adoram tecnologia. Pessoas muito assustadoras.}
+{25109}{}{Uma cidade primitiva que esta longe ao norte daqui. Não muito e conhecido sobre eles, porque eles não tem dinheiro o bastante
  para negociar conosco.}
-{25110}{}{Aquele lugar infestado de ratos esta crivado com a guerra entre gangues. Nao fosse pelo grande comercio com Adytum e os Gunrunners, eu
- duvido que qualquer comerciante se aventurasse la.}
-{25111}{}{Aqueles armazenam a agua para o Hub. Os Mercadores das Aguas controlam as torres.}
-{25112}{}{A cidade velha esta no lado mais a nordeste da cidade. As unicas pessoas que vao la são skags e  muties. Eu ouvi que
- ha um antro de ladroes la.}
-{25113}{}{Isso e aonde todos os mercadores vendem coisas. A Loja de Armas, O Armoreiro, A Companhia de Emprestimos Amistosa e o Falcao Maltes estao
+{25110}{}{Aquele lugar infestado de ratos esta crivado com a guerra entre gangues. Não fosse pelo grande comercio com Adytum e os Gunrunners, eu
+ duvido que qualquer comerciante se aventurasse lá.}
+{25111}{}{Aqueles armazenam a água para o Hub. Os Mercadores das Aguas controlam as torres.}
+{25112}{}{A cidade velha esta no lado mais a nordeste da cidade. As unicas pessoas que vao lá são skags e  muties. Eu ouvi que
+ há um antro de ladroes lá.}
+{25113}{}{Isso e aonde todos os mercadores vendem coisas. A Loja de Armas, O Armoreiro, A Companhia de Empréstimos Amistosa e o Falcao Maltes estão
  todos naquela area.}
-{25114}{}{Isso e aonde todos os mercadores ricos vivem. A lider dos Mercadores das Aguas, Daren Hightower tem um lugar enorme la.}
+{25114}{}{Isso e aonde todos os mercadores ricos vivem. A lider dos Mercadores das Aguas, Daren Hightower tem um lugar enorme lá.}
 {25115}{}{Um mito para assustar criancinhas para se comportarem.}
 {25116}{}{Eu não sei nada sobre isso.}
 
@@ -1030,33 +1030,33 @@ ring de boxe.  Ele faz muito dinheiro e compra muitas coisas do
 {25611}{}{Torres de Agua}
 {25612}{}{Cidade Velha}
 {25613}{}{Centro da Cidade}
-{25614}{}{As Elevacoes}
+{25614}{}{As Elevações}
 {25615}{}{Deathclaw}
 {25616}{}{Chip da Agua}
-{25700}{}{A policia e dirigida pelo Xerife Greene para manter a lei e a ordem no Hub. Ha
+{25700}{}{A policia e dirigida pelo Xerife Greene para manter a lei é a ordem no Hub. Há
  alguns que acreditam que eles são mais um estorvo do que ajuda.}
-{25701}{}{Eles controlam toda a agua no Hub. Eles tomaram o controle das torres de agua e agora
- as pessoas tem que pagar a eles para obter agua.}
+{25701}{}{Eles controlam toda a água no Hub. Eles tomaram o controle das torres de água e agora
+ as pessoas tem que pagar a eles para obter água.}
 {25702}{}{Um grupo louco de comerciantes que tomam grandes riscos de modo a chegar ao topo.}
 {25703}{}{Um grupo medio moderado de comerciantes que oferecem preços justos sem tem quer procurar perigo para si mesmos.}
 {25704}{}{Um culto religioso que adora algo chamad o Mestre. Eles dirigem um hospital no lado sudeste da cidade
  ao lado dos Mercadores das Aguas.}
-{25705}{}{Lugar arrepiante. Alguns dizem que e assombrado por humanos transformados que comem os cerebros das pessoas normais por comida. Esta
+{25705}{}{Lugar arrepiante. Alguns dizem que é assombrado por humanos transformados que comem os cerebros das pessoas normais por comida. Esta
  em algum lugar ao leste do Hub.}
-{25706}{}{Ha algumas estorias que dizem que ha um lugar a sudeste daqui o qual foi atingido por uma ogiva nuclear.}
-{25707}{}{Isso esta ao norte de nos. Ha uma quantia justa de comercio entre nos e eles. Dos rumores, Killian e
- Gizmo estao nas gargantas um do outro.}
-{25708}{}{Aquele lugar esta a noroeste daqui. Eles são um bando de aberracoes tecno que adoram tecnologia. Pessoas muito assustadoras.}
-{25709}{}{Uma cidade primitiva que esta longe ao norte daqui. Nao muito e conhecido sobre eles, porque eles não tem dinheiro o bastante
+{25706}{}{Há algumas estorias que dizem que há um lugar a sudeste daqui o qual foi atingido por uma ogiva nuclear.}
+{25707}{}{Isso esta ao norte de nos. Há uma quantia justa de comercio entre nos e eles. Dos rumores, Killian e
+ Gizmo estão nas gargantas um do outro.}
+{25708}{}{Aquele lugar esta a noroeste daqui. Eles são um bando de aberrações tecno que adoram tecnologia. Pessoas muito assustadoras.}
+{25709}{}{Uma cidade primitiva que esta longe ao norte daqui. Não muito e conhecido sobre eles, porque eles não tem dinheiro o bastante
  para negociar conosco.}
-{25710}{}{Aquele lugar infestado de ratos esta crivado com a guerra entre gangues. Nao fosse pelo grande comercio com Adytum e os Gunrunners, eu
- duvido que qualquer comerciante se aventurasse la.}
-{25711}{}{Aqueles armazenam a agua para o Hub. Os Mercadores das Aguas controlam as torres.}
-{25712}{}{A cidade velha esta no lado mais a nordeste da cidade. As unicas pessoas que vao la são skags e  muties. Eu ouvi que
- ha um antro de ladroes la.}
-{25713}{}{Isso e aonde todos os mercadores vendem coisas. A Loja de Armas, O Armoreiro, A Companhia de Emprestimos Amistosa e o Falcao Maltes estao
+{25710}{}{Aquele lugar infestado de ratos esta crivado com a guerra entre gangues. Não fosse pelo grande comercio com Adytum e os Gunrunners, eu
+ duvido que qualquer comerciante se aventurasse lá.}
+{25711}{}{Aqueles armazenam a água para o Hub. Os Mercadores das Aguas controlam as torres.}
+{25712}{}{A cidade velha esta no lado mais a nordeste da cidade. As unicas pessoas que vao lá são skags e  muties. Eu ouvi que
+ há um antro de ladroes lá.}
+{25713}{}{Isso e aonde todos os mercadores vendem coisas. A Loja de Armas, O Armoreiro, A Companhia de Empréstimos Amistosa e o Falcao Maltes estão
  todos naquela area.}
-{25714}{}{Isso e aonde todos os mercadores ricos vivem. A lider dos Mercadores das Aguas, Daren Hightower tem um lugar enorme la.}
+{25714}{}{Isso e aonde todos os mercadores ricos vivem. A lider dos Mercadores das Aguas, Daren Hightower tem um lugar enorme lá.}
 {25715}{}{Um mito para assustar criancinhas para se comportarem.}
 {25716}{}{Eu não sei nada sobre isso.}
 
@@ -1091,13 +1091,13 @@ ring de boxe.  Ele faz muito dinheiro e compra muitas coisas do
 {27503}{}{Nossos inimigos jurados!}
 {27504}{}{Isso somos nos!}
 {27505}{}{Eles vendem armas para nos as vezes.}
-{27506}{}{Eu acho que e um lugar de comercio.}
+{27506}{}{Eu acho que é um lugar de comercio.}
 {27507}{}{Nunca ouvi sobre isso.}
 {27508}{}{A o que?}
 {27509}{}{Ela e nossa lider, a piranha mais fodona da cidade!}
 {27510}{}{Necro- o que? Isso e doente.}
 {27511}{}{Você esta brincando, certo?}
-{27512}{}{Esta e a Boneyard.}
+{27512}{}{Esta é a Boneyard.}
 
 
 # Info Level 2 [People who know something]
@@ -1115,21 +1115,21 @@ ring de boxe.  Ele faz muito dinheiro e compra muitas coisas do
 {27611}{}{O Glow}
 {27612}{}{A Boneyard}
 {27700}{}{Eles são uma vila de fracotes a sudoeste.}
-{27701}{}{Pregadores da paz pateticos a oeste. Nos esmagariamos ele se nos não estivessemos
+{27701}{}{Pregadores da paz pateticos a oeste. Nós esmagariamos ele se nós não estivessemos
  ocupados enfrentando os Rippers.}
-{27702}{}{Aberracoes religiosas. Inofensivos e inuteis.}
+{27702}{}{Aberrações religiosas. Inofensivos e inuteis.}
 {27703}{}{Nossos arqui-inimigos a oeste serao esmagados em breve!}
-{27704}{}{Nos somos os Blades! Nunca se esqueca!}
+{27704}{}{Nós somos os Blades! Nunca se esqueça!}
 {27705}{}{Eles eram uma gangue uma vez, mas eles amoleceram.  Apesar disso,
 eles vendem boas armas.}
 {27706}{}{Comerciantes e mercadores.}
 {27707}{}{Eu ouvi sobre esse lugar, mas nada a respeito dele.}
 {27708}{}{A o que?}
-{27709}{}{Razor e a lutadora mais eximia de todos nos. Ela nos levera a
+{27709}{}{Razor é a lutadora mais eximia de todos nos. Ela nos levera a
  vitoria.}
-{27710}{}{Essa e uma estoria sobre uma cidade de canibais, usada para assutar as crianças.}
+{27710}{}{Essa é uma estoria sobre uma cidade de canibais, usada para assutar as crianças.}
 {27711}{}{Deve ser onde uma bomba atomica caiu.}
-{27712}{}{Esta e a Boneyard.}
+{27712}{}{Esta é a Boneyard.}
 
 
 # Info level 3 [People who know more than something but less than everything]
@@ -1146,28 +1146,28 @@ eles vendem boas armas.}
 {27810}{}{Necropolis}
 {27811}{}{O Glow}
 {27812}{}{A Boneyard}
-{27900}{}{Nao seja enganado. Adytum parece uma pequena vila mas seus Reguladores
+{27900}{}{Não seja enganado. Adytum parece uma pequena vila mas seus Reguladores
  são fortes.}
-{27901}{}{Hmph. Nao comece. Eles não tem o estomago ou a coragem pra
+{27901}{}{Hmph. Não comece. Eles não tem o estomago ou a coragem pra
  lutar.}
 {27902}{}{Eles são cultuadores em uma grande igreja ao sul. Eles parecem inofensivos mas
- algo esquisito esta acontecendo la.}
+ algo esquisito esta acontecendo lá.}
 {27903}{}{Os Rippers are like mangy dogs - vicious, inbred e estupidos.}
-{27904}{}{Ve minha lamina? Nos fazemos estas nos mesmo. Cada um de nos faz sua
+{27904}{}{Ve minha lamina? Nós fazemos estas nos mesmo. Cada um de nos faz sua
  propria. Dai nosso nome.}
 {27905}{}{Eles desceram do Hub procurando por turf, mas eles decidiram se
  tornar vendedores em vez de guerreiros.}
-{27906}{}{Essa e uma cidade de comercio ao leste. Mercadores de la vem aqui
+{27906}{}{Essa é uma cidade de comercio ao leste. Mercadores de lá vem aqui
  as vezes negociar com Adytum e com os Gun Runners.}
-{27907}{}{Eu acho que e a nordeste daqui. E uma cidade pequena.}
+{27907}{}{Eu acho que é a nordeste daqui. É uma cidade pequena.}
 {27908}{}{A o que?}
 {27909}{}{Razor e nossa lider e campea. Eu não tenho duvida que a experiência dela
  nos garantira a vitoria finalmente sobre esses Rippers.}
-{27910}{}{Bem longe a leste daqui. Supostamente, ghouls que comem carne humana vivem la.
+{27910}{}{Bem longe a leste daqui. Supostamente, ghouls que comem carne humana vivem lá.
  Eu não queria enfrentar os ghouls.}
 {27911}{}{Essa supostamente devem ser as ruinas de algum lugar que foi atingido
- direto por uma bomba atomica. Eu acho que e bem para o sul.}
-{27912}{}{Esta e a Boneyard.}
+ direto por uma bomba atomica. Eu acho que é bem para o sul.}
+{27912}{}{Esta é a Boneyard.}
 #  ======================================================================
 
 
@@ -1210,10 +1210,10 @@ eles vendem boas armas.}
 {28703}{}{Gangue do hair-trigger gang a oeste.}
 {28704}{}{Gangue furtiva a leste.}
 {28705}{}{Sim? O que?}
-{28706}{}{Nos compramos armas deles e vendemos elas direto pra você!}
+{28706}{}{Nós compramos armas deles e vendemos elas direto pra você!}
 {28707}{}{Sim, pequena cidade ao norte do Hub.}
 {28708}{}{A o que?}
-{28709}{}{Esta e a Boneyard.}
+{28709}{}{Esta é a Boneyard.}
 
 # Info Level 2 [People who know something]
 {28800}{}{Adytum}
@@ -1226,20 +1226,20 @@ eles vendem boas armas.}
 {28807}{}{Junktown}
 {28808}{}{Chip da Agua}
 {28809}{}{A Boneyard}
-{28900}{}{Essa e uma pequena vila ao sul. Eles são muito bem fortificados.}
-{28901}{}{Um grupo de amantes da paz se escondendo ao sul daqui. Nos deveriamos simplesmente
+{28900}{}{Essa é uma pequena vila ao sul. Eles são muito bem fortificados.}
+{28901}{}{Um grupo de amantes da paz se escondendo ao sul daqui. Nós deveriamos simplesmente
  nos livrar deles.}
-{28902}{}{Oh sim, aqueles monges velhos loucos. Eles são doidos. A igreja grande deles
+{28902}{}{Ah sim, aqueles monges velhos loucos. Eles são doidos. A igreja grande deles
  esta ao sul da Boneyard.}
 {28903}{}{Ei, eles podem ser estupidos, mas eles com certeza compram muitas armas!}
 {28904}{}{Eles sempre usam aquelas vibro-facas esquisitas que eles fazem. Eu gostaria de
  por minhas mãos em uma. Mas pelo menos eles compram algumas armas tambem.}
 {28905}{}{Você esta falando conosco.}
-{28906}{}{E um grande centro de comercio pra tras no leste. Nos negociamos com os
+{28906}{}{É um grande centro de comercio pra tras no leste. Nós negociamos com os
  mercadores do Hub para comprar e vender armas e armaduras.}
 {28907}{}{Uma pequena cidade ao norte do Hub. Bem estrita.}
 {28908}{}{Nunca ouvi sobre isso.}
-{28909}{}{Nos estamos no lado norte da Boneyard.}
+{28909}{}{Nós estamos no lado norte da Boneyard.}
 
 # Info Level 3 [People who know more than something but less than everything]
 {29000}{}{Adytum}
@@ -1255,28 +1255,28 @@ eles vendem boas armas.}
 {29100}{}{Eles são uma pequena cidade ao sul. Eles não negociam conosco. Eu
  não poderia me importar menos com eles.}
 {29101}{}{Eles tentam converter todo mundo aos seus caminhos de paz enquanto eles se
- escondem na biblioteca deles ao sul. Eles não ajudam os negocios em nada!}
+ escondem na biblioteca deles ao sul. Eles não ajudam os negócios em nada!}
 {29102}{}{A Catedral e esta grande igreja ao sul da Boneyard, onde algum
- culto estranho adora um Deus Sombrio. Eu acho que eles são aberracoes.}
+ culto estranho adora um Deus Sombrio. Eu acho que eles são aberrações.}
 {29103}{}{Os Rippers são todos uma grande familia, literalmente. Eles são impossiveis de
- se lidar se eles não conhecem você, entao nem mesmo tente. Eles esta em uma grande
+ se lidar se eles não conhecem você, então nem mesmo tente. Eles esta em uma grande
  fortaleza booby-trapped a sudoeste de nos. Cuidado pelas minas terrestes se
- você e estupido(a) o bastante para visitar.}
+ você e estúpido o bastante para visitar.}
 {29104}{}{Eles converteram diversos pequenos predios ao sudoeste em seu
  lar. Eles são muito bem organizados e mais espertos do que os Rippers.
  Eles as vezes deixam forasteiros entrarem tambem. A lider deles, Razor, e uma
  mulher forte.}
 {29105}{}{Esses somos nos. Bom dinheiro em vender armas para os Blades e os Rippers aqui.}
-{29106}{}{Essa e a cidade do comercio a leste daqui onde nos obtemos nossas armas e fazemos
+{29106}{}{Essa é a cidade do comercio a leste daqui onde nos obtemos nossas armas e fazemos
  comercio. Eles enviam caravanas para todos os lugares. Você poderia provavelmente
  viajar com uma caravana quando alguma se mostrar em Adytum.}
-{29107}{}{E uma pequena cidade fronteirica bem ao norte do Hub. Ha um grande
- cassino la, mas o xerife da cidade e um pouco muito
+{29107}{}{É uma pequena cidade fronteirica bem ao norte do Hub. Há um grande
+ cassino lá, mas o xerife da cidade e um pouco muito
  autoritario.}
-{29108}{}{Eu não tenho ideia do que e isso.}
-{29109}{}{Este e o lado norte da Boneyard. E engracado, pessoas do
+{29108}{}{Eu não tenho ideia do que é isso.}
+{29109}{}{Este e o lado norte da Boneyard. É engracado, pessoas do
  lado de fora a usam como uma maldicao - se algo esta ruim eles dizem 'Morde o
- Osso'. Mas ela não e muito ruim uma vez que você fique acostumado com ela.}
+ Osso'. Mas ela não é muito ruim uma vez que você fique acostumado com ela.}
 #  ======================================================================
 
 

@@ -5,5 +5,5 @@
 {104}{}{Eu lamento mas eu não entendo você.}
 {105}{}{Você tera que voltar de manha. Por favor nos deixe
  dormir em paz.}
-{106}{}{Nao obrigado.}
-{107}{}{Nao, eu não estou com necessidade de cura.}
+{106}{}{Não obrigado.}
+{107}{}{Não, eu não estou com necessidade de cura.}

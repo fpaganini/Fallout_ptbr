@@ -9,7 +9,7 @@
  mas isso seria um desperdício, não seria? Vamos para suas duas escolhas:
  Você pode me dizer o que eu quero saber. Ou eu posso fazer isso. . . o meu caminho.}
 {107}{}{Eu não aceito 'nenhuma das opções acima.'}
-{108}{}{Ok, mas com uma condição.}
+{108}{}{Certo, mas com uma condição.}
 {109}{}{Tudo bem, eu vou te dizer. Está do outro lado das montanhas
  longe para o norte. Você vai encontrá-lo perto de uma estranha rocha tipo meia-cúpula. . .
  Agora, o que eu ganho?}
@@ -19,7 +19,7 @@
 {112}{}{É uh. . . é uh . .}
 {113}{}{Com uma condição, pal.}
 {114}{}{Fooled ya, não fui eu? Eu nunca te direi!}
-{115}{}{Ok, tudo bem! Apenas não me mate! Eu vou te contar tudo o que eu sei!}
+{115}{}{Certo, tudo bem! Apenas não me mate! Eu vou te contar tudo o que eu sei!}
 {116}{LIEUT3}{Condições? Como delicioso. Vá em frente, me divirta
  seu . . . condição.}
 {117}{}{Eu quero ir livre.}
@@ -43,8 +43,8 @@
 {132}{}{Então, quem está no comando?}
 {133}{LIEUT8}{Atualmente, existe uma ligeira. . . problema na reprodução
  processo. Está sendo assistido. Por enquanto, devemos usar o Vats para transformar
- seres humanos em Super Mutantes. Você experimentará essa glória a si mesmo momentaneamente.}
-{134}{}{Oh, goody. Mais algumas perguntas antes de eu. . . brilho?}
+ seres humanos em Super Mutantes. Você experimentará essa glória a si próprio momentaneamente.}
+{134}{}{Ah, goody. Mais algumas perguntas antes de eu. . . brilho?}
 {135}{lieut8a}{Como eu poderia recusar um pedido formulado assim?}
 {136}{LIEUT9}{Certamente. Nós temos todo o tempo do mundo. . . Confie em mim.}
 {137}{LIEUT10}{A unidade é o nosso objetivo. É bem simples, na verdade.
@@ -58,7 +58,7 @@
 {142}{}{Mas não há escolha envolvida.}
 {143}{LIEUT12}{Sua mente humana está bastante sub-equipada para lidar com isso,
  então um simples sim será suficiente por enquanto. Logo todos no mundo vão
- ser convertido e a paz reinará.}
+ ser convertido é a paz reinará.}
 {144}{}{Mas e o livre arbítrio?}
 {145}{}{Você está me dizendo que não haverá guerra?}
 {146}{LIEUT13}{Você fez a escolha de nascer neste mundo coberto de cinzas?
@@ -80,7 +80,7 @@
 {155}{LIEUT17}{Exatamente. Agora você vê.}
 {156}{}{Uh, claro que sim. Posso fazer mais algumas perguntas?}
 {157}{}{Mas está errado!}
-{158}{LIEUT18}{Oh, que decepcionante. Eu esperava que você visse a luz
+{158}{LIEUT18}{Ah, que decepcionante. Eu esperava que você visse a luz
  antes . . . Bem, quando você é um de nós, tenho certeza que você vai entender.
  Então você vai abraçar a Unidade.}
 {159}{}{Nunca! É o mal. Mal, eu te digo!}
@@ -95,7 +95,7 @@
 {166}{}{Qual é a unidade?}
 {167}{LIEUT21}{Destino. Sorte do sorteio. Eu era o mais forte do meu lote
  para ser mergulhado no vírus, e eu sempre apoiei os ideais de
- a Unidade e o Mestre, pois ele está certo. E por minha devoção eu
+ a Unidade e o Mestre, pois ele está certo. É por minha devoção eu
  foram recompensados.}
 {168}{}{Qual vírus?}
 {169}{}{Então, como é este Mestre?}
@@ -116,7 +116,7 @@
 {180}{}{Eu não acredito em você.}
 {181}{}{Antes do futuro chegar, há algumas outras coisas que eu sou
  curioso sobre.}
-{182}{LIEUT26}{Oh, eu suspeito que esteja muito acima da sua capacidade de compreensão.
+{182}{LIEUT26}{Ah, eu suspeito que esteja muito acima da sua capacidade de compreensão.
  Mas não se preocupe. Logo seus olhos serão abertos para uma nova vida.}
 {183}{}{O que você quer dizer !?}
 {184}{}{Antes que isso aconteça, há um par de outras coisas que eu sou curioso
@@ -129,8 +129,8 @@
 {188}{}{Por que eu sou um humano primo?}
 {189}{LIEUT28}{Vá em frente, faça suas perguntas. Nós não temos pressa.}
 {190}{LIEUT29}{Ele foi nosso guia para o vírus vivificante, e ele é o Pai
- para todos nós. E ele quer tanto te conhecer. Espero que você esteja honrado.}
-{191}{}{Uh. . . OK. E aquele vírus? O que é isso?}
+ para todos nós. É ele quer tanto te conhecer. Espero que você esteja honrado.}
+{191}{}{Uh. . . OK. É aquele vírus? O que é isso?}
 {192}{}{Antes de conceder essa honra, que tal responder a mais perguntas?}
 {193}{}{Onde ele está?}
 {194}{LIEUT30}{O FEV foi mutado pela radiação de guerra. Aqueles que vivem
@@ -140,14 +140,14 @@
 {196}{}{Então você precisa daqueles que não são contaminados para fazer Super Mutantes?}
 {197}{LIEUT31}{Então, você é de um Vault e tem exposição limitada a
  este vírus mutado. O FEV original no Vats deve funcionar muito bem em você.
-{198}{}{E como você sabe disso?}
+{198}{}{É como você sabe disso?}
 {199}{LIEUT32}{Temos feito extensas experiências em humanos para alcançar
  esta conclusão. Meu mestre está procurando por Vaults não abertos para
- provar suas teorias. E agora você veio junto. Como você é atencioso.}
+ provar suas teorias. É agora você veio junto. Como você é atencioso.}
 {200}{}{Você não encontrará.}
 {201}{}{Bem, antes que isso aconteça, há algumas outras coisas que eu sou
  curioso sobre.}
-{202}{LIEUT33}{Oh, meu, você é mais brilhante do que eu pensava. Agora você sabe porque
+{202}{LIEUT33}{Ah, meu, você é mais brilhante do que eu pensava. Agora você sabe porque
  precisamos do seu Vault.}
 {203}{}{Muito ruim você não vai conseguir.}
 {204}{}{É um grande cofre. Que tal algumas respostas mais pequenas primeiro?}
@@ -168,7 +168,7 @@
  Ah, claro . . . o cofre.}
 {214}{}{É. . . Está . . . nos seus sonhos.}
 {215}{}{Você vence. É através das montanhas a oeste. Eu vou te desenhar um mapa.}
-{216}{LIEUT38}{Ah, me sinto muito melhor. E você? . . . Agora, seja um bom pequeno
+{216}{LIEUT38}{Ah, me sinto muito melhor. É você? . . . Agora, seja um bom pequeno
  humano e me diga onde está o seu cofre. Isso está ficando mais tedioso.}
 {217}{}{Vá para o inferno.}
 {218}{}{Eu direi! Apenas não me machuque mais!}
@@ -194,12 +194,12 @@
 {232}{}{Eu vou te contar tudo.}
 {233}{}{Sim, eu mudei de idéia e nunca vou contar.}
 {234}{}{Posso fazer algumas perguntas primeiro?}
-{235}{LIEUT41}{Oh, isso é excelente. Você sabe, eu realmente duvidei do meu
+{235}{LIEUT41}{Ah, isso é excelente. Você sabe, eu realmente duvidei do meu
  oficiais quando eles disseram que tinham capturado um primo normal. É tão bom ver você.}
 {236}{}{Vá para o inferno.}
 {237}{}{O que você quer comigo?}
 {238}{}{Duh!}
-{239}{LIEUT42}{Sim, você tem jeito com as palavras, não tem. E as palavras são
+{239}{LIEUT42}{Sim, você tem jeito com as palavras, não tem. É as palavras são
  o que nós queremos antes. . .}
 {240}{}{O que você quer dizer com 'antes?'}
 {241}{}{Você não vai conseguir nada de mim!}
@@ -208,7 +208,7 @@
  agora posso? Depois que você me disser onde está seu cofre.}
 {243}{}{Diga-lhe? Você é quase engraçado.}
 {244}{}{com uma condição.}
-{245}{LIEUT44}{Oh, que louvável. Chega de tolice. Onde está seu cofre?}
+{245}{LIEUT44}{Ah, que louvável. Chega de tolice. Onde está seu cofre?}
 {246}{}{Eu não estou dizendo.}
 {247}{}{Bem. . . com uma condição.}
 {248}{LIEUT45f}{Bem, estou bastante impressionado. Meus espiões me disseram que você era engenhoso
@@ -251,7 +251,7 @@
 {269}{LIEUT66}{Eu não vou sequer dignificar isso com uma resposta.}
 {270}{LIEUT45m}{Bem, estou bastante impressionado. Meus espiões me disseram que você era engenhoso
  mas eles pareciam ter subestimado seus talentos. Guardas, capturem-no!}
-{271}{LIEUT39f}{Oh, eu admiro sua vontade. Guardas, leve-a embora e prepare-se
+{271}{LIEUT39f}{Ah, eu admiro sua vontade. Guardas, leve-a embora e prepare-se
  ela para o mergulho. Ela nos dirá onde está seu Cofre quando ela é uma de nós.}
 {272}{LIEUT39}Eu admiro sua vontade. Guardas, leve-o para sua cela e
  prepará-lo para o mergulho. Ele nos dirá onde está seu Cofre quando ele é um de nós.}
@@ -290,5 +290,5 @@
 {1109}{LIEUT65}{Essa questão é irrelevante para a Unidade.}
 {1110}{LIEUT66}{Eu nem vou dignificar isso com uma resposta.}
 {1111}{lieut45m}{Bem, estou bastante impressionado. Meus espiões me disseram que você era engenhoso, mas eles pareciam ter subestimado seus talentos. Guardas, capturem-no!}
-{1112}{lieut39f}{Oh, eu admiro sua vontade. Guardas, levá-la embora e prepará-la para o mergulho. Ela nos dirá onde está seu Cofre quando ela é uma de nós.}
+{1112}{lieut39f}{Ah, eu admiro sua vontade. Guardas, levá-lá embora e prepará-lá para o mergulho. Ela nos dirá onde está seu Cofre quando ela é uma de nós.}
 {1113}{lieut39m}{Eu admiro sua vontade. Guardas, leve-o para sua cela e prepare-o para o mergulho. Ele nos dirá onde está seu Cofre quando ele é um de nós.}

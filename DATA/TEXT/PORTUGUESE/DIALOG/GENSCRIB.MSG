@@ -4,7 +4,7 @@
 {103}{}{Sophia com certeza é legal.}
 {104}{}{Derek é legal.}
 {105}{}{O universo continuará a expandir-se ou acabará por colapsar?
- de volta em si mesmo?}
+ de volta em si próprio?}
 {106}{}{Eu amo esses livros antigos e revistas, mas eles são tão difíceis de vir
  de.}
 {107}{}{Conhecimento é poder.}

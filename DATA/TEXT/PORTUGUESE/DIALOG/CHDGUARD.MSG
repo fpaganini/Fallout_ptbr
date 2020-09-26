@@ -1,17 +1,17 @@
-{100}{}{Você ve diante de você um guarda gruff.}
-{101}{}{Quem vem la?}
+{100}{}{Você vê diante de você um guarda gruff.}
+{101}{}{Quem vem lá?}
 {102}{}{Eu. Eu.}
 {103}{}{Quem vai aonde?}
 {104}{}{Eu vou!}
 {105}{}{Deathslayer!}
 {106}{}{Esteja em paz. Eu sou um amigo.}
-{107}{}{Meme? Bem, saia daqui! Esta e a propriedade das Crianças da
+{107}{}{Meme? Bem, saia daqui! Esta é a propriedade das Crianças da
  Cathedral.}
 {108}{}{Huh? Mim ficar!}
 {109}{}{Huh? Você morre!}
 {110}{}{Mim não quer ir.}
 {111}{}{Otimo. De todas as pessoas que eu tive que parar, eu parei um
- pedaco de carne pra canhao. O que eu posso fazer por você?}
+ pedaço de carne pra canhao. O que eu posso fazer por você?}
 {112}{}{Ir noite-noite!}
 {113}{}{Naonao.}
 {114}{}{Ajuda você.}
@@ -21,91 +21,91 @@
 {118}{}{Isto!}
 {119}{}{Vaut.}
 {120}{}{Desperdicando meu tempo, eu entendo. Desapareca!}
-{121}{}{Vaut. Vaut? O que e uma vaut?}
+{121}{}{Vaut. Vaut? O que é uma vaut?}
 {122}{}{Numnum.}
 {123}{}{Naonao.}
 {124}{}{Valt! Valt!}
-{125}{}{Oh, você quer doce. Lamento, eu não tenho nenhum. Adeus.}
-{126}{}{Oh, uma Vault. Eu tenho certeza que e muito bacana. Talvez você possa
+{125}{}{Ah, você quer doce. Lamento, eu não tenho nenhum. Tchau.}
+{126}{}{Ah, uma Vault. Eu tenho certeza que é muito bacana. Talvez você possa
  falar com um dos meus superiores sobre isso. Eu estou meio ocupado agora.}
-{127}{}{E muito perigoso aqui. Grandes monstros ruins tomaram este lugar.
- Nos estamos tentando salvar o que nos pudermos antes que eles voltem.}
-{128}{}{Nao ir! Nao ir!}
+{127}{}{É muito perigoso aqui. Grandes monstros ruins tomaram este lugar.
+ Nós estamos tentando salvar o que nos pudermos antes que eles voltem.}
+{128}{}{Não ir! Não ir!}
 {129}{}{Uh, oh.}
 {130}{}{Tchtchau.}
-{131}{}{Ok. Suit yourself. Quando eles voltarem aqui, você pode ser o jantar deles.}
+{131}{}{Certo. Suit yourself. Quando eles voltarem aqui, você pode ser o jantar deles.}
 {132}{}{Mim matar! Mim matar!}
 {133}{}{Tchtchau.}
 {134}{}{Você pode tentar. Eu não tenho certeza que você chegara muito longe. Boa sorte pra você.}
-{135}{}{Uh oh esta certo. Eles são malvados. Nos estamos tentando fazer eles entenderem
+{135}{}{Uh oh esta certo. Eles são malvados. Nós estamos tentando fazer eles entenderem
  que pessoas e monstros podem viver juntos.}
-{136}{}{Oh. OK. Tchtchau.}
+{136}{}{Ah. OK. Tchtchau.}
 {137}{}{Apenas me diga quem você e antes que eu exploda sua cabeca.}
 {138}{}{Eu sou um Seguidor. Aonde todo mundo foi?}
-{139}{}{Eu sou um de voces. Agora me deixe passar.}
+{139}{}{Eu sou um de vocês. Agora me deixe passar.}
 {140}{}{Eu sou }
 {141}{}{. Lembre-se!}
 {142}{}{Eu não tenho que lembrar.}
 {143}{}{MORRA!!!}
 {144}{}{Venha comigo. Eu mostrarei a você aonde todos foram.}
-{145}{}{Entao, você e um Seguidor?}
+{145}{}{Então, você e um Seguidor?}
 {146}{}{Claro! Quem mais eu seria?}
-{147}{}{Nao, eu sou um membro das Crianças.}
+{147}{}{Não, eu sou um membro das Crianças.}
 {148}{}{Burrice da minha parte. Eu confundi você com outra pessoa. Venha comigo.
  Eu mostrarei o caminho pra você.}
 {149}{}{Eu não me lembro de você. Qual e o nome?}
 {150}{}{Eu sou }
 {151}{}{. Como você pode esquecer de mim?}
-{152}{}{Nao e da sua conta.}
+{152}{}{Não e da sua conta.}
 {153}{}{Eu sou seu pior pesadelo.}
-{154}{}{Eu lamento. Eu ainda não me lembro de você. Talvez alguem mais consiga
- se lembrar de quem você e.}
+{154}{}{Eu lamento. Eu ainda não me lembro de você. Talvez alguém mais consiga
+ se lembrar de quem você é.}
 {155}{}{Sim, eu me lembro de você. Foi dito a nos que procurassemos você. A vinganca será minha!}
-{156}{}{Você esta na minha area de patrulha. E da minha conta. Fale ou morra!}
+{156}{}{Você esta na minha area de patrulha. É da minha conta. Fale ou morra!}
 {157}{}{Certo. Eu sou }
 {158}{}{. Ja advinhou?}
 {159}{}{Hmmm. Eu acho . . . MATAR!}
 {160}{}{Deixe-me pensar.}
-{161}{}{Agora deixe-me ver. E }
+{161}{}{Agora deixe-me ver. É }
 {162}{}{. Certo?}
 {163}{}{Sim, seu retardado.}
 {164}{}{Sim.}
-{165}{}{Nao, estupido. E Deathstalker!}
+{165}{}{Não, estúpido. É Deathstalker!}
 {166}{}{Bom, Apenas tendo certeza para a pedra do seu tumulo.}
-{167}{}{Entao eu não tenho que deixar você viver. Boa noite.}
-{168}{}{E quem e você?}
+{167}{}{Então eu não tenho que deixar você viver. Boa noite.}
+{168}{}{É quem é você?}
 {169}{}{Eu sou um Seguidor. Aonde todo mundo foi?}
-{170}{}{Eu sou um de voces. Agora deixe-me passar.}
+{170}{}{Eu sou um de vocês. Agora deixe-me passar.}
 {171}{}{Eu sou }
 {172}{}{. Lembre-se!}
 {173}{}{Eu não tenho que lembrar!}
 {174}{}{MORRA!!!}
 {175}{}{Deathslayer, eh? Você parece mais isca de minhoca pra mim.}
-{176}{}{Se você e um amigo, entao prove.}
+{176}{}{Se você e um amigo, então prove.}
 {177}{}{Eu ajudei a matar os Seguidores.}
 {178}{}{Eu ajudei a matar os Rippers.}
 {179}{}{Eu ajudei a matar aquelas coisas mutantes.}
 {180}{}{Eu ajudei a matar as Crianças.}
 {181}{}{Mesmo? Eu acho que o meu chefe gostaria de ouvir mais sobre isso.
- Va procurar Orfeo. Ele será capaz de recompensar você pela sua ajuda.}
-{182}{}{Para alguem que vem em paz, você faz muita matanca. Mas aqueles
+ Vá procurar Orfeo. Ele será capaz de recompensar você pela sua ajuda.}
+{182}{}{Para alguém que vem em paz, você faz muita matanca. Mas aqueles
  Rippers estavam causando bastates problemas. O Orfeo pode recompensar
  você pelo seu socorro.}
 {183}{}{Você mata criaturas que não fazem mal as quais são o resultado
- final da natureza destrutiva do homem e entao clama a paz?}
-{184}{}{Eu lamento, elas eram feias, entao eu atirei nelas.}
+ final da natureza destrutiva do homem e então clama a paz?}
+{184}{}{Eu lamento, elas eram feias, então eu atirei nelas.}
 {185}{}{Eles estavam machucando pessoas por toda a parte.}
 {186}{}{Agora eu vou matar você.}
-{187}{}{Eu ainda deixarei você viver. Eu acho que e melhor levar você pra ter
+{187}{}{Eu ainda deixarei você viver. Eu acho que é melhor levar você pra ter
  você limpo destes pensamentos de destruição.}
-{188}{}{Engracado. Eu pensei que eu vi alguns deles la fora na rua tentando
+{188}{}{Engracado. Eu pensei que eu vi alguns deles lá fora na rua tentando
  eliminar as gangues.}
 {189}{}{Eles atacaram os Blades?}
 {190}{}{O que aconteceu com Adytum?}
 {191}{}{Morra, escoria!}
 {192}{}{Esses perdedores agora não mais existem.}
-{193}{}{Essa e uma coisa boa. Bem, adeus.}
-{194}{}{E agora, você não mais existira tambem.}
-{195}{}{E dai de onde eu conheco você. E hora do troco!}
-{196}{}{E você de novo. Eu pensei que você agora já teria aprendido. Muito pouco,
+{193}{}{Essa é uma coisa boa. Bem, adeus.}
+{194}{}{É agora, você não mais existira tambem.}
+{195}{}{É dai de onde eu conheco você. É hora do troco!}
+{196}{}{É você de novo. Eu pensei que você agora já teria aprendido. Muito pouco,
  muito tarde eu creio.}

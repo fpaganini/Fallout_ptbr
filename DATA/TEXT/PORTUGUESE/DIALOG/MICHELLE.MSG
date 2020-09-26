@@ -34,7 +34,7 @@
 {129}{}{Se você está aqui para fazer isso, então você precisa tentar encontrar
  Navalha. Ela vai deixar você saber o que achamos disso.
 {130}{}{Uh, obrigado. Eu acho que.}
-{131}{}{Ok. Adeus.}
+{131}{}{Certo. Tchau.}
 {132}{}{Zomba de mim, você vai? Eu acho que deveria esperar tanto de um
  criança. Ah, por falar nisso. Aqui!}
 {133}{}{Fancy talk só vai te levar tão longe. Aqui vai ficar

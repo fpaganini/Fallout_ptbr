@@ -1,9 +1,9 @@
-{100}{}{Você ve a Jade.}
-{101}{}{Você ve a Beca.}
+{100}{}{Você vê a Jade.}
+{101}{}{Você vê a Beca.}
 {102}{}{}
 {103}{}{}
-{104}{}{Você ve um membro dos Blades.}
-{105}{}{Você ve um membro dos Blades.}
+{104}{}{Você vê um membro dos Blades.}
+{105}{}{Você vê um membro dos Blades.}
 {106}{}{Você acha que poderiam ser Livros.}
 {107}{}{Você acha que poderiam ser Cicatrizes.}
 {108}{}{Você acha que poderia ser Gunner.}
@@ -12,7 +12,7 @@
 {111}{}{Você acha que poderia ser Razor.}
 {112}{}{Estes são os quartos de dormir. Agora saia daqui antes que eu chute sua bunda.}
 {113}{}{Tente.}
-{114}{}{Lamento sobre isso. Adeus.}
+{114}{}{Lamento sobre isso. Tchau.}
 {115}{}{Posso ficar aqui?}
-{116}{}{Nao. Estes são paras os Blades de verdade, não para alguma bicha.}
+{116}{}{Não. Estes são paras os Blades de verdade, não para alguma bicha.}
 {117}{}{Ei, homie! Qual a boa? fique here se você precisa de um lugar seguro.}

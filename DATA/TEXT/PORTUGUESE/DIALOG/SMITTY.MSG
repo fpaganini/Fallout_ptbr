@@ -1,5 +1,5 @@
-{100}{}{Você ve o Smitty.}
-{101}{}{Você ve um grande homem musculoso.}
+{100}{}{Você vê o Smitty.}
+{101}{}{Você vê um grande homem musculoso.}
 {102}{}{Bom dia. O que eu posso fazer por você?}
 {103}{}{O que você quer?}
 {104}{}{Eu posso perguntar seu nome?}
@@ -34,7 +34,7 @@
 {125}{}{Obrigado por consertar as fazendas. Se você achar um rifle de plasma, traga-o
  de volta aqui. Eu conheco alguns truques que eu posso fazer com os injetores.}
 {126}{}{Bem, eu tenho um bem aqui.}
-{127}{}{Entao você achou um rifle de plasma?}
+{127}{}{Então você achou um rifle de plasma?}
 {128}{}{Me de ele e eu darei uma olhada nele. [Smitty toma o rifle de plasma de
  você, puxa as ferramentas dele, e comeca a tinker com ele.]}
 {129}{}{Ai, eu acho que isso e tudo. [Smitty da de volta pra você seu rifle de plasma.]

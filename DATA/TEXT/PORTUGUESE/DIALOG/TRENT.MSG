@@ -1,30 +1,30 @@
 {100}{}{Fique longe de mim! Deixe-me em paz!}
-{101}{}{Ola estranho. Você não deveria estar fora aqui. Ha apenas a morte aqui!}
+{101}{}{Ola estranho. Você não deveria estar fora aqui. Há apenas a morte aqui!}
 {102}{}{Por acaso você não saberia qualquer coisa sobre as caravanas desaparecidas?}
-{103}{}{Quem e você?}
+{103}{}{Quem é você?}
 {104}{}{Que tipo de morte?}
 {105}{}{Eu preciso de alguns suprimentos. Entregue eles!}
-{106}{}{Eu estou procurando por um chip de agua. Você pode me ajudar?}
+{106}{}{Eu estou procurando por um chip purificador de água. Você pode me ajudar?}
 {107}{}{Eu estava imaginando o que você sabe sobre o deathclaw.}
 {108}{}{Rurr? Sniff?}
 {109}{}{O que você quer? Deixe-me em paz!}
 {110}{}{Rrr. Snrg.}
-{111}{}{Grande! Grande! Do tamanho de tres homens! Garras tao longas quanto meu antebraco!
+{111}{}{Grande! Grande! Do tamanho de tres homens! Garras tão longas quanto meu antebraco!
  Rasgados! Rasgados!}
 {112}{}{Sim. O que mais?}
 {113}{}{Acalme-se homem. Você esta seguro agora.}
 {114}{}{Cara, esse soa como um filho da puta feio!}
 {115}{}{Você o matou?}
 {116}{}{Eu sou o Trent. Eu sou um guarda dos Mercadores da Agua. Nossa caravana foi atacada
- . . . por um monstro! Tao enorme, tao rapido. Ele comeu o Joe e levou tiros de rifle e não
+ . . . por um monstro! Tao enorme, tão rapido. Ele comeu o Joe e levou tiros de rifle e não
  flinch! Tao enorme!}
 {117}{}{O que atacou você?}
 {118}{}{Soa como um tipo de mutante.}
 {119}{}{Isso soa como o deathclaw!}
 {120}{}{Bem, isso ensinara você a continuar jacking up seus preços!}
 {121}{}{Certo. Nâo e como se eu precisasse deles mais.}
-{122}{}{Chip de agua! Eu sou um guarda, não um engenheiro! Verifique com os mercadores
- da agua no Hub, eles provavelmente sabem!}
+{122}{}{Chip de água! Eu sou um guarda, não um engenheiro! Verifique com os mercadores
+ da água no Hub, eles provavelmente sabem!}
 {123}{}{Deathclaw!}
 {124}{}{O que você esta fazendo? Deixe-me em paz!}
 {125}{}{Eu . . . eu não sei. Eu não dormi por tanto tempo. Faminto. Sedento. Cansado.
@@ -32,35 +32,35 @@
 {126}{}{}
 {127}{}{Chifres enormes, pela vermelha doente, como algo de uma estoria sobre demonios,
  e comeu o Joe em tres mordidas . . .}
-{128}{}{Ninguem esta seguro! Ninguem esta seguro, ninguem mais esta seguro, e o que
+{128}{}{Ninguem esta seguro! Ninguem esta seguro, ninguém mais esta seguro, e o que
  eu vou fazer?}
 {129}{}{Você esta louco? Eu pus 3 balas da minha Desert Eagle nele e ele nem ao menos
  didn't even flinch!}
 {130}{}{Eu não me importo se e um mutante, um alienigena ou um demonio do inferno,
  eu nunca quero ver outra dessas coisas tanto quanto eu viver!}
-{131}{}{Eu sou apenas um guarda, maldicao! Nao me culpe! E eles me pagam bem! Eu
+{131}{}{Eu sou apenas um guarda, maldicao! Não me culpe! É eles me pagam bem! Eu
  não tenho quaisquer problemas com eles!}
 {132}{}{Como eu posso ajudar você?}
 {133}{}{Os deathclaws pegaram eles. Eu apenas pensava que elas eram estorias,
- mas . . . você não acreditaria em quao grandes eles são ou tao rapidos. Primeiro
- nos sentimos o cheiro dels, entao eles vieram sobre o ridge and tore em nos. Nos todos corremos, e de alguma maneira eu fugi.}
+ mas . . . você não acreditaria em quao grandes eles são ou tão rapidos. Primeiro
+ nos sentimos o cheiro dels, então eles vieram sobre o ridge and tore em nos. Nós todos corremos, e de alguma maneira eu fugi.}
 {134}{}{Trent, Trent Barrister. Eu vivo no Hub. Ultimamente o trabalho tem ficado
- escasso, e eu sou um bom atirador, entao eu contratei a mim mesmo como um guarda
+ escasso, e eu sou um bom atirador, então eu contratei a mim mesmo como um guarda
  pros Mercadores da Agua. O pagamento e bom, o risco e baixo - ou assim eu pensava.}
 {135}{}{Eu não faco ideia. Isso e tecnologia antiga, não e? Eu suponho que os
  poderiam achar um, agora e de novo, mas eu não faco ideia de onde procurar.
  Ninguem usa mais eles - usam?}
 {136}{}{Eles são enormes. Como grandes lagartos, mas encouracados. Garras enormes, e
- dentes, chifres enormes e eles amam o gosto dos humanos. E rapidos, Deus, eles são
+ dentes, chifres enormes e eles amam o gosto dos humanos. É rapidos, Deus, eles são
  rapidos. Eu estou feliz que eles decidiram não me perseguir ou eu estaria morto.}
 {137}{}{Obrigado. Talvez o que acontceu apenas foi um mal-entendido. Eu não tenho
- muito dinheiro, mas e seu agora.}
-{138}{}{Obrigado. Oh Deus, isso e bom . . . eu não tenho tanto dinheiro, mas e seu
+ muito dinheiro, mas é seu agora.}
+{138}{}{Obrigado. Ah Deus, isso e bom . . . eu não tenho tanto dinheiro, mas é seu
  agora.}
 {139}{}{Obrigado. Talvez o que aconteceu foi apenas um mal-entendido. Eu não tenho
- tanto dinheiro, mas . . . maldicao! Eu devo ter deixado cair. E seu agora.}
-{140}{}{Obrigado. Oh Deus, isso e bom . . . eu não tenho tanto dinheiro, mas . . .
- maldicao! Eu devo ter deixado cair. E seu agora.}
+ tanto dinheiro, mas . . . maldicao! Eu devo ter deixado cair. É seu agora.}
+{140}{}{Obrigado. Ah Deus, isso e bom . . . eu não tenho tanto dinheiro, mas . . .
+ maldicao! Eu devo ter deixado cair. É seu agora.}
 {141}{}{Ajude-me!}
 
 #

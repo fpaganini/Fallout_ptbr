@@ -1,2 +1,2 @@
-{100}{}{Esta e a sala de operacoes. Todas as operacoes de comando e controle
- sao realizadas aqui. Estas pessoas sao os lideres da Vault.}
+{100}{}{Esta é a sala de operações. Todas as operações de comando e controle
+ são realizadas aqui. Estas pessoas são os lideres da Vault.}

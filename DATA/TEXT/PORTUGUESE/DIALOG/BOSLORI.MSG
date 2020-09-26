@@ -1,12 +1,12 @@
 {100}{}{Você vê a Doutora da Irmandade.}
 {102}{}{Olá, como eu posso ajudar você?}
-{103}{}{Eu estou ferido(a).}
-{104}{}{Eu estou irradiado(a).}
+{103}{}{Eu estou ferido.}
+{104}{}{Eu estou irradiado.}
 {105}{}{Você faz operações?}
 {106}{}{Diga-me sobre as operações de novo.}
 {107}{}{Ug!}
-{108}{}{Você está ferido(a)? Vamos ver...}
-{109}{}{Esse era o problema. Aí vai você. Seja mais cuidadoso(a) lá fora.}
+{108}{}{Você está ferido? Vamos ver...}
+{109}{}{Esse era o problema. Aí vai você. Seja mais cuidadoso lá fora.}
 {110}{}{Lamento, eu não posso ajudar você se você não me disser o que está errado.}
 {111}{}{ Você parece bem.}
 {112}{}{Lá vai você. Eu espero que você se sinta melhor.}
@@ -18,12 +18,12 @@
 {118}{}{Eu não tenho tempo para jogos.}
 {119}{}{Mas claro, mas custa muito e consome tempo.}
 {120}{}{Detalhes?}
-{121}{}{Ok, deixa pra lá.}
+{121}{}{Certo, deixa pra lá.}
 {122}{}{Well, I can help make you stronger, more perceptive, increase
  your endurance, help improve your learning process, and
  increase your dexterity. Which would you like more
  information on? I can only do each operation once.}
-{126}{}{Ok, de qual operação você queria falar a respeito?}
+{126}{}{Certo, de qual operação você queria falar a respeito?}
 {127}{}{Força.}
 {128}{}{Percepção.}
 {129}{}{Resistência.}
@@ -43,10 +43,10 @@
 {143}{}{This isn't that tough of an operation but it is very costly
  and time consuming. It will take 3 weeks and cost 5000
  scripts.}
-{146}{}{Ok, aí vai você. Eu espero que o foam não irrite sua pele.}
+{146}{}{Certo, aí vai você. Eu espero que o foam não irrite sua pele.}
 {147}{}{Eu lamento, mas eu não posso ajudar se você não tem o dinheiro.}
 {148}{}{Eu estou sorry, but you are an outsider. After you're in the
- Brotherhood for ten years or so I'll be able to do the
+ Brotherhood for ten years or só I'll be able to do the
  operation for free, but we have expenses and you're not a
  regular working member of the Brotherhood, yet.}
 {149}{}{Deixe-me saber quando você tem os fundos.}
@@ -71,7 +71,7 @@
  running great. (It's as if the pathways of your thoughts
  have direct links to everywhere in your head and your
  memories are much crisper.) Take it easy.}
-{174}{}{All right, let's give it a spin. (The drugs, are so . . .
+{174}{}{All right, let's give it a spin. (The drugs, are só . . .
  friendly. Your slumber comes quickly.)}
 {176}{}{Okay you're ready for duty. (You flex your muscles and can
  feel the increased speed and control.) All I ask of you is
@@ -95,11 +95,11 @@
  though, do you?}
 {401}{}{Mim querer esperto.}
 {402}{}{Não querer.}
-{403}{}{Você está irradiado(a) ou ferido(a)? Eu ajudarei você se eu puder.}
-{404}{}{mIm fErido(a).}
+{403}{}{Você está irradiado ou ferido? Eu ajudarei você se eu puder.}
+{404}{}{mIm fErido.}
 {405}{}{cAbelo caiR.}
 {406}{}{Não.}
-{407}{}{Ok. Você está acordado(a). Vamos ver aqui. Você se sente mais esperto(a)?}
+{407}{}{Certo. Você está acordado. Vamos ver aqui. Você se sente mais esperto?}
 {408}{}{Hunh?}
 {409}{}{Sim!}
 {410}{}{Damn! It was a failure. Well I didn't have much to work with.

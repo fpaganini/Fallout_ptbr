@@ -1,8 +1,8 @@
-{100}{}{Você ve um gerador.}
-{101}{}{Os geradores estao ligados.}
+{100}{}{Você vê um gerador.}
+{101}{}{Os geradores estão ligados.}
 {102}{}{Estes geradores parecem estar off-line. Você imagina se você consegue
  liga-los.}
-{103}{}{Os geradores já estao ligados.}
+{103}{}{Os geradores já estão ligados.}
 {104}{}{Você liga os geradores, e todos os sistemas parecem estar
  voltando a ficar on-line.}
 {105}{}{Você falha em ligar os geradores.}

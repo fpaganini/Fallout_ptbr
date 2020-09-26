@@ -1,267 +1,267 @@
-{100}{}{Você ve o General Maxson.}
-{101}{}{Sobre o que realmente e a Irmandade?}
+{100}{}{Você vê o General Maxson.}
+{101}{}{Sobre o que realmente é a Irmandade?}
 {102}{}{Eu aposto que você sabe muito da historia por tras da Irmandade.}
 {103}{}{Ouviu quaisquer bons rumores?}
-{104}{}{Eu tenho um pouco de informacao para relatar.}
+{104}{}{Eu tenho um pouco de informação para relatar.}
 {105}{}{Isso e tudo. Obrigado.}
 {106}{Gen_1}{Ola jovem. Cabbot disse que você queria conversar. Olha eu estou uh . . .
- eu estou bastante stacked up agora, entao eu uh . . . eu ajudarei você tanto quanto
+ eu estou bastante stacked up agora, então eu uh . . . eu ajudarei você tanto quanto
  você não comece a flappin' suas armas demais. Você sabe, forasteiros são assim,
  sempre    ' . . . Hehehe. Tipo como eu, huh?}
 {107}{}{Forasteiros? O que você quer dizer com isso?}
-{108}{}{Que tal algumas perguntas entao?}
-{109}{Gen_2}{Eu não posso. Eu apenas modero estas malditas reunioes sem fim. Ha quatro Elders, e
+{108}{}{Que tal algumas perguntas então?}
+{109}{Gen_2}{Eu não posso. Eu apenas modero estas malditas reunioes sem fim. Há quatro Elders, e
  eu, você entende? Eu paro brigas e tie votos. Agora, se todos os quatro votam para pegar nossos
- narizes enquanto um exercito rolls in aqui e chuta nossa bunda coletiva, não ha helluva
+ narizes enquanto um exercito rolls in aqui e chuta nossa bunda coletiva, não há helluva
  que eu possa fazer a respeito.}
-{110}{}{Oh, bem.}
+{110}{}{Ah, bem.}
 {111}{}{Isso fede. Por que você não faz alguma coisa?}
-{112}{Gen_2a}{Tradicao. E dificil mudar nossos modos. Agora, se os Elders tivessem alguma informacao de verdade, eles get off dos cerebros deles e fariam algo.}
+{112}{Gen_2a}{Tradicao. É difícil mudar nossos modos. Agora, se os Elders tivessem alguma informação de verdade, eles get off dos cerebros deles e fariam algo.}
 {113}{Gen_3}{Um Iniciado não nascido aqui. Você e o primeiro forasteiro que nos deixamos
- entrar ha muito, muito tempo. Bem, perto de vinte anos agora.}
+ entrar há muito, muito tempo. Bem, perto de vinte anos agora.}
 {114}{}{Por que eu?}
 {115}{}{Eu estou lisonjeado. Que tal algumas daquelas perguntas agora?}
 {116}{Gen_4}{Porque nos precisamos fazer alguma coisa. Um exercito esta se juntando, caravanas do Hub
- estao desaparecendo e nossos patrulheiros certo como o inferno que não estao fazendo o trabalho.
- Entao os Elders realmente fizeram algo por uma vez e imaginamos que o forasteiro certo
- poderia ter alguma coisa a oferecer. Esse forasteiro e você... Nos esperamos.}
+ estão desaparecendo e nossos patrulheiros certo como o inferno que não estão fazendo o trabalho.
+ Então os Elders realmente fizeram algo por uma vez e imaginamos que o forasteiro certo
+ poderia ter alguma coisa a oferecer. Esse forasteiro e você... Nós esperamos.}
 {117}{}{Que exercito?}
 {118}{}{O que a respeito destas caravanas desaparecidas?}
-{119}{}{Hmm. Eu creio que ha mais coisas que eu preciso perguntar entao.}
+{119}{}{Hmm. Eu creio que há mais coisas que eu preciso perguntar então.}
 {120}{}{Qual e o problema com os patrulheiros?}
-{121}{}{Eu tenho um pouco de informacao que você poderia querer.}
+{121}{}{Eu tenho um pouco de informação que você poderia querer.}
 {122}{Gen_5}{Quando nos ouvimos sobre as caravanas desaparecidas nos enviamos alguns
  patrulheiros a leste e ao norte. Aqueles que foram pro norte nunca retornaram. Um
  voltou do leste. Ele falou sobre um score de seres estranhos, todos musculosos
- com olhos flamejantes. Os Elders não estao fazendo squat, mas eu estou ficando preparado
+ com olhos flamejantes. Os Elders não estão fazendo squat, mas eu estou ficando preparado
  assim mesmo.}
-{123}{}{Vinte não e um exercito. Por que você esta preocupado?}
+{123}{}{Vinte não é um exercito. Por que você esta preocupado?}
 {124}{}{Soa como se o seu cara cozinhou no sol por muito tempo.}
 {125}{}{Eu farei o que eu puder.}
 {126}{}{Ele disse aonde ao leste?}
-{127}{}{Eu tenho um pouco de informacao que você poderia querer.}
+{127}{}{Eu tenho um pouco de informação que você poderia querer.}
 {128}{Gen_6}{Eles podem ou não podem ser bons patrulheiros, mas não questione a
- veracidade dos meus homens. Nos podemos revogar seu status de Iniciado a qualquer hora.}
+ veracidade dos meus homens. Nós podemos revogar seu status de Iniciado a qualquer hora.}
 {129}{}{Soa como se você precisa de mim mais do que eu preciso de você.}
 {130}{}{Lamento.}
-{131}{Gen_7}{Basta. Eu avisei os Elders que trazer pra dentro um forasteiro poderia ser problema. (gritando para o lado) Guardas! Ha um Iniciado aqui que precisa de um pouco de tempo de silencio para descobrir algumas modos.}
-{132}{Gen_8}{Você e um forasteiro, mas eu espero que você aprenda nossos modos. Eu estarei observando. Agora, faca suas perguntas.}
+{131}{Gen_7}{Basta. Eu avisei os Elders que trazer pra dentro um forasteiro poderia ser problema. (gritando para o lado) Guardas! Há um Iniciado aqui que precisa de um pouco de tempo de silencio para descobrir algumas modos.}
+{132}{Gen_8}{Você é um forasteiro, mas eu espero que você aprenda nossos modos. Eu estarei observando. Agora, faca suas perguntas.}
 {133}{Gen_9}{Bom. Alguma coisa mais que você precise perguntar?}
 {134}{Gen_10}{Dentro das montanhas. Ele não pode ser mais especifico.}
 {135}{}{Muito ruim. Eu posso fazer a você mais algumas perguntas?}
 {136}{}{O que a respeito do norte?}
-{137}{}{Va em frente.}
+{137}{}{Vá em frente.}
 {138}{Gen_11a}{Sim, Fire away.}
 {139}{Gen_11b}{Com certeza.}
 {140}{Gen_11c}{Droga.}
-{141}{Gen_12}{Eu tenho um gut sentimento de que ha uma pequena forca no leste e
- uma muito maior no norte. Os Elders estao coletando poeira porque nenhum dos
+{141}{Gen_12}{Eu tenho um gut sentimento de que há uma pequena força no leste e
+ uma muito maior no norte. Os Elders estão coletando poeira porque nenhum dos
  patrulheiros retornou do norte. Eu não posso fazer nada alem de observar.}
 {142}{}{Bem, eu farei o que eu puder.}
 {143}{}{Por que você não faz alguma coisa?}
 {144}{}{Eu acho que eu estou a bit over my head. Me conte fora.}
-{145}{}{Eu tenho um pouco de informacao sobre isso.}
+{145}{}{Eu tenho um pouco de informação sobre isso.}
 {146}{Gen_13}{Bem os Mercadores do Hub nos disseram que um bando de caravanas desapareceu
- no caminho delas ao norte. Eu acho que ha um exercito nas montanhas, mas os Elders,
+ no caminho delas ao norte. Eu acho que há um exercito nas montanhas, mas os Elders,
  bem, eles não querem agir até que eles tenham certeza.}
 {147}{}{Por que elas desapareceram?}
-{148}{}{Você não e o Alto Elder? Por que você não faz alguma coisa?}
+{148}{}{Você não é o Alto Elder? Por que você não faz alguma coisa?}
 {149}{}{Você não fez nada?}
-{150}{}{Eu tenho um pouco de informacao sobre isso.}
+{150}{}{Eu tenho um pouco de informação sobre isso.}
 {151}{Gen_14}{A palavra que eu obtive era que as caravanas desapareceram ao redor do
  southern tip das montanhas ao leste. Eu imagino que os mercadores do Hub possam
  provavelmente dizer mais a você.}
 {152}{}{Obrigado. Eu tenho mais algumas perguntas, se isso estiver ok.}
 {153}{}{Obrigado. Eu falarei com você depois.}
-{154}{}{Eu tenho um pouco de informacao sobre isso.}
-{155}{Gen_15g}{Vejo você por ai, Iniciado. Você não e tao ruim...para um forasteiro.}
-{156}{Gen_15n}{Adeus, Iniciado.}
-{157}{Gen_15b}{Adeus!}
-{158}{Gen_16}{Eu cresci muito isolado aqui. Você consegue imaginar passar sua vida inteira dentro de um pequeno lugar e entao ter que sair no mundo?}
-{159}{}{Bem, como uma questao de fato . . .}
-{160}{}{Eu creio que eu estou destinado a ser seu/sua escoteiro entao.}
-{161}{}{Entao por que eles não sairam eu tenho que fazer seu trabalho sujo. Esqueca.}
-{162}{Gen_17}{Entao você entende o problema. Para sobreviver, nos precisamos de alguem que conheca o exterior. Como você.}
-{163}{}{Ok, Eu o farei.}
+{154}{}{Eu tenho um pouco de informação sobre isso.}
+{155}{Gen_15g}{Vejo você por ai, Iniciado. Você não é tão ruim...para um forasteiro.}
+{156}{Gen_15n}{Tchau, Iniciado.}
+{157}{Gen_15b}{Tchau!}
+{158}{Gen_16}{Eu cresci muito isolado aqui. Você consegue imaginar passar sua vida inteira dentro de um pequeno lugar e então ter que sair no mundo?}
+{159}{}{Bem, como uma questão de fato . . .}
+{160}{}{Eu creio que eu estou destinado a ser seu/sua escoteiro então.}
+{161}{}{Então por que eles não sairam eu tenho que fazer seu trabalho sujo. Esqueça.}
+{162}{Gen_17}{Então você entende o problema. Para sobreviver, nos precisamos de alguém que conheca o exterior. Como você.}
+{163}{}{Certo, Eu o farei.}
 {164}{}{Eu tenho meus proprios problemas. Eu passo.}
-{165}{Gen_18}{Bem . . . com o que eu creio que esta vindo, nos não temos tempo pra qualquer um
+{165}{Gen_18}{Bem . . . com o que eu creio que esta vindo, nós não temos tempo pra qualquer um
  que não vai . . . contribuir. Agora, ou você trabalha conosco, ou você take a hike.}
 {166}{}{Bem, se você poe desse modo, eu estou dentro.}
 {167}{}{Parece um dia bacana para um stroll.}
 {168}{Gen_19}{Sua escolha. Espero que você possa viver com ela.}
-{169}{Gen_20}{O que? E pelo que nos somos e pelo que nos vivemos. Sao os ideiais. Conforme você
+{169}{Gen_20}{O que? É pelo que nos somos e pelo que nos vivemos. Sao os ideiais. Conforme você
  passar mais tempo conosco, esperancosamente, você entendera.}
-{170}{}{Sim, mas o que voces realmente fazem?}
+{170}{}{Sim, mas o que vocês realmente fazem?}
 {171}{}{Eu não tenho muita certeza a respeito disto.}
 {172}{Gen_21}{Nosso objetivo principal e sobreviver. A copia dos planos antigos dos Escribas para armas ou design de novas armas, e os Cavaleiros fazem as armas deles. A maioria das armas vem de nos.}
 {173}{}{Você negocia as armas com o Hub?}
-{174}{}{Isso e tudo que voces fazem?}
-{175}{}{Faz sentido. Ha algumas outras coisas que eu preciso perguntar.}
+{174}{}{Isso e tudo que vocês fazem?}
+{175}{}{Faz sentido. Há algumas outras coisas que eu preciso perguntar.}
 {176}{Gen_22}{Esse e o modo pelo qual nos obtemos nossos suprimentos.}
-{177}{}{Ok, eu entendo.Ha algumas outras coisas que eu preciso perguntar.}
-{178}{}{Ok. Apesar disso, eu preciso ir agora.}
+{177}{}{Certo, eu entendo.Há algumas outras coisas que eu preciso perguntar.}
+{178}{}{Certo. Apesar disso, eu preciso ir agora.}
 {179}{}{Creio que eu não tenho muita certeza a respeito disto.}
-{180}{Gen_23}{Tudo? E importante pra caramba. E critico para a nossa sobrevivencia.}
+{180}{Gen_23}{Tudo? É importante pra caramba. É critico para a nossa sobrevivencia.}
 {181}{}{Que seja. Eu preciso fazer mais algumas perguntas.}
-{182}{}{Sim, bem, e estupido.}
-{183}{}{Ok, obrigado. Apesar disso, eu realmente deveria ir agora.}
-{184}{Gen_26}{Entao você precisa ter certeza. Porque estar na incerteza is bound to get you killed.}
+{182}{}{Sim, bem, e estúpido.}
+{183}{}{Certo, obrigado. Apesar disso, eu realmente deveria ir agora.}
+{184}{Gen_26}{Então você precisa ter certeza. Porque estar na incerteza is bound to get you killed.}
 {185}{}{O mais que eu souber, com mais certeza eu estarei.}
 {186}{Gen_28}{Olha, eu não tenho tempo para um estoria assim comprida agora. Aqui. Todos nos crescemos disto.}
-{187}{Gen_29n}{Ha rumores a respeito das caravanas desaparecidas no Hub, assim como de um estranho exercito brewing nas montanhas do leste.}
-{188}{}{Ok.}
+{187}{Gen_29n}{Há rumores a respeito das caravanas desaparecidas no Hub, assim como de um estranho exercito brewing nas montanhas do leste.}
+{188}{}{Certo.}
 {189}{}{Que exercito?}
 {190}{}{O que a respeito destas caravanas desaparecidas?}
-{191}{}{Eu tenho um pouco de informacao sobre isso.}
+{191}{}{Eu tenho um pouco de informação sobre isso.}
 {192}{Gen_29b}{Eu não tomo stock em rumores.}
-{193}{Gen_30}{Ahh . . . Ola de novo, Iniciado. As coisas estao indo bem?}
+{193}{Gen_30}{Ahh . . . Ola de novo, Iniciado. As coisas estão indo bem?}
 {194}{}{Muito bem. Eu posso fazer a você mais algumas perguntas?}
-{195}{}{Bem, realmente, e uma droga.}
+{195}{}{Bem, realmente, é uma droga.}
 {196}{}{Sim, obrigado, mas eu tenho que ir.}
-{197}{Gen_32}{Eu lamento que nos não somos o que você esta acostumado mas você poderia mostrar um pouco de auto-disciplina.}
+{197}{Gen_32}{Eu lamento que nós não somos o que você esta acostumado mas você poderia mostrar um pouco de auto-disciplina.}
 {198}{}{Lamento. Eu posso fazer a você mais algumas perguntas?}
-{199}{}{Por que? Este lugar e uma piada.}
+{199}{}{Por que? Este lugar é uma piada.}
 {200}{}{Eu tenho que ir. Tchau.}
 {201}{Gen_34}{O que diabos você quer saber agora?}
 {202}{}{Eu quero saber por que um idiota esta no comando aqui.}
 {203}{}{Eu preciso fazer mais algumas perguntas.}
-{204}{}{Deixa pra la, obrigado.}
+{204}{}{Deixa pra lá, obrigado.}
 {205}{Gen_35}{O que conseguiu?}
 {206}{}{Lamento, eu realmente não tenha nada.}
-{207}{}{As caravanas do Hub estao sendo tomadas por mutantes verdes, enormes. Eles estao juntando um exercito.}
-{208}{}{Ha um grande exercito ao norte controlado por alguem chamado o Mestre.}
+{207}{}{As caravanas do Hub estão sendo tomadas por mutantes verdes, enormes. Eles estão juntando um exercito.}
+{208}{}{Há um grande exercito ao norte controlado por alguém chamado o Mestre.}
 {209}{Gen_36}{Você viu eles? Isto poderia realmente fazer com que os Elders fizessem alguma coisa.
  I'm gonna get on this, obrigado!}
 {210}{Gen_38}{Uh . . . O que ele planeja fazer com este . . . exercito dele?}
 {211}{}{Ele planeja dominar a Irmandade, o Hub, Junktown . . . todo mundo.}
-{212}{}{Quanto você paga por esta informacao?}
-{213}{Gen_39}{Finalmente! Bem, isto fara com os Elders levantem as bundas deles. Nos fortificaremos a Fortaleza e surpreenderemos aqueles malditos mutantes.}
-{214}{}{Nao! Você não entende. Eles estao transformando pessoas em mutantes e adicionando elas ao exercito deles.}
-{215}{}{Ok.}
-{216}{Gen_40}{Entao?}
-{217}{}{Entao, na hora que eles chegarem até aqui, eles serao unstoppable. E eles tem armas avancadas, como as suas. Voces nam tem uma chance.}
+{212}{}{Quanto você paga por esta informação?}
+{213}{Gen_39}{Finalmente! Bem, isto fara com os Elders levantem as bundas deles. Nós fortificaremos a Fortaleza e surpreenderemos aqueles malditos mutantes.}
+{214}{}{Não! Você não entende. Eles estão transformando pessoas em mutantes e adicionando elas ao exercito deles.}
+{215}{}{Certo.}
+{216}{Gen_40}{Então?}
+{217}{}{Então, na hora que eles chegarem até aqui, eles serao unstoppable. É eles tem armas avancadas, como as suas. Vocês nam tem uma chance.}
 {218}{}{Bem, ok. Talvez escavar seja a coisa certa.}
-{219}{Gen_41}{Entao qual e a sua alternativa?}
+{219}{Gen_41}{Então qual é a sua alternativa?}
 {220}{}{Ajude-me a atacar a base do Mestre. Eu sei aonde ela esta.}
-{221}{Gen_42}{Hmmm. Nao e um plano ruim. Digo isto a você, deixe-me ir tentar e beat it into the Elders. Sem garantias, mas eu tentarei.}
-{222}{Gen_43}{Entao saia. Eu tenho trabalho pra fazer.}
+{221}{Gen_42}{Hmmm. Não e um plano ruim. Digo isto a você, deixe-me ir tentar e beat it into the Elders. Sem garantias, mas eu tentarei.}
+{222}{Gen_43}{Então saia. Eu tenho trabalho pra fazer.}
 {223}{Gen_44}{Conjunto bastante interessante de prioridades e lealdades você tem ai.}
 {224}{}{Leal para mim. 500 em scripts do Hub. Aceite ou saia.}
-{225}{}{Oh . . . sim. Ok, eu direi a você. Ele planeja dominar todos e tudo.}
-{226}{Gen_44a}{Eu aceitarei. Nos precisamos da informacao para salvar nossas vidas.}
+{225}{}{Ah . . . sim. Certo, eu direi a você. Ele planeja dominar todos e tudo.}
+{226}{Gen_44a}{Eu aceitarei. Nós precisamos da informação para salvar nossas vidas.}
 {227}{}{Bastante simples. Ele esta transformando os humanos em mutantes e ele tem armas avancadas. Ele planeja dominar tudo.}
 {228}{Gen_44b}{Bem, se ele o fizer, espero que você ache um lugar para usar seus scripts.}
 {229}{Gen_45}{Bem, que tal nada! Guardas, chutem este tolo para fora. Por Deus!
- Nos defenderemos a Irmandade sem sua maldita ajuda.}
+ Nós defenderemos a Irmandade sem sua maldita ajuda.}
 {230}{Gen_46}{O que você acha que você esta fazendo? Ponha isso pra baixo. Ponha pra baixo agora!}
 {231}{Gen_47}{Basta. Guardas! Leve este idiota embora!}
 {232}{Gen_48}{Ei, ei, ei, ei! Pare agora. Pare com isso. Pare agora mesmo!}
 {233}{Gen_49}{Como eu disse...}
 {234}{Gen_50}{Eu disse...}
-{235}{Gen_51}{Eu não estou com habito de repetir a mim mesmo. Entao abra seus ouvidos.}
-{236}{Gen_52}{Olha, eu já disse a você. Nao e minha culpa se você não entendeu.}
-{237}{Gen_52a}{Isso e aonde você esta. Você quer a versao longa? Va falar com a Vree.}
-{238}{Gen_52b}{Mathia e minha assistente.}
-{239}{Gen_53}{Oh, ele e um bom garoto, mesmo se ele quer ser um escriba.}
-{240}{Gen_54}{Vree e a escriba chefe. Ela esta geralmente na biblioteca, ela sempre gosta de falar.}
-{241}{Gen_55}{Nos mantemos as especificacoes das armas e historico la.}
+{235}{Gen_51}{Eu não estou com habito de repetir a mim mesmo. Então abra seus ouvidos.}
+{236}{Gen_52}{Olha, eu já disse a você. Não é minha culpa se você não entendeu.}
+{237}{Gen_52a}{Isso e aonde você esta. Você quer a versao longa? Vá falar com a Vree.}
+{238}{Gen_52b}{Mathia é minha assistente.}
+{239}{Gen_53}{Ah, ele e um bom garoto, mesmo se ele quer ser um escriba.}
+{240}{Gen_54}{Vree é a escriba chefe. Ela esta geralmente na biblioteca, ela sempre gosta de falar.}
+{241}{Gen_55}{Nós mantemos as especificações das armas e historico lá.}
 {242}{Gen_56}{Rhombo esteve por aqui um longo tempo. Um pouco stiff, mas um soldado helluva.}
-{243}{Gen_58}{Hehehe. Um bom, bonito, upstanding homem. A posição do Elder Supremo e mediar nas reunioes entre os Elders. Você ve, vinte anos atras eu fui falado nela. Se eu tivesse sabido entao...}
-{244}{Gen_59}{Bem você ve que ha quatro deles e isso e tudo em que eles conseguem concordar. Eles não conseguem nem ao menos concordar se eles querem mijar, muito menos pegar um pote aonde mijar.}
-{245}{Gen_60}{Bem, isso e o que você e. Iniciados treinam e aprendem a se tornar cavaleiros ou escribas.}
-{246}{Gen_61}{Bem, escribas copiam as especificacoes das armas. Nos obtivemos informacao de todo o caminho
- de volta até o meu avo. As vezes um escriba vem com uma nova ideia para uma arma. Hehehe. Nao acontece
+{243}{Gen_58}{Hehehe. Um bom, bonito, upstanding homem. A posição do Elder Supremo e mediar nas reunioes entre os Elders. Você vê, vinte anos atras eu fui falado nela. Se eu tivesse sabido então...}
+{244}{Gen_59}{Bem você vê que há quatro deles e isso e tudo em que eles conseguem concordar. Eles não conseguem nem ao menos concordar se eles querem mijar, muito menos pegar um pote aonde mijar.}
+{245}{Gen_60}{Bem, isso e o que você é. Iniciados treinam e aprendem a se tornar cavaleiros ou escribas.}
+{246}{Gen_61}{Bem, escribas copiam as especificações das armas. Nós obtivemos informação de todo o caminho
+ de volta até o meu avo. As vezes um escriba vem com uma nova ideia para uma arma. Hehehe. Não acontece
  muito frequentemente. Eles todos respondem a Vree.}
-{247}{Gen_62}{Os cavaleiros fazem as armas. E quando ele e bom o bastante, um cavaleiro pode avancar para se tornar um Paladino e entao um Elder e assim por diante. Agora mesmo Rhombus e o chefe dos cavaleiros.}
-{248}{Gen_63}{Os paladinos estao no comando de toda a seguranca e atividades no lado de fora. Eu me lembro de negociar com o Hub, ir em missoes de patrulhamento para os Elders. Ah cara, esses foram bons tempos.}
-{249}{Gen_64}{O Hub e pra baixo a sudeste. Eles negociam conosco comida e coisas para as armas que nos fazemos aqui. Agora se você for la embaixo, fale com o Butch Harris.}
-{250}{Gen_65}{Butch e o cabeca dos Far Go Traders. Ele e um pouco escorregadio, mas ele não e um total desperdicio. Ao contrario daqueles Mercadores da Agua. Bando de malditos abutres, todos eles.}
-{251}{Gen_66}{Eles são os principais com quem nos negociamos. Nao totalmente confiaveis, mas não tao ruins quanto os outros.}
-{252}{Gen_67}{Você não pode confiar neles. Alguns anos atras, eles nos ofereceram agua por um enorme stockpile de armas. Nos dissemos não pra eles, e você o que eles fizeram? Enviaram ladroes pra roubar as armas! Nos pegamos eles, mas os Elders votaram pra não irmos ao Hub pra ensinar um licao para aqueles mercadores.}
-{253}{Gen_68}{Holo discos? Hmm? Eu não vi esses já ha algum tempo.}
+{247}{Gen_62}{Os cavaleiros fazem as armas. É quando ele e bom o bastante, um cavaleiro pode avancar para se tornar um Paladino e então um Elder e assim por diante. Agora mesmo Rhombus e o chefe dos cavaleiros.}
+{248}{Gen_63}{Os paladinos estão no comando de toda a seguranca e atividades lá fora. Eu me lembro de negociar com o Hub, ir em missoes de patrulhamento para os Elders. Ah cara, esses foram bons tempos.}
+{249}{Gen_64}{O Hub e pra baixo a sudeste. Eles negociam conosco comida e coisas para as armas que nos fazemos aqui. Agora se você for lá embaixo, fale com o Butch Harris.}
+{250}{Gen_65}{Butch e o cabeca dos Far Go Traders. Ele e um pouco escorregadio, mas ele não é um total desperdicio. Ao contrario daqueles Mercadores da Agua. Bando de malditos abutres, todos eles.}
+{251}{Gen_66}{Eles são os principais com quem nos negociamos. Não totalmente confiaveis, mas não tão ruins quanto os outros.}
+{252}{Gen_67}{Você não pode confiar neles. Alguns anos atras, eles nos ofereceram água por um enorme stockpile de armas. Nós dissemos não pra eles, e você o que eles fizeram? Enviaram ladroes pra roubar as armas! Nós pegamos eles, mas os Elders votaram pra não irmos ao Hub pra ensinar um licao para aqueles mercadores.}
+{253}{Gen_68}{Holo discos? Hmm? Eu não vi esses já há algum tempo.}
 {254}{Gen_69}{Vree o tem em algum lugar na biblioteca.}
 {255}{Gen_70}{Roger Maxson huh? Bem, ele liderou nosso povo aqui no grande Êxodo, fundou a Irmandade do rascunho. Realmente um lider.}
 {256}{Gen_71}{Bem, isso foi quando meu avo, Roger Maxson, liderou seus soldados aqui e fundou a Irmandade. Ele nunca mencionou de onde eles vieram, mas não importa realmente, porque...bem, este e o nosso lar agora.}
-{257}{Gen_72}{Bem eu acredito que ha um exercito se juntando ao norte e nas montanhas a leste, mas eu não tenho qualquer meio de provar. Os Elders, eles jamais me escutarao.}
+{257}{Gen_72}{Bem eu acredito que há um exercito se juntando ao norte e nas montanhas a leste, mas eu não tenho qualquer meio de provar. Os Elders, eles jamais me escutarao.}
 {258}{Gen_73}{Um bando de loucos religiosos, se você me pergunta. Eu acho que a igreja principal deles esta na Boneyard.}
-{259}{Gen_75}{Bem, eu não sei muito. Ha um bando de gangues por la, bem como em Adytum e as Crianças da Catedral. Nao muito mais. E bastante desolador.}
-{260}{Gen_76}{Bem, não ha muito a dizer. Eu nunca fui de encontro a qualquer deles. Apesar disso, eu ouvi que eles são um problema para o povo de Adytum.}
-{261}{Gen_77}{Isso e uma colonizacao abaixo na Boneyard. Eu fui la...oh...ha muito tempo atras. Eu estava numa missao de patrulhamento para os Elders.}
-{262}{Gen_78}{Oh. Apenas outro rumor estupido. Algumas pessoas dizem que e um monstro de caninos enormes e outros dizem que e um vampiro.}
-{263}{Gen_79}{Oh, eu não sei nada sobre isso.}
-{264}{Gen_80}{O que foi isso? Nao. Eu não acredito que eu já ouvi dele.}
+{259}{Gen_75}{Bem, eu não sei muito. Há um bando de gangues por lá, bem como em Adytum e as Crianças da Catedral. Não muito mais. É bastante desolador.}
+{260}{Gen_76}{Bem, não há muito a dizer. Eu nunca fui de encontro a qualquer deles. Apesar disso, eu ouvi que eles são um problema para o povo de Adytum.}
+{261}{Gen_77}{Isso é uma colonizacao abaixo na Boneyard. Eu fui lá...oh...há muito tempo atras. Eu estava numa missao de patrulhamento para os Elders.}
+{262}{Gen_78}{Ah. Apenas outro rumor estúpido. Algumas pessoas dizem que é um monstro de caninos enormes e outros dizem que é um vampiro.}
+{263}{Gen_79}{Ah, eu não sei nada sobre isso.}
+{264}{Gen_80}{O que foi isso? Não. Eu não acredito que eu já ouvi dele.}
 {265}{Gen_81a}{Diabos se eu sei.}
-{266}{}{Surpreso em me ver? E deixar você terem toda a diversao?}
+{266}{}{Surpreso em me ver? É deixar você terem toda a diversão?}
 {267}{}{Como você convenceu os Elders?}
-{268}{Gen_82a}{Oh, não foi dificil de modo algum. Eu apenas calmamente expliquei a situacao. E bingo, aqui nos estamos. Lidere, meu amigo.}
+{268}{Gen_82a}{Ah, não foi difícil de modo algum. Eu apenas calmamente expliquei a situacao. É bingo, aqui nos estamos. Lidere, meu amigo.}
 {269}{Gen_83}{O que você esta fazendo aqui? Isto e para os Elders.}
 {270}{}{Lamento, eu sairei.}
 {271}{}{Eu não me importo, eu fico.}
 {272}{Gen_84}{Boa, agora feche a porta no caminho para sair.}
 {273}{Gen_84a}{Eu estou dizendo a você, não interfira.}
-{274}{Gen_85}{Ha! Você esqueceu. Eu costumava ensinar esta coisa.}
-{275}{Gen_86}{Ao contrario da opiniao, nos não queremos soldados com nenhum cerebro whatsoever.}
+{274}{Gen_85}{Há! Você esqueceu. Eu costumava ensinar esta coisa.}
+{275}{Gen_86}{Ao contrario da opiniao, nós não queremos soldados com nenhum cerebro whatsoever.}
 {276}{Gen_87}{Bem, eu sugiro que você fale com minha assistente, Mathia, sobre isso.}
 
 
-{300}{}{Talvez você possa me dizer? Todos aqui parecem estar no limite. E como você
- estar ficando pronto pra ir pra guerra, mas ninguem sabe com quem.}
+{300}{}{Talvez você possa me dizer? Todos aqui parecem estar no limite. É como você
+ estar ficando pronto pra ir pra guerra, mas ninguém sabe com quem.}
 {301}{}{Você tem quaisquer pistas para o que esta atras dos desaparecimentos das caravanas?}
-{302}{}{Eu irei patrulhar a area ao norte e entao relatar o que eu achar.}
-{303}{}{Por 500 tampinhas, eu verificarei o que esta acontecendo la.}
+{302}{}{Eu irei patrulhar a area ao norte e então relatar o que eu achar.}
+{303}{}{Por 500 tampinhas, eu verificarei o que esta acontecendo lá.}
 {304}{}{Por 1000 tampinhas, eu verificarei o que esta acontecendo acima no norte.}
 {305}{}{Eu não tenho certeza se eu quero estar envolvido agora.}
-{306}{}{Seria possivel para mim obter a hold de algumas armas melhores?}
+{306}{}{Seria possível para mim obter a hold de algumas armas melhores?}
 {307}{}{Apenas algumas perguntas primeiro.}
-{308}{}{Nao, eu verei você apos eu descobrir o que esta acontecendo la em cima.}
-{309}{}{Ok, tchau.}
+{308}{}{Não, eu verei você apos eu descobrir o que esta acontecendo lá em cima.}
+{309}{}{Certo, tchau.}
 {310}{}{Como você sabe que suas patrulhas não desertaram?}
 {311}{}{Eu acredito que eu topei com estas criaturas que você esta descrevendo. Elas não
  devem ser tomadas lightly.}
-{312}{}{Por favor me perdoe. O que você acha que e a causa dos desaparecimentos?}
-{313}{}{Va em frente. Revogue-a. Veja se eu me importo.}
-{314}{}{Lamento, mas seria muito arriscado para mim subir la agora.}
+{312}{}{Por favor me perdoe. O que você acha que é a causa dos desaparecimentos?}
+{313}{}{Vá em frente. Revogue-a. Veja se eu me importo.}
+{314}{}{Lamento, mas seria muito arriscado para mim subir lá agora.}
 {315}{}{Tudo certo, eu irei, mas eu posso obter algumas armas melhores primeiro?}
-{316}{}{Ok, Eu o farei por 1000 tampinhas.}
+{316}{}{Certo, Eu o farei por 1000 tampinhas.}
 {317}{}{Aceite ou saia.}
-{318}{}{Deixa pra la.}
-{319}{}{Ok, Ok, Eu o farei de graca.}
+{318}{}{Deixa pra lá.}
+{319}{}{Certo, Certo, Eu o farei de graca.}
 {320}{}{Muito bem, eu verei você quando eu voltar.}
-{321}{}{Eu achei a prova de que e este exercito o qual esta causando o desaparecimento das
- caravanas. E um exercito de mutantes. Você tem uma boa razao pra estar preocupado. Eles
+{321}{}{Eu achei a prova de que é este exercito o qual esta causando o desaparecimento das
+ caravanas. É um exercito de mutantes. Você tem uma boa razão pra estar preocupado. Eles
  parecem muito formidaveis.}
-{322}{}{E aparente que alguem precisa ir la subir la e verificar.}
+{322}{}{É aparente que alguém precisa ir lá subir lá e verificar.}
 {323}{}{Vai exigir mais do que um "gut feeling" pra me fazer arriscar minha vida
- indo la em cima.}
+ indo lá em cima.}
 {324}{}{Eu considero minha vida ser uma prioridade fairly importante.}
 {325}{}{Eu apenas não acho que eu estou pronto para a tarefa.}
 {326}{}{Eu sou leal a apenas uma pessoa.}
 {327}{}{Eu posso.}
 {328}{}{Duh?}
-{329}{}{Por que parece que todos aqui estao no limite? Todos aqui estao no limite. E como se você
- estivesse se preparando pra ir pra guerra, mas ninguem sabae com quem.}
+{329}{}{Por que parece que todos aqui estão no limite? Todos aqui estão no limite. É como se você
+ estivesse se preparando pra ir pra guerra, mas ninguém sabae com quem.}
 {330}{}{Eu preciso falar com você sobre os desaparecimentos das caravanas. Você tem qualquer
  insight sobre o assunto?}
-{331}{}{Deixa pra la.}
+{331}{}{Deixa pra lá.}
 {332}{}{Eu preciso fazer algumas perguntas pra você.}
 {333}{}{Duh?}
-{334}{}{Eu tenho um pouco de informacao sobre a area ao norte daqui.}
+{334}{}{Eu tenho um pouco de informação sobre a area ao norte daqui.}
 {335}{}{Eu posso fazer a você algumas perguntas?}
-{336}{}{Deixa pra la.}
+{336}{}{Deixa pra lá.}
 {337}{}{Lamento, eu não tinha realmente nada.}
 {338}{}{Eu vi a base deles. Esta infestada com mutantes.}
 {339}{}{Eu vi a base mutante ao norte. Eles seguem um lider que eles chamam de o Mestre.}
 {340}{}{Você não pode brincar de defesa com isto Maxson.}
 {341}{}{Bem, e obvio que algo precisa ser feito. Seria melhor se nos atacassemos os mutantes
- antes que eles nos ataquem. Nos vamos precisar dos Elders no nosso lado pra isto.}
+ antes que eles nos ataquem. Nós vamos precisar dos Elders no nosso lado pra isto.}
 {342}{}{Eu não estou bem certo do que nos devemos fazer agora. Deixe-me juntar um pouco
- mais de informacao, e eu entrarei com contato com você.}
-{343}{}{Ele planeja dominar quaisquer colonizacoes humanas que ele puder.}
+ mais de informação, e eu entrarei com contato com você.}
+{343}{}{Ele planeja dominar quaisquer colonizações humanas que ele puder.}
 {344}{}{O que você pode me dizer sobre a historia da Irmandade?}
-{345}{}{Qual e o proposito principal da Irmandade?}
+{345}{}{Qual e o propósito principal da Irmandade?}
 {346}{}{Quem são os Elders?}
 {347}{}{Você sabe qualquer coisa a respeito do deathclaw?}
-{348}{}{Deixa pra la.}
+{348}{}{Deixa pra lá.}
 {349}{}{Eu posso fazer outra pergunta pra você?}
 {350}{}{Obrigado.}
 {351}{}{Você ganha }
@@ -275,25 +275,25 @@
 #
 
 {353}{Gen_3}{Um Iniciado não nascido aqui. Você e o primeiro forasteiro que nos deixamos entrar
- ha muito, muito tempo. Bem, perto de vinte anos agora.}
-{354}{Gen_3}{Uma Iniciada não nascida aqui. Você e a primeira forasteira que nos deixamos entrar
- ha muito, muito tempo. Bem, perto de vinte anos agora.}
+ há muito, muito tempo. Bem, perto de vinte anos agora.}
+{354}{Gen_3}{Uma Iniciada não nascida aqui. Você é a primeira forasteira que nos deixamos entrar
+ há muito, muito tempo. Bem, perto de vinte anos agora.}
 {355}{Gen_6}{Eles podem ou não podem ser bons patrulheiros, mas não questione
- a veracidade dos meus homens. Nos podemos revogar seu status de Iniciado a qualquer hora.}
+ a veracidade dos meus homens. Nós podemos revogar seu status de Iniciado a qualquer hora.}
 {356}{Gen_6}{Elas podem ou não podem ser boas patrulheiras, mas não questione a veracidade
- das minhas mulheres. Nos podemos revogar seu status de Iniciada a qualquer hora.}
-{357}{Gen_15n}{Adeus, Iniciado.}
-{358}{Gen_15n}{Adeus, Iniciada.}
-{359}{Gen_30}{Ahh . . . Ola de novo, Iniciado. As coisas estao indo bem?}
-{360}{Gen_30}{Ahh . . . Ola de novo, Iniciada. As coisas estao indo bem?}
+ das minhas mulheres. Nós podemos revogar seu status de Iniciada a qualquer hora.}
+{357}{Gen_15n}{Tchau, Iniciado.}
+{358}{Gen_15n}{Tchau, Iniciada.}
+{359}{Gen_30}{Ahh . . . Ola de novo, Iniciado. As coisas estão indo bem?}
+{360}{Gen_30}{Ahh . . . Ola de novo, Iniciada. As coisas estão indo bem?}
 
 {400}{}{Eu já estive na base mutante no norte. Vamos apenas dizer que eles não são
  mais uma ameaca.}
 
 
 # General Maxson Tell-Me-Abouts generic responses
-{980}{Gen_79}{Oh, eu não sei nada sobre isso.}
-{981}{Gen_80}{O que foi isso? Nao. Eu não acredito que eu já ouvi a respeito.}
+{980}{Gen_79}{Ah, eu não sei nada sobre isso.}
+{981}{Gen_80}{O que foi isso? Não. Eu não acredito que eu já ouvi a respeito.}
 {982}{Gen_81a}{Diabos se eu sei.}
 
 #
@@ -336,39 +336,39 @@
 {1032}{}{Caravanas}
 {1033}{}{Chip}
 
-{1100}{Gen_52a}{Isso e aonde você esta. Você quer a versao longa? Va falar com a Vree.}
-{1101}{Gen_52b}{Mathia e minha assistente.}
-{1102}{Gen_53}{Oh, ele e um bom garoto, mesmo se ele quer ser um escriba.}
-{1103}{Gen_54}{Vree e a escriba chefe. Ela esta geralmente na biblioteca, ela sempre gosta de falar.}
-{1104}{Gen_55}{Nos mantemos as especificacoes das armas e historicos la.}
+{1100}{Gen_52a}{Isso e aonde você esta. Você quer a versao longa? Vá falar com a Vree.}
+{1101}{Gen_52b}{Mathia é minha assistente.}
+{1102}{Gen_53}{Ah, ele e um bom garoto, mesmo se ele quer ser um escriba.}
+{1103}{Gen_54}{Vree é a escriba chefe. Ela esta geralmente na biblioteca, ela sempre gosta de falar.}
+{1104}{Gen_55}{Nós mantemos as especificações das armas e historicos lá.}
 {1105}{Gen_56}{Rhombo tem estado aqui por muito tempo. Um pouco stiff, mas um soldado helluva.}
-{1106}{Gen_58}{Hehehe. Um homem bom, bonito, upstanding. A posição do Elder Supremo e mediar as reunioes entre os Elders. Você entende, ha vinte anos atras eu fui falado nela. Se eu tivesse sabido entao...}
-{1107}{Gen_59}{Bem você ve que ha quatro deles e isso e tudo em que eles conseguem concordar. Eles não conseguem nem ao menos concordar se eles querem mijar, muito menos pegar um pote aonde mijar.}
-{1108}{Gen_60}{Bem, isso e o que você e. Iniciados treinam e aprendem a se tornar cavaleiros ou escribas.}
-{1109}{Gen_61}{Bem, escribas copiam as especificacoes das armas. Nos obtivemos informacao de todo o caminho
- de volta até o meu avo. As vezes um escriba vem com uma nova ideia para uma arma. Hehehe. Nao acontece muito
+{1106}{Gen_58}{Hehehe. Um homem bom, bonito, upstanding. A posição do Elder Supremo e mediar as reunioes entre os Elders. Você entende, há vinte anos atras eu fui falado nela. Se eu tivesse sabido então...}
+{1107}{Gen_59}{Bem você vê que há quatro deles e isso e tudo em que eles conseguem concordar. Eles não conseguem nem ao menos concordar se eles querem mijar, muito menos pegar um pote aonde mijar.}
+{1108}{Gen_60}{Bem, isso e o que você é. Iniciados treinam e aprendem a se tornar cavaleiros ou escribas.}
+{1109}{Gen_61}{Bem, escribas copiam as especificações das armas. Nós obtivemos informação de todo o caminho
+ de volta até o meu avo. As vezes um escriba vem com uma nova ideia para uma arma. Hehehe. Não acontece muito
  frequentemente. Eles todos respondem a Vree.}
-{1110}{Gen_62}{Os cavaleiros fazem as armas. E quando ele e bom o bastante, um cavaleiro pode avancar para se tornar um Paladino e entao um Elder e assim por diante. Agora mesmo Rhombus e o chefe dos cavaleiros.}
-{1111}{Gen_63}{Os paladinos estao no comando de toda a seguranca e atividades no lado de fora. Eu me lembro de negociar com o Hub, ir em missoes de patrulhamento para os Elders. Ah cara, esses foram bons tempos.}
-{1112}{Gen_64}{O Hub e pra baixo a sudeste. Eles negociam conosco comida e coisas para as armas que nos fazemos aqui. Agora se você for la embaixo, fale com o Butch Harris.}
-{1113}{Gen_65}{Butch e o cabeca dos Far Go Traders. Ele e um pouco escorregadio, mas ele não e um total desperdicio. Ao contrario daqueles Mercadores da Agua. Bando de malditos abutres, todos eles.}
-{1114}{Gen_66}{Eles são os principais com quem nos negociamos. Nao totalmente confiaveis, mas não tao ruins quanto os outros.}
-{1115}{Gen_67}{Você quer ouvir sobre os Mercadores da Agua. Hehehe, bem você não pode confiar neles. Alguns anos atras eles nos ofereceram agua por uma enorme pilha de arma. Nos dissemos não pra eles, e você sabe o que eles fizeram? Enviaram ladroes para roubar as armas.! Nos pegamos eles mas os Elders votaram contra para ir ao Hub para ensinar aos mercadores uma licao.}
-{1116}{Gen_68}{Holo discos? Hmm? Eu não vi esses já ha algum tempo.}
+{1110}{Gen_62}{Os cavaleiros fazem as armas. É quando ele e bom o bastante, um cavaleiro pode avancar para se tornar um Paladino e então um Elder e assim por diante. Agora mesmo Rhombus e o chefe dos cavaleiros.}
+{1111}{Gen_63}{Os paladinos estão no comando de toda a seguranca e atividades lá fora. Eu me lembro de negociar com o Hub, ir em missoes de patrulhamento para os Elders. Ah cara, esses foram bons tempos.}
+{1112}{Gen_64}{O Hub e pra baixo a sudeste. Eles negociam conosco comida e coisas para as armas que nos fazemos aqui. Agora se você for lá embaixo, fale com o Butch Harris.}
+{1113}{Gen_65}{Butch e o cabeca dos Far Go Traders. Ele e um pouco escorregadio, mas ele não é um total desperdicio. Ao contrario daqueles Mercadores da Agua. Bando de malditos abutres, todos eles.}
+{1114}{Gen_66}{Eles são os principais com quem nos negociamos. Não totalmente confiaveis, mas não tão ruins quanto os outros.}
+{1115}{Gen_67}{Você quer ouvir sobre os Mercadores da Agua. Hehehe, bem você não pode confiar neles. Alguns anos atras eles nos ofereceram água por uma enorme pilha de arma. Nós dissemos não pra eles, e você sabe o que eles fizeram? Enviaram ladroes para roubar as armas.! Nós pegamos eles mas os Elders votaram contra para ir ao Hub para ensinar aos mercadores uma licao.}
+{1116}{Gen_68}{Holo discos? Hmm? Eu não vi esses já há algum tempo.}
 {1117}{Gen_69}{Vree o tem em algum lugar na biblioteca.}
 {1118}{Gen_70}{Roger Maxson huh? Bem, ele liderou nosso povo aqui no grande Êxodo, fundou a Irmandade do rascunho. Realmente um lider.}
 {1119}{Gen_71}{Bem, isso foi quando meu avo, Roger Maxson, liderou seus soldados aqui e fundou a Irmandade. Ele nunca mencionou de onde eles vieram, mas não importa realmente, porque...bem, este e o nosso lar agora.}
-{1120}{Gen_72}{Bem eu acredito que ha um exercito se juntando ao norte e nas montanhas a leste, mas eu não tenho qualquer meio de provar. Os Elders, eles jamais me escutarao.}
+{1120}{Gen_72}{Bem eu acredito que há um exercito se juntando ao norte e nas montanhas a leste, mas eu não tenho qualquer meio de provar. Os Elders, eles jamais me escutarao.}
 {1121}{Gen_73}{Um bando de loucos religiosos, se você me perguntar. Eu acho que a igreja principal deles esta na Boneyard.}
-{1122}{Gen_75}{Bem, eu não sei muito. Ha um bando de gangues por la, bem como em Adytum e as Crianças da Catedral. Nao muito mais. E bastante desolador.}
-{1123}{Gen_76}{Bem, não ha muito a dizer. Eu nunca fui de encontro a qualquer deles. Apesar disso, eu ouvi que eles são um problema para o povo de Adytum.}
-{1124}{Gen_77}{Isso e uma colonizacao abaixo na Boneyard. Eu fui la...oh...ha muito tempo atras. Eu estava numa missao de patrulhamento para os Elders.}
-{1125}{Gen_78}{Oh. Apenas outro rumor estupido. Algumas pessoas dizem que e um monstro de caninos enormes e outros dizem que e um vampiro.}
-{1126}{Gen_65}{Butch e o cabeca dos Far Go Traders. Ele e um pouco escorregadio, mas ele não e um total desperdicio. Ao contrario daqueles Mercadores da Agua. Bando de malditos abutres, todos eles.}
+{1122}{Gen_75}{Bem, eu não sei muito. Há um bando de gangues por lá, bem como em Adytum e as Crianças da Catedral. Não muito mais. É bastante desolador.}
+{1123}{Gen_76}{Bem, não há muito a dizer. Eu nunca fui de encontro a qualquer deles. Apesar disso, eu ouvi que eles são um problema para o povo de Adytum.}
+{1124}{Gen_77}{Isso é uma colonizacao abaixo na Boneyard. Eu fui lá...oh...há muito tempo atras. Eu estava numa missao de patrulhamento para os Elders.}
+{1125}{Gen_78}{Ah. Apenas outro rumor estúpido. Algumas pessoas dizem que é um monstro de caninos enormes e outros dizem que é um vampiro.}
+{1126}{Gen_65}{Butch e o cabeca dos Far Go Traders. Ele e um pouco escorregadio, mas ele não é um total desperdicio. Ao contrario daqueles Mercadores da Agua. Bando de malditos abutres, todos eles.}
 {1127}{Gen_70}{Roger Maxson huh? Bem, ele liderou nosso povo aqui no grande Êxodo, fundou a Irmandade do rascunho. Realmente um lider.}
-{1128}{Gen_75}{Bem, eu não sei muito. Ha um bando de gangues por la, bem como em Adytum e as Crianças da Catedral. Nao muito mais. E bastante desolador.}
-{1129}{Gen_75}{Bem, eu não sei muito. Ha um bando de gangues por la, bem como em Adytum e as Crianças da Catedral. Nao muito mais. E bastante desolador.}
-{1130}{Gen_80}{O que foi isso? Nao. Eu não acredito que eu já ouvi dele.}
+{1128}{Gen_75}{Bem, eu não sei muito. Há um bando de gangues por lá, bem como em Adytum e as Crianças da Catedral. Não muito mais. É bastante desolador.}
+{1129}{Gen_75}{Bem, eu não sei muito. Há um bando de gangues por lá, bem como em Adytum e as Crianças da Catedral. Não muito mais. É bastante desolador.}
+{1130}{Gen_80}{O que foi isso? Não. Eu não acredito que eu já ouvi dele.}
 {1131}{Gen_71}{Bem, isso foi quando meu avo, Roger Maxson, liderou seus soldados aqui e fundou a Irmandade. Ele nunca mencionou de onde eles vieram, mas não importa realmente, porque...bem, este e o nosso lar agora.}
-{1132}{Gen_65}{Butch e o cabeca dos Far Go Traders. Ele e um pouco escorregadio, mas ele não e um total desperdicio. Ao contrario daqueles Mercadores da Agua. Bando de malditos abutres, todos eles.}
+{1132}{Gen_65}{Butch e o cabeca dos Far Go Traders. Ele e um pouco escorregadio, mas ele não é um total desperdicio. Ao contrario daqueles Mercadores da Agua. Bando de malditos abutres, todos eles.}
 {1133}{Gen_81a}{Diabos se eu sei.}

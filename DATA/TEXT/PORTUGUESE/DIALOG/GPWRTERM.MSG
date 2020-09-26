@@ -147,7 +147,7 @@ the Advanced Weapons Research and the Biomedical Sciences divisions.}
  biological weapons, the United States government felt that a countermeasure was needed. The
  Pan-Immunity Virion Project (PVP) was officially formed September 15, 2073. }
 {233}{}{2075. It became clear that the best way to combat the newly created
- biological weapons was to alter uninfected DNA so that it was no longer susceptible to standard
+ biological weapons was to alter uninfected DNA só that it was no longer susceptible to standard
  viral infection.}
 {234}{}{2076. Unforseen side effects began surfacing in early 2076 with the
  PVP. Animal test subjects began showing an abnormal growth rate accompanied by increased brain

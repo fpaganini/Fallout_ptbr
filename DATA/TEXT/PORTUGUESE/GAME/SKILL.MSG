@@ -33,7 +33,7 @@
 {205}{}{A técnica de armas de alcance impelidas pelos músculos. Facas de arremesso, lanças e granadas.}
 {206}{}{Tecnica de cura em geral. Usada pra curar pequenos cortes, abrasões e outras pequenas aflições. Em termos do jogo, o uso de primeiros socorros pode curar mais pontos de dano com o tempo do que apenas descansar.}
 {207}{}{A cura de feridas maiores e membros incapacitados. Sem esta técnica, levara um período muito maior de tempo para restaurar os membros incapacitados para o uso.}
-{208}{}{Movimentação discreta e a habilidade de permanecer não notado. Se bem sucedido, será muito mais difícil de localizarem você. Você não pode correr e andar furtivamente ao mesmo tempo.}
+{208}{}{Movimentação discreta é a habilidade de permanecer não notado. Se bem sucedido, será muito mais difícil de localizarem você. Você não pode correr e andar furtivamente ao mesmo tempo.}
 {209}{}{A técnica de abrir trancas sem a chave apropriada. O uso de gazuas ou gazuas eletronicas elevara drasticamente esta técnica.}
 {210}{}{A habilidade de fazer das coisas dos outros, as suas próprias. Pode ser usada para roubar de pessoas ou lugares.}
 {211}{}{A descoberta e remoção de armadilhas. Também a configuração de explosivos para propósito de demolição.}
@@ -42,7 +42,7 @@
 {214}{}{A habilidade para se comunicar de uma maneira pratica e eficiente. A técnica de convencer os outros que o seu ponto de vista é a correta. A habilidade de mentir e não ser pego.}
 {215}{}{Comercio e tarefas relacionadas a negociar. A habilidade de obter os melhores preços para os itens que você vende e menores preços para os itens que você compra.}
 {216}{}{As técnicas de conhecimento e pratica relacionadas as apostas. A técnica em cartas, dados e outros jogos.}
-{217}{}{Conhecimento pratico do ar livre e a habilidade de viver as custas da terra. O conhecimento de plantas e animais.}
+{217}{}{Conhecimento pratico do ar livre é a habilidade de viver as custas da terra. O conhecimento de plantas e animais.}
 #
 #   SKILL ATTRIBUTES
 #

@@ -1,6 +1,6 @@
-{100}{}{Você ve Barry enraivecido!}
-{101}{}{Você ve o Barry.}
-{102}{}{Ei! Apenas os ghouls obtem uma racao de agua.}
+{100}{}{Você vê Barry enraivecido!}
+{101}{}{Você vê o Barry.}
+{102}{}{Ei! Apenas os ghouls obtem uma racao de água.}
 {103}{}{Eu vou pegar você por me acordar!}
 {104}{}{O mutante ignora você.}
 
@@ -15,7 +15,7 @@
 
 {1100}{}{Eu não sei.}
 {1101}{}{Você esta de pe nela.}
-{1102}{}{Ele e uma bicha. Nos deveriamos simplesmente eliminar ele e seus ghouls.}
+{1102}{}{Ele é uma bicha. Nós deveriamos simplesmente eliminar ele e seus ghouls.}
 {1103}{}{Isso e aqui.}
 {1104}{}{Eu não sei.}
 {1105}{}{Ele chefe do Harry.}

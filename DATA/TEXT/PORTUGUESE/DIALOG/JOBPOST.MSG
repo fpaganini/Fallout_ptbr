@@ -1,4 +1,4 @@
-{100}{}{Você ve o quadro dos postos de trabalho}
+{100}{}{Você vê o quadro dos postos de trabalho}
 {101}{}{TRABALHOS! Você precisa trabalhar? Você precisa de dinheiro? OLHE AQUI!}
 {102}{}{Por favor não ponha mensagens duplicadas.  -Xerife Greene.}
 {103}{}{1       Caravana Desaparecida! Recompensa!}

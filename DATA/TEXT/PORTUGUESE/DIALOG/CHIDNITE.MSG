@@ -8,7 +8,7 @@
 {105}{}{Você poderia me indicar o responsável?}
 {106}{}{Cara, você poderia usar uma bebida pior que eu!}
 {107}{}{Eu não vou sair!}
-{108}{}{Ok. Eu saio.}
+{108}{}{Certo. Eu saio.}
 {109}{}{Não é prudente jogar com o Nightkin. Saia daqui!}
 {110}{}{Eu não penso assim}
 {111}{}{Eu vou gostar de ver você morrer!}
@@ -23,6 +23,6 @@
 {120}{}{Este é seu último aviso!}
 {121}{}{Claro que é! Grande negócio . . .}
 {122}{}{Eu REALMENTE preciso falar com o cara no comando!}
-{123}{}{Ok! OK! Eu sinto Muito! Tenha um bom dia.}
+{123}{}{Certo! OK! Eu sinto Muito! Tenha um bom dia.}
 {124}{}{Você sabe qual é o seu erro? Você dá avisos. Eu não. Morrer!}
 {125}{}{[feito]}

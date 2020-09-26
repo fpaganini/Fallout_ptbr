@@ -1,7 +1,7 @@
-{100}{}{Você ve o lider da caravana.}
+{100}{}{Você vê o lider da caravana.}
 {101}{}{Bem, aqui nos estamos. Aqui esta o seu pagamento de }
 {102}{}{ tampinhas. [Ele puxa pra fora um saco de dinheiro com forma de orelha de cachorro e da a você o dinheiro.] Você tera as outras }
-{103}{}{ tampinhas se você retornar conosco pro Hub. Nos descansaremos aqui por um tempo, mas não va muito longe ou a caravana saira sem você.}
+{103}{}{ tampinhas se você retornar conosco pro Hub. Nós descansaremos aqui por um tempo, mas não vá muito longe ou a caravana saira sem você.}
 {104}{}{Aaa... OK.}
 {105}{}{Quanto tempo antes que a caravana saia?}
 {106}{}{O que você pode me dizer sobre Junktown?}
@@ -12,8 +12,8 @@
 {111}{}{Hunh?}
 {112}{}{Vai. Bom.}
 {113}{}{Cara, nos estamos contratando burros estes dias.}
-{114}{}{Nos geralmente saimos duas horas apos a chegada. Nao ha nada aqui que nos não tenhamos
- visto antes, entao se você quiser sair mais cedo nos estamos prontos assim que você estiver.}
+{114}{}{Nós geralmente saimos duas horas apos a chegada. Não há nada aqui que nós não tenhamos
+ visto antes, então se você quiser sair mais cedo nos estamos prontos assim que você estiver.}
 {115}{}{Eu acho que eu darei uma olhada antes de nos irmos. Vejo você mais tarde.}
 {116}{}{OK. Vamos voltar pro Hub. Nada que eu queira ver aqui tambem.}
 {117}{}{O que você pode me dizer sobre Junktown?}
@@ -23,27 +23,27 @@
  ladroes, você sabe... as coisas de sempre. De tudo por tudo, e meu tipo de cidade. [Risadas]}
 {121}{}{Quanto tempo antes que a caravana saia?}
 {122}{}{Eu acho que eu darei uma olhada antes de nos irmos. Vejo você mais tarde.}
-{123}{}{Esta parte da Boneyard e chamada Adytum. A Boneyard e basicamente comandada por gangues. Tipo de area ruim, entao cuidado aonde pisa aqui. Adytum e comandada pelos Reguladores. Eles estao tentando manter este lugar unido a despeito de todas as guerras de gangues. Eles são compreensivelmente suspeitos de estranhos, entao se você não falou com eles ainda eu sugiro a você que o faca antes de comecar a vaguear por ai.}
+{123}{}{Esta parte da Boneyard e chamada Adytum. A Boneyard e basicamente comandada por gangues. Tipo de area ruim, então cuidado aonde pisa aqui. Adytum e comandada pelos Reguladores. Eles estão tentando manter este lugar unido a despeito de todas as guerras de gangues. Eles são compreensivelmente suspeitos de estranhos, então se você não falou com eles ainda eu sugiro a você que o faca antes de comecar a vaguear por ai.}
 {124}{}{Vazio}
 {125}{}{Quanto tempo antes que a caravana saia?}
 {126}{}{Eu acho que eu darei uma olhada antes de nos irmos. Vejo você mais tarde.}
-{127}{}{Nao ha muito que eu possa dizer a você sobre eles. A Irmandade se mantem para eles mesmos na maior parte. Muitas pessoas dao a eles uma reputação ruim, mas do que eu posso dizer eles são boas pessoas. Um pouco fanaticos, talvez, mas caras bons.}
+{127}{}{Não há muito que eu possa dizer a você sobre eles. A Irmandade se mantem para eles mesmos na maior parte. Muitas pessoas dão a eles uma reputação ruim, mas do que eu posso dizer eles são boas pessoas. Um pouco fanaticos, talvez, mas caras bons.}
 {128}{}{Quanto tempo antes que a caravana saia?}
 {129}{}{Eu acho que eu darei uma olhada antes de nos irmos. Vejo você mais tarde.}
 {130}{}{Você esta pronto pra ir?}
 {131}{}{Vai!}
-{132}{}{Nao. Eu ainda estou dando uma olhada por aqui.}
-{133}{}{Sim. Nos podemos ir.}
-{134}{}{Esta parte da Boneyard e chamada Adytum. A Boneyard e basicamente comandada por gangues. Tipo de area ruim, entao cuidado aonde pisa aqui.}
+{132}{}{Não. Eu ainda estou dando uma olhada por aqui.}
+{133}{}{Sim. Nós podemos ir.}
+{134}{}{Esta parte da Boneyard e chamada Adytum. A Boneyard e basicamente comandada por gangues. Tipo de area ruim, então cuidado aonde pisa aqui.}
 {135}{}{Quanto tempo antes que a caravana saia?}
 {136}{}{Eu acho que eu darei uma olhada antes de nos irmos. Vejo você mais tarde.}
-{137}{}{OK. Você conseguiu. Aqui estao suas }
-{138}{}{ tampinhas. Se você quer mais trabalho, entao vai falar com o chefe de novo. Eu ficaria mais do que feliz em trabalhar com você de novo. Eu falarei bem de você pro chefe. Vai com calma.}
+{137}{}{OK. Você conseguiu. Aqui estão suas }
+{138}{}{ tampinhas. Se você quer mais trabalho, então vai falar com o chefe de novo. Eu ficaria mais do que feliz em trabalhar com você de novo. Eu falarei bem de você pro chefe. Vai com calma.}
 {139}{}{Tchau Tchau.}
 {140}{}{Vejo você em breve.}
 {141}{}{Ei, como esta indo?}
 {142}{}{Se você quer mais trabalho, vai verificar com o chefe.}
-{143}{}{Ha algo errado com você?}
+{143}{}{Há algo errado com você?}
 {144}{}{Vocè e um tremendo psicopata!}
 {145}{}{Eu não trabalho com você!}
 {146}{}{200}
@@ -58,13 +58,13 @@
 {201}{}{Hmm... Eu gostaria de saber ler.}
 
 
-{300}{}{Meta-se com o que e da sua conta?}
+{300}{}{Meta-se com o que é da sua conta?}
 
 {400}{}{Eu não sou pago para falar.}
 
 # 501-502, 504-505 added with patch 1.3 from TeamX
 {501}{}{Apenas me diga, por que você abandonou aquela maldita caravana? Eu não posso acreditar! Sorte a sua, eles terminaram sem seu traseiro lamentavel! Saia! Eu não devo pagar nada a você!}
-{502}{}{Eu não posso acreditar! Nos perdemos todas as caravanas! Saia! Eu não devo pagar nada a você!}
+{502}{}{Eu não posso acreditar! Nós perdemos todas as caravanas! Saia! Eu não devo pagar nada a você!}
 
-{504}{}{Apenas va até o chefe and tente pensar em alguma estoria creditavel sobre porque você abandonou aquela maldita caravana. Pode ser entao que você conseguira seu pagamento.}
-{505}{}{Eu não posso acreditar! Nos perdemos todas as malditas caravanas! Eu não acho que eu deva pagar nada a você. Va falar com o chefe.}
+{504}{}{Apenas vá até o chefe and tente pensar em alguma estoria creditavel sobre porque você abandonou aquela maldita caravana. Pode ser então que você conseguira seu pagamento.}
+{505}{}{Eu não posso acreditar! Nós perdemos todas as malditas caravanas! Eu não acho que eu deva pagar nada a você. Vá falar com o chefe.}

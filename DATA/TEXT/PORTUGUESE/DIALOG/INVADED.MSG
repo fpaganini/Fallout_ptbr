@@ -1,13 +1,13 @@
-{101}{}{Os negociantes das caravanas não tiveram uma chance. Eles estao todos mortos.}
+{101}{}{Os negociantes das caravanas não tiveram uma chance. Eles estão todos mortos.}
 {102}{}{Parece que os mutantes estavam fortemente armados. Os negociantes das
  caravanas não tinham uma chance contra este tipo de poder de fogo.}
-{103}{}{Eles estao mortos.}
-{104}{}{Você tem bastante certeza que e uma pessoa morta.}
+{103}{}{Eles estão mortos.}
+{104}{}{Você tem bastante certeza que é uma pessoa morta.}
 {105}{}{Atraves de toda a carne e musculos que sofreram mutacao um deles parece familiar.
- E um dos patrulheiros que foram enviados pela vault que nunca retornaram...}
+ É um dos patrulheiros que foram enviados pela vault que nunca retornaram...}
 {106}{}{Atraves de toda a carne e musculos você de algum mod reconhce um dos
  mutantes como sendo o Sean, um dos patrulheiros enviados pela sua vault alguns
  meses antes de você sair.}
-{107}{}{Todos os mutantes estao mortos, mas um parece estranhamente familiar, mas
+{107}{}{Todos os mutantes estão mortos, mas um parece estranhamente familiar, mas
  você não consegue lembrar da 'face'.}
 {108}{}{Mutantes mortos.} 

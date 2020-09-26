@@ -1,4 +1,4 @@
-{100}{}{Você ve the Bartender.}
+{100}{}{Você vê the Bartender.}
 {101}{}{Sim, o que você quer?}
 {102}{}{Agua.}
 {103}{}{Cerveja.}
@@ -12,12 +12,12 @@
 {111}{}{Eu acho que você teve o bastante, dama.}
 {112}{}{Sim . . . bem, desapareca.}
 {113}{}{Isso será dois tampinhas.}
-{114}{}{Ok.}
-{115}{}{Nao, obrigado.}
+{114}{}{Certo.}
+{115}{}{Não, obrigado.}
 {116}{}{Isso será cinco tampinhas.}
 {117}{}{Com certeza.}
 {118}{}{Isso será dez tampinhas.}
-{119}{}{Hmmm, para alguem do seu tamanho . . .}
+{119}{}{Hmmm, para alguém do seu tamanho . . .}
 {120}{}{ }
 {121}{}{ dez}
 {122}{}{ vinte}
@@ -33,15 +33,15 @@
 {132}{}{Otimo! Isso custara }
 {133}{}{ tampinhas de novo.}
 {134}{}{Mantenha eles vindo.}
-{135}{}{Deixe pra la.}
+{135}{}{Deixe pra lá.}
 {136}{}{Aqui. (O bartender desliza até você um dirty tin cup cheio de alguma}
-{137}{}{ agua murky. Apos beber a agua, você tem um gosto estranho na sua}
+{137}{}{ água murky. Apos beber a água, você tem um gosto estranho na sua}
 {138}{}{ boca.}
 {139}{}{Aqui. (O bartender desliza até você outro cup cheio da mesma}
-{140}{}{ agua murky, e apos você bebe-la, você e lembrado do quao}
+{140}{}{ água murky, e apos você bebe-lá, você e lembrado do quao}
 {141}{}{ estranho era o gosto da ultima vez . . .}
 {142}{}{Isto deve ser divertido . . . (O bartender continua mandando elas e}
-{143}{}{ você perde a conta. Apos um tempo você ouve um muffled thump, entao}
+{143}{}{ você perde a conta. Apos um tempo você ouve um muffled thump, então}
 {144}{}{ você percebe que você esta deitado no chao com a face pra baixo . . .}
 {145}{}{Aqui vamos nos de novo . . . (O bartender alinha elas enquanto todos}
 {146}{}{ no bar cantam . . .}
@@ -49,9 +49,9 @@
 {148}{}{ . . .}
 {149}{}{ . . .}
 {150}{}{ (Em breve tudo comeca a desaparecer . . .)}
-{151}{}{Nao pensava que você parecia alguem que conseguiria aguentar o licor}
+{151}{}{Não pensava que você parecia alguém que conseguiria aguentar o licor}
 {152}{}{ deles.}
-{153}{}{Isso e uma pena. Nos estamos todos desejando ver você 'fazer'}
+{153}{}{Isso é uma pena. Nós estamos todos desejando ver você 'fazer'}
 {154}{}{ de novo.}
 {155}{}{Aww . . . você não vai nos mostrar o quanto aguenta de novo? Bem}
 {156}{}{ okay, aqui esta sua cerveja. Algo mais?}
@@ -65,18 +65,18 @@
 {164}{}{ Algo mais?}
 {165}{}{Você tem um gosto muito ruim na sua boca.}
 {166}{}{Você pensa que sua cabeca esta para explodir.}
-{167}{}{Você ve um Craps Dealer.}
-{168}{}{Você ve um Roulette Dealer.}
-{169}{}{Você ve uma maquina de slots.}
+{167}{}{Você vê um Craps Dealer.}
+{168}{}{Você vê um Roulette Dealer.}
+{169}{}{Você vê uma maquina de slots.}
 {170}{}{Você nota que as odds não parecem certos.}
-{171}{}{Você acha que os dados estao carregados.}
+{171}{}{Você acha que os dados estão carregados.}
 {172}{}{Você acha que a mesa esta rigged.}
 {173}{}{Facam suas apostas. }
 {174}{}{5 tampinhas.}
 {175}{}{15 tampinhas.}
 {176}{}{25 tampinhas.}
 {177}{}{50 tampinhas.}
-{178}{}{Nao, obrigado.}
+{178}{}{Não, obrigado.}
 {179}{}{Rurh.}
 {180}{}{Lamento, mas você não esta em forma pra fazer quaisquer apostas. (Você}
 {181}{}{ olha pro jogo e esta thoroughly confuso.)}

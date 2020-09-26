@@ -1,5 +1,5 @@
 {100}{}{A porta para o Skum Pitt esta trancada.}
 {101}{}{Você consegue destrancar a porta.}
-{102}{}{Você mexe com a porta, mas falha em destranca-la.}
+{102}{}{Você mexe com a porta, mas falha em destranca-lá.}
 {103}{}{Você ouve algo snap. Parece que a tranca esta emperrada.}
 {104}{}{A porta não esta trancada.}

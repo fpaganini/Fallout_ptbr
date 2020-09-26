@@ -1,6 +1,6 @@
-{100}{}{Você ve um morador do Hub.}
+{100}{}{Você vê um morador do Hub.}
 {101}{}{Uau! Eu ouvi que você matou o deathclaw, bom trabalho!}
-{102}{}{E verdade? o… deathclaw realmente existiu?}
+{102}{}{É verdade? o… deathclaw realmente existiu?}
 {103}{}{Eu ouvi que você e o/a }
 {104}{}{homem}
 {105}{}{mulher}

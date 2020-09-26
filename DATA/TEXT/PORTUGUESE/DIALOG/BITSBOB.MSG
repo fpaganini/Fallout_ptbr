@@ -1,5 +1,5 @@
 {100}{}{Você vê Bob, proprietário da Bob's Iguana Bits.}
-{101}{}{Ok, ok, recebi seu dinheiro.}
+{101}{}{Certo, ok, recebi seu dinheiro.}
 {102}{}{Tenho mais despesas. Preciso aumentar o pagamento.}
 {103}{}{Dane-se isso. Quero TODO o seu dinheiro agora, ou você é um Bob morto.}
 {104}{}{Eu não aguento o calor. Estou cancelando os pagamentos.}
@@ -60,7 +60,7 @@
 {159}{}{Bem, ele está morto agora, e meu fluxo de caixa aumentou por causa disso.}
 {160}{}{Alguém matou Decker. Estamos de luto. [risadinha]}
 {161}{}{Alguém atirou no xerife Greene. Não sei sobre o deputado, no entanto.}
-{162}{}{Daren Hightower foi assassinado. E todo aquele dinheiro não poderia salvá-lo. Irônico, não é?}
+{162}{}{Daren Hightower foi assassinado. É todo aquele dinheiro não poderia salvá-lo. Irônico, não é?}
 {163}{}{Alguém roubou um colar dos Hightowers. Cara, eles alguma vez cometeram um grande erro. Eles estão mortos com certeza!}
 {164}{}{Alguém matou Jain na Catedral. Ouvi dizer que ela era uma verdadeira dor no traseiro!}
 {165}{}{Bem, a única coisa nova é que as Crianças da Catedral assumiram o Hospital. Está muito chato por aqui ultimamente.}
@@ -74,10 +74,10 @@
 {173}{}{Desculpe, você não pode pagar.}
 {174}{}{Uma escolha privilegiada de iguana, chegando! Algo mais?}
 {175}{}{Escolha inteligente. Você pode perder alguns quilos.}
-{176}{}{O que ... o quê! Oh, entendo, você está brincando ...}
+{176}{}{O que ... o quê! Ah, entendo, você está brincando ...}
 {177}{}{Claro que sou...}
 {178}{}{Não, eu não sou. Vou providenciar para que você pague pelo seu crime.}
-{179}{}{Não, eu não sou. E eu quero um pedaço da ação.}
+{179}{}{Não, eu não sou. É eu quero um pedaço da ação.}
 {180}{}{Você deve ser novo na cidade se está me perguntando sobre os Mercadores de Água. Água é vida, e você não tem muito mais poder do que vida e morte.}
 {181}{}{Quem está encarregado dos mercadores de água?}
 {182}{}{Se houver algo que envolva miséria e sofrimento no Hub, Decker o controla ou deseja controlá-lo. Algo mais?}
@@ -137,6 +137,6 @@
 {236}{}{O que, meu problema? O que te dá essa impressão?}
 {237}{}{Alguma coisa interessante acontecendo no Hub?}
 {238}{}{Estou com fome! Grrrrr!}
-{239}{}{Negócio terrível. Essas pobres pessoas. Oh, essas pobres pessoas. Perdendo suas vidas de uma forma tão horrível! Posso fazer mais alguma coisa por você? Como alimentar você, talvez?}
+{239}{}{Negócio terrível. Essas pobres pessoas. Ah, essas pobres pessoas. Perdendo suas vidas de uma forma tão horrível! Posso fazer mais alguma coisa por você? Como alimentar você, talvez?}
 {240}{}{Nada tchau.}
 {241}{}{Eu vou agora.}

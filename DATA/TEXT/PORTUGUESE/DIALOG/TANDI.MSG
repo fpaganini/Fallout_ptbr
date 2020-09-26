@@ -1,11 +1,11 @@
-{100}{}{Você ve a Tandi.}
+{100}{}{Você vê a Tandi.}
 {101}{}{O que mais esta por estas partes?}
 {102}{}{O que esta acontecendo por aqui?}
-{103}{}{Você ouviu quaisquer estorias la embaixo do sul?}
+{103}{}{Você ouviu quaisquer estorias lá embaixo do sul?}
 {104}{}{O quanto você gosta daqui?}
 {105}{}{Bem, isso e tudo. Obrigado pelo seu tempo.}
 {106}{TAND_1}{Oi! Eu ouvi que havia um viajante na cidade, mas eu estava
- meio cetica até que eu vi você. Meu nome e Tandi, qual e o seu?}
+ meio cetica até que eu vi você. Meu nome e Tandi, qual é o seu?}
 {107}{}{Meu nome e }
 {108}{}{.}
 {109}{}{O nome e }
@@ -14,66 +14,66 @@
 {111}{}{Uhhh?}
 {112}{tand_2}{Bem..o quanto você gosta da nossa pequena cidade? Ja entendiado?}
 {113}{}{Esta okay. Eu posso fazer algumas perguntas pra você?}
-{114}{}{Caramba, sim! Nao ha a fazer aqui alem de observar os Brahmin copularem.}
-{115}{}{Eu creio que e okay.}
+{114}{}{Caramba, sim! Não há a fazer aqui alem de observar os Brahmin copularem.}
+{115}{}{Eu creio que é okay.}
 {116}{}{Bem, sim. Ela e um pouco entediante.}
-{117}{TAND_3}{Com certeza, eu creio. Eu nunca estive fora daqui, entao eu não sei
- de que ajuda eu posso ser. Entao, do que você precisa?}
-{118}{TAND_4}{Sim. Bem, você não vive aqui. Nao ha nada
+{117}{TAND_3}{Com certeza, eu creio. Eu nunca estive fora daqui, então eu não sei
+ de que ajuda eu posso ser. Então, do que você precisa?}
+{118}{TAND_4}{Sim. Bem, você não vive aqui. Não há nada
  interessante para fazer e acredite você em mim,
  Brahmin Tipping fica velho bem rapido.}
 {119}{}{Se você esta entendiada, por que você não sai?}
 {120}{}{Bem, eu tenho certeza que você esta exagerando.}
 {121}{}{Parece bacana e seguro aqui.}
  {122}{TAND_5}{Eu, sair? Eu desejo. Eu não conheco o bastante pra sair
- sozinha e ninguem mais quer ir, e o pior de tudo, meu pai diz que ele
- teria um ataque do coracao se algo acontecesse comigo!}
-{123}{}{Situacao dificil. Eu posso fazer algumas perguntas pra você?}
+ sozinha e ninguém mais quer ir, e o pior de tudo, meu pai diz que ele
+ teria um ataque do coração se algo acontecesse comigo!}
+{123}{}{Situacao difícil. Eu posso fazer algumas perguntas pra você?}
 {124}{}{Droga, Eu tenho que ir. Boa sorte.}
 {125}{TAND_6}{Uh...Eu tenho que ficar de pe aqui agora.}
 {126}{TAND_12}{Viva aqui você por toda a sua vida e veja se você gosta! Algo
  mais que você queira saber?}
-{127}{TAND_13}{Sim, bem seguro...e tao entediante que acho que meu cerebro vai
+{127}{TAND_13}{Sim, bem seguro...e tão entediante que acho que meu cerebro vai
  vazar pelo meu ouvido a qualquer momento.}
 {128}{}{Por que você não sai?}
 {129}{}{Lamento ouvir isso, mas eu não tenho muito tempo.
  Eu posso fazer algumas perguntas pra você?}
-{130}{TAND_14}{Finalmente! Alguem mais que ve! Claro,
- você provavelmente esteve em toda parte, entao isto
+{130}{TAND_14}{Finalmente! Alguém mais que vê! Claro,
+ você provavelmente esteve em toda parte, então isto
  deve ser o inferno para você.}
-{131}{}{Se você esta tao entediada, por que você não sai?}
+{131}{}{Se você esta tão entediada, por que você não sai?}
 {132}{}{Bem, eu tenho certeza que você esta exagerando.}
 {133}{}{Parece bacana e seguro aqui.}
 {134}{TAND_15}{Junktown esta para o sudoeste, mas eu não sei quao longe.
- Entao ha algum lugar estranho abaixo chamado a Cidade da Morte. Oh, oh
- sim, ha este outro lugar...Oh, droga, qual era esse? Oh, sim, o
+ Então há algum lugar estranho abaixo chamado a Cidade da Morte. Ah, oh
+ sim, há este outro lugar...Ah, droga, qual era esse? Ah, sim, o
  Hub.}
-{135}{tand_15a}{Ha um bando de cidades pra baixo ao sul. Mas como você e um
+{135}{tand_15a}{Há um bando de cidades pra baixo ao sul. Mas como você e um
  grande viajante, eu tenho certeza que você já sabe disso.}
 {136}{}{Obrigado.}
 {137}{TAND_16}{Nenhum problema. Algo mais?}
 # "300 tand_16a Yeah, whatever." Wrong number! Removed with patch 1.3 from TeamX.
-{138}{TAND_20}{Nos temos radscorpions! Eu quero dizer, eu sei que
- não e uma coisa boa, mas ninguem morreu das ferroadas. E e a
+{138}{TAND_20}{Nós temos radscorpions! Eu quero dizer, eu sei que
+ não é uma coisa boa, mas ninguém morreu das ferroadas. É é a
  coisa mais proxima de excitante que nos temos aqui!}
-{139}{TAND_21}{Nao muito desde que você whomped aqueles radscorpions. Puxa, eu
+{139}{TAND_21}{Não muito desde que você whomped aqueles radscorpions. Puxa, eu
  desejo que eu pudesse ter visto aquilo.}
 {140}{TAND_22}{O mesmo de sempre. En-tediante.}
 {142}{tand_23b}{Apenas stuff.}
 {141}{tand_23g}{A estoria mais esquisita que eu ouvi e sobre o deathclaw.}
 {143}{}{Obrigado.}
 {144}{}{Deathclaw?}
-{145}{TAND_24}{E okay, eu creio. Eu quero dizer, e o lar e tudo, mas e tao
+{145}{TAND_24}{É okay, eu creio. Eu quero dizer, e o lar e tudo, mas é tão
  entediante! Você sabe, eu quero ver o mundo.}
-{146}{}{Se você esta tao entediada, por que você não sai?}
-{147}{}{Bem, eu tenho certeza que não e ruim assim.}
+{146}{}{Se você esta tão entediada, por que você não sai?}
+{147}{}{Bem, eu tenho certeza que não é ruim assim.}
 {148}{}{Parece bacana e seguro aqui.}
 {150}{tand_27f}{Escute...uh...mas eu...uh...eu-eu gosto de caras, okay? Whew! Uh,
  me desculpe, eu tenho coisas pra fazer.}
 {149}{tand_27m}{Eu não sou esse tipo de garota,
- senhor. Va achar um Brahmin ou algo assim.}
-{151}{TAND_28}{Bem, obrigado por falar. Nos não recebemos muitos
- estranhos aqui, entao e sempre bom falar com novas pessoas.
+ senhor. Vá achar um Brahmin ou algo assim.}
+{151}{TAND_28}{Bem, obrigado por falar. Nós não recebemos muitos
+ estranhos aqui, então e sempre bom falar com novas pessoas.
  Bem, vejo você por ai!}
 {152}{}{Tchau.}
 {153}{TAND_29}{Uh, escute. Eu tenho que ir tomar conta dos
@@ -81,75 +81,75 @@
 {154}{tand_30a}{Ola de novo! Com o
  que eu posso ajudar você agora?}
 {155}{}{Eu posso fazer mais algumas perguntas?}
-{156}{}{Nada. Adeus.}
+{156}{}{Nada. Tchau.}
 {157}{TAND_35}{Uh...ei, obrigado. Mais tarde.}
 {158}{TAND_36}{Oi! Eu estava com medo de que você se fosse e eu
  não ia ter uma chance de agradecer a você por me resgatar. Aw!
- Isso foi otimo! Ação, aventura...De qualquer modo, se ha algo
+ Isso foi otimo! Ação, aventura...De qualquer modo, se há algo
  que eu possa fazer por você apenas pergunte.}
 {159}{}{Que tal mais algumas perguntas?}
 {160}{}{Que tal você e eu...bem, você sabe...ficarmos juntos.}
-{161}{}{Nao, isso e tudo, obrigado.}
+{161}{}{Não, isso e tudo, obrigado.}
 {162}{}{Dungh!!}
-{163}{TAND_37}{Quem e você? O que você quer?}
+{163}{TAND_37}{Quem é você? O que você quer?}
 {164}{}{Meu nome e }
 {165}{}{, e seu pai me enviou.}
 {166}{}{Eu sou sua fada madrinha. Com o que me pareco?}
 {167}{}{Duh.}
 {168}{TAND_38}{O pai enviou você!? Você esta aqui para me tirar?}
-{169}{}{Sim, entao apenas sente-se. Eu tirarei você pra fora.}
-{170}{}{Nao, ele apenas me enviou para olhar pra você.}
-{171}{TAND_39}{Bem, qual e o seu plano?}
-{172}{}{Apenas espere as portas abrirem. Entao corra com tudo!}
+{169}{}{Sim, então apenas sente-se. Eu tirarei você pra fora.}
+{170}{}{Não, ele apenas me enviou para olhar pra você.}
+{171}{TAND_39}{Bem, qual é o seu plano?}
+{172}{}{Apenas espere as portas abrirem. Então corra com tudo!}
 {173}{}{Eu vou enfrentar o lider dos Khan em troca
  pela sua liberdade.}
-{174}{TAND_40}{E isso? Esse e seu plano. Ugh! Tudo bem.
+{174}{TAND_40}{É isso? Esse e seu plano. Ugh! Tudo bem.
  Mas apresse-se. Eu ouvi eles falando e eu não gostei
  dos planos deles.}
 {175}{TAND_41}{Você? Enfrenta-lo? Você deve estar brincando
  comigo! [Suspiro] Escute, se você vier com outro plano,
  deixe-me saber, okay?}
-{176}{TAND_42}{Oh, você não e o sarcastico? Você vai me
+{176}{TAND_42}{Ah, você não é o sarcastico? Você vai me
  tirar daqui ou o que!?}
 {177}{}{Sim. Apenas aguarde, e quando você ver a porta aberta, corra.}
 {178}{}{Eu vou enfrentar o lider dos Khan em troca por sua liberdade.}
-{179}{TAND_43}{Oh, e você de novo! Você vai me tirar
+{179}{TAND_43}{Ah, e você de novo! Você vai me tirar
  daqui?}
-{180}{}{Sim, entao sente-se. Eu tirarei você daqui.}
-{181}{}{Nao, Eu estou so parando pra dizer oi.}
+{180}{}{Sim, então sente-se. Eu tirarei você daqui.}
+{181}{}{Não, Eu estou só parando pra dizer oi.}
 {182}{}{Duh.}
-{183}{tand_43a}{Ola, alguem em casa? Você poderia me tirar daqui?
+{183}{tand_43a}{Ola, alguém em casa? Você poderia me tirar daqui?
  Você poderia ME TIRAR DAQUI?}
-{184}{tand_43b}{Esta não e a hora de conversar, nos temos que sair daqui.}
+{184}{tand_43b}{Esta não é a hora de conversar, nos temos que sair daqui.}
 {185}{TAND_44}{Aradesh e meu pai. Ele e okay, tanto quanto os pais são.}
 {186}{TAND_45}{Essa sou eu. Quem mais você pensou que era?}
 {187}{TAND_46}{Razlo e o cara velho no lado leste da cidade. Ele e um doutor
  muito bom, mesmo se ele e um fossil.}
 {188}{TAND_47}{Seth e o capitao dos guardas. Meu pai tentou nos juntar
- uma vez, mas ele não e meu tipo.}
-{189}{TAND_48}{Agatha e a mais velha aqui. Nos todos amamos ela, especialmente
- as estorias dela. Va e veja ela se você quer uma boa estoria longa.}
+ uma vez, mas ele não é meu tipo.}
+{189}{TAND_48}{Agatha é a mais velha aqui. Nós todos amamos ela, especialmente
+ as estorias dela. Vá e veja ela se você quer uma boa estoria longa.}
 {190}{TAND_49}{Bando bem ruim ou assim eu ouvi.
  Meu pai sabe mais sobre eles. Ele nunca me
- diz muito sobre o mundo la fora.}
-{191}{TAND_50}{Isso e aonde nos conseguimos toda nossa agua. Esta aqui desde antes de eu nascer.}
+ diz muito sobre o mundo lá fora.}
+{191}{TAND_50}{Isso e aonde nos conseguimos toda nossa água. Esta aqui desde antes de eu nascer.}
 {192}{TAND_51}{Eu realmente vi um, mesmo se era de muito muito longe.
- Eles são criaturas mas, com garras e um grande ferrao. E o veneno
- deles pode ser mortal se não e tratado. Você deve falar com meu
+ Eles são criaturas mas, com garras e um grande ferrao. É o veneno
+ deles pode ser mortal se não é tratado. Você deve falar com meu
  pai, Aradesh, ele sabe mais sobre eles.}
 {193}{TAND_52}{Eu ouvi um conto de um viajante do sul. Ele disse que o deathclaw era
- uma criatura que matava pessoas a noite. Ele disse que ninguem consegue pega-lo
+ uma criatura que matava pessoas a noite. Ele disse que ninguém consegue pega-lo
  porque ele consegue desaparecer como fumaca. Nâo que eu acredite, claro.}
-{194}{TAND_53}{Junktown e uma pequena cidade para o sudoeste. Ela supostamente tem um
+{194}{TAND_53}{Junktown é uma pequena cidade para o sudoeste. Ela supostamente tem um
  comercio muito bom, mas meu pai nem mesmo olha pra isso. Ele diz que nos precisamos
  ficar 'protegidos'. Sim, certo. Enjaulados esta mais correto.}
-{195}{TAND_54}{O Hub supostamente e uma grande cidade ao sul. Eu
- sempre quis ve-la, mas eu nunca tive a chance.}
+{195}{TAND_54}{O Hub supostamente é uma grande cidade ao sul. Eu
+ sempre quis vê-lá, mas eu nunca tive a chance.}
 {196}{TAND_55}{Eu não sei, mas o cara que me disse a respeito
  dela estava realmente assustado com ela. Ele disse que os
  mortos-vivos caminhavam na ruas!}
 {197}{TAND_62}{Eu não sei. Você poderia querer perguntar ao Seth ou meu pai sobre isso.}
-{198}{TAND_63}{Hmm...Nao toca um sino.}
+{198}{TAND_63}{Hmm...Não toca um sino.}
 {199}{TAND_64}{Hm...não. Eu nunca ouvi sobre ele.}
 {200}{TAND_65}{Ei! O que você acha que você esta fazendo? Ponha isso de volta!}
 {201}{TAND_66}{Isso e tudo! Eu vou contar ao meu pai!}
@@ -160,20 +160,20 @@
 {205}{TAND_70}{Escute, eu já disse a você...}
 {206}{TAND_71}{De novo? Ola? Quantas vezes eu tenho que dizer isto a
  você? Você tem cera demais nos seus ouvidos ou algo assim?}
-{207}{TAND_72}{Oh sim, eu ouvi sobre isos, mas você deveria ir falar
+{207}{TAND_72}{Ah sim, eu ouvi sobre isos, mas você deveria ir falar
  com a Agatha. Ela saberia mais do que eu.}
 {208}{}{Vamos sair daqui.}
 
-{300}{}{Uau! Isto não e nada como Shady Sands.}
-{301}{}{Ei, o que e aquilo ali?}
-{302}{}{Eu não consigo esperar para dizer as pessoas em Shady Sands sobre o mundo la fora.}
+{300}{}{Uau! Isto não é nada como Shady Sands.}
+{301}{}{Ei, o que é aquilo ali?}
+{302}{}{Eu não consigo esperar para dizer as pessoas em Shady Sands sobre o mundo lá fora.}
 {303}{}{Você viu mais quaisquer radscorpions?}
 {304}{}{Onde nos estamos indo agora?}
-{305}{}{Quando nos vamos chegar la?}
+{305}{}{Quando nos vamos chegar lá?}
 
 
 {980}{TAND_62}{Eu não sei. Você poderia querer perguntar ao Seth ou meu pai sobre isso.}
-{981}{TAND_63}{Hmm...Nao toca um sino.}
+{981}{TAND_63}{Hmm...Não toca um sino.}
 {982}{TAND_64}{Hm...não. Eu nunca ouvi sobre ele.}
 
 {1000}{}{Aradesh}
@@ -197,30 +197,30 @@
 # "1102 TAND_46 Razlo's the old guy on the east side of town.  He's a pretty
 # good doctor, though, even if he is a fossil." Wrong number! Removed with patch 1.3 from TeamX.
 {1102}{TAND_47}{Seth e o capitao dos guardas. Meu pai tentou nos juntar
- uma vez, mas ele não e meu tipo.}
+ uma vez, mas ele não é meu tipo.}
 {1103}{TAND_49}{Bando bem ruim ou assim eu ouvi. Meu pai sabe mais
- sobre eles. Ele nunca me diz muito sobre o mundo la fora.}
-{1104}{TAND_50}{Isso e aonde nos conseguimos toda nossa agua. Esta aqui desde antes de eu nascer.}
+ sobre eles. Ele nunca me diz muito sobre o mundo lá fora.}
+{1104}{TAND_50}{Isso e aonde nos conseguimos toda nossa água. Esta aqui desde antes de eu nascer.}
 {1105}{TAND_51}{Eu realmente vi um, mesmo se era de muito muito longe. Eles
- são criaturas mas, com garras e um grande ferrao. E o veneno deles pode
- ser mortal se não e tratado. Você deve falar com meu pai, Aradesh, ele
+ são criaturas mas, com garras e um grande ferrao. É o veneno deles pode
+ ser mortal se não é tratado. Você deve falar com meu pai, Aradesh, ele
  sabe mais sobre eles.}
 {1106}{TAND_52}{Eu ouvi um conto de um viajante do sul. Ele disse que o deathclaw era
- uma criatura que matava pessoas a noite. Ele disse que ninguem consegue pega-lo
+ uma criatura que matava pessoas a noite. Ele disse que ninguém consegue pega-lo
  porque ele consegue desaparecer como fumaca. Nâo que eu acredite, claro.}
-{1107}{TAND_53}{Junktown e uma pequena cidade para o sudoeste. Ela supostamente tem
+{1107}{TAND_53}{Junktown é uma pequena cidade para o sudoeste. Ela supostamente tem
  um comercio muito bom, mas meu pai nem mesmo olha pra isso. Ele diz que nos
  precisamos ficar 'protegidos'. Sim, certo. Enjaulados esta mais correto.}
-{1108}{TAND_54}{O Hub supostamente e uma grande cidade ao sul. Eu
- sempre quis ve-la, mas eu nunca tive a chance.}
+{1108}{TAND_54}{O Hub supostamente é uma grande cidade ao sul. Eu
+ sempre quis vê-lá, mas eu nunca tive a chance.}
 {1109}{TAND_55}{Eu não sei, mas o cara que me disse a respeito dela estava realmente
  assustado com ela. Ele disse que os mortos-vivos caminhavam na ruas!}
 {1110}{TAND_51}{Eu realmente vi um, mesmo se era de muito muito longe. Eles são
- criaturas mas, com garras e um grande ferrao. E o veneno deles pode ser
- mortal se não e tratado. Você deve falar com meu pai, Aradesh, ele sabe
+ criaturas mas, com garras e um grande ferrao. É o veneno deles pode ser
+ mortal se não é tratado. Você deve falar com meu pai, Aradesh, ele sabe
  mais sobre eles.}
 {1111}{TAND_49}{Bando bem ruim ou assim eu ouvi. Meu pai sabe mais
- sobre eles. Ele nunca me diz muito sobre o mundo la fora.}
+ sobre eles. Ele nunca me diz muito sobre o mundo lá fora.}
 # 1112 added with patch 1.3 from TeamX.
 {1112}{TAND_46}{Razlo e o cara velho no lado leste da cidade. Ele e um doutor
  muito bom, mesmo se ele e um fossil.}

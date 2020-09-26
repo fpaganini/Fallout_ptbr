@@ -114,12 +114,12 @@
 {476}{}{O numero total de caes que você mandou para o grande canil no ceu.}
 {477}{}{Esta linha mostra o numero total de Mantis mortos, ou de grandes insetos transformados como o louva-deus, que você esmagou até agora.}
 {478}{}{Esta linha mostra que você assassinou o Deathclaw e quaisquer dos suas crias.}
-{479}{}{Nao Exibido.   Erro!}
+{479}{}{Não Exibido.   Erro!}
 
 #
 # Use text
 #
-{480}{}{Você ve: %s.}
+{480}{}{Você vê: %s.}
 
 #
 # Use Container text
@@ -131,10 +131,10 @@
 #
 # Look text
 #
-{490}{}{Você ve: %s.}
-{491}{}{Você ve um morto: %s.}
-{492}{}{Você ve os restos do: %s.}
-{493}{}{Você não ve nada fora do comum.}
+{490}{}{Você vê: %s.}
+{491}{}{Você vê um morto: %s.}
+{492}{}{Você vê os restos do: %s.}
+{493}{}{Você não vê nada fora do comum.}
 
 #
 # Examine text
@@ -187,7 +187,7 @@
 {581}{}{Você usa o %s no %s.}
 {582}{}{Isso não faz nada.}
 {583}{}{Para sua consternacao, você percebe que já esta morto.}
-{584}{}{Apos você chegar la embaixo, você percebe que já esta morto.}
+{584}{}{Apos você chegar lá embaixo, você percebe que já esta morto.}
 {585}{}{Ai de você, você chegou tarde demais.} # This is relating to a critter being dead.
 {586}{}{Isso não funcionara no morto.}
 {587}{}{Você acende o sinal luminoso.}
@@ -216,7 +216,7 @@
 {654}{}{Voltar}     # changed number from 653
 {655}{}{Continuar}    # new
 {656}{}{Err...}   # new
-{660}{}{Você não consegue ver la.}
+{660}{}{Você não consegue ver lá.}
 {661}{}{Muito distante.}
 
 #
@@ -228,7 +228,7 @@
 #
 {800}{}{Você le o livro.}
 {801}{}{Você não aprende nada novo.}
-{802}{}{Você aprende nova informacao sobre a ciência.}
+{802}{}{Você aprende nova informação sobre a ciência.}
 {803}{}{Você aprende muito sobre reparar eletronicos quebrados.}
 {804}{}{Você aprende novos modos de curar ferimentos.}
 {805}{}{Você aprende como manejar suas armas melhor.}

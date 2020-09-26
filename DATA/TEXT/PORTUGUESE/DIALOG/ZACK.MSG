@@ -1,23 +1,23 @@
-{100}{}{Você ve o Zack.}
-{101}{}{Você ve um Gun Runner.}
+{100}{}{Você vê o Zack.}
+{101}{}{Você vê um Gun Runner.}
 {102}{}{Oi, eu sou o Zack. Você quer comprar armas? Me deixe ver o que você tem pra negociar.}
-{103}{}{Nao.}
-{104}{}{Ok.}
+{103}{}{Não.}
+{104}{}{Certo.}
 {105}{}{Você pode me dar um desconto?}
 {106}{}{Você quer comprar armas? Me deixe ver o que você tem pra negociar.}
 {107}{}{Lamento aborrecer você.}
-{108}{}{Bom fazer negocios com você.}
+{108}{}{Bom fazer negócios com você.}
 {109}{}{}
-{110}{}{Ok. Volte se você precisar de alguma coisa.}
+{110}{}{Certo. Volte se você precisar de alguma coisa.}
 {111}{}{Melhor você decidir rapido. Você esta aqui pra
  comprar equipamentou ou você apenas veio aqui pra levar um tiro?}
 {112}{}{Você tem um verdadeiro problema de atitude.}
 {113}{}{Lamento, talvez eu pudesse usar algum equpamento depois de tudo.}
-{114}{}{O que diabos você esta fazendo aqui entao?}
+{114}{}{O que diabos você esta fazendo aqui então?}
 {115}{}{Nada.}
 {116}{}{Com certeza.}
 {117}{}{Sim, bem, até o Gabriel dizer que sim, você tem que pagar
- o preco completo como todo mundo.}
+ o preço completo como todo mundo.}
 {118}{}{Eu não sei sobre isso.}
 {119}{}{De qualquer maneira mostre-me o que você tem.}
 {120}{}{Otimo! Mostre-me o que você tem.}

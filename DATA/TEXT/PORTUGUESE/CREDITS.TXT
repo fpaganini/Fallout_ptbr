@@ -362,7 +362,7 @@ Max o Cachorro
 @TRADUCAO PARA PORTUGUES DO BRASIL
 Fabio Paganini
 
-@AVISO: E uma violacao da Lei de Copyright Federal
+@AVISO: É uma violacao da Lei de Copyright Federal
 @copiar, duplicar ou reproduzir este Programa ou quaisquer
 @partes deste Programa sem a permissao escrita
 @expressa do dono do copyright.
@@ -391,7 +391,7 @@ Thom Dohner
 
 
 @Obrigados para: Scott Everts por contribuir acima e alem do
-@chamado do dever para o Arquivo de Citacoes, Bomberman, Quake,
+@chamado do dever para o Arquivo de Citações, Bomberman, Quake,
 @Diablo, Warcraft II, varias trilhas de filmes, Brian Eno,
 @a geladeira de soda (obrigado Gus & Rusty!), o Espirito de Natal
 @(Vai Papai Noel!), Demo o gato, Nicol, Tracy, Mary & Adam, Lisa
@@ -412,11 +412,11 @@ Thom Dohner
 
 
 
-@E isso e tudo!
+@É isso e tudo!
 
 
 
-@Não ha mais creditos
+@Não há mais creditos
 
 
 
@@ -431,7 +431,7 @@ Thom Dohner
 
 
 @Fallout foi trazido a você pela Interplay Productions,
-@Time Fallout e a letra Q.
+@Time Fallout é a letra Q.
 
 
 

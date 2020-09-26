@@ -4,53 +4,53 @@
 {103}{}{Eu voltarei.}
 {104}{}{Como eu poderia saber da sua agenda?}
 {105}{}{Uhhh?.}
-{106}{Vree01}{Nao levante sua voz pra mim. Eu tenho que chamar um dos
- Irmaos pra ensinar algumas maneiras pra voce?}
+{106}{Vree01}{Não levante sua voz pra mim. Eu tenho que chamar um dos
+ Irmaos pra ensinar algumas maneiras pra você?}
 {107}{}{Lamento.}
 {108}{}{Sim, ok. Que seja.}
-{109}{}{Oh, eu estou assustado.}
-{110}{Vree02}{Saudaoes. E um bom dia pra aprender. Como eu posso ajudar voce?}
-{111}{}{Eu sei que voce e a Escriba Mestre mas o que isso significa?}
+{109}{}{Ah, eu estou assustado.}
+{110}{Vree02}{Saudaoes. É um bom dia pra aprender. Como eu posso ajudar você?}
+{111}{}{Eu sei que você é a Escriba Mestre mas o que isso significa?}
 {112}{}{Eu preciso de um pouco de informaçao tecnica.}
 {113}{}{Uhh...}
 {114}{Vree03}{Eu gravo o conhecimento de nossos ancestrais para as futuras geraçoes.}
-{115}{}{Interessante. Isto quer dizer que voce sabe das coisas.}
-{116}{Vree03a}{Sim. Eu creio que voce poderia dizer que eu sei das 'coisas'.}
-{117}{Vree17}{Com o que eu posso ajudar voce?}
-{118}{Vree17a}{Va em frente.}
-{119}{}{Eu preciso de um chip de agua reparado. Voce pode me ajudar?}
+{115}{}{Interessante. Isto quer dizer que você sabe das coisas.}
+{116}{Vree03a}{Sim. Eu creio que você poderia dizer que eu sei das 'coisas'.}
+{117}{Vree17}{Com o que eu posso ajudar você?}
+{118}{Vree17a}{Vá em frente.}
+{119}{}{Eu preciso de um chip purificador de água reparado. Você pode me ajudar?}
 {120}{}{Eu gostaria de saber mais sobre as armas que nos fazemos aqui.}
 {121}{}{Eu ouvi algo sobre holo-discos, como eu posso le-los?}
 {122}{}{Como eu posso impedir o envenenamento por radiaçao?}
 {123}{}{O que esta causando todas as mutaçoes?}
-{124}{Vree18}{Fale com os cavaleiros. Peça a eles pra mostrar a voce uma das
+{124}{Vree18}{Fale com os cavaleiros. Peça a eles pra mostrar a você uma das
  pistolas laser que eu crei mais recentemente.}
 {125}{}{Obrigado!}
 {126}{}{Eu tenho outra pergunta...}
-{127}{Vree19}{Voce ainda nao e capaz de usar apropriadamente o conhecimento sagrado.}
+{127}{Vree19}{Você ainda não é capaz de usar apropriadamente o conhecimento sagrado.}
 {128}{Vree21}{Use seu Pip-Boy 2000 pra ler os discos. Insira o disco
- no leitor. Se voce tiver as tecnicas de computador apropriadas voce
+ no leitor. Se você tiver as tecnicas de computador apropriadas você
  deve ser capaz de escanear os dados.}
 {129}{}{Aonde eu posso aprender as tecnicas pra computadores?}
 {130}{}{Obrigado.}
 {131}{}{Eu posso fazer outra pergunta?}
-{132}{Vree22}{A Irmandade tem alguns cursos automatizados que voce pode levar.
- Aqui, eu mostrarei pra voce.}
+{132}{Vree22}{A Irmandade tem alguns cursos automatizados que você pode levar.
+ Aqui, eu mostrarei pra você.}
 {133}{Vree23}{Use este terminal pra aprender o basico das operaçoes de computador.}
-{134}{Vree24}{Voce nao e muito brilhante nao e? Voce esta usando um leitor de
+{134}{Vree24}{Você não é muito brilhante não e? Você esta usando um leitor de
  holo-disco no seu braço.}
-{135}{Vree25}{Voce precisaria de algumas drogas anti-radiaçao. Eu tenho algumas.
- Leve estas imediatamente se voce achar que voce esta perto de radiaçao.}
+{135}{Vree25}{Você precisaria de algumas drogas anti-radiaçao. Eu tenho algumas.
+ Leve estas imediatamente se você achar que você esta perto de radiaçao.}
 {136}{}{Obrigado!}
-{137}{}{Eu posso perguntar algo mais pra voce?}
-{138}{Vree26}{Nao beba a agua brilhante.}
+{137}{}{Eu posso perguntar algo mais pra você?}
+{138}{Vree26}{Não beba a água brilhante.}
 {139}{Vree27}{Entre as armas nucleares e bio-geneticas usadas na guerra e
- surpreendente que nos nao tenhamos mais mutaçoes. Contudo, se nos
+ surpreendente que nós não tenhamos mais mutaçoes. Contudo, se nos
  pudermos manter todas fora tudo ficara ok.}
-{140}{}{Por que voce diz isso?}
-{141}{}{Voce esta certo. Nos ficaremos bem.}
+{140}{}{Por que você diz isso?}
+{141}{}{Você esta certo. Nós ficaremos bem.}
 {142}{}{Eu tenho outra pergunta...}
-{143}{Vree28}{Todos os mutantes que nos estudamos eram estereis - eles nao conseguem
+{143}{Vree28}{Todos os mutantes que nos estudamos eram estereis - eles não conseguem
  procriar com outra criatura. Se nos pudessemos limpar as fontes da mutaçao nos
  devemos ser capazes de simplesmente viver mais do que os mutantes.}
 {144}{}{Soa como um plano.}
@@ -60,67 +60,67 @@
  mutantes. Mostra claramente que nenhum mutante poderia possivelmente se reproduzir com sucesso.}
 {148}{}{Obrigado.}
 {149}{}{Eu posso perguntar sobre algo mais?}
-{150}{Vree30}{Eu nao acho que eu deveria dizer qualquer coisa pra voce. Talvez mais tarde,
- se voce se provar devoto a causa da Irmandade.}
-{151}{Vree31}{Eu estou bem certo que voce esta no lugar errado. Por favor
+{150}{Vree30}{Eu não acho que eu deveria dizer qualquer coisa pra você. Talvez mais tarde,
+ se você se provar devoto a causa da Irmandade.}
+{151}{Vree31}{Eu estou bem certo que você esta no lugar errado. Por favor
  saia, eu estou bem ocupada.}
-{152}{Vree32}{Voce destruira o conhecimento que pode salvar o mundo!}
-{153}{}{Sim, começando com voce.}
-{154}{}{Nao. Eu estou impedindo aqueles que poderiam trazer outra guerra nuclear.}
+{152}{Vree32}{Você destruira o conhecimento que pode salvar o mundo!}
+{153}{}{Sim, começando com você.}
+{154}{}{Não. Eu estou impedindo aqueles que poderiam trazer outra guerra nuclear.}
 {155}{Vree33}{Nunca! A Irmandade fara com que nunca aconteça de novo!}
-{156}{}{Isso e o que todos eles dizem... exceto voce. Voce estara morto.}
-{157}{Vree34}{Com o que eu posso ajudar voce?}
-{158}{}{Eu tenho algumas noticias importantes pra dizer a voce sobre o Kedrick. Ele e um traidor.}
-{159}{}{O que voce faria se houvesse corrupçao dentro da Irmandade?}
+{156}{}{Isso e o que todos eles dizem... exceto você. Você estara morto.}
+{157}{Vree34}{Com o que eu posso ajudar você?}
+{158}{}{Eu tenho algumas noticias importantes pra dizer a você sobre o Kedrick. Ele e um traidor.}
+{159}{}{O que você faria se houvesse corrupçao dentro da Irmandade?}
 {160}{}{Nuhh. Nuh-uh-nuh!}
 {161}{Vree35}{Muito bom. Eu realmente posso dizer que as liçoes ajudaram.}
 {162}{Vree36}{Kedrick? Ele tem sido forever um membro leal da Irmandade. Eu
- duvido que voce ao menos saberia o que isso significa.}
+ duvido que você ao menos saberia o que isso significa.}
 {163}{}{Sim, eu sei. O Kedrick e um traidor e esta planejando destituir seus
  lideres.}
 {164}{}{Talvez sim.}
-{165}{Vree37}{Voce esta certo disto? Talvez nos devessemos falar com o Elder Supremo.}
-{166}{Vree38}{Nao me aborreça com innuendo. Traga uma prova para o Elder Supremo ou
- nao diga nada sobre isto.}
+{165}{Vree37}{Você esta certo disto? Talvez nos devessemos falar com o Elder Supremo.}
+{166}{Vree38}{Não me aborreça com innuendo. Traga uma prova para o Elder Supremo ou
+ não diga nada sobre isto.}
 {167}{Vree39}{Faça o que deve ser feito. Stamp out a heresia e remova aqueles
  responsaveis pela mancha.}
-{168}{}{Ate mesmo se fosse um membro confiavel da Irmandade.}
-{169}{}{E quem faria a remoçao?}
+{168}{}{Até mesmo se fosse um membro confiavel da Irmandade.}
+{169}{}{É quem faria a remoçao?}
 {170}{Vree40}{Mesmo assim. Mas uma prova teria que ser oferecida.}
 {171}{}{O Kedrick e um traidor. Ele esta planejando matar os Elders.}
 {172}{}{Eu conseguirei a prova.}
-{173}{Vree41}{Entao nos devemos ir ate o Supremo. Traga sua prova e nos iremos
+{173}{Vree41}{Então nos devemos ir até o Supremo. Traga sua prova e nós iremos
  falar com ele.}
 {174}{Vree42}{Para o Elder Supremo e o Rhombus, claro.}
-{175}{Vree43}{Voce ouviu sobre o Iniciado desaparecido? Isto e terrivel!}
+{175}{Vree43}{Você ouviu sobre o Iniciado desaparecido? Isto é terrível!}
 {176}{}{Eu concordo.}
 {177}{}{Nuh-huh.}
-{178}{Vree44}{Se voce puder ajuda-lo eu seria muito grata.}
+{178}{Vree44}{Se você puder ajuda-lo eu seria muito grata.}
 {179}{Vree45}{Bons feitos devem ser recompensados. Por ajudar o Iniciado, por favor pegue
  estes.}
-{180}{Vree46}{Oh, e voce. O que voce quer?}
+{180}{Vree46}{Ah, e você. O que você quer?}
 {181}{}{Eu vim pra me desculpar.}
 {182}{}{Lamento, sala errada.}
-{183}{Vree47}{Obrigado a voce por sua desculpa.}
+{183}{Vree47}{Obrigado a você por sua desculpa.}
 {184}{Vree47a}{Bom dia.}
-{185}{Vree48}{Isso soa como um problema de fabricaçao. Nos so manejamos teoria e
- design. Peça a um dos cavaleiros pra ajudar voce.}
+{185}{Vree48}{Isso soa como um problema de fabricaçao. Nós só manejamos teoria e
+ design. Peça a um dos cavaleiros pra ajudar você.}
 {186}{}{De qualquer maneira obrigado.}
 {187}{}{Eu posso perguntar sobre algo mais?}
 {188}{Vree200}{Por favor fale com um dos outros escribas. Eu estou tentando terminar
  os relatórios para os outros Elders.}
 {189}{Vree201}{Eu não sei nada sobre isso. Mas soa como algo que eu
  deveria pesquisar.}
-{190}{Vree202}{Lamento, nao e uma de minhas especialidades. Talvez algum dos outros Irmaos
+{190}{Vree202}{Lamento, não é uma de minhas especialidades. Talvez algum dos outros Irmaos
  saberia.}
 {191}{Vree203}{Guardas! Guardas!}
-{192}{Vree204}{Voce destruiu minha sala!}
-{193}{Vree205}{O que voce acha que voce esta fazendo com as minhas coisas?}
+{192}{Vree204}{Você destruiu minha sala!}
+{193}{Vree205}{O que você acha que você esta fazendo com as minhas coisas?}
 {194}{Vree300)}{Quem? Espere, esse nome soa familiar. Talvez ele seja um lider
  de alguns dos mutantes.}
-{195}{Vree301}{Eu assumo que voce esta se referindo a ultima guerra nuclear. A Irmandade esta
+{195}{Vree301}{Eu assumo que você esta se referindo a ultima guerra nuclear. A Irmandade esta
  fazendo tudo que pode pra restaurar aquilo que foi perdido.}
-{196}{Vree302}{Eles sao dispositivos de armazenagem de alta densidade, legiveis a laser e fabricados em cristal.
+{196}{Vree302}{Eles são dispositivos de armazenagem de alta densidade, legiveis a laser e fabricados em cristal.
   Cada um contem mais de 4.000 gigabytes de informaçao.}
 {197}{Vree303}{A unica salvaçao que este planeta torturado e seu povo tem.
  Sem nos e certo que a humanidade perece.}
@@ -128,17 +128,17 @@
 {199}{Vree305}{Ele garante que a Irmandade fique no caminho da retidao.}
 {200}{Vree306}{Ele reforça os desejos do Elder Supremo. A força, se necessario.}
 {300}{}{Interessante.}
-{301}{}{Ok, isso deve faze-lo.}
+{301}{}{Certo, isso deve faze-lo.}
 {302}{}{Isto deveria corrigir isso.}
 {303}{}{Bom.}
 {304}{}{Eu sabia que ia funcionar.}
 {305}{}{Qual era a formula mesmo?}
-{306}{}{O algoritmo esta errado, nao pode ser. Algo deve estar errado
+{306}{}{O algoritmo esta errado, não pode ser. Algo deve estar errado
  com o computador.}
 {307}{}{Aqui estamos nos}
-{308}{}{Ok, entao se nos fizermos isto... sim, eu acho que funcionara.}
-{400}{}{Voce pode usar este terminal pra aumentar suas tecnicas com o computador.}
-{401}{}{A liçao termina seis horas depois. Voce se sente exausto.}
+{308}{}{Certo, então se nos fizermos isto... sim, eu acho que funcionara.}
+{400}{}{Você pode usar este terminal pra aumentar suas tecnicas com o computador.}
+{401}{}{A liçao termina seis horas depois. Você se sente exausto.}
 
 
 
@@ -172,9 +172,9 @@
 
 {1100}{Vree300}{Quem? Espere, esse nome soa familiar. Talvez ele seja um lider
  de alguns dos mutantes.}
-{1101}{Vree301}{Eu assumo que voce esta se referindo a ultima guerra nuclear. A Irmandade esta
+{1101}{Vree301}{Eu assumo que você esta se referindo a ultima guerra nuclear. A Irmandade esta
  fazendo tudo que pode pra restaurar aquilo que foi perdido.}
-{1102}{Vree302}{Eles sao dispositivos de armazenagem de alta densidade, legiveis a laser e
+{1102}{Vree302}{Eles são dispositivos de armazenagem de alta densidade, legiveis a laser e
  fabricados em cristal. Cada um contem mais de 4.000 gigabytes de informaçao.}
 {1103}{Vree303}{A unica salvaçao que este planeta torturado e seu povo tem.
  Sem nos e certo que a humanidade perece.}
@@ -201,5 +201,5 @@
  os relatórios para os outros Elders.}
 {1116}{Vree200}{Por favor fale com um dos outros escribas. Eu estou tentando terminar
  os relatórios para os outros Elders.}
-{1117}{Vree302}{Eles sao dispositivos de armazenagem de alta densidade, legiveis a laser e
+{1117}{Vree302}{Eles são dispositivos de armazenagem de alta densidade, legiveis a laser e
  fabricados em cristal. Cada um contem mais de 4.000 gigabytes de informaçao.}

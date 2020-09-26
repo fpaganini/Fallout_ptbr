@@ -9,7 +9,7 @@
 #
 #
 {100}{}{FEITO}
-{101}{}{OPCOES}
+{101}{}{OPções}
 {102}{}{FECHAR}
 {103}{}{IMPRIMIR}
 {104}{}{IDADE}
@@ -32,7 +32,7 @@
 {120}{}{Pontos do Personagem}
 {121}{}{Quantia de pontos do personagem livres que podem ser adicionados a uma das estat. basicas.}
 {122}{}{Proximo Nivel}
-{123}{}{A quantia de pontos de experiência necessarios pra promover pro proximo nível.}
+{123}{}{A quantia de pontos de experiência necessarios pra promover pro próximo nível.}
 {124}{}{Beneficios}
 {125}{}{Karma}
 {126}{}{- Mortes}
@@ -46,7 +46,7 @@
 {133}{}{Incapaz de incrementar.}  # 2
 {134}{}{No nível minimo.}        # 1
 {135}{}{Incapaz de decrementar.}  # 2
-{136}{}{Nao ha pontos de técnica livres disponiveis.}
+{136}{}{Não há pontos de técnica livres disponiveis.}
 {137}{}{Base:}
 {138}{}{TEC DE IDEN}
 {139}{}{TRACOS OPCIONAIS}
@@ -244,9 +244,9 @@
 #
 # Karma description strings
 #
-{1100}{}{Esta e uma estat. que representa sua reputaçao geral. Mais alto o número, melhor conhecido e respeitado você e. Se sua rep. e negativa, você e odiado por alguns por suas açoes mas.}
-{1101}{}{Você matou um grande número de pessoas. Isto não e geralmente uma coisa boa para ficar conhecido. Pessoas do lado errado da trilha contudo gostarao um pouco mais de você.}
-{1102}{}{Suas açoes revelaram que você ser um(a) campeao das pessoas. Sua guerra contra o mal e vilania e amplamente conhecida. Pessoas honraveis respeitarao mais você.}
+{1100}{}{Esta é uma estat. que representa sua reputaçao geral. Mais alto o número, melhor conhecido e respeitado você é. Se sua rep. e negativa, você e odiado por alguns por suas açoes mas.}
+{1101}{}{Você matou um grande número de pessoas. Isto não é geralmente uma coisa boa para ficar conhecido. Pessoas do lado errado da trilha contudo gostarao um pouco mais de você.}
+{1102}{}{Suas açoes revelaram que você ser um campeao das pessoas. Sua guerra contra o mal e vilania e amplamente conhecida. Pessoas honraveis respeitarao mais você.}
 {1103}{}{Você matou crianças, a juventude da terra devastada. Isto e considerado ser uma coisa realmente ruim. Sua pessoa ma, ma.}
 {1104}{}{Você aprecia totalmente a Nuka-Cola, o pop do mundo pos-nuclear.}
 {1105}{}{Você esta viciado no chem Buffout. Você deve tomar este chem numa base diaria ou sofrer os efeitos da retirada.}
@@ -254,20 +254,20 @@
 {1107}{}{Você tem um vicio em chems. Se você não tomar Psycho numa agenda regular, você sofrera, Se você o fizer, outros sofrerao.}
 {1108}{}{Seu corpo se tornou viciado em Radaway. Enquanto não ameaça a vida, você deve toma-lo regularmente.}
 {1109}{}{Você tem um problema com alcool. Realmente, você tem muitos problemas com o seu habito de beber.}
-{1110}{}{TEMPORARIO - O que e isto?}
+{1110}{}{TEMPORARIO - O que é isto?}
 
 
 #
 # Special Demo version only text
 #
-{5000}{}{Lamento, você so pode imprimir seu/sua}   # 1
+{5000}{}{Lamento, você só pode imprimir seu/sua}   # 1
 {5001}{}{personagem na versao completa.}   # 2
-{5002}{}{Lamento, você so pode salvar seu/sua}    # 1
+{5002}{}{Lamento, você só pode salvar seu/sua}    # 1
 {5003}{}{personagem na versao completa.}   # 2
-{5004}{}{Lamento, você so pode carregar um(a)} # 1
+{5004}{}{Lamento, você só pode carregar um} # 1
 {5005}{}{personagem salva na versao completa.}   # 2
 {5006}{}{MODO TRAPACA}
-{5007}{}{Nao disponivel no demo.}
+{5007}{}{Não disponivel no demo.}
 
 
 

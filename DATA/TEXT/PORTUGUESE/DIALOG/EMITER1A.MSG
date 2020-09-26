@@ -1,7 +1,7 @@
-{100}{}{Você não ve um painel de controle neste emissor. Talvez haja outro
- modo de baixar este campo de forca.}
-{101}{}{Você temporariamente desativa o campo de forca com o dano no emissor.}
-{102}{}{Você destroi completamente o emissor do campo de forca e o campo de forca se dissipa.}
-{103}{}{Você temporariamente desativa o emissor do campo de forca emitter.}
-{104}{}{Você falha em fazer qualquer coisa com o emissor do campo de forca.}
-{105}{}{Você ativa o emissor do campo de forca.}
+{100}{}{Você não vê um painel de controle neste emissor. Talvez haja outro
+ modo de baixar este campo de força.}
+{101}{}{Você temporariamente desativa o campo de força com o dano no emissor.}
+{102}{}{Você destroi completamente o emissor do campo de força e o campo de força se dissipa.}
+{103}{}{Você temporariamente desativa o emissor do campo de força emitter.}
+{104}{}{Você falha em fazer qualquer coisa com o emissor do campo de força.}
+{105}{}{Você ativa o emissor do campo de força.}

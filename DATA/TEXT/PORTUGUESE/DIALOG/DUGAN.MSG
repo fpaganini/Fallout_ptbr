@@ -1,26 +1,26 @@
-{100}{}{Você ve o Dugan, o viciado em Nuka-Cola dos Blades.}
-{101}{}{Você ve um homem magro muito alto com oculos.
+{100}{}{Você vê o Dugan, o viciado em Nuka-Cola dos Blades.}
+{101}{}{Você vê um homem magro muito alto com oculos.
  Ele tem uma garrafa de Nuka-Cola clutched na mao dele.}
 {102}{}{Sim?}
 {103}{}{Eu estou apenas olhando por ai, obrigado.}
 {104}{}{O que você faz por aqui?}
-{105}{}{O que e que ha com a Nuka-Cola?}
+{105}{}{O que é que há com a Nuka-Cola?}
 {106}{}{Quem esta no comando por aqui?}
-{107}{}{Ah, deixa pra la.}
+{107}{}{Ah, deixa pra lá.}
 {108}{}{Dah, Cola, bom?}
-{109}{}{Bem, entao pare de desperdicar meu tempo.}
+{109}{}{Bem, então pare de desperdicar meu tempo.}
 {110}{}{Eu pontifico muito sobre a vida, e ajudo os Blades a entenderem
  o verdadeiro significado da Nuka-Cola.}
-{111}{}{O que e tao bom a respeito da Nuka-Cola?}
-{112}{}{Isso e tudo? Isso não parece ajudar ninguem tanto assim.}
+{111}{}{O que é tão bom a respeito da Nuka-Cola?}
+{112}{}{Isso e tudo? Isso não parece ajudar ninguém tanto assim.}
 {113}{}{Quanto dessa coisa você bebe?}
 {114}{}{Eu posso perguntar algo mais pra você?}
 {115}{}{Ah, ok. Eu ficarei vendo você.}
-{116}{}{E a coisa da vida . . . Bem, de verdade, se eu não bebe-la numa
+{116}{}{É a coisa da vida . . . Bem, de verdade, se eu não bebe-lá numa
  base de hora em hora eu fico com uma dor de cabeca splitting.}
-{117}{}{Entao? [Dugan levanta as sombrancelhas dele pra você.]}
+{117}{}{Então? [Dugan levanta as sombrancelhas dele pra você.]}
 {118}{}{Por volta de 5 litros por dia.}
-{119}{}{Razor e a mulher com quem você vai quere falar.}
+{119}{}{Razor é a mulher com quem você vai quere falar.}
 {120}{}{Eu sou a pessoa mais burra que eu já encontrei - bem, alem de você. Saia daqui!}
 {121}{}{Eu preciso de outra Nuka-Cola!}
 {122}{}{Aonde meu cabelo foi?}

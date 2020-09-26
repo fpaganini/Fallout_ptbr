@@ -1,30 +1,30 @@
-{100}{}{Você ve uma Mercadora Mestra}
+{100}{}{Você vê uma Mercadora Mestra}
 {101}{}{Prendam este ladrão!}
-{102}{}{...Eu não me importo com o que eles dizem. Nos precisamos de novas partes... Oh, sim. Desculpe. O que eu posso fazer por você?}
+{102}{}{...Eu não me importo com o que eles dizem. Nós precisamos de novas partes... Ah, sim. Desculpe. O que eu posso fazer por você?}
 {103}{}{Eu quero um trabalho.}
 {104}{}{Você tem um Chip de Agua?}
 {105}{}{Nada, tchau.}
 {106}{}{Shek.}
-{107}{}{Com certeza, otimo. Você esta contratado. Espere. Qual posição? Oh, guarda da caravana, certo? Sim, com certeza. Você pode trabalhar pra nos. Você parece okay. Algo mais?}
-{108}{}{Nao.}
+{107}{}{Com certeza, otimo. Você esta contratado. Espere. Qual posição? Ah, guarda da caravana, certo? Sim, com certeza. Você pode trabalhar pra nos. Você parece okay. Algo mais?}
+{108}{}{Não.}
 {109}{}{Sim, você tem um Chip de Agua?}
 {110}{}{Veh?}
 {111}{}{Lamento, sem tempo para besteiras!}
-{112}{}{Chip de agua... hmm. Oh, aqueles velhos chips de controle da purificacao das Vaults. Bem, eu tenho certeza de que eu
+{112}{}{Chip de água... hmm. Ah, aqueles velhos chips de controle da purificacao das Vaults. Bem, eu tenho certeza de que eu
  falo pela cidade inteira quando eu digo que você não achara um aqui. Sem o equipamento apropriado eles são imprestaveis. So
  uma Vault ou talvez Necropolis teriam qualquer uso para um. Por que você pergunta?}
 {113}{}{Necropolis? Por que eles precisariam de um?}
 {114}{}{O chip da minha vault quebrou e eu estou procurando por um substituto.}
 {115}{}{Apenas curioso.}
 {116}{}{Eu não posso dizer.}
-{117}{}{Mesmo? Bem, como você provavelmente ouviu, nos suprimos uma grande quantidade de agua por toda a area. Eu tenho
+{117}{}{Mesmo? Bem, como você provavelmente ouviu, nos suprimos uma grande quantidade de água por toda a area. Eu tenho
  certeza de que nos poderiamos combinar em enviar uma caravana até sua Vault por uma taxa.}
 {118}{}{De quanto nos estamos falando?}
 {119}{}{Eu não sei se eu posso confiar em você.}
-{120}{}{Nao, obrigado.}
+{120}{}{Não, obrigado.}
 {121}{}{Sim, se você diz que sim.}
-{122}{}{Entao eu lamento, eu não acho que eu possa ajudar.}
-{123}{}{Nao consegue confiar em mim?!? E rotineiramente confiada a mim entregar agua para pessoas de longe mais paranoicas
+{122}{}{Então eu lamento, eu não acho que eu possa ajudar.}
+{123}{}{Não consegue confiar em mim?!? É rotineiramente confiada a mim entregar água para pessoas de longe mais paranoicas
  do que você mesmo! O que você acha que nos somos? Terroristas?}
 {124}{}{Okay, otimo. Quanto dinheiro você quer para enviar as caravanas?}
 {125}{}{Eu lamento. Eu não quis dizer ou implicar nada, mas eu não posso aceitar o risco.}
@@ -34,40 +34,40 @@
 {129}{}{Eu ainda estou procurando por um Chip de Agua.}
 {130}{}{Eu quero um trabalho.}
 {131}{}{Tchau.}
-{132}{}{Com certeza, otimo. Você esta contratado. Espere. Qual posição? Oh, guarda da caravana, certo? Sim, com certeza. Você pode trabalhar pra nos. Você parece okay.}
-{133}{}{Nos já passamos por isto. Você esta desejando pagar o preco para que as caravanas de agua comecem?}
+{132}{}{Com certeza, otimo. Você esta contratado. Espere. Qual posição? Ah, guarda da caravana, certo? Sim, com certeza. Você pode trabalhar pra nos. Você parece okay.}
+{133}{}{Nós já passamos por isto. Você esta desejando pagar o preço para que as caravanas de água comecem?}
 {134}{}{Mais cedo você mencionou que Necropolis poderia ter um Chip de Agua. Por que eles precisariam de um?}
 {135}{}{De quanto nos estamos falando?}
-{136}{}{Nao, ainda não.}
-{137}{}{Bem, e apenas um palpite mesmo. Nos tentamos iniciar um rota de caravana pra Necropolis uma vez mas eles recusaram a negociar
- conosco. Ninguem em sa consciencia recusa agua estes dias a menos que eles tenham um suprimento confiavel. Eu imagino que eles devam
- ter seu proprio purificador ou eles teriam morrido a muito tempo atras. Entao você ainda deseja que nos subamos até sua Vault?}
+{136}{}{Não, ainda não.}
+{137}{}{Bem, e apenas um palpite mesmo. Nós tentamos iniciar um rota de caravana pra Necropolis uma vez mas eles recusaram a negociar
+ conosco. Ninguem em sa consciencia recusa água estes dias a menos que eles tenham um suprimento confiavel. Eu imagino que eles devam
+ ter seu proprio purificador ou eles teriam morrido a muito tempo atras. Então você ainda deseja que nos subamos até sua Vault?}
 {138}{}{Sim, quanto e que vai me custar?}
-{139}{}{Nao, obrigado.}
-{140}{}{Bem, e uma distancia bem longa. 2000 tampinhas devem cobrir a caravana inicial, e eu tenho certeza que a sua Vault
+{139}{}{Não, obrigado.}
+{140}{}{Bem, é uma distancia bem longa. 2000 tampinhas devem cobrir a caravana inicial, e eu tenho certeza que a sua Vault
  tera coisas pra negociar para nos manter indo por algum tempo. Contudo, com nossas reservas atuais, Eu estou achando que
- nos so seremos capazes de manter a sua Vault até por uns 100 dias extras ou isso.}
+ nos só seremos capazes de manter a sua Vault até por uns 100 dias extras ou isso.}
 {141}{}{Tudo bem, aqui esta o dinheiro.}
 {142}{}{A Vault deve ser capaz de tomar conta da maioria do seu pagamento inicial. Por que eu não dou a você 1000 em vez disso para comecar?}
-{143}{}{E um caminho longo, mas a Vault tem bastante mercadorias para reembolsar você pelo seu dinheiro upfront. Entao, qual tal 500 ao inves disso?}
+{143}{}{É um caminho longo, mas a Vault tem bastante mercadorias para reembolsar você pelo seu dinheiro upfront. Então, qual tal 500 ao inves disso?}
 {144}{}{Eu não tenho o dinheiro, eu voltarei quando eu tiver.}
 {145}{}{Parece que você não tem dinheiro o bastante, volte quando você tiver. Lembre-se que você precisa de }
 {146}{}{ tampinhas.}
-{147}{}{Ok, eu posso comecar a enviar as caravanas para sua Vault hoje. Agora você deve saber, as caravanas são bastante visiveis
- indo pelo deserto. Entao, enviar as caravanas por esse caminho vai pintar um quadro muito bom para qualquer um que poderia estar
+{147}{}{Certo, eu posso comecar a enviar as caravanas para sua Vault hoje. Agora você deve saber, as caravanas são bastante visiveis
+ indo pelo deserto. Então, enviar as caravanas por esse caminho vai pintar um quadro muito bom para qualquer um que poderia estar
  procurando pela sua Vault. Você ainda tem certeza que você quer envia-las por esse caminho?}
 {148}{}{Eu creio que não.}
-{149}{}{Sim, a Vault precisa de agua.}
-{150}{}{Isso soa justo o bastante. A tecnologia das Vaults podem atingir um preco muito bom aqui embaixo no Hub.}
-{151}{}{Lamento mas eu so posso aceitar o pagamento completo.}
-{152}{}{Isso soa justo o bastante. A tecnologia das Vaults podem atingir um preco muito bom aqui embaixo no Hub.}
-{153}{}{Lamento mas eu so posso aceitar o pagamento completo.}
+{149}{}{Sim, a Vault precisa de água.}
+{150}{}{Isso soa justo o bastante. A tecnologia das Vaults podem atingir um preço muito bom aqui embaixo no Hub.}
+{151}{}{Lamento mas eu só posso aceitar o pagamento completo.}
+{152}{}{Isso soa justo o bastante. A tecnologia das Vaults podem atingir um preço muito bom aqui embaixo no Hub.}
+{153}{}{Lamento mas eu só posso aceitar o pagamento completo.}
 {154}{}{Você vai pagar a quantia que eu pedi para fazer as caravanas irem?}
-{155}{}{Ok, elas sairao em algumas horas.}
+{155}{}{Certo, elas sairao em algumas horas.}
 {156}{}{Eu lamento, mas os Mercadores da Agua não se associarao mais com você.}
 {157}{}{Você tem as }
-{158}{}{ tampinhas para nos comecarmos a caravana da agua para sua Vault?}
+{158}{}{ tampinhas para nos comecarmos a caravana da água para sua Vault?}
 
 # 200-201 added with patch 1.3 from TeamX
-{200}{}{... O que? ... Inferno. E VOCÊ? Apos você ter perdido todas as malditas caravanas? Saia daqui, nos não daremos mais trabalho a você.}
-{201}{}{VOCÊ? Nao diga nada. Maldicao, você abandonou elas! Eu não sei se isto esta certo, mas pode ser que eu darei a você mais uma chance. Va falar com o motorista.}
+{200}{}{... O que? ... Inferno. É VOCÊ? Apos você ter perdido todas as malditas caravanas? Saia daqui, nós não daremos mais trabalho a você.}
+{201}{}{VOCÊ? Não diga nada. Maldicao, você abandonou elas! Eu não sei se isto esta certo, mas pode ser que eu darei a você mais uma chance. Vá falar com o motorista.}

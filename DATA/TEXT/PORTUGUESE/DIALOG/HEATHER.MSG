@@ -3,8 +3,8 @@
 # job of confusing the matter for people. Elusive and evasive. She will play
 # on anything that you give her to work with.
 
-{100}{}{Voce ve a Heather dos Patrulheiros dos Seguidores.}
-{101}{}{O que voce esta fazendo aqui?}
+{100}{}{Você vê a Heather dos Patrulheiros dos Seguidores.}
+{101}{}{O que você esta fazendo aqui?}
 {102}{}{Izto!}
 # moronic line for This
 
@@ -12,14 +12,14 @@
 # moronic line for Good Bye.
 
 {104}{}{Eu estou apenas olhando por ai.}
-{105}{}{Eu estou aqui pra matar voce!}
+{105}{}{Eu estou aqui pra matar você!}
 {106}{}{Apenas curioso sobre o que esta acontecendo aqui.}
-{107}{}{Mesmo? E o que voce poderia estar procurando?}
+{107}{}{Mesmo? É o que você poderia estar procurando?}
 {108}{}{Eu acho que eu ja achei ela.}
 {109}{}{Eu estou procurando por um espiao.}
 {110}{}{Nada mesmo. Apenas olhando por ai.}
-{111}{}{Apenas informacao.}
-{112}{}{Obrigada, mas eu ja estou namorando. Eu acho que e hora de voce sair.}
+{111}{}{Apenas informação.}
+{112}{}{Obrigada, mas eu ja estou namorando. Eu acho que é hora de você sair.}
 # "I am already spoken for" == "i am already dating someone else"
 
 {113}{}{Sim, o espiao. Eu ouvi sobre essa peste incomoda. Eu realmente desejo
@@ -29,114 +29,114 @@
 {114}{}{Eu ouvi algumas vezes que era uma espia.}
 # Spy is considered female
 
-{115}{}{Voce ouviu qualquer coisa sobre este espiao?}
+{115}{}{Você ouviu qualquer coisa sobre este espiao?}
 # spy is considered male
 
-{116}{}{Voce e a espia!}
+{116}{}{Você é a espia!}
 # spy is considered female
 
-{117}{}{Boa sorte pra voce. Lamento que eu aborreci voce.}
+{117}{}{Boa sorte pra você. Lamento que eu aborreci você.}
 {118}{}{Eu aposto que era o fanfarrao Neil que falou demais. Eu terei que ter
  uma conversa com ele mais tarde.}
 # Neil is male
 
-{119}{}{Voce acha que o Neil e o espiao?}
+{119}{}{Você acha que o Neil e o espiao?}
 # spy is male. Neil is male.
 
-{120}{}{Entao quem voce acha que o espiao e?}
+{120}{}{Então quem você acha que o espiao e?}
 # spy is male
 
-{121}{}{Voce soa um pouco na defensiva. Por que? Algum motivo?}
+{121}{}{Você soa um pouco na defensiva. Por que? Algum motivo?}
 {122}{}{Eu tenho quase certeza disso. Eu apenas preciso de alguma prova.}
-{123}{}{Eu obterei a prova pra voce.}
-{124}{}{Ele parece uma pessoa bacana. Eu nao sei.}
-{125}{}{Por que voce acha que e ele?}
-{126}{}{Obrigado. Voce nao sabe o quanto isto significa pra mim. Uma vez que
- voce obtiver a prova, mate ele.}
-{127}{}{O que ha pra nao saber? Ele tem acesso as Criancas. Ele trabalha
+{123}{}{Eu obterei a prova pra você.}
+{124}{}{Ele parece uma pessoa bacana. Eu não sei.}
+{125}{}{Por que você acha que é ele?}
+{126}{}{Obrigado. Você não sabe o quanto isto significa pra mim. Uma vez que
+ você obtiver a prova, mate ele.}
+{127}{}{O que há pra não saber? Ele tem acesso as Crianças. Ele trabalha
  durante a noite quando a maioria esta adormecida. Tem que ser ele.}
 # Children is short for Children of the Cathedral. Religous cult who believe in destroying
 # anyone who gets in there way or acts against thier wishes. They are really bad people.
 # consider Male.
 
-{128}{}{Ok, Eu verificarei.}
-{129}{}{Esqueca. Eu acho que voce esta tentando me distrair!}
-{130}{}{Eu verdadeiramente lamento que voce pense dessa forma. Eu nao posso ter
- alguem pensando que eu sou uma espia. Agora eu vou ter que matar voce.}
+{128}{}{Certo, Eu verificarei.}
+{129}{}{Esqueça. Eu acho que você esta tentando me distrair!}
+{130}{}{Eu verdadeiramente lamento que você pense dessa forma. Eu não posso ter
+ alguém pensando que eu sou uma espia. Agora eu vou ter que matar você.}
 # Spy is female. "I will remove you from service" == "i am going to have to kill you now"
 
-{131}{}{Ele tem acesso as Criancas durante a noite. Ningem jamais ve ele no
+{131}{}{Ele tem acesso as Crianças durante a noite. Ningem jamais vê ele no
  dever. Deve ser ele.}
 # Children is short for Children of the Cathedral. Religous cult who believe in destroying
 # anyone who gets in there way or acts against thier wishes. They are really bad people.
 # consider Male.
 
-{132}{}{Ok, Eu verificarei.}
-{133}{}{Esqueca. Eu acho que voce esta tentando me distrair!}
-{134}{}{Eu nao estou certo de quem ele e. Eu acho que pode ser ou um guarda ou uma
- estudiosa. Eles continuam entrando furtivamente na Catedral das Criancas a noite.}
+{132}{}{Certo, Eu verificarei.}
+{133}{}{Esqueça. Eu acho que você esta tentando me distrair!}
+{134}{}{Eu não estou certo de quem ele é. Eu acho que pode ser ou um guarda ou uma
+ estudiosa. Eles continuam entrando furtivamente na Catedral das Crianças a noite.}
 # Guard is considered male. Scholar is considered female.
 # Children is short for Children of the Cathedral. Religous cult who believe in destroying
 # anyone who gets in there way or acts against thier wishes. They are really bad people.
 # consider Male.
 
-{135}{}{Quaisquer outras pistas em que voce possa pensar?}
+{135}{}{Quaisquer outras pistas em que você possa pensar?}
 # == is there any other information that you can think of?
 
-{136}{}{Mas eu ouvi que so os patrulheiros fazem ataques as Criancas.}
+{136}{}{Mas eu ouvi que só os patrulheiros fazem ataques as Crianças.}
 # scouts is male
 # Children is short for Children of the Cathedral. Religous cult who believe in destroying
 # anyone who gets in there way or acts against thier wishes. They are really bad people.
 # consider Male.
 
-{137}{}{Ok. Obrigado a voce pela sua ajuda.}
+{137}{}{Certo. Obrigado a você pela sua ajuda.}
 {138}{}{Not really. Just that I think it is a male and probably a scholar or guard.}
 # is is refering to a male spy. Scholar and guard are male.
 
-{139}{}{Ok. Obrigado a voce pela sua ajuda.}
-{140}{}{Verdade. Nos patrulheiros fazemos muitos ataques contra as Criancas, e com muitas
+{139}{}{Certo. Obrigado a você pela sua ajuda.}
+{140}{}{Verdade. Nós patrulheiros fazemos muitos ataques contra as Crianças, e com muitas
  perdas ultimamente. Este espiao nos custa caro.}
 # scouts is male. spy is male.
 # Children is short for Children of the Cathedral. Religous cult who believe in destroying
 # anyone who gets in there way or acts against thier wishes. They are really bad people.
 # consider Male.
 
-{141}{}{Voce parece realmente angustiado a respeito disto. Eu procurarei pelo espiao e matarei ele.}
+{141}{}{Você parece realmente angustiado a respeito disto. Eu procurarei pelo espiao e matarei ele.}
 # "you seem really torn up about this." == "you seem emotionally distraught over this"
 # spy == male
 
 {142}{}{Poderia o espiao ser um patrulheiro?}
 # spy and scout == male
 
-{143}{}{Obrigado a voce pela sua ajuda.}
+{143}{}{Obrigado a você pela sua ajuda.}
 {144}{}{Por que um de nos faria isso?}
 #us referres to the scouts
 
-{145}{}{Se voce matar os patrulheiros entao voce para os ataques.}
-{146}{}{Eu nao sei. Por que voce faria isso?}
-{147}{}{Nao sei. Apenas imaginando.}
+{145}{}{Se você matar os patrulheiros então você para os ataques.}
+{146}{}{Eu não sei. Por que você faria isso?}
+{147}{}{Não sei. Apenas imaginando.}
 {148}{}{Soa como um bom pensamento. Eu notei que o Peter nunca e atacado nos
  ataques. Eu acho que ele pode ser o espiao.}
 # Peter is male. She thinks that Peter may be the male spy.
 
-{149}{}{Ok, Eu verificarei.}
-{150}{}{Esqueca. Eu acho que voce esta tentando me distrair!}
-{151}{}{Voce acha que sou eu?}
+{149}{}{Certo, Eu verificarei.}
+{150}{}{Esqueça. Eu acho que você esta tentando me distrair!}
+{151}{}{Você acha que sou eu?}
 # it referring to the female spy.
 
 {152}{}{Eu lamento. Eu estou um pouco estressado.}
 # under a bit of stress.
 
-{153}{}{Sim! Agora voce morrera!}
-{154}{}{Entao va imaginar em algum outro lugar. Eu devo voltar ao trabalho.}
+{153}{}{Sim! Agora você morrera!}
+{154}{}{Então vá imaginar em algum outro lugar. Eu devo voltar ao trabalho.}
 # then think about it somewhere else
 
-{155}{}{Eu acho que ele pensa que eu sou a espia. Mas eu nao sou.}
+{155}{}{Eu acho que ele pensa que eu sou a espia. Mas eu não sou.}
 # spy is female
 
 {156}{}{Talvez ele esteja certo.}
 {157}{}{Por que ele pensaria isso?}
-{158}{}{Por que eu sou a nova patrulheira. Eu so estive aqui por um ano
+{158}{}{Por que eu sou a nova patrulheira. Eu só estive aqui por um ano
  e o problema comecou por volta de 5 meses atras.}
 # scout is female
 
@@ -146,23 +146,23 @@
 {160}{}{Eu acho que o Neil poderia ser o espiao. Eu irei verificar.}
 # spy is male.
 
-{161}{}{Entao procure em algum outro lugar. Este nao e o lugar pra voce.}
-{162}{}{Se voce precisa de informacao fale com a Nicole. Ela pensa que ela sabe de tudo.}
+{161}{}{Então procure em algum outro lugar. Este não é o lugar pra você.}
+{162}{}{Se você precisa de informação fale com a Nicole. Ela pensa que ela sabe de tudo.}
 # Nicole is female. said in a snotty manner.
 
-{163}{}{Eu posso ser persuadido a dizer a voce algo que esta acontecendo. Por um preco.}
+{163}{}{Eu posso ser persuadido a dizer a você algo que esta acontecendo. Por um preço.}
 {164}{}{Quanto?}
-{165}{}{Voce venderia segredos?}
-{166}{}{Esqueca. Eu nao tenho dinheiro.}
-{167}{}{Trezentas tampinhas e a informacao e sua.}
+{165}{}{Você venderia segredos?}
+{166}{}{Esqueça. Eu não tenho dinheiro.}
+{167}{}{Trezentas tampinhas é a informação e sua.}
 # caps are a form of money. equivalant to a dollar each
 
 {168}{}{Com certeza.}
 {169}{}{De modo algum.}
-{170}{}{Havera um ataque no extremo sul da fortaleza das Criancas. Agora va.}
-{171}{}{Tentando me trapacear? Eu vou dar uma licao pra voce!}
-{172}{}{Eu lamento que voce se sinta desse modo. Mas bom dia pra voce.}
-{173}{}{Eu preciso sobreviver de algum jeito. Agora, voce a quer ou nao?}
+{170}{}{Havera um ataque no extremo sul da fortaleza das Crianças. Agora vá.}
+{171}{}{Tentando me trapacear? Eu vou dar uma licao pra você!}
+{172}{}{Eu lamento que você se sinta desse modo. Mas bom dia pra você.}
+{173}{}{Eu preciso sobreviver de algum jeito. Agora, você a quer ou não?}
 # do you want me to give you the information?
 
 {174}{}{Com certeza.}

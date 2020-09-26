@@ -1,16 +1,16 @@
-{100}{}{Você ve um guarda ghoul.}
-{101}{}{Vai embora! Você não e desejado aqui.}
+{100}{}{Você vê um guarda ghoul.}
+{101}{}{Vai embora! Você não é desejado aqui.}
 {102}{}{OK. Bom encontrar você tambem.}
 {103}{}{Hã?}
-{104}{}{Eu estou no dever. Se você quer ver o Set, você tem que faze-lo la dentro.}
+{104}{}{Eu estou no dever. Se você quer ver o Set, você tem que faze-lo lá dentro.}
 {105}{}{A porta esta trancada. Você tera que voltar mais tarde quando estiver escuro.}
 {106}{}{Obrigado.}
 {107}{}{Hã?}
-{108}{}{Eu disse a você pra sair. Seu tipo não e desejado aqui.}
+{108}{}{Eu disse a você pra sair. Seu tipo não é desejado aqui.}
 {109}{}{Certo.}
 {110}{}{Myuh!}
 {111}{}{As portas não abrirao até escurecer.}
-{112}{}{Eu preciso entrar la. Ha algum modo de que você possa me ajudar?}
+{112}{}{Eu preciso entrar lá. Há algum modo de que você possa me ajudar?}
 {113}{}{Hmm, OK.}
 {114}{}{Ugh!}
 {115}{}{Bem, eu creio que não vai doer.}

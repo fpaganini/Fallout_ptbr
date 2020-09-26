@@ -3,5 +3,5 @@
 {102}{}{Estes são os quarters dos Paladinos, saia.}
 {103}{}{Por favor saia, você não deveria estar aqui.}
 {104}{}{Ei, não são permitidos Iniciados aqui.}
-{105}{}{Nao ha treinamento a noite.}
+{105}{}{Não há treinamento a noite.}
 {105}{}{Ei, estes não são os quarters dos Iniciados.}

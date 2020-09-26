@@ -9,5 +9,5 @@
 {108}{}{A porta range com muito barulho.}
 {109}{}{A porta já esta destrancada.}
 {110}{}{A tranca esta alem da sua habilidade de abrir.}
-{200}{}{Nao ha tranca nesta porta pra abrir.}
+{200}{}{Não há tranca nesta porta pra abrir.}
 {201}{}{Você nota algumas irregularidades na parede.}

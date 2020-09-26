@@ -1,20 +1,20 @@
-{100}{}{Voce ve Saul, o boxeador.}
-{101}{}{Voce ve um homem muscular, de aparencia forte.}
+{100}{}{Você vê Saul, o boxeador.}
+{101}{}{Você vê um homem muscular, de aparencia forte.}
 {102}{}{Ele tem musculos fortalecidos por anos de luta, e um olhar de peso leve
  caracteristico de um boxeador treinado.}
-{103}{}{Oh. Bem, boa sorte.}
-{104}{}{Este nao e o tempo ou lugar para armas amigo. Mas se voce se importa
+{103}{}{Ah. Bem, boa sorte.}
+{104}{}{Este não é o tempo ou lugar para armas amigo. Mas se você se importa
  em me testar alguma hora no ringue sinta-se livre.}
-{105}{}{O que voce quer?}
+{105}{}{O que você quer?}
 {106}{}{Sim?}
-{107}{}{O que voce faz aqui?}
-{108}{}{Um cara forte, eh? Eu aposto que eu poderia derrotar voce.}
+{107}{}{O que você faz aqui?}
+{108}{}{Um cara forte, eh? Eu aposto que eu poderia derrotar você.}
 {109}{}{Meu nome e }
 {110}{}{. Apenas dando uma olhada por ai.}
 {111}{}{[Saul ri heartily.] Por que? Eu sou um boxeador!}
 {112}{}{Ah, eu poderia chutar seu traseiro.}
 {113}{}{Hmm. Qual e o problema?}
-{114}{}{Uh, nao, obrigado.}
+{114}{}{Uh, não, obrigado.}
 {115}{}{Saul esta inconsciente.}
 {116}{}{}
 {117}{}{}
@@ -28,88 +28,88 @@
 {125}{}{ [Saul ri ameacadoramente.]}
 {126}{}{Tudo bem. Isto deve ser rapido.}
 {127}{}{Put up ou cale-se.}
-{128}{}{Bem, voce esta no lugar certo se voce esta procurando por algum pra
+{128}{}{Bem, você esta no lugar certo se você esta procurando por algum pra
       essa cara feia sua numa forma melhor.}
 {129}{}{Eu sou Saul.}
-{130}{}{Uh, nao, obrigado. Eu posso fazer a voce algumas perguntas?}
-{131}{}{Entao, voce esteve vivendo em Junktown ha muito tempo?}
-{132}{}{Bem, bacana encontrar voce. Mais tarde.}
+{130}{}{Uh, não, obrigado. Eu posso fazer a você algumas perguntas?}
+{131}{}{Então, você esteve vivendo em Junktown há muito tempo?}
+{132}{}{Bem, bacana encontrar você. Mais tarde.}
 {133}{}{Sim.}
 {134}{}{Eu estive aqui por toda a minha vida. Cresci aqui.}
-{135}{}{O que voce pode me dizer sobre Junktown?}
-{136}{}{Como voce se tornou um boxeador?}
+{135}{}{O que você pode me dizer sobre Junktown?}
+{136}{}{Como você se tornou um boxeador?}
 {137}{}{Hmm. Bem, estranho, eu trabalho pro Gizmo. Ele e o dono daquele otimo
- cassino ali. Paga bom dinheiro pra lutadores aqui tambem! O que mais voce
+ cassino ali. Paga bom dinheiro pra lutadores aqui tambem! O que mais você
  quer saber?}
-{138}{}{O que ha para fazer aqui?}
-{139}{}{Voce pode me dizer um pouco sobre Gizmo e aquele cassino?}
+{138}{}{O que há para fazer aqui?}
+{139}{}{Você pode me dizer um pouco sobre Gizmo e aquele cassino?}
 {140}{}{Estive lutando boxe por alguns anos.}
 {141}{}{Eu sempre estava entrando em brigas com meus irmaos quando eu cresci. Uma
- vez um pequeno bando de saqueadores atacou Junktown, e eu espanqui um ate a
+ vez um pequeno bando de saqueadores atacou Junktown, e eu espanqui um até a
  submissao antes que ele pudesse usar a arma dele em mim. Apenas sorte, mesmo,
  mas o Gizmo estava patrocinando lutas organizadas, e eu precisava de algum
- dinheiro. Estive boxeando desde entao.}
+ dinheiro. Estive boxeando desde então.}
 {142}{}{O que aconteceu com seus irmaos?}
-{143}{}{Entao o que ha para fazer nesta cidade?}
-{144}{}{Voce pode me dizer sobre seu chefe?}
-{145}{}{Se voce esta apenas procurando por suprimentos, voce deveria tentar o armazem
- do Killian Darkwater a sudeste daqui. Voce pode tambem conseguir uma noite de sono
- na Crash House perto daqui. Se voce esta planejando ficar por um tempo, voce poderia
+{143}{}{Então o que há para fazer nesta cidade?}
+{144}{}{Você pode me dizer sobre seu chefe?}
+{145}{}{Se você esta apenas procurando por suprimentos, você deveria tentar o armazem
+ do Killian Darkwater a sudeste daqui. Você pode tambem conseguir uma noite de sono
+ na Crash House perto daqui. Se você esta planejando ficar por um tempo, você poderia
  querer arrumar uma bebida no Skum Pitt, mas cuidado com os Skulz.}
-{146}{}{Quem sao os Skulz?}
-{147}{}{Entao, me diga mais sobre o cassino.}
-{148}{}{O cassino do Gizmo e aonde todos vao jogar. Ha muitos jogos
- e voce pode se divertir! E o melhor lugar deste lado do Hub!}
-{149}{}{O que mais ha para fazer por aqui?}
+{146}{}{Quem são os Skulz?}
+{147}{}{Então, me diga mais sobre o cassino.}
+{148}{}{O cassino do Gizmo e aonde todos vao jogar. Há muitos jogos
+ e você pode se divertir! É o melhor lugar deste lado do Hub!}
+{149}{}{O que mais há para fazer por aqui?}
 {150}{}{O meu irmao James foi morto num ataque de saqueadores alguns anos atras.
  Brevemente apos isso o meu outro irmao, Darrell, juntou algumas coisas e saiu
  pro sul em direcao a um lugar mitico chamado o Glow, em busca do tesouro dos
  antigos, ou algo como isso. Ele nunca voltou.}
-{151}{}{Por que voce fica em Junktown?}
+{151}{}{Por que você fica em Junktown?}
 {152}{}{Uh, nos podemos mudar de assunto?}
 {153}{}{Eu lamento ouvir sobre a sua perda.}
-{154}{}{O que voce sabe sobre este lugar lendario, o Glow?}
-{155}{}{Obrigado. Foi ha alguns anos mas eu ainda nao gosto de falar muito
+{154}{}{O que você sabe sobre este lugar lendario, o Glow?}
+{155}{}{Obrigado. Foi há alguns anos mas eu ainda não gosto de falar muito
  sobre issso.}
-{156}{}{Entao, eu posso fazer algumas perguntas?}
+{156}{}{Então, eu posso fazer algumas perguntas?}
 {157}{}{Eu vivo aqui. Eu gosto de boxear, eu tenho uma boa vida com a Trish,
- e eu nao tenho desejo de ir pra qualquer outro lugar.}
-{158}{}{Oh. Bem, isso e bom. Se importa se nos mudarmos de assunto?}
+ e eu não tenho desejo de ir pra qualquer outro lugar.}
+{158}{}{Ah. Bem, isso e bom. Se importa se nos mudarmos de assunto?}
 {159}{}{Sim, eu encontrei a Trish.}
 {160}{}{Bem, o que?}
-{161}{}{Com o que eu posso ajudar voce?}
-{162}{}{O que ha pra se fazer aqui?}
-{163}{}{Voce pode me dizer um pouco sobre o seu chefe?}
-{164}{}{[Voce bate na sua arma] Eu gostaria que voce encontrasse meu pequeno amigo.}
-{165}{}{Obrigado pela conversa. Vejo voce por ai.}
-{166}{}{Os Skulz sao um bando ruim que hang out nos fundos da Crash House e
+{161}{}{Com o que eu posso ajudar você?}
+{162}{}{O que há pra se fazer aqui?}
+{163}{}{Você pode me dizer um pouco sobre o seu chefe?}
+{164}{}{[Você bate na sua arma] Eu gostaria que você encontrasse meu pequeno amigo.}
+{165}{}{Obrigado pela conversa. Vejo você por ai.}
+{166}{}{Os Skulz são um bando ruim que hang out nos fundos da Crash House e
  no Skum Pitt. Cuidado com eles; eles gostam de brincar com facas.}
 {167}{}{Obrigado pela dica. Eu tomarei cuidado com aonde eu piso.}
-{168}{}{Entendo. Algo mais que voce possa me dizer a respeito?}
-{169}{}{Bem, esteja certo(a) de manter suas maos fora, eh?}
+{168}{}{Entendo. Algo mais que você possa me dizer a respeito?}
+{169}{}{Bem, esteja certo de manter suas maos fora, eh?}
 {170}{}{Ela e muito importante para mim.}
-{171}{}{ [Saul frowns.] Mas ela nao gosta do meu boxear. Ela nao parece
+{171}{}{ [Saul frowns.] Mas ela não gosta do meu boxear. Ela não parece
  entender que o que eu quero fazer.}
-{172}{}{Ela esta preocupada com seu bem-estar. Ela provavelmente nao consegue
- aguentar ver voce sendo espancado e arriscando sua vida pelo Gizmo. Se voce
- nao achar um compromise, voce poderia perde-la.}
-{173}{}{Eu acho que ela esta preocupada com voce.}
-{174}{}{Entao, falaremos sobre algo mais?}
-{175}{}{Bem, vejo voce mais tarde.}
-{176}{}{Eu nunca pensei desse modo. Eu imaginava que ele apenas nao gostava de
+{172}{}{Ela esta preocupada com seu bem-estar. Ela provavelmente não consegue
+ aguentar ver você sendo espancado e arriscando sua vida pelo Gizmo. Se você
+ não achar um compromise, você poderia perde-lá.}
+{173}{}{Eu acho que ela esta preocupada com você.}
+{174}{}{Então, falaremos sobre algo mais?}
+{175}{}{Bem, vejo você mais tarde.}
+{176}{}{Eu nunca pensei desse modo. Eu imaginava que ele apenas não gostava de
  boxe. Eu suponho que eu terei que falar mais com ela sobre isto. Obrigado.}
-{177}{}{Ah, ela apenas nao gosta de boxe, e tudo.}
+{177}{}{Ah, ela apenas não gosta de boxe, e tudo.}
 {178}{}{Bem, nos podemos falar sobre algo mais?}
-{179}{}{Vejo voce por ai.}
-{180}{}{Voce de novo. O que agora?}
+{179}{}{Vejo você por ai.}
+{180}{}{Você de novo. O que agora?}
 {181}{}{Ola de novo.}
-{182}{}{Eu estou aqui para ensinar a voce algumas maneiras.}
-{183}{}{Eu preciso de falar com voce sobre a Trish.}
-{184}{}{O que voce pode me dizer sobre Junktown?}
-{185}{}{Do que eu ouvi, o Glow e uma grande cratera que brilha anoite.
- Supostamente esta longe, bem longe ao soul, mas eu nao sei aonde. As
- estorias dizem que ela e habitada por todos os tipos de aberracoes
+{182}{}{Eu estou aqui para ensinar a você algumas maneiras.}
+{183}{}{Eu preciso de falar com você sobre a Trish.}
+{184}{}{O que você pode me dizer sobre Junktown?}
+{185}{}{Do que eu ouvi, o Glow é uma grande cratera que brilha anoite.
+ Supostamente esta longe, bem longe ao soul, mas eu não sei aonde. As
+ estorias dizem que ela e habitada por todos os tipos de aberrações
  mutantes que guardam a tecnologia de antes da Guerra.}
-{186}{}{Entendo. Obrigado pela informacao.}
-{187}{}{Interessante. Voce pode me dar mais alguma informacao?}
-{188}{}{Isso sera dificil sem nenhuma cabeca, palooka.}
+{186}{}{Entendo. Obrigado pela informação.}
+{187}{}{Interessante. Você pode me dar mais alguma informação?}
+{188}{}{Isso sera difícil sem nenhuma cabeca, palooka.}

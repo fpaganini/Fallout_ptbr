@@ -1,2 +1,2 @@
-{100}{}{Você ve um ghoul brilhante.}
+{100}{}{Você vê um ghoul brilhante.}
 {101}{}{Você trilha sem permissao.}

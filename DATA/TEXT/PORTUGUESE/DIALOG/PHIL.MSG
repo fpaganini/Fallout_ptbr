@@ -17,7 +17,7 @@
 {116}{}{Era o "animal de estimação" de um viajante. Quando o viajante morreu, este
  cão maldito apenas largou sua bunda peluda na minha porta
  e não sai. Está lá há dias.}
-{117}{}{Oh.}
+{117}{}{Ah.}
 {118}{}{Quem foi este viajante?}
 {119}{}{Como era o viajante?}
 {120}{}{Eu não sei. Um cara. Ele veio do leste, ele disse.
@@ -28,7 +28,7 @@
  o teto do cassino. O viajante quebrou seu pescoço damnfool e
  morreu. O cachorro estava chateado.}
 {122}{}{Como era o viajante?}
-{123}{}{Oh, o cara era alto, de cabelos escuros e um pouco grisalho
+{123}{}{Ah, o cara era alto, de cabelos escuros e um pouco grisalho
  em torno das bordas. Ele estava todo vestido de couro preto,
  como essa é uma boa ideia no deserto, e carregada
  uma espingarda.}

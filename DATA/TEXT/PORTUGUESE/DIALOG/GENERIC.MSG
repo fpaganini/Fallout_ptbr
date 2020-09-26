@@ -1,7 +1,7 @@
 {100}{}{O que você quer?}
 {101}{}{Deixe-me em paz.}
 {102}{}{O que?}
-{103}{}{Nao mexa com minhas coisas.}
+{103}{}{Não mexa com minhas coisas.}
 {104}{}{Oi.}
 {105}{}{Arrrr!}
 {106}{}{Grrrrr!}
@@ -9,13 +9,13 @@
 {108}{}{Uhh.}
 {109}{}{Ei, você ouviu que Set foi morto?}
 {110}{}{Set esta morto. Set esta morto. Set esta morto . . .}
-{111}{}{Ha bastante agua para ir para todos.
+{111}{}{Há bastante água para ir para todos.
  Set faz ter certeza disso.}
 {112}{}{Eu ouvi que os mutantes got run out da cidade.}
 {113}{}{Desde que os mutantes sairam tem sido melhor.}
 {114}{}{Ola.}
 {200}{}{Você examina a coisa pitiful, mas não consegue pensar em que poderia
- te-la feito do jeito que e.}
+ te-lá feito do jeito que é.}
 {201}{}{Parece ter sido humano uma vez, ou pelo menos descendeu de humanos.
  Você supoe que a deterioracao no corpo e mais provável devido a acido
  ou radicao.}

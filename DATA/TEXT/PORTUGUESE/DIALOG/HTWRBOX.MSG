@@ -1,18 +1,18 @@
-{100}{}{Voce ve uma strongbox trancada.}
-{101}{}{Voce ve uma stronbox destrancada.}
+{100}{}{Você vê uma strongbox trancada.}
+{101}{}{Você vê uma stronbox destrancada.}
 {102}{}{A strongbox esta trancada.}
-{103}{}{Enquanto abria o strongbox, voce detectou e desarmou uma armadilha.}
-{104}{}{Enquanto abria o strongbox, voce detectou uma armadilha, mas acidentalmente a detonou.}
-{105}{}{Enquanto abria o strongbox, voce detectou uma armadilha, mas falhou em desarma-la.}
+{103}{}{Enquanto abria o strongbox, você detectou e desarmou uma armadilha.}
+{104}{}{Enquanto abria o strongbox, você detectou uma armadilha, mas acidentalmente a detonou.}
+{105}{}{Enquanto abria o strongbox, você detectou uma armadilha, mas falhou em desarma-lá.}
 {106}{}{A strongbox ja esta destrancada.}
-{107}{}{Voce destrancou com sucesso a strongbox.}
+{107}{}{Você destrancou com sucesso a strongbox.}
 {108}{}{Suas multiplas tentativas de destrancar a strongbox detonaram uma armadilha.}
-{109}{}{Voce foi incapaz de destrancar o strongbox, e a tranca ficou emperrada.}
-{110}{}{Voce foi incapaz de destrancar o strongbox.}
-{111}{}{Voce acha uma armadilha no strongbox e a desarmou com sucesso.}
-{112}{}{Voce acha uma armadilha no strongbox.}
-{113}{}{Enquanto procurava a strongbox por ardamilhas, voce acidentalmente a detonou.}
-{114}{}{Voce nao acha nada enquanto procura a strongbox por armadilhas.}
-{115}{}{Voce desarmous com sucesso a armadilha.}
-{116}{}{Voce acidentalmente detonou a armadilha.}
-{117}{}{Voce falhou em desarmar a armadilha.}
+{109}{}{Você foi incapaz de destrancar o strongbox, é a tranca ficou emperrada.}
+{110}{}{Você foi incapaz de destrancar o strongbox.}
+{111}{}{Você acha uma armadilha no strongbox é a desarmou com sucesso.}
+{112}{}{Você acha uma armadilha no strongbox.}
+{113}{}{Enquanto procurava a strongbox por ardamilhas, você acidentalmente a detonou.}
+{114}{}{Você não acha nada enquanto procura a strongbox por armadilhas.}
+{115}{}{Você desarmous com sucesso a armadilha.}
+{116}{}{Você acidentalmente detonou a armadilha.}
+{117}{}{Você falhou em desarmar a armadilha.}

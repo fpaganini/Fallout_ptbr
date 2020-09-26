@@ -1,93 +1,93 @@
-{100}{}{Você ve um homen numa armadura de couro empoeirada com a trenchcoat e mascara de gas.}
-{101}{}{Você ve Tycho.}
+{100}{}{Você vê um homen numa armadura de couro empoeirada com a trenchcoat e mascara de gas.}
+{101}{}{Você vê Tycho.}
 {102}{}{Outra cara nova. Viajantes aqui são uma moeda em uma duzia. Mas você tem o
- olhar de alguem diferente. Se importa em se juntar a mim para uma bebida?}
+ olhar de alguém diferente. Se importa em se juntar a mim para uma bebida?}
 {103}{}{Lamento, Eu estou um tanto pressionado pelo tempo.}
 {104}{}{Com certeza.}
 {105}{}{Duh-wah?}
 {106}{}{Delicioso. Eu espero que você não se importe que seu drink well-watered - eles
  tratam cerveja aqui como se fosse it's a potted plant.}
-{107}{}{Entao, qual e a sua historia?}
-{108}{}{Sim, um drink de agua. Deixa pra la.}
+{107}{}{Então, qual é a sua historia?}
+{108}{}{Sim, um drink de água. Deixa pra lá.}
 {109}{}{Eu poderia perguntar o mesmo de você. No interesse da amizade, Eu suponho que eu
  direi primeiro. Eu sou chamado Tycho. Vim do leste, do que costumava ser chamado Nevada.}
-{110}{}{Essa e uma viagem bem longa.}
+{110}{}{Essa é uma viagem bem longa.}
 {111}{}{Como você sobreviveu a todos os perigos?}
 {112}{}{Sim, foi. Decidi ir com calma por um tempo. Este lugar mostra alguma
- promessa, tao breve quanto alguem limpa um pouco da escoria.}
+ promessa, tão breve quanto alguém limpa um pouco da escoria.}
 {113}{}{Por que não você?}
 {114}{}{Sim, eu notei. O que você sabe sobre esses panacas?}
 {115}{}{Tive um pouco de treinamento muito bom, e algumas boas armas tambem, Meu avô
- era um Patrulheiro bem la atras, e ele ensinou a meu pai tudo que ele sabia. O pai
- passou para mim. Entao eu sei o bastante para não beber agua brilhante, por assim falar.}
+ era um Patrulheiro bem lá atras, e ele ensinou a meu pai tudo que ele sabia. O pai
+ passou para mim. Então eu sei o bastante para não beber água brilhante, por assim falar.}
 {116}{}{Interessante. Obrigado pela bebida.}
-{117}{}{Realmente? A sobrevivencia e dificil estes dias. Você deve ter bastante conhecimento.}
-{118}{}{Nao o meu lugar. Eu preferiria não cruzar com o Killian, depois de tudo. Ele limpara
+{117}{}{Realmente? A sobrevivencia e difícil estes dias. Você deve ter bastante conhecimento.}
+{118}{}{Não o meu lugar. Eu preferiria não cruzar com o Killian, depois de tudo. Ele limpara
  esta cidade quando ele gets around to it. Um bom homem, marque minhas palavras. Mas cuidado
  com aquele camarada Gizmo. Me lembra de outra aberracao gorda que meu pai me disse a respeito
  tempos atras em Las Vegas.}
 {119}{}{Obrigado pela dica, e pela bebida.}
-{120}{}{Ha duas classes de escoria aqui. Uma delas são os Skulz, uma gangue que se
+{120}{}{Há duas classes de escoria aqui. Uma delas são os Skulz, uma gangue que se
  junta nas costas da Crash House da Marcelles. Eles são apenas grade-B twerps. Mas
  o outro responde por uma aberracao gorda cujo nome você pode provavelmente
  advinhar. Dirige o cassino. Esses caras são organizados e perigosos.}
-{121}{}{Eu entendo. Obrigado pela informacao.}
-{122}{}{Sim, bem, minha familia me ensinou tudo que ha para saber sobre sobrevivencia.
- Nao beba agua que esta totalmente limpa e livre de insetos e musgo, por exemplo. So
- agua venenosa ou radioativa seria limpa assim em terra selvagem. Muitas outras
+{121}{}{Eu entendo. Obrigado pela informação.}
+{122}{}{Sim, bem, minha familia me ensinou tudo que há para saber sobre sobrevivencia.
+ Não beba água que esta totalmente limpa e livre de insetos e musgo, por exemplo. So
+ água venenosa ou radioativa seria limpa assim em terra selvagem. Muitas outras
  pequenas coisas para ter cuidado, tambem.}
 {123}{}{Como o que?}
 {124}{}{Bem, se você tem algum tempo, eu poderia ir over some pointers.}
 {125}{}{Com certeza, isso seria otimo.}
 {126}{}{Lamento, eu estou um pouco pressionado pelo tempo.}
-{127}{}{Whoa, não tao rapido. Nos nunca terminamos as apresentacoes, lembra? Qual e o
+{127}{}{Whoa, não tão rapido. Nós nunca terminamos as apresentações, lembra? Qual e o
  seu nome, estranho?}
 {128}{}{Eu sou }
 {129}{}{.}
-{130}{}{Nao e da sua conta, seu maluco.}
+{130}{}{Não e da sua conta, seu maluco.}
 {131}{}{Bom encontrar você. Ande com cuidado, amigo.}
-{132}{}{Agora, agora, não ha necessidade de ser mal-educado. Mas com essa atitude
+{132}{}{Agora, agora, não há necessidade de ser mal-educado. Mas com essa atitude
  melhor você estar no seu caminho.}
 {133}{}{Me morda.}
 {134}{}{Que seja. Vejo você.}
 {135}{}{O que você quer?}
-{136}{}{Lamento perturbar seu tempo em particular. Va se masturbar em outro lugar.}
-{137}{}{Eu preciso de informacao sobre os membros das gangues aqui.}
-{138}{}{Eu preciso de informacao sobre a cidade.}
+{136}{}{Lamento perturbar seu tempo em particular. Vá se masturbar em outro lugar.}
+{137}{}{Eu preciso de informação sobre os membros das gangues aqui.}
+{138}{}{Eu preciso de informação sobre a cidade.}
 {139}{}{Ola de novo. Como eu posso ajudar você?}
 {140}{}{Killian me pediu pra limpar esta cidade, e eu gostaria de sua ajuda.}
 {141}{}{Bem, este e o Skum Pitt, uma colmeia wretched de vilania e tudo isso. A oeste daqui
  esta o Gizmo, um grande cassino. A palavra e de que os jogos são rigged. Um pouco a sul
  daqui esta a Crash House, dirigida por Marcelles, onde você pode conseguir uma noite de
  sono por muitos caps. Alem dessa esta o Killian. Killian comanda um armazem, e ele tambem
- impoe a lei nesta cidade - um bom homem. Entao, ao sul daqui você tem o Doutor Morbid,
+ impoe a lei nesta cidade - um bom homem. Então, ao sul daqui você tem o Doutor Morbid,
  cuja operacao e um pouco esquisita, se você entende o que eu quero dizer.}
 {142}{}{Eu espero que meu pequeno curso de instrucao tenha ajudado um pouco.}
 {143}{}{}
 {144}{}{A palavra por ai e que você tem tido alguns contatos com o Gizmo. Eu andaria
  cuidadosamente em volta daquele barril de banha se eu fosse você.}
-{145}{}{Meus negocios não são seus.}
-{146}{}{Sim, eu trabalho para o Gizmo agora. What's it to you?}
-{147}{}{Justo o bastante. Mas cuidado com suas costas. Gizmo não e conhecido por sua
+{145}{}{Meus negócios não são seus.}
+{146}{}{Sim, eu trabalho para o Gizmo agora. O que é isso para você?}
+{147}{}{Justo o bastante. Mas cuidado com suas costas. Gizmo não é conhecido por sua
  consideracao pelos seus empregados.}
 {148}{}{Basta dizer que seu empregador causou mais do que o bastante de miseria e
- contenda nesta cidade. Nao espere muita ajuda de ninguem, menos de tudo, do Gizmo.
+ contenda nesta cidade. Não espere muita ajuda de ninguém, menos de tudo, do Gizmo.
  Muito mau. Você poderia ter sido capaz de mudar esta cidade para melhor.}
 {149}{}{O que eu posso fazer por você?}
-{150}{}{Quaisquer recomendacoes?}
-{151}{}{Obrigado por sua ajuda. Eu acho que e a hora de separar nossos caminhos.}
+{150}{}{Quaisquer recomendações?}
+{151}{}{Obrigado por sua ajuda. Eu acho que é a hora de separar nossos caminhos.}
 {152}{}{Sim, eu ficaria longe pra caramba de quem quer que fez isso. Seriamente,
- eu nunca vi nada como isso. Eu acho que nossa melhor opcao e nos mover, rapido.}
+ eu nunca vi nada como isso. Eu acho que nossa melhor opção e nós mover, rapido.}
 {153}{}{Muito bem. Eu devo dizer que foi uma honra e um prazer.}
 {154}{}{Cuidado com hot spots radioativos. Este lugar obviamente susteve um
- direto ataque nuclear e a cascata secundaria de radiação pode ser ruim. Eu
+ direto ataque nuclear é a cascata secundaria de radiação pode ser ruim. Eu
  recomendaria evitarmos este lugar completamente se nos pudermos.}
-{155}{}{Note a falta de qualquer vida animal por uma grande distância. E as pilhas de
- ossos. O que quer que viva aqui e uma fera de verdade. Mantenha sua arma a mao.}
+{155}{}{Note a falta de qualquer vida animal por uma grande distância. É as pilhas de
+ ossos. O que quer que viva aqui é uma fera de verdade. Mantenha sua arma a mao.}
 {156}{}{Um lugar militar como este deve ter uma sala de comando central em algum lugar.}
-{157}{}{Eu aposto que nos poderiamos ir atraves desses geradores de campo de forca
- com um pouco de hot-wiring, ou se nos pudessemos achar o computador do campo de forca.}
-{158}{}{Ha muitos contos estranhos sobre Necropolis, a cidade dos mortos. Fique
+{157}{}{Eu aposto que nos poderiamos ir atraves desses geradores de campo de força
+ com um pouco de hot-wiring, ou se nos pudessemos achar o computador do campo de força.}
+{158}{}{Há muitos contos estranhos sobre Necropolis, a cidade dos mortos. Fique
  alerta, porque poderia ficar perigoso realmente rapido.}
 {159}{}{Eu preciso mudar a formacao.}
 {160}{}{A que distância você me quer?}
@@ -95,9 +95,9 @@
 {162}{}{Mantenha uma distância moderada.}
 {163}{}{Mova-se para um alcance maior.}
 {164}{}{Quais tipos de técnicas com armas você aprendeu?}
-{165}{}{Treinamento de ranger muito bom: Eu posso usar uma lanca, claro, em um beliscao;
+{165}{}{Treinamento de ranger muito bom: Eu posso usar uma lança, claro, em um beliscao;
  Eu tambem sou treinado com pequenas pistolas e rifles.}
-{166}{}{Uh, deixa pra la.}
+{166}{}{Uh, deixa pra lá.}
 
 #
 # TRANSLATION NOTE: The following line is not spoken to the player, but instead
@@ -121,7 +121,7 @@
 
 {170}{}{Sim?}
 {171}{}{Eu acho que nos deveriamos ficar juntos, depois de tudo.}
-{172}{}{Nada. Deixa pra la.}
+{172}{}{Nada. Deixa pra lá.}
 {173}{}{Você ganha 300 pontos de experiência por recrutar Tycho, o ranger do deserto.}
 
 #
@@ -193,21 +193,21 @@
 {1064}{}{Policia}
 {1065}{}{Mercadores}
 
-{1100}{}{Bem, Junktown não e realmente o lar, mas e uma cidade interessante. Ela tem
+{1100}{}{Bem, Junktown não é realmente o lar, mas é uma cidade interessante. Ela tem
  potencial, embora eu não saiba se construir da refugo do passado e o melhor
  caminho para construir o futuro.}
-{1101}{}{Nos Rangers saudamos do leste, do que costumava ser chamada Nevada. Nosso
- legado se estende de volta aos dias dos Texas Rangers. Nos aprendemos técnicas de
+{1101}{}{Nós Rangers saudamos do leste, do que costumava ser chamada Nevada. Nosso
+ legado se estende de volta aos dias dos Texas Rangers. Nós aprendemos técnicas de
  sobrevivencia e combate de modo a sair no mundo e ter uma chance de sobreviver e
  tornar as coisas melhores.}
-{1102}{}{Eu não vi uma reliquia da velha tecnologia como um chip de agua por muito
- tempo. Pessoalmente, você esta melhor fora dependendo de si mesmo, não de algum
- pedaco de tecnologia que você não pode consertar.}
+{1102}{}{Eu não vi uma reliquia da velha tecnologia como um chip purificador de água por muito
+ tempo. Pessoalmente, você esta melhor fora dependendo de si próprio, não de algum
+ pedaço de tecnologia que você não pode consertar.}
 {1103}{}{A Guerra foi um testamento da ganância e insanidade humana. Vamos esperar
  que nos aprendamos o bastante para nunca repetir tal loucura.}
 {1104}{}{As terras despovoadas são hostis e perigosas até mesmo para o viajante
  prudente. Radiação e criaturas estranhas tomarao a taxa delas. Caminhe com cuidado
- e lembre-se que tudo que você ve e ouve e uma pista.}
+ e lembre-se que tudo que você vê e ouve é uma pista.}
 {1105}{}{Eu lamento, eu não posso ajudar você nisso.}
 {1106}{}{Eu lamento, eu não posso ajudar você nisso.}
 {1107}{}{Eu lamento, eu não posso ajudar você nisso.}
@@ -228,20 +228,20 @@
  sobre elas.}
 {1120}{}{Eu ouvi das grandes Vaults no subsolo. Apesar disso, eu não sei muito
  sobre elas.}
-{1121}{}{Killian e um bom homem fazendo um trabalho dificil.}
+{1121}{}{Killian e um bom homem fazendo um trabalho difícil.}
 {1122}{}{Gizmo e . . . bem, ele me strike as a crook. Ele tera o dele no final.}
-{1123}{}{A Boneyard? Me foi dito que e um lugar de gangues e vida dura, perto da
+{1123}{}{A Boneyard? Me foi dito que é um lugar de gangues e vida dura, perto da
  costa.}
 {1124}{}{Eu lamento, eu não posso ajudar você nisso.}
 {1125}{}{Eu lamento, eu não posso ajudar você nisso.}
-{1126}{}{O Hub e uma comunidade mercantil gigante, a um caminho curto ao sul de
+{1126}{}{O Hub é uma comunidade mercantil gigante, a um caminho curto ao sul de
  Junktown.}
 {1127}{}{O cassino do Gizmo e provavelmente um dos ultimos lugares que eu quero ir,
- a menos que nos estamos indo para pisar no pescoco do Gizmo. Nao que eu pudesse
+ a menos que nos estamos indo para pisar no pescoco do Gizmo. Não que eu pudesse
  passar um pe por toda a gordura de baleia.}
 {1128}{}{Killian tem um armazem decente em Junktown.}
 {1129}{}{Ouvi alguns contos sobre alguma coisa mais rapida, maior e mais ma do que
- qualquer criatura vivente tem o direito de ser. Nao muitos, o que significa que
+ qualquer criatura vivente tem o direito de ser. Não muitos, o que significa que
  não deixa muito sobreviventes. Grandes garras, disposicao feroz.}
 {1130}{}{Eu lamento, eu não posso ajudar você nisso.}
 {1131}{}{Eu lamento, eu não posso ajudar você nisso.}
@@ -250,13 +250,13 @@
 {1134}{}{Eu lamento, eu não posso ajudar você nisso.}
 {1136}{}{Eu lamento, eu não posso ajudar você nisso.}
 {1137}{}{Eu lamento, eu não posso ajudar você nisso.}
-{1138}{}{Os militares tinham varias bases secretas espalhadas, eu sei. Eu so
+{1138}{}{Os militares tinham varias bases secretas espalhadas, eu sei. Eu só
  não sei onde.}
-{1139}{}{Os militares tinham varias bases secretas espalhadas, eu sei. Eu so
+{1139}{}{Os militares tinham varias bases secretas espalhadas, eu sei. Eu só
  não sei onde.}
 {1141}{}{O Armagedom Nuclear foi o resultado de orgulho e tolice. Agora, nos estamos
- pagando o preco.}
-{1142}{}{Certamente ha algumas coisas estranhas la fora. Eu vi escorpioes e vacas
+ pagando o preço.}
+{1142}{}{Certamente há algumas coisas estranhas lá fora. Eu vi escorpioes e vacas
  transformadas, e eu ouvi que Necropolis e lar para os ghouls, que parecem
  humanos mas são de longe diferentes.}
 {1143}{}{Eu lamento, eu não posso ajudar você nisso.}
@@ -279,7 +279,7 @@
 {1159}{}{Eu lamento, eu não posso ajudar você nisso.}
 {1160}{}{Eu lamento, eu não posso ajudar você nisso.}
 {1161}{}{Eu lamento, eu não posso ajudar você nisso.}
-{1162}{}{Você quer dizer telepaticos? Heh . . . seriamente, eu não compro isso.}
+{1162}{}{Você quer dizer telepaticos? Ei . . . seriamente, eu não compro isso.}
 {1163}{}{Eu lamento, eu não posso ajudar você nisso.}
 {1164}{}{Eu lamento, eu não posso ajudar você nisso.}
 {1165}{}{Alguns mercadores do Hub visitam Junktown e outras cidades numa

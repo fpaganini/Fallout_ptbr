@@ -3,24 +3,24 @@
 
 ################
 # Flat monotonic people. Nothing interesting. they are apathic.
-{106}{}{Você ve uma mulher.}
-{107}{}{Você ve um homem.}
+{106}{}{Você vê uma mulher.}
+{107}{}{Você vê um homem.}
 
 ################
 # The drunk has slurred speech. he's been hitting the booze a bit too hard
 # and is having problems standing and remembering his name
 
-{100}{}{Você ve um bebado.}
-{110}{}{Deixe-me com as minhas lamentacoes.}
+{100}{}{Você vê um bebado.}
+{110}{}{Deixe-me com as minhas lamentações.}
 {111}{}{Você e meu melhor amigo de todos.}
 # best friend (slurred)
 
 {112}{}{Por que você esta... (hic) onde eu estou?}
-{113}{}{Quem e você?}
+{113}{}{Quem é você?}
 {114}{}{Eu conheco você?}
 {115}{}{Eu me sinto um pouco queasy.}
-{116}{}{Bebidas estao em mim, eu quero dizer, você.}
-{117}{}{Por que ha dois de você?}
+{116}{}{Bebidas estão em mim, eu quero dizer, você.}
+{117}{}{Por que há dois de você?}
 {118}{}{Fique de pe camarada!}
 # laddy is male
 
@@ -30,29 +30,29 @@
 # Customer and gamble are both genders. Consider male for translation. They are agitated, yet happy to
 # be spending all their money. Consider the people in Las Vegas gambling away their money.
 
-{101}{}{Você ve um fregues.}
-{104}{}{Você ve um jogador.}
+{101}{}{Você vê um fregues.}
+{104}{}{Você vê um jogador.}
 {120}{}{Desapareca skag!}
 # == "Get out of here loser"
 
 {121}{}{Você esta diminuindo a classe deste lugar.}
 # == "you are dropping the class of this place"
 
-{122}{}{Va emobra, você me dara azar!}
+{122}{}{Vá emobra, você me dara azar!}
 # == "get away. you will bring me bad luck"
 
-{123}{}{Nao quebre minha concentracao.}
+{123}{}{Não quebre minha concentracao.}
 {124}{}{Eu ainda derrotarei este maldito jogo!}
 {125}{}{Você e bom nisto?}
 {126}{}{Você viu aquilo? Aquilo foi impossivel!}
 # referring to dice roll
 
-{127}{}{Eu acho que eles estao trapaceando.}
+{127}{}{Eu acho que eles estão trapaceando.}
 # they is referring to the owners of the Maltese Falcon, the drinking/gambling establishment
 # They is Male
 
 {128}{}{Agora esses são bons odds.}
-{129}{}{E uma coisa certa.}
+{129}{}{É uma coisa certa.}
 # referring to a bet.
 
 {130}{}{O que? Como eu poderia ter perdido?}
@@ -67,8 +67,8 @@
 # This is a sleazy prostitute who will have sex with anyone who will give
 # her $20. She will be talking a sexy, but lewd voice.
 
-{102}{}{Você ve uma mulher muito bonita.}
-{105}{}{Você ve uma mulher, ela parece estar ocupada.}
+{102}{}{Você vê uma mulher muito bonita.}
+{105}{}{Você vê uma mulher, ela parece estar ocupada.}
 {135}{}{Deixe-nos em paz ou eu chamarei os guardas.}
 {136}{}{Cuidado, eu sou uma amiga proxima do Agente Fry.}
 {137}{}{Você se importa?}
@@ -96,7 +96,7 @@
 # This is a customer for the Hooker. Gender is male. He is aburpt and is really not
 # interested in the player, only having sex with the prostitute
 
-{109}{}{Você ve um mercenario.}
+{109}{}{Você vê um mercenario.}
 {151}{}{Saia do nosso quarto!}
 {152}{}{Saia!}
 {153}{}{Você e parte do combo?}
@@ -112,14 +112,14 @@
 {157}{}{Pegue a sua propria.}
 # ==  "get your own hooker"
 
-{158}{}{Ela e minha.}
+{158}{}{Ela é minha.}
 # "She" is referring to the hooker.
 
 ######################
 # Gambler is Male. The gambler has lost a lot of money and is really upset about
-# having done so.
+# having done só.
 
-{108}{}{Você ve um jogador muito aborrecido.}
+{108}{}{Você vê um jogador muito aborrecido.}
 {159}{}{Maldicao!}
 {160}{}{Você esta trapaceando?}
 # referring to the player
@@ -148,7 +148,7 @@
 # This is the dealer/roulette shooter for the casino. Monotonic voice and trying to
 # pretend to be happy about being here.
 
-{103}{}{Você ve um homem de aparencia estranha.}
+{103}{}{Você vê um homem de aparencia estranha.}
 {169}{}{Coloquem suas apostas.}
 {170}{}{Mantenha suas mãos longe senhor.}
 # in referrence to taking money from the table while the bet is going on
@@ -163,6 +163,6 @@
 
 {175}{}{Sua vez senhor.}
 # your turn to bet
-{176}{}{Lamento, essa e uma aposta invalida.}
+{176}{}{Lamento, essa é uma aposta invalida.}
 {177}{}{Isso e tudo.}
-{178}{}{Alguem mais?}
+{178}{}{Alguém mais?}

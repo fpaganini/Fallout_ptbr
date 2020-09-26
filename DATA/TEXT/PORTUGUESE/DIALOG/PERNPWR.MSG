@@ -2,4 +2,4 @@
 {101}{}{Você imagina por que esta pessoa de metal esta aqui.}
 {102}{}{Esta pessoa parece ter sido morta por altas quantidades de radiação.}
 {103}{}{Você não consegue determinar o que causou a morta desta pessoa.}
-{104}{}{Esta técnica gleans mais nenhuma informacao sobre esta pessoa.}
+{104}{}{Esta técnica gleans mais nenhuma informação sobre esta pessoa.}

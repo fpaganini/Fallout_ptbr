@@ -171,7 +171,7 @@
 {8600}{}{Ossos}
 {8601}{}{Você vê os ossos de uma grande vaca de duas cabeças.}
 {8700}{}{Portão}
-{8701}{}{Um portão de madeira. Ele abre, e fecha, e abre, e fecha, e..}
+{8701}{}{Um portão de madeira. Ele abre, e fecha, e abre, e fecha, é..}
 {8800}{}{Baú de Gelo de Metal}
 {8801}{}{REMOVIDO}
 {8900}{}{Baú de Gelo de Metal}
@@ -657,7 +657,7 @@
 {34600}{}{Porta}
 {34601}{}{Uma porta ornada de madeira. É obviamente feita da boa arte do artífice.}
 {34700}{}{Banco de Igreja}
-{34701}{}{Este assento é suportado por grande tijolos de concreto. Isso não é importante, mas você é aquele(a) que olhou.}
+{34701}{}{Este assento é suportado por grande tijolos de concreto. Isso não é importante, mas você é aquele que olhou.}
 {34800}{}{Escada}
 {34801}{}{Esta escada leva para cima.}
 {34900}{}{Escada}
@@ -715,11 +715,11 @@
 {37500}{}{Ancinho}
 {37501}{}{Este ancinho é de propriedades dos seus donos. Você não consegue nem mesmo conceber um uso para ele.}
 {37600}{}{Tapete}
-{37601}{}{Um tapete simples. O(A) tecelão(ã) foi obviamente muito talentoso(a).}
+{37601}{}{Um tapete simples. O(A) tecelão(ã) foi obviamente muito talentoso.}
 {37700}{}{Tapete}
-{37701}{}{Um tapete simples. O(A) tecelão(ã) foi obviamente muito talentoso(a).}
+{37701}{}{Um tapete simples. O(A) tecelão(ã) foi obviamente muito talentoso.}
 {37800}{}{Tapete}
-{37801}{}{Um tapete simples. O(A) tecelão(ã) foi obviamente muito talentoso(a).}
+{37801}{}{Um tapete simples. O(A) tecelão(ã) foi obviamente muito talentoso.}
 {37900}{}{Pá}
 {37901}{}{Esta pá é da propriedade de seus donos. Você não consegue nem mesmo conceber um uso para ela.}
 {38000}{}{Pá}
@@ -988,7 +988,7 @@
 {52500}{}{Banco de Igreja}
 {52501}{}{Um lindamente fashioned e de aparência desconfortável e poderoso, banco de igreja.}
 {52600}{}{Pódio}
-{52601}{}{Um pódio de madeira bacana. Há uma tela de tele-prompter construída nele, de frente para o(a) orador(a).}
+{52601}{}{Um pódio de madeira bacana. Há uma tela de tele-prompter construída nele, de frente para o orador.}
 {52700}{}{Vagão}
 {52701}{}{Um vagão da caravana convertido dos restos destroçados de um antigo automóvel.}
 {52800}{}{Vagão}
@@ -1085,7 +1085,7 @@
 {57500}{}{Arbusto}
 {57501}{}{Uma erva-daninha do deserto de algum tipo.}
 {57600}{}{Ground}
-{57601}{}{Uma vista bacana das Boneyards deste nível da torre. Você tem uma sensação boa de quão alto(a) no céu você está.}
+{57601}{}{Uma vista bacana das Boneyards deste nível da torre. Você tem uma sensação boa de quão alto no céu você está.}
 {57700}{}{Ground}
 {57701}{}{Uma vista bacana das Boneyards deste nível da torre.}
 {57800}{}{Parede}
@@ -1159,7 +1159,7 @@
 {61200}{}{Poço de Fogo}
 {61201}{}{O fogo está queimando.}
 {61300}{}{Espelho}
-{61301}{}{Você olha pra si mesmo(a) por um tempo.}
+{61301}{}{Você olha pra si próprio por um tempo.}
 {61400}{}{Espelho}
 {61401}{}{Você olha fixamente para a sua imagem no espelho por um temp.}
 {61500}{}{Pia}

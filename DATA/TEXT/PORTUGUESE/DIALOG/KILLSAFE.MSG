@@ -1,4 +1,4 @@
-{100}{}{Voce vê o cofre.}
+{100}{}{Você vê o cofre.}
 {101}{}{O cofre não esta trancado.}
 {103}{}{Peguei!}
 {104}{}{Saco! Quase consegui.}

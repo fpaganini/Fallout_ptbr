@@ -1,10 +1,10 @@
-{100}{}{Você ve um Fregues da Caravana.}
+{100}{}{Você vê um Fregues da Caravana.}
 {101}{}{Eles nunca tem o que eu quero.}
 {102}{}{Eu acho que a selecao esta ficando pior.}
 {103}{}{Lamento, eu não devo falar com forasteiros.}
 {104}{}{Eu nunca consigo achar o que eu quero.}
 {105}{}{Se você ver qualquer Redalek, deixe-me saber.}
-{106}{}{Estes preços estao ficando fora de mao.}
+{106}{}{Estes preços estão ficando fora de mao.}
 {107}{}{Eu estou feliz que aqueles Mercadores das Aguas não vem mais aqui.}
 {108}{}{Você deveria ver Cabbot ou Darrell se você tem perguntas.}
 {109}{}{Cabbot e nosso Recepcionista. Você deveria falar com ele ou Darrell.}

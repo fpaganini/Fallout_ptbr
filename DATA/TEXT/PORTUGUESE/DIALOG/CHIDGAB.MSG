@@ -1,4 +1,4 @@
-{100}{}{Você ve uma Crianca com uma atitude de verdade.}
+{100}{}{Você vê uma Crianca com uma atitude de verdade.}
 {101}{}{Saia da minha frente, seu filho da puta!}
 {102}{}{Fique longe de mim!}
 {103}{}{O que no inferno você quer?}
@@ -10,7 +10,7 @@
 {109}{}{Mim não quer inferno! Homem estúpido!}
 {110}{}{No inferno, perdedor.}
 {111}{}{Você sempre pergunta questoes estupidas, perdedor?}
-{112}{}{Certo como o inferno de que não e você, miseravel.}
+{112}{}{Certo como o inferno de que não é você, miseravel.}
 {113}{}{O que faz você pensar que eu quero beber com você, seu     !}
 {114}{}{Saia daqui antes que eu mate você!}
 {115}{}{[feito]}

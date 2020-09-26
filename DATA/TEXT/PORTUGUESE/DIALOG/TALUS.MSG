@@ -1,226 +1,226 @@
 {100}{}{Você vê o Talus.}
-{101}{}{Ola, voce deve ser o forasteiro iniciado. Bom encontrar voce.
- O que eu posso fazer por voce?}
-{102}{}{Quem e o lider da sua organizaçao?}
-{103}{}{Entao, voce esta no comando por aqui?}
+{101}{}{Ola, você deve ser o forasteiro iniciado. Bom encontrar você.
+ O que eu posso fazer por você?}
+{102}{}{Quem é o lider da sua organizaçao?}
+{103}{}{Então, você esta no comando por aqui?}
 {104}{}{Como eu obtenho armas e equipamento melhores?}
 {105}{}{Chagga!}
 {106}{}{Esse seria o conselho dos elders. Mais especificamente o
  Elder Supremo, Maxson. Os elders tomam todas as grandes decisoes
- por aqui. Se voce precisa falar com eles voce os achara no
+ por aqui. Se você precisa falar com eles você os achara no
  quarto andar.}
-{107}{}{Entao o que voce faz?}
-{108}{}{Nao, nos somos dirigidos pelo conselho dos elders. Maxson, o Elder
- Supremo, seria a pessoa no comando. Se voce precisa falar com ele voce
+{107}{}{Então o que você faz?}
+{108}{}{Não, nos somos dirigidos pelo conselho dos elders. Maxson, o Elder
+ Supremo, seria a pessoa no comando. Se você precisa falar com ele você
  achara ele no quarto andar.}
 {109}{}{Eu realmente preciso de algum poder de fogo melhor.}
-{110}{}{Eu sou o paladino senior, a mao direita de Rhombus. Nos estamos no comando
+{110}{}{Eu sou o paladino senior, a mao direita de Rhombus. Nós estamos no comando
  dos paladinos e cavaleiros. Agora mesmo eu estou supervisionando os exercicios de
- treinamento. Nos estamos ficando prontos... pra qualquer coisa.}
-{111}{}{Voces estao ficando prontos para o que?}
+ treinamento. Nós estamos ficando prontos... pra qualquer coisa.}
+{111}{}{Vocês estão ficando prontos para o que?}
 {112}{}{Como eu posso obter algumas armas e equipamento?}
-{113}{}{Ha rumores de uma grande força se movendo nas montanhas
+{113}{}{Há rumores de uma grande força se movendo nas montanhas
  e no deserto. Com as caravanas desaparecidas e estes rumores
  nos estamos tomando precauçoes.}
-{115}{}{Mesmo? Ok, obrigado.}
-{116}{}{Esta apressado nao e? Como um iniciado voce tem direito a algumas
+{115}{}{Mesmo? Certo, obrigado.}
+{116}{}{Esta apressado não e? Como um iniciado você tem direito a algumas
  coisas. Eu porei uma clearance pra armadura de combate e tres ordens pra
  muniçao, balas de sua escolha. Veja o Michael na proxima sala pelos
  suprimentos.}
-{117}{}{Eu sou muito grato, mas voces por qualquer chance tem uma arma que voces
- possam poupar que poderia ajudar minhas chances de sobrevivencia la fora?}
+{117}{}{Eu sou muito grato, mas vocês por qualquer chance tem uma arma que vocês
+ possam poupar que poderia ajudar minhas chances de sobrevivencia lá fora?}
 {118}{}{Obrigado, que tal algumas armas high-tech?}
-{119}{}{Isso e tudo? Voce deve estar brincando!}
+{119}{}{Isso e tudo? Você deve estar brincando!}
 {120}{}{Eu entendo, mas eu estou realmente pressionado pelo tempo
  e eu realmente preciso de melhor poder de fogo.}
 {121}{}{Otimo! O que eu tenho que fazer agora? Escalar a montanha mais alta?}
-{122}{}{Isso soa otimo. Por que voce nao começa agora?}
-{123}{}{Bem, eu poderia ser capaz de fazer uma exceçao. Voce obviamente tem
- um treinamento bom. Se voce nao tivesse voce nao teria sido bem-sucedido
- naquela busca louco pra qual o Elder Supremo enviou voce.}
-{124}{}{As vezes eu nao sei se ele esta tentando obter ajuda do
+{122}{}{Isso soa otimo. Por que você não começa agora?}
+{123}{}{Bem, eu poderia ser capaz de fazer uma exceçao. Você obviamente tem
+ um treinamento bom. Se você não tivesse você não teria sido bem-sucedido
+ naquela busca louco pra qual o Elder Supremo enviou você.}
+{124}{}{As vezes eu não sei se ele esta tentando obter ajuda do
  lado de fora ou matar os estupidos. Sem ofensa. Eu direi isso
- a voce. Eu estou tipo num lugar dificil porque os patrulheiros
- que eu enviei ha um tempo atras nunca retornaram.}
+ a você. Eu estou tipo num lugar difícil porque os patrulheiros
+ que eu enviei há um tempo atras nunca retornaram.}
 {125}{}{Foi minha ideia e eu estou tomando a culpa por isso.
- Se voce puder descobrir o que aconteceu com eles eu farei
+ Se você puder descobrir o que aconteceu com eles eu farei
  valer o seu esforço.}
 {126}{}{Eu pensarei a respeito.}
-{127}{}{Com licença, iniciado. Por favor nao brandish sua arma.
- Guarde-a a menos que voce planeje usa-la.}
-{128}{}{Guarde sua arma, iniciado. Voce nao esta num
+{127}{}{Com licença, iniciado. Por favor não brandish sua arma.
+ Guarde-a a menos que você planeje usa-lá.}
+{128}{}{Guarde sua arma, iniciado. Você não esta num
  exercicio de treinamento, guarde-a.}
-{129}{}{Voce poderia parar de balançar sua arma por ai
- assim? Voce deveria... oh, deixe pra la.}
+{129}{}{Você poderia parar de balançar sua arma por ai
+ assim? Você deveria... oh, deixe pra lá.}
 {130}{}{Ola de novo, Irmao }
-{131}{}{. Como eu posso ajudar voce?}
-{132}{}{Quem sao as pessoas importantes por aqui?}
-{133}{}{Voce poderia me dizer sobre aquelas pessoas importantes de novo?}
+{131}{}{. Como eu posso ajudar você?}
+{132}{}{Quem são as pessoas importantes por aqui?}
+{133}{}{Você poderia me dizer sobre aquelas pessoas importantes de novo?}
 {134}{}{Como eu posso obter alguns equipamentos e armas melhores?}
 {135}{}{Eu posso obter um pouco mais de muniçao?}
 {136}{}{Nada, obrigado.}
-{137}{}{Eu posso ajudar voce com isso. Como um iniciado voce tem direito a algumas
+{137}{}{Eu posso ajudar você com isso. Como um iniciado você tem direito a algumas
  coisas. Eu porei uma clearance pra armadura de combate e tres ordens pra
  muniçao, balas de sua escolha.}
 {138}{}{Apenas veja o Michael na proxima sala pelos suprimentos.}
-{139}{}{E quanto a esse terno de metal que voce esta usando?}
+{139}{}{É quanto a esse terno de metal que você esta usando?}
 {140}{}{Obrigado, que tal algumas armas high-tech?}
-{141}{}{Bem, nos todos somos importantes, mas eu sei a quem voce esta se referindo.}
-{142}{}{Isso nao e um problema. Voce deveria vir a conhecer seus
- camaradas irmaos bem. Eu sei que ha muitos de nos e que pode
- ser dificil de lembrar de todos nos.}
+{141}{}{Bem, nos todos somos importantes, mas eu sei a quem você esta se referindo.}
+{142}{}{Isso não é um problema. Você deveria vir a conhecer seus
+ camaradas irmaos bem. Eu sei que há muitos de nos e que pode
+ ser difícil de lembrar de todos nos.}
 {143}{}{Tem o Rhombus. Ele e o nosso paladino chefe, tambem conhecido como
- o cavaleiro mestre. Entao tem a Vree; ela e a escriba mestra. E claro nos
- nao podemos esquecer nosso distinto Elder Supremo, Maxson.}
+ o cavaleiro mestre. Então tem a Vree; ela é a escriba mestra. É claro nos
+ não podemos esquecer nosso distinto Elder Supremo, Maxson.}
 {144}{}{Me fale sobre o Rhombus.}
 {145}{}{Me fale sobre a Vree.}
 {146}{}{Me fale sobre o Maxson.}
 {147}{}{O Rhombus e meu melhor amigo, mentor, idolo e figura paterna tudo
  combinado em um. Ele e um pouco durao, mas ele tem que ser, pra estar na
  posiçao que ele esta.}
-{148}{}{Se voce vier a precisar falar com ele, ele esta normalmente no
+{148}{}{Se você vier a precisar falar com ele, ele esta normalmente no
  escritorio dele... eu quero dizer sala. Essa esta no outro lado deste
  nivel do outro lado da sala da guarda.}
 {149}{}{Claro que nos temos. Ela esta no segundo nivel. Proximo da sala de aprendizagem.}
 {150}{}{Obrigado, tchau.}
 {151}{}{Obrigado. Isso e tudo que eu queria saber.}
-{152}{}{A Vree e uma das pessoas mais inteligentes que eu ja conheci. Eu acho
+{152}{}{A Vree é uma das pessoas mais inteligentes que eu ja conheci. Eu acho
  que ela nasceu com o entendimento natural da fisica e da quimica.}
 {153}{}{Ela passa cada momento acordada fazendo pesquisa ou analisando e re-analisando
- qualquer coisa em que ela possa por as maos. Se voce vier a precisar falar com ela
+ qualquer coisa em que ela possa por as maos. Se você vier a precisar falar com ela
  normalmente ela pode ser achada na sala dela no terceiro andar.}
 {154}{}{Ela esta no segundo nivel. Apenas desça pro segundo andar, vire a
- esquerda. Voce a vera passando a sala de aprendizagem. Eu deveria voltar
- ao trabalho. Se voce tiver quaisquer outras perguntas apenas pergunte.}
-{155}{}{Como eu disse, ela esta no segundo nivel. Voce nao consegue errar. E a
+ esquerda. Você a vera passando a sala de aprendizagem. Eu deveria voltar
+ ao trabalho. Se você tiver quaisquer outras perguntas apenas pergunte.}
+{155}{}{Como eu disse, ela esta no segundo nivel. Você não consegue errar. É a
  unica outra sala grande no segundo nivel alem da sala de aprendizagem.}
-{156}{}{Ok, vejo voce por ai.}
+{156}{}{Certo, vejo você por ai.}
 {157}{}{Maxson e um velho homem durao. Ele e o trineto...
  ou seria tetraneto? Bem, de qualquer modo. Ele e o
  descendente de um dos nossos pais fundadores. Ele,
  claro, e o Elder Supremo.}
-{158}{}{Voce construiu uma grande reputaçao por si mesmo. As pessoas com que eu
- conversei mantem grande consideraçao por voce. Eu nao acho que voce precise de
- de qualquer ajuda, voce parece bastante capaz. Contudo, se voce me ajudar com
- um pequeno problema eu poderia ser capaz de recompensar voce com algo.}
+{158}{}{Você construiu uma grande reputaçao por si próprio. As pessoas com que eu
+ conversei mantem grande consideraçao por você. Eu não acho que você precise de
+ de qualquer ajuda, você parece bastante capaz. Contudo, se você me ajudar com
+ um pequeno problema eu poderia ser capaz de recompensar você com algo.}
 {159}{}{Muito obrigado, tchau.}
 {160}{}{Isso e tudo, obrigado.}
-{161}{}{Você esta me deixando nervoso, pequeno. O que voce quer agora?}
+{161}{}{Você esta me deixando nervoso, pequeno. O que você quer agora?}
 {162}{}{Nada, apenas queria ouvir sua voz agradavel.}
-{163}{}{Lamento, nao vi voce ai.}
+{163}{}{Lamento, não vi você ai.}
 {164}{}{Cha Toh Weh Lo!}
 {165}{}{Ug.}
 {166}{}{Pare de desperdiçar meu tempo!}
-{167}{}{Como voce entrou ai? Saia da minha frente.}
-{168}{}{Eu posso dar a voce um pouco mais de muniçao se voce realmente precisa.
- Eu a terei autorizado na hora que voce puder falar com o Michael.}
-{169}{}{Eu acabei de dar um pouco a voce. Voce deveria aprender
+{167}{}{Como você entrou ai? Saia da minha frente.}
+{168}{}{Eu posso dar a você um pouco mais de muniçao se você realmente precisa.
+ Eu a terei autorizado na hora que você puder falar com o Michael.}
+{169}{}{Eu acabei de dar um pouco a você. Você deveria aprender
  a ser mais conservador com sua muniçao.}
-{170}{}{Lamento, voce teve mais do que sua cota pra esta
- semana. Voce tera que lidar com o que voce tem. Nos nao
+{170}{}{Lamento, você teve mais do que sua cota pra esta
+ semana. Você tera que lidar com o que você tem. Nós não
  temos um suprimento infinito de muniçao.}
-{171}{}{Eu ouvi sobre algumas das coisas que voce fez e nos nao
+{171}{}{Eu ouvi sobre algumas das coisas que você fez e nós não
  lidamos bondosamento com matadores de crianças. os Elders
- parecem achar que ha algo que voce possa oferecer mas eu
- nao quero ter nada a ver com voce.}
-{172}{}{Eu so matei um.}
-{173}{}{Você nao sabe a estoria inteira.}
-{174}{}{Eu nao tenho que responder pra voce.}
-{175}{}{Voce construiu uma grande reputaçao por si mesmo. Eu nao acho
- que voce precise de de qualquer ajuda, voce parece bastante capaz.
- Contudo, ha algo em que eu preciso de ajuda e eu poderia ser capaz
- de ajudar voce se voce puder me ajudar.}
+ parecem achar que há algo que você possa oferecer mas eu
+ não quero ter nada a ver com você.}
+{172}{}{Eu só matei um.}
+{173}{}{Você não sabe a estoria inteira.}
+{174}{}{Eu não tenho que responder pra você.}
+{175}{}{Você construiu uma grande reputaçao por si próprio. Eu não acho
+ que você precise de de qualquer ajuda, você parece bastante capaz.
+ Contudo, há algo em que eu preciso de ajuda e eu poderia ser capaz
+ de ajudar você se você puder me ajudar.}
 {176}{}{Com certeza. Qual e o problema?}
-{177}{}{Nao obrigado e obrigado por nada.}
-{178}{}{Lamento, eu nao posso. Apesar disso obrigado pela armadura.}
-{179}{}{Ja que voce foi capaz de sobreviver a terra devastada sozinho
- eu acho que voce e provavelmente bastante capaz. Contudo, eu tenho
+{177}{}{Não obrigado e obrigado por nada.}
+{178}{}{Lamento, eu não posso. Apesar disso obrigado pela armadura.}
+{179}{}{Ja que você foi capaz de sobreviver a terra devastada sozinho
+ eu acho que você e provavelmente bastante capaz. Contudo, eu tenho
  um problema com o qual eu poderia usar um pouco de ajuda e eu
- poderia ser capaz de recompensar voce por sua ajuda.}
-{180}{}{Nao. Eu acho que voce deveria sair.}
-{181}{}{Eu enviei um dos nossos iniciados pro Hub ha pouco tempo
- atras e nos nao ouvimos noticias dele. Se voce puder descobrir
+ poderia ser capaz de recompensar você por sua ajuda.}
+{180}{}{Não. Eu acho que você deveria sair.}
+{181}{}{Eu enviei um dos nossos iniciados pro Hub há pouco tempo
+ atras e nós não ouvimos noticias dele. Se você puder descobrir
  o que aconteceu com ele eu ficaria muito grato.}
 {182}{}{Eu verificarei.}
-{183}{}{Eu tentarei mas eu nao posso prometer nada.}
-{184}{}{Eu disse a voce pra sair.}
-{185}{}{So? Eu nao acho que nossa ordem sera capaz de ajudar voce. Bom dia.}
-{186}{}{Eu nao preciso saber a estoria inteira. Bom dia.}
-{187}{}{Obrigado. Eu lembrarei disto e quanto eu ver que voce
+{183}{}{Eu tentarei mas eu não posso prometer nada.}
+{184}{}{Eu disse a você pra sair.}
+{185}{}{So? Eu não acho que nossa ordem sera capaz de ajudar você. Bom dia.}
+{186}{}{Eu não preciso saber a estoria inteira. Bom dia.}
+{187}{}{Obrigado. Eu lembrarei disto e quanto eu ver que você
  ganhou experiencia o bastante eu poderia ser capaz de dar a
- voce algo especial da nossa ordem.}
+ você algo especial da nossa ordem.}
 {188}{}{Mesmo? O que?}
 {189}{}{Da ele pra mim agora!}
 {190}{}{Soa bom. Tchau.}
-{191}{}{Eu nao deveria dizer mas nao e uma arma. E algo que so a elite
- na nossa ordem pode ter, mas ja que voce e do lado de fora e esta com
+{191}{}{Eu não deveria dizer mas não é uma arma. É algo que só a elite
+ na nossa ordem pode ter, mas ja que você e do lado de fora e esta com
  maior necessidade dela, eu poderia ser capaz de fazer uma exceçao.}
-{192}{}{Voce nao pode me dizer?}
-{193}{}{Ok, tchau.}
-{194}{}{Eu acho que voce provavelmente ja tem uma ideia. Vamos deixar assim.}
-{195}{}{Nao, eu nao sou e eu acho que voce deveria sair, 'iniciado'.}
+{192}{}{Você não pode me dizer?}
+{193}{}{Certo, tchau.}
+{194}{}{Eu acho que você provavelmente ja tem uma ideia. Vamos deixar assim.}
+{195}{}{Não, eu não sou e eu acho que você deveria sair, 'iniciado'.}
 {196}{}{So paladinos usam Power Armor, algum dia
- voce pode ganhar o direito de usa-la.}
+ você pode ganhar o direito de usa-lá.}
 {197}{}{Obrigado, e quanto a algumas armas high-tech?}
 {198}{}{Bem, eu vejo que nos temos uma brilhante nova adiçao a nossa ordem depois
- de tudo... [Talus leers at voce.] Nao get cocky comigo, iniciado. Eu nao estou
+ de tudo... [Talus leers at você.] Não get cocky comigo, iniciado. Eu não estou
  no clima nem tenho eu a paciencia!}
-{199}{}{Eu achava que voce era mais esperto do que isso. Eu nao tenho que
- dar nada pra voce. Voce tem sorte que eu nao chuto voce pra fora daqui
- agora. Eu acho que voce deveria sair antes que eu mude de ideia.}
-{200}{}{Isso esta ok. Qualquer coisa que voce pudesse achar seria util.}
+{199}{}{Eu achava que você era mais esperto do que isso. Eu não tenho que
+ dar nada pra você. Você tem sorte que eu não chuto você pra fora daqui
+ agora. Eu acho que você deveria sair antes que eu mude de ideia.}
+{200}{}{Isso esta ok. Qualquer coisa que você pudesse achar seria util.}
 {201}{}{Irmao }
 {202}{}{! Eu recebi a noticia do Irmao Jonathan.
  Obrigado por resgata-lo.}
-{203}{}{Eu entendo que o Decker esta morto, voce e mais talentoso
+{203}{}{Eu entendo que o Decker esta morto, você e mais talentoso
  do que eu pensava e isso e dizer muito.}
-{204}{}{Nos faremos o Decker pagar pelo que ele fez, voce tem minha palavra nisso.}
+{204}{}{Nós faremos o Decker pagar pelo que ele fez, você tem minha palavra nisso.}
 {205}{}{De nada.}
 {206}{}{Lup?}
-{207}{}{Ola estranho! Eu ouvi que voce e aquele a agradecer
+{207}{}{Ola estranho! Eu ouvi que você e aquele a agradecer
  pelo retorno seguro do meu iniciado desaparecido.}
 {208}{}{Eu tambem entendo que o Decker esta morto,
- voce e uma grande aquisiçao pra nossa Irmandade.}
-{209}{}{Nos nao toleramos usuarios de drogas por aqui. Eu sugiro
- a voce que veja o doutor e que fique limpo.}
-{210}{}{Quanto a sua recompensa, eu darei a voce a escolha das seguintes:}
-{211}{}{Entao qual voce preferiria?}
+ você é uma grande aquisiçao pra nossa Irmandade.}
+{209}{}{Nós não toleramos usuarios de drogas por aqui. Eu sugiro
+ a você que veja o doutor e que fique limpo.}
+{210}{}{Quanto a sua recompensa, eu darei a você a escolha das seguintes:}
+{211}{}{Então qual você preferiria?}
 {212}{}{Lançador de Foguetes.}
 {213}{}{Pistola Laser.}
 {214}{}{Super Sledgehammer.}
 {215}{}{Me deixe pensar a respeito.}
-{216}{}{Eu key sua autorizaçao pra entrar agora mesmo. Va pega-la com o Michael.}
-{217}{}{, e hora de voce usar seu proprio suit de Power Armor. Este e um privilegio muito
- especial pra alguem tao novo na nossa ordem. Use nossa Power Armor como um simbolo de
- esperannça conforme voce caminha pela terra devastada, para algum dia quando o mundo
+{216}{}{Eu key sua autorizaçao pra entrar agora mesmo. Vá pega-lá com o Michael.}
+{217}{}{, e hora de você usar seu proprio suit de Power Armor. Este e um privilegio muito
+ especial pra alguém tão novo na nossa ordem. Use nossa Power Armor como um simbolo de
+ esperannça conforme você caminha pela terra devastada, para algum dia quando o mundo
  estiver pronto nos iremos pra superficie e restauraremos nossa surrada terra. Parabens,
- voce fez todos nos muito orgulhosos. Eu enviarei a autorizaçao pro Michael.}
-{218}{}{Eu vejo que alguem ja deu a voce sua Power Suit. Eu estava
- esperando da-la pra voce eu mesmo mas esta tudo bem. Eu espero
- que ela ajude voce na sua busca.}
+ você fez todos nos muito orgulhosos. Eu enviarei a autorizaçao pro Michael.}
+{218}{}{Eu vejo que alguém ja deu a você sua Power Suit. Eu estava
+ esperando da-lá pra você eu mesmo mas esta tudo bem. Eu espero
+ que ela ajude você na sua busca.}
 {219}{}{Cuidado com sua forma!}
 {220}{}{Prestem atençao pessoal.}
 {221}{}{Nada de ficar a toa!}
-{222}{}{Comporte-se ai, ou voce se achara na patrulha do perimetro a noite.}
-{223}{}{Quieto, nao me faça trazer o Rhombus aqui. Ele chicoteara todos os seus rabos.}
-{300}{}{Por favor, se voce precisa de algo me veja de manha.}
-{301}{}{Eu estarei no salao de treinamento, venha de manha. Fale comigo entao.}
-{302}{}{O que voce esta fazendo ai? Estes nao sao seus quartos.}
+{222}{}{Comporte-se ai, ou você se achara na patrulha do perimetro a noite.}
+{223}{}{Quieto, não me faça trazer o Rhombus aqui. Ele chicoteara todos os seus rabos.}
+{300}{}{Por favor, se você precisa de algo me veja de manha.}
+{301}{}{Eu estarei no salao de treinamento, venha de manha. Fale comigo então.}
+{302}{}{O que você esta fazendo ai? Estes não são seus quartos.}
 {303}{}{Boa noite iniciado, fale comigo de manha.
- Nao pode ser urgente assim.}
+ Não pode ser urgente assim.}
 {304}{}{Eu estou cansado e eu quero ir pra cama, por favor saia.}
-{305}{}{Voce normalmente aborrece as pessoas nos seus quartos?}
-{400}{}{Voce pode sempre... espere um minuto. Me olhe direto nos olhos...
- Como eu pensava. Voce deveria parar com as drogas, elas podem mesmo
- bagunçar com voce. Se voce nao tomar cuidado voce terminara como os
- Skags no Hub. Entao o que era que voce precisava?}
-{401}{}{Voce tem um doutor? Eu estou ferido.}
-{402}{}{Voce tem um doutor?}
+{305}{}{Você normalmente aborrece as pessoas nos seus quartos?}
+{400}{}{Você pode sempre... espere um minuto. Me olhe direto nos olhos...
+ Como eu pensava. Você deveria parar com as drogas, elas podem mesmo
+ bagunçar com você. Se você não tomar cuidado você terminara como os
+ Skags no Hub. Então o que era que você precisava?}
+{401}{}{Você tem um doutor? Eu estou ferido.}
+{402}{}{Você tem um doutor?}
 {403}{}{Eu desisti de escalar aquela montanha.}
 {404}{}{Aonde seu doutor esta localizado?}
-{406}{}{Hmmm, Eu nao sei. Voce pode ter provado ser um iniciado mas isso
- nao significa que nos começamos a entregar armas pra alguem que poderia
- nao ser qualificado, especialmente um forasteiro, sem ofensa.}
+{406}{}{Hmmm, Eu não sei. Você pode ter provado ser um iniciado mas isso
+ não significa que nos começamos a entregar armas pra alguém que poderia
+ não ser qualificado, especialmente um forasteiro, sem ofensa.}
 {407}{}{Power Armor.}
 {408}{}{Você ganha }
 {409}{}{ pontos de experiencia por resgatar o iniciado.}

@@ -1,39 +1,39 @@
-{100}{}{Você ve a Cindy.}
+{100}{}{Você vê a Cindy.}
 {101}{}{Ela esta chorando.}
 {102}{}{Ola, }
-{103}{}{. Você já achou o chip da agua?}
+{103}{}{. Você já achou o chip da água?}
 {104}{}{Ainda não. Eu não tive muita sorte.}
-{105}{}{Sem sorte ainda, mas eu sei que eu acharei ele. A proposito, como você esta indo?}
+{105}{}{Sem sorte ainda, mas eu sei que eu acharei ele. A propósito, como você esta indo?}
 {106}{}{Urug!}
-{107}{}{Oh . . . você não me entende. Eu creio que nos realmente não temos muita
- esperanca depois de tudo. Desculpe-me enquanto eu choro.}
+{107}{}{Ah . . . você não me entende. Eu creio que nos realmente não temos muita
+ esperança depois de tudo. Desculpe-me enquanto eu choro.}
 {108}{}{Ugg!}
 {109}{}{Por favor ache ele antes que nos morramos de sede.}
-{110}{}{Você tem que acha-lo! Nao nos deixe morrer assim!}
+{110}{}{Você tem que acha-lo! Não nos deixe morrer assim!}
 {111}{}{Continue tentando. Eu acredito em você. Eu sei que você fara tudo que você
  puder pra nos salvar.}
 {112}{}{Quem você acha que poderia estar envolvido?}
-{113}{}{Eu estou com medo do que esta acontecendo. Alguem tem roubado agua e agora
- todos estao no limite.}
+{113}{}{Eu estou com medo do que esta acontecendo. Alguém tem roubado água e agora
+ todos estão no limite.}
 {114}{}{Quem faria tal coisa?}
 {115}{}{O que aconteceu?}
 {116}{}{Algumas pessoas foram acusadas e brigas aconteceram por causa disso, mas
- ninguem realmente sabe.}
+ ninguém realmente sabe.}
 {117}{}{Okay. Obrigado.}
-{118}{}{Algumas pessoas relataram que a agua deles foi roubada. Nao foi dado a eles
- mais agua mas alguns amigos compartilharam com eles. Apos isto todos ficaram
- muito paranoicos e comecaram a guardar a agua deles. Alguns dias depois alguem
- nocauteou o guarda na area de suprimentos do racionameto e roubou a agua.}
-{119}{}{Isso e terrivel! O que eu posso fazer?}
+{118}{}{Algumas pessoas relataram que a água deles foi roubada. Não foi dado a eles
+ mais água mas alguns amigos compartilharam com eles. Apos isto todos ficaram
+ muito paranoicos e comecaram a guardar a água deles. Alguns dias depois alguém
+ nocauteou o guarda na area de suprimentos do racionameto e roubou a água.}
+{119}{}{Isso é terrível! O que eu posso fazer?}
 {120}{}{Talvez você consiga parar quem quer que esteja fazendo isto.}
 {121}{}{Eu darei uma olhada por ai.}
-{122}{}{Você e o ladrão de agua?! Como você pode?}
+{122}{}{Você e o ladrão de água?! Como você pode?}
 {123}{}{Muito obrigado por salvar a todos nos.}
 {124}{}{Você fez um bom trabalho pegando o ladrão. Por favor apresse-se e ache o
- chip da agua.}
+ chip da água.}
 {125}{}{Como você pode nos trair? Agora todos aqui morrerao! Mas você não se
  importa, importa?}
 {126}{}{Eu estou assustada. Eu não sei o que acontecera a todos nos. Por favor,
  não nos desaponte.}
-{127}{}{Nao se preocupe, eu farei o meu melhor. Você ficara bem.}
+{127}{}{Não se preocupe, eu farei o meu melhor. Você ficara bem.}
 {128}{}{Sim, que seja.}

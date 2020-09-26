@@ -1,176 +1,176 @@
-{100}{}{Voce ve o Mestre dos Super Mutantes.}
-{101}{Mast00}{Entao, o que sera? Voce se une a Unidade ou voce morre aqui?
+{100}{}{Você vê o Mestre dos Super Mutantes.}
+{101}{Mast00}{Então, o que sera? Você se une a Unidade ou você morre aqui?
  Unir! Morrer! Unir! Morrer!}
-{102}{}{Eu nao posso. eu me unirei a voce.}
-{103}{}{Se voce puder provar pra mim que sua Unidade e o melhor curso pra
- humanidade entao eu ajudarei voce.}
-{104}{}{Que tal voce morrer e entao eu saio?}
-{105}{}{Oh, havera morte hoje mas nao a minha. Eu tenho um plano.}
+{102}{}{Eu não posso. eu me unirei a você.}
+{103}{}{Se você puder provar pra mim que sua Unidade e o melhor curso pra
+ humanidade então eu ajudarei você.}
+{104}{}{Que tal você morrer e então eu saio?}
+{105}{}{Ah, havera morte hoje mas não a minha. Eu tenho um plano.}
 {106}{}{Ugh. Lee.}
-{107}{Mast01}{Excelente. Seus talentos serao uteis. Mas primeiro, voce deve me
+{107}{Mast01}{Excelente. Seus talentos serao uteis. Mas primeiro, você deve me
  dizer tudo sobre sua Vault.}
 {108}{}{Por que?}
-{109}{}{Ok. eu direi a voce tudo que voce quiser saber.}
+{109}{}{Certo. eu direi a você tudo que você quiser saber.}
 {110}{Mast02}{Eu a conquistarei e transformarei todos aqueles humanos de corrente pura em mutantes.
  Eles me darao o exercito que eu preciso pra trazer paz para toda a terra devastada.}
-{111}{}{Lamento, eu nao gosto muito desse plano.}
+{111}{}{Lamento, eu não gosto muito desse plano.}
 {112}{}{Soa razoavel. Vamos faze-lo.}
-{113}{Mast03}{Entao que seja. Voce cavou seu proprio tumulo. Tumulo! Tumulo!}
-{114}{Mast04}{Eu nao tenho que provar nada pra voce! Provar.}
-{115}{}{Seu ego exige que voce me diga. Todos os viloes tem este desejo
+{113}{Mast03}{Então que seja. Você cavou seu proprio tumulo. Tumulo! Tumulo!}
+{114}{Mast04}{Eu não tenho que provar nada pra você! Provar.}
+{115}{}{Seu ego exige que você me diga. Todos os viloes tem este desejo
  estranho de explicar tudo.}
-{116}{}{Eu nao posso saber se voce representa o melhor futuro, a menos que voce prove pra mim.}
-{117}{Mast05}{Muito exigente pra alguem na sua posiçao tenue. Mas eu posso
+{116}{}{Eu não posso saber se você representa o melhor futuro, a menos que você prove pra mim.}
+{117}{Mast05}{Muito exigente pra alguém na sua posiçao tenue. Mas eu posso
  respeitar suas necessidades.}
-{118}{}{Entao me diga.}
+{118}{}{Então me diga.}
 {119}{Mast06}{A Unidade trara a raça mestra. Mestra! Mestra! Uma capaz de
- sobreviver ou ate mesmo resistir na terra devastada. Tanto quanto hajam
- diferenças nos separaremos a nos mesmo lutando um contra o outro. Nos
+ sobreviver ou até mesmo resistir na terra devastada. Tanto quanto hajam
+ diferenças nos separaremos a nos mesmo lutando um contra o outro. Nós
  precisamos de uma raça. Raça! Raça! Um objetivo. Objetivo! Objetivo!
  Um povo... para mover adiante para o nosso destino. Destino.}
 {120}{}{Essa raça sendo os mutantes, claro.}
-{121}{}{Eu espero que nos nao acabaremos parecendo com voce.}
-{122}{Mast07}{Claro. Os mutantes estao melhor equipados pra lidar com o mundo
+{121}{}{Eu espero que nós não acabaremos parecendo com você.}
+{122}{Mast07}{Claro. Os mutantes estão melhor equipados pra lidar com o mundo
  hoje. Quem mais? Os ghouls... Por favor. Normais. Eles trouxeram a morte
  nuclear pra todos nos. Esta sera a era dos mutantes. Mutantes.}
-{123}{}{Voce quer dizer transformar todos os outros em mutantes tambem.}
+{123}{}{Você quer dizer transformar todos os outros em mutantes tambem.}
 {124}{}{You're such a bigot.}
-{125}{}{E quanto a aqueles que se opoem a voce?}
-{126}{Mast08}{Todos que resistem, sim. Todos aqueles que sao requeridos para
+{125}{}{É quanto a aqueles que se opoem a você?}
+{126}{Mast08}{Todos que resistem, sim. Todos aqueles que são requeridos para
  a Unidade tambem. Aos restantes sera permitido viver os dias deles mas sob
  a proteçao e controle da Unidade. Mas nenhum procriara, pois eles serao os
  ultimos da raça deles.}
-{127}{}{Voce tem um problema com seu plano mestre.}
-{128}{}{Soa como se voce o tem sob controle. eu me unirei.}
-{129}{}{Eu acho que voce e, que todos voces sao loucos e eu preciso parar voces agora.}
-{130}{Mast09}{E o que e isso?}
-{131}{}{Voce nao me levou em conta! Eu vou parar voce bem aqui agora mesmo!}
-{132}{}{Voce nao pode possivelmente ir contra o mundo inteiro.}
-{133}{}{Acontece de eu saber que seus mutantes sao estereis.}
-{134}{Mast10}{Eu nao estou atras do mundo, ainda. Quando eu transformar seus camaradas
- moradores da vault em mutantes, minhas forças serao muito fortes pra alguem ficar
- contra! Mas nao se preocupe, voce nao se importara. Importar! Importar!}
-{135}{Mast11}{Preposterous! O virus FEV-2 nao destroi os orgaos reprodutores
+{127}{}{Você tem um problema com seu plano mestre.}
+{128}{}{Soa como se você o tem sob controle. eu me unirei.}
+{129}{}{Eu acho que você e, que todos vocês são loucos e eu preciso parar vocês agora.}
+{130}{Mast09}{É o que é isso?}
+{131}{}{Você não me levou em conta! Eu vou parar você bem aqui agora mesmo!}
+{132}{}{Você não pode possivelmente ir contra o mundo inteiro.}
+{133}{}{Acontece de eu saber que seus mutantes são estereis.}
+{134}{Mast10}{Eu não estou atras do mundo, ainda. Quando eu transformar seus camaradas
+ moradores da vault em mutantes, minhas forças serao muito fortes pra alguém ficar
+ contra! Mas não se preocupe, você não se importara. Importar! Importar!}
+{135}{Mast11}{Preposterous! O virus FEV-2 não destroi os orgaos reprodutores
  daqueles em que causa mutaçao.}
-{136}{}{Talvez o virus nao esterilizasse pessoas no passado, mas ele o faz agora.}
-{137}{}{Voce falou com algum dos seus mutantes sobre isto?}
+{136}{}{Talvez o virus não esterilizasse pessoas no passado, mas ele o faz agora.}
+{137}{}{Você falou com algum dos seus mutantes sobre isto?}
 {138}{}{Talvez seja toda essa radiaçao extra.}
-{139}{Mast12}{Voce tem prova?}
+{139}{Mast12}{Você tem prova?}
 {140}{}{Claro que eu tenho! Aqui esta...}
 {141}{}{Acredite na minha palavra, acontece.}
 {142}{}{Pergunte a seus proprios mutantes.}
-{143}{Mast13}{Isto nao prova nada! Voce pagara por sua insolencia. Pagar!}
+{143}{Mast13}{Isto não prova nada! Você pagara por sua insolencia. Pagar!}
 {144}{}{Eu devo digerir esta informaçao. Um momento.}
-{145}{Mast14}{Eu devo digerir esta informaçao. Um momento... Eu entendo agora. Voce
- fez uma forgery esperta. Voce inventou isto pra me enganar. Enganar! A mim!}
-{146}{}{O que!? Eu nao entendo, eu pensei que estava correto!}
-{147}{}{Voce esta mentindo! Voce esta negando os fatos na frente de voce!}
-{148}{Mast16}{Voce pagara pelo que voce fez! Pagar! Concluido.}
-{149}{Mast17}{Mas nao pode ser. Isto significaria que todo o meu
- trabalho foi por nada. Tudo que eu tentei... Uma falha! Nao
+{145}{Mast14}{Eu devo digerir esta informaçao. Um momento... Eu entendo agora. Você
+ fez uma forgery esperta. Você inventou isto pra me enganar. Enganar! A mim!}
+{146}{}{O que!? Eu não entendo, eu pensei que estava correto!}
+{147}{}{Você esta mentindo! Você esta negando os fatos na frente de você!}
+{148}{Mast16}{Você pagara pelo que você fez! Pagar! Concluido.}
+{149}{Mast17}{Mas não pode ser. Isto significaria que todo o meu
+ trabalho foi por nada. Tudo que eu tentei... Uma falha! Não
  pode ser. Ser. Ser. Ser.}
-{150}{}{Lamento, esta nao e uma opçao pra voce. Sua raça
+{150}{}{Lamento, esta não é uma opçao pra você. Sua raça
  morrera apos esta geraçao.}
 {151}{}{Talvez haja algo que possa ser feito. Talvez
- voce precise de mais cobaias pra testes.}
-{152}{Mast18}{Sim. Mais cobaias. Eu acho que eu começarei com voce. Fazer! Fazer!}
-{153}{Mast19}{Eu... nao acho que eu possa continuar. Continuar? Ter feito as
+ você precise de mais cobaias pra testes.}
+{152}{Mast18}{Sim. Mais cobaias. Eu acho que eu começarei com você. Fazer! Fazer!}
+{153}{Mast19}{Eu... não acho que eu possa continuar. Continuar? Ter feito as
  coisas que eu fiz em nome do progresso e cura. Foi loucura. Eu consigo ver
- isso. Loucura. Loucura? Nao ha esperança. Saia agora, saia enquanto voce
+ isso. Loucura. Loucura? Não há esperança. Saia agora, saia enquanto você
  ainda tem esperança...}
-{154}{Mast20}{Eu acredito que eu irei. Nao se mova.}
+{154}{Mast20}{Eu acredito que eu irei. Não se mova.}
 {155}{Mast21}{Meus cientistas me garantem que nada esta errado.
- O que voce diz pra isso? Diga! Diga}
-{156}{}{Voce pensou em perguntar a uma mulher mutante?}
+ O que você diz pra isso? Diga! Diga}
+{156}{}{Você pensou em perguntar a uma mulher mutante?}
 {157}{}{Pergunte a um dos seus tenentes.}
-{158}{}{Eles estao com medo de voce. Voce acha que eles dirao a verdade pra voce?}
-{159}{Mast22}{Um momento. Ele nao pode ser contactado. Ele deve estar
+{158}{}{Eles estão com medo de você. Você acha que eles dirao a verdade pra você?}
+{159}{Mast22}{Um momento. Ele não pode ser contactado. Ele deve estar
  morto e eu consigo advinhar quem matou ele. Matou! Matar!}
-{160}{Mast23}{Ele nega tudo. E ele diz que ele sabe
+{160}{Mast23}{Ele nega tudo. É ele diz que ele sabe
  quem começou este rumor...}
-{161}{Mast24}{Eu acho que eu sei quem o mentiroso e. Mentiroso!}
-{162}{Mast25}{Razoavel. Um momento. Voce tem certeza? E quanto as
- outras mulheres? Nao pode ser. Ser.}
+{161}{Mast24}{Eu acho que eu sei quem o mentiroso é. Mentiroso!}
+{162}{Mast25}{Razoavel. Um momento. Você tem certeza? É quanto as
+ outras mulheres? Não pode ser. Ser.}
 {163}{}{Lamento, sua raça esa condenada.}
-{164}{}{Me de licença enquanto eu gloat... Eu disse pra voce que sim!}
-{165}{Mast26}{Sem qualquer prova eu temo que eu nao possa acreditar em voce. Agora voce
- se unira ao meu exercito como um mutante ou voce morrera! Morrer! Unir!}
-{166}{}{Melhor morto do que como voce.}
+{164}{}{Me de licença enquanto eu gloat... Eu disse pra você que sim!}
+{165}{Mast26}{Sem qualquer prova eu temo que eu não possa acreditar em você. Agora você
+ se unira ao meu exercito como um mutante ou você morrera! Morrer! Unir!}
+{166}{}{Melhor morto do que como você.}
 {167}{}{Significa desistir de tudo que eu conheço, mas eu me unirei.}
-{168}{Mast27}{Seu humor nao salvara voce agora. Voce aceita minha oferta, ou nao?
- Nao! Aceita!}
-{169}{}{Nao.}
-{170}{}{Ok, e melhor do que morrer...}
-{171}{Mast28}{Radiaçao nao tem efeito sobre nos. O virus FEV nos torna imunes.
- Seu argumento e fraco e assim e voce.}
-{172}{Mast29}{Oh, eu acho que voce esta errado. Mas apenas pra ter certeza eu ordenarei
- este assunto pesquisado. Apos eu ter tomado conta de voce. Importar! Importar!}
-{173}{Mast30}{Meu unico problema e voce. Agora, voce trabalhara pela Unidade, ou nao?}
-{174}{}{Nao.}
+{168}{Mast27}{Seu humor não salvara você agora. Você aceita minha oferta, ou não?
+ Não! Aceita!}
+{169}{}{Não.}
+{170}{}{Certo, e melhor do que morrer...}
+{171}{Mast28}{Radiaçao não tem efeito sobre nos. O virus FEV nos torna imunes.
+ Seu argumento e fraco e assim e você.}
+{172}{Mast29}{Ah, eu acho que você esta errado. Mas apenas pra ter certeza eu ordenarei
+ este assunto pesquisado. Apos eu ter tomado conta de você. Importar! Importar!}
+{173}{Mast30}{Meu unico problema e você. Agora, você trabalhara pela Unidade, ou não?}
+{174}{}{Não.}
 {175}{}{Com certeza.}
 {176}{Mast31}{Eles serao punidos pela insolencia deles.}
-{177}{}{Voce quer dizer matar todos eles?}
-{178}{}{Entao eu devo parar voce agora!}
-{179}{Mast32}{Claro que nao. Sera oferecido a maioria uma chance de se tornarem
+{177}{}{Você quer dizer matar todos eles?}
+{178}{}{Então eu devo parar você agora!}
+{179}{Mast32}{Claro que não. Sera oferecido a maioria uma chance de se tornarem
  um mutante. Aqueles que negarem esta oportunidade serao esterilizados e
  mandados embora. Aqueles que resistirem serao executados.}
-{180}{}{Voce e um filhote doente. Hora de acabar com voce.}
-{181}{}{Hmm, eu nao gosto da ideia de ser executado... eu estou me unindo.}
-{182}{Mast33}{Nos somos todos biased, nao somos? Nos nos importamos cada um de
- nos mais com nossas comunidades individuais do que com as outras pessoas. Nos
- nao mudamos e eu direi algo mais a voce...}
-{183}{}{O que e isso?}
-{184}{Mast34}{Nos nao mudaremos. Nao a menos que nos tornemos um povo so. Um. Um. Um.
+{180}{}{Você é um filhote doente. Hora de acabar com você.}
+{181}{}{Hmm, eu não gosto da ideia de ser executado... eu estou me unindo.}
+{182}{Mast33}{Nós somos todos biased, não somos? Nós nos importamos cada um de
+ nos mais com nossas comunidades individuais do que com as outras pessoas. Nós
+ não mudamos e eu direi algo mais a você...}
+{183}{}{O que é isso?}
+{184}{Mast34}{Nós não mudaremos. Não a menos que nos tornemos um povo só. Um. Um. Um.
  Uma raça. Uma. Uma. Uma. A Unidade nos permitira mover alem destas preocupaçoes
- petty e lidar com os problemas graves proximos. Voce quer ser uma parte disso
- nao quer? Parte. Nao.}
-{185}{}{Voce me convenceu. Eu me unirei a Unidade.}
-{186}{}{Eu quero uma parte de voce... Sua cabeça!}
+ petty e lidar com os problemas graves proximos. Você quer ser uma parte disso
+ não quer? Parte. Não.}
+{185}{}{Você me convenceu. Eu me unirei a Unidade.}
+{186}{}{Eu quero uma parte de você... Sua cabeça!}
 {187}{Mast35}{Claro! Os mutantes sobreviverao! Os mutantes reconstruirao este
- mundo! E so como um mutante sera permitido a voce viver! Viver. Morrer!}
+ mundo! É só como um mutante sera permitido a você viver! Viver. Morrer!}
 {188}{}{Viver!}
 {189}{}{Morrer!}
-{190}{}{Tudo com que voce se importa sao seus mutantes e a Unidade deles.}
-{191}{Mast36}{Eu nao sou vilao. Voce nao tem ideia do que eu ou a Unidade representamos.}
-{192}{}{Entao me diga o que voces representam.}
-{193}{}{Voce e um vilao. Voce esta apenas negando seus sentimentos internos.}
-{194}{Mast37}{Eu nao tenho que provar a mim mesmo pra voce. Usando sua logica, que devo
- eu provar que nao sou um vilao. Seria uma causa sem esperança explica-lo a voce.}
-{195}{Mast38}{Oh? Por favor, que tipo de plano poderia esse ser?}
+{190}{}{Tudo com que você se importa são seus mutantes é a Unidade deles.}
+{191}{Mast36}{Eu não sou vilao. Você não tem ideia do que eu ou a Unidade representamos.}
+{192}{}{Então me diga o que vocês representam.}
+{193}{}{Você é um vilao. Você esta apenas negando seus sentimentos internos.}
+{194}{Mast37}{Eu não tenho que provar a mim mesmo pra você. Usando sua logica, que devo
+ eu provar que não sou um vilao. Seria uma causa sem esperança explica-lo a você.}
+{195}{Mast38}{Ah? Por favor, que tipo de plano poderia esse ser?}
 {196}{}{Eu vou detonar um dispositivo nuclear nesta Vault. Ele explodira
- brevemente levando todos voce pro inferno!}
-{197}{}{Eu matarei voce e isso tornara dificil pra voce continuar, certo?}
+ brevemente levando todos você pro inferno!}
+{197}{}{Eu matarei você e isso tornara difícil pra você continuar, certo?}
 {198}{}{Eu convenci a Irmandade do Aço a invadir este lugar se eu fosse
- capturado e nao fosse liberto. Eles estarao aqui a qualquer momento.}
-{199}{Mast39}{Voce poderia estar dizendo a verdade. Nao importa,
- mas eu deixarei voce ir agora.}
-{200}{Mast40}{Voce esta mentindo. Sera a ultima mentira que voce diz.}
-{201}{Mast41}{Um momento enquanto eu verifico sua estoria. Voce poderia
+ capturado e não fosse liberto. Eles estarao aqui a qualquer momento.}
+{199}{Mast39}{Você poderia estar dizendo a verdade. Não importa,
+ mas eu deixarei você ir agora.}
+{200}{Mast40}{Você esta mentindo. Sera a ultima mentira que você diz.}
+{201}{Mast41}{Um momento enquanto eu verifico sua estoria. Você poderia
  estar dizendo a verdade. Guardas! Levem este humano ao nucleo do
  reator. Lidem com o problema antes que seja tarde demais.}
-{202}{Mast42}{Eu duvido que ate mesmo o FEV ajudara voce. Por que eu
- estou falando? E improvavel que voce entenda...}
-{203}{Mast43}{Voce deve estar fazendo piada.}
-{204}{Mast44}{Minha paciencia com voce esta quase no fim. Agora,
- voce se unira a Unidade ou nao? Unir. Nao!}
+{202}{Mast42}{Eu duvido que até mesmo o FEV ajudara você. Por que eu
+ estou falando? É improvavel que você entenda...}
+{203}{Mast43}{Você deve estar fazendo piada.}
+{204}{Mast44}{Minha paciencia com você esta quase no fim. Agora,
+ você se unira a Unidade ou não? Unir. Não!}
 {205}{}{Sim.}
-{206}{}{Nao.}
-{207}{Mast45}{Certo. Entao voce pode morrer aqui e agora!}
-{208}{Mast46}{Voce desarmou o dispositivo. Excelente. Me diga, ha
- alguma coisa que voce queira dizer antes que eu mate voce?}
-{209}{}{Sim, eu posso me unir a voces agora?}
-{210}{}{Mesmo morto eu ainda terei melhor aparencia do que voce.}
-{211}{Mast47}{Nao. Nao. Nao. Nao.}
-{212}{Mast200}{Eu sou o Mestre. Eu nao tenho que responder a voce.}
-{213}{Mast201}{Eu nao estou aqui pra responder suas perguntas. Voce esta aqui pra responder as minhas.}
+{206}{}{Não.}
+{207}{Mast45}{Certo. Então você pode morrer aqui e agora!}
+{208}{Mast46}{Você desarmou o dispositivo. Excelente. Me diga, há
+ alguma coisa que você queira dizer antes que eu mate você?}
+{209}{}{Sim, eu posso me unir a vocês agora?}
+{210}{}{Mesmo morto eu ainda terei melhor aparencia do que você.}
+{211}{Mast47}{Não. Não. Não. Não.}
+{212}{Mast200}{Eu sou o Mestre. Eu não tenho que responder a você.}
+{213}{Mast201}{Eu não estou aqui pra responder suas perguntas. Você esta aqui pra responder as minhas.}
 {214}{Mast202}{Assim que eu tiver o local da sua Vault, eu cumprirei meu destino!
  Destino! Destino! Destino!}
-{215}{Mast203}{Voce acha que voce pode me destruir!? Destruir! A mim?}
+{215}{Mast203}{Você acha que você pode me destruir!? Destruir! A mim?}
 {300}{}{Duh!}
 
 
 # Master Tell-Me-Abouts generic response
-{980}{Mast200}{Eu sou o Mestre. Eu nao tenho que responder a voce.}
+{980}{Mast200}{Eu sou o Mestre. Eu não tenho que responder a você.}
 
 #
 # Master Tell-Me-Abouts
@@ -179,5 +179,5 @@
 
 {1000}{}{Unidade}
 {1001}{}{Mestre}
-{1100}{Mast200}{Eu sou o Mestre. Eu nao tenho que responder a voce.}
-{1101}{Mast201}{Eu nao estou aqui pra responder suas perguntas. Voce esta aqui pra responder as minhas.}
+{1100}{Mast200}{Eu sou o Mestre. Eu não tenho que responder a você.}
+{1101}{Mast201}{Eu não estou aqui pra responder suas perguntas. Você esta aqui pra responder as minhas.}

@@ -1,1 +1,1 @@
-{100}{}{Ha uma grande quantidade de fezes de rato nesta area.}
+{100}{}{Há uma grande quantidade de fezes de rato nesta area.}

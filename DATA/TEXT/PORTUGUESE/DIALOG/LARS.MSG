@@ -4,18 +4,18 @@
 {103}{}{Ele tem cicatrizes de ferimentos de faca e balas. Seus músculos muscles mostram
  um homem endurecido pela adversidade.}
 {104}{}{Você sabe, não é sábio tentar roubar dos guardas aqui em Junktown,
- vagabundo(a)!}
-{105}{}{Eu posso ajudar você, estranho(a)?}
+ vagabundo!}
+{105}{}{Eu posso ajudar você, estranho?}
 {106}{}{Então, o que há pra fazer por aqui?}
 {107}{}{Você pode me dar um esclarecimento sobre Junktown?}
 {108}{}{Quem é você?}
 {109}{}{Eergh.}
 {110}{}{Se você está no comando dos guardas aqui, eu acho que eu tenho um pouco de informação
  para você.}
-{111}{}{Ei! Você! Nós sabemos sobre você, seu/sua monstro(a)!}
+{111}{}{Ei! Você! Nós sabemos sobre você, seu/sua monstro!}
 {112}{}{Bastante, tanto quanto você fique no nosso lado. Nós temos o armazém do Killian
- Darkwaters', aonde você pode fazer algum comércio. E há o cassino do Casino, se você é um(a)
- jogador(a). Ou se você apenas quer uma bebida, você pode ir para o Skum Pitt.
+ Darkwaters', aonde você pode fazer algum comércio. É há o cassino do Casino, se você é um
+ jogador. Ou se você apenas quer uma bebida, você pode ir para o Skum Pitt.
  Apenas não fique muito bebado.}
 {113}{}{Ei, Eu gosto de uma bebedeira!}
 {114}{}{Bem, melhor você manter-se sob controle. Nós somos uma cidade livre mas nós
@@ -36,7 +36,7 @@
 {121}{}{Que isto, é apenas nosso trabalho. Mas é bom saber que alguém o aprecia.
  Obrigado.}
 {122}{}{Tenho que fazê-lo com todo gosto. Nós sabemos que Gizmo dirige uma operação duvidosa
- e tal, mas nós precisamos de evidência robusta para derrubá-lo. E mesmo com os Skulz; eles
+ e tal, mas nós precisamos de evidência robusta para derrubá-lo. É mesmo com os Skulz; eles
  são muito bom nisto, nós trazemos um ou dois deles para cá, mas nada muda. Nós simplesmente
  não temos qualquer evidência direta ligando eles a qualquer dos assassinatos ou assaltos.}
 {123}{}{Talvez eu possa ajudar você com isso.}
@@ -47,11 +47,11 @@
  tomaremos conta deles.}
 {126}{}{Obrigado. Cuidado por aí.}
 {127}{}{Eu sou o cabeça dos guardas aqui em Junktown. O nome é Lars. Falando nisto,
- quem é você, estranho(a)?}
+ quem é você, estranho?}
 {128}{}{Eu sou }
 {129}{}{.}
 {130}{}{Cai fora, Eu não tenho que dizer nada a você.}
-{131}{}{Bem-vindo(a) a Junktown, }
+{131}{}{Bem-vindo a Junktown, }
 {132}{}{. Em que eu posso ajudar você?}
 {133}{}{Você pode me dar mais detalhes sobre Junktown?}
 {134}{}{Apenas procurando por algo pra fazer. Tem quaisquer sugestões?}
@@ -77,22 +77,22 @@
  obterei toda a informação que eu preciso para tirar ele daqui.}
 {150}{}{Olha, isto não é um jogo. As pessoas estão se ferindo aqui. Se você achar alguma
  evidência verdadeira, volte, mas do contrário, não desperdice meu tempo!}
-{151}{}{Se você não é averso(a) a um pouco de skullduggery, Eu preciso de alguém par obter
+{151}{}{Se você não é averso a um pouco de skullduggery, Eu preciso de alguém par obter
  alguma evidência dura sobre os Skulz, provando que eles estão envolvidos em atividades
  ilegais aqui. Ou você pode falar com o Killian; ele poderia ter algum trabalho para você.}
 {152}{}{Obrigado pela sua assistência. Junktown está um pouco mais segura agora, por causa de
  sua ajuda.}
 {153}{}{Mova-se, camarada.}
 {154}{}{Você ganha 300 pontos de experiência por tomar um turno arriscado contra os Skulz.}
-{155}{}{Você está pronto(a) para ajudar a derrubar o Gizmo?}
+{155}{}{Você está pronto para ajudar a derrubar o Gizmo?}
 {156}{}{Você pode apostar. Vamos nail aquele tub.}
 {157}{}{Não, eu mudei minha de idéia.}
 {158}{}{Tudo certo, vamos fazê-lo.}
-{159}{}{Bem, melhor você esperar aqui para que você não fique preso(a) no fogo cruzado.}
+{159}{}{Bem, melhor você esperar aqui para que você não fique preso no fogo cruzado.}
 {160}{}{Killian me enviou para ajudar a run o Gizmo fora da cidade.}
 {161}{}{Killian me enviou. Nós vamos derrubar o Gizmo.}
-{162}{}{Obrigado por toda a sua ajuda. Aqui estão 500 tampinhas. Você sempre será bem-vindo(a) em
- Junktown, amigo(a).}
+{162}{}{Obrigado por toda a sua ajuda. Aqui estão 500 tampinhas. Você sempre será bem-vindo em
+ Junktown, amigo.}
 {163}{}{O que? Hmm. Nós veremos a respeito disso. Eu enviarei alguns homens para emboscá-los
  quando eles tentarem. Você vai estar lá?}
 {164}{}{Não obrigado, eu já fiz meu bom ato do dia.}

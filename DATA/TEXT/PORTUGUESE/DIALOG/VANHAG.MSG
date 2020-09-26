@@ -1,24 +1,24 @@
-{100}{}{Você ve um membro das Crianças da Catedral.}
+{100}{}{Você vê um membro das Crianças da Catedral.}
 {101}{}{Eu não falo com almas heathen tais como você mesmo.}
 {102}{}{Seu relatorio, VanHagan.}
 {103}{}{O Mestre esta feliz com seu progresso, mas a necessidade
  dele e grande e o tempo e limitado.}
 {104}{}{O Mestre deveria saber que o material puro e limitado.
- Nos não podemos criar nossos soldados sem mais estoque.}
+ Nós não podemos criar nossos soldados sem mais estoque.}
 {105}{}{Ele esta ciente dos seus problemas. Ele ests trabalhando
  nisso conforme nos falamos.}
-{106}{}{Diga-me dos planos dele. Nos precisaremos coordenar
+{106}{}{Diga-me dos planos dele. Nós precisaremos coordenar
  as atividades, se a Unidade tem que ser bem sucedida.}
 {107}{}{O Mestre se tornou ciente de uma vault não descoberta, e
  vivente. Com tanto material puro, nos podemos criar uma grande
- forca. De acordo com o software de previsao, serao os numeros
+ força. De acordo com o software de previsao, serao os numeros
  que nos precisamos pra sermos bem sucedidos.}
-{108}{}{Excelente. Isto e muito fortuitous. Os habitantes estao
+{108}{}{Excelente. Isto e muito fortuitous. Os habitantes estão
  contaminados?}
-{109}{}{Oh, esta e a melhor parte. Se o representante for um
- exemplo, eles estao limpos. Pure-strain.}
-{110}{}{Oh, isto e muito excitante. Qual e a vault que nos
+{109}{}{Ah, esta é a melhor parte. Se o representante for um
+ exemplo, eles estão limpos. Pure-strain.}
+{110}{}{Ah, isto e muito excitante. Qual é a vault que nos
  plunder?}
-{111}{}{Vault-13. E nos teremos eles em breve. Muito em breve.}
+{111}{}{Vault-13. É nos teremos eles em breve. Muito em breve.}
 {112}{}{Você ganha 1000 pontos de experiência por overhearing a
  conversa inteira sobre sua vault.}

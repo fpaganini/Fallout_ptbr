@@ -1,11 +1,11 @@
-{100}{}{Você ve um patrulheiro para os Nightkin.}
+{100}{}{Você vê um patrulheiro para os Nightkin.}
 {101}{}{O que nos temos aqui? Um normal. Eu acho que você vira comigo.}
-{102}{}{Nao.}
+{102}{}{Não.}
 {103}{}{Certo.}
 {104}{}{Por que eu deveria?}
 {105}{}{Pense de novo!}
-{106}{}{E realmente bastante simples. Se você vier comigo, eu posso ajudar você.}
-{107}{}{Ok. Eu irei com você.}
+{106}{}{É realmente bastante simples. Se você vier comigo, eu posso ajudar você.}
+{107}{}{Certo. Eu irei com você.}
 {108}{}{Apenas me aponte para o seu lider ao inves disso.}
 {109}{}{De modo algum!}
 {110}{}{Com a mais rapida das pressas. Procure Uthern. Ele will set you straight.}

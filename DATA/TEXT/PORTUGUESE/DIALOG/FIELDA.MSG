@@ -1,1 +1,1 @@
-{100}{}{Voce ve um campo de forca cintilante.}
+{100}{}{Você vê um campo de força cintilante.}

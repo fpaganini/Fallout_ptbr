@@ -1,89 +1,89 @@
-{100}{}{Você ve a Nicole.}
+{100}{}{Você vê a Nicole.}
 {101}{}{Diga-me um pouco da historia por tras dos Seguidores.}
-{102}{}{O que voces adoram?}
+{102}{}{O que vocês adoram?}
 {103}{}{O que esta ao redor daqui?}
-{104}{}{Eu tenho alguma informacao para você.}
-{105}{Nic_1}{Saudacoes. Ei! Nos estamos muito felizes que você pôde se juntar a nos. Nos esperamos que você tenha achado nossa humilde residencia satisfatoria pra você.}
-{106}{}{Obrigado. Você pode me dizer mais sobre o que voces adoram aqui?}
-{107}{}{'Humilde' e uma boa palavra. 'Dump' seria melhor.}
+{104}{}{Eu tenho alguma informação para você.}
+{105}{Nic_1}{Saudações. Ei! Nós estamos muito felizes que você pôde se juntar a nos. Nós esperamos que você tenha achado nossa humilde residencia satisfatoria pra você.}
+{106}{}{Obrigado. Você pode me dizer mais sobre o que vocês adoram aqui?}
+{107}{}{'Humilde' é uma boa palavra. 'Dump' seria melhor.}
 {108}{}{Eu tenho. Eu posso fazer algumas perguntas?}
 {109}{}{Esta ok, Eu acho.}
 {110}{}{Nuhh? Uh, nuh, nuh. Huh?}
-{111}{Nic_2}{Nos não adoramos tanto quanto seguimos um conjunto de principios. Nos queremos trazer paz de volta a esta terra devastada. O mundo tende em direção a destruição, entao nos tentamos fazer a diferenca.}
+{111}{Nic_2}{Nós não adoramos tanto quanto seguimos um conjunto de principios. Nós queremos trazer paz de volta a esta terra devastada. O mundo tende em direção a destruição, então nos tentamos fazer a diferenca.}
 {112}{}{Como?}
-{113}{Nic_4}{Nos tentamos lembrar as pessoas por que a Grande Guerra aconteceu em primeiro lugar. E ajudar a garantir que jamais acontecera de novo.}
+{113}{Nic_4}{Nós tentamos lembrar as pessoas por que a Grande Guerra aconteceu em primeiro lugar. É ajudar a garantir que jamais acontecera de novo.}
 {114}{}{Você foram bem sucedidos de algum modo?}
 {115}{}{Soa como pensamento desejoso - não muito realistico.}
-{116}{Nic_5}{Nos nunca desistimos da esperanca. Nos nunca desistiremos, mesmo embora a maioria viva pela arma estes dias. E nos estamos preocupados com as Crianças da Catedral...}
-{117}{}{E quanto a eles?}
-{118}{Nic_6}{Eles clamam querer a paz, como nos. Mas qualquer um que não concorde com eles simplesmente desaparece. O Deus Sombrio deles não e o que ele parece, acredite em mim.}
+{116}{Nic_5}{Nós nunca desistimos da esperança. Nós nunca desistiremos, mesmo embora a maioria viva pela arma estes dias. É nos estamos preocupados com as Crianças da Catedral...}
+{117}{}{É quanto a eles?}
+{118}{Nic_6}{Eles clamam querer a paz, como nos. Mas qualquer um que não concorde com eles simplesmente desaparece. O Deus Sombrio deles não é o que ele parece, acredite em mim.}
 {119}{}{Como você sabe?}
 {120}{}{Você não acha que você esta sendo um pouco paranoico?}
-{121}{}{'Nos?' E isto o que todos os Seguidores acham ou apenas você?}
-{122}{Nic_7}{Chame-o de instinto. Nos vimos Morpheus e os Nightkin e eles não parecem pacificadores para nos. Seus hospitais e mensagens de paz tornam eles atraentes, mas nos sabemos que ha o mal la.}
+{121}{}{'Nós?' É isto o que todos os Seguidores acham ou apenas você?}
+{122}{Nic_7}{Chame-o de instinto. Nós vimos Morpheus e os Nightkin e eles não parecem pacificadores para nos. Seus hospitais e mensagens de paz tornam eles atraentes, mas nos sabemos que há o mal lá.}
 {123}{}{Você não acha que você esta sendo um pouco paranoico?}
 {124}{}{Você tem quaisquer pistas?}
 {125}{}{Bem, eu certamente direi a você qualquer coisa que eu descobri.}
-{126}{}{'Nos' isto e 'nos' aquilo. Você esta tentando pôr palavras nas bocas de todos?}
-{127}{Nic_8}{Talvez, mas e o que nos manteve vivos por este tempo.}
-{128}{Nic_8a}{Nos somos unidos. Se não, nos pereceremos. Agora me perdoe se isso irrita você.}
-{129}{Nic_8b}{Ha algo mais que você precisa saber?}
+{126}{}{'Nós' isto e 'nos' aquilo. Você esta tentando pôr palavras nas bocas de todos?}
+{127}{Nic_8}{Talvez, mas é o que nos manteve vivos por este tempo.}
+{128}{Nic_8a}{Nós somos unidos. Se não, nos pereceremos. Agora me perdoe se isso irrita você.}
+{129}{Nic_8b}{Há algo mais que você precisa saber?}
 {130}{}{Sim.}
-{131}{}{Nao, obrigado. Eu irei agora.}
+{131}{}{Não, obrigado. Eu irei agora.}
 {132}{Nic_9}{Pergunte e eu responderei se eu puder.}
-{133}{Nic_10}{Nos não temos tempo para perguntas dos tipos de você. Meu assistente mostrara a saida pra você.}
+{133}{Nic_10}{Nós não temos tempo para perguntas dos tipos de você. Meu assistente mostrara a saida pra você.}
 {134}{Nic_11}{Ei! Eu não aprecio isso, mas eu perdoarei isso se você se desculpar.}
 {135}{}{Eu lamento que eu já tenha falado com você.}
-{136}{}{Ok, eu lamento.}
-{137}{Nic_12}{Bom. Nos não temos que ficar de baba. Deixe-nos.}
-{138}{Nic_13}{Desculpa aceita. Por favor lembre-se que você e um convidado aqui. Agora, ha algo mais?}
+{136}{}{Certo, eu lamento.}
+{137}{Nic_12}{Bom. Nós não temos que ficar de baba. Deixe-nos.}
+{138}{Nic_13}{Desculpa aceita. Por favor lembre-se que você e um convidado aqui. Agora, há algo mais?}
 {139}{}{Eu posso fazer mais algumas perguntas?}
-{140}{}{Nao, eu irei agora.}
-{141}{Nic_14}{Nos desejamos a você o melhor nas jornadas a frente. Por favor sinta-se livre para usar nossa base tanto quanto você gostar.}
-{142}{Nic_15}{Nos sabemos que poderia ser melhor. Mas quando você esta se preparando para a guerra...}
+{140}{}{Não, eu irei agora.}
+{141}{Nic_14}{Nós desejamos a você o melhor nas jornadas a frente. Por favor sinta-se livre para usar nossa base tanto quanto você gostar.}
+{142}{Nic_15}{Nós sabemos que poderia ser melhor. Mas quando você esta se preparando para a guerra...}
 {143}{}{Guerra com quem?}
-{144}{Nic_16}{As Crianças da Catedral. Nos acreditamos em trazer a paz para a terra, mas ha algumas coisas que simplesmente não podem ser evitadas.}
+{144}{Nic_16}{As Crianças da Catedral. Nós acreditamos em trazer a paz para a terra, mas há algumas coisas que simplesmente não podem ser evitadas.}
 {145}{}{O que você quer dizer? O que eles fizeram?}
-{146}{}{Por que voces acreditam em paz?}
-{147}{Nic_17}{Desde quando as Crianças se mostraram, qualquer um que não acredite nas visoes deles desaparece. Eles dizem que eles estao aqui para a paz, mas nos sabemos diferentemente.}
+{146}{}{Por que vocês acreditam em paz?}
+{147}{Nic_17}{Desde quando as Crianças se mostraram, qualquer um que não acredite nas visoes deles desaparece. Eles dizem que eles estão aqui para a paz, mas nos sabemos diferentemente.}
 {148}{}{Como você sabe?}
-{149}{}{Entao o que você vai fazer a respeito?}
+{149}{}{Então o que você vai fazer a respeito?}
 {150}{}{De onde as Crianças vieram?}
-{151}{Nic_18}{Tudo que nos podemos fazer e nos preparar. Mas o tempo vira quando nos devemos enfrentar estas Crianças e seu Deus Sombrio.}
+{151}{Nic_18}{Tudo que nos podemos fazer e nós preparar. Mas o tempo vira quando nos devemos enfrentar estas Crianças e seu Deus Sombrio.}
 {152}{}{Soa perigoso. Eu deixarei você saber de qualquer coisa que eu descobrir.}
 {153}{}{Eu pensei que você disse que você acreditava em paz?}
-{154}{Nic_19}{Bom! Nos poderiamos usar qualquer informacao. Agora, ha algo mais que você gostaria de perguntar?}
-{155}{}{Sim, ha.}
-{156}{}{Nao, obrigado a você.}
-{157}{Nic_20}{Nos acreditamos na paz, mas nos defenderemos esta terra se nos precisarmos. Se isso signifa que os Seguidores devam ir para a guerra, entao que seja.}
+{154}{Nic_19}{Bom! Nós poderiamos usar qualquer informação. Agora, há algo mais que você gostaria de perguntar?}
+{155}{}{Sim, há.}
+{156}{}{Não, obrigado a você.}
+{157}{Nic_20}{Nós acreditamos na paz, mas nos defenderemos esta terra se nos precisarmos. Se isso signifa que os Seguidores devam ir para a guerra, então que seja.}
 {158}{}{Soa contraditorio pra mim.}
 {159}{}{Isso e tipo de duas caras, não e?}
-{160}{}{Ok. Eu posso fazer a você mais algumas perguntas?}
-{161}{Nic_21}{Realmente não. Nos viemos para ensinar a paz, mas nos defenderemos a nos mesmos se necessario. Isso inclui nossas crencas.}
+{160}{}{Certo. Eu posso fazer a você mais algumas perguntas?}
+{161}{Nic_21}{Realmente não. Nós viemos para ensinar a paz, mas nos defenderemos a nos mesmos se necessario. Isso inclui nossas crencas.}
 {162}{Nic_21b}{Você não entenderia.}
 {163}{}{Hmm, ok. Eu posso fazer a você mais algumas perguntas?}
-{164}{}{Tudo bem. eu acho que e a hora de eu ir.}
-{165}{Nic_22}{Eles se mostraram quase ao mesmo tempo que nos, mas ninguem sabe como eles vieram. Nos ouvimos rumores de que o lider deles, Morpheus, era parte dos Rippers antes que ele fosse 'iluminado' pelo Deus Sombrio deles.}
+{164}{}{Tudo bem. eu acho que é a hora de eu ir.}
+{165}{Nic_22}{Eles se mostraram quase ao mesmo tempo que nos, mas ninguém sabe como eles vieram. Nós ouvimos rumores de que o lider deles, Morpheus, era parte dos Rippers antes que ele fosse 'iluminado' pelo Deus Sombrio deles.}
 {166}{}{Ei, um cara pode mudar.}
-{167}{}{Soa como se ele não e um camarada bacana.}
+{167}{}{Soa como se ele não é um camarada bacana.}
 {168}{}{Eu acho que eu verificarei.}
-{169}{Nic_23}{Essa e uma descricao muito caridosa. Agora, ha algo mais?}
-{170}{}{Sim, ha.}
-{171}{}{Nao, obrigado a você.}
-{172}{Nic_24}{Seja muito cuidadoso. Claro, nos amariamos saber o que esta acontecendo por la.}
+{169}{Nic_23}{Essa é uma descricao muito caridosa. Agora, há algo mais?}
+{170}{}{Sim, há.}
+{171}{}{Não, obrigado a você.}
+{172}{Nic_24}{Seja muito cuidadoso. Claro, nos amariamos saber o que esta acontecendo por lá.}
 {173}{}{Eu posso fazer mais algumas perguntas?}
 {174}{}{Obrigado, eu irei agora.}
-{175}{Nic_25}{Nos comecamos este grupo apos ver que a matanca ainda governava a terra. Parecia não haver restado esperanca. O homem não pode viver sem esperanca.}
-{176}{}{E você da esperanca?}
+{175}{Nic_25}{Nós comecamos este grupo apos ver que a matanca ainda governava a terra. Parecia não haver restado esperança. O homem não pode viver sem esperança.}
+{176}{}{É você da esperança?}
 {177}{}{Você soa como uma das Crianças!}
 {178}{}{Quando você iniciou este grupo?}
-{179}{Nic_26}{Nos tentamos. Nos tentamos nosso melhor. A maioria das pessoas não quer escutar, mas algumas escutam.}
+{179}{Nic_26}{Nós tentamos. Nós tentamos nosso melhor. A maioria das pessoas não quer escutar, mas algumas escutam.}
 {180}{}{Bem, eu espero que eu possa fazer outra pergunta.}
-{181}{}{E hora de eu sair.}
-{182}{Nic_27}{Eu tenho certeza de que você ficaria entediado com o dizer da historia inteira dos Seguidores. Ha um numero de livros aqui com essa informacao.}
+{181}{}{É hora de eu sair.}
+{182}{Nic_27}{Eu tenho certeza de que você ficaria entediado com o dizer da historia inteira dos Seguidores. Há um numero de livros aqui com essa informação.}
 {183}{}{Eu posso fazer mais algumas perguntas?}
 {184}{}{Bem, obrigado. Eu preciso ir agora.}
-{185}{Nic_28}{Um numero de nossos espioes viram Nightkin entrando e saindo da sala de tras do templo das Crianças. Algo importante esta la atras.}
+{185}{Nic_28}{Um numero de nossos espioes viram Nightkin entrando e saindo da sala de tras do templo das Crianças. Algo importante esta lá atras.}
 {186}{}{Bem, eu reportarei de volta qualquer coisa que eu ouvir.}
 {187}{}{Eu posso fazer mais algumas perguntas?}
 {188}{}{Interessante, mas eu tenho que ir.}
@@ -91,50 +91,50 @@
 {190}{}{Onde os Seguidores comecaram?}
 {191}{}{Quem comecou?}
 {192}{}{Quais são seus objetivos?}
-{193}{Nic_30}{Longe ao sul, perto do Grande Glow. Os tempos eram dificeis, mas nos conseguimos sobreviver. Nos percebemos entao que a Grande Guerra nunca deve acontecer de novo.}
-{194}{}{Entao, você comecou os Seguidores do Apocalipse?}
+{193}{Nic_30}{Longe ao sul, perto do Grande Glow. Os tempos eram difíceis, mas nos conseguimos sobreviver. Nós percebemos então que a Grande Guerra nunca deve acontecer de novo.}
+{194}{}{Então, você comecou os Seguidores do Apocalipse?}
 {195}{}{O que fez você vir até o norte?}
-{196}{Nic_31}{Apos meus pais serem mortos por saqueadores, [suspiro] era o tempo para que a matanca parasse. E nosso objetivo tornar esta terra do modo como costumava ser, antes da guerra.}
+{196}{Nic_31}{Apos meus pais serem mortos por saqueadores, [suspiro] era o tempo para que a matanca parasse. É nosso objetivo tornar esta terra do modo como costumava ser, antes da guerra.}
 {197}{}{Eu lamento sobre seus pais.}
-{198}{}{Entao poderia acontecer de novo? Isso e estupido!}
+{198}{}{Então poderia acontecer de novo? Isso e estúpido!}
 {199}{}{Quem eram os saqueadores?}
 {200}{}{O que fez você trazer os Seguidores até o norte?}
-{201}{Nic_32}{Nos nunca descobrimos, embora nos ouvimos que um grupo viva acima ao norte em uma velha cidade arruinada. Nos o deixamos ficar.}
+{201}{Nic_32}{Nós nunca descobrimos, embora nos ouvimos que um grupo viva acima ao norte em uma velha cidade arruinada. Nós o deixamos ficar.}
 {202}{}{Por que não? Você poderia obter vinganca!}
 {203}{}{Por que você terminou trazendo os Seguidores para o norte?}
-{204}{Nic_33}{Nos estamos aqui para fazer a paz, não matar pelo odio.}
+{204}{Nic_33}{Nós estamos aqui para fazer a paz, não matar pelo odio.}
 {205}{}{Soa mais como medo.}
 {206}{}{Muito nobre de você. Se fosse eu eu mataria todos eles.}
 {207}{}{Por que você esta aqui em cima agora?}
-{208}{Nic_34}{Eu não estou supreso. Os Seguidores estao para pôr sentido em pessoas como você.}
-{209}{}{Boa sorte, e uma venda dificl. E por isso que voces estao acima ao norte agora?}
-{210}{}{E você não acha que violencia e sempre boa?}
-{211}{}{Entao responder mais perguntas não pode machucar, certo?}
+{208}{Nic_34}{Eu não estou supreso. Os Seguidores estão para pôr sentido em pessoas como você.}
+{209}{}{Boa sorte, é uma venda dificl. É por isso que vocês estão acima ao norte agora?}
+{210}{}{É você não acha que violência e sempre boa?}
+{211}{}{Então responder mais perguntas não pode machucar, certo?}
 {212}{}{Bem, eu tenho que ir.}
-{213}{Nic_35}{[Suspiro] Você simplesmente não esta pronto para entender as diferencas. Ok. Entao por que você apenas não pensa sobre isso e entao volte para conversar.}
-{214}{Nic_36}{Nao ha muitos restantes pra baixo ao sul. A radiação poluiu quase tudo. A maioria das pessoas restantes nos seguiu para comecar a organizacao.}
+{213}{Nic_35}{[Suspiro] Você simplesmente não esta pronto para entender as diferencas. Certo. Então por que você apenas não pensa sobre isso e então volte para conversar.}
+{214}{Nic_36}{Não há muitos restantes pra baixo ao sul. A radiação poluiu quase tudo. A maioria das pessoas restantes nos seguiu para comecar a organizacao.}
 {215}{}{Como sua familia sobreviveu?}
 {216}{}{Ainda esta radioativo assim? Apos 80 anos?}
-{217}{Nic_37}{Nos vivemos nos arredores do Grande Glow. A doenca comecou a se espalhar, entao nos juntamos todas as pessoas e nos fizemos nosso caminho para o norte. [Suspiro] Isso e quando meus pais foram mortos.}
+{217}{Nic_37}{Nós vivemos nos arredores do Grande Glow. A doenca comecou a se espalhar, então nos juntamos todas as pessoas e nós fizemos nosso caminho para o norte. [Suspiro] Isso e quando meus pais foram mortos.}
 {218}{}{Eu lamento.}
-{219}{}{Por que a area la embaixo ainda esta radioativa apos todo este tempo?}
-{220}{Nic_39}{Obrigado a você, eu aprecio isso. Agora, ha algo mais que você precisa me perguntar?}
-{221}{}{Sim, ha.}
-{222}{}{Nao, eu preciso correr.}
-{223}{Nic_41}{Bem, o rumor e que havia algo tao importante la que a area foi saturada com bombas para garantir que tudo fosse eliminado.}
+{219}{}{Por que a area lá embaixo ainda esta radioativa apos todo este tempo?}
+{220}{Nic_39}{Obrigado a você, eu aprecio isso. Agora, há algo mais que você precisa me perguntar?}
+{221}{}{Sim, há.}
+{222}{}{Não, eu preciso correr.}
+{223}{Nic_41}{Bem, o rumor e que havia algo tão importante lá que a area foi saturada com bombas para garantir que tudo fosse eliminado.}
 {224}{}{Eu posso fazer mais algumas perguntas?}
 {225}{}{Interessante. Mas eu tenho que ir agora.}
-{226}{Nic_42}{Bem, a Boneyard e bem escassa como você pode ver. Adytum e para o oeste. As Crianças da Catedral estao para o norte. Eu não aconselharia ir muito longe para o sul na cidade, os Rippers e os Blades o tornaram em um campo de batalha.}
+{226}{Nic_42}{Bem, a Boneyard e bem escassa como você pode ver. Adytum e para o oeste. As Crianças da Catedral estão para o norte. Eu não aconselharia ir muito longe para o sul na cidade, os Rippers e os Blades o tornaram em um campo de batalha.}
 {227}{Nic_43}{Sobre o que?}
 {228}{}{Eu sei o que esta por tras das Crianças da Catedral.}
 {229}{}{Quando você esta querendo me pagar?}
-{230}{}{Nada, deixa pra la.}
+{230}{}{Nada, deixa pra lá.}
 {231}{Nic_44}{Finalmente! O que você descobriu?}
 {232}{}{Eu sou agora o lider das Crianças!}
-{233}{}{Morpheus não e o lider das Crianças. Sao realmente dirigidas pelo Mestre.}
+{233}{}{Morpheus não é o lider das Crianças. Sao realmente dirigidas pelo Mestre.}
 {234}{}{Você conhece os Nightkin?}
 {235}{Nic_45}{Espere um s...o Deus Sombrio? Você não esta me dizendo que ele e real?}
-{236}{}{Oh, ele e real, so não um deus. Ele e um mutante que quer fazer de todo mundo um Nightkin, para o proprio bem deles.}
+{236}{}{Ah, ele e real, só não um deus. Ele e um mutante que quer fazer de todo mundo um Nightkin, para o proprio bem deles.}
 {237}{}{Sim, ele e! Você deveria temer o todo-poderoso Deus Sombrio!}
 {238}{Nic_46}{O que os Nightkin tem a ver com isto?}
 {239}{}{Eles são realmente uma raca de super mutantes. O Mestre e o lider deles.}
@@ -145,34 +145,34 @@
 {244}{}{Eu vou falar com o Mestre.}
 {245}{}{Eu vou destruir a Catedral agora mesmo.}
 {246}{}{Eu destrui o lugar onde eles fazem mais Super Mutantes, mas eu preciso de ajuda para destruir a Catedral.}
-{247}{Nic_50}{Nos não podemos deixar esta oportunidade passar. Você explora a Catedral. Nos encontraremos você la e ajudamos você a tomar o lugar de assalto.}
-{248}{}{Nao, não isso. Você sabe se ha um caminho secreto pra dentro?}
-{249}{}{Ok. Me encontre la.}
-{250}{}{Nao! Eu não quero que ninguem mais se machuque.}
-{251}{Nic_52a}{Nao, mas eu conheco alguem que ajudara. Va para a Catedral e ache uma mulher chamada Laura. Diga a ele 'Red Rider'. Nos criaremos uma distracao se nos pudermos.}
+{247}{Nic_50}{Nós não podemos deixar esta oportunidade passar. Você explora a Catedral. Nós encontraremos você lá e ajudamos você a tomar o lugar de assalto.}
+{248}{}{Não, não isso. Você sabe se há um caminho secreto pra dentro?}
+{249}{}{Certo. Me encontre lá.}
+{250}{}{Não! Eu não quero que ninguém mais se machuque.}
+{251}{Nic_52a}{Não, mas eu conheco alguém que ajudara. Vá para a Catedral e ache uma mulher chamada Laura. Diga a ele 'Red Rider'. Nós criaremos uma distracao se nos pudermos.}
 {252}{}{Obrigado. Eu espero que a sorte esteja conosco.}
 {253}{Nic_53}{A sorte não tem nada a ver com isto. Eu tenho fe em você.}
 {254}{Nic_56}{Nosso destino jaz diante de nos. Deixe-nos esperar que nos sejamos de valor.}
 {255}{Nic_57}{O que? Este e o nosso destino. Os Seguidores enfrentarao este mal para que a cura da terra possa finalmente comecar.}
-{256}{}{Nao. Eu o proibo.}
-{257}{}{Ok. Me encontre na Catedral.}
-{258}{Nic_58}{[Riso Discreto] Você não nos controla. Nos atacaremos, com ou sem a sua bencao!}
+{256}{}{Não. Eu o proibo.}
+{257}{}{Certo. Me encontre na Catedral.}
+{258}{Nic_58}{[Riso Discreto] Você não nos controla. Nós atacaremos, com ou sem a sua bencao!}
 {259}{Nic_59}{Falar com ele?! Você esta louca?}
-{260}{}{Você não e aquele que prega a paz?}
-{261}{}{Nao, e você não pode me parar.}
+{260}{}{Você não é aquele que prega a paz?}
+{261}{}{Não, e você não pode me parar.}
 {262}{Nic_60}{Bem, sim, mas...}
 {263}{}{Eu acho que eu posso encerrar isto sem matanca. Esteja pronta, no caso de eu falhar.}
-{264}{Nic_61a}{Obviamente, sua mente esta feita. Isto poderia ajudar você. Va para a Catedral e ache uma mulher chamada Laura. Diga a frase 'Red Rider'. E por favor...volte com seguranca.}
+{264}{Nic_61a}{Obviamente, sua mente esta feita. Isto poderia ajudar você. Vá para a Catedral e ache uma mulher chamada Laura. Diga a frase 'Red Rider'. É por favor...volte com seguranca.}
 {265}{Nic_63}{Você tem um estranho senso de humor. Por que você não volta quando você tiver algo serio a dizer.}
 {266}{}{Lamento, era apenas um piada. Ela tem a ver com os Nightkin.}
-{267}{Nic_65a}{Entao você e um mercenario. Bom, eu darei a você 100 caps.}
+{267}{Nic_65a}{Então você e um mercenario. Bom, eu darei a você 100 caps.}
 {268}{Nic_66b}{Agora, o que você tem para mim?}
-{269}{}{Eu sei que alguem esta planejando con you out de algum dinheiro. Obrigado.}
-{270}{}{Morpheus não e o lider das Crianças. Sao realmente dirigidas pelo Mestre.}
+{269}{}{Eu sei que alguém esta planejando con you out de algum dinheiro. Obrigado.}
+{270}{}{Morpheus não é o lider das Crianças. Sao realmente dirigidas pelo Mestre.}
 {271}{}{Você conhece os Nightkin?}
 {272}{}{As Crianças são controladas por alienigenas do espaco.}
-{273}{Nic_67}{Boa sorte. Agora nos temos que examinar nossas opcoes.}
-{274}{Nic_68}{Que nobre, que impressionante. E nos pensamos que você fosse diferente. Agora leve seu dinheiro e saia.}
+{273}{Nic_67}{Boa sorte. Agora nos temos que examinar nossas opções.}
+{274}{Nic_68}{Que nobre, que impressionante. É nos pensamos que você fosse diferente. Agora leve seu dinheiro e saia.}
 {275}{Nic_69}{Bem, oi. Com o que eu posso ajudar você agora?}
 {276}{}{Eu preciso fazer algumas perguntas.}
 {277}{}{Lamento, Eu tenho que ir.}
@@ -190,34 +190,34 @@
 {288}{Nic_75}{Pare!}
 {289}{Nic_76}{Pare com isso!}
 {290}{Nic_77}{Ei! Saia daqui!}
-{291}{Nic_78}{Bem, se você diz que sim. Agora va, porque nos temos trabalho a fazer.}
+{291}{Nic_78}{Bem, se você diz que sim. Agora vá, porque nos temos trabalho a fazer.}
 {292}{Nic_79}{Fale com o Jake. Ele sabe mais sobre isso.}
 {293}{Nic_80}{Como eu disse...}
 {294}{Nic_81}{Como eu mencionei antes...}
 {295}{Nic_82}{Eu disse...}
 {296}{Nic_83}{Bem, como eu disse...}
-{297}{Nic_84}{Oi! Você e um idiota?}
-{298}{Nic_85}{Eu disse isso a você inumeras vezes. Talvez você devesse trabalhar na sua memoria.}
+{297}{Nic_84}{Oi! Você é um idiota?}
+{298}{Nic_85}{Eu disse isso a você inumeras vezes. Talvez você devesse trabalhar na sua memória.}
 {299}{Nic_86}{Morpheus e o lider das Crianças da Catedral. Ele e mal e esse fato deve ser exposto.}
-{300}{Nic_87}{Nao ha muito a dizer.}
-{301}{Nic_87a}{Laura e uma de nossas infiltradas dentro da Catedral. Ela e extremamente leal a nossa causa.}
+{300}{Nic_87}{Não há muito a dizer.}
+{301}{Nic_87a}{Laura é uma de nossas infiltradas dentro da Catedral. Ela e extremamente leal a nossa causa.}
 {302}{Nic_87b}{Jake e o segundo em comando.}
 {303}{Nic_88}{Aqui, você achara textos historicos e textos filosoficos...quase qualquer coisa. Sinta-se livre para olhar por ai.}
-{304}{Nic_89}{As Crianças da Catedral adoram ele. Eles dizem que ele so quer curar a humanidade, mas isso e uma mentira.}
+{304}{Nic_89}{As Crianças da Catedral adoram ele. Eles dizem que ele só quer curar a humanidade, mas isso é uma mentira.}
 {305}{Nic_90}{Eu ouvi muito pouco sobre ele.}
 {306}{Nic_91}{Eles são os servos pessoais de Morpheus. Eles são criaturas enormes, pesadas. Ugh!}
-{307}{Nic_92}{Você provavelmente viu seus hospitais por ai. Eles pregam a paz, mas ha algo errado com eles. Nos precisamos descobrir o que.}
-{308}{Nic_93}{E uma pequena colônia. Você a achara a oeste na Boneyard.}
-{309}{Nic_94}{Antes da Grande Guerra, esta era uma cidade grande, prospera. Minha mae contou estorias, mas dificilmente ha algo restante agora. So ruinas e morte
+{307}{Nic_92}{Você provavelmente viu seus hospitais por ai. Eles pregam a paz, mas há algo errado com eles. Nós precisamos descobrir o que.}
+{308}{Nic_93}{É uma pequena colônia. Você a achara a oeste na Boneyard.}
+{309}{Nic_94}{Antes da Grande Guerra, esta era uma cidade grande, prospera. Minha mae contou estorias, mas dificilmente há algo restante agora. So ruinas e morte
 {310}{Nic_95}{Eles guerreiam com os Blades abaixo ao sul. Os Rippers são a gangue mais violenta na Boneyard. Quando nos enviamos pessoas para converte-los, a unica coisa que nos tivemos de volta eram as cabecas deles.}
-{311}{Nic_96}{Os Blades enfrentam os Rippers abaixo ao sul. Eles são a mais favoravel das duas gangues, embora isso não e dizer muito. Nos convertemos alguns deles.}
+{311}{Nic_96}{Os Blades enfrentam os Rippers abaixo ao sul. Eles são a mais favoravel das duas gangues, embora isso não é dizer muito. Nós convertemos alguns deles.}
 {312}{Nic_97}{Nossa historia esta na ultima caixa, no topo da prateleira.}
-{313}{Nic_98}{Tudo foi queimado, tudo destruido. Nos tentamos ensinar as pessoas a paz, para que isso nunca aconteca de novo.}
-{314}{Nic_99}{Essa e a cidade do comercio ao norte. Nos estamos tentando estabelecer um projeto la.}
-{315}{Nic_100}{Nos não temos certeza sobre eles. Eles vendem armas, nos vendemos paz. Mas os motivos deles
-{316}{Nic_101}{Nos não sabemos nada sobre isso.}
-{317}{Nic_102}{Nos nunca ouvimos sobre isso.}
-{318}{Nic_103}{Nos não sabemos do que você esta falando.}
+{313}{Nic_98}{Tudo foi queimado, tudo destruido. Nós tentamos ensinar as pessoas a paz, para que isso nunca aconteca de novo.}
+{314}{Nic_99}{Essa é a cidade do comercio ao norte. Nós estamos tentando estabelecer um projeto lá.}
+{315}{Nic_100}{Nós não temos certeza sobre eles. Eles vendem armas, nos vendemos paz. Mas os motivos deles
+{316}{Nic_101}{Nós não sabemos nada sobre isso.}
+{317}{Nic_102}{Nós nunca ouvimos sobre isso.}
+{318}{Nic_103}{Nós não sabemos do que você esta falando.}
 {319}{}{O que mais você sabe sobre as Crianças da Catedral?}
 {320}{}{Eu posso fazer a você mais algumas perguntas sobre eles?}
 {321}{}{Eu posso perguntar a você sobre algo mais?}
@@ -225,13 +225,13 @@
 {323}{}{Você tem qualquer suspeita sobre eles?}
 {324}{}{Você pode me ajudar a destrui-los?}
 {325}{}{Obrigado, eu posso usar toda a ajuda que eu puder obter!}
-{326}{}{Obrigado pela informacao. Eu irei agora.}
+{326}{}{Obrigado pela informação. Eu irei agora.}
 
 
 # Nicole Tell-Me-Abouts generic responses
-{980}{Nic_101}{Nos não sabemos nada sobre isso.}
-{981}{Nic_102}{Nos nunca ouvimos sobre isso.}
-{982}{Nic_103}{Nos não sabemos do que você esta falando.}
+{980}{Nic_101}{Nós não sabemos nada sobre isso.}
+{981}{Nic_102}{Nós nunca ouvimos sobre isso.}
+{982}{Nic_103}{Nós não sabemos do que você esta falando.}
 
 
 #
@@ -259,24 +259,24 @@
 {1017}{}{Aço}
 
 {1100}{Nic_86}{Morpheus e o lider das Crianças da Catedral. Ele e mal e esse fato deve ser exposto.}
-{1101}{Nic_87}{Nao ha muito a dizer.}
-{1102}{Nic_87a}{Laura e uma de nossas infiltradas dentro da Catedral. Ela e extremamente leal a nossa causa.}
+{1101}{Nic_87}{Não há muito a dizer.}
+{1102}{Nic_87a}{Laura é uma de nossas infiltradas dentro da Catedral. Ela e extremamente leal a nossa causa.}
 {1103}{Nic_87b}{Jake e o segundo em comando.}
 {1104}{Nic_88}{Aqui, você achara textos historicos e textos filosoficos...quase qualquer coisa. Sinta-se livre para olhar por ai.}
-{1105}{Nic_89}{As Crianças da Catedral adoram ele. Eles dizem que ele so quer curar a humanidade, mas isso e uma mentira.}
+{1105}{Nic_89}{As Crianças da Catedral adoram ele. Eles dizem que ele só quer curar a humanidade, mas isso é uma mentira.}
 {1106}{Nic_90}{Eu ouvi muito pouco sobre ele.}
 {1107}{Nic_91}{Eles são os servos pessoais de Morpheus. Eles são criaturas enormes, pesadas. Ugh!}
-{1108}{Nic_92}{Você provavelmente viu seus hospitais por ai. Eles pregam a paz, mas ha algo errado com eles. Nos precisamos descobrir o que.}
-{1109}{Nic_93}{E uma pequena colônia. Você a achara a oeste na Boneyard.}
-{1110}{Nic_94}{Antes da Grande Guerra, esta era uma cidade grande, prospera. Minha mae contou estorias, mas dificilmente ha algo restante agora. So ruinas e morte
+{1108}{Nic_92}{Você provavelmente viu seus hospitais por ai. Eles pregam a paz, mas há algo errado com eles. Nós precisamos descobrir o que.}
+{1109}{Nic_93}{É uma pequena colônia. Você a achara a oeste na Boneyard.}
+{1110}{Nic_94}{Antes da Grande Guerra, esta era uma cidade grande, prospera. Minha mae contou estorias, mas dificilmente há algo restante agora. So ruinas e morte
 {1111}{Nic_97}{Nossa historia esta no ultimo, prateleira do topo.}
-{1112}{Nic_98}{Tudo foi queimado, tudo destruido. Nos tentamos ensinar as pessoas a paz, para que isso nunca aconteca de novo.}
-{1113}{Nic_99}{Essa e a cidade do comercio ao norte. Nos estamos tentando estabelecer um projeto la.}
-{1114}{Nic_100}{Nos não temos certeza sobre eles. Eles vendem armas, nos vendemos paz. Mas os motivos deles
-{1115}{Nic_94}{Antes da Grande Guerra, esta era uma cidade grande, prospera. Minha mae contou estorias, mas dificilmente ha algo restante agora. So ruinas e morte
-{1116}{Nic_94}{Antes da Grande Guerra, esta era uma cidade grande, prospera. Minha mae contou estorias, mas dificilmente ha algo restante agora. So ruinas e morte
-{1117}{Nic_100}{Nos não temos certeza sobre eles. Eles vendem armas, nos vendemos paz. Mas os motivos deles
+{1112}{Nic_98}{Tudo foi queimado, tudo destruido. Nós tentamos ensinar as pessoas a paz, para que isso nunca aconteca de novo.}
+{1113}{Nic_99}{Essa é a cidade do comercio ao norte. Nós estamos tentando estabelecer um projeto lá.}
+{1114}{Nic_100}{Nós não temos certeza sobre eles. Eles vendem armas, nos vendemos paz. Mas os motivos deles
+{1115}{Nic_94}{Antes da Grande Guerra, esta era uma cidade grande, prospera. Minha mae contou estorias, mas dificilmente há algo restante agora. So ruinas e morte
+{1116}{Nic_94}{Antes da Grande Guerra, esta era uma cidade grande, prospera. Minha mae contou estorias, mas dificilmente há algo restante agora. So ruinas e morte
+{1117}{Nic_100}{Nós não temos certeza sobre eles. Eles vendem armas, nos vendemos paz. Mas os motivos deles
 
-{1118}{Nic_101}{Nos não sabemos nada sobre isso.}
-{1119}{Nic_102}{Nos nunca ouvimos sobre isso.}
-{1120}{Nic_103}{Nos não sabemos do que você esta falando.}
+{1118}{Nic_101}{Nós não sabemos nada sobre isso.}
+{1119}{Nic_102}{Nós nunca ouvimos sobre isso.}
+{1120}{Nic_103}{Nós não sabemos do que você esta falando.}

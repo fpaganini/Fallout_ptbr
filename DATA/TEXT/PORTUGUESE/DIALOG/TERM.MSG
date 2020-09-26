@@ -1,8 +1,8 @@
-{100}{}{Você ve um computador da Irmandade altamente avancado.}
-{101}{}{E negado a você o acesso a este terminal.}
+{100}{}{Você vê um computador da Irmandade altamente avancado.}
+{101}{}{É negado a você o acesso a este terminal.}
 {102}{}{A licao termina em seis horas. Você se sente exausto.}
 {103}{}{Você já absorveu tanto quanto você consegue.}
-{200}{}{Você ve um computador. Você ve alguns pedacos que poderiam ser carne humana.}
+{200}{}{Você vê um computador. Você vê alguns pedacos que poderiam ser carne humana.}
 {201}{}{Você mexe com o computador por um momento, mas não consegue passar do
  sistema de seguranca.}
 {202}{}{Este computador esta funcionando perfeitamente.}

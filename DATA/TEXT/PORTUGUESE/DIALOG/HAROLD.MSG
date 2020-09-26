@@ -9,7 +9,7 @@ Mudança de reposição, velho amigo, velho amigo? Você pode ajudar um pobre mu
 {107}{HROLD1}{
 Nossa. Você está pior do que eu, amigo. Sorte para você.}
 {108}{HROLD2}{
-Oh, tipo de você, amigo. Muito gentil. Você sabe, se eu pudesse tirar a gosma de lá, você poderia encontrar uma lágrima no olho do velho Harold.}
+Ah, tipo de você, amigo. Muito gentil. Você sabe, se eu pudesse tirar a gosma de lá, você poderia encontrar uma lágrima no olho do velho Harold.}
 {109}{} {Por que isso?}
 {110}{} {Seja bem-vindo.}
 {111} {HROLD3}{
@@ -22,7 +22,7 @@ Bem, depois da Grande Guerra, o meu Cofre foi um dos primeiros a abrir. [Respira
 {116}{}{Conte-me mais sobre esses dias.}
 {117}{}{Não, não. Eu quis dizer o que aconteceu para mudar você?
 {118}{HROLD5}{
-Tudo começou com as sirenes. Eu era jovem, mas eu lembro disso. Lotta anos terríveis se seguiram. E lembro-me de ter saído do Vault uma manhã.}
+Tudo começou com as sirenes. Eu era jovem, mas eu lembro disso. Lotta anos terríveis se seguiram. É lembro-me de ter saído do Vault uma manhã.}
 {119}{}{O que você fez então?}
 {120}{}{Onde seu cofre foi localizado?}
 {121}{}{Você percebe quantos anos você tem?}
@@ -33,7 +33,7 @@ Você sabe, [tosse] eu não tenho mais certeza. Oeste, eu acho. Aguarde - leste?
 Bem, eu era um comerciante. Foi muito bom fazer um circuito entre os sobreviventes. Perdeu muitas pessoas boas, no entanto. [Tosses]}
 {125} {} {Como?}
 {126} {HROLD8}{
-Gangers tem eles. Scavengers atacando as caravanas. E mutantes, filho de um cachorro, se não estivessem surgindo como coelhos com uma missão. [tosse] Tinha que ter um exército de guardas, só para fazer um acordo.}
+Gangers tem eles. Scavengers atacando as caravanas. É mutantes, filho de um cachorro, se não estivessem surgindo como coelhos com uma missão. [tosse] Tinha que ter um exército de guardas, só para fazer um acordo.}
 {127}{}{Os guardas não ajudaram?}
 {128}{}{De onde vieram os mutantes?}
 {129}{HROLD9}{
@@ -58,13 +58,13 @@ Precisava ver o que estava lá. Talvez pare o que quer que seja que esteja choca
 {143}{HROLD13}{
 Não me lembro da rota nem nada. Mas tenho certeza de que era noroeste, embora ... eu acho.}
 {144}{}{Existe uma versão mais curta desta história?}
-{145}{}{E quanto ao seu líder?}
+{145}{}{É quanto ao seu líder?}
 {146}{HROLD14}{
 Richard Gray era um médico. Pouco mais velho que eu, e amigo ele era esperto. Ele encontrou a fonte.}
-{147}{}{E o que foi isso?}
+{147}{}{É o que foi isso?}
 {148}{HROLD15}{
 Eu gosto de dizer do meu jeito. Versão curta vai custar 25 extra, amigo. Qual será?}
-{149}{}{Ok, isso é longo.}
+{149}{}{Certo, isso é longo.}
 {150}{}{Short}}
 {151}{}{Curto, mas não tenho dinheiro.}
 {152}{}{Como sobre nenhum, seu velho peido?}
@@ -88,21 +88,21 @@ Porque era como se alguém fosse às compras em mutantland! Nossa! Mais barato p
 {166}{}{Você examinou a base de perto?}
 {167}{HROLD21}{
 Nós fomos muito longe para dentro. Não sobraram muitos de nós até então. Gray, eu e alguns outros.}
-{168}{}{E depois?}
+{168}{}{É depois?}
 {169}{HROLD22}{
 Um deles robôs tem Francine. Mark foi ferido, enviou-o de volta à superfície. Então foi só eu e Gray.}
 {170}{}{O que aconteceu com Mark?}
 {171}{}{O que aconteceu então?}
 {172}{HROLD23}{
 Até hoje eu não sei. Ele nunca voltou aqui, e ... bem, eu ... não pude encarar o terreno baldio novamente, então eu ... eu nunca olhei.}
-{173}{}{E você e Gray?}
+{173}{}{É você e Gray?}
 {174}{HROLD24}{
 Nós chegamos a algum tipo de núcleo central, como uma planta de algum tipo. Foi quando isso aconteceu.}
 {175}{}{O quê?}
 {176}{HROLD25}{
 Um guindaste de robô caiu em nós. Na última vez que vi Gray, ele estava voando pelo ar em algum tipo de banho ácido. Eu estava em má forma e ... bem eu desmaiei.}
 {177}{}{Como você sobreviveu?}
-{178}{}{E você nunca mais viu Gray?}
+{178}{}{É você nunca mais viu Gray?}
 {179}{hrold25a} {Não fez. Foi morto ... [Risos tossem] Deus, eu amo essa piada.}
 {180}{}{Sim, eu posso dizer.}
 {181}{HROLD26}{
@@ -146,7 +146,7 @@ Você está no Hub, certo? Pessoas que vivem no Hub? Hubbers. Pegue? [tosse] She
 {208}{HROLD37}{
 Você é tão ruim quanto o resto deles. [Tosse ofegante]}
 {209}{HROLD38}{
-Oh bem, obrigado de qualquer maneira. [tosse]}
+Ah bem, obrigado de qualquer maneira. [tosse]}
 {210}{HROLD39}{
 Ei, você pode me ajudar, amigo?}
 {211}{}{Sim, aqui está $ 25.}
@@ -158,7 +158,7 @@ Ei, preciate! Tenho que admitir, quando eu te vi pela primeira vez, [tosse] eu a
 {216}{}{Por que você diz isso?}
 {217}{}{Nah, não eu! Tenha um bom dia.}
 {218}{HROLD41}{
-Oh, ei, é você de novo.}
+Ah, ei, é você de novo.}
 {219}{}{Aqui está $ 20, se precisar.}
 {220}{}{Oi.}
 {221}{}{Uhh?}
@@ -175,7 +175,7 @@ Oooh, bem obrigado. Espero que não tenha sido uma grande tensão. [coughs]}
 {230}{HROLD45}{Oooh, essa coisa. Amigo, essa é a cidade do pesadelo. Por que diabos você está perguntando sobre isso?
 {231}{}{Vou matá-lo.}
 {232}{}{Se me encontrar, quero saber o que fazer.}
-{233}{HROLD47}{Ok. Bem, é como um grande homem, é o que é. Tem pontas e garras que podem cortar a armadura mais pesada. Mas não deixe que o tamanho te engane, é rápido.}
+{233}{HROLD47}{Certo. Bem, é como um grande homem, é o que é. Tem pontas e garras que podem cortar a armadura mais pesada. Mas não deixe que o tamanho te engane, é rápido.}
 {234}{}{Alguma fraqueza?}
 {235}{HROLD49}{Bem, pelo que ouvi, talvez bater na cabeça? Eu tentaria os olhos. Claro, há um problema aí.}
 {236}{}{Que tipo de problema?}
@@ -201,7 +201,7 @@ Oooh, bem obrigado. Espero que não tenha sido uma grande tensão. [coughs]}
 {256}{hrold300}{cara brilhante. Um médico e filósofo. Há muito tempo ele liderou a expedição onde eu me transformei em mutante.}
 {257}{hrold301}{Quem? Ele é algum tipo de terapeuta sexual? Eu poderia usar um, você sabe.}
 {258}{hrold302}{Mutantes. Não importa o que eles se chamam.}
-{259}{hrold303}{Oh, ele. Ele lidera o Círculo dos Ladrões. Pensa que ele é Robin Hood. [tosse] Ele está bem, eu acho.}
+{259}{hrold303}{Ah, ele. Ele lidera o Círculo dos Ladrões. Pensa que ele é Robin Hood. [tosse] Ele está bem, eu acho.}
 {260}{hrold304}{Eu vi as religiões virem e religiões irem, e eu espero que isso aconteça. Em breve.}
 {261}{hrold305}{Sim, eu vim de um Vault. Muitas pessoas não têm comida e água suficientes. Mas você não sabe nada sobre isso, quer?
 {262}{hrold306}{Horrível. O mundo ficou louco. Há muito tempo, mas nunca esquecerei isso. Nunca.}
@@ -219,9 +219,9 @@ Oooh, bem obrigado. Espero que não tenha sido uma grande tensão. [coughs]}
   na sua sorte? [Tosse]}
 {267}{HROLD0}{Mudança de reserva, velha amiga, velha amiga? Você pode ajudar um pobre mutante
   na sua sorte? [Tosse]}
-{268}{HROLD2}{Oh, tipo de você, amigo. Muito gentil. Você sabe, se eu pudesse
+{268}{HROLD2}{Ah, tipo de você, amigo. Muito gentil. Você sabe, se eu pudesse
   limpar o lamaçal de lá, você, só pode encontrar uma lágrima no olho do velho Harold.}
-{269}{HROLD2}{Oh, tipo de você, amiga. Muito gentil. Você sabe, se eu pudesse
+{269}{HROLD2}{Ah, tipo de você, amiga. Muito gentil. Você sabe, se eu pudesse
   limpar o lamaçal de lá, você, só pode encontrar uma lágrima no olho do velho Harold.}
 {270}{HROLD35}{Não, não. É muito doloroso, mesmo agora. Obrigado pela ajuda, amigo.
   Boa sorte para você.}
@@ -248,7 +248,7 @@ Oooh, bem obrigado. Espero que não tenha sido uma grande tensão. [coughs]}
 {1100}{hrold300}{Cara brilhante. Um médico e filósofo. Há muito tempo ele liderou a expedição onde eu me transformei em mutante.}
 {1101}{hrold301}{Quem? Ele é algum tipo de terapeuta sexual? Eu poderia usar um, você sabe.}
 {1102}{hrold302}{Mutantes. Não importa o que eles se chamam.}
-{1103}{hrold303}{Oh, ele. Ele lidera o Círculo dos Ladrões. Pensa que ele é Robin Hood. [tosse] Ele está bem, eu acho.}
+{1103}{hrold303}{Ah, ele. Ele lidera o Círculo dos Ladrões. Pensa que ele é Robin Hood. [tosse] Ele está bem, eu acho.}
 {1104}{hrold304}{Eu vi as religiões virem e as religiões irem, e eu espero que isso aconteça. Em breve.}
 {1105}{hrold305}{Sim, eu vim de um Vault. Muitas pessoas não têm comida e água suficientes. Mas você não sabe nada sobre isso, quer?
 {1106}{hrold306}{Horrível. O mundo ficou louco. Há muito tempo, mas nunca esquecerei isso. Nunca.}

@@ -1,9 +1,9 @@
-{100}{}{Você ve o Garret.}
+{100}{}{Você vê o Garret.}
 {101}{}{Você não deveria estar aqui durante o dia. Deixa o Set infeliz. Volte
  de noite.}
-{102}{}{Oh, OK.}
+{102}{}{Ah, OK.}
 {103}{}{Ele devera aprender a lidar com os problemas dele.}
-{104}{}{Isso não e importante. O que importante e que eu falo com ele.}
+{104}{}{Isso não é importante. O que importante e que eu falo com ele.}
 {105}{}{Você deveria falar com o Set.}
 {106}{}{Você recebe: uma espingarda, 10 cartuchos de espingarda, 4 sinalizadores,
  4 garrafas de coca-cola e $200.}

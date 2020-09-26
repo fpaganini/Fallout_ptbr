@@ -56,9 +56,9 @@
 # Charisma
 {203}{}{Uma combinação de aparência e charme. Um carisma alto e importante para os personagens que querem influenciar pessoas com palavras. Modifica: reações dos personagens não jogaveis e preços da compra.}
 # Intelligence
-{204}{}{Conhecimento, sabedoria e a habilidade de pensar rapidamente. Uma alta inteligência é importante para qualquer personagem. Modifica: o número dos novos pontos de técnica por nível, opções dos dialogos e muitas técnicas.}
+{204}{}{Conhecimento, sabedoria é a habilidade de pensar rapidamente. Uma alta inteligência é importante para qualquer personagem. Modifica: o número dos novos pontos de técnica por nível, opções dos dialogos e muitas técnicas.}
 # Agility
-{205}{}{Coordenacao e a habilidade de se mover bem. Uma alta agilidade é importante para qualquer personagem ativo. Modifica: Pontos de Ação, Classe de Armadura, Sequência e muitas técnicas.}
+{205}{}{Coordenacao é a habilidade de se mover bem. Uma alta agilidade é importante para qualquer personagem ativo. Modifica: Pontos de Ação, Classe de Armadura, Sequência e muitas técnicas.}
 # Luck
 {206}{}{Destino. Karma. Uma sorte extremamente alta ou baixa afetara o personagem - de algum modo. Eventos e situaçõe serão mudados por quão sortudo (ou azarado) seu personagem é.}
 #
@@ -122,7 +122,7 @@
 #
 #	 PC STAT NAMES
 #
-{400}{}{Pontos de Tecnica Nao Gastos}
+{400}{}{Pontos de Tecnica Não Gastos}
 {401}{}{Nivel}
 {402}{}{Experiencia}
 {403}{}{Reputacao}

@@ -16,7 +16,7 @@
 {105}{}{FECHAR}
 {106}{}{Erro ao carregar a lista de jogos salvos!} # Line 1
 {107}{}{Diretorio dos jogos salvos:}    # Line 2
-{108}{}{Nao existe ou esta corrompido.} # Line 3
+{108}{}{Não existe ou esta corrompido.} # Line 3
 {109}{}{SALVAR O JOGO}
 {110}{}{CARREGAR O JOGO}
 {111}{}{- VAZIO -}

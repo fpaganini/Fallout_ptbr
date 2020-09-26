@@ -8,25 +8,25 @@
 {107}{}{O que?}
 {108}{}{Ei, eu posso fazer a você algumas perguntas?}
 {109}{}{Can you spare a few caps?}
-{110}{}{Deixe pra la, lamento.}
+{110}{}{Deixe pra lá, lamento.}
 {111}{}{Uuuh?}
 {112}{}{Eu estou no dever. Faça rapidamente.}
-{113}{}{Nao. Vai embora.}
+{113}{}{Não. Vai embora.}
 {114}{}{Você pode me dizer algo a respeito do seu chefe?}
-{115}{}{O que mais ha por aqui nesta cidade?}
-{116}{}{O que você e, estupido? Vai embora.}
-{117}{}{Nao. Va implorar em algum outro lugar.}
+{115}{}{O que mais há por aqui nesta cidade?}
+{116}{}{O que você e, estúpido? Vai embora.}
+{117}{}{Não. Vá implorar em algum outro lugar.}
 {118}{}{Cai fora...}
-{119}{}{Nos não temos um uso para paupers aqui.}
-{120}{}{Gizmo e um homem justo. O pagamento e bom, o trabalho e fácil. Nao cause
+{119}{}{Nós não temos um uso para paupers aqui.}
+{120}{}{Gizmo e um homem justo. O pagamento e bom, o trabalho éfácil. Não cause
  problemas e todos ficarao felizes.}
-{121}{}{Va beber alguns drinks no Skum Pit. Bom grog. Abre as quatro.
+{121}{}{Vá beber alguns drinks no Skum Pit. Bom grog. Abre as quatro.
  Agora me deixe em paz.}
-{122}{}{Por que você não vai fazer compras no Killian's? A loja dele e a sudoeste
+{122}{}{Por que você não vai fazer compras no Killian's? A loja dele é a sudoeste
  daqui. Agora desapareca.}
 {123}{}{Fale com os negociantes.}
-{124}{}{Ei, se você quer ter um pouco de diversao, pare na Crash House e pergunte
- por Sinthia. Ela vale o preco.}
+{124}{}{Ei, se você quer ter um pouco de diversão, pare na Crash House e pergunte
+ por Sinthia. Ela vale o preço.}
 {125}{}{Sem trapaca.}
 {126}{}{Devedores leverao um tiro.}
 {127}{}{Rapaz, meu pescoco doi.}

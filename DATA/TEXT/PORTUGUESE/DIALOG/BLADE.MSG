@@ -1,4 +1,4 @@
-{100}{}{Você ve um membro dos Blades.}
+{100}{}{Você vê um membro dos Blades.}
 {101}{}{Oi.}
 {102}{}{Ola.}
 {103}{}{Tenha um dia bacana.}
@@ -6,11 +6,11 @@
 {105}{}{Eu imagino se chovera.}
 {106}{}{Você já viu a chuva brilhar?}
 {107}{}{Tenho que voltar ao trabalho.}
-{108}{}{Nos não temos muitos forasteiros aqui.}
+{108}{}{Nós não temos muitos forasteiros aqui.}
 {109}{}{Tenho que ir.}
 {110}{}{Vejo você.}
 {111}{}{Bom dia.}
 {112}{}{Obrigado pela sua ajuda.}
-{113}{}{Nos não esqueceremos você.}
+{113}{}{Nós não esqueceremos você.}
 {114}{}{Bacana ter você do nosso lado.}
 {115}{}{As coisas vao ficar melhores agora.}

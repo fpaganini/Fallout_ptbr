@@ -1,4 +1,4 @@
-{100}{}{Você ve uma porta airlock.}
+{100}{}{Você vê uma porta airlock.}
 {101}{}{A porta esta trancada eletronicamente.}
 {102}{}{A porta não esta trancada.}
 {103}{}{Você consegue abrir a tranca eletronica.}

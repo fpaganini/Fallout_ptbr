@@ -1,92 +1,92 @@
-{100}{}{Voce ve o Jain}
-{101}{JAIN00}{Por que voce perturba um elder da Catedral?}
+{100}{}{Você vê o Jain}
+{101}{JAIN00}{Por que você perturba um elder da Catedral?}
 {102}{}{Eu vim procurando uma bençao.}
-{103}{}{Eu estou interessado na sua igreja, e eu quero um pouco de informaçao. Voce tem quaisquer panfletos?}
+{103}{}{Eu estou interessado na sua igreja, e eu quero um pouco de informaçao. Você tem quaisquer panfletos?}
 {104}{}{Apenas olhando por ai.}
 {105}{}{Mae?}
 {106}{JAIN01}{Eu dificilmente sou sua mae.}
 {107}{}{Nuh-uh?}
 {108}{}{Cocozinho!}
-{109}{JAIN02}{Como ousa voce falar comigo dessa maneira? Voce sera punido por sua insolencia! Guardas!}
+{109}{JAIN02}{Como ousa você falar comigo dessa maneira? Você sera punido por sua insolencia! Guardas!}
 {110}{JAIN03}{Talvez um de nossos sacerdotes discutira sua necessaria educaçao. Saia agora.}
-{111}{JAIN04}{Voce estudou os sacramentos, criança?}
+{111}{JAIN04}{Você estudou os sacramentos, criança?}
 {112}{}{Sim.}
-{113}{}{Nao.}
-{114}{JAIN05}{Entao voce teria sabido que os sumos elders da Catedral nao 'dao' bençaos. Voce saira agora.}
-{115}{JAIN07}{Continue a zombar de mim e eu farei voce ser expulso.}
-{116}{}{Mas eu nao estou zombando de voce, verdade.}
-{117}{}{Zombar de voce? Agora por que faria algo assim?!}
-{118}{}{E obviou que bondade e bom temperamento nao sao parte desta religiao.}
+{113}{}{Não.}
+{114}{JAIN05}{Então você teria sabido que os sumos elders da Catedral não 'dão' bençaos. Você saira agora.}
+{115}{JAIN07}{Continue a zombar de mim e eu farei você ser expulso.}
+{116}{}{Mas eu não estou zombando de você, verdade.}
+{117}{}{Zombar de você? Agora por que faria algo assim?!}
+{118}{}{É obviou que bondade e bom temperamento não são parte desta religiao.}
 {119}{}{Lamento, eu acho que eu sairei agora.}
-{120}{JAIN08}{Voce pagara por essas palavras hereticas.}
-{121}{JAIN09}{Suas palavras nao combinam com sua convicçao. Elas queimam da sua heresia interior. Voce sera limpo, entao esquecido.}
-{122}{JAIN10}{Entao por que voce esta aqui? O que traria voce ate as Crianças da Catedral?}
+{120}{JAIN08}{Você pagara por essas palavras hereticas.}
+{121}{JAIN09}{Suas palavras não combinam com sua convicçao. Elas queimam da sua heresia interior. Você sera limpo, então esquecido.}
+{122}{JAIN10}{Então por que você esta aqui? O que traria você até as Crianças da Catedral?}
 {123}{}{Eu sou um buscador de conhecimento. Eu gostaria de aprender mais.}
-{124}{}{Eu preciso saber como queimar este lugar, entao eu estava procurando por fraquezas estruturais.}
+{124}{}{Eu preciso saber como queimar este lugar, então eu estava procurando por fraquezas estruturais.}
 {125}{}{Eu estou apenas olhando.}
-{126}{JAIN11}{Voce e uma Criança?}
-{127}{}{Senhora, eu pareço tao jovem assim pra voce?}
-{128}{}{Se eu sou uma das Crianças da Catedral? Nao.}
+{126}{JAIN11}{Você é uma Criança?}
+{127}{}{Senhora, eu pareço tão jovem assim pra você?}
+{128}{}{Se eu sou uma das Crianças da Catedral? Não.}
 {129}{}{Eu sou um crente devoto.}
-{130}{JAIN12}{Entao voce deveria saber mais do que estar aqui. Eu would caution voce sobre seus modos. Saia.}
+{130}{JAIN12}{Então você deveria saber mais do que estar aqui. Eu would caution você sobre seus modos. Saia.}
 {131}{}{OK.}
 {132}{}{Me morda.}
-{133}{JAIN13}{Voce esta interessado em se converter a nossa fe? Nos podemos oferecer o que ninguem mais pode...}
-{134}{}{E o que e isso?}
-{135}{}{Nao, nao interessado. Eu acho que voces sao um bando de kooks.}
-{136}{JAIN14}{Uma existencia de contentamento. Preechimento no conhecimento que voce esta trabalhando pra reconstruir o planeta e fazer um lugar melhor pra aqueles que o seguem.}
-{137}{}{Soa muito interessante, voce poderia me dizer mais? Eu procuro preenchimento.}
-{138}{}{Oh sim, eu aposto que ha muita reconstruçao acontecendo e eu tenho certeza que seus copos estao sobrecarregados com preenchimento.}
-{139}{}{Eu acho que nao. Soa um pouco fishy pra mim.}
-{140}{JAIN15}{Acredite no que voce quiser. Apenas faça-o em outro lugar. Voce pode sair.}
-{141}{JAIN17}{Fazer piada da nossa santa causa nao e apreciado. Voce sera punido se voce continuar.}
-{142}{}{E quem vai fazer a puniçao?? Uh, eu gostaria de pedir o chicote extra duro se voce nao se importar.}
+{133}{JAIN13}{Você esta interessado em se converter a nossa fe? Nós podemos oferecer o que ninguém mais pode...}
+{134}{}{É o que é isso?}
+{135}{}{Não, não interessado. Eu acho que vocês são um bando de kooks.}
+{136}{JAIN14}{Uma existência de contentamento. Preechimento no conhecimento que você esta trabalhando pra reconstruir o planeta e fazer um lugar melhor pra aqueles que o seguem.}
+{137}{}{Soa muito interessante, você poderia me dizer mais? Eu procuro preenchimento.}
+{138}{}{Ah sim, eu aposto que há muita reconstruçao acontecendo e eu tenho certeza que seus copos estão sobrecarregados com preenchimento.}
+{139}{}{Eu acho que não. Soa um pouco fishy pra mim.}
+{140}{JAIN15}{Acredite no que você quiser. Apenas faça-o em outro lugar. Você pode sair.}
+{141}{JAIN17}{Fazer piada da nossa santa causa não é apreciado. Você sera punido se você continuar.}
+{142}{}{É quem vai fazer a puniçao?? Uh, eu gostaria de pedir o chicote extra duro se você não se importar.}
 {143}{}{Lamento.}
 {144}{JAIN18}{Quando as Crianças caminharem na terra renascida, seu tipo desaparecera, herege. Saia agora.}
-{145}{JAIN19}{Eu nao sou completamente vazio de humor, mas liderar as Crianças e algo que eu levo a serio. Por favor lembre-se disso.}
-{146}{}{Lamento, Eu nao estou familiar com as Crianças.}
+{145}{JAIN19}{Eu não sou completamente vazio de humor, mas liderar as Crianças e algo que eu levo a serio. Por favor lembre-se disso.}
+{146}{}{Lamento, Eu não estou familiar com as Crianças.}
 {147}{}{OK. Tchau.}
-{148}{JAIN20}{Voce esta no lugar certo para o preenchimento espiritual. As Crianças da Catedral procuram uma resoluçao pacifica dos problemas do nosso mundo e poderiam usar sua ajuda.}
-{149}{}{Quais sao os planos das Crianças pros mutantes?}
+{148}{JAIN20}{Você esta no lugar certo para o preenchimento espiritual. As Crianças da Catedral procuram uma resoluçao pacifica dos problemas do nosso mundo e poderiam usar sua ajuda.}
+{149}{}{Quais são os planos das Crianças pros mutantes?}
 {150}{}{Como podem as Crianças achar paz nesta terra devastada?}
 {151}{JAIN21}{Aqueles que podem ser trazidos no fold, serao. Aqueles que resistem sofrerao.}
-{152}{}{Soa como um trabalho dificil.}
-{153}{}{Agora e hora de voce ter um pouco de sofrimento.}
-{154}{}{Como deve ser. Que voce possa ser bem sucedido em sua cruzada!}
+{152}{}{Soa como um trabalho difícil.}
+{153}{}{Agora e hora de você ter um pouco de sofrimento.}
+{154}{}{Como deve ser. Que você possa ser bem sucedido em sua cruzada!}
 {155}{}{Uh, eu tenho que ir.}
-{156}{JAIN22}{Com perseverança, as Crianças podem realizar qualquer coisa. Nos nao falharemos.}
-{157}{}{Bom. Eu espero que nao.}
+{156}{JAIN22}{Com perseverança, as Crianças podem realizar qualquer coisa. Nós não falharemos.}
+{157}{}{Bom. Eu espero que não.}
 {158}{}{Sim, certo. Que seja.}
-{159}{}{Ok. Tchau.}
-{160}{JAIN26}{Blasfemo! Esta e uma Casa Sagrada! Como voce poderia pensar tal coisa?}
-{161}{}{Relaxe, eu nao quis dizer isto!}
-{162}{}{Facil. Deixe-me mostrar a voce.}
-{163}{JAIN27}{Bençaos da Chama Sagrada pra voce, minha Criança.}
-{164}{}{Quem e a Chama Sagrada?}
+{159}{}{Certo. Tchau.}
+{160}{JAIN26}{Blasfemo! Esta é uma Casa Sagrada! Como você poderia pensar tal coisa?}
+{161}{}{Relaxe, eu não quis dizer isto!}
+{162}{}{Facil. Deixe-me mostrar a você.}
+{163}{JAIN27}{Bençaos da Chama Sagrada pra você, minha Criança.}
+{164}{}{Quem é a Chama Sagrada?}
 {165}{}{Este lugar e um sham.}
-{166}{}{E pra voce, Sacerdotisa Jain. Adeus.}
+{166}{}{É pra você, Sacerdotisa Jain. Tchau.}
 {167}{}{Ug luk to ruk?}
 {168}{}{Ooook!}
-{169}{JAIN28}{Uma vez voce tinha potencial. Voce nao e mais bem-vindo aqui.}
-{170}{JAIN29}{Voce nao e bem-vindo aqui. Por favor saia.}
-{171}{JAIN30}{O que traz voce aqui?}
+{169}{JAIN28}{Uma vez você tinha potencial. Você não é mais bem-vindo aqui.}
+{170}{JAIN29}{Você não é bem-vindo aqui. Por favor saia.}
+{171}{JAIN30}{O que traz você aqui?}
 {172}{}{Eu assassinei o Mestre, e eu acredito que ele estava se mascarando como a Chama Sagrada.}
-{173}{}{Voces foram libertos da opressao do Mestre.}
+{173}{}{Vocês foram libertos da opressao do Mestre.}
 {174}{}{Mu tuk doh tub?}
 {175}{}{Pezinhos.}
-{176}{JAIN31}{Voce fez o que? Voce pagara pelo seu pecado contra a Chama Sagrada.}
+{176}{JAIN31}{Você fez o que? Você pagara pelo seu pecado contra a Chama Sagrada.}
 {177}{JAIN32}{O quem?}
 {178}{}{O Mestre. Ele ia unir os mutantes e dominar o mundo.}
-{179}{}{Nao se preocupe a respeito disso.}
-{180}{JAIN33}{Voce aparenta ser iludido. Eu sugiro ver um conselheiro pra trabalhar nos seus problemas.}
-{181}{JAIN204}{Eu disse a voce pra sair. Voce e surdo ou feeble?}
-{182}{JAIN200}{Saia desta sala imediatamente ou eu farei voce ser purificado pela Chama Sagrada.}
-{183}{JAIN202}{Nao ha ninguem maior do que a Chama Sagrada e nos somos os servos dele.}
-{184}{}{Mesmo? Uau. Entao, qual e o motivo pra alguem se juntar a sua ordem?}
+{179}{}{Não se preocupe a respeito disso.}
+{180}{JAIN33}{Você aparenta ser iludido. Eu sugiro ver um conselheiro pra trabalhar nos seus problemas.}
+{181}{JAIN204}{Eu disse a você pra sair. Você e surdo ou feeble?}
+{182}{JAIN200}{Saia desta sala imediatamente ou eu farei você ser purificado pela Chama Sagrada.}
+{183}{JAIN202}{Não há ninguém maior do que a Chama Sagrada e nós somos os servos dele.}
+{184}{}{Mesmo? Uau. Então, qual é o motivo pra alguém se juntar a sua ordem?}
 {185}{}{Uh, ok. Tchau.}
-{186}{JAIN27}{Bençaos da Chama Sagrada pra voce, minha Criança.}
-{187}{JAIN22}{Com perseverança, as Crianças podem realizar qualquer coisa. Nos nao falharemos.}
-{188}{JAIN201}{Essa nao e uma pergunta apropriada.}
+{186}{JAIN27}{Bençaos da Chama Sagrada pra você, minha Criança.}
+{187}{JAIN22}{Com perseverança, as Crianças podem realizar qualquer coisa. Nós não falharemos.}
+{188}{JAIN201}{Essa não é uma pergunta apropriada.}
 
 #Tell Me Abouts
 
@@ -101,19 +101,19 @@
 {1008}{}{Unidade}
 {1009}{}{Irmandade}
 {1010}{}{Chama}
-{1011}{}{Criancas}
+{1011}{}{Crianças}
 
 
 {1100}{JAIN300}{Foi a purificaçao do planeta. A inatençao daqueles que vieram antes causou as chamas sagradas. Foi justiça.}
-{1101}{JAIN301}{Nao ha Mestre mas a Chama Sagrada. Ele e nosso mestre, ele e o mestre de todos.}
-{1102}{JAIN302}{A vontade do santo traz um renascimento para o planeta. Nos somos as Crianças dele e executamos o plano dele.}
-{1103}{JAIN303}{Eles sao santos pois eles carregam as marcas de pecados passados para as testemunhas do presente.}
+{1101}{JAIN301}{Não há Mestre mas a Chama Sagrada. Ele e nosso mestre, ele e o mestre de todos.}
+{1102}{JAIN302}{A vontade do santo traz um renascimento para o planeta. Nós somos as Crianças dele e executamos o plano dele.}
+{1103}{JAIN303}{Eles são santos pois eles carregam as marcas de pecados passados para as testemunhas do presente.}
 {1104}{JAIN304}{Como muitas outras cidades, eles abraçarao a liderança moral da Catedral.}
 {1105}{JAIN305}{Eles clamam uma fundaçao religiosa, mas tem falta daquilo que os tornaria verdadeiramente corretos. Contudo, o zelo deles e estimulante.}
 {1106}{JAIN306}{Eu nunca ouvi sobre tais coisas.}
-{1107}{JAIN308}{O mais santo dos santos. Ele e a luz guia que nos seguimos. Ele purificara aqueles infieis quando o Nexo do Renascimento foi alcançado.}
-{1108}{JAIN309}{E o unir, pela Chama Sagrada, de todas as pessoas, de todas as raças e a purificaçao dos heathens deste mundo.}
+{1107}{JAIN308}{O mais santo dos santos. Ele é a luz guia que nos seguimos. Ele purificara aqueles infieis quando o Nexo do Renascimento foi alcançado.}
+{1108}{JAIN309}{É o unir, pela Chama Sagrada, de todas as pessoas, de todas as raças é a purificaçao dos heathens deste mundo.}
 {1109}{JAIN305}{Eles clamam uma fundaçao religiosa, mas tem falta daquilo que os tornaria verdadeiramente corretos. Contudo, o zelo deles e estimulante.}
-{1110}{JAIN308}{O mais santo dos santos. Ele e a luz guia que nos seguimos. Ele purificara aqueles infieis quando o Nexo do Renascimento foi alcançado.}
-{1111}{JAIN302}{A vontade do santo traz um renascimento para o planeta. Nos somos as Crianças dele e executamos o plano dele.}
+{1110}{JAIN308}{O mais santo dos santos. Ele é a luz guia que nos seguimos. Ele purificara aqueles infieis quando o Nexo do Renascimento foi alcançado.}
+{1111}{JAIN302}{A vontade do santo traz um renascimento para o planeta. Nós somos as Crianças dele e executamos o plano dele.}
 

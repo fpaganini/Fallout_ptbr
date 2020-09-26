@@ -1,5 +1,5 @@
-{100}{}{Você ve um mercador wandering de descendencia asiatica.}
-{101}{}{Você ve o Duc, o mercador wandering.}
+{100}{}{Você vê um mercador wandering de descendencia asiatica.}
+{101}{}{Você vê o Duc, o mercador wandering.}
 {102}{}{Bem, ola wanderer. Meu nome e Duc, e eu estou indo pra Shady Sands pra fazer um 
  pouco de comercio. Talvez eu possa interessar a você com algumas mercadorias?}
 {103}{}{O que você tem pra vender?}
@@ -7,14 +7,14 @@
 {105}{}{Erf!}
 {106}{}{Deixe-me mostrar a você.}
 {107}{}{Sim, Shady Sands e parte da minha rota normal de comercio. Você pode vijar
- pra la conosco com seguranca se você quiser.}
+ pra lá conosco com seguranca se você quiser.}
 {108}{}{Com certeza, soa bom.}
-{109}{}{Nao, obrigado.}
-{110}{}{Oh, lamento -- não percebi que você era estupido assim.}
-{111}{}{So deve levar um dia ou dois. Vamos la!}
+{109}{}{Não, obrigado.}
+{110}{}{Ah, lamento -- não percebi que você era estúpido assim.}
+{111}{}{So deve levar um dia ou dois. Vamos lá!}
 {112}{}{ShadyW.map}
-{113}{}{Nao ha muitas pessoas que se aventuram pelas terras devastadas sozinhas. Quem e você?}
-{114}{}{Nao e da sua conta.}
+{113}{}{Não há muitas pessoas que se aventuram pelas terras devastadas sozinhas. Quem é você?}
+{114}{}{Não e da sua conta.}
 {115}{}{Eu sou }
 {116}{}{.}
 {117}{}{Erf!}

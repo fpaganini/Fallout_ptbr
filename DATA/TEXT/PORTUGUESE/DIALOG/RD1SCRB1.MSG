@@ -1,11 +1,11 @@
-{100}{}{Você ve um Cavaleiro.}
-{101}{}{Você ve um Escriba.}
+{100}{}{Você vê um Cavaleiro.}
+{101}{}{Você vê um Escriba.}
 {102}{}{O que você esta fazendo aqui?}
-{103}{}{Quem e você?}
+{103}{}{Quem é você?}
 {104}{}{Eu não vi você antes?}
-{105}{}{Esta e minha sala, por favor saia.}
+{105}{}{Esta é minha sala, por favor saia.}
 {106}{}{Por favor saia da minha sala.}
-{107}{}{Esta não e sua sala.}
+{107}{}{Esta não é sua sala.}
 {108}{}{Initiate rooming e no segundo nível.}
 {109}{}{Você esta perdido?}
 {110}{}{Eu acredito que os seus quarters esta no nível dois.}
@@ -17,7 +17,7 @@
 {202}{}{Bom dia.}
 {203}{}{Sim?}
 {204}{}{O que?}
-{205}{}{O que e que ha?}
+{205}{}{O que é que há?}
 {206}{}{O que você quer?}
 {207}{}{Você quer alguma coisa?}
 {209}{}{Vai embora.}

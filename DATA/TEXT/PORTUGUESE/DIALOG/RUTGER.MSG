@@ -19,25 +19,25 @@
 {116}{}{Bem, e o trabalho postado?}
 {117}{}{Bem, você tem algum trabalho?}
 {118}{}{Bem, obrigado por nada.}
-{119}{}{Oh, desculpe, você não é daqui. Os mercadores da água lidam com toda a maldita água desta cidade.
+{119}{}{Ah, desculpe, você não é daqui. Os mercadores da água lidam com toda a maldita água desta cidade.
  Eu nem me incomodaria em tentar lidar com eles. Eles são um bando de abutres.}
 {120}{}{Onde eu os encontraria?}
-{121}{}{Ok, obrigado.}
+{121}{}{Certo, obrigado.}
 {122}{}{Você não pode sentir falta deles. Eles estão ao sul daqui, todos entrincheirados com aquela maldita torre de água.}
 {123}{}{Então, o que você faz por aqui?}
-{124}{}{Ok, obrigado.}
+{124}{}{Certo, obrigado.}
 {125}{}{Eu estou no comando do ... quer dizer, eu ajudo a administrar os Far Go Traders. Se alguém mexer com a gente, eu sou o único
  eles responderão a. Nós trocamos mercadorias entre todos os diferentes assentamentos.}
 {126}{}{Eu já te disse. Butch e eu administramos os Far Go Traders. Agora o que você queria?}
 {127}{}{O que tipo de coisas que você troca?}
 {128}{}{Interessante. Tchau.}
-{129}{}{Ótimo. E aquele trabalho que foi postado?}
+{129}{}{Ótimo. É aquele trabalho que foi postado?}
 {130}{}{Parece bom. Você precisa de ajuda?}
 {131}{}{Por que, nós trocamos praticamente tudo que você pode imaginar: drogas, pneus, armas, balas, comida, brâmane, sujeira, até pedaços de metal.}
 {132}{}{Dirt? Recados de metal?}
 {133}{}{Uh ... isso é fascinante, mas eu tenho que ir.}
 {134}{}{Você ficaria surpreso com o que está acontecendo lá fora. Algo que é dado como certo em um lugar pode ser uma mercadoria muito procurada em um assentamento a 10 milhas de distância.}
-{135}{}{Ok, chega de conversa com o comerciante chato. Onde está a porta?
+{135}{}{Certo, chega de conversa com o comerciante chato. Onde está a porta?
 {136}{}{Obrigado, tchau.}
 {137}{}{Você pode me falar sobre o trabalho que foi postado?}
 {138}{}{Você tem algum trabalho?}
@@ -72,9 +72,9 @@
 {167}{}{O trabalho paga 500 Hubbucks quando você pode dizer ao Butch exatamente o que está acontecendo com todas as caravanas que têm
  desapareceu recentemente. Então, colete qualquer prova que você possa encontrar. Eu pessoalmente acho que são aqueles malditos comerciantes de água ou aqueles
  freaks arma na Irmandade de Aço. Butch acha que é uma Garra da morte ou algo assim. Verifique com Beth, ela saberia mais sobre isso.}
-{168}{}{Ok, mas eu não sei o que você perdeu. Não há muito para isso.}
+{168}{}{Certo, mas eu não sei o que você perdeu. Não há muito para isso.}
 {169}{}{Eu pensei com certeza que você era de lá. Eu estava apenas testando você. Se você não é de lá, como diabos você conseguiu aquela roupa de aço que eles trafegam por aí?
-{170}{}{Oh, isso? Eu encontrei, se você sabe o que quero dizer.
+{170}{}{Ah, isso? Eu encontrei, se você sabe o que quero dizer.
 {171}{}{Eu não tenho a liberdade de dizer.}
 {172}{}{Droga, você deve estar bem. Estou feliz que esteja do nosso lado. Eu não sei como você não poderia saber, mas a Irmandade é um grupo estranho que adora a tecnologia, ou algo assim. Eles estão um pouco a noroeste daqui.}
 {173}{}{O que é a Irmandade de Aço?}
@@ -93,7 +93,7 @@
 {186}{}{Eu espero que você esteja certo.}
 {187}{}{Um palpite não é bom o suficiente. Nós precisamos de provas.}
 {188}{}{Beth está certa por aquela porta e à direita. Ela dirige nossa loja de armas. Diga a ela que você está trabalhando para você e você receberá um desconto de 15%.}
-{189}{}{Oh, sim, Garra da Morte, qualquer coisa. Eles são todos loucos. É apenas a imaginação das pessoas se empolgando. Não há fantasma ou monstro ou o que quer que seja. Basta ficar com a realidade e você vai ficar bem.}
+{189}{}{Ah, sim, Garra da Morte, qualquer coisa. Eles são todos loucos. É apenas a imaginação das pessoas se empolgando. Não há fantasma ou monstro ou o que quer que seja. Basta ficar com a realidade e você vai ficar bem.}
 {190}{}{Sim? Como posso ajudá-lo?}
 {191}{}{Eu sei o que está acontecendo com suas caravanas.}
 {192}{}{Nada.}
@@ -117,7 +117,7 @@
 {210}{}{Foi terrível. Ele tinha esses dentes grandes e pontudos.}
 {211}{}{Uma caravana inteira? Mesmo? O que, eu pareço tão ingênua? Saia e descubra o que realmente está acontecendo com nossas caravanas.}
 {212}{}{Alguns imensos mutantes estão destruindo minhas caravanas? Isso é quase tão bom quanto essa história de Deathclaw.}
-{213}{}{Eu não estou brincando. Eu encontrei a Deathclaw e a matei, mas eu encontrei este holodisk no corpo de uma daquelas ... super criaturas mutantes.}
+{213}{}{Eu não estou brincando. Eu encontrei a Deathclaw é a matei, mas eu encontrei este holodisk no corpo de uma daquelas ... super criaturas mutantes.}
 {214}{}{Bem, verifique este holodisk. Eu tirei isso de um dos mutantes invasores.}
 {215}{}{É verdade, eu estava lá e vi isso. Vou trazer de volta a prova.}
 {216}{}{Ótimo, não acredite em mim.}
@@ -134,7 +134,7 @@
 {227}{}{Era a Deathclaw. Eu vi comer uma caravana inteira.}
 {228}{}{Eu esqueci.}
 {229}{}{Mutantes destruíram nossas caravanas? Isso é quase tão bom quanto o da Deathclaw.}
-{230}{}{Eu não estou brincando. Eu encontrei a Deathclaw e a matei. Mas eu também encontrei este holodisco no corpo daquelas criaturas super mutantes.}
+{230}{}{Eu não estou brincando. Eu encontrei a Deathclaw é a matei. Mas eu também encontrei este holodisco no corpo daquelas criaturas super mutantes.}
 {231}{}{Bem, verifique este holodisk. Eu tirei isso de um dos mutantes invasores.}
 {232}{}{É a verdade, eu estava lá. Vou trazer de volta a prova.}
 {233}{}{Eu tenho que ir.}
@@ -146,7 +146,7 @@
 {239}{}{Bem, se esse Deathclaw realmente existir, você pode querer examinar o seu covil. Pode ter uma pista.}
 {240}{}{Oi. Como posso ajudá-lo?}
 {241}{}{Eu descobri o que aconteceu com as caravanas desaparecidas.}
-{242}{}{Oh, nada}}
+{242}{}{Ah, nada}}
 {243}{}{Hey! Ouvi dizer que você matou o bastardo encarregado desses mutantes. Bom andamento. Você provavelmente salvou a vida de todos no Hub; mas eu me pergunto de onde eles vieram.}
 {244}{}{Yeah! Mais coisas para matar! Eu me pergunto onde eles estão se escondendo.}
 {245}{}{Sim, eu devo limpar completamente a área do trabalho maligno do Mestre. Eu me pergunto onde eles estão se escondendo.}
@@ -174,11 +174,11 @@
 {268}{}{Claro, podemos usar você em uma de nossas caravanas. Você guarda o trabalho? O padrão do pagamento, 400 hubbucks. Interessado?}
 {269}{}{certeza}
 {270}{}{Nope.}
-{271}{}{O que? E as caravanas desaparecidas?}
+{271}{}{O que? É as caravanas desaparecidas?}
 (272){}{O que melhor maneira de encontrar os ladrões do que se juntar a uma caravana?}
 {273}{}{Eu vou ficar de olho, mas preciso de alguns scripts.}
 {274}{}{Nevermind.}
-{275}{}{Ok, mas deixe-me saber se você mudar de ideia. Na maioria das vezes, é dinheiro fácil.}
+{275}{}{Certo, mas deixe-me saber se você mudar de ideia. Na maioria das vezes, é dinheiro fácil.}
 {276}{}{Ótimo, fale com nosso motorista de caravana pela porta da frente para ver quando a próxima caravana está programada para sair. Contanto que você faça um bom trabalho, nossos motoristas irão contratá-lo.}
 {277}{}{Você vai te dar mais uma chance. Os 400 hubbucks do pagamento. Vá falar com o motorista da caravana pela porta da frente para ver quando o próximo sai.}
 {278}{}{Me desculpe, mas eu te dei uma chance. Eu acho que você deveria sair.}
@@ -193,7 +193,7 @@
 {287}{}{Claro! Você não precisa falar comigo. Apenas fale com o nosso motorista de caravana.}
 {288}{}{[MORE]}
 {289}{}{Bem, claro, podemos estar perdendo muitas caravanas, mas é uma porcentagem muito pequena do nosso negócio total. As chances de você estar em uma caravana que é atacada por qualquer coisa que esteja "capturando" completamente ou destruindo nossas caravanas é muito improvável. Quem ou o que quer que esteja fazendo isso deve ter uma força muito grande, ou uma muito mortal.}
-{290}{}{Oh, tudo bem. Acho que vou perguntar mais um pouco. }
+{290}{}{Ah, tudo bem. Acho que vou perguntar mais um pouco. }
 {291}{}{Bem, eu preciso do dinheiro.}
 {292}{}{Olá novamente. O que eu posso fazer por ... quero dizer fazer por você?}
 {293}{}{Prazer em vê-lo novamente}
@@ -204,7 +204,7 @@
 {298}{}{Lamento, eu tenho que ir.}
 {299}{}{Rarwa.}
 {300}{}{Sim, o que diabos você quer?}
-{301}{}{Eu estou realmente ficando doente de você. E agora?}
+{301}{}{Eu estou realmente ficando doente de você. É agora?}
 {302}{}{O que!}
 {303}{}{Você é sempre tão chato?}
 {304}{}{O que é isso homem?!?!}

@@ -20,7 +20,7 @@
 {117}{}{Meus pés doem.}
 {118}{}{Eles pagarão por isso ...}
 {119}{}{Deixe-os tentar de novo.}
-{120}{}{O que o ... Oh, não é nada.}
+{120}{}{O que o ... Ah, não é nada.}
 {121}{}{Fique alerta!}
 {200}{}{Bob, qual é o seu status?}
 {201}{}{Tudo claro.}

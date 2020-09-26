@@ -2,12 +2,12 @@
 # Male is the best approach. They are simpltons who have a badge only because no one else
 # would take the badge. Speech has an absent-mindedness about it.
 
-{100}{}{Você ve um oficial da policia.}
+{100}{}{Você vê um oficial da policia.}
 # Police Officer is male
 
-{101}{}{Saudacoes! Você deveria tomar cuidado com… uh, eu quero dizer, tomar cuidado… (o oficial da um olhar
+{101}{}{Saudações! Você deveria tomar cuidado com… uh, eu quero dizer, tomar cuidado… (o oficial da um olhar
  para os outros oficiais e tilts a cabeca dele na sua direção.)}
-{102}{}{Oi estranho… Espere! Eu conheco você! Você e procurado por roubo! Nao se mexa!}
+{102}{}{Oi estranho… Espere! Eu conheco você! Você e procurado por roubo! Não se mexa!}
 # Stranger is the player. Consider Male.
 
 {103}{}{Okay, eu desisto.}
@@ -18,7 +18,7 @@
 # "Kor Rok" is just garbled sounds a moronic player is saying.
 
 {106}{}{(Você se entrega.)}
-{107}{}{Cuidado com suas costas, este não e um lugar seguro.}
+{107}{}{Cuidado com suas costas, este não é um lugar seguro.}
 
 # 108/109, 108/110 are lines which go together. "Watch your scripts, guy." or "Watch your scripts, lady."
 {108}{}{Cuidado com seus scripts, }
@@ -26,19 +26,19 @@
 
 {109}{}{cara.}
 {110}{}{mulher.}
-{111}{}{Você não deveria estar aqui, não e seguro.}
+{111}{}{Você não deveria estar aqui, não é seguro.}
 {112}{}{A Cidade Antiga e realmente decaida.}
 # Old Town is another section of town. This is were the poor and down-trodden live.
 
 {113}{}{Este lugar fede.}
-{114}{}{Nos deviamos tear esta area inteira abaixo.}
+{114}{}{Nós deviamos tear esta area inteira abaixo.}
 {115}{}{Eu sei que aquele maldito Circulo dos Ladroes esta por aqui, em algum lugar.}
 # the Thieve's Circle is similar to a Thieve's Guild. underground organization for thieves.
 
-{116}{}{Pobre Harold, ele teve uma vida dificil.}
+{116}{}{Pobre Harold, ele teve uma vida difícil.}
 # Harold is Male
 
-{117}{}{Nao faca nada ilegal.}
+{117}{}{Não faca nada ilegal.}
 # == Don't do anything illegal.
 
 {118}{}{Ei. Eu conheco você. Sem mais brigas okay?}
@@ -49,10 +49,10 @@
 {121}{}{Você ouviu? Os Far Go Traders foram eliminados.}
 # Far Go Traders is a merchant's guild
 
-{122}{}{Os Mercadores da Agua são estoria, isso e uma bencao.}
+{122}{}{Os Mercadores da Agua são estoria, isso é uma bencao.}
 # Water Merchants is a merchant's guild
 
-{123}{}{Alguem matou a Crimson Caravan.}
+{123}{}{Alguém matou a Crimson Caravan.}
 # Crimson Caravans is a merchant's guild
 
 {124}{}{Você ouviu? O Submundo foi finalmente eliminado!}

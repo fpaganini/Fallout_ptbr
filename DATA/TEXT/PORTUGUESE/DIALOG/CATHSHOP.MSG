@@ -1,7 +1,7 @@
-{100}{}{Você ve um vendedor de loja.}
+{100}{}{Você vê um vendedor de loja.}
 {101}{}{A Chama Sagrada não aprecia ladroes e scoundrels na casa de adoracao dela.
  Você será punido!}
-{102}{}{Hng!}
+{102}{}{Hum!}
 {103}{}{Eu não estava roubando de você, juro!}
 {104}{}{Por que você não diz a Chama Sagrada quando você ver ele apos sua 'punicao?'}
 {105}{}{Eu não me importo com suas mentiras, nem o Mestre se importara.}
@@ -9,25 +9,25 @@
 {107}{}{Nugga.}
 {108}{}{Obrigado por nada.}
 {109}{}{Por que isso?}
-{110}{}{Nao o mencione.}
-{111}{}{AS Crianças não tem que lidar com seu tipo. E você tem nos causado um serio
+{110}{}{Não o mencione.}
+{111}{}{AS Crianças não tem que lidar com seu tipo. É você tem nos causado um serio
  problema. Eu gostaria que você fosse embora antes de eu ter que chamar
  reforcos.}
 {112}{}{Você não tem que fazer isso. Eu sou seu amigo.}
 {113}{}{Que seja.}
-{114}{}{Eu me recuso a lidar com aqueles que usam armas pra fazer demandas. Nos
+{114}{}{Eu me recuso a lidar com aqueles que usam armas pra fazer demandas. Nós
  Crianças crescemos alem do simples uso de armas de fogo e brancas.}
 {115}{}{Louco facista do controle de armas!}
-{116}{}{Deixe-me holster it e nos podemos permutar em paz.}
-{117}{}{Bom, eu gosto disso. Eu ficaria feliz de fazer negocios com você.}
-{118}{}{Saudacoes, minha camarada Crianca. Como eu posso ajudar você?}
+{116}{}{Deixe-me holster it e nós podemos permutar em paz.}
+{117}{}{Bom, eu gosto disso. Eu ficaria feliz de fazer negócios com você.}
+{118}{}{Saudações, minha camarada Crianca. Como eu posso ajudar você?}
 {119}{}{Lugga!?}
 {120}{}{O que você tem pra negociar?}
 {121}{}{Obrigado. Vejo você mais tarde, jacare.}
 {122}{}{Eu lamento. Talvez nos possamos apenas fazer um acordo.}
 {123}{}{Brye!}
 {124}{}{Apos um tempo, crocodilo. Eu não consigo acreditar que eu acabei de dizer isso.}
-{125}{}{Saudacoes! Como eu posso ajudar você? Eu espero que você leve um momento
+{125}{}{Saudações! Como eu posso ajudar você? Eu espero que você leve um momento
  pra perceber a significancia de quaisquer decisoes futuras que você possa
  fazer em relacao a sua alma...}
 {126}{}{Baarta!}
@@ -36,11 +36,11 @@
 {129}{}{So e permitido aos membros confiaveis da Catedral usar o purpura sagrado.}
 {130}{}{Eu creio que responde minha pergunta, obrigado!}
 {131}{}{Stuck up tolo. Eu creio que eu terei que tomar o seu!}
-{132}{}{Oh, bem. O que você tem pra negociar?}
-{133}{}{Oh, coisa pra pander to the rubes que caminham na porta. Nada muito especial.
- Va em frente, de uma olhada.}
+{132}{}{Ah, bem. O que você tem pra negociar?}
+{133}{}{Ah, coisa pra pander to the rubes que caminham na porta. Nada muito especial.
+ Vá em frente, de uma olhada.}
 {134}{}{Obrigado, vejo você mais tarde.}
-{135}{}{Nos temos todos os tipos de itens especiais pra lembrar de sua viagem a
+{135}{}{Nós temos todos os tipos de itens especiais pra lembrar de sua viagem a
  Catedral. Estas memorias não podem ser compradas barato, você entende.}
 {136}{}{Obrigado...}
 {137}{}{De nada. Tenha dias agradaveis pelo resto da sua vida.}

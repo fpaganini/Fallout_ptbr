@@ -1,5 +1,5 @@
-{100}{}{Você ve um cachorro. Ele parece estar seguindo você.}
-{101}{}{Você ve um cachorro.}
+{100}{}{Você vê um cachorro. Ele parece estar seguindo você.}
+{101}{}{Você vê um cachorro.}
 {102}{}{Woof!}
 {103}{}{Grrr!}
 {104}{}{Você ganha 100 pontos de experiência por ajudar o Phil a resolver sua conundrum canino.}

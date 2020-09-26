@@ -1,50 +1,50 @@
-{100}{}{Você ve um pescador cansado.}
+{100}{}{Você vê um pescador cansado.}
 {101}{}{Senhor, eu ouvi sobre você, e eu apreciaria se você deixasse eu e meu
  garoto em paz.}
 {102}{}{Senhora, eu ouvi sobre você, e eu apreciaria se você deixasse eu e meu
  garoto em paz.}
-{103}{}{Como vai, senhor? Eu não vejo frequentemente estranhos neste local. Ha algo que
+{103}{}{Como vai, senhor? Eu não vejo frequentemente estranhos neste local. Há algo que
  eu possa fazer por você?}
-{104}{}{Como vai, senhora? Eu não vejo frequentemente estranhos neste local. Ha algo que
+{104}{}{Como vai, senhora? Eu não vejo frequentemente estranhos neste local. Há algo que
  eu possa fazer por você?}
-{105}{}{Por acaso não aconteceria de você saber aonde eu poderia achar um chip de agua, saberia?}
+{105}{}{Por acaso não aconteceria de você saber aonde eu poderia achar um chip purificador de água, saberia?}
 {106}{}{Por acaso você não saberia qualquer coisa sobre exercitos mutantes, saberia?}
 {107}{}{De onde você veio?}
 {108}{}{Como esta a pescaria?}
 {109}{}{Me de tudo que você tem ou eu matarei você!}
 {110}{}{Runk!}
-{111}{}{Espere um minuto, você não e aquele camarada que vagueia pelas terras devastadas e chuta as
+{111}{}{Espere um minuto, você não é aquele camarada que vagueia pelas terras devastadas e chuta as
  bundas dos monstros? Eu posso ajudar você?}
-{112}{}{Espere um minuto, você não e aquela camarada que vagueia pelas terras devastadas e chuta as
+{112}{}{Espere um minuto, você não é aquela camarada que vagueia pelas terras devastadas e chuta as
  bundas dos monstros? Eu posso ajudar você?}
 {113}{}{Eu estou com poucos suprimentos . . .}
 {114}{}{Nenhum homem jamais me chamou de inhospitable, e eu não quero repetir do que as mulheres
  me chamam, mas eu estou tentando pescar e eu preciso de quietude absoluta pra pegar as malditas
- coisas, entao por favor, tente manter-se quieto.}
-{115}{}{Alguem já disse a você que você ramble on?}
-{116}{}{Ok.}
-{117}{}{Eu estou procurando por informacao.}
+ coisas, então por favor, tente manter-se quieto.}
+{115}{}{Alguém já disse a você que você ramble on?}
+{116}{}{Certo.}
+{117}{}{Eu estou procurando por informação.}
 {118}{}{Eu pareco um scavenger para você? Bem, talvez eu pareca, mas isso e porque eu passo
  muito tempo nas terras devastadas tentando ensinar meu garoto a pescar e ser um homem.}
 {119}{}{Eu não fiz qualquer scavenging em seis anos. Radscorpions demais.
  Um camarada poderia ser morto com todos eles varmints correndo por ai.}
 {120}{}{Por volta de oito anos atras, Eu vendi alguns chips em Junktown. Eu não sei o que
- eles faziam. Um deles poderia ter sido um chip de agua, embora eu não apostaria nisso.}
-{121}{}{De qualquer modo, eu preciso de quietude para minha pescaria, entao eu apreciaria se você
+ eles faziam. Um deles poderia ter sido um chip purificador de água, embora eu não apostaria nisso.}
+{121}{}{De qualquer modo, eu preciso de quietude para minha pescaria, então eu apreciaria se você
  ficasse quieto e me deixasse voltar ao trabalho antes que eu e meu garoto fiquemos famintos.}
-{122}{}{Exercitos mutantes? Nao neste local. So os exercitos regulares seriam ruins
+{122}{}{Exercitos mutantes? Não neste local. So os exercitos regulares seriam ruins
  o bastante, heh heh.}
-{123}{}{Você sabe que ha muita politica no mundo. Eu me mantenho dizendo ao meu garoto que
- estes politicos não podem esperar para explodir o mundo de novo. E por isso qu eu estou
+{123}{}{Você sabe que há muita politica no mundo. Eu me mantenho dizendo ao meu garoto que
+ estes politicos não podem esperar para explodir o mundo de novo. É por isso qu eu estou
  vivendo da terra, para evitar os politicos! O único modo de viver.}
-{124}{}{Agora essa e uma informacao bastante pessoal. Eu matei homens por perguntarem
+{124}{}{Agora essa é uma informação bastante pessoal. Eu matei homens por perguntarem
  menos, simplesmente pergunte ao garoto. Mas eu acho que você parece uma pessoa
- honesta, entao eu deixarei escorregar desta vez.}
+ honesta, então eu deixarei escorregar desta vez.}
 {125}{}{Bem, eu pesquei neste lugar pelos ultimos cinco anos e continua ficando
- pior e pior. Eu acho que e o Skunk, o peixe-gato gigante de tres olhos que
+ pior e pior. Eu acho que é o Skunk, o peixe-gato gigante de tres olhos que
  fica assustando tudo do meu local.}
 {126}{}{Mas eu vou pegar esse peixe, você espere. Esta ficando pessoal
- entre nos e so um de nos vai caminhar, acredite em mim. Eu sou mais
+ entre nos e só um de nos vai caminhar, acredite em mim. Eu sou mais
  serio do que a Irmandade do Aço a respeito disto.}
 {127}{}{Agora você provavelmente me matara, mas se eu não ficar de frente com você,
  eu estarei definindo um mau exemplo para o garoto. Ve o meu dilema? Por que você
@@ -58,49 +58,49 @@
 {133}{}{Tente um pouco disto.}
 {134}{}{Tente um pouco de . . . oh, maldicao, aonde eu o coloquei . . . ?}
 {135}{}{Bem, eu ouvi sobre uma grande Vault bem ao Leste e relatos de uma Vault
- secreta em algum lugar ao sul. E pode haver alguns chips em Junktown e no Hub.
+ secreta em algum lugar ao sul. É pode haver alguns chips em Junktown e no Hub.
  Espero que ajude.}
 {136}{}{Eu odeio ser inhospitable, mas eu preciso de quietude para minha pescaria,
- entao eu apreciaria se você ficasse quieto e me deixasse voltar ao trabalho antes
- que eu e meu garoto fiquemos famintos. E boa sorte matando esses varmints.}
+ então eu apreciaria se você ficasse quieto e me deixasse voltar ao trabalho antes
+ que eu e meu garoto fiquemos famintos. É boa sorte matando esses varmints.}
 {137}{}{Exercitos mutantes? Apenas exercitos comuns seriam ruins o bastante. Eu
- ouvi dizer que alguem tem estado harassing os ghouls em Necropolis, mas isso
+ ouvi dizer que alguém tem estado harassing os ghouls em Necropolis, mas isso
  foi a algum tempo atras.}
-{138}{}{Agora essa e uma pergunta pessoal. O utero da minha mae, claro, mas isso e um
+{138}{}{Agora essa é uma pergunta pessoal. O utero da minha mae, claro, mas isso e um
  pouco too flip. Eu não tenho mais um lar. Eu e meu garoto simplesmente vagueamos e
  tentamos sobreviver.}
-{139}{}{Eu sei aonde alguns caches estao armazenados, mas isso e meu segredo.}
+{139}{}{Eu sei aonde alguns caches estão armazenados, mas isso e meu segredo.}
 {140}{}{Bem, e matar ou ser morto - a Lei das terras devastadas - por aqui, mas eu 
  direi a você. Você continua matando monstros e eu darei a você alguns suprimentos.}
-{141}{}{Sim, você e. Mas o que diabos 'runk' significa? O que quer que seja, eu
+{141}{}{Sim, você é. Mas o que diabos 'runk' significa? O que quer que seja, eu
  espero que seja amistoso.}
 {142}{}{Agora eu estou magoado. Aqui vou eu, fora do meu modo de ser bom vizinho,
  e você me acusa de rambling! Ora! Eu não me ofendo fácil, mas você foi e me
- deixou irritado o bastante para jogar uma bomba atomica em alguem.}
+ deixou irritado o bastante para jogar uma bomba atomica em alguém.}
 {143}{}{De qualquer modo, por que você simplesmente não sai daqui?}
 {144}{}{Obrigado a você.}
 {145}{}{Do que você quer falar a respeito?}
-{146}{}{Eu estou tentando achar um chip de agua.}
+{146}{}{Eu estou tentando achar um chip purificador de água.}
 {147}{}{Eu estou tentando descobrir a respeito de alguns exercitos mutantes.}
 {148}{}{O que você pode me dizer sobre a Irmandade?}
 {149}{}{O que você pode me dizer sobre a Boneyard?}
 {150}{}{Eu lamento amigo, eu não acho que eu possa ajudar você.}
-{151}{}{'Runk' não e o mesmo que manter-se quieto. Agora cale sua yap e saia daqui.}
+{151}{}{'Runk' não é o mesmo que manter-se quieto. Agora cale sua yap e saia daqui.}
 {152}{}{Certo. Leve o que você quer e saia.}
-{153}{}{Você realmente não e muito amistoso, não e?}
+{153}{}{Você realmente não é muito amistoso, não e?}
 {154}{}{Você me perdoe se eu não sou mais apreciativo, mas eu acho que você deveria
  sair.}
 {155}{}{Eu tento evita-los se eu puder. As patrulhas deles podem ser bem desagradaveis
  se eles decidem não gostar de você.}
 {156}{}{Isso e pra baixo na costa. Eu ouvi estorias sobre gangues running amok e
- todos os tipos de coisas que eu não quero que o garoto veja, entao eu estou
+ todos os tipos de coisas que eu não quero que o garoto veja, então eu estou
  ficando longe daquele lugar!}
-{157}{}{Agora guarde essa coisa antes que você machuque alguem. Um homem não pode
- ter uma conversacão civil quando ha armas sacadas.}
-{158}{}{Filho, não ha nada como uma batalha entre um peixe e um homem.}
+{157}{}{Agora guarde essa coisa antes que você machuque alguém. Um homem não pode
+ ter uma conversacão civil quando há armas sacadas.}
+{158}{}{Filho, não há nada como uma batalha entre um peixe e um homem.}
 {159}{}{Filho, eu já disse a você sobre a vez que eu peguei a enguia gigante . . .}
 {160}{}{Filho, não responda seu pai!}
 {161}{}{Talvez desta vez eu pagarei aquele peixe-gato de tres olhos.}
 {162}{}{O jantar esta vindo!}
-{163}{}{Nao ha nada como o gosto de um peixe molhado num fogo aberto.}
+{163}{}{Não há nada como o gosto de um peixe molhado num fogo aberto.}
 {164}{}{Quieto filho, você esta assustando o peixe.}

@@ -1,19 +1,19 @@
-{100}{}{Você ve o Seth, lider dos guardas de Shady Sands.}
+{100}{}{Você vê o Seth, lider dos guardas de Shady Sands.}
 {101}{}{Você! Você plagued nossa vila por tempo demais.
  Eu matarei você eu mesmo!}
 {102}{}{Nada bom vem do seu tipo. Eu matarei você e livrarei
  a terra devastada de mais um monstro.}
-{103}{}{Nao muito brilhante, eh? Bem, cuidado com os radscorpions,
+{103}{}{Não muito brilhante, eh? Bem, cuidado com os radscorpions,
  e fique longe de problemas.}
 {104}{}{Escorpiao!}
 {105}{}{Tchau-tchau.}
-{106}{}{Você parece um daqueles saqueadores. Nos mantemos uma vigilancia
+{106}{}{Você parece um daqueles saqueadores. Nós mantemos uma vigilancia
  proxima aqui em Shady Sands. O que você quer?}
 {107}{}{Eu quero todo o seu dinheiro!}
-{108}{}{Eu gostaria de um pouco de informacao.}
+{108}{}{Eu gostaria de um pouco de informação.}
 {109}{}{Bloop?}
 {110}{}{Bom dia. Eu sou o Seth. Como eu posso ajudar você?}
-{111}{}{Eu gostaria de um pouco de informacao.}
+{111}{}{Eu gostaria de um pouco de informação.}
 {112}{}{Wub-wub!}
 {113}{}{Informacao? Do que você quer saber a respeito?}
 {114}{}{O que eu posso fazer por você?}
@@ -25,19 +25,19 @@
 {120}{}{Nada mais, obrigado.}
 {121}{}{O que você quer agora?}
 {122}{}{Aqueles malditos radscorpions estiveram atras dos nossos Brahmin desde que nos mudamos
- para ca. Nem uma semana vai em que alguem não seja envenenado tentando mante-los longe dos
+ para ca. Nem uma semana vai em que alguém não seja envenenado tentando mante-los longe dos
  nossos pens. Na ultima semana eles levaram meu irmao Jarvis. Razlo, nosso doutor, esta
- procurando por um antidoto tao rapidamente quanto ele pode. Ei, se você tem os meios
+ procurando por um antidoto tão rapidamente quanto ele pode. Ei, se você tem os meios
  de nos ajudar, por que você não fala com o nosso lider, Aradesh?}
-{123}{}{Ha varios grupos de saqueadores. Eu organizo guardas como o Ian pra ajudar a
- enfrenta-los. Ha um bando a sudeste daqui. Cuidado com eles.}
-{124}{}{Shady Sands e uma comunidade pacifica. Nos temos nosso proprio sistema de
- irrigacao, para que nos possamos cultivar nossa propria comida. Se nos não
- fossemos       com saqueadores e radscorpions, nos não teriamos problemas.}
-{125}{}{Você tem certeza que você quer que eu de a você as direcoes para as cavernas dos radscorpions? Eu não posso ir, mas eu posso mostrar a você o caminho.}
+{123}{}{Há varios grupos de saqueadores. Eu organizo guardas como o Ian pra ajudar a
+ enfrenta-los. Há um bando a sudeste daqui. Cuidado com eles.}
+{124}{}{Shady Sands é uma comunidade pacifica. Nós temos nosso proprio sistema de
+ irrigacao, para que nos possamos cultivar nossa propria comida. Se nós não
+ fossemos       com saqueadores e radscorpions, nós não teriamos problemas.}
+{125}{}{Você tem certeza que você quer que eu de a você as direções para as cavernas dos radscorpions? Eu não posso ir, mas eu posso mostrar a você o caminho.}
 {126}{}{Sim.}
-{127}{}{Nao.}
-{128}{}{Ok, apenas deixe-me saber quando você estiver pronto pra ir para as cavernas.}
+{127}{}{Não.}
+{128}{}{Certo, apenas deixe-me saber quando você estiver pronto pra ir para as cavernas.}
 {129}{}{[Feito]}
 {130}{}{Uh-huh.}
 {131}{}{Uh-uh.}
@@ -45,9 +45,9 @@
 {200}{}{Nossa cidade inteira e grata a você por destruir os
  radscorpions. Obrigado.}
 {201}{}{Gracas a você, nós estamos agora seguros deles.}
-{202}{}{Você tem certeza que você quer retornar pra la? E uma longa jornada,
+{202}{}{Você tem certeza que você quer retornar pra lá? É uma longa jornada,
  e você eliminou a ameaca deles.}
-{203}{}{Ok. Aprecie sua estada aqui.}
+{203}{}{Certo. Aprecie sua estada aqui.}
 {204}{}{Bem-vindo a Shady Sands, estranho. Por favor holster essa arma
  enquanto você estiver aqui.}
 {205}{}{Ola estranho. Bem-vindo a Shady Sands.}
@@ -56,36 +56,36 @@
  Salao da Cidade, o predio ao sul.}
 
 {300}{}{Gracas a Dharma você esta aqui andarilho. Minha garota . . . uh, Tandi,	filha
- do Aradesh, foi sequestrada. Nos acreditamos que os saqueadores a levaram.}
-{301}{}{Aonde estao estes saqueadores?}
+ do Aradesh, foi sequestrada. Nós acreditamos que os saqueadores a levaram.}
+{301}{}{Aonde estão estes saqueadores?}
 {302}{}{Uau. Tough break. Bem, Eu verei você mais tarde.}
 {303}{}{Eu lamento, Eu desejo que eu pudesse ajudar.}
-{304}{}{Isso e terrivel, mas eu tenho que tomar conta daqueles radscorpions
+{304}{}{Isso é terrível, mas eu tenho que tomar conta daqueles radscorpions
  primeiro. Eles pose um perigo para a sua cidade inteira.}
 {305}{}{Aonde esta Tandi? Por que você não resgatou ela?}
 {306}{}{Eu preciso de mais suprimentos antes que eu possa tackle esses caras.}
 {307}{}{Eu decidi que a pequena tramp não era de valor o risco.}
 {308}{}{Eu estou trabalhando nisso.}
 {309}{}{Eu pensei que eu tomaria conta do seu problema com radscorpions primeiro.}
-{310}{}{Eu pensei que você era uma boa pessoa. Entao que seja.}
-{311}{}{Eles estao a sudeste. Por favor, apresse-se. Eu não sei o que eles farao a ela.}
-{312}{}{Ok, Eu trarei ela de volta pra você.}
+{310}{}{Eu pensei que você era uma boa pessoa. Então que seja.}
+{311}{}{Eles estão a sudeste. Por favor, apresse-se. Eu não sei o que eles farao a ela.}
+{312}{}{Certo, Eu trarei ela de volta pra você.}
 {313}{}{Eu não disse que eu ajudaria, eu tenho meus próprios problemas para me preocupar.}
 {314}{}{Quanto vale este trabalho pra você?}
 {315}{}{Eu tenho que ajudar meu próprio povo. Eu lamento.}
-{316}{}{Eu sabia que você era um mercenario sem coracao. Nos pagaremos bem a você por salva-la,
+{316}{}{Eu sabia que você era um mercenario sem coração. Nós pagaremos bem a você por salva-lá,
  descanse assured.}
 {317}{}{Se você não vai me dizer quanto você me dara, eu não vou aceitar o
  trabalho.}
 {318}{}{Tudo bem, eu tomarei conta disso pra você.}
 {319}{}{Lamento, eu tenho que ir.}
 {320}{}{Seu bastardo!}
-{321}{}{Por favor apresse-se. So os deuses sabem o que eles estao fazendo com ela.}
+{321}{}{Por favor apresse-se. So os deuses sabem o que eles estão fazendo com ela.}
 {322}{}{Eu desejo que você salve a Tandi primeiro, estranho, mas, se você esta querendo
  nos ajudar com os radscorpions, eu acho que eu mostrarei pra você o caminho.}
-{323}{}{Ok, leve-me para os radscorpions.}
-{324}{}{Eu mudei minha mente. Adeus.}
-{325}{}{Ótimo. Eu voltarei após um tempo e você pode me levar entao.}
+{323}{}{Certo, leve-me para os radscorpions.}
+{324}{}{Eu mudei minha mente. Tchau.}
+{325}{}{Ótimo. Eu voltarei após um tempo e você pode me levar então.}
 
 {1000}{}{Khans}
 {1001}{}{Garl}
@@ -111,14 +111,14 @@
 {1102}{}{Esta a 4-6 dias a sudoeste. Bom comercio ocasionalmente, mas
  mais frequentemente do que não, eles tentar nos stiff us.}
 {1103}{}{Você esta pisando nela.}
-{1104}{}{Muito mais distante ao sul do qe Junktown. O Hub e a maior cidade
- da qual eu já ouvi. Deve haver umas mil pessoas la, pelo menos.}
+{1104}{}{Muito mais distante ao sul do qe Junktown. O Hub é a maior cidade
+ da qual eu já ouvi. Deve haver umas mil pessoas lá, pelo menos.}
 {1105}{}{Lamento, eu não posso ajudar você.}
-{1106}{}{Ela e a filha de Aradesh. Algum dia ela poderia nos liderar, mas
+{1106}{}{Ela é a filha de Aradesh. Algum dia ela poderia nos liderar, mas
  ela deve aprender a temper seus modos.}
 {1107}{}{Ele e o lider desta comunidade, e um verdadeiro heroi. Você consegue
  sempre acha-lo no trabalho no salao communal.}
-{1108}{}{Esse sou eu. Eu trabalho com o Aradesh para ter certeza de que todos estao seguros.}
+{1108}{}{Esse sou eu. Eu trabalho com o Aradesh para ter certeza de que todos estão seguros.}
 {1109}{}{Nosso Doutor. Veja ele se você esta ferido.}
 {1110}{}{Você esta pisando nela.}
 {1111}{}{Criaturas vis com um veneno mortal.}

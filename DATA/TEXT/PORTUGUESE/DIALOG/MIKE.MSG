@@ -1,14 +1,14 @@
-{100}{}{Você ve o Mike, o guarda da cidade velha.}
+{100}{}{Você vê o Mike, o guarda da cidade velha.}
 {101}{}{Sim, o que você quer?}
 {102}{}{a...dum...um...}
 {103}{}{Eu não sou daqui. Qual parte da cidade e esta?}
 {104}{}{Você sabe aonde eu posso achar um Chip da Agua?}
 {105}{}{Um... Tchau.}
-{106}{}{Ha! Apenas outro viciado. Va cair em algum outro lugar, viciado.}
+{106}{}{Há! Apenas outro viciado. Vá cair em algum outro lugar, viciado.}
 {107}{}{Sim. Você deve estar perdido. A maioria das pessoas não gostariam de serem pegas mortas nesta parte da cidade. Este e o lado leste, ou alguns chamam de a cidade antiga. Os desperdicios dos desperdicios.}
 {108}{}{Você sabe aonde eu posso achar um Chip da Agua?}
-{109}{}{Obrigado pela informacao. Tchau.}
-{110}{}{Chip da Agua? O que e você? Drogado? Um chip feito de agua?}
+{109}{}{Obrigado pela informação. Tchau.}
+{110}{}{Chip da Agua? O que é você? Drogado? Um chip feito de água?}
 {111}{}{Don't you be mouthing off to me, punk. Agora eu vou ter que por você no chao.}
 {112}{}{Eu não sou daqui. Em qual parte da cidade eu estou?}
-{113}{}{Deixa pra la. Tchau.}
+{113}{}{Deixa pra lá. Tchau.}

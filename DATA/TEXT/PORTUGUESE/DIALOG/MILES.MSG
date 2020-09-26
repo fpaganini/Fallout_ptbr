@@ -1,87 +1,87 @@
-{100}{}{Você vê Miles, o químico de Adytum.}
-{101}{}{Você vê um homem magro em um jaleco branco.}
-{102}{}{Eu não acredito que nós nos encontramos. Eu sou Miles. O que eu posso fazer por você?}
-{103}{}{Eu estou apenas olhando por aí, obrigado.}
-{104}{}{Esse jaleco faz você parecer um cientista. O que você está estudando?}
+{100}{}{Voce ve Miles, o quimico de Adytum.}
+{101}{}{Voce ve um homem magro em um jaleco branco.}
+{102}{}{Eu nao acredito que nos nos encontramos. Eu sou Miles. O que eu posso fazer por voce?}
+{103}{}{Eu estou apenas olhando por ai, obrigado.}
+{104}{}{Esse jaleco faz voce parecer um cientista. O que voce esta estudando?}
 {105}{}{Huh?}
 {106}{}{Bem, aprecie sua estada na nossa pequena cidade.}
-{107}{}{I'm a chemist. Mostly, I make primer and powder so that we can re-use
- the brass casings from bullets. But I also dabble with some other chemicals.}
-{108}{}{Então você faz balas para Adytum.}
-{109}{}{Aonde você obtém o enxofre, potássio e outros químicos?}
-{110}{}{Com quais outros químicos você trabalha?}
-{111}{}{Obrigado pela informação.}
-{112}{}{Yes, although Smitty is the one who actually casts the bullets.
- I just refill the brass casings.}
-{113}{}{Mas os mercadores do Hub tiram um lucro de você e da cidade.}
-{114}{}{It's unusual to find someone who can appreciate chemistry!
- But to answer your question, some of the materials we get from Hub merchants;
- others I manufacture or just find in the area. For instance, the dung heaps
- from the Brahmin are a good source, as well as some of the strains of fungus
- that I cultivate.}
-{115}{}{Well, I've been trying to get some strong acids so that Smitty can use
- them for etching. I also have been trying to make some permanent dyes and inks.
- But without access to natural inks, it's difficult.}
+{107}{}{Eu sou um quimico. Na maior parte, eu faco primer e polvora pra que nos possamos re-usar
+ as brass casings das balas. Mas eu tambem dabble com alguns outros produtos quimicos.}
+{108}{}{Entao voce faz balas para Adytum.}
+{109}{}{Aonde voce obtem o enxofre, potassio e outros quimicos?}
+{110}{}{Com quais outros quimicos voce trabalha?}
+{111}{}{Obrigado pela informacao.}
+{112}{}{Sim, embora o Smitty e o que realmente casts as balas.
+ eu apenas encho de novo as brass casings.}
+{113}{}{Mas os mercadores do Hub tiram um lucro de voce e da cidade.}
+{114}{}{E incomum achar alguem que consiga apreciar a quimica! Mas pra responder
+ sua pergunta, alguns dos materiaiss que nos obtemos dos mercadores do Hub;
+ outras eu fabrico ou apenas acho na area. Por instancia, as pilhas de
+ fezes dos Brahmin sao uma boa fonte, assim como algumas das strains
+ de fungos que eu cultivo.}
+{115}{}{Bem, eu estive tentando obter alguns acidos fortes pra que o Smitty
+ possa usa-los pra etching. Eu tambem estive tentando fazer alguns dyes
+ e tintas permanentes. Mas sem acesso a tintas naturais e dificil.}
 {116}{}{A qualquer hora.}
-{117}{}{Oh querido(a). Eu estou com medo de que eu não possa ajudar você.}
-{118}{}{Olá de novo. Eu posso ajudar você?}
-{119}{}{Yes, well, we have to make a living. Since the hydroponic farms aren't
- functioning, we have to buy food from the merchants, and bullets are the only
- thing we have to sell.}
+{117}{}{Oh querido(a). Eu estou com medo de que eu nao possa ajudar voce.}
+{118}{}{Ola de novo. Eu posso ajudar voce?}
+{119}{}{Sim, bem, nos temos que viver. Ja que as fazendas hidroponicas nao estao
+ funcionando, nos temos que comprar comida dos mercadores, e balas sao a unica
+ coisa que nos temos pra vender.}
 {120}{}{Eu poderia tentar obter as partes para consertar as fazendas hidropônicas.}
-{121}{}{Oh. Bem, isso é muito ruim.}
-{122}{}{Really? That would be wonderful! We're just missing a few parts, but
- I'm sure that  if you could scrounge up the right pieces, we could be
- self-sufficient! Sammael might be able to give you some help.}
-{123}{}{Você ainda não achou as partes?}
-{124}{}{Sim, aqui estão elas.}
-{125}{}{Ainda não, a quem você disse que eu deveria perguntar sobre elas?}
-{126}{}{You'll need to talk to Sammael. You'll usually find him in
- a tent down by the farms during the day.}
-{127}{}{[Miles looks over the parts] Those are them, but it looks like
- Smitty is going to have to do a little work on them.
- Can you take them over to him?}
-{128}{}{I've got other things to deal with.  Can you do it yourself?}
-{129}{}{Com certeza, eu voltarei após ele tê-las consertado.}
-{130}{}{Com certeza, eu aprecio que você as achou para nós.}
+{121}{}{Oh. Bem, isso e muito ruim.}
+{122}{}{Mesmo? Isso seria maravilhoso! Nos estamos apenas sem algumas partes, mas eu
+ eu tenho certeza que se voce pudesse scrounge up os pedacos certos, nos poderiamos
+ ser auto-suficientes! O Sammael poderia ser capaz de dar alguma ajuda a voce.}
+{123}{}{Voce ainda nao achou as partes?}
+{124}{}{Sim, aqui estao elas.}
+{125}{}{Ainda nao, a quem voce disse que eu deveria perguntar sobre elas?}
+{126}{}{Voce precisara falar com o Sammael. Voce geralmente achara ele numa
+ tenda lá pra baixo ao lado das fazendas durante o dia.}
+{127}{}{[Miles looks over as partes] Essas sao elas, mas parece que o
+ Smitty vai ter que fazer um trabalhinho nelas. Voce pode leva-las
+ para ele?}
+{128}{}{Eu tenho outras coisas com as quais lidar. Voce nao pode fazer voce mesmo?}
+{129}{}{Com certeza, eu voltarei apos ele ter consertado elas.}
+{130}{}{Com certeza, eu aprecio que voce as achou para nos.}
 {131}{}{E . . .}
-{132}{}{Não é um problema.}
-{133}{}{Oh. I almost forgot. Here is some stuff, for your trouble.
- [Miles hands you some caps and some stimpacks.]}
-{134}{}{Você foi capaz de levar as partes para o Smitty?}
-{135}{}{[Miles takes the fixed parts from you] Looks like Smitty did a great job on
- these. Thanks for the help, and here's some stuff for your trouble.}
-{136}{}{[Miles dá a você algumas tampinhas e alguns stimpacks.]}
-{137}{}{If you ever get back this way, you might want to look me and Smitty up.
- We might be able to help you out with some adjustments to some of your equipment.
- Smitty can work wonders with certain weapons, and I can help out with
- certain sorts of armor.}
-{138}{}{Looks like you found some Power Armor. I've heard of a chemical process
- that I could use to harden the surface of the armor. However, I'm missing some
- information which could give me the last few clues to the formula and
- reagents necessary.  I've heard the Librarian in the Hub, Mrs. Stapleton,
- has some journals and books that might be of use.
- If you could get those from there, I could probably test the process
- on your armor.}
+{132}{}{Nao e um problema.}
+{133}{}{Oh. Eu quase esqueci. Aqui estao algumas coisas pelo seu trabalho.
+ [O Miles da algumas tampinhas e alguns stimpacks pra voce.]}
+{134}{}{Voce foi capaz de levar as partes para o Smitty?}
+{135}{}{[O Miles pega as partes consertadas de voce] Parece que o Smitty fez um otimo
+ trabalho nestas. Obrigado pela ajuda, e aqui estao algumas coisas pelo seu trabalho.}
+{136}{}{[Miles da a voce algumas tampinhas e alguns stimpacks.]}
+{137}{}{Se voce voltar por este caminho, voce poderia querer falar comigo e com o
+ Smitty. Nos poderiamos ser capazes de ajudar voce com alguns ajustes em alguns
+ dos seus equipamentos. O Smitty pode fazer maravilhas com certas armas, e eu
+ posso ajudar com certos tipos de armadura.}
+{138}{}{Parece que voce achou uma Power Armor. Eu ouvi de um processo quimico que
+ eu poderia usar pra endurecer a superficie da armadura. Contudo, eu estou em
+ falta de um pouco de informacao que poderia me dar as ultimas poucas pistas
+ para a formula e reagentes necessarios. Eu ouvi que a bibliotecaria no Hub,
+ a Sra. Stapleton, tem alguns jornais e livros que poderiam ser de uso. Se
+ voce puder pegar esses de la, eu poderia provavelmente testar o processo
+ na sua armadura.}
 {139}{}{Soa bem. Eu irei falar com a Sra. Stapleton.}
-{140}{}{Eu tenho coisas melhores pra fazer do que fetch algo mais para você.}
-{141}{}{Well, if you ever change your mind, just go see Mrs. Stapleton
- and then head on back here.}
-{142}{}{Ainda não teve uma chance de ir até o Hub e visitar a Sra. Stapleton?}
-{143}{}{Sim, aqui estão os livros.}
-{144}{}{Ainda não.}
-{145}{}{[Miles takes the books from you, and starts flipping through them.] Hmmmm.
- Yes, hmmmm. [He mumbles to himself for a few more minutes.]
- Well, I think I can figure it out, but it will take a full day
- for the bonding to occur. Is that acceptable?}
-{146}{}{Não é um problema.}
-{147}{}{Lamento, não tenho o tempo.}
-{148}{}{Well, when you have the time, come back and I'll do the process
- on your armor.}
-{149}{}{[Miles toma sua armadura de você.]}
-{150}{}{[Miles hands your armor back to you, it seems to glint a
- little more than it did before.] Well, I think it worked! Hope it helps you out.}
-{151}{}{What happened to your power armor? I can only help you out
- if you have power armor.}
-{152}{}{Bacana ver você, mas eu estou bem no meio de uma pesquisa.}
+{140}{}{Eu tenho coisas melhores pra fazer do que fetch algo mais para voce.}
+{141}{}{Bem, se voce mudar de ideia va ver a Sra. Stapleton
+ e entao volte aqui.}
+{142}{}{Ainda nao teve uma chance de ir ate o Hub e visitar a Sra. Stapleton?}
+{143}{}{Sim, aqui estao os livros.}
+{144}{}{Ainda nao.}
+{145}{}{[Miles pega os livros de voce e comeca a folhear atraves deles.] Hmmmm.
+ Sim, hmmmm. [Ele resmunga pra si mesmo por alguns minutos mais.]
+ Bem, eu acho que eu posso conseguir, mas levara um dia inteiro
+ pra liga acontecer. Isso e aceitavel?}
+{146}{}{Nao e um problema.}
+{147}{}{Lamento, nao tenho o tempo.}
+{148}{}{Bem, quando voce tiver tempo volte e eu farei o processo
+ na sua armadura.}
+{149}{}{[Miles toma sua armadura de voce.]}
+{150}{}{[Miles da sua armadura de volta pra voce, ela parece brilhar um pouco mais
+ mais do que brilhava antes.] Bem, eu acho que funcionou! Espero que ajude voce.}
+{151}{}{O que aconteceu com sua power armor? Eu so posso ajudar voce se
+ voce tem a power armor.}
+{152}{}{Bacana ver voce, mas eu estou bem no meio de uma pesquisa.}
 {153}{}{Nada que eu possa fazer com esse tipo de armadura. Lamento.}

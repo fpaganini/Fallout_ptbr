@@ -1,90 +1,90 @@
-{100}{}{Você vê Irmã Francis.}
-{101}{}{Hi! Oh, it's you! I hope you're not here to kill me. If you don't mind,
- could you wait until after I finish meditando?}
-{102}{}{Oh, é você de novo. Eu não quero ser rude, mas eu estou meditando . . .}
-{103}{}{Excuse me, could you put away your weapon? I can't meditar on peace
- when I'm, like, uh, staring certain death in the face. Thank you very much.}
-{104}{}{You know, there are people who say really bad things about you.
- You ought to do something about that . . .}
-{105}{}{Oi. Eu estou meditando. Você notou? Eu posso ajudar você?}
-{106}{}{Com certeza. Você notou qualquer coisa incomum por aqui?}
-{107}{}{Se importa de compartilhar quaisquer meditações favoritas comigo?}
-{108}{}{Quem está no comando aqui?}
+{100}{}{Voce ve a Irma Francis.}
+{101}{}{Oi! Oh, e voce! Eu espero que voce nao esteja aqui pra me matar. Se
+ voce nao se importa voce poderia esperar ate que eu termine de meditar?}
+{102}{}{Oh, e voce de novo. Eu nao quero ser rude, mas eu estou meditando . . .}
+{103}{}{Me desculpe, voce poderia guardar sua arma? Eu nao posso meditar em paz
+ quando eu estou, tipo, uh, olhando a morte certa na cara. Muito obrigado.}
+{104}{}{Sabe, ha pessoas que dizem coisas realmente ruins sobre voce. Voce
+ deveria fazer algo a respeito disso . . .}
+{105}{}{Oi. Eu estou meditando. Voce notou? Eu posso ajudar voce?}
+{106}{}{Com certeza. Voce notou qualquer coisa incomum por aqui?}
+{107}{}{Se importa de compartilhar quaisquer meditacoes favoritas comigo?}
+{108}{}{Quem esta no comando aqui?}
 {109}{}{Onde eu posso achar o Mestre?}
-{110}{}{I'm looking for large quantities of liquor. I'd like to remove them
- from the premises . . .}
-{111}{}{Tem alguma munição?}
-{112}{}{Hep! Me hep?}
-{113}{}{Olá, irmão. Eu posso ajudar você?}
-{114}{}{Olá, irmã. Eu posso ajudar você?}
-{115}{}{Com certeza. Você notou qualquer coisa incomum por aqui?}
-{116}{}{Se importa de compartilhar quaisquer meditações favoritas comigo?}
-{117}{}{Quem está no comando aqui?}
+{110}{}{Eu estou procurando por grandes quantidade de licor. Eu gostaria de
+ remove-los das premises . . .}
+{111}{}{Tem alguma municao?}
+{112}{}{Ajuda! Mim ajuda?}
+{113}{}{Ola, irmao. Eu posso ajudar voce?}
+{114}{}{Ola, irma. Eu posso ajudar voce?}
+{115}{}{Com certeza. Voce notou qualquer coisa incomum por aqui?}
+{116}{}{Se importa de compartilhar quaisquer meditacoes favoritas comigo?}
+{117}{}{Quem esta no comando aqui?}
 {118}{}{Onde eu posso achar o Mestre?}
-{119}{}{I'm looking for large quantities of liquor. I'd like to remove them
- from the premises . . .}
-{120}{}{Tem alguma munição?}
-{121}{}{Hep! Me hep?}
-{122}{}{Com certeza. Você notou qualquer coisa incomum por aqui?}
-{123}{}{Se importa de compartilhar quaisquer meditações favoritas comigo?}
-{124}{}{Quem está no comando aqui?}
+{119}{}{Eu estou procurando por grandes quantidade de licor. Eu gostaria de
+ remove-los da premises . . .}
+{120}{}{Tem alguma municao?}
+{121}{}{Ajuda! Mim ajuda?}
+{122}{}{Com certeza. Voce notou qualquer coisa incomum por aqui?}
+{123}{}{Se importa de compartilhar quaisquer meditacoes favoritas comigo?}
+{124}{}{Quem esta no comando aqui?}
 {125}{}{Onde eu posso achar o Mestre?}
-{126}{}{I'm looking for large quantities of liquor. I'd like to remove them from
- the premises . . .}
-{127}{}{Tem alguma munição?}
-{128}{}{Hep! Me hep?}
-{129}{}{Well, Padre Morpheus hasn't given any sermons in such a long time. It's
- a pity, because I so love his speeches and everybody seems to be very
- busy with some Crusade.}
-{130}{}{Agora, se você me perdoa, eu devo voltar a meditação.}
-{131}{}{Why I could, but the ones who go through the Servitor process are
- so much better than I am . . . Their minds are so much more focused on the
- Master than mine. Maybe after I get changed, I'll get better.}
-{132}{}{Agora, se você me perdoa, eu devo voltar a meditação.}
-{133}{}{Why, that's Padre Morpheus. He's such a good speaker, he really
- makes Peace and Unity come to life, and when he talks, I can just see those
- Holy Flames!}
-{134}{}{Esse Padre Morpheus, ele com certeza pode falar; e ele é bonito também!}
-{135}{}{I think that's one of the Inner Mysteries that the priests discuss
- upstairs in the Inner Sanctum. I have not been privileged enough for that
- revelation yet, but I'm working at it!}
-{136}{}{Agora, se você me perdoa, eu devo voltar a meditação.}
-{137}{}{My goodness! Alcohol and drugs here! You must be mistaken. The Master
- would never tolerate it. He wants all of his followers to keep their minds
- healthy and pure.}
-{138}{}{Agora, se você me perdoa, eu devo voltar a meditação.}
-{139}{}{I think holy ammunition is available in the Cathedral Gift Shoppe . . .}
-{140}{}{Agora, se você me perdoa, eu devo voltar a meditação.}
-{141}{}{Why no. No help at all. Goodbye.}
-{142}{}{Olá, irmão. No, I've been meditando like a good initiate, waiting
- to be christened by the Servitors. I'm sure there's nothing to worry about.}
-{143}{}{Olá, irmã. No I've been meditando like a good initiate, waiting
- to be christened by the Servitors. I'm sure there's nothing to worry about.}
-{144}{}{The Master is my friend. Unity is prosperity. Peace is prosperity.
- Peace and Unity come through Obedience. Obedience is proven through
- Submission to Authority . . .}
-{145}{}{He who submits will be christened by the Holy Flame, but the faithful
- will not be burned. He who goes through Fire without burning shall have
- life everlasting . . .}
-{146}{}{Eu espero que eu não tenha perdido nada . . .}
-{147}{}{Esta é uma pergunta truque? É o Mestre, certo?}
-{148}{}{Well I've heard that o Mestre can be found in Holy Fire, that he
- waits below for Unity and Peace, and he lives in the hearts and minds
- of all virtuous people . . .}
-{149}{}{Eu nã tenho certeza de qual destas é uma metáfora. Talvez ele esteja em toda parte.}
-{150}{}{Why irmão, nothing so impure profanes the Cathedral. I would let
- the high priests know if such sins were being committed.}
-{151}{}{Why irmã, nothing so impure profanes the Cathedral. I would let
- the high priests know if such sins were being committed.}
-{152}{}{I am armed, of course, if reason will not sway our enemies,
- but I do not arm myself to excess. Is there no ammo in the Gift Shoppe?}
-{153}{}{Oh não, irmão, Eu não preciso de assistência. Por favor me desculpe.}
-{154}{}{Oh não, irmã, Eu não preciso de assistência. Por favor me desculpe.}
-{155}{}{Well, I am told that the Peace and Unity we seek for all creatures
- is unusual, but I hope this will not be the case for much longer.}
-{156}{}{Agora, se você me perdoa, eu devo voltar a meditação.}
-{157}{}{Eu não sei. Talvez ele revelará a si mesmo em tempo.}
+{126}{}{Eu estou procurando por grandes quantidade de licor. Eu gostaria de
+ remove-los das premises . . .}
+{127}{}{Tem alguma municao?}
+{128}{}{Ajuda! Mim ajuda?}
+{129}{}{Bem, o Padre Morpheus nao deu quaisquer sermoes ha muito tempo. E
+ uma pena, porque eu amo tanto os discursos dele e todos parecem estar
+ muito ocupados com alguma crusada.}
+{130}{}{Agora, se voce me perdoa, eu devo voltar a meditacao.}
+{131}{}{Por que eu poderia, mas aqueles que vao atraves do processo dos Servidores
+ sao tao melhores do que eu sou . . . As mentes deles estao muito mais focadas no
+ Mestre do que a minha. Talvez apos eu ser mudado, eu ficarei melhor.}
+{132}{}{Agora, se voce me perdoa, eu devo voltar a meditacao.}
+{133}{}{Por que? Esse e o Padre Morpheus. Ele e um orador tao bom. ele realmente
+ faz a Paz e a Unidade virem a vida, e quando ele fala, eu simplesmente consigo
+ ver aquelas Chamas Sagradas!}
+{134}{}{Esse Padre Morpheus, ele com certeza fala bem; e ele e bonito tambem!}
+{135}{}{Eu acho que esse e um dos Misterios Interiores que os sacerdotes discutem
+ no andar de cima no Santuario Interior. Eu nao fui privilegiado o bastante pra
+ essa revelacao ainda, mas eu estou trabalhando nisso!}
+{136}{}{Agora, se voce me perdoa, eu devo voltar a meditacao.}
+{137}{}{My goodness! Alcool e drogas aqui! Voce deve estar enganado. O Mestre
+ nunca toleraria. Ele quer que todos os seguidores dele mantenham suas mentes
+ saudaveis e puras.}
+{138}{}{Agora, se voce me perdoa, eu devo voltar a meditacao.}
+{139}{}{Eu acho que a municao sagrada esta disponivel na Loja de Presentes da Catedral . . .}
+{140}{}{Agora, se voce me perdoa, eu devo voltar a meditacao.}
+{141}{}{Por que, nao. Nao preciso de ajuda. Adeus.}
+{142}{}{Ola, irmao. Nao, eu estive meditando como um bom iniciado, esperando ser
+ batizado pelos Servidores. Eu tenho certeza que nao ha nada com que se preocupar.}
+{143}{}{Ola, irma. Nao, eu estive meditando como um bom iniciado, esperando ser
+ batizado pelos Servidores. Eu tenho certeza que nao ha nada com que se preocupar.}
+{144}{}{O Mestre e meu amigo. A Unidade e prosperidade. A Paz e prosperidade.
+ A Paz e a Unidade vem atraves da Obediencia. A Obediencia e provada atraves
+ da Submissao a Autoridade . . .}
+{145}{}{Aquele que se submete sera batizado pela Chama Sagrada, mas os fieis nao
+ serao queimados. Aquele que vai atraves do Fogo sem se queimar tera a vida
+ eterna . . .}
+{146}{}{Eu espero que eu nao tenha perdido nada . . .}
+{147}{}{Esta e uma pergunta truque? É o Mestre, certo?}
+{148}{}{Bem, eu ouvi que o Mestre pode ser achado no Fogo Sagrado, que ele
+ espera abaixo pela Unidade e Paz, e que ele vive nos coracoes e mentes
+ de todas as pessoas virtuosas . . .}
+{149}{}{Eu na tenho certeza de qual destas e uma metafora. Talvez ele esteja em toda parte.}
+{150}{}{Why irmao, nada tao impuro profana a Catedral. Eu deixaria os
+ sumos sacerdotes saberem se tais pecados estavam sendo cometidos.}
+{151}{}{Why irma, nada tao impuro profana a Catedral. Eu deixaria os
+ sumos sacerdotes saberem se tais pecados estavam sendo cometidos.}
+{152}{}{Eu estou armado, claro, se a razao nao sway nossos inimigos, mas eu
+ nao me armo em excesso. Nao ha municao na Loja de Presentes?}
+{153}{}{Oh nao, irmao, Eu nao preciso de assistencia. Por favor me desculpe.}
+{154}{}{Oh nao, irma, Eu nao preciso de assistencia. Por favor me desculpe.}
+{155}{}{Bem, me foi dito que a Paz e Unidade que nos procuramos pra todas as criaturas
+ e incomum, mas eu espero que este nao seha o caso por muito mais tempo.}
+{156}{}{Agora, se voce me perdoa, eu devo voltar a meditacao.}
+{157}{}{Eu nao sei. Talvez ele revelara a si mesmo em tempo.}
 {158}{}{[feito]}
 {159}{}{[mais]}
-{160}{}{Olá, senhor. Eu posso ajudar você?}
-{161}{}{Olá, senhorita. Eu posso ajudar você?}
+{160}{}{Ola, senhor. Eu posso ajudar voce?}
+{161}{}{Ola, senhorita. Eu posso ajudar voce?}

@@ -1,41 +1,41 @@
-{100}{}{You see Jasmine.}
-{101}{}{Excuse me, sir, this person is a member of one of the merchant guilds.}
-{102}{}{Let me get this straight; you're shooting my boss and my friends, and you want to talk? Get bent!}
-{103}{}{The door's over there. Don't let it hit you on the way out.}
-{104}{}{Hi. Welcome to the Circle of Thieves. Play your cards right and you're in.}
-{105}{}{Welcome to the Circle of Thieves. I'm Jasmine. I'm here to help make your infiltration of the 
-Daren Hightower estate as painless as possible. Hightower's estate is located in the Heights. It has a 
-minimum of two guards on duty at all times. The necklace is probably in a strongbox, which often have 
-some minor traps, so be careful. Here are some lockpicks and a couple of flares to make your job a little 
-easier.. And a bottle of Nuka-Cola.  Try not to kill Mr. Hightower.  He's one of our "favorite" people. You 
-got all that?}
-{106}{}{What do you mean by "favorite."}
-{107}{}{Lockpicks and Flares? That's all.}
+{100}{}{Você vê Jasmim.}
+{101}{}{Com licença, senhor, essa pessoa é membro de uma das corporações mercantes.}
+{102}{}{Deixe-me ver se entendi; você está atirando em meu chefe e meus amigos e quer conversar? Seja dobrado!}
+{103}{}{A porta está ali. Não deixe que você bata na saída.}
+{104}{}{Oi. Bem-vindo ao Círculo de Ladrões. Jogue suas cartas certas e você está dentro.
+{105}{}{Bem-vindo ao Círculo de Ladrões. Eu sou Jasmine. Estou aqui para ajudar a tornar sua infiltração do
+Daren Hightower propriedade tão indolor quanto possível. A propriedade de Hightower está localizada nas alturas. Tem um
+mínimo de dois guardas de plantão em todos os momentos. O colar é provavelmente em um cofre, que muitas vezes têm
+algumas pequenas armadilhas, então tenha cuidado. Aqui estão alguns lockpicks e um par de foguetes para tornar seu trabalho um pouco
+mais fácil .. E uma garrafa de Nuka-Cola. Tente não matar o Sr. Hightower. Ele é um dos nossos "favoritos". Você
+tem tudo isso?
+{106}{}{O que você quer dizer com "favorito"?}
+{107}{}{Lockpicks e Flares? Isso é tudo.}
 {108}{}{Nuka Cola?}
-{109}{}{Don't kill him? No promises, woman.}
-{110}{}{This job sucks. Find someone else.}
-{111}{}{No problem. I'm outta here.}
+{109}{}{não o mata? Sem promessas, mulher.}
+{110}{}{Este trabalho é uma droga. Encontre outra pessoa.}
+{111}{}{Não tem problema. Estou fora daqui.}
 {112}{}{Runk!}
-{113}{}{Excuse me, sir, but shouldn't you be working on your assignment?}
-{114}{}{Excuse me, miss, but shouldn't you be working on your assignment?}
-{117}{}{Hi again. If you've got the necklace, you'll have to give it to Mr. Loxley before you get your reward.}
-{118}{}{Well done, lad.  Here's your reward.  [Jasmine gives you 3000 bucks]}
-{119}{}{Well done, miss.  Here's your reward.  [Jasmine gives you 3000 bucks]}
-{121}{}{By the way, here's a little something extra to help you out in your future felonious forays.}
-{122}{}{Hello again.}
-{123}{}{Well, he's been our benefactor on many occasions. If you kill him, someone smarter may take his place. 
-We wouldn't like that.}
-{124}{}{Pfah! A real thief lives on her wits. We're being generous with you. Now scat!}
-{125}{}{They're our corporate sponsor. Loxley got thirsty, and they "donated" several dozen bottles to us. Real
- nice of them to help us out.}
-{126}{}{Hmm, don't think I like the attitude. Oh well, nobody's perfect.}
-{127}{}{Fine. I think I can speak for Mr. Loxley when I say that I hope we never cross paths again. Get out of
- here.}
-{128}{}{Good luck. Diamonds are my second favorite thing in the world!}
-{129}{}{Right. Runk. Sure.}
-{130}{}{We warned you, but you didn't listen. Too bad about that hearing problem.}
-{131}{}{I think you just failed the test! Don't come back.}
-{132}{}{Excuse me, sir, this person is a member of one of the merchant guilds.}
-{133}{}{We warned you, but you didn't listen. Too bad about that hearing problem.}
-{134}{}{Pfah! A real thief lives on her wits. We're being generous with you miss. Now scat!}
-{135}{}{[Jasmine hands you a set of Electronic Lockpicks]}
+{113}{}{Com licença, senhor, mas você não deveria estar trabalhando na sua tarefa?}
+{114}{}{Com licença, senhorita, mas você não deveria estar trabalhando na sua tarefa?}
+{117}{}{Oi novamente. Se você tiver o colar, terá que entregá-lo ao Sr. Loxley antes de receber sua recompensa.}
+{118}{}{Bem feito, rapaz. Aqui está sua recompensa. [Jasmine dá 3000 dólares]}
+{119}{}{Bem feito, senhorita. Aqui está sua recompensa. [Jasmine dá 3000 dólares]}
+{121}{}{A propósito, aqui está algo extra para ajudá-lo em suas futuras incursões criminosas.}
+{122}{}{Olá de novo.}
+{123}{}{Bem, ele tem sido nosso benfeitor em muitas ocasiões. Se você matá-lo, alguém mais esperto pode tomar o seu lugar.
+Nós não gostaríamos disso.}
+{124}{}{Pfah! Um verdadeiro ladrão vive em sua inteligência. Estamos sendo generosos com você. Agora scat!}
+{125}{}{Eles são nossos patrocinadores corporativos. Loxley ficou com sede e eles "doaram" várias dúzias de garrafas para nós. Real
+ bom deles para nos ajudar.}
+{126}{}{Hmm, não pense que eu gosto da atitude. Bem, ninguém é perfeito.}
+{127}{}{Ótimo. Acho que posso falar pelo Sr. Loxley quando digo que espero nunca mais nos cruzarmos. Saia de
+ Aqui.}
+{128}{}{Boa sorte. Os diamantes são minha segunda coisa favorita no mundo!}
+{129}{}{Certo. Runk Certo.}
+{130}{}{Nós te avisamos, mas você não escutou. Muito ruim com esse problema de audição.}
+{131}{}{Eu acho que você acabou de falhar no teste! Não volte.}
+{132}{}{Com licença, senhor, essa pessoa é membro de uma das corporações mercantes.}
+{133}{}{Nós te avisamos, mas você não escutou. Muito ruim com esse problema de audição.}
+{134}{}{Pfah! Um verdadeiro ladrão vive em sua inteligência. Estamos sendo generosos com você, senhorita. Agora scat!}
+{135}{}{[Jasmine entrega um conjunto de Lockpicks Eletrônicos]}

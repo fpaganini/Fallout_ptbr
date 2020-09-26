@@ -1,119 +1,119 @@
-{100}{}{You see Jain}
-{101}{JAIN00}{Why do you disturb an elder of the Cathedral?}
-{102}{}{I have come seeking a blessing.}
-{103}{}{I'm interested in your church, and I want some information. Do you have any pamphlets?}
-{104}{}{Just looking around.}
-{105}{}{Mom?}
-{106}{JAIN01}{I am hardly your mother.}
+{100}{}{Voce ve o Jain}
+{101}{JAIN00}{Por que voce perturba um elder da Catedral?}
+{102}{}{Eu vim procurando uma bençao.}
+{103}{}{Eu estou interessado na sua igreja, e eu quero um pouco de informaçao. Voce tem quaisquer panfletos?}
+{104}{}{Apenas olhando por ai.}
+{105}{}{Mae?}
+{106}{JAIN01}{Eu dificilmente sou sua mae.}
 {107}{}{Nuh-uh?}
-{108}{}{Poopie!}
-{109}{JAIN02}{How dare you speak to me in that manner! You will be punished for your insolence! Guards!}
-{110}{JAIN03}{Perhaps one of our priests will discuss your needed education. Leave now.}
-{111}{JAIN04}{Have you studied the sacraments, child?}
-{112}{}{Yes.}
-{113}{}{No.}
-{114}{JAIN05}{Then you would have known high elders of the Cathedral do not just 'hand out' blessings. You will leave now.}
-{115}{JAIN07}{Continue to mock me and I will have you thrown out.}
-{116}{}{But I'm not mocking you, honest.}
-{117}{}{Mock you? Now why would I do something like that?!}
-{118}{}{It's obvious that kindness and good temper aren't part of this religion.}
-{119}{}{Sorry, I think I'll be leaving now.}
-{120}{JAIN08}{You will pay for those heretical words.}
-{121}{JAIN09}{Your words do not match your conviction. They burn of the heresy within. You will be cleansed, then forgotten.}
-{122}{JAIN10}{Then why are you here? What would bring you to the Children of the Cathedral?}
-{123}{}{I am a seeker of knowledge. I would like to learn more.}
-{124}{}{I need to know how to burn this place down, so I was looking for structural weaknesses.}
-{125}{}{I'm just looking.}
-{126}{JAIN11}{Are you a Child?}
-{127}{}{Lady, do I look that young to you?}
-{128}{}{Am I one of the Children of the Cathedral? No.}
-{129}{}{I am a devout believer.}
-{130}{JAIN12}{Then you should know better then to be here. I would caution you about your manners. Leave.}
+{108}{}{Cocozinho!}
+{109}{JAIN02}{Como ousa voce falar comigo dessa maneira? Voce sera punido por sua insolencia! Guardas!}
+{110}{JAIN03}{Talvez um de nossos sacerdotes discutira sua necessaria educaçao. Saia agora.}
+{111}{JAIN04}{Voce estudou os sacramentos, criança?}
+{112}{}{Sim.}
+{113}{}{Nao.}
+{114}{JAIN05}{Entao voce teria sabido que os sumos elders da Catedral nao 'dao' bençaos. Voce saira agora.}
+{115}{JAIN07}{Continue a zombar de mim e eu farei voce ser expulso.}
+{116}{}{Mas eu nao estou zombando de voce, verdade.}
+{117}{}{Zombar de voce? Agora por que faria algo assim?!}
+{118}{}{E obviou que bondade e bom temperamento nao sao parte desta religiao.}
+{119}{}{Lamento, eu acho que eu sairei agora.}
+{120}{JAIN08}{Voce pagara por essas palavras hereticas.}
+{121}{JAIN09}{Suas palavras nao combinam com sua convicçao. Elas queimam da sua heresia interior. Voce sera limpo, entao esquecido.}
+{122}{JAIN10}{Entao por que voce esta aqui? O que traria voce ate as Crianças da Catedral?}
+{123}{}{Eu sou um buscador de conhecimento. Eu gostaria de aprender mais.}
+{124}{}{Eu preciso saber como queimar este lugar, entao eu estava procurando por fraquezas estruturais.}
+{125}{}{Eu estou apenas olhando.}
+{126}{JAIN11}{Voce e uma Criança?}
+{127}{}{Senhora, eu pareço tao jovem assim pra voce?}
+{128}{}{Se eu sou uma das Crianças da Catedral? Nao.}
+{129}{}{Eu sou um crente devoto.}
+{130}{JAIN12}{Entao voce deveria saber mais do que estar aqui. Eu would caution voce sobre seus modos. Saia.}
 {131}{}{OK.}
-{132}{}{Bite me.}
-{133}{JAIN13}{Are you interested in converting to our faith? We can offer you what no one else can...}
-{134}{}{And what's that?}
-{135}{}{No, not interested. I think you're a bunch of kooks.}
-{136}{JAIN14}{A lifetime of contentment. Fulfillment in the knowledge you're working to rebuild the planet and make a better place for those that follow.}
-{137}{}{Sounds very interesting, could you tell me more? I seek fulfillment.}
-{138}{}{Oh yeah, I bet there's a lot of rebuilding going on and I'm sure your cups are overflowing with fulfillment.}
-{139}{}{I don't think so. Sounds a little fishy to me.}
-{140}{JAIN15}{Believe what you will. Just do it elsewhere. You may leave.}
-{141}{JAIN17}{Mocking our holy cause is not appreciated. You will be punished if you continue.}
-{142}{}{And who's going to do the punishing? Ooh, I'd like to request the extra hard whip, if you don't mind.}
-{143}{}{Sorry.}
-{144}{JAIN18}{When the Children walk the reborn land, your kind will vanish, heretic. Leave now.}
-{145}{JAIN19}{I am not completely devoid of humor, but leading the Children is something I take seriously. Please remember that.}
-{146}{}{Sorry, I'm not that familiar with the Children.}
-{147}{}{OK. Bye.}
-{148}{JAIN20}{You are in the right place for spiritual fulfillment. The Children of the Cathedral seek a peaceful resolution of our world's problems and could use your help.}
-{149}{}{What are the Children's plans for mutants?}
-{150}{}{How can Children find peace in this wasteland?}
-{151}{JAIN21}{Those that can be brought into the fold, shall be. Those that resist will suffer.}
-{152}{}{Sounds like a tough job.}
-{153}{}{Now it's time for you to have a little suffering.}
-{154}{}{As it should be. May you succeed in your crusade!}
-{155}{}{Uh, I got to go.}
-{156}{JAIN22}{With perseverance, the Children can accomplish anything. We will not fail.}
-{157}{}{Good. I hope you don't.}
-{158}{}{Yeah, right. Whatever.}
-{159}{}{Okay. Bye.}
-{160}{JAIN26}{Blasphemer! This is a Holy House! How could you think such a thing?}
-{161}{}{Relax, I didn't mean it!}
-{162}{}{Easy. Let me show you.}
-{163}{JAIN27}{Blessings of the Holy Flame to you, my Child.}
-{164}{}{Who's the Holy Flame?}
-{165}{}{This place is a sham.}
-{166}{}{And to you, Priestess Jain. Goodbye.}
+{132}{}{Me morda.}
+{133}{JAIN13}{Voce esta interessado em se converter a nossa fe? Nos podemos oferecer o que ninguem mais pode...}
+{134}{}{E o que e isso?}
+{135}{}{Nao, nao interessado. Eu acho que voces sao um bando de kooks.}
+{136}{JAIN14}{Uma existencia de contentamento. Preechimento no conhecimento que voce esta trabalhando pra reconstruir o planeta e fazer um lugar melhor pra aqueles que o seguem.}
+{137}{}{Soa muito interessante, voce poderia me dizer mais? Eu procuro preenchimento.}
+{138}{}{Oh sim, eu aposto que ha muita reconstruçao acontecendo e eu tenho certeza que seus copos estao sobrecarregados com preenchimento.}
+{139}{}{Eu acho que nao. Soa um pouco fishy pra mim.}
+{140}{JAIN15}{Acredite no que voce quiser. Apenas faça-o em outro lugar. Voce pode sair.}
+{141}{JAIN17}{Fazer piada da nossa santa causa nao e apreciado. Voce sera punido se voce continuar.}
+{142}{}{E quem vai fazer a puniçao?? Uh, eu gostaria de pedir o chicote extra duro se voce nao se importar.}
+{143}{}{Lamento.}
+{144}{JAIN18}{Quando as Crianças caminharem na terra renascida, seu tipo desaparecera, herege. Saia agora.}
+{145}{JAIN19}{Eu nao sou completamente vazio de humor, mas liderar as Crianças e algo que eu levo a serio. Por favor lembre-se disso.}
+{146}{}{Lamento, Eu nao estou familiar com as Crianças.}
+{147}{}{OK. Tchau.}
+{148}{JAIN20}{Voce esta no lugar certo para o preenchimento espiritual. As Crianças da Catedral procuram uma resoluçao pacifica dos problemas do nosso mundo e poderiam usar sua ajuda.}
+{149}{}{Quais sao os planos das Crianças pros mutantes?}
+{150}{}{Como podem as Crianças achar paz nesta terra devastada?}
+{151}{JAIN21}{Aqueles que podem ser trazidos no fold, serao. Aqueles que resistem sofrerao.}
+{152}{}{Soa como um trabalho dificil.}
+{153}{}{Agora e hora de voce ter um pouco de sofrimento.}
+{154}{}{Como deve ser. Que voce possa ser bem sucedido em sua cruzada!}
+{155}{}{Uh, eu tenho que ir.}
+{156}{JAIN22}{Com perseverança, as Crianças podem realizar qualquer coisa. Nos nao falharemos.}
+{157}{}{Bom. Eu espero que nao.}
+{158}{}{Sim, certo. Que seja.}
+{159}{}{Ok. Tchau.}
+{160}{JAIN26}{Blasfemo! Esta e uma Casa Sagrada! Como voce poderia pensar tal coisa?}
+{161}{}{Relaxe, eu nao quis dizer isto!}
+{162}{}{Facil. Deixe-me mostrar a voce.}
+{163}{JAIN27}{Bençaos da Chama Sagrada pra voce, minha Criança.}
+{164}{}{Quem e a Chama Sagrada?}
+{165}{}{Este lugar e um sham.}
+{166}{}{E pra voce, Sacerdotisa Jain. Adeus.}
 {167}{}{Ug luk to ruk?}
 {168}{}{Ooook!}
-{169}{JAIN28}{Once you had potential. You are no longer welcome here.}
-{170}{JAIN29}{You are not welcome here. Please leave.}
-{171}{JAIN30}{What brings you here?}
-{172}{}{I have slain the Master, and I believe he was masquerading as the Holy Flame.}
-{173}{}{You have been freed from the oppression of the Master.}
+{169}{JAIN28}{Uma vez voce tinha potencial. Voce nao e mais bem-vindo aqui.}
+{170}{JAIN29}{Voce nao e bem-vindo aqui. Por favor saia.}
+{171}{JAIN30}{O que traz voce aqui?}
+{172}{}{Eu assassinei o Mestre, e eu acredito que ele estava se mascarando como a Chama Sagrada.}
+{173}{}{Voces foram libertos da opressao do Mestre.}
 {174}{}{Mu tuk doh tub?}
-{175}{}{Feeties.}
-{176}{JAIN31}{You have done what? You shall pay for your sin against the Holy Flame himself.}
-{177}{JAIN32}{The who?}
-{178}{}{The master. He was going to unite the mutants and take over the world.}
-{179}{}{Don't worry about it.}
-{180}{JAIN33}{You appear delusional. I suggest seeing a counselor to work out your problems.}
-{181}{JAIN204}{I told you to leave. Are you deaf or feeble?}
-{182}{JAIN200}{Leave this room immediately or I will have you cleansed by holy flame.}
-{183}{JAIN202}{There is no one greater then the Holy Flame and we are His servants.}
-{184}{}{Really? Wow. So, what's the reason for someone to join your order?}
-{185}{}{Uh, okay. Bye.}
-{186}{JAIN27}{Blessings of the Holy Flame to you, my Child.}
-{187}{JAIN22}{With perseverance, the Children can accomplish anything. We will not fail.}
-{188}{JAIN201}{That is not an appropriate question.}
+{175}{}{Pezinhos.}
+{176}{JAIN31}{Voce fez o que? Voce pagara pelo seu pecado contra a Chama Sagrada.}
+{177}{JAIN32}{O quem?}
+{178}{}{O Mestre. Ele ia unir os mutantes e dominar o mundo.}
+{179}{}{Nao se preocupe a respeito disso.}
+{180}{JAIN33}{Voce aparenta ser iludido. Eu sugiro ver um conselheiro pra trabalhar nos seus problemas.}
+{181}{JAIN204}{Eu disse a voce pra sair. Voce e surdo ou feeble?}
+{182}{JAIN200}{Saia desta sala imediatamente ou eu farei voce ser purificado pela Chama Sagrada.}
+{183}{JAIN202}{Nao ha ninguem maior do que a Chama Sagrada e nos somos os servos dele.}
+{184}{}{Mesmo? Uau. Entao, qual e o motivo pra alguem se juntar a sua ordem?}
+{185}{}{Uh, ok. Tchau.}
+{186}{JAIN27}{Bençaos da Chama Sagrada pra voce, minha Criança.}
+{187}{JAIN22}{Com perseverança, as Crianças podem realizar qualquer coisa. Nos nao falharemos.}
+{188}{JAIN201}{Essa nao e uma pergunta apropriada.}
 
 #Tell Me Abouts
 
-{1000}{}{War}
-{1001}{}{Master}
-{1002}{}{Cathedral}
-{1003}{}{Mutants}
+{1000}{}{Guerra}
+{1001}{}{Mestre}
+{1002}{}{Catedral}
+{1003}{}{Mutantes}
 {1004}{}{Hub}
-{1005}{}{Steel}
+{1005}{}{Aço}
 {1006}{}{Vats}
-{1007}{}{Holy}
-{1008}{}{Unity}
-{1009}{}{Brotherhood}
-{1010}{}{Flame}
-{1011}{}{Children}
+{1007}{}{Santo}
+{1008}{}{Unidade}
+{1009}{}{Irmandade}
+{1010}{}{Chama}
+{1011}{}{Criancas}
 
 
-{1100}{JAIN300}{It was the cleansing of the planet.  The inattention by those who came before caused the holy fires.  It was justice.}
-{1101}{JAIN301}{There is no Master but the Holy Flame.  He is our master, He is the Master of all.}
-{1102}{JAIN302}{The will of the Holy One brings a rebirth to the planet.  We are His Children and carry out His plan.}
-{1103}{JAIN303}{They are holy for they bear marks of past sins for present witnesses.}
-{1104}{JAIN304}{Like many other cities, they will embrace the moral leadership of the Cathedral.}
-{1105}{JAIN305}{They claim a religious foundation, but lack that which would make them truly righteous.  Their zeal is refreshing, however.}
-{1106}{JAIN306}{I have never heard of such things.}
-{1107}{JAIN308}{The Holiest of Holies.  He is the guiding light we follow.  He shall cleanse those unfaithful when the Nexus of Rebirth is reached.}
-{1108}{JAIN309}{It is the uniting, by the Holy Flame, of all people, of all races and the cleansing of the heathens from this world.}
-{1109}{JAIN305}{They claim a religious foundation, but lack that which would make them truly righteous.  Their zeal is refreshing, however.}
-{1110}{JAIN308}{The Holiest of Holies.  He is the guiding light we follow.  He shall cleanse those unfaithful when the Nexus of Rebirth is reached.}
-{1111}{JAIN302}{The will of the Holy One brings a rebirth to the planet.  We are His Children and carry out His plan.}
+{1100}{JAIN300}{Foi a purificaçao do planeta. A inatençao daqueles que vieram antes causou as chamas sagradas. Foi justiça.}
+{1101}{JAIN301}{Nao ha Mestre mas a Chama Sagrada. Ele e nosso mestre, ele e o mestre de todos.}
+{1102}{JAIN302}{A vontade do santo traz um renascimento para o planeta. Nos somos as Crianças dele e executamos o plano dele.}
+{1103}{JAIN303}{Eles sao santos pois eles carregam as marcas de pecados passados para as testemunhas do presente.}
+{1104}{JAIN304}{Como muitas outras cidades, eles abraçarao a liderança moral da Catedral.}
+{1105}{JAIN305}{Eles clamam uma fundaçao religiosa, mas tem falta daquilo que os tornaria verdadeiramente corretos. Contudo, o zelo deles e estimulante.}
+{1106}{JAIN306}{Eu nunca ouvi sobre tais coisas.}
+{1107}{JAIN308}{O mais santo dos santos. Ele e a luz guia que nos seguimos. Ele purificara aqueles infieis quando o Nexo do Renascimento foi alcançado.}
+{1108}{JAIN309}{E o unir, pela Chama Sagrada, de todas as pessoas, de todas as raças e a purificaçao dos heathens deste mundo.}
+{1109}{JAIN305}{Eles clamam uma fundaçao religiosa, mas tem falta daquilo que os tornaria verdadeiramente corretos. Contudo, o zelo deles e estimulante.}
+{1110}{JAIN308}{O mais santo dos santos. Ele e a luz guia que nos seguimos. Ele purificara aqueles infieis quando o Nexo do Renascimento foi alcançado.}
+{1111}{JAIN302}{A vontade do santo traz um renascimento para o planeta. Nos somos as Crianças dele e executamos o plano dele.}
 

@@ -9,7 +9,7 @@
 {108}{}{Pegou qualquer coisa boa pra negociar?}
 {109}{}{O que você pegou?}
 {110}{}{Me faca uma oferta.}
-{111}{}{I'll cut you a deal.}
+{111}{}{Vou fazer um acordo com você.}
 {112}{}{Venha de novo.}
 {113}{}{Obrigado, vejo você de novo em breve.}
 {114}{}{Tchau.}

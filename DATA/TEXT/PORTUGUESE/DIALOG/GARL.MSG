@@ -1,172 +1,172 @@
-{100}{}{You see before you, Garl, leader of the Raiders.}
-{101}{}{You think you can come here without challenge?
- This, the home of your deadliest enemies? We will
- see you dead. I will personally tear your heart
- out of your chest and eat it before my proud
- warriors!}
-{102}{}{I killed you!}
-{103}{}{I don't get it.}
-{104}{}{Yes, you did. I've come back to haunt you.}
-{105}{}{You should not have done that.}
-{106}{}{I killed you!}
-{107}{}{I don't get it.}
-{108}{}{Yes, you did. I've come back to haunt you.}
-{109}{}{You should not have done that.}
-{110}{}{You would if you were my father, but you are not.
- You look like he did, but act different. No image
- of him remains to this day. You will just have to
- be removed.}
-{111}{}{I don't believe it! I can't believe it!}
-{112}{}{Believe this buddy, and you're about to join me in Hell!}
-{113}{}{Don't tell me what I should have done, father. I rule the
- Khans now, and you are but worm meat.}
-{114}{}{I still live.}
-{115}{}{I should have killed you when you were a child.}
-{116}{}{Don't tell me what I should have done, father. I rule the
- Khans now, and you are but worm meat.}
-{117}{}{I still live.}
-{118}{}{I should have killed you when you were a child.}
-{119}{}{You should have. Now it's too late. I am Garl Death-Hand.
- I rule the Khans. You should be dead in your grave, and
- you will be again!}
-{120}{}{I can see you standing before me, but I don't believe
- it. What do you want?}
-{121}{}{I want the girl set free. Now.}
-{122}{}{I want you to step down.}
-{123}{}{I want riches to buy my way into Heaven.}
-{124}{}{Pledge that you shall return to the grave, and it shall
- be so.}
-{125}{}{I swear that I will leave.}
-{126}{}{So be it. Release the Shady Sands woman and escort
- this one out of here . . .}
-{127}{}{You don't rule here. You don't belong here. Death
- to the walking dead!}
-{128}{}{Never!}
-{129}{}{That's what I like. Initiative. But you should not have
- killed them without my orders. I don't like too much
- initiative.}
-{130}{}{What do you want?}
-{131}{}{I want you to set the girl free.}
-{132}{}{I want you to die.}
-{133}{}{I've come in peace to negotiate the release of Tandi.}
+{100}{}{Voce ve diante de voce, Garl, lider dos Saqueadores.}
+{101}{}{Voce acha que voce pode vir aqui sem um desafio?
+ Este, o lar dos seus inimigos mais mortais? Nos veremos
+ voce morto. Eu pessoalmente arrancarei seu coraçao fora
+ do seu peito e o comerei diante dos meus guerreiros
+ orgulhosos!}
+{102}{}{Eu matei voce!}
+{103}{}{Eu nao entendo.}
+{104}{}{Sim, voce matou. Eu voltei pra assombrar você.}
+{105}{}{Voce nao deveria ter feito isso.}
+{106}{}{Eu matei voce!}
+{107}{}{Eu nao entendo.}
+{108}{}{Sim, voce matou. Eu voltei pra assombrar voce.}
+{109}{}{Voce nao deveria ter feito isso.}
+{110}{}{Voce poderia se voce fosse meu pai, mas voce nao e.
+ Voce se parece com ele, mas age diferente. Nenhuma imagem
+ dele permanece neste dia. Voce simplesmente tera de
+ ser removido.}
+{111}{}{Eu nao acredito! Eu nao consigo acreditar!}
+{112}{}{Acredite nisto amigo, e voce esta prestes a se juntar a mim no inferno!}
+{113}{}{Nao me diga o que eu deveria ter feito, pai. Eu mando nos
+ Khans agora, e voce e nada alem de comida de minhoca.}
+{114}{}{Eu ainda vivo.}
+{115}{}{Eu deveria ter matado voce quando voce era uma criança.}
+{116}{}{Nao me diga o que eu deveria ter feito, pai. Eu mando nos
+ Khans agora, e voce e nada alem de comida de minhoca.}
+{117}{}{Eu ainda vivo.}
+{118}{}{Eu deveria ter matado voce quando voce era uma criança.}
+{119}{}{Voce deveria ter. Agora e tarde demais. Eu sou Garl Mao-da-Morte.
+ Eu comando os Khans. Voce deveria estar morto no seu tumulo, e voce
+ estara de novo!}
+{120}{}{Eu consigo ver voce de pe diante de mim, mas eu nao acredito.
+ O que voce quer?}
+{121}{}{Eu quero a garota livre. Agora.}
+{122}{}{Eu quero que voce renuncie.}
+{123}{}{Eu quero riqueza pra comprar meu caminho pro paraiso.}
+{124}{}{Pledge que voce retornara para o tumulo, e sera
+ assim.}
+{125}{}{Eu juro que eu sairei.}
+{126}{}{Entao que seja. Liberte a mulher de Shady Sants e escolte
+ este cara pra fora daqui . . .}
+{127}{}{Voce nao manda aqui. Voce nao pertence a este lugar. Morte
+ para os mortos andantes!}
+{128}{}{Nunca!}
+{129}{}{Isso e o que eu gosto. Iniciativa. Mas voce nao deveria
+ ter matado eles sem minhas ordens. Eu nao gosto de iniciativa
+ demais.}
+{130}{}{O que voce quer?}
+{131}{}{Eu quero que voce liberte a garota.}
+{132}{}{Eu quero que voce morra.}
+{133}{}{Eu vim em paz pra negociar a libertaçao de Tandi.}
 {134}{}{Hngh!}
-{135}{}{What makes you think I have her?}
-{136}{}{I know you do. I followed you here.}
-{137}{}{One of your followers told me.}
-{138}{}{I know.}
-{139}{}{I hate it when they do that. I will have to make that
- loudmouth pay for his crimes. After I finish up with you.}
-{140}{}{Hmmm. Well, then. What do you offer for her release?}
-{141}{}{I represent a threat you don't even understand. Do you really
- want to risk our wrath.}
-{142}{}{I will give you something of equal value.}
-{143}{}{It would be good for your eternal soul.}
-{144}{}{Your blood, spilled on the ground.}
-{145}{}{Hmmm. For some reason, I believe you. You may take the
- girl, but do not return unless you seek our wrath.}
-{146}{}{Ha! You should not threaten your betters.}
-{147}{}{It must be valuable indeed. Show me.}
-{148}{}{It pleases me. You may take the girl, but do not return.}
-{149}{}{Your bribe is not worth my time. Kill him.}
-{150}{}{You think a man such as I believes in the afterlife?
- This world is dying, and I shall take what I want!
- You will never realize the strength required to make
- such a decision!}
-{151}{}{What do you want now?}
-{152}{}{Nothing.}
-{153}{}{I want the girl.}
+{135}{}{O que faz voce pensar que eu a tenho?}
+{136}{}{Eu sei que voce a tem. Eu segui voce ate aqui.}
+{137}{}{Um dos seus seguidores me disse.}
+{138}{}{Eu sei.}
+{139}{}{Eu odeio quando eles fazem isso. Eu terei que fazer aquele
+ falador pagar pelos crimes dele. Apos eu acabar com voce.}
+{140}{}{Hmmm. Bem, entao. O que voce oferece pela libertaçao dela?}
+{141}{}{Eu represento uma ameaça que voce nem ao menos entende. Voce
+ realmente quer arriscar com a nossa ira?}
+{142}{}{Eu darei a voce algo de igual valor.}
+{143}{}{Seria bom pra sua alma eterna.}
+{144}{}{Seu sangue, derramado no chao.}
+{145}{}{Hmmm. Por alguma razao, eu acredito em voce. Voce pode levar
+ a garota, mas nao retorne a menos que voce procure nossa ira.}
+{146}{}{Ha! Voce nao deveria ameaçar os que sao melhores do que voce.}
+{147}{}{Deve ser valioso de fato. Me mostre.}
+{148}{}{Me agrada. Voce pode levar a garota, mas nao retorne.}
+{149}{}{Seu suborno nao vale meu tempo. Matem ele.}
+{150}{}{Voce acha que um homem tal como eu acredita no pos-vida?
+ Este mundo esta morrendo e eu tomarei o que eu quiser!
+ Voce nunca percebera a força requerida pra fazer tal
+ decisao!}
+{151}{}{O que voce quer agora?}
+{152}{}{Nada.}
+{153}{}{Eu quero a garota.}
 {154}{}{Lorrk.}
-{155}{}{Then you disturb me. Leave.}
-{156}{}{You are barely tolerated by us. Why should we give
- one of our most prized possessions to you?}
-{157}{}{It is only right.}
-{158}{}{I have something of equal value.}
-{159}{}{You will be allowed to live.}
-{160}{}{Right?! I determine what is right around here. You
- are treading on dangerous ground.}
-{161}{}{I'm sorry.}
-{162}{}{Why should I care? I'm taking the girl.}
-{163}{}{Yes, indeed you are. I don't tolerate frightened
- curs that have no backbone. And what we don't
- tolerate, we destroy. Kill him.}
-{164}{}{Would you be willing to fight me over her?}
-{165}{}{No, I'm a lover, not a fighter.}
-{166}{}{Of course. Right now, just you and me.}
-{167}{}{I'll take you and your whole gang on.}
-{168}{}{Fine. We shall settle this with no weapons. Knock me
- out, and I'll let you take the woman and leave. I
- knock you out, you leave without her.}
-{169}{}{Bem.}
-{170}{}{This will be interesting, but not very sporting.
- Very well, let's do it.}
+{155}{}{Entao voce me perturba. Saia.}
+{156}{}{Voce mal e tolerado por nos. Por que nos deveriamos dar uma
+ das nossas possessoes mais preciosas pra voce?}
+{157}{}{Por que e certo.}
+{158}{}{Eu tenho algo de igual valor.}
+{159}{}{Voce podera viver.}
+{160}{}{Certo?! Eu determino o que e certo por aqui. Voce
+ esta trilhando em um solo perigoso.}
+{161}{}{Eu lamento.}
+{162}{}{Por que eu deveria me importar? Eu estou levando a garota.}
+{163}{}{Sim, de fato voce e. Eu nao tolero vira-latas
+ assustados que nao tem coragem. E o que nos nao
+ toleramos nos destruimos. Matem ele.}
+{164}{}{Voce desejaria lutar contra mim por ela?}
+{165}{}{Nao, eu sou um amante, nao um lutador.}
+{166}{}{Claro. Agora mesmo, apenas voce e eu.}
+{167}{}{Eu enfrentarei voce e sua gangue inteira.}
+{168}{}{Certo. Nos resolveremos isto sem armas. Me
+ nocauteie e eu deixarei voce levar a mulher e
+ sair. Eu nocauteio voce, voce sai sem ela.}
+{169}{}{Certo.}
+{170}{}{Isto sera interessante, mas nao muito esportivo.
+ Muito bem, vamos faze-lo.}
 {171}{}{OK.}
-{172}{}{Hmm, you fight better then I expected. I haven't
- had a good beating since my father slapped me
- around the room. You deserve the Shady Sands
- woman. Take her and leave. I wouldn't come back.}
-{173}{}{Take your miserable hide and leave. If you ever
- return, I will not be so gentle.}
-{174}{}{What do you want?}
-{175}{}{I'm an explorer.}
-{176}{}{I want to join.}
-{177}{}{We don't like those kind of people. We can't have that
- here. Kill him.}
-{178}{}{You? Want to join us? Whatever for?}
-{179}{}{To kick some serious ass.}
-{180}{}{I like you guys. I want to bond with you.}
-{181}{}{The Raiders only accept the meanest and toughest SOBs
- around. You have to be bloodthirsty, violent, extreme.
- I don't think you can handle that. Can you?}
-{182}{}{Yes.}
-{183}{}{No.}
-{184}{}{Then you had better leave. I would not return.}
-{185}{}{I grow tired of these women. Kill them.}
-{186}{}{No!}
+{172}{}{Hmm, voce luta melhor do que eu esperava. Eu nao
+ tive uma boa surra desde que meu pai me estapeou na
+ sala. Voce merece a mulher de Shady Sands. Leve ela
+ e saia. Eu nao voltaria.}
+{173}{}{Leve seu corpo miseravel e saia. Se voce retornar,
+ eu nao serei tao gentil.}
+{174}{}{O que voce quer?}
+{175}{}{Eu sou um explorador.}
+{176}{}{Eu quero me unir.}
+{177}{}{Nos nao gostamos desses tipos de pessoas. Nos nao
+ podemos ter isso aqui. Matem ele.}
+{178}{}{Voce? Quer se unir a nos? Para o que?}
+{179}{}{Pra chutar alguns traseiros.}
+{180}{}{Eu gosto de voces caras. Eu quero me ligar a voces.}
+{181}{}{Os Saqueadores so aceitam os FDPs mais malvados e duroes
+ por ai. Voce tem que ser sedento de sangue, violento, extremo.
+ Eu nao acho que voce consiga lidar com isso. Voce consegue?}
+{182}{}{Sim.}
+{183}{}{Nao.}
+{184}{}{Entao melhor voce sair. Eu nao retornaria.}
+{185}{}{Eu fiquei cansado demais destas mulheres. Matem elas.}
+{186}{}{Nao!}
 {187}{}{OK.}
-{188}{}{You have proved my point. Only the Raiders posses
- the will to survive! You do not. Kill him.}
-{189}{}{You have proved my point. Only the Raiders posses
- the will to survive! You do not. Kill her.}
-{190}{}{Scum! You will pay for that!}
-{191}{}{Ha! I like your style. A little sloppy, but it works.
- Consider yourself a friend of the Raiders. Leave my
- sight now.}
-{192}{}{What do you want now?}
-{193}{}{Nothing.}
-{194}{}{I want some weapons and armor.}
+{188}{}{Voce provou meu ponto. So os Saqueadores possuem
+ a vontade de sobreviver! Voce nao. Matem ele.}
+{189}{}{Voce provou meu ponto. So os Saqueadores possuem
+ a vontade de sobreviver! Voce nao. Matem ela.}
+{190}{}{Escoria! Voce pagara por isso!}
+{191}{}{Ha! Eu gosto do seu estilo. Um pouco sloppy, mas
+ funciona. Considere-se um amigo dos Saqueadores. Saia
+ da minha vista agora.}
+{192}{}{O que voce quer now?}
+{193}{}{Nada.}
+{194}{}{Eu quero algumas armas e armadura.}
 {195}{}{Grawp.}
-{196}{}{You must fend for yourself.}
-{197}{}{How dare you return to my sight? Kill him!}
-{198}{}{How dare you return to my sight? Kill her!}
-{200}{}{I came to party with you guys!}
-{201}{}{Well go get some more booze and women for our party.}
-{203}{}{I'll fight you one-on-one for Tandi.}
-{204}{}{You're no Raider, you deserve no honor.}
-{205}{}{Your bribe is not worth my time. Kill her.}
-{206}{}{We don't like those kind of people. We can't have that
- here. Kill her.}
+{196}{}{Voce deve fend por si mesmo.}
+{197}{}{Como voce ousa retornar as minhas vistas? Matem ele!}
+{198}{}{Como voce ousa retornar as minhas vistas? Matem ela!}
+{200}{}{Eu vim festejar com voces caras!}
+{201}{}{Bem, va pegar algumas bebidas mais e mulheres pra nossa festa.}
+{203}{}{Eu lutarei contra voce um-contra-um por Tandi.}
+{204}{}{Voce nao e Saqueador, voce nao merece honra.}
+{205}{}{Seu suborno nao vale meu tempo. Mate ela.}
+{206}{}{Nos nao gostamos desses tipos de pessoas. Nos nao
+ podemos ter isso aqui. Matem ela.}
 {207}{}{Waaaug!}
-{208}{}{Ok, you win. Take the girl and get out of here.}
+{208}{}{Ok, voce venceu. Leve a garota e saia daqui.}
 
 {1000}{}{Khans}
 {1001}{}{Garl}
 {1002}{}{Junktown}
 {1003}{}{Shady}
 {1004}{}{Hub}
-{1005}{}{Water}
+{1005}{}{Agua}
 {1006}{}{Tandi}
 {1007}{}{Sands}
 {1008}{}{Chip}
 
-{1000}{}{That's us, you lackey.}
-{1101}{}{I am the leader of the Khans.  I am the most feared man in the
- wasteland.}
-{1102}{}{They are to the southwest.  We sometimes go there to relax after
- a hard day pillaging.}
-{1103}{}{Miserable little piss ant community. I could crush them.}
-{1104}{}{They are to the south.  We trade with them.  Mostly for
- water and ammo, but sometimes for weapons.}
-{1105}{}{Why should I care?}
-{1106}{}{I don't know anyone by that name.}
-{1107}{}{Miserable little piss ant community. I could crush them.}
-{1108}{}{A what?}
+{1000}{}{Esses somos nos, seu lackey.}
+{1101}{}{Eu sou o lider dos Khans. Eu sou o homem mais temido na
+ terra devastada.}
+{1102}{}{Eles estao a sudoeste. Nos as vezes vamos la pra relaxar
+ apos um dia duro de pilhagem.}
+{1103}{}{Comunidade pequena de formigas miseraveis. Eu poderia esmaga-los.}
+{1104}{}{Eles estao ao sul. Nos negociamos com eles. Na maior parte por
+ agua e muniçao, mas as vezes por armas.}
+{1105}{}{Por que eu deveria me importar?}
+{1106}{}{Eu nao conheço ninguem com esse nome.}
+{1107}{}{Comunidade pequena de formigas miseraveis. Eu poderia esmaga-los.}
+{1108}{}{Um o que?}

@@ -1,40 +1,40 @@
-{100}{}{You see Tolya, a desert bandit.}
-{101}{}{Hello, I am Tolya. Looks like you just wandered in from
- the desert. Who are you?}
-{102}{}{I'm }
-{103}{}{. What do you do?}
-{104}{}{Can you tell me about your camp?}
+{100}{}{Você vê Tolya, um bandido do deserto.}
+{101}{}{Olá, eu sou Tolya. Parece que você acabou de chegar
+ o deserto. Quem é Você?}
+{102}{}{I'm}
+{103}{}{. O que você faz?}
+{104}{}{Você pode me falar sobre o seu acampamento?}
 {105}{}{Urgh?}
-{106}{}{As a raider, I explore the lands in search of new supplies. There have been
- some towns which have been graced by our presence.}
-{107}{}{In other words, you steal from the people you visit.}
-{108}{}{Hey, that's really great of you. I'm sure that Garl is pleased with you.}
-{109}{}{What places have you been to?}
-{110}{}{Come now, Garl tells me never to talk to strangers. You should
- at least be willing to tell me your name.}
-{111}{}{You're right. I'm }
+{106}{}{Como um atacante, eu exploro as terras em busca de novos suprimentos. Houveram
+ algumas cidades que foram agraciados pela nossa presença.}
+{107}{}{Em outras palavras, você rouba das pessoas que visita.}
+{108}{}{Ei, isso é muito bom da sua parte. Tenho certeza de que Garl está satisfeito com você.}
+{109}{}{Para quais lugares você já esteve?}
+{110}{}{Venha agora, Garl me diz para nunca falar com estranhos. Você deve
+ pelo menos esteja disposto a me dizer seu nome.}
+{111}{}{Você está certo. Eu estou }
 {112}{}{.
- Will you tell me something about your band?}
-{113}{}{Look you idiot, I don't have to say anything to you.}
-{114}{}{Go away, moron.}
-{115}{}{We never steal. We just take the extra that others have and redistribute it
- among our hungry people.}
-{116}{}{So, basically, you steal it.}
-{117}{}{That sounds like a really great idea.}
-{118}{}{I've been to many places in the wastelands. The closest places that I've
- been to are Shady Sands and Junktown. They are very grateful
- for the trips we make to them.}
-{119}{}{You visit Shady Sands?}
-{120}{}{Where's Junktown?}
-{121}{}{You are starting to become annoying now. I think I will end
- that slight problem.}
-{122}{}{We are the Khan, and our leader is Garl. We are the most feared
- group in the wasteland, and with good reason. We take
- what we want, and those who get in our way pay the price.}
-{123}{}{Yes, we go to Shady Sands from time to time. It adds a little
- excitement to the lives of everyone concerned.}
-{124}{}{What about Junktown?}
-{125}{}{Why, Junktown is just a little bit to the south of here.
- Go a few miles, turn right at the dying cactus. You can't miss it!}
-{126}{}{You also said you visit Shady Sands.}
-{127}{}{Do not bother me right now. I am preparing for the next raid.}
+ Você vai me dizer algo sobre sua banda?}
+{113}{}{Olhe seu idiota, eu não tenho que dizer nada para você.}
+{114}{}{Vá embora, idiota.}
+{115}{}{Nós nunca roubamos. Nós apenas pegamos o extra que os outros têm e redistribuímos
+ entre os nossos famintos.}
+{116}{}{Então, basicamente, você rouba.}
+{117}{}{Parece uma ótima ideia.}
+{118}{}{Estive em muitos lugares nas terras devastadas. Os lugares mais próximos que eu já
+ Estive em Shady Sands e Junktown. Eles são muito gratos
+ para as viagens que fazemos a eles.}
+{119}{}{Você visita Shady Sands?}
+{120}{}{Onde está Junktown?}
+{121}{}{Você está começando a ficar irritante agora. Acho que vou acabar
+ esse pequeno problema.}
+{122}{}{Nós somos o Khan e nosso líder é Garl. Nós somos os mais temidos
+ grupo no terreno baldio, e com um bom motivo. Nós levamos
+ o que queremos e aqueles que ficam no nosso caminho pagam o preço.}
+{123}{}{Sim, vamos a Shady Sands de tempos em tempos. Adiciona um pouco
+ emoção para a vida de todos os interessados.}
+{124}{}{E sobre Junktown?}
+{125}{}{Por que, Junktown é um pouquinho ao sul daqui.
+ Vá alguns quilômetros, vire à direita no cacto moribundo. Você não pode perder isso!}
+{126}{}{Você também disse que visita Shady Sands.}
+{127}{}{Não me incomoda agora. Estou me preparando para o próximo ataque.}

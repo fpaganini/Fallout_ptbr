@@ -1,90 +1,90 @@
-{100}{}{Você vê o Xerife Justin Greene.}
-{101}{}{Awe, it's the slayer of the innocents. I've heard of you, and you're lucky I have a badge stopping me
- from blowing you away on the spot. I suggest you leave our town--Right now. And stay away from our children.}
-{102}{}{Hello sir! The name's Justin Greene. I'm the sheriff of this fine city. It there something I can
- do for you this fine day?}
-{103}{}{Hello ma'am! The name's Justin Greene. I'm the sheriff of this fine city. It there something I can
- do for you this fine day?}
-{104}{}{Bem, cuspa pra fora!}
-{105}{}{Decker me contratou para matar algum mercador e sua esposa.}
-{106}{}{Decker tentou me contratar para matar alguém chamado Jain.}
+{100}{}{Voce ve o Xerife Justin Greene.}
+{101}{}{Ah, e o assassino dos inocentes. Eu ouvi sobre voce e voce tem sorte que eu tenho um distintivo que me impede
+ de explodir voce aonde esta. Eu sugiro a voce que saia da nossa cidade agora. E fique longe das nossas criancas.}
+{102}{}{Ola senhor! O nome e Justin Greene. Eu sou o xerife desta boa cidade. Ha algo que eu possa
+ fazer por voce neste bom dia?}
+{103}{}{Ola senhora! O nome e Justin Greene. Eu sou o xerife desta boa cidade. Ha algo que eu possa
+ fazer por voce neste bom dia?}
+{104}{}{Bem, fale!}
+{105}{}{O Decker me contratou para matar algum mercador e sua esposa.}
+{106}{}{O Decker tentou me contratar para matar alguem chamado Jain.}
 {107}{}{Nada, lamento.}
-{108}{}{Lamento, eu não posso dizer a você. Eu seria morto(a).}
-{109}{}{Well, thank you. We try our best. It's really tough in a city this size, but we do the best we can with
- what we've got. It's hard when the thugs have better firepower than you do.}
+{108}{}{Lamento, eu nao posso dizer a voce. Eu seria morto.}
+{109}{}{Bem, obrigado. Nos tentamos nosso melhor. E realmente dificil numa cidade deste tamanho, mas nos fazemos o
+ melhor que nos podemos com o que nos temos. E dificil quando os bandidos tem melhor poder de fogo do que voce tem.}
 {110}{}{Obrigado de novo.}
-{111}{}{É hora de você sair, assassino(a) de crianças.}
-{112}{}{We couldn't have that. But, if you ever change your mind, please let me know. It's a dangerous
- place out there and someone has to stand up for what's right.}
-{113}{}{Excellent! I has already heard from other sources about his plan. You're the final confirmation I needed
- to take action against him. This is going to be rough, and I can use any help I can get. I can pay you 1000
- scripts. 200 now, and the rest when we're all done. What do you say?}
-{114}{}{You're too late...Damn! I knew he was responsible, I only wish I knew in time to stop him. In any case,
- you're the final witness I needed to act. We'll have to "take him out." This is going to be rough, and I can
- use any help I can get. I can pay you 1000 scripts. 200 now, and the rest when we're all done. What do you say?}
-{115}{}{You're too late...How do I know you're not responsible? Decker's not likely to let someone know about his
- plans and live.}
-{116}{}{I just got word that she's already dead...wait a minute. How do I know that you're not the one responsible?
- Decker's not likely to let someone know about his plans and live.}
-{117}{}{Será um prazer.}
+{111}{}{E hora de voce sair, matador de criancas.}
+{112}{}{Nos nao poderiamos ter isso. Mas, se voce mudar de ideia, por favor deixe-me saber. E um lugar perigoso
+ la fora e alguem tem que defender o que e certo.}
+{113}{}{Excelente! Eu ja ouvi de outras fontes sobre o plano dele. Voce e a confirmacao final que eu precisava
+ pra tomar acao contra ele. Isto vai ser dificil, e eu posso usar qualquer ajuda que eu puder obter. Eu posso
+ pagar 1000 scripts pra voce. 200 agora e o resto quando nos tivermos acabado. O que voce diz?}
+{114}{}{Voce esta muito atrasado...Maldicao! Eu sabia que ele era o responsavel, eu so desejo que eu soubesse a tempo de para-lo. Em qualquer
+ caso voce e a testemunha final que eu precisava pra agir. Nos teremos que "acabar" com ele. Isto vai ser dificil e eu posso usar toda a ajuda
+ que eu puder obter. Eu posso pagar pagar 1000 scripts pra voce. 200 agora e o resto quando nos tivermos acabado. O que voce diz?}
+{115}{}{Voce esta muito atrasado...Como eu sei que voce nao e o responsavel? Nao e provavel que o Decker deixe
+ alguem saber sobre os planos dele e viva.}
+{116}{}{Eu acabei de saber que ela ja esta morta...espere um minuto. Como eu sei que voce nao e responsavel?
+ Nao e provavel que o Decker deixeDecker alguem saber sobre os planos dele e viva.}
+{117}{}{Sera um prazer.}
 {118}{}{Lamento, eu quero tudo de primeira.}
-{119}{}{De modo algum! Você está por sua própria conta.}
-{120}{}{De modo algum. You seem trustworthy, but I can't be sure that you won't leave us when it gets hot. This way,
- one of us has to survive to be sure you get paid. This way, it might add a 'little' bit of insurance.}
-{121}{}{Vamos fazê-lo.}
-{122}{}{Você está por sua própria conta, Xerife.}
-{123}{}{Ótimo! Nós podemos sair tão breve quanto você estiver pronto(a).}
-{124}{}{Eu estou pronto(a).}
+{119}{}{De modo algum! Voce esta por sua propria conta.}
+{120}{}{De modo algum. Voce parece confiavel, mas eu nao posso ter certeza que voce nao nos deixara quando ficar quente. Deste
+ modo um de nos tem que sobreviver pra ter certeza que voce seja pago. Deste modo poderia adicionar um "pouquinho" de incerteza.}
+{121}{}{Vamos faze-lo.}
+{122}{}{Voce esta por sua propria conta, Xerife.}
+{123}{}{Ótimo! Nos podemos sair tao breve quanto voce estiver pronto.}
+{124}{}{Eu estou pronto.}
 {125}{}{Ok, Tchau.}
-{126}{}{I'm really sorry to hear that. If you change your mind, let me know, but I can't wait very long.}
+{126}{}{Eu realmente lamento ouvir isso. Se voce mudar de ideia deixe-me saber, mas eu nao posso esperar muito.}
 {127}{}{Ok, Eu o farei. Apenas espere por mim para obter alguns suprimentos.}
-{128}{}{Você está louco.}
+{128}{}{Voce esta louco.}
 {129}{}{Tchau.}
-{130}{}{Great! Let me know when you're ready. We'll wait for you, but don't take too long.}
-{131}{}{What? Do you expect me to stand around and let him kill innocent people? I've a responsibility to this
- city, which I don't expect you to understand.}
-{132}{}{Você está certo(a). Agora é a sua vez.}
-{133}{}{Como ousa você me acusar?}
-{134}{}{Eu não me importo com o que você pensa.}
-{135}{}{Bem, ele não tentou nada.}
-{136}{}{Nós estávamos no Falcão e havia muitas pessoas em volta}
-{137}{}{I'm sorry. Decker's been playing us all against each other for years. I don't know who to trust any more.
- I really could use your help though. it'll be rough, but I'll pay you 1000 scripts. 200 now and 800 when
- we're done.}
-{138}{}{I know a rat when I smell one! You're lucky I don't have any proof, and I suggest you leave town before I find some.}
-{139}{}{That's very strange. I've never heard of Decker coming out of his office. He must be getting braver. That
- damn, murdering...argh! I'll get him yet! I'll tell you what, you help us out, and I'll pay you 1000 scripts--
- 200 now and 800 when we're all done. What do you say?}
-{140}{}{That's the biggest pile of Brahmin shit I've ever heard. Decker never leaves his office. I knew there was
- something not right about you. You're lucky I don't have any proof, and I suggest you leave town before I find
- some!}
-{141}{}{Ok, vamos lá...}
-{142}{}{Então, você veio para se entregar? Eu estou impressionado.}
+{130}{}{Otimo! Deixe-me saber quando voce estiver pronto. Nos esperaremos por voce, mas nao demore demais.}
+{131}{}{O que? Voce espera que eu fique parado e deixe ele matar pessoas inocentes? Eu tenho uma
+ responsabilidade com esta cidade, a qual eu nao espero que voce entenda.}
+{132}{}{Voce esta certo. Agora e a sua vez.}
+{133}{}{Como ousa voce me acusar?}
+{134}{}{Eu nao me importo com o que voce pensa.}
+{135}{}{Bem, ele nao tentou nada.}
+{136}{}{Nos estavamos no Falcao e havia muitas pessoas em volta}
+{137}{}{Eu lamento. O Decker tem nos colocado um contra o outro por anos. Eu nao sei em quem confiar mais. Eu
+ realmente poderia usar sua ajuda. Sera dificil, mas eu pagarei 1000 scripts pra voce. 200 agora e 800 quando
+ nos tivermos acabado.}
+{138}{}{Eu conheco um rato quando eu farejo um! Voce tem sorte que eu nao tenho qualquer prova, e eu sugiro a voce que saia da cidade antes que eu ache alguma.}
+{139}{}{Isso e muito estranho. Eu nunca ouvi sobre o Decker saindo do escritorio dele. Ele deve estar ficando
+ mais corajoso. Esse maldito, assassino...argh! Eu ainda pegarei ele! Eu direi isso a voce, voce nos ajudar e
+ eu pagarei 1000 scripts pra voce. 200 agora e 800 quando nos tivermos acabado com tudo. O que voce diz?}
+{140}{}{Essa e o maior monte de merda de brahmin que eu ja ouvi. O Decker nunca deixa o escritorio dele. Eu sabia
+ que algo nao estava certo sobre voce. Voce tem sorte que eu nao tenho qualquer prova e eu sugiro a voce que voce
+ saia da cidade antes que eu ache alguma!}
+{141}{}{Ok, vamos la...}
+{142}{}{Entao, voce veio para se entregar? Eu estou impressionado.}
 {143}{}{Sim, eu lamento.}
-{144}{}{Me entregar? Não me faça rir.}
+{144}{}{Me entregar? Nao me faca rir.}
 {145}{}{Peguem ele!}
 {146}{}{Peguem ela!}
-{147}{}{Tudo bem, para a sua cela você vai.}
-{148}{}{Apenas sente tight. Você não vai pra qualquer lugar por um tempo.}
+{147}{}{Tudo bem, para a sua cela voce vai.}
+{148}{}{Apenas sente tight. Voce nao vai pra qualquer lugar por um tempo.}
 {149}{}{Fugitivo! Peguem ele!}
 {150}{}{Fugitiva! Peguem ela!}
-{151}{}{Pronto(a) pra ir?}
+{151}{}{Pronto pra ir?}
 {152}{}{Sim.}
-{153}{}{Não.}
+{153}{}{Nao.}
 {154}{}{Ug.}
-{155}{}{Eu não consigo acreditar que o Decker está finalmente moroto. Eu nunca pensei que eu veria o dia.}
-{156}{}{Have you changed your mind? We could still use you to get rid of that disease we talked about.}
+{155}{}{Eu nao consigo acreditar que o Decker esta finalmente moroto. Eu nunca pensei que eu veria o dia.}
+{156}{}{Voce mudou de ideia? Nos ainda poderiamos usar voce pra nos livrar daquela doenca que nos falamos a respeito.}
 {157}{}{Eu irei.}
-{158}{}{Não, lamento.}
+{158}{}{Nao, lamento.}
 {159}{}{Fah?}
-{160}{}{Nós estamos observando você.}
+{160}{}{Nos estamos observando voce.}
 {161}{}{Eu tenho um crime para relatar!}
-{162}{}{Você está fazendo um bom trabalho.}
-{163}{}{Apenas passando. Vejo você.}
+{162}{}{Voce esta fazendo um bom trabalho.}
+{163}{}{Apenas passando. Vejo voce.}
 {164}{}{Oula.}
-{165}{}{Olá de novo, senhor. O que eu posso fazer por você hoje?}
-{166}{}{Olá de novo, senhora. O que eu posso fazer por você hoje?}
-{167}{}{Olá. Como eu posso ajudar você?}
+{165}{}{Ola de novo, senhor. O que eu posso fazer por voce hoje?}
+{166}{}{Ola de novo, senhora. O que eu posso fazer por voce hoje?}
+{167}{}{Ola. Como eu posso ajudar voce?}
 {168}{}{Sim?}
 {169}{}{Apenas durma, ok?}
 {170}{}{Você está brincando?  Bem... uh... ele... ele pediu a você pessoalmente?}

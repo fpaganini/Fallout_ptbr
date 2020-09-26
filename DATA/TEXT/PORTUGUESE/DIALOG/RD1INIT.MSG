@@ -1,53 +1,53 @@
-{100}{}{You see Jerry, a young Initiate.}
-{101}{}{You see a Knight Initiate.}
-{102}{}{You see a Scribe Initiate.}
-{103}{}{Hi there! You must be Brother }
-{104}{}{, the new initiate from the outside. My name's Jerry, I'm your
- new roommate. I'm an initiate too! I've been studying so hard. Are you
- an Initiate Knight or Scribe?}
-{105}{}{I haven't decided.}
-{106}{}{Knight.}
-{107}{}{Scribe.}
+{100}{}{Você vê Jerry, um jovem Iniciado.}
+{101}{}{Você vê um Iniciado Knight.}
+{102}{}{Você vê um Escriba Iniciado.}
+{103}{}{Olá! Você deve ser irmão}
+{104}{}{, o novo iniciado do lado de fora. Meu nome é Jerry, sou seu
+ novo companheiro de quarto. Eu sou um iniciado também! Eu estive estudando muito. Você está
+ um cavaleiro iniciante ou escriba?}
+{105}{}{Eu não decidi.}
+{106}{}{Cavaleiro.}
+{107}{}{Escriba.}
 {108}{}{Uk.}
-{109}{}{Yea, being a Knight would be great, they see lots of action and
- get to build all the stuff. I haven't decided yet, but I'm leaning
- towards a Knight myself. Am I boring you? Some people say I talk a lot
- but I just don't think they understand. I just have a lot to say.}
-{110}{}{No, not at all.}
-{111}{}{I've got to go. Nice meeting you.}
-{112}{}{Yea, Scribes have such a creative position. It would be great
- to think up new weapons, modify old ones, and keep records of every 
- detail of every item in the Brotherhood. Am I boring you? Some people
- say I talk a lot but I just don't think they understand. I just have
- a lot to say.}
-{113}{}{Yea, I'm still trying to decide. It's so tough, they're both
- really exciting. By the way, if you want the top bunk just let me
- know, I don't mind.}
-{114}{}{Thanks, bye.}
-{115}{}{Are you all right? Maybe you need to see the doctor or maybe
- you just need some sleep. Well I better get back to studying.  Bye.}
-{116}{}{Oh, by the way, I'm glad you'll be my new roommate. My last
- one always wore ear plugs, I don't know why. Anyhow, feel free to
- leave anything you like here, I don't take up much space. Do you want
- the top bunk? I'll change if you want... you don't snore do you? Oh,
- it doesn't matter. See ya.}
-{117}{}{Yea, that's what I thought. Well, I'm glad you'll be my new
- roommate. My last one always wore earplugs, I don't know why. Anyhow,
- feel free to leave anything you like here, I don't take up much space.
- Do you want the top bunk? I'll change if you want... you don't snore
- do you? Oh, it doesn't matter. See ya.}
-{118}{}{Just let me know if I'm snoring.}
-{119}{}{Thomas says I talk to much.}
-{120}{}{Talus says I'd be a good Knight if I didn't talk so much.}
-{121}{}{Nice to see you again, roommate!}
-{122}{}{I didn't sleep well last night.}
-{123}{}{Hi again.}
-{124}{}{I get to go on a patrol tomorrow.}
-{125}{}{I'll be a Senior Initiate in a few years.}
-{126}{}{This isn't your room, please leave.}
-{127}{}{I think you're in Jerry's room.}
-{128}{}{Good luck, you get to room with Jerry the mouth.}
-{129}{}{What are you doin in here?}
-{130}{}{Are you an Initiate too?}
-{131}{}{Visiting?}
-{132}{}{Your room is the first one of the left as you come in.}
+{109}{}{Sim, ser um cavaleiro seria ótimo, eles vêem muita ação e
+ Consiga construir todas as coisas. Eu ainda não decidi, mas estou inclinado
+ em direção a um cavaleiro. Estou te entediando? Algumas pessoas dizem que eu falo muito
+ mas eu não acho que eles entendam. Eu só tenho muito a dizer.}
+{110}{}{Não, de maneira nenhuma}
+{111}{}{Eu tenho que ir. Muito prazer em conhece-lo.}
+{112}{}{Sim, os escribas têm uma posição tão criativa. Seria ótimo
+ pensar em novas armas, modificar as antigas e manter registros de todos os
+ detalhe de cada item na Irmandade. Estou te entediando? Algumas pessoas
+ digamos que eu falo muito, mas eu não acho que eles entendam. Eu apenas tenho
+ muito a dizer.}
+{113}{}{Sim, ainda estou tentando decidir. É tão difícil, ambos são
+ muito empolgante. By the way, se você quiser o beliche de cima, deixe-me
+ sabe, eu não me importo.}
+{114}{}{Obrigado, tchau.}
+{115}{}{Você está bem? Talvez você precise ver o médico ou talvez
+ você só precisa dormir um pouco. Bem, é melhor eu voltar a estudar. Tchau.}
+{116}{}{Oh, a propósito, estou feliz que você seja minha nova colega de quarto. Meu último
+ um sempre usava tampões de ouvido, não sei por quê. De qualquer forma, sinta-se livre para
+ Deixa o que quiseres aqui, eu não ocupo muito espaço. Você quer
+ o beliche de cima? Eu vou mudar se você quiser ... você não ronca, não é? Oh,
+ Não importa. Até mais.}
+{117}{}{Sim, foi o que eu pensei. Bem, eu estou feliz que você será meu novo
+ colega de quarto. Meu último sempre usava tampões de ouvido, não sei por quê. De qualquer forma,
+ Sinta-se livre para deixar qualquer coisa que você gosta aqui, eu não ocupar muito espaço.
+ Você quer o beliche superior? Eu vou mudar se você quiser ... você não ronca
+ você? Não importa. Até mais.}
+{118}{}{Apenas deixe-me saber se estou roncando.}
+{119}{}{Thomas diz que eu falo muito.}
+{120}{}{Talus diz que eu seria um bom Cavaleiro se eu não falasse tanto.}
+{121}{}{Prazer em vê-lo novamente, companheiro de quarto!}
+{122}{}{Eu não dormi bem na noite passada.}
+{123}{}{Oi novamente}.
+{124}{}{Eu tenho que ir em uma patrulha amanhã.}
+{125}{}{Eu serei um Iniciado Sênior em alguns anos.}
+{126}{}{Este não é o seu quarto, por favor, deixe.}
+{127}{}{Eu acho que você está no quarto de Jerry.}
+{128}{}{Boa sorte, você fica com Jerry na boca.}
+{129}{}{O que você está fazendo aqui?}
+{130}{}{Você é um Iniciado também?}
+{131}{}{Visitando?}
+{132}{}{Seu quarto é o primeiro da esquerda quando você entra.}

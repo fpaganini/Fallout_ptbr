@@ -1,33 +1,33 @@
-{100}{}{You see a Scribe.}
-{101}{}{Vree's my idol.}
-{102}{}{Vree is so pretty.}
-{103}{}{Sophia sure is nice.}
-{104}{}{Derek is cool.}
-{105}{}{Will the universe continue to expand or will it eventually collapse
- back in on itself?}
-{106}{}{I love those old books and magazines, but they are so hard to come
- by.}
-{107}{}{Knowledge is power.}
-{108}{}{The pen is mightier than the sword.}
-{109}{}{Technology must be preserved.}
-{110}{}{Science is so much fun.}
-{111}{}{I've seen an alien space ship before.}
-{112}{}{Did you know the sun is actually a big nuclear reaction?}
-{113}{}{Did you know a black hole is actually an opening to another universe?}
-{114}{}{Did you know that the hydrogen atom is 99.9843425% empty space?}
-{115}{}{Time travel will one day be possible and we might be able to prevent
- the disaster that ruined our world in the past.}
-{116}{}{Research is one of my favorite things to do. I feel like I'm trying
- to solve a mystery.}
-{117}{}{Being a scribe is the best. You get to study all the old technologies
- and try to develop new ones.}
-{118}{}{These terminals could use enhancement. Maybe we should put the display
- over here.}
-{119}{}{Sorry, I'm right in the middle of a possible breakthrough. I can't talk
- right now.}
-{120}{}{Hey Initiate. You should train to be a Scribe, if you haven't decided
- yet.}
-{121}{}{Us Scribes design all the equipment, weapons, and supplies. It's quite
- exciting.}
-{122}{}{Please don't disturb me, I'm trying to finish my research.}
-{123}{}{That's Vree right there, she's also a Scribe.}
+{100}{}{Você vê um escriba.}
+{101}{}{Vree é meu ídolo.}
+{102}{}{Vree é tão bonito.}
+{103}{}{Sophia com certeza é legal.}
+{104}{}{Derek é legal.}
+{105}{}{O universo continuará a expandir-se ou acabará por colapsar?
+ de volta em si mesmo?}
+{106}{}{Eu amo esses livros antigos e revistas, mas eles são tão difíceis de vir
+ de.}
+{107}{}{Conhecimento é poder.}
+{108}{}{A caneta é mais poderosa que a espada.}
+{109}{}{A tecnologia deve ser preservada.}
+{110}{}{A ciência é muito divertida.}
+{111}{}{Eu já vi uma nave espacial alienígena antes.}
+{112}{}{Você sabia que o sol é realmente uma grande reação nuclear?}
+{113}{}{Você sabia que um buraco negro é na verdade uma abertura para outro universo?}
+{114}{}{Você sabia que o átomo de hidrogênio tem 99,9843425% de espaço vazio?}
+{115}{}{A viagem no tempo será possível um dia e poderemos evitar
+ o desastre que arruinou nosso mundo no passado.}
+{116}{}{A pesquisa é uma das minhas coisas favoritas para fazer. Eu sinto que estou tentando
+ para resolver um mistério.}
+{117}{}{Ser um escriba é o melhor. Você começa a estudar todas as tecnologias antigas
+ e tente desenvolver novos.}
+{118}{}{Estes terminais podem usar aprimoramento. Talvez devêssemos colocar a tela
+ por aqui.}
+{119}{}{Desculpe, estou bem no meio de um possível avanço. Eu não posso falar
+ agora mesmo.}
+{120}{}{Ei Iniciação. Você deve treinar para ser um escriba, se você não tiver decidido
+ ainda.}
+{121}{}{Us Os escribas criam todos os equipamentos, armas e suprimentos. É bastante
+ emocionante.}
+{122}{}{Por favor, não me perturbe, estou tentando terminar minha pesquisa.}
+{123}{}{Isso é Vree ali mesmo, ela também é uma Escriba.}

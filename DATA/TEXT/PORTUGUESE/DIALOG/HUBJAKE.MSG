@@ -1,87 +1,87 @@
-{100}{}{You see Jacob, the arms dealer.}
-{101}{}{Hi!  Welcome to Jake's. I've got some great merchandise in stock. Feel free to look around.}
-{102}{}{Eu gostaria de fazer um acordo com você.}
-{103}{}{O que você está vendendo aqui?}
-{104}{}{O que você pode me dizer sobre um chip de água?}
+{100}{}{Voce ve o Jacob, o negociante de armas.}
+{101}{}{Oi! Bem-vindo ao Jake's. Eu tenho algumas mercadorias muito boas no estoque. Sinta-se livre pra olhar por ai.}
+{102}{}{Eu gostaria de fazer um acordo com voce.}
+{103}{}{O que voce esta vendendo aqui?}
+{104}{}{O que voce pode me dizer sobre um chip de agua?}
 {105}{}{Me fale sobre si mesmo.}
-{106}{}{Deixa pra lá. Tchau.}
-{107}{}{qhererwahnt.}
-{108}{}{nãO qherer.}
-{109}{}{I deal with high end arms. The best stuff you can find this side of the Brotherhood,
- and since the Brotherhood doesn't deal with outsiders, I've gotta' say I'm the best.
-  I have a Sniper Rifle, and you would be hard pressed to find Flame Thrower fuel anywhere
- else in the wastes. On yeah... I've got a contador geiger, too. Very rare.}
-{110}{}{Me mostre o que você tem.}
+{106}{}{Deixa pra la. Tchau.}
+{107}{}{qherer.}
+{108}{}{naO qherer.}
+{109}{}{Eu negocio com armas de alto calibre. A melhor coisa que voce consegue achar neste lado da
+ Irmandade, e ja que a Irmandade nao lida com forasteiros, eu tenho que dizer que eu sou o melhor.
+ Eu tenho um Rifle de Sniper, e voce ficaria sob pressao pra achar o combustivel de Lanca Chamas em
+ qualquer outro lugar nas terras devastadas. Oh sim... eu tenho um contador geiger tambem. Muito raro.}
+{110}{}{Me mostre o que voce tem.}
 {111}{}{Me diga mais sobre o Rifle de Sniper.}
 {112}{}{Para o que eu precisaria de um contador geiger?}
-{113}{}{Talvez eu verificarei com você mais tarde. Tchau.}
-{114}{}{Man, you do like the rare stuff!  Where were you when I was selling some depleted
- uranium rounds a few years back?  I don't do chips, though. Ain't a market in it. Anything else?}
-{115}{}{Me mostre o que você tem.}
-{116}{}{Então o que você TEM.}
+{113}{}{Talvez eu verificarei com voce mais tarde. Tchau.}
+{114}{}{Cara, voce gosta das coisas raras! Aonde voce estava quando eu estava vendendo algumas capsulas de uranio
+ vazias ha alguns anos atras? Apesar disso, eu nao vendo chips. Nao ha um mercado para eles. Algo mais?}
+{115}{}{Me mostre o que voce tem.}
+{116}{}{Entao o que voce TEM.}
 {117}{}{Me fale sobre si mesmo.}
-{118}{}{Well, I've been around. Used to be with the Union of Atomic Workers. Sort of like the Brotherhood,
- but less friendly. They wanted to keep to themselves, and I... well, I wanted to see the world and be my own
- boss, so I left.}
-{119}{}{Vamos ver o que você tem.}
-{120}{}{Me diga o que você tem.}
-{121}{}{O que você pode me dizer sobre um chip de água?}
-{122}{}{Bom encontrar você, amigo. Eu posso parar mais tarde. Tchau.}
-{123}{}{Ahh, the DKS is a fine long range weapon. It was originally .308, but we rechambered it for the more
- common .223 round. We tuned the barrel, too. Most importantly, check out this trigger. Smooth, huh?  The
- trigger breaks perfectly now. Overall, this is a good choice for hunting any type of animal...}
-{124}{}{Soa bem. Vamos ver se nós podemos fazer um acordo.}
+{118}{}{Bem, eu estive por ai. Costumava trabalhar com o Sindicato dos Trabalhdores Atomicos. Tipo a Irmandade,
+ mas menos amistosos. Eles queriam se manter pra si mesmos e eu... bem, eu queria ver o mundo e ser meu proprio
+ chefe, entao eu sai.}
+{119}{}{Vamos ver o que voce tem.}
+{120}{}{Me diga o que voce tem.}
+{121}{}{O que voce pode me dizer sobre um chip de agua?}
+{122}{}{Bom encontrar voce, amigo. Eu posso parar mais tarde. Tchau.}
+{123}{}{Ah, o DKS e uma boa arma de longo alcance. Era originalmente .308, mas nos a modificamos para a capsula
+ mais comum de .223. Nos modificamos o barril tambme. O mais importante, verifique este gatilho. Leve, huh? O
+ gatilho se move perfeitamente agora. No geral, esta e uma boa escolha pra cacar qualquer tipo de animal...}
+{124}{}{Soa bem. Vamos ver se nos podemos fazer um acordo.}
 {125}{}{Para o que eu precisaria de um contador geiger?}
-{126}{}{Talvez eu verificarei com você mais tarde. Tchau.}
-{127}{}{O que do you need a Gieger counter for!? [Laughs] Though it's been 80 years or so since the bombs fell,
- there's still radiação around, you goof. You can't see it, never could, but it's there. Heck I'm willin'
- to bet you got some counts on you now. Everyone that lives in the wastes has a few RAD counts.}
-{128}{}{Me mostre o que você tem para vender.}
-{129}{}{Me diga mais sobre a radiação.}
+{126}{}{Talvez eu verificarei com voce mais tarde. Tchau.}
+{127}{}{Pra que voce precisa de um contador geiger!? [Risadas] Ja faz 80 anos ou mais desde que as bombas cairam,
+ ainda ha radiacao por ai seu pateta. Voce nao consegue ve-la, nunca poderia, mas esta la. Inferno, eu desejo apostar
+  que voce tem algumas contagens em voce agora. Todos que vivem nas terras devastadas tem algumas contagens de RAD.}
+{128}{}{Me mostre o que voce tem para vender.}
+{129}{}{Me diga mais sobre a radiacao.}
 {130}{}{Como um contador geiger funciona?}
-{131}{}{Goof!?!  Do you always insult your customers?  If you think I'm going to buy something from you now you're
- sadly mistaken.}
-{132}{}{Well, some call it the Phantom Death, 'cause that's what it is. You can't see it, you can't hear it,
- you can't even smell it. It basically builds up in your system. You never feel it until it's too late. The
- more trips you make to Hot Spots, the more it builds up and it will never leave your system. Ever. The Rads
- just keep building up. Well... unless you can get a hold of some Rad-Away.}
-{133}{}{Vamos ver se nós podemos fazer um acordo.}
+{131}{}{Pateta!?! Voce sempre insulta seus frequeses? Se voce ahca que eu vou comprar algo de voce agora
+ voce esta tristemente enganado.}
+{132}{}{Bem, alguns a chamam de a Morte Fantasma, por que e isso que ela e. Voce nao consegue ve-la, voce nao consegue ouvi-la,
+ voce nao consegue nem ao menos cheira-la. Ela basicamente cresce no seu sistema. Voce nunca a sente ate que seja tarde demais.
+ Mais viagens que voce faz ate os Hot Spots, o mais ela aumenta e nunca deixara seu sistema. Jamais. Os Rads apenas continuam
+ aumentando. Bem... a menos que voce possa obter um pouco de alguns Rad-Aways.}
+{133}{}{Vamos ver se nos podemos fazer um acordo.}
 {134}{}{Como um contador geiger funciona?}
-{135}{}{Aonde eu posso achar Rad-Away? Eu não o vi sendo vendido em muitos lugares.}
-{136}{}{Uau. Você sabe muito. Soa como se você estivesse por aí.}
-{137}{}{Obrigado pela informação. Tchau.}
-{138}{}{It's pretty simple, actually. You use it and it tells you how many Rads you have. As long as you
- keep your Rad count under 100, you should be fine. Go above 100 and you're in some trouble. The worst part
- is you won't even know you've been sucking up Rads until a few days later. Get over 1000 and you're cooked
- - unless you get a hold of a whole lot of Rad-Away.}
-{139}{}{Vamos ver se nós podemos fazer um acordo.}
-{140}{}{O que você pode me dizer sobre a radiação?}
-{141}{}{Eu não vou por esta bosta difícil de vender. Vejo você mais tarde.}
-{142}{}{Deixa pra lá.}
+{135}{}{Aonde eu posso achar Rad-Away? Eu nao o vi sendo vendido em muitos lugares.}
+{136}{}{Uau. Voce sabe muito. Soa como se voce estivesse por ai.}
+{137}{}{Obrigado pela informacao. Tchau.}
+{138}{}{E bem simples na verdade. Voce usa e ele diz pra voce quantos Rads voce tem. Tanto quanto voce mantenha
+ seu contador de Rads abaixo de 100 voce vai ficar bem. Va acima de 100 e voce vai ter alguns problemas. A pior
+ parte e que voce nem ao menos sabe que voce esteve sugando Rads ate alguns dias depois. Va acima de 1000 e
+ voce esta cozinhado - a menos que voce obtenha a hold de um lote inteiro de Rad-Aways.}
+{139}{}{Vamos ver se nos podemos fazer um acordo.}
+{140}{}{O que voce pode me dizer sobre a radiacao?}
+{141}{}{Eu nao vou por esta bosta dificil de vender. Vejo voce mais tarde.}
+{142}{}{Deixa pra la.}
 {143}{}{}
 {144}{}{pEgar.}
 {145}{}{Mim ir.}
 {146}{}{Sim.}
-{147}{}{Não. Apenas olhando.}
-{148}{}{I don't want any trouble. If you want to do business then let's do it. If not, get out.}
+{147}{}{Nao. Apenas olhando.}
+{148}{}{Eu nao quero qualquer problema. Se voce quer fazer negocios entao vamos faze-los. Se nao, saia.}
 {149}{}{pEgar.}
 {150}{}{Mim ir.}
-{151}{}{Vamos ver o que você tem.}
-{152}{}{Você pode ir pro inferno. Eu vou aonde eu quero, quando eu quero!}
+{151}{}{Vamos ver o que voce tem.}
+{152}{}{Voce pode ir pro inferno. Eu vou aonde eu quero, quando eu quero!}
 {153}{}{Eu estou saindo.}
-{154}{}{O que diabos você está fazendo aqui?!?!?}
-{155}{}{I don't carry it. Any I find I keep for myself. Right up the street here, there's a guy that
- may be able to help you. His name is Vance. Don't ask too many questions of him. Let's just say
- this is his area of expertise. Just tell him Jacob sent you and he should do you up just fine.}
+{154}{}{O que diabos voce esta fazendo aqui?!?!?}
+{155}{}{Eu nao a carrego. Qualquer que eu ache eu mantenho pra mim mesmo. La pra cima aqui na rua, ha um cara que
+ pode ser capaz de ajudar voce. O nome dele e Vance. Nao faca muitas perguntas sobre ele. Vamos apenas dizer que
+ esta e a area de expertise dele. Apenas diga a ele que o Jacob enviou voce e ele deve ajudar bem a voce.}
 {156}{}{Como um contador geiger funciona?}
-{157}{}{Obrigado pela informação. Tchau.}
-{158}{}{Aqui está o que eu tenho.}
+{157}{}{Obrigado pela informacao. Tchau.}
+{158}{}{Aqui esta o que eu tenho.}
 {159}{}{Tchau.}
 {160}{}{Obrigado.}
 {161}{}{Ook.}
-{162}{}{The mutants wiped 'em out about ten years ago, so I guess I made the right decision.
- I eventually settled down here. The cops don't like my trade and I've been rousted more than once, but I'm
- a helluva lot more honest than most of the merchants here.}
+{162}{}{Os mutantes eliminaram eles por volta de 10 anos atras, entao eu creio que eu tomei a decisao certa.
+ Eu eventualmente me estabeleci aqui. Os policiais nao gostam do meu comercio e eu fui rousted mais do que
+ uma vez, mas eu sou muito mais honesto do que a maioria dos mercadores aqui.}
 
 #
 # TRANSLATION NOTE: The following three sets of lines are identical in English,
@@ -90,8 +90,8 @@
 # for the case of the player-character feminine ("my friend" will be feminine).
 #
 
-{163}{}{Ei, como está indo meu amigo? Querendo comprar alguma coisa?}
-{164}{}{Ei, como está indo minha amiga? Querendo comprar alguma coisa?}
-{165}{}{Your selection is good, but I'm looking for something with a bit more punch. Any idea where I could go?}
-{166}{}{Well, you might try the Gun Runners over in the Boneyard. They'll probably have something to suit your needs.
- I've heard the guys at the Brotherhood of Steel pack some pretty powerful hardware too, so you might check them out.}
+{163}{}{Ei, como esta indo meu amigo? Querendo comprar alguma coisa?}
+{164}{}{Ei, como esta indo minha amiga? Querendo comprar alguma coisa?}
+{165}{}{Sua selecao e boa, mas eu estou procurando por algo com um pouco mais de poder. Alguma ideia de aonde eu poderia ir?}
+{166}{}{Bem, voce poderia tentar os Gun Runners na Boneyard. Eles provavelmente terao algo que preencha as suas necessidades.
+ Eu ouvi que os caras na Irmandade do Aco tem alguns hardwares bem poderosos tambem, entao voce poderia verificar com eles.}

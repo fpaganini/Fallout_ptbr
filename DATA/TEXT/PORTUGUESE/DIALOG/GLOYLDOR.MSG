@@ -1,116 +1,116 @@
-{100}{}{The frame of this security door has remnants of blue paint.}
-{101}{}{You get a mild shock from the electric field on the door and take a point
- of damage.}
-{102}{}{You get a strong shock from the electric field on the door. You sustain }
-{103}{}{ points of damage.}
-{104}{}{You force the door open.}
-{105}{}{The door is locked.}
-{106}{}{Authorization granted. Now disarming electric field.}
-{107}{}{You are not authorized to enter this room.}
-{108}{}{This item does not effect the security systems.}
-{109}{}{You pick the lock on the security door.}
-{110}{}{There seems to be some type of security measure on this door.}
-{111}{}{You failed to pick the lock on the door.}
-{112}{}{This skill has no effect on the door.}
-{113}{}{You disarm the electric field on the door.}
-{114}{}{You intesified the power of the electric field.}
-{115}{}{You fail to disarm the electric field.}
-{116}{}{You pick the lock on the door without setting off the security system.}
-{117}{}{You fail to pick the lock and take serious damage from the security system.}
-{118}{}{You fail to pick the lock and take damage from the security system.}
-{119}{}{You are shocked by the security system and lose concentration to pick the lock.}
-{120}{}{You take and intense shock from the security system and lose concentration to pick the lock.}
-{121}{}{You utterly fail in trying to pick this lock and destroy your picks.}
-{122}{}{You fail to pick this lock.}
-{123}{}{Você vê uma sturdy, rusted door.}
+{100}{}{A moldura desta porta de segurança tem restos de tinta amarela.}
+{101}{}{Voce recebe um choque leve do campo eletrico na porta e leva um ponto
+ de dano.}
+{102}{}{Voce recebe um choque forte do campo eletrico na porta. Voce sofre }
+{103}{}{ pontos de dano.}
+{104}{}{Voce força a porta pra abri-la.}
+{105}{}{A porta esta trancada.}
+{106}{}{Autorizaçao garantida. Agora desarmando o campo eletrico.}
+{107}{}{Voce nao esta autorizado a entrar nesta sala.}
+{108}{}{Este item nao tem efeito nos sistemas de segurança.}
+{109}{}{Voce abre a tranca na porta de segurança.}
+{110}{}{Parece haver algum tipo de medida de segurança nesta porta.}
+{111}{}{Voce falhou em abrir a tranca na porta.}
+{112}{}{Esta tecnica nao tem efeito na porta.}
+{113}{}{Voce desarmar o campo eletrico on the porta.}
+{114}{}{Voce intesificou a força do campo eletrico.}
+{115}{}{Voce falha em desarmar o campo eletrico.}
+{116}{}{Voce abre a tranca na porta sem alertar o sistema de segurança.}
+{117}{}{Voce falha em abrir a tranca e leva um dano serio do sistema de segurança.}
+{118}{}{Voce falha em abrir a tranca e leva dano do sistema de segurança.}
+{119}{}{Voce e eletrocutado pelo sistema de segurança e perde a concentraçao pra abrir a tranca.}
+{120}{}{Voce toma um choque intenso do sistema de segurança e perde a concentraçao pra abrir a tranca.}
+{121}{}{Voce falha totalmente em tentar abrir esta tranca e destroi suas gazuas.}
+{122}{}{Voce falha em abrir esta tranca.}
+{123}{}{Voce ve uma porta reforçada e enferrujada.}
 
-{124}{}{Você vê uma unlocked door with green paint on it.}
-{125}{}{Você vê uma unlocked door with green paint on it.}
-{126}{}{Você vê uma unlocked door with a moving green field in front of it.}
-{127}{}{Você vê uma unlocked door with a high voltage security system armed upon it.}
-{128}{}{Você vê uma door with green paint on it.}
-{129}{}{Você vê uma door with green paint on it.}
-{130}{}{Você vê uma door with a moving green field in front of it.}
-{131}{}{Você vê uma door with a high voltage security system armed upon it.}
-{132}{}{Você vê uma locked door with green paint on it.}
-{133}{}{Você vê uma locked door with green paint on it.}
-{134}{}{Você vê uma locked door with a moving green field in front of it.}
-{135}{}{Você vê uma locked door with a high voltage security system armed upon it.}
-{136}{}{The lock on this green door seems to need a special passkey.}
-{137}{}{The lock on this green door seems to need a special passkey.}
-{138}{}{The lock on this door seems to need a special passkey. Additionally, you notice a shimmering green field before the door.}
-{139}{}{The lock on this door seems to need a special green passkey. Additionally, you notice a high voltage security system armed upon it.}
+{124}{}{Voce ve uma porta destrancada com tinta verde nela.}
+{125}{}{Voce ve uma porta destrancada com tinta verde nela.}
+{126}{}{Voce ve uma porta destrancada com um campo verde se movendo na frente dela.}
+{127}{}{Voce ve uma porta destrancada com um sistema de segurança de alta voltagem armado nela.}
+{128}{}{Voce ve uma porta com tinta verde nela.}
+{129}{}{Voce ve uma porta com tinta verde nela.}
+{130}{}{Voce ve uma porta com um campo amarelo se movendo na frente dela.}
+{131}{}{Voce ve uma porta com um sistema de segurança de alta voltagem armado nela.}
+{132}{}{Voce ve uma porta trancada com tinta verde nela.}
+{133}{}{Voce ve uma porta trancada com tinta verde nela.}
+{134}{}{Voce ve uma porta trancada com um campo verde se movendo na frente dela.}
+{135}{}{Voce ve uma porta trancada com um sistema de segurança de alta voltagem armado nela.}
+{136}{}{A tranca nesta porta verde parece precisar de uma chave-passe especial.}
+{137}{}{A tranca nesta porta verde parece precisar de uma chave-passe especial.}
+{138}{}{A tranca nesta porta parece precisar de uma chave-passe especial. Adicionalmente, voce nota um campo verde levemente tremulo diante da porta.}
+{139}{}{A tranca nesta porta parece precisar de uma chave-passe amarela especial. Adicionalmente, voce nota um sistema de segurança de alta voltagem armado nela.}
 
-{140}{}{Você vê uma unlocked door.}
-{141}{}{Você vê uma unlocked door.}
-{142}{}{Você vê uma unlocked door with a moving field in front of it.}
-{143}{}{Você vê uma unlocked door with a high voltage security system armed upon it.}
-{144}{}{Você vê uma door.}
-{145}{}{Você vê uma door.}
-{146}{}{Você vê uma door with a moving field in front of it.}
-{147}{}{Você vê uma door with a high voltage security system armed upon it.}
-{148}{}{Você vê uma locked door.}
-{149}{}{Você vê uma locked door.}
-{150}{}{Você vê uma locked door with a moving field in front of it.}
-{151}{}{Você vê uma locked door with a high voltage security system armed upon it.}
-{152}{}{The lock on this door seems to need a special passkey.}
-{153}{}{The lock on this door seems to need a special passkey.}
-{154}{}{The lock on this door seems to need a special passkey. Additionally, you notice a shimmering field before the door.}
-{155}{}{The lock on this door seems to need a special passkey. Additionally, you notice a high voltage security system armed upon it.}
+{140}{}{Voce ve uma porta destrancada.}
+{141}{}{Voce ve uma porta destrancada.}
+{142}{}{Voce ve uma porta destrancada com um campo se movendo na frente dela.}
+{143}{}{Voce ve uma porta destrancada com um sistema de segurança de alta voltagem armado nela.}
+{144}{}{Voce ve uma porta.}
+{145}{}{Voce ve uma porta.}
+{146}{}{Voce ve uma porta com um campo se movendo na frente dela.}
+{147}{}{Voce ve uma porta com um sistema de segurança de alta voltagem armado nela.}
+{148}{}{Voce ve uma porta trancada.}
+{149}{}{Voce ve uma porta trancada.}
+{150}{}{Voce ve uma porta trancada com um campo se movendo na frente dela.}
+{151}{}{Voce ve uma porta trancada com um sistema de segurança de alta voltagem armado nela.}
+{152}{}{A tranca nesta porta parece precisar de uma chave-passe especial.}
+{153}{}{A tranca nesta porta parece precisar de uma chave-passe especial.}
+{154}{}{A tranca nesta porta parece precisar de uma chave-passe especial. Adicionalmente, voce nota um campo levemente tremulo diante da porta.}
+{155}{}{A tranca nesta porta parece precisar de uma chave-passe especial. Adicionalmente, voce nota um sistema de segurança de alta voltagem armado nela.}
 
-{156}{}{Você vê uma unlocked door with yellow paint on it.}
-{157}{}{Você vê uma unlocked door with yellow paint on it.}
-{158}{}{Você vê uma unlocked door with a moving yellow field in front of it.}
-{159}{}{Você vê uma unlocked door with a high voltage security system armed upon it.}
-{160}{}{Você vê uma door with yellow paint on it.}
-{161}{}{Você vê uma door with yellow paint on it.}
-{162}{}{Você vê uma door with a moving yellow field in front of it.}
-{163}{}{Você vê uma door with a high voltage security system armed upon it.}
-{164}{}{Você vê uma locked door with yellow paint on it.}
-{165}{}{Você vê uma locked door with yellow paint on it.}
-{166}{}{Você vê uma locked door with a moving yellow field in front of it.}
-{167}{}{Você vê uma locked door with a high voltage security system armed upon it.}
-{168}{}{The lock on this yellow door seems to need a special passkey.}
-{169}{}{The lock on this yellow door seems to need a special passkey.}
-{170}{}{The lock on this door seems to need a special passkey. Additionally, you notice a shimmering yellow field before the door.}
-{171}{}{The lock on this door seems to need a special passkey. Additionally, you notice a high voltage security system armed upon it.}
+{156}{}{Voce ve uma porta destrancada com tinta amarela nela.}
+{157}{}{Voce ve uma porta destrancada com tinta amarela nela.}
+{158}{}{Voce ve uma porta destrancada com um campo amarelo se movendo na frente dela.}
+{159}{}{Voce ve uma porta destrancada com um sistema de segurança de alta voltagem armado nela.}
+{160}{}{Voce ve uma porta com tinta amarela nela.}
+{161}{}{Voce ve uma porta com tinta amarela nela.}
+{162}{}{Voce ve uma porta com um campo amarelo se movendo na frente dela.}
+{163}{}{Voce ve uma porta com um sistema de segurança de alta voltagem armado nela.}
+{164}{}{Voce ve uma porta trancada com tinta amarela nela.}
+{165}{}{Voce ve uma porta trancada com tinta amarela nela.}
+{166}{}{Voce ve uma porta trancada com um campo amarelo se movendo na frente dela.}
+{167}{}{Voce ve uma porta trancada com um sistema de segurança de alta voltagem armado nela.}
+{168}{}{A tranca nesta porta amarela parece precisar de uma chave-passe especial.}
+{169}{}{A tranca nesta porta amarela parece precisar de uma chave-passe especial.}
+{170}{}{A tranca nesta porta parece precisar de uma chave-passe especial. Adicionalmente, voce nota um campo amarelo levemente tremulo diante da porta.}
+{171}{}{A tranca nesta porta parece precisar de uma chave-passe especial. Adicionalmente, voce nota um sistema de segurança de alta voltagem armado nela.}
 
-{172}{}{Você vê uma unlocked door with yellow paint on it.}
-{173}{}{Você vê uma unlocked door with yellow paint on it.}
-{174}{}{Você vê uma unlocked door with a moving yellow field in front of it.}
-{175}{}{Você vê uma unlocked door with a high voltage security system armed upon it.}
-{176}{}{Você vê uma door with yellow paint on it.}
-{177}{}{Você vê uma door with yellow paint on it.}
-{178}{}{Você vê uma door with a moving yellow field in front of it.}
-{179}{}{Você vê uma door with a high voltage security system armed upon it.}
-{180}{}{Você vê uma locked door with yellow paint on it.}
-{181}{}{Você vê uma locked door with yellow paint on it.}
-{182}{}{Você vê uma locked door with a moving yellow field in front of it.}
-{183}{}{Você vê uma locked door with a high voltage security system armed upon it.}
-{184}{}{The lock on this yellow door seems to need a special passkey.}
-{185}{}{The lock on this yellow door seems to need a special passkey.}
-{186}{}{The lock on this door seems to need a special passkey. Additionally, you notice a shimmering yellow field before the door.}
-{187}{}{The lock on this door seems to need a special yellow passkey. Additionally, you notice a high voltage security system armed upon it.}
+{172}{}{Voce ve uma porta destrancada com tinta amarela nela.}
+{173}{}{Voce ve uma porta destrancada com tinta amarela nela.}
+{174}{}{Voce ve uma porta destrancada com um campo amarelo se movendo na frente dela.}
+{175}{}{Voce ve uma porta destrancada com um sistema de segurança de alta voltagem armado nela.}
+{176}{}{Voce ve uma porta com tinta amarela nela.}
+{177}{}{Voce ve uma porta com tinta amarela nela.}
+{178}{}{Voce ve uma porta com um campo amarelo se movendo na frente dela.}
+{179}{}{Voce ve uma porta com um sistema de segurança de alta voltagem armado nela.}
+{180}{}{Voce ve uma porta trancada com tinta amarela nela.}
+{181}{}{Voce ve uma porta trancada com tinta amarela nela.}
+{182}{}{Voce ve uma porta trancada com um campo amarelo se movendo na frente dela.}
+{183}{}{Voce ve uma porta trancada com um sistema de segurança de alta voltagem armado nela.}
+{184}{}{A tranca nesta porta amarela parece precisar de uma chave-passe especial.}
+{185}{}{A tranca nesta porta amarela parece precisar de uma chave-passe especial.}
+{186}{}{A tranca nesta porta parece precisar de uma chave-passe especial. Adicionalmente, voce nota um campo amarelo levemente tremulo diante da porta.}
+{187}{}{A tranca nesta porta parece precisar de uma chave-passe amarela especial. Adicionalmente, voce nota um sistema de segurança de alta voltagem armado nela.}
 
-{188}{}{Você vê uma door with green paint on it.}
-{189}{}{Você vê uma door with a moving green field in front of it.}
-{190}{}{Você vê uma high voltage security system on this green door.}
-{191}{}{Você vê uma high voltage security system on this green door. You wonder if there is a passkey to bypass it.}
+{188}{}{Voce ve uma porta com tinta verde nela.}
+{189}{}{Voce ve uma porta com um campo verde se movendo na frente dela.}
+{190}{}{Voce ve um sistema de segurança de alta voltagem nesta porta verde.}
+{191}{}{Voce ve um sistema de segurança de alta voltagem nesta porta verde. Voce imagina se ha uma chave-passe pra evita-lo.}
 
-{192}{}{Você vê uma door.}
-{193}{}{Você vê uma door with a moving field in front of it.}
-{194}{}{Você vê uma high voltage security system on this door.}
-{195}{}{Você vê uma high voltage security system on this door. You wonder if there is a passkey to bypass it.}
+{192}{}{Voce ve uma porta.}
+{193}{}{Voce ve uma porta com um campo se movendo na frente dela.}
+{194}{}{Voce ve um sistema de segurança de alta voltagem nesta porta.}
+{195}{}{Voce ve um sistema de segurança de alta voltagem nesta porta. Voce imagina se ha uma chave-passe pra evita-lo.}
 
-{196}{}{Você vê uma door with yellow paint on it.}
-{197}{}{Você vê uma door with a moving yellow field in front of it.}
-{198}{}{Você vê uma high voltage security system on this yellow door.}
-{199}{}{Você vê uma high voltage security system on this yellow door. You wonder if there is a passkey to bypass it.}
+{196}{}{Voce ve uma porta com tinta amarela nela.}
+{197}{}{Voce ve uma porta com um campo amarelo se movendo na frente dela.}
+{198}{}{Voce ve um sistema de segurança de alta voltagem nesta porta amarela.}
+{199}{}{Voce ve um sistema de segurança de alta voltagem nesta porta amarela. Voce imagina se ha uma chave-passe pra evita-lo.}
 
-{200}{}{Você vê uma door with yellow paint on it.}
-{201}{}{Você vê uma door with a moving yellow field in front of it.}
-{202}{}{Você vê uma high voltage security system on this yellow door.}
-{203}{}{Você vê uma high voltage security system on this yellow door. You wonder if there is a passkey to bypass it.}
+{200}{}{Voce ve uma porta com tinta amarela nela.}
+{201}{}{Voce ve uma porta com um campo amarelo se movendo na frente dela.}
+{202}{}{Voce ve um sistema de segurança de alta voltagem nesta porta amarela.}
+{203}{}{Voce ve um sistema de segurança de alta voltagem nesta porta amarela. Voce imagina se ha uma chave-passe pra evita-lo.}
 
-{204}{}{You notice there is a trap on this door.}
-{205}{}{The elevator is inoperable. It seems to need power.}
+{204}{}{Voce nota que ha uma armadilha nesta porta.}
+{205}{}{O elevador esta inoperavel. Parece precisar de força.}

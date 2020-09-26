@@ -1,121 +1,121 @@
-{100}{}{Você vê Lorraine, uma Scav de Adytum.}
-{101}{}{Você vê uma jovem mulher com cabelo escuro.}
-{102}{}{Oi. Você é novo(a) aqui?}
-{103}{}{Sim. Você pode me fill um pouco?}
-{104}{}{Sim, eu sou. Eu sou }
+{100}{}{Você ve a Lorraine, uma Scav de Adytum.}
+{101}{}{Voce ve uma jovem mulher com cabelo escuro.}
+{102}{}{Oi. Voce e novo aqui?}
+{103}{}{Sim. Voce pode me ajudar um pouco?}
+{104}{}{Sim eu sou. Eu sou chamado de }
 {105}{}{. }
 {106}{}{Whuuu?}
-{107}{}{Eu suponho. Do que você precisa saber a respeito?}
-{108}{}{Quem é você?}
-{109}{}{Você pode me dar um pouco de informação sobre a Boneyard?}
+{107}{}{Eu suponho. Do que voce precisa saber a respeito?}
+{108}{}{Quem e voce?}
+{109}{}{Voce pode me dar um pouco de informacao sobre a Boneyard?}
 {110}{}{Me diga um pouco sobre os outros residentes de Adytum.}
-{111}{}{O que você faz para viver?}
-{112}{}{Deixa pra lá, obrigado.}
+{111}{}{O que voce faz para viver?}
+{112}{}{Deixa pra la, obrigado.}
 {113}{}{Eu sou Lorraine.}
 {114}{}{Eu posso fazer algumas perguntas?}
-{115}{}{Bom encontrar você. Tchau.}
-{116}{}{I'm a Scav. I work with Sammael to collect stuff from the
- ruins, so that we can use it to build or trade.}
+{115}{}{Bom encontrar voce. Tchau.}
+{116}{}{Eu sou uma Scav. Eu trabalho com o Sammael pra coletar coisas das
+ ruinas, para que nos possamos usa-las pra construir ou fazer comercio.}
 {117}{}{Soa perigoso, com as gangues.}
-{118}{}{Quanto Scavs existem?}
-{119}{}{Eu posso perguntar a você sobre algo diferente?}
-{120}{}{Bacana conversar com você.}
-{121}{}{It can be, if you're caught. The Rippers are especially
- hard on trespassers. That's why we work hard not to get caught!}
-{122}{}{Você pode me dizer um pouco sobre as gangues?}
-{123}{}{Como você evita ser pêgo(a)?}
-{124}{}{Eu posso perguntar a você sobre algumas outras coisas?}
+{118}{}{Quantos Scavs existem?}
+{119}{}{Eu posso perguntar a voce sobre algo diferente?}
+{120}{}{Bom conversar com voce.}
+{121}{}{Pode ser, se voce e pego. Os Rippers sao especialmente duros com
+ os invasores. E por isso que nos trabalhamos duro pra nao sermos pegos!}
+{122}{}{Voce pode me falar um pouco sobre as gangues?}
+{123}{}{Como voce evita ser pega?}
+{124}{}{Eu posso perguntar a voce sobre algumas outras coisas?}
 {125}{}{Obrigado. Tchau.}
-{126}{}{Oh, there's half a dozen of us. Sammael was the first one, and
- he's still the best.}
-{127}{}{Eu posso perguntar a você sobre algumas outras coisas?}
+{126}{}{Oh, ha meia duzia de nos. O Sammael foi o primeiro, e ele ainda e
+ o melhor.}
+{127}{}{Eu posso perguntar a voce sobre algumas outras coisas?}
 {128}{}{Interessante. Obrigado.}
-{129}{}{You can always tell the Blades because they have those nasty
- vibro-knives. The Rippers, on the other hand, are low-tech but
- really mean.}
-{130}{}{The Rippers even have a minefield around their fort! Makes you
- wonder what Julianna was thinking.}
-{131}{}{O que você quer dizer sobre a Julianna?}
-{132}{}{Muito desagradável. Eu posso perguntar sobre algumas outras coisas?}
+{129}{}{Voce pode sempre dizer os Blades porque eles tem aquelas
+ vibro-facas nasty. Os Rippers, por outro lado sao low-tech mas
+ realmente malvados.}
+{130}{}{Os Rippers ate mesmo tem um campo minado em volta do forte deles! Faz voce
+ imaginar o que a Julianna estava pensando.}
+{131}{}{O que voce quer dizer sobre a Julianna?}
+{132}{}{Muito desagradavel. Eu posso perguntar sobre algumas outras coisas?}
 {133}{}{Obrigado pelo aviso.}
-{134}{}{Oh, she wound up falling for some Ripper a while ago. Poor
- dear can't leave the town, of course, and Caleb would kill
- the young lad on sight. Very tragic.}
-{135}{}{Uh . . . se você diz que sim.}
-{136}{}{Eu posso perguntar sobre algumas outras questões?}
+{134}{}{Oh, ela acabou se apaixonando por algum Blade a um tempo atras. A pobre
+ querida nao consegue deixar a cidade, claro, e o Caleb mataria o jovem homem
+ a vista. Muito tragico.}
+{135}{}{Uh . . . se voce diz que sim.}
+{136}{}{Eu posso perguntar sobre algumas outras questoes?}
 {137}{}{Hmm. Obrigado por me filling. Tchau.}
-{138}{}{We only scavenge after dark. And we're very good at what we
- do. Sammael's got a little test that he likes to throw out
- at people, before he lets them become Scavs.}
-{139}{}{Qual é o teste?}
+{138}{}{Nos so scavenge apos escurecer. E nos somos muito bons no que nos
+ fazemos. O Sammael tem um pequeno teste que ele gosta de jogar nas
+ pessoas antes de ele deixar elas se tornarem Scavs.}
+{139}{}{Qual e o teste?}
 {140}{}{Ainda soa perigoso.}
-{141}{}{Eu entendo. Se importa se nós back up um pouco?}
+{141}{}{Eu entendo. Se importa se nos back up um pouco?}
 {142}{}{Interessante. Tchau.}
-{143}{}{Sammael has the person hide somewhere within Adytum during the
- day. If he can't find the student in an hour, then he lets
- the person join the next scavenger party.}
-{144}{}{Que sistema estúpido!}
-{145}{}{Parece funcionar. Você ainda está viva.}
-{146}{}{Huh. Eu posso perguntar a você sobre algumas outras coisas?}
+{143}{}{O Sammael faz a pessoa se esconder em algum lugar dentro de Adytum
+ durante o dia. Se ele nao conseguir achar o estudante em uma hora entao
+ ele deixa a pessoa se juntar no proximo grupo de scavenger.}
+{144}{}{Que sistema estupido!}
+{145}{}{Parece funcionar. Voce ainda esta viva.}
+{146}{}{Huh. Eu posso perguntar a voce sobre algumas outras coisas?}
 {147}{}{Interessante. Tchau.}
-{148}{}{Come now, isn't there the faintest trace of a romantic in
- you? Really, it's too bad. Unrequited love and all of that.
- Tragic.}
-{149}{}{Hmpf. Shows what you know. Tell that to Sammael. If you
- can find him.}
-{150}{}{Yes, although it can be rough. It's very dangerous, especially
- if you're caught.}
-{151}{}{Sem dúvida. Eu posso perguntar sobre algo mais?}
-{152}{}{Obrigado pela info.}
-{153}{}{Uau, eu acho que você está um pouco além da minha ajuda.}
-{154}{}{This used to be a big city, called Los Angeles. But the
- bombs hit really hard. Now, there's just the Angel's
- Boneyard. We Adytowners are just trying to survive in the
- wreckage.}
-{155}{}{Você pode me dizer mais sobre Los Angeles?}
+{148}{}{Vamos la, nao ha o traco mais fraco de um romantico em
+ voce? Realmente, e muito ruim. Amor nao correspondido e tudo
+ isso. Tragico.}
+{149}{}{Hmpf. Mostre o que voce sabe. Diga isso a Sammael. Se voce
+ conseguir acha-lo.}
+{150}{}{Sim, embora possa ser dificil. E muito perigoso, especialmente
+ se voce e pego.}
+{151}{}{Sem duvida. Eu posso perguntar sobre algo mais?}
+{152}{}{Obrigado pela informacao.}
+{153}{}{Uau, eu acho que voce esta um pouco alem da minha ajuda.}
+{154}{}{Esta costumava ser uma grande cidade chamada Los Angeles. Mas as
+ bombas atingiram pra valer. Agora, so ha a Angel's Boneyard. Nos
+ Adytowners estamos apenas tentando sobreviver nos
+ destrocos.}
+{155}{}{Voce pode me dizer mais sobre Los Angeles?}
 {156}{}{Eu entendo. Obrigado.}
-{157}{}{Lots of people lived here, and they did important things like
- making computer games. From what I hear, the survivors hid in
- a big place called a Vault, and came out years later. Some of
- them founded Adytum, but the}
-{158}{}{others formed the street gangs, the Blades and the
- Rippers. The Gun Runners aren't from here originally.}
-{159}{}{Onde está esta Vault?}
-{160}{}{Qual é o problema com os Reguladores?}
-{161}{}{De onde são os Gun Runners?}
-{162}{}{Fazer jogos de computador? Não soa muito importante pra mim.}
+{157}{}{Muitas pessoas viviam aqui e elas faziam coisas importantes como
+ fazer jogos de computador. Do que eu ouvi, os sobreviventes se
+ esconderam num lugar grande chamado Vault, e sairam anos mais
+ tarde. Algun deles fundaram Adytum, mas os}
+{158}{}{outros formaram as gangues de rua, os Blades e os
+ Rippers. Os Gun Runners nao sao originalmente daqui.}
+{159}{}{Aonde esta Vault esta?}
+{160}{}{Me fale sobre as gangues.}
+{161}{}{De onde sao os Gun Runners?}
+{162}{}{Fazer jogos de computador? Nao soa muito importante pra mim.}
 {163}{}{Obrigado pela sua ajuda.}
-{164}{}{Well, supposedly it was somewhere south of here, but I don't
- know really. I think everyone left because it was broken.}
-{165}{}{Eu posso fazer a você mais algumas perguntas?}
+{164}{}{Bem supostamente estava em algum lugar ao sul daqui mas eu nao
+ sei realmente. Eu acho que todos sairam porque estava quebrada.}
+{165}{}{Eu posso fazer mais algumas perguntas pra voce?}
 {166}{}{Hmm. Obrigado.}
-{167}{}{I'm not really sure. I think they came from somewhere up
- north of here.}
-{168}{}{Me diga a respeito das outras gangues.}
-{169}{}{Eu posso perguntar sobre algumas outras coisas?}
-{170}{}{Obrigado pela informação.}
-{171}{}{Who do you want to know about, Zimmerman, Caleb, Miles,
- Taylor, or Smitty?}
+{167}{}{Eu nao tenho certeza realmente. Eu acho que eles vieram de algum lugar
+ ao norte daqui.}
+{168}{}{Me fale sobre as outras gangues.}
+{169}{}{Eu posso perguntar sobre outras coisas?}
+{170}{}{Obrigado pela informacao.}
+{171}{}{Sobre quem voce quer saber? Zimmerman, Caleb, Miles,
+ Taylor ou Smitty?}
 {172}{}{Jon Zimmerman.}
 {173}{}{Caleb.}
 {174}{}{Miles.}
 {175}{}{Taylor.}
 {176}{}{Smitty.}
-{177}{}{Ninguém.}
-{178}{}{Zimmerman watches over our town. He makes sure that everyone
- gets fed, and that everybody has a job to do.}
-{179}{}{Caleb is the leader of the Regulators. It's his job to
- protect Adytum. He's very strict, but he means well.}
-{180}{}{Ah, our resident chemist. Miles makes bullets, and he also
- built the water distiller that makes sure we get clean
- water from the well. He's working on an underground
- farm right now, but he's missing some parts.}
-{181}{}{Taylor runs the shop. It's in the bunker near the gate.
- He trades with the Hub merchants for us.}
-{182}{}{Hm. Smitty is a tinker of sorts. He's good at repair work.
- He casts bullets and fixes broken stuff around town.}
-{183}{}{Eu posso perguntar a respeito de mais alguém?}
-{184}{}{Nós podemos falar sobre um assunto diferente?}
+{177}{}{Ninguem.}
+{178}{}{O Zimmerman toma conta da nossa cidade. Ele procura ter certeza de
+ que todos fiquem alimentados e que todos tenham um trabalho pra fazer.}
+{179}{}{O Caleb e o lider dos Reguladores. E o trabalho dele proteger
+ Adytum. Ele parece aprecia-lo um pouco mais do que ele deveria.}
+{180}{}{Ah, nosso quimico residente. O Miles faz balas, e ele tambem
+ construiu o destilador de agua que garante que nos consigamos agua
+ limpa do poco. Ele esta trabalhando numa fazenda no subsolo agora
+ mesmo, mas ele esta com falta de algumas partes.}
+{181}{}{O Tine comanda a loja. Ela esta no bunker perto do portao.
+ Ele faz comercio com os mercadores do Hub pra nos.}
+{182}{}{Hmm. O Smitty e um tipo de tinker. Ele e bom em trabalho de reparacao.
+ Ele casts balas e conserta coisas quebradas pela cidade.}
+{183}{}{Eu posso perguntar a respeito de mais alguem?}
+{184}{}{Nos podemos falar sobre um assunto diferente?}
 {185}{}{Obrigado.}
-{186}{}{Are you kidding? Without computer games, you wouldn't be playing
- this, now would you?}
+{186}{}{Voce esta brincando? Sem jogos de computador voce nao estaria jogando
+ isto agora estaria?}

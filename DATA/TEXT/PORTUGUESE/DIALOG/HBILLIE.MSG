@@ -1,89 +1,89 @@
-{100}{}{Você ve o Billy.}
+{100}{}{Voce ve o Billy.}
 {101}{}{Ei! Deixe minhas coisas em paz!}
 {102}{}{Oi.}
-{103}{}{Oi, o que você esta fazendo?}
+{103}{}{Oi, o que voce esta fazendo?}
 {104}{}{Eu posso ter um brahmin?}
 {105}{}{Oi. Uh, tchau.}
 {106}{}{Arg!}
 {107}{}{Ta.}
-{108}{}{Por que você iria querer um brahmin? Você tem uma caravana? Bem, não importa. Eu so tomo conta deles.
-  O Dan e aquele que os possui; apesar disso ele não vendera eles.}
+{108}{}{Por que voce iria querer um brahmin? Voce tem uma caravana? Bem, nao importa. Eu so tomo conta deles.
+  O Dan e aquele que os possui; apesar disso ele nao vendera eles.}
 {109}{}{Por que?}
 {110}{}{Eu estava apenas brincando.}
-{111}{}{Por causa de todas as caravanas desaparecidas. Ele não tem nenhum de sobra, as caravanas usam a maioria	deles. Os
- outros são vendidos pra comida. Bem, melhor eu parar de falar; o Dan ficara louco se ele me ver falando
+{111}{}{Por causa de todas as caravanas desaparecidas. Ele nao tem nenhum de sobra, as caravanas usam a maioria	deles. Os
+ outros sao vendidos pra comida. Bem, melhor eu parar de falar; o Dan ficara louco se ele me ver falando
  com um estranho.}
 {112}{}{Oh, ok.}
 {113}{}{Nada… eu quero dizer, eu estou tomando conta dos brahmin.}
-{114}{}{Para o que e a lanca? Eles são perigosos? }
+{114}{}{Para o que e a lanca? Eles sao perigosos? }
 {115}{}{O que e um brahmin?}
-{116}{}{O que e um brahmin? You must be joking. Por que they're one of the major food sources and forms of
- transportation around here. They haul the caravans. Dan says this is a really important job, but
- it sucks.}
+{116}{}{O que e um brahmin? Você deve estar brincando. Por que eles são uma das principais fontes de alimentos e formas de
+ transporte por aqui. Eles transportam as caravanas. Dan diz que este é um trabalho realmente importante, mas
+ é uma merda.}
 {117}{}{Oh, Eu sabia disso! }
-{118}{}{Dan esta certo. Você esta fazendo um otimo trabalho.}
+{118}{}{Dan esta certo. Voce esta fazendo um otimo trabalho.}
 {119}{}{Sim, parece desse modo. Divirta-se.}
-{120}{}{Ei, você e um daqueles skags, não e?}
-{121}{}{Realmente? Você pensa assim? Puxa, obrigado.}
-{122}{}{You’re not from around here are you. I’ll give you one tip. Don’t get caught stealing!}
+{120}{}{Ei, voce e um daqueles skags, nao e?}
+{121}{}{Realmente? Voce pensa assim? Puxa, obrigado.}
+{122}{}{Você não é daqui, é você. Eu vou te dar uma dica. Não seja pego roubando!}
 {123}{}{Sure, obrigado.}
-{124}{}{Eu não sonharia em roubar. Roubar e errado.}
-{125}{}{Yea, I think I’m starting to agree with you. This job isn’t so bad really. It makes me feel
- good for some reason. Well, I’ve got to go before I get in trouble.}
-{126}{}{Por favor não machuque a mim ou a meus brahmins.}
+{124}{}{Eu nao sonharia em roubar. Roubar e errado.}
+{125}{}{Sim, acho que estou começando a concordar com você. Esse trabalho não é tão ruim assim. Isso me faz sentir
+ bom por algum motivo. Bem, tenho que ir antes de me meter em apuros.}
+{126}{}{Por favor nao machuque a mim ou a meus brahmins.}
 {127}{}{Nao me machuque!}
 {128}{}{Pare com isso!}
 {129}{}{Por favor me deixe em paz.}
-{130}{}{Você esta me assustando.}
-{131}{}{Ei, o que você esta tentando fazer? Eu não tenho nada que você queira.}
+{130}{}{Voce esta me assustando.}
+{131}{}{Ei, o que voce esta tentando fazer? Eu nao tenho nada que voce queira.}
 {132}{}{Pare com isso!}
-{133}{}{Dangerous?  No, not really. They call give you a really nasty bite, but they’re pretty cool.
- They fart and burp a lot. I don’t know why.}
+{133}{}{Perigoso? Não, na verdade não. Eles chamam de dar uma mordida realmente desagradável, mas eles são bem legais.
+ Eles peidam e arrotam muito. Eu não sei porque.}
 {134}{}{Entao, para o que e a lanca?}
 {135}{}{Ok, obrigado.}
-{136}{}{Oh, they can be awfully stubborn when I want them to do something. I just gently stick them
- to get them to move around… plus I don’t want to get to close, they sometimes kick.}
-{137}{}{Please don’t talk to me, Dan is going to yell at me again. He really gets piss… I mean… mad,
- when I’m not paying attention to o que I’m doing.}
-{138}{}{Ele so esta tentando ajudar. Trabalhe duro e eu tenho certeza de que ele será mais bacana.}
+{136}{}{Oh, eles podem ser muito teimosos quando eu quero que eles façam alguma coisa. Eu apenas os coloco gentilmente
+ para levá-los a se mover ... mais eu não quero chegar perto, eles às vezes chutam.}
+{137}{}{Por favor, não fale comigo, Dan vai gritar comigo de novo. Ele realmente fica mijo ... quero dizer ... louco
+ quando não estou prestando atenção ao que estou fazendo.}
+{138}{}{Ele so esta tentando ajudar. Trabalhe duro e eu tenho certeza de que ele sera mais bacana.}
 {139}{}{Aqui garoto, leve 50 pratas e get away panaca.}
-{140}{}{Certo.}
+{140}{}{Okay.}
 {141}{}{Aaaaaarg!}
 {142}{}{Rhu?}
-{143}{}{Por favor não, eu já estou com problemas o bastante.}
+{143}{}{Por favor nao, eu ja estou com problemas o bastante.}
 {144}{}{Eu ESTOU trabalhando duro!}
-{145}{}{Eu lamento, eu não quis dizer isso. Ele apenas esta tentando ajudar você.}
-{146}{}{Nao, você não esta, seu lazy little skeev!}
+{145}{}{Eu lamento, eu nao quis dizer isso. Ele apenas esta tentando ajudar voce.}
+{146}{}{Nao, voce nao esta, seu lazy little skeev!}
 {147}{}{Ok.}
-{148}{}{Yea, maybe you right… . actually he seems pretty cool, but I wish he wouldn’t yell at me so much.}
-{149}{}{Yea, right.}
-{150}{}{Up yours, you old fart!}
-{151}{}{Up yours, you old hag!}
+{148}{}{Sim, talvez você esteja certo ... na verdade ele parece bem legal, mas eu gostaria que ele não gritasse tanto comigo.}
+{149}{}{Sim, certo.}
+{150}{}{Até o seu, seu velho peido!}
+{151}{}{Suba a sua, sua velha bruxa!}
 {152}{}{UAU! Eu posso viver nisto pelo resto da minha vida! Muito obrigado, senhor!}
 {153}{}{UAU! Eu posso viver nisto pelo resto da minha vida! Muito obrigado, senhora!}
-{154}{}{UAU! Obrigado... Bem?... Você esta apenas tentando me pôr em problema de novo!}
-{155}{}{Por favor não fale comigo, Dan esta realmente bravo.}
-{156}{}{Nao se preocupe. Eu tive uma conversa com ele, ele tentara ser mais bacana com você.}
-{157}{}{E ele deve estar! Você e um garoto terrivel!}
+{154}{}{UAU! Obrigado... Bem?... Voce esta apenas tentando me pôr em problema de novo!}
+{155}{}{Por favor nao fale comigo, Dan esta realmente bravo.}
+{156}{}{Nao se preocupe. Eu tive uma conversa com ele, ele tentara ser mais bacana com voce.}
+{157}{}{E ele deve estar! Voce e um garoto terrivel!}
 {158}{}{Wac.}
 {159}{}{Oi!}
-{160}{}{Aquelas garotas logo ali com certeza são burras.}
+{160}{}{Aquelas garotas logo ali com certeza sao burras.}
 {161}{}{Oi again.}
-{162}{}{Brahmin are cool.}
-{163}{}{Dan’s taking me to the Falcon if I do a good job.}
-{164}{}{Dan’s going to take me on a caravan some day!}
-{165}{}{I’m going to be an adventurer when I grow up.}
-{166}{}{Really? Oh, okay. I hope you didn’t hurt him. He’s really not so bad. He just yells a lot.}
-{167}{}{Hello again.}
-{168}{}{What is it you do again? }
+{162}{}{Brahmin são legais.}
+{163}{}{Dan está me levando para o Falcon se eu fizer um bom trabalho.}
+{164}{}{Dan vai me levar em uma caravana algum dia!}
+{165}{}{Eu serei um aventureiro quando crescer.}
+{166}{}{Realmente? Ok. Eu espero que você não tenha machucado ele. Ele não é tão ruim assim. Ele apenas grita muito.}
+{167}{}{Olá novamente.}
+{168}{}{O que é que você faz de novo? }
 {169}{}{Eu posso ter um brahmin?}
-{170}{}{Just stopping by to say how things where going. Tchau.}
+{170}{}{Apenas parando para dizer como as coisas estão indo. Tchau.}
 {171}{}{Arg!}
 {172}{}{Ta.}
-{173}{}{I better get back to work.}
-{174}{}{Aquelas garotas logo ali com certeza são burras.}
-{175}{}{Oi again.}
-{176}{}{I’m going to be an adventurer when I grow up.}
-{177}{}{Brahmin sure do shi… uh, poop a lot.}
-{178}{}{I can’t talk right now.}
-{179}{}{I don’t want to get in trouble.}
+{173}{}{É melhor eu voltar ao trabalho.}
+{174}{}{Aquelas garotas logo ali com certeza certeza sao burras.}
+{175}{}{Oi novamente}
+{176}{}{Eu serei um aventureiro quando crescer.}
+{177}{}{Brahmin com certeza faz shi… uh, cocô muito.}
+{178}{}{Eu não posso falar agora.}
+{179}{}{Eu não quero me meter em apuros.}

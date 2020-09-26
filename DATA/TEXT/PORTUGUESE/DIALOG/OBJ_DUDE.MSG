@@ -39,7 +39,7 @@
 {2804}{}{Bacia Hidrografica}
 {2805}{}{Hall}
 {2900}{}{Ele não e algum cara grande importante?}
-{2901}{}{I dunno, mas a bacia hidrografica poderia ter um.}
+{2901}{}{Eu não sei, mas a bacia hidrografica poderia ter um.}
 {2902}{}{Você de pe nela. Tudo que restou dela, pelo menos. Este
  lugar esta morrendo, lentamente mas certamente.}
 {2903}{}{Oh, eu gosto dele, eu gosto.  Você pode acha-lo no Hall.}
@@ -60,7 +60,7 @@
 {3404}{}{Bacia Hidrografica}
 {3405}{}{Hall}
 {3500}{}{Ele não e algum cara grande importante?}
-{3501}{}{I dunno, mas a bacia hidrografica poderia ter um.}
+{3501}{}{Eu não sei, mas a bacia hidrografica poderia ter um.}
 {3502}{}{Você de pe nela. Tudo que restou dela, pelo menos. Este
  lugar esta morrendo, lentamente mas certamente.}
 {3503}{}{Oh, eu gosto dele, eu gosto.  Você pode acha-lo no Hall.}
@@ -81,7 +81,7 @@
 {4004}{}{Bacia Hidrografica}
 {4005}{}{Hall}
 {4100}{}{Ele não e algum cara grande importante?}
-{4101}{}{I dunno, mas a bacia hidrografica poderia ter um.}
+{4101}{}{Eu não sei, mas a bacia hidrografica poderia ter um.}
 {4102}{}{Você de pe nela. Tudo que restou dela, pelo menos. Este
  lugar esta morrendo, lentamente mas certamente.}
 {4103}{}{Oh, eu gosto dele, eu gosto.  Você pode acha-lo no Hall.}
@@ -147,7 +147,7 @@
 {7105}{}{O que? Eu lamento.}
 {7106}{}{E um grande predio na parte noroeste da cidade.}
 {7107}{}{Loja do Killian? E no centro da cidade..}
-{7108}{}{I dunno, mas o nome me assusta.}
+{7108}{}{Eu não sei, mas o nome me assusta.}
 
 
 #

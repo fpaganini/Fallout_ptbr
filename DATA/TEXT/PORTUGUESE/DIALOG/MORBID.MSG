@@ -1,104 +1,104 @@
-{100}{}{Você see Doutor Mórbido.}
-{101}{}{Eu'm Doutor Mórbido, can Eu help you?}
-{102}{}{Yeah, Eu need some help.}
-{103}{}{Eu need some medical assistance.}
-{104}{}{Não, not today.}
+{100}{}{Você ve o Doutor Morbid.}
+{101}{}{Eu sou o Doutor Morbid, Eu posso ajudar voce?}
+{102}{}{Sim, eu preciso de um pouco de ajuda.}
+{103}{}{Eu preciso de um pouco de assistencia medica.}
+{104}{}{Não, hoje nao.}
 {105}{}{Nng.}
 {106}{}{Ya.}
-{107}{}{Bem, ok, then. Do come back.}
-{108}{}{Bem, if not today, then perhaps sometime in the near
- future.}
-{109}{}{Hopefully not. Bye.}
-{110}{}{We'll just have to see, now won't we. But Eu doubt it.}
-{111}{}{Hmm, lets have a look.}
-{112}{}{Você seem to be in nearly perfect health. That will be $10
- for the examination.}
-{113}{}{Ten caps for you to tell me that? Você gotta be kidding.}
-{114}{}{Here you go. Take your money.}
-{115}{}{Eu never joke. Especially when it comes to physical trauma.
- Você will pay or Eu'll have to resort to other forms of
- compensation, many of which are much more painful then
- just paying my fee.}
-{116}{}{Ok, here's your money.}
-{117}{}{Bite me. Eu'm leaving.}
-{118}{}{Have it your way. Cougar, Flash. Show our 'patient' to
- the lab.}
-{119}{}{Thank you for your business. Come again.}
-{120}{}{Você do not have enough money. Eu have a very special way
- of dealing with debtors - Eu don't. Flash and Cougar,
- take our new found source of income to the lab for
- processing.}
-{121}{}{Ok, Eu have your test results:}
-{122}{}{Você are }
-{123}{}{The total cost will be $}
-{124}{}{. Payment is due before
- treatment. Não exceptions. Will you pay?}
-{125}{}{Yes, Eu will pay.}
-{126}{}{Não, Eu don't have the money. Will you float me?}
+{107}{}{Bem, ok entao. Volta de novo.}
+{108}{}{Bem, se nao hoje entao talvez no futuro
+ proximo.}
+{109}{}{Espero que nao. Tchau.}
+{110}{}{Nos teremos que ver nao teremos? Mas eu duvido.}
+{111}{}{Hmm, vamos dar uma olhada.}
+{112}{}{Você parece estar com saude proxima de perfeita. Serao $10
+ pelo exame.}
+{113}{}{Dez tampinhas pra voce me dizer isso? Voce deve estar brincando.}
+{114}{}{Aqui vai. Tome seu dinheiro.}
+{115}{}{Eu nuna faço piada. Especialmente quando tem a ver com trauma
+ fisico. Você pagara ou eu terei que recorrer a outras formas de
+ compensaçao, muitas das quais sao muito mais dolorosas do que
+ simplesmente pagar minha fee.}
+{116}{}{Ok, aqui esta seu dinheiro.}
+{117}{}{Me morda. Eu estou saindo.}
+{118}{}{Que seja do seu jeito. Cougar, Flash. Mostrem o
+ laboratorio para o nosso 'paciente'.}
+{119}{}{Obrigado por fazer negocio. Volte de novo.}
+{120}{}{Você nao tem dinheiro o bastante. Eu tenho um jeito
+ muito especial de lidar com devedores - Eu nao tenho.
+ Flash e Cougar, levem nossa nova fonte descoberta de
+ renda para o laboratorio para processamento.}
+{121}{}{Ok, Eu tenho os resultados do seu teste:}
+{122}{}{Você esta }
+{123}{}{O custo total sera de $}
+{124}{}{. O pagamento e feito antes do
+ tratamento. Sem exceçoes. Voce pagara?}
+{125}{}{Sim, Eu pagarei.}
+{126}{}{Não, Eu nao tenho o dinheiro. Will you float me?}
 {127}{}{Não.}
 {128}{}{Ya.}
 {129}{}{Nuh.}
-{130}{}{Não. Eu don't loan anyone, and Eu mean anyone, any amount
- of money. Go away, you pauper.}
-{131}{}{It's your life. Good-Bye.}
-{132}{}{Excellent. Let's begin. This might hurt a little . . .}
-{133}{}{There you go. Come back again!}
-{134}{}{Oh, back so soon. What can Eu help you with?}
-{135}{}{Eu need healing.}
-{136}{}{Nothing, just making small talk.}
+{130}{}{Não. Eu nao empresto a ninguem e eu quero dizer a ninguem,
+ qualquer quantia de dinheiro. Vai embora seu pauper.}
+{131}{}{E sua vida. Adeus.}
+{132}{}{Excelente. Vamos começar. Isto poderia machucar um pouco...}
+{133}{}{Ai vai. Volte de novo!}
+{134}{}{Oh, de volta tao cedo. Com o que eu posso ajudar voce?}
+{135}{}{Eu preciso de cura.}
+{136}{}{Nada, so conversando.}
 {137}{}{Wock!}
-{138}{}{Please make it somewhere else, Eu'm busy.}
-{139}{}{Hmmm. Eu don't like your looks, stranger. But what can
- Eu do for you? Eu never, ever turn away a paying customer.}
-{140}{}{Eu need some help.}
-{141}{}{Eu need some medical assistance.}
-{142}{}{Nothing today, thanks.}
+{138}{}{Por favor o faça em algum outro lugar. Eu estou ocupado.}
+{139}{}{Hmmm. Eu nao gosto da sua aparencia estranho. Mas o que eu posso
+ fazer por voce? Eu nunca jamais rejeito um fregues que paga.}
+{140}{}{eu preciso de um pouco de ajuda.}
+{141}{}{Eu preciso de um pouco de assistencia medica.}
+{142}{}{Nada hoje, obrigado.}
 {143}{}{Hep.}
-{144}{}{Oh, It's you again. Eu like your style, even if Eu don't like
- you. What can Eu help you with, now?}
-{145}{}{Eu need healing.}
-{146}{}{Nothing, just making small talk.}
+{144}{}{Oh, e voce de novo. Eu gosto doe seu estilo mesmo se eu nao
+ gosto de voce. Com o que eu posso ajudar voce agora?}
+{145}{}{Eu preciso de cura.}
+{146}{}{Nada, so conversando.}
 {147}{}{Wock!}
-{148}{}{Oh, It's a customer! What can Eu help you with?}
-{149}{}{Eu need healing.}
-{150}{}{Nothing, just making small talk.}
-{151}{}{Você seem exited to see me. Why?}
+{148}{}{Oh, E um fregues! Com o que eu posso ajudar voce?}
+{149}{}{Eu preciso de cura.}
+{150}{}{Nada, so conversando.}
+{151}{}{Você parece excitado em me ver. Por que?}
 {152}{}{Wock!}
-{153}{}{My business has dropped off recently. Eu'm happy to see
- any customers, these days. Not that Eu mind your company, of course.}
-{154}{}{Excellent, Eu need some healing.}
-{155}{}{Why has your business dropped off?}
-{156}{}{Of course, Eu understand. Have a good day.}
-{157}{}{Bem, if you do need anything, please stop by. Não one can beat my service!}
-{158}{}{In case you haven't noticed, Eu got some competition.}
-{159}{}{ Complaining to Killian won't do anything. He doesn't see
- anything wrong with the newcomers.}
-{160}{}{ Those damn Children have moved in next door, and
- all, um, much of my business has gone to them. Eu don't like it, but Eu can't
- lower my prices to match theirs. Eu can only provide better service.}
-{161}{}{Ahh, Eu do need some healing.}
-{162}{}{Hmm, better prices, interesting. Thank you.}
-{163}{}{Ahh, a repeat customer. Excellent these days! How can
- Eu help you?}
-{164}{}{Eu need healing.}
-{165}{}{Nothing, just making small talk.}
+{153}{}{Meus negocios cairam recentemente. Eu estou feliz de ver quaisquer
+ fregueses estes dias. Nao que eu me importe com sua companhia claro.}
+{154}{}{Excelente, Eu preciso de um pouco de cura.}
+{155}{}{Por que seus negocios cairam?}
+{156}{}{Claro. Eu entendo. Tenha um bom dia.}
+{157}{}{Bem, se voce precisar de alguma coisa por favor passe. Ninguem consegue ganhar dos meus serviços!}
+{158}{}{No caso de voce nao ter notado eu tenho alguns competidores.}
+{159}{}{ Se queixar com o Killain nao dara em nada. Ele nao ve
+ nada errado com os recem-chegados.}
+{160}{}{ Aquelas malditas Crianças se mudara para a porta ao lado e tal, hm, muito
+ do meu negocio foi pra eles. Eu nao gosto mas eu nao posso baixar meus preços
+ pra competir com o deles. Eu so posso fornecer um serviço melhor.}
+{161}{}{Ahh, Eu do preciso de um pouco de cura.}
+{162}{}{Hmm, preços melhores, interessante. Obrigado.}
+{163}{}{Ahh, um fregues repetido. Excelente neste dias! Como eu
+ posso ajudar voce?}
+{164}{}{Eu preciso de cura.}
+{165}{}{Nada, so conversando.}
 {166}{}{Wock!}
-{167}{}{Eu hope you have a good reason for disturbing me. My time is extremely
- valuable.}
-{168}{}{Eu'm dying here! Please help!}
-{169}{}{Eu'm sorry for disturbing you, but Eu need assistance.}
+{167}{}{Eu espero que voce tenha uma boa razao pra me perturbar. Meu tempo e extremamente
+ valioso.}
+{168}{}{Eu estou morrendo aqui! Por favor me ajude!}
+{169}{}{Eu lamento perturbar voce mas eu preciso de assistencia.}
 {170}{}{Aggh!}
-{171}{}{Eu don't find your humor funny. Please leave so Eu can
- return to my work.}
-{172}{}{Hmm. Bem, you seem fine to me. Perhaps you need some rest.
- Try the Crash House, around the corner. Good night.}
-{173}{}{Eu'm sorry, Eu don't treat idiots at this time of night.
- Something about full moons and lunacy, Eu suppose.
- Have a good night.}
-{174}{}{Você again. Eu hope you have another good reason for disturbing
- me . . .}
-{175}{}{Eu'm dying here! Please help!}
-{176}{}{Eu'm sorry for disturbing you, but Eu need assistance.}
+{171}{}{Eu nao acho seu humor engraçado. Por favor saia pra que eu
+ possa retornar ao meu trabalho.}
+{172}{}{Hmm. Bem, voce parece bem pra mim. Talvez voce precise de um pouco
+ de descanso. Tente a Crash House na esquina. Boa noite.}
+{173}{}{Eu lamento, eu nao trato idiotas a esta hora da noite.
+ Algo a ver com luas cheias e loucura eu suponho. Tenha uma
+ boa noite.}
+{174}{}{Você de novo. Eu espero que voce tenha outra boa razao pra
+ me perturbar...}
+{175}{}{Eu estou morrendo aqui! Por favor me ajude!}
+{176}{}{Eu lamento perturbar voce mas eu preciso de assistencia.}
 {177}{}{Aggh!}
 # TRANSLATION NOTES
 # When the player gets help from the Doctor, it will build a diagnosis report
@@ -107,70 +107,70 @@
 # If the player is poisoned, it appends one of lines 187-190; if
 # the player is irradiated, it adds a line from 191-194 depending on
 # the severity of the radiation, and then adds line 195 as well.
-{178}{}{perfectly healthy,}
-{179}{}{slightly wounded,}
-{180}{}{moderately wounded,}
-{181}{}{seriously wounded,}
-{182}{}{near death,}
-{183}{}{ in my medical opinion.}
-{184}{}{ according to my tests.}
-{185}{}{ without a doubt.}
-{186}{}{ in my humble opinion.}
-{187}{}{ Você are definitely suffering from poison.}
-{188}{}{ Você have been poisoned.}
-{189}{}{ Did you know you are poisoned?}
-{190}{}{ Você have a deadly toxin in your bloodstream.}
-{191}{}{ Você have minor radiation poisoning.}
-{192}{}{ Você have some serious radiation poisoning.}
-{193}{}{ Your body has absorbed an incredible amount of radiation.}
-{194}{}{ Eu have never seen such readings on my radscanner.
- Eu think you are about to die. Eu give you two to three weeks.}
-{195}{}{ There is not much Eu can do about it.}
-{196}{}{Eu hope you have a good reason for disturbing me. My time is extremely
- valuable.}
-{197}{}{Eu'm dying here! Please help!}
-{198}{}{Eu'm sorry for disturbing you, but Eu need some assistance.}
+{178}{}{perfeitamente saudavel,}
+{179}{}{leveremente ferido,}
+{180}{}{moderadamente ferido,}
+{181}{}{seriamente ferido,}
+{182}{}{proximo da morte,}
+{183}{}{ na minha opiniao medica.}
+{184}{}{ de acordo com meus testes.}
+{185}{}{ sem duvida.}
+{186}{}{ na minha humilde opiniao.}
+{187}{}{ Você esta definitivamente sofrendo por causa do veneno.}
+{188}{}{ Você foi envenenado.}
+{189}{}{ Voce sabia que voce foi envenenado?}
+{190}{}{ Você tem uma toxina mortal nua sua corrente sanguinea.}
+{191}{}{ Você tem um envenenamento menor por radiaçao.}
+{192}{}{ Você tem um serio envenenamento por radiaçao.}
+{193}{}{ Seu corpo absorveu uma quantia incrivel de radiaçao.}
+{194}{}{ Eu nunca vi tais leituras no meu radscanner. Eu acho que
+ voce esta para morrer. Eu dou a voce de duas a tres semanas.}
+{195}{}{ Nao ha muito que eu possa fazer a respeito.}
+{196}{}{Eu espero que voce tenha uma boa razao pra me perturbar. Meu tempo e extremamente
+ valioso.}
+{197}{}{Eu estou morrendo aqui! Por favor me ajude!}
+{198}{}{Eu lamento perturbar voce mas eu preciso de um pouco de assistencia.}
 {199}{}{Aggh!}
-{200}{}{Eu don't find your humor funny. Please leave so Eu can return to my work.}
-{201}{}{Hmm. Bem, you seem fine to me. Perhaps you need some rest. Try the
- Crash House, around the corner. Good night.}
-{202}{}{Eu'm sorry, Eu don't treat idiots at night. Something about full moons
- and lunacy, Eu suppose. Have a good night.}
-{203}{}{Você again. Eu hope you have another good reason for disturbing me . . .}
-{204}{}{Trespasser! This is a private room!}
+{200}{}{Eu nao acho seu humor engraçado. Por favor saia pra que eu possa retornar ao meu trabalho.}
+{201}{}{Hmm. Bem, voce parece bem pra mim. Talvez voce precise de um pouco de descanso.
+ Tente a Crash House na esquina. Boa noite.}
+{202}{}{Eu lamento, eu nao trato idiotas a noite. Algo sobre luas cheias e loucura
+ eu suponho. Tenha uma boa noite.}
+{203}{}{Você de novo. Eu espero que voce tenha outra boa razao pra me perturbar...}
+{204}{}{Invasor! Esta e uma sala privada!}
 {205}{}{}
 {206}{}{}
-{207}{}{Throw down, butcher!}
-{208}{}{Wait!}
+{207}{}{Throw down, açougueiro!}
+{208}{}{Espere!}
 {209}{}{Ack!}
-{210}{}{Don't try to talk your way out of this one!}
-{211}{}{Why should Eu?}
-{212}{}{Eu'm no danger to you!}
-{213}{}{Eu'm putting a stop to your operation, right here, right now!}
-{214}{}{Não! Eu won't let you shut down my operation! Gretch, get }
-{215}{}{Why?!}
-{216}{}{Eu know what you are doing here, and Eu won't stop you.}
-{217}{}{Você are obviously far more powerful than Eu am.}
-{218}{}{That is true. Unfortunately, you have seen too much. Hmm.}
-{219}{}{ Você will have to be dealt with. Sorry.}
-{220}{}{ Você must prove your sincerity. And Eu might be able to make a little
- profit out of this deal.}
-{221}{}{What do you mean?}
-{222}{}{Não deals, no way.}
-{223}{}{Fine. Have it your way!}
-{224}{}{Eu will take something from you. And then we will be even.}
-{225}{}{Certo.}
-{226}{}{Não way.}
-{227}{}{Excellent!}
-{228}{}{Doutor Mórbido reaches up with a surgical tool, and, before you can react,
- removes one of your eyes. It is extremely painful.}
-{229}{}{Now, half of what you have just seen is mine again.}
-{230}{}{YOU RIPPED OUT MY EYE! YOU MOTHER . . . }
-{231}{}{Now, now. Watch your language.}
-{232}{}{The doctor is out.}
-{233}{}{Eu know about you and Iguana Bob, you filthy butcher.}
-{234}{}{Wh . . . what could you possibly mean?}
-{235}{}{Eu had a little conversation with your troll . . .}
-{236}{}{[He looks shiftily from side to side] That proves nothing. Gretch is a
- little . . . slow in the head. Não one listens to him around here. Você had
- best leave.}
+{210}{}{Nao tente conversar pra fugir desta!}
+{211}{}{Por que eu deveria?}
+{212}{}{Eu nao represento perigo pra voce!}
+{213}{}{Eu estou pondo um fim na sua operaçao aqui e agora!}
+{214}{}{Não! Eu nao deixarei voce acabar com minha operaçao! Gretch, get }
+{215}{}{Por que?!}
+{216}{}{Eu sei o que voce esta fazendo aqui e eu nao impedirei voce.}
+{217}{}{Você e obviamente de longe mais poderoso do que eu sou.}
+{218}{}{Isso e verdade. Infelizmente voce viu demais. Hmm....}
+{219}{}{ terei que lidar com voce. Lamento.}
+{220}{}{ Você deve provar sua sinceridade. E eu poderia ser capaz de
+ obter um pouco de lucro com este negocio.}
+{221}{}{O que voce quer dizer?}
+{222}{}{Sem acordo, de jeito nenhum.}
+{223}{}{Certo. Que seja do seu jeito!}
+{224}{}{Eu tomarei algo de voce. E entao nos estaremos quites.}
+{225}{}{Ok.}
+{226}{}{De jeito nenhum.}
+{227}{}{Excelente!}
+{228}{}{O Doutor Morbid pega uma ferramente cirurgica e antes que voce consiga reagir
+ remove um dos seus olhos. E extremamente doloroso.}
+{229}{}{Agora, metade do que voce acabou e ver e meu de novo.}
+{230}{}{VOCE ARRANCOU MEU OLHO FORA! SEU FUDEDOR DE...}
+{231}{}{Agora agora. Cuidado com o linguajar.}
+{232}{}{O doutor saiu.}
+{233}{}{Eu sei sobre voce e o Bob da Iguana seu açougueiro sujo.}
+{234}{}{O q... o que voce poderia possivelmente querer dizer?}
+{235}{}{Eu tive uma pequena conversa com seu troll...}
+{236}{}{[Ele olha furtivamente de lado a lado] Isso nao prova nada. O Gretch
+ e um pouco... lento na cabeça. Ninguem escuta ele por aqui. Melhor voce
+ sair.}

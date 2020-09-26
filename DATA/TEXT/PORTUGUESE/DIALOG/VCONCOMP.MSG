@@ -1,35 +1,35 @@
-{100}{}{Você vê o Computador de Controle dos Tanques.}
+{100}{}{Voce ve o Computador de Controle dos Tanques.}
 {101}{}{Acesso negado.}
 {102}{}{Acesso concedido. Comando?}
-{103}{}{Exibir os códigos de segurança.}
+{103}{}{Exibir os codigos de seguranca.}
 {104}{}{Vasculhar registros.}
-{105}{}{Uplink aos computadores médicos.}
-{106}{}{Pôr a base em estado de alerta.}
+{105}{}{Uplink aos computadores medicos.}
+{106}{}{Por a base em estado de alerta.}
 {107}{}{17652-1028-1285362}
 {108}{}{67209-5574-7805564}
 {109}{}{55658-8678-1251533}
 {110}{}{31914-1041-1251514}
 {111}{}{53478-2565-7763929}
 {112}{}{44309-3674-1254730}
-{113}{}{[Attempt to hack the firewall to get more data] Display security code
- encryption table.}
+{113}{}{[Tenta hackear o firewall pra obter mais dados] Exibir tabela de encriptacao
+ do codigo de seguranca.}
 {114}{}{Executando 17652-1028-1285362}
 {115}{}{Executando 67209-5574-7805564}
 {116}{}{Executando 55658-8678-1251533}
 {117}{}{Executando 31914-1041-1251514}
 {118}{}{Executando 53478-2565-7763929}
 {119}{}{Executando 44309-3674-1254730}
-{120}{}{[Você hackeou com sucesso a tabela de encriptação.] Comando?}
-{121}{}{17652-1028-1285362 iniciar sequência de auto-destruição silenciosa em 1 minuto}
-{122}{}{67209-5574-7805564 iniciar sequência de auto-destruição silenciosa em 30 
-segundos e pôr a base em alerta}
-{123}{}{55658-8678-1251533 pôr a base em estado de alerta}
-{124}{}{31914-1041-1251514 iniciar sequência de auto-destruição silenciosa em 3 minutos}
-{125}{}{53478-2565-7763929 iniciar sequência de auto-destruição em 3 minutos e pôr a 
-base em alerta}
-{126}{}{44309-3674-1254730 auto-destruição imediata}
-{127}{}{Comando inválido. Encerrar a sessão de entrada de dados.}
-{128}{}{Especificar o registro que você gostaria de examinar.}
+{120}{}{[Voce hackeou com sucesso a tabela de encriptacao.] Comando?}
+{121}{}{17652-1028-1285362 iniciar sequencia de auto-destruicao silenciosa em 1 minuto}
+{122}{}{67209-5574-7805564 iniciar sequencia de auto-destruicao silenciosa em 30 
+ segundos e por a base em alerta}
+{123}{}{55658-8678-1251533 por a base em estado de alerta}
+{124}{}{31914-1041-1251514 iniciar sequencia de auto-destruicao silenciosa em 3 minutos}
+{125}{}{53478-2565-7763929 iniciar sequencia de auto-destruicao em 3 minutos e por a 
+ base em alerta}
+{126}{}{44309-3674-1254730 auto-destruicao imediata}
+{127}{}{Comando invalido. Encerrar a sessao de entrada de dados.}
+{128}{}{Especificar o registro que voce gostaria de examinar.}
 {129}{}{Grey}
 {130}{}{Boyarsky}
 {131}{}{Maxson}
@@ -42,67 +42,67 @@ base em alerta}
 {138}{}{Retornar ao menu principal.}
 {139}{}{Fim da linha inesperado. Dados ruins encontrados. Comando?}
 {140}{}{Comando?}
-{141}{}{Uplink bem sucedido. Qual é o seu comando?}
-{142}{}{Qual é o estado atual dos pacientes?}
-{143}{}{Current status on patients as follows: Lote do VEF #23872-A consists of four
- male units and two female units. All individuals suffering from VEF exposure.
- Vital signs are within normal parameters. VEF process on all subjects is
- approxiamtely 50% complete. Expect full VEF transformation within 12 hours.}
-{144}{}{I think something is happening to one of the patients. Is there anything
- I can do?}
+{141}{}{Uplink bem sucedido. Qual e o seu comando?}
+{142}{}{Qual e o estado atual dos pacientes?}
+{143}{}{Estado atual dos pacientes conforme seguem: Lote do VEF #23872-A consiste de 4 unidades
+ masculinas e 2 unidades femininas. Todos os individuos sofrendo de exposicao ao VEF. Os sinais
+ vitais estao dentro dos parametros normais. O processo do VEF em todas as cobaias esta
+ aproximadamente 50% completo. Transformacao total do VEF esperada dentro de 12 horas.}
+{144}{}{Eu acho que algo esta acontecendo com um dos pacientes. Ha qualquer coisa
+ que eu possa fazer?}
 {145}{}{Paciente sofrendo de arritmia. Exibir os registros do estado do paciente.}
-{146}{}{As opções disponíveis são:}
-{147}{}{Relatório dos estados em pacientes individuais.}
+{146}{}{As opcoes disponiveis sao:}
+{147}{}{Relatorio dos estados em pacientes individuais.}
 {148}{}{Desligar os sistemas de suporte a vida.}
-{149}{}{Aumentar a dosagem das  DNA originais dos espécimes em 100%.}
+{149}{}{Aumentar a dosagem das  DNA originais dos especimes em 100%.}
 {150}{}{Log off.}
-{151}{}{Por favor insira o código de autorização.}
-{152}{}{Autorização 3578X287A.}
+{151}{}{Por favor insira o codigo de autorizacao.}
+{152}{}{Autorizacao 3578X287A.}
 {153}{}{Z876342BCD}
 {154}{}{Alfa Delta 287 Foxtrot}
 {155}{}{[Tentar hackear o computador]}
-{156}{}{Código de autorização inválido. Comando?}
-{157}{}{Autorização code accepted. Please stand by. Accessing data.
- Ready to process request.}
+{156}{}{Codigo de autorizacao invalido. Comando?}
+{157}{}{Codigo de autorizacao aceito. Por favor aguarde. Acessando os dados.
+ Pronto pra processar o pedido.}
 {158}{}{Encerrar os sistemas de suporte a vida no lote do VEF #23872-A.}
-{159}{}{Aumentar a dosagem do DNA original em 100% em todos os espécimes.}
-{160}{}{Acesso concedido. Qual arquivo do paciente você gostaria de examinar?}
+{159}{}{Aumentar a dosagem do DNA original em 100% em todos os especimes.}
+{160}{}{Acesso concedido. Qual arquivo do paciente voce gostaria de examinar?}
 {161}{}{Arquivo do paciente #23869.}
 {162}{}{Arquivo do paciente #23870.}
 {163}{}{Arquivo do paciente #23871.}
 {164}{}{Arquivo do paciente #23872.}
-{165}{}{Arquivo do paciente #23869. Subject: Male. Age 25. Radiation count: 40. VEF exposure:
- 50%. Original DNA strands remaining: 50%. Vital signs are high but within normal
- parameters.}
+{165}{}{Arquivo do paciente #23869. Cobaia: Masculino. Idade 25. Contagem da radiacao: 40.
+ Exposicao ao VEF: 50%. Cadeias originais do DNA remanescentes: 50%. Os sinais vitais
+ estao altos mas dentro dos paremetros normais.}
 {166}{}{Eu gostaria de examinar outro arquivo do paciente.}
-{167}{}{Arquivo do paciente #23870. Subject: Male. Age 23. Radiation count: 15. VEF
- exposure: 60%. Original DNA strands remaining: 40%. Vital signs are within
- normal parameters.}
-{168}{}{Arquivo do paciente #23781. Subject: Female. Age 20. Radiation count: 10. VEF
- exposure: 55%. Original DNA strands remaining: 45%. Vital signs are within normal
- parameters.}
-{169}{}{Arquivo do paciente #23782. Subject: Male. Age 26. Radiation count: 35. VEF
- exposure: 60%. Original DNA strands remaining: 40%. Vital signs are above
- normal but within acceptable parameters.}
-{170}{}{Are you sure you wish to terminate the life support systems on Lote do VEF
- #23872-A?}
+{167}{}{Arquivo do paciente #23870. Cobaia: Masculino. Idade 23. Contagem da radiacao: 15.
+ Exposicao ao VEF: 60%. Cadeias originais do DNA remanescentes: 40%. Os sinais vitais
+ estao dentro dos parametros normais.}
+{168}{}{Arquivo do paciente #23781. Cobaia: Feminina. Idade 20. Contagem da radiacao: 10.
+ Exposicao ao VEF: 55%. Cadeias originais do DNA remanescentes: 45%. Os sinais vitais
+ estao dentro dos parametros normais.}
+{169}{}{Arquivo do paciente #23782. Cobaia: Masculino. Idade 26. Contagem da radiacao: 35.
+ Exposicao ao VEF: 60%. Cadeias originais do DNA remanescentes: 40%. Os sinais vitais
+ acima do normal mas dentro dos parametros aceitaveis.}
+{170}{}{Voce tem certeza que voce deseja desativar os sistemas de suporte a vida do Lote
+ do VEF #23872-A?}
 {171}{}{Lote do VEF #23872-A encerrado. Comando?}
 {172}{}{Sim.}
-{173}{}{Não.}
-{174}{}{Are you sure you wish to increase the dosage? Auto-correction will be
- disabled if you do this.}
-{175}{}{Increasing dosage of original DNA to 100%. WARNING: Auto-correction has
- been disabled.}
-{176}{}{Você consegue obter uma tela de interface do computador de controle dos tanques.}
-{177}{}{You try to use the computer, but are unable to get any useful information
- out of it.}
-{178}{}{You try to use the computer, but the system is too complex for you to
- understand easily. You'll have to keep trying.}
-{179}{}{The explosion destroys the vat control system. Without regulation,
- it will certainly cycle out of control in minutes.}
-{180}{}{You slide the security card across the terminal's reader. The terminal
- clicks and whirrs, and an unencrypted screen comes up.}
+{173}{}{Nao.}
+{174}{}{Voce tem certeza que voce deseja aumentar a dosagem? A auto-correcao sera
+ desativada se voce fizer isto.}
+{175}{}{Aumentando a dosagem do DNA original pra 100%. AVISO: A auto-correcao foi
+ desativada.}
+{176}{}{Voce consegue obter uma tela de interface do computador de controle dos tanques.}
+{177}{}{Voce tenta usar o computador, mas e incapaz de obter qualquer informacao
+ util dele.}
+{178}{}{Voce tenta usar o computador, mas o sistema e muito complexo pra voce
+ entender facilmente. Voce tera que continuar tentando.}
+{179}{}{A explosao destroi o sistema de controle dos vats. Sem a regulacao
+ certamente cycle fora de controle em minutos.}
+{180}{}{Voce desliza o cartao de seguranca atraves do leitor do terminal. O terminal
+ clica e whirrs, e uma tela inesperada aparece.}
 {181}{}{[Sair do sistema]}
 
-{200}{}{You notice that the maintenance panel is removed, exposing the fragile
- computer components.}
+{200}{}{Voce nota que o painel de manutencao esta removido, mostrando os
+ componentes frageis do computador.}

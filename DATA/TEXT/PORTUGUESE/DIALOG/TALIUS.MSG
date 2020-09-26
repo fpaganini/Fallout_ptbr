@@ -1,177 +1,177 @@
-{100}{}{You see before you Talius, a member of the Seguidores.}
-{101}{}{Please depart. I am attempting to retire here. Come back during the day.}
-{102}{}{Greetings sister. My name is Talius. How might I assist you today?}
-{103}{}{Greetings brother. My name is Talius. How might I assist you today?}
+{100}{}{Voce ve diante de voce, Talius, um membro dos Seguidores.}
+{101}{}{Por favor parta. Eu estou tentando retire aqui. Volte durante o dia.}
+{102}{}{Saudaçoes irma. Meu nome e Talius. Como eu poderia ajudar voce hoje?}
+{103}{}{Saudaçoes irmao. Meu nome e Talius. Como eu poderia ajudar voce hoje?}
 {104}{}{Huh?}
-{105}{}{Me }
-{106}{}{. Me }
+{105}{}{Mim }
+{106}{}{. Mim }
 {107}{}{.}
-{108}{}{Eu am }
-{109}{}{. What are you doing here?}
-{110}{}{You can die!}
-{111}{}{Don't worry about me Mutie! How did you get in here?}
-{112}{}{Greetings to you as well. I am called }
-{113}{}{. How is it that you came into the realm of the Seguidores?}
-{114}{}{Can you tell me how one, of your alterations, entered the Seguidores?}
-{115}{}{Eu see that you are a little slow. I, too, was once of your intelligence.
- But, through the teachings of the Seguidores, I have been able to transcend
- my shortcomings.}
-{116}{}{Não know.}
-{117}{}{Too smart. Die now.}
-{118}{}{Eu apologize. I forget myself at times. Would you like some brain help?}
-{119}{}{Yeah. You's!}
+{108}{}{Eu estou }
+{109}{}{. O que voce esta fazendo aqui?}
+{110}{}{Voce pode morrer!}
+{111}{}{Nao se preocupe comigo mutante! Como voce chegou aqui?}
+{112}{}{Saudaçoes a voce tambem. Me chamo }
+{113}{}{. Como e que voce entrou no reino dos Seguidores?}
+{114}{}{Voce pode me dizer como uma de suas alteraçoes entrou nos Seguidores?}
+{115}{}{Eu vejo que voce e um pouco lento. Eu tambem fui uma vez alguem com
+ sua inteligencia. Mas, atraves dos ensinamentos dos Seguidores, eu fui
+ capaz de transcender my shortcomings.}
+{116}{}{Nao sei.}
+{117}{}{Muito esperto. Morrer agora.}
+{118}{}{Eu me desculp. Eu esqueço eu mesmo as vezes. Voce gostaria de um pouco de ajuda cerebral?}
+{119}{}{Sim. Voces!}
 {120}{}{You hep. You hep!}
-{121}{}{Here. Take these pretty pills. Make you smarter.}
+{121}{}{Aqui. Tome estas pilulas bonitas. Tornam voce mais esperto.}
 {122}{}{Sim, }
-{123}{}{. I am enthusiastic that you acknowledge your given
- nomenclature. How might I assist you this fine morrow?}
-{124}{}{Wha?}
-{125}{}{Brain hurt. Me kill you. Take brain.}
-{126}{}{Eu am here to assist these good people in understanding the workings
- of the Crianças of the Cathedral.}
-{127}{}{So you are a spy for the Crianças?}
-{128}{}{How can you know anything about the Crianças?}
-{129}{}{What can you do? You are a mutant.}
-{130}{}{Nay, I am no spy. Though many think as such. There is a spy within
- our humble abode. Yet, we are unable to ferret the spy out.}
-{131}{}{Then how do you help the Seguidores?}
-{132}{}{Tell me what you know about this spy. Maybe I can help.}
-{133}{}{Tough luck, Mutie!}
-{134}{}{Eu think I found the spy. Now I will remove the problem.}
-{135}{}{Once, I was as you are. But, through the interaction of the Nightkin
- in Necropolis, I was thrust into this state.}
-{136}{}{That's awful. But, tough luck. See you around.}
-{137}{}{Por que were you in Necropolis?}
-{138}{}{Where were you from originally?}
-{139}{}{And now I will transform you once more. Rest in pieces.}
-{140}{}{Some time ago, I lived in a place far to the north of here. They were having
- a problem with the water supply and sought out people to find a way to fix it.}
-{141}{}{So you volunteered.}
-{142}{}{Where was this place?}
-{143}{}{Did you find a way to fix this problem?}
-{144}{}{But why Necropolis?}
-{145}{}{Sim. The overseer of the community gave me a shotgun and some shells.
- However, those were lost many years passed. Since I have never found anything,
- I could not return.}
-{146}{}{That's really awful. I wish there was something I could do.}
-{147}{}{Too bad. Gotta head out.}
-{148}{}{Where was this place?}
-{149}{}{Did you ever find a way to fix the water problem?}
-{150}{}{Por que did you go to Necropolis?}
-{151}{}{There is a way in which you can help. The one who did this to me must
- be stopped.}
-{152}{}{Who is it?}
-{153}{}{Their leader is the head of a mutant army. What he does is take
- pure humans and transform them. I'm not quite sure, because I was knocked
- unconscious before the process.}
-{154}{}{Eu will go kill them for you then.}
-{155}{}{Sounds too risky for me. I'm out of here.}
-{156}{}{Eu thank you for your kindness. You do me a great service. Please,
- accept this as a token of good will. I purloined it from the body of a
- deceased renegade.}
-{157}{}{Be at peace then. I can understand your unease. Mayhaps another will
- come to help remove this threat. Good day to you.}
-{158}{}{The place from whence I came was in the mountains far to the north.
- It was a small vault in which many people lived.}
-{159}{}{Did you ever find a way to fix the water problem?}
-{160}{}{Por que did you go to Necropolis?}
-{161}{}{What was the name of this Vault?}
-{162}{}{Sounds nice. I've gotta run.}
-{163}{}{Unfortunately, I did not. I have heard that others were sent from the
- vault to search for a way to fix the water pump.}
-{164}{}{Eu have heard nothing more of them.}
-{165}{}{Por que did you go to Necropolis?}
-{166}{}{What was the name of this Vault?}
-{167}{}{Sounds nice. I've gotta run.}
-{168}{}{Eu heard from some of the other travelers that Necropolis had a way in
- which to produce water without much difficulty.}
-{169}{}{So, I went there to see what they were doing.}
-{170}{}{What did you find?}
-{171}{}{Did you kill them off?}
-{172}{}{Feel at home there?}
-{173}{}{Eu found a great deal of those Mutant things there. It was they who
- entrapped me and transformed me into my current form.}
-{174}{}{Apparently, they messed up, because I took on a different evolutionary
- course, rather than the enhanced ones.}
-{175}{}{Rough deal. See you around.}
-{176}{}{Eu'll be sure to watch out for them. Thanks for the info.}
-{177}{}{Who lead them?}
-{178}{}{Não. I killed only some of the mutants. There was another mutant,
- a ghoul, named Set, who helped me take out most of them.}
-{179}{}{Last I knew there were only half a dozen mutants left.}
-{180}{}{That sounds great. Well, I will see you around.}
-{181}{}{The rest of them are gone now. Set is doing fine.}
-{182}{}{That is good news indeed to hear. I am overjoyed to hear the destruction
- of one evil and a town set free. Please, take this.}
-{183}{}{Sarcasm and slights shall not deter me my benevolent disposition.
- The time has come for you to depart. Good day.}
-{184}{}{My vault had no name. It was merely numbered 13.}
-{185}{}{That is where I am from.}
-{186}{}{Never heard of the place.}
-{187}{}{Thanks for the info. Now I'm going to tell those Mutants about it.}
-{188}{}{Really? Has the Overseer finally seen his way through to allow people
- to travel outside the Vault?}
-{189}{}{Não, he is still scared of the outside world.}
-{190}{}{Não, he fears for the safety of the dwellers.}
-{191}{}{Sim, he thinks everything is safe.}
-{192}{}{Eu believed as such. He always was a cautious man. I pity him his
- responsibility. May you fare better than myself on this fool's quest.}
-{193}{}{Eu am glad to hear that he has come to his senses to allow the people out.
- While it is far from safe out here, it will do good to restore the earth
- once more. Farewell, my friend.}
-{194}{}{Eu doubt you would have, coming from the outside world. Now, I must retire.
- Please be careful out there with those creatures who see to destroy.}
-{195}{}{Nay, I doubt you would be able to do as such.}
-{196}{}{Try and stop me.}
-{197}{}{Por que do you say that?}
-{198}{}{Because I will stop you.}
-{199}{}{Eu know very little. The only things I know are that our scouts are the
- only ones who ever go over to the Crianças to spy on them. Não one else
- is allowed because of the danger.}
-{200}{}{Then it might be a scout. I will look into that.}
-{201}{}{Eu think that it is you. Now die!}
-{202}{}{Eu wish you would have been of greater intellect. Não matter, I shall
- dispense with you shortly.}
-{203}{}{All I know of the Crianças is that they are in league with these
- Nightkin, super mutants.}
-{204}{}{It is they who transformed me from my original state of being in Necropolis.}
-{205}{}{That's awful. But, tough luck. See you around.}
-{206}{}{Por que were you in Necropolis?}
-{207}{}{Where were you from originally?}
-{208}{}{And now I will transform you once more. Rest in pieces.}
-{209}{}{Though I am different in appearance, I have much knowledge to impart
- upon those who will listen.}
-{210}{}{Eu have no time for this, I'm leaving.}
-{211}{}{What can you tell me?}
-{212}{}{Those whom the Seguidores and Crianças call Nightkin are not what they
- seem. They have been created by one called the Lieutenant. I believe he may
- follow another.}
-{213}{}{Some information. Well, I will be off.}
-{214}{}{What can you tell me about this Lieutenant?}
-{215}{}{There isn't much that I know about him. Last I saw him, before my
- untimely transformation, he was searching for pure humans.}
-{216}{}{Eu will think on this for a while. Thank you.}
-{217}{}{Can you hazard a hypothesis as to why this may be so?}
-{218}{}{As yet, I am uncertain. Perhaps another group which seeks to disrupt
- their ways would know.}
-{219}{}{Thank you. Good day.}
-{220}{}{Eu regret that I cannot tolerate insolence. Be gone.}
-{221}{}{My entrance into the Seguidores was quite simple really. It was the
- Seguidores who rescued me from the full effects of the transformation into
- a heinous beast.}
-{222}{}{Eu do not fully understand. Please, go on.}
-{223}{}{Once, I was as you are now - a pure human. But, through the intervention
- of Nightkin, I was taken to some place far removed from here.}
-{224}{}{Please, continue.}
-{225}{}{Eu was not of a state in which to observe what transpired. All I
- had known was that I awoke here and was tended by the good doctor.}
-{226}{}{Eu am truly sorry to hear of your predicament. I will find those
- who did this to you and remedy the situation.}
-{227}{}{Eu am sorry to hear of that. Alas, I am quite busy attempting to
- survive. Farewell.}
-{228}{}{Please, dispense justice upon the defouler who seeks to undermine
- the trust of the Seguidores.}
-{229}{}{Excellent job on removing from our midst that dissembler, Heather.}
-{230}{}{You see a hideous ghoul.}
-{231}{}{Somehow, he reminds you of someone.}
-{232}{}{Alas, I have no more time to spare on you. Good day.}
+{123}{}{. Eu estou entusiastico que voce reconhece sua nomenclatura
+ dada. Como eu poderia ajudar voce nesta boa morrow?}
+{124}{}{O que?}
+{125}{}{Cerebro doi. Mim matar voce. Tirar cerebro.}
+{126}{}{Eu estou aqui pra ajudar estas boas pessoas no entendimento
+ dos trabalhos das Crianças da Catedral.}
+{127}{}{Entao voce e um espiao para as Crianças?}
+{128}{}{Como voce pode saber alguma coisa sobre as Crianças?}
+{129}{}{O que voce pode fazer? Voce e um mutante.}
+{130}{}{Nao, eu nao sou espiao. Embora muitos pensem tal. Ha um espiao dentro
+ da nossa humilde abode. Ainda, nos somos incapazes de ferret o espiao.}
+{131}{}{Entao como voce ajuda os Seguidores?}
+{132}{}{Me diga o que voce sabe sobre este espiao. Talvez eu possa ajudar.}
+{133}{}{Sorte ruim, mutante!}
+{134}{}{Eu acho que eu achei o espiao. Agora eu removerei o problema.}
+{135}{}{Uma vez, eu fui como voce e. Mas, atraves da interaçao dos Nightkin
+ em Necropolis, eu fui thrust neste estado.}
+{136}{}{Isso e terrivel. Mas, sorte ruim. Vejo voce por ai.}
+{137}{}{Por que voce estava em Necropolis?}
+{138}{}{De onde voce era originalmente?}
+{139}{}{E agora eu transformarei voce mais uma vez. Descanse em pedaços.}
+{140}{}{Algum tempo atras, eu vivia num lugar longe a norte daqui. Eles estavam tendo um 
+ problema com o suprimento de agua e procuravam pessoas pra achar um modo de conserta-lo.}
+{141}{}{Entao voce se voluntariou.}
+{142}{}{Aonde era este lugar?}
+{143}{}{Voce achou um meio de consertar este problema?}
+{144}{}{Mas por que Necropolis?}
+{145}{}{Sim. O supervisor da comunidade me deu uma espingarda e alguns cartuchos.
+ Contudo, aqueles foram perdidos ha muitos anos passados. Ja que eu nunca achei
+ qualquer coisa eu nao pude retornar.}
+{146}{}{Isso e realmente terrivel. Eu desejo que houvesse algo que eu pudesse fazer.}
+{147}{}{Muito ruim. Tenho que sair.}
+{148}{}{Aonde era este lugar?}
+{149}{}{Voce achou um meio de consertar o problema da agua?}
+{150}{}{Por que voce foi a Necropolis?}
+{151}{}{Ha um modo no qual voce pode ajudar. Aquele que fez isto comigo
+ deve ser impedido.}
+{152}{}{Quem e?}
+{153}{}{O lider deles e o cabeça de um exercito mutante. O que ele faz e
+ levar humanos puros e transforma-los. Eu nao estou bem certo, porque eu
+ nocauteado inconsciente antes do processo.}
+{154}{}{Entao eu irei mata-los por voce.}
+{155}{}{Soa muito arriscado pra mim. Eu estou fora daqui.}
+{156}{}{Eu agradeço a voce por sua bondade. Voce me faz um otimo serviço.
+ Por favor aceite isto como um gesto de boa vontade. Eu purloined do
+ corpo de um renegado falecido.}
+{157}{}{Esteja em paz entao. Eu consigo entender seu desconforto. Talvez
+ outro vira pra ajudar a remover esta ameaça. Bom dia pra voce.}
+{158}{}{O lugar de onde eu vim estava nas montanhas, distante para o norte.
+ Era uma pequena Vault na qual muitas pessoas viviam.}
+{159}{}{Voce achou um meio de consertar o problema da agua?}
+{160}{}{Por que voce foi a Necropolis?}
+{161}{}{Qual era o nome desta Vault?}
+{162}{}{Soa bacana. Eu tenho que correr.}
+{163}{}{Infelizmente eu nao consegui. Eu ouvi que outros foram enviados da
+ Vault pra procurar por um jeito de consertar a bomba de agua.}
+{164}{}{Eu nao ouvi nada mais deles.}
+{165}{}{Por que voce foi a Necropolis?}
+{166}{}{Qual era o nome desta Vault?}
+{167}{}{Soa bacana. Eu tenho que correr.}
+{168}{}{Eu ouvi de alguns dos outros viajantes que Necropolis tinha uma maneira
+ na qual produzir agua sem muita dificuldade.}
+{169}{}{Entao, eu fui la pra ver o que eles estavam fazendo.}
+{170}{}{O que voce achou?}
+{171}{}{Voce matou eles?}
+{172}{}{Sentiu-se em casa la?}
+{173}{}{Eu achei um grande numero daquelas coisas mutantes la. Foram eles
+ que me aprisionaram e me transformaram na minha forma atual.}
+{174}{}{Aparentemente, ele fizeram errado, porque eu segui num curso evolucionario
+ diferente ao contrario dos melhorados.}
+{175}{}{Acordo dificil. Vejo voce por ai.}
+{176}{}{Eu terei certeza de tomar cuidado com eles. Obrigado pela informaçao.}
+{177}{}{Quem lidera eles?}
+{178}{}{Nao. Eu so matei alguns dos mutantes. Havia outro mutante,
+ um ghoul chamado Set, que me ajudou a acabar com a maioria deles.}
+{179}{}{Da ultima vez que eu soube haviam so meia duzia de mutantes restantes.}
+{180}{}{Isso soa otimo. Bem, eu verei voce por ai.}
+{181}{}{O resto deles se foi agora. O Set esta indo bem.}
+{182}{}{Isso e de fato uma boa noticia de se ouvir. Eu estou demasiado alegre em ouvir
+ sobre a destruiçao de um mal e de uma cidade liberta. Por favor, leve isto.}
+{183}{}{Sarcasmo e slights nao me deterao da minha disposiçao benevolente.
+ A hora de voce partir chegou. Bom dia.}
+{184}{}{Minha vault nao tinha nome. Foi meramente numerada 13.}
+{185}{}{Essa e de onde eu sou.}
+{186}{}{Nunca ouvi do lugar.}
+{187}{}{Obrigado pela informaçao. Agora eu vou falar com aqueles mutantes sobre ela.}
+{188}{}{Mesmo? O supervisor finalmente viu a realidade pra permitir que
+ as pessoas viajem pra fora da Vault?}
+{189}{}{Não, ele ainda esta assustado com o munto exterior.}
+{190}{}{Não, ele teme pela segurança dos dwellers.}
+{191}{}{Sim, ele pensa que tudo esta seguro.}
+{192}{}{Eu acreditava como tal. Ele sempre foi um homem cuidadoso. Eu tenho pena dele por causa
+ da responsibilidade dele. Que voce possa ir melhor do que eu mesmo nesta busca de tolos.}
+{193}{}{Eu estou feliz em ouvir que ele recuperou o bom senso ao permitir que as
+ pessoas saissem. Enquanto esta longe de ser seguro aqui fara bem em restaurar
+ a terra mais uma vez. Adeus, meu amigo.}
+{194}{}{Eu duvido que voce teria vindo do mundo exterior. Agora, eu devo me retirar.
+ Por favor seja cuidadoso la fora com essas criaturas que procuram destruir.}
+{195}{}{Nao, Eu duvido que voce seria capaz de fazer tal coisa.}
+{196}{}{Tente me parar.}
+{197}{}{Por que voce diz isso?}
+{198}{}{Por que eu vou parar voce.}
+{199}{}{Eu sei muito pouco. As unicas coisas que eu sei e que nossos patrulheiros sao
+ os unicos que vao ate as Crianças pra espiona-las. A ninguem mais e permitido por
+ causa do perigo.}
+{200}{}{Entao poderia ser um patrulheiro. Eu irei olhar isso.}
+{201}{}{Eu acho que e voce. Agora morra!}
+{202}{}{Eu deseja que voce tivesse sido de maior intelecto. Não importa, eu
+ dispense com voce brevemente.}
+{203}{}{Tudo que eu sei das Crianças e que elas estao aliadas com estes
+ Nightkin super mutantes.}
+{204}{}{Sao eles que me transformaram do meu estado original de ser em Necropolis.}
+{205}{}{Isso e terrivel. Mas, sorte ruim. Vejo voce por ai.}
+{206}{}{Por que voce estava em Necropolis?}
+{207}{}{De onde voce era originalmente?}
+{208}{}{E agora eu transformarei voce mais uma vez. Descanse em pedaços.}
+{209}{}{Embora eu seja diferente na aparencia, eu tenho muito conhecimento pra impart
+ com aqueles que escutarao.}
+{210}{}{Eu nao tenho tempo pra isto, eu estou saindo.}
+{211}{}{O que voce pode me dizer?}
+{212}{}{Aqueles a quem os Seguidores e as Crianças chamam de Nightkin nao sao o
+ que eles parecem. Eles foram criados por alguem chamado o Tenente. Eu acredito
+ que ele possa seguir a outro.}
+{213}{}{Um pouco de informaçao. Bem, eu vou sair.}
+{214}{}{O que voce pode me dizer sobre este Tenente?}
+{215}{}{Nao ha muito que eu saiba sobre eles. Da ultima vez que vi ele antes da
+ minha untimely transformaçao, ele estava procurando por humanos puros.}
+{216}{}{Eu pensarei nisto por um tempo. Obrigado.}
+{217}{}{Voce consegue hazard uma hipotese do por que isto pode ser o caso?}
+{218}{}{As yet, eu nao tenho certeza. Talvez outro grupo o qual procure to disrupt
+ os caminhos deles saberia.}
+{219}{}{Obrigado. Bom dia.}
+{220}{}{Eu lamento que eu nao possa tolerar insolencia. Desapareça.}
+{221}{}{Minha entrada nos Seguidores foi na realidade bem simples. Foram
+ os Seguidores que me resgataram dos efeitos completos da transformaçao
+ numa fera hedionda.}
+{222}{}{Eu nao entendo totalmente. Por favor continue.}
+{223}{}{Uma vez, eu era como voce e agora - um humano puro. Mas atraves da intervençao
+ dos Nightkin eu fui levado pra algum lugar bem longe daqui.}
+{224}{}{Por favor, continue.}
+{225}{}{Eu nao estava num estado no qual podia observar o que transpirou. Tudo
+ que eu sabia era que eu acordei aqui e fui cuidado pelo bom doutor.}
+{226}{}{Eu verdadeiramente lamento em ouvir sobre seu predicament. Eu acharei aqueles
+ que fizeram isto a voce e remediarei a situaçao.}
+{227}{}{Eu lamento em ouvir sobre isso. Alias, eu estou bem ocupado tentando
+ sobreviver. Ades.}
+{228}{}{Por favor, dispense justiça sobre o defouler que procura undermine
+ a confiança dos Seguidores.}
+{229}{}{Excelente trabalho na remoçao desse dissembler do nosso meio, Heather.}
+{230}{}{Voce ve um ghoul hediondo.}
+{231}{}{De algum modo ele lembra voce de alguem.}
+{232}{}{Alias, eu nao tenho mais tempo pra gastar com voce. Bom dia.}

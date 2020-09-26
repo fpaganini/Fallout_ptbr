@@ -1,60 +1,57 @@
-{100}{}{You see a Caravan Guard.}
-{101}{}{I can't believe we lost the boss. Do you want to come back with us?
- We can still pay you the 400 scripts.}
-{102}{}{It's a shame we lost the Driver; Rutger won't like that one bit.
- If you want, we can still pay you the same to come back with us to
- the Hub.}
-{103}{}{You coming back with us? I'll drive this thing. The pay'll be the
- same.}
-{104}{}{Well, I don't know about you, but I think I'll wait around for another
- caravan. I don't want to go back alone. If you want to go back I'll go
- with you, but if I don't make it you won't get paid the 400 scripts.}
-{105}{}{That was pretty nasty. If you really want, I can get you another
- 400 scripts if you come back to the Hub with me. It's dangerous for one
- person.}
-{106}{}{You'll get another 400 scripts if you can get me and the caravan
- back safely to the Hub, but only if I make it. You've got to cover
- me if we get in a fight.}
-{107}{}{Okay, I'll go with you.}
-{108}{}{No thanks. I've had enough guard duty.}
+{100}{}{Você vê um guarda de caravana.}
+{101}{}{Não acredito que perdemos o chefe. Você quer voltar com a gente?
+ Ainda podemos pagar os 400 scripts.}
+{102}{}{É uma pena que perdemos o Driver; Rutger não vai gostar disso nem um pouco.
+ Se você quiser, ainda podemos pagar o mesmo para voltar conosco para
+ o Hub.}
+{103}{}{Você está voltando com a gente? Eu vou dirigir essa coisa. O pagamento será o
+ mesmo.}
+{104}{}{Bem, eu não sei sobre você, mas acho que vou esperar por outro
+ caravana. Eu não quero voltar sozinha. Se você quiser voltar, eu irei
+ com você, mas se eu não fizer isso, você não receberá os 400 scripts.}
+{105}{}{Isso foi muito desagradável. Se você realmente quiser, eu posso te dar outra
+ 400 scripts, se você voltar ao Hub comigo. É perigoso para um
+ pessoa.}
+{106}{}{Você terá outros 400 roteiros se puder me pegar e a caravana
+ de volta em segurança para o Hub, mas somente se eu fizer isso. Você tem que cobrir
+ me se entrarmos em uma briga.}
+{107}{}{Ok, eu vou com você.}
+{108}{}{Não obrigado. Eu tive bastante dever de guarda.}
 {109}{}{Tuk.}
-{110}{}{Great! Let's get out of here!}
-{111}{}{Okay, I understand.}
-{112}{}{I'll make due.}
-{113}{}{All right.}
-{114}{}{Are you all right?}
-{115}{}{I think you need some rest.}
-{116}{}{Uh, I think you should see the Brotherhood's Doctor.}
-{117}{}{We lost the boss. Can you come back with us? We can still pay you
- the 400 scripts.}
-{118}{}{Our Driver was a good person . . . a terrible loss. I can still pay
- you the 400 scripts if you want to come back with us to the Hub.}
-{119}{}{I'll get us back if you want to come with us. The pay'll be the
- same.}
-{120}{}{Wow, I can't believe we're the only two left. I'll go with you,
- but if I don't make it you won't get paid the 400 scripts.}
-{121}{}{That was pretty nasty. If you really want, I can get you
- another 400 scripts if you come back to the Hub with me. It's too
- dangerous for one person.}
-{122}{}{You'll get another 400 scripts if you can get me and the caravan
- back safely to the Hub, but only if I make it. You've got to cover
- me if we get in a fight.}
-{123}{}{So, did you change your mind?}
-{124}{}{Yes, I'll take the job.}
-{125}{}{No.}
+{110}{}{Ótimo! Vamos sair daqui!}
+{111}{}{Ok, eu entendo.}
+{112}{}{Eu farei o devido.}
+{113}{}{Tudo bem.}
+{114}{}{Você está bem?}
+{115}{}{Eu acho que você precisa descansar um pouco.}
+{116}{}{Uh, eu acho que você deveria ver o doutor da Irmandade.}
+{117}{}{Perdemos o chefe. Você pode voltar com a gente? Nós ainda podemos te pagar
+ os 400 scripts.}
+{118}{}{Nosso motorista era uma boa pessoa. . . uma perda terrível. Ainda posso pagar
+ você os 400 scripts, se você quiser voltar conosco para o Hub.}
+{119}{}{Eu vou nos levar de volta se você quiser vir conosco. O pagamento será o
+ mesmo.}
+{120}{}{Uau, não posso acreditar que somos os únicos que restaram. Eu irei com voce,
+ mas se eu não conseguir você não será pago os 400 scripts.}
+{121}{}{Isso foi muito desagradável. Se você realmente quiser, eu posso te pegar
+ outros 400 scripts se você voltar ao Hub comigo. É também
+ perigoso para uma pessoa.}
+{122}{}{Você terá outros 400 roteiros se puder me pegar e a caravana
+ de volta em segurança para o Hub, mas somente se eu fizer isso. Você tem que cobrir
+ me se entrarmos em uma briga.}
+{123}{}{Então, você mudou de ideia?}
+{124}{}{Sim, aceito o trabalho}}
+{125}{}{Não}
 {126}{}{Hra?}
-{127}{}{Sorry, we're not going back to the Hub today.}
-{128}{}{Um, sorry. I don't think we need you for the return trip.}
-{129}{}{Talk to our Caravan Driver if you want to hire on.}
-{130}{}{Hi there. If you're looking for some work, see our Caravan
- Driver.}
-{131}{}{Why, hello.}
-{132}{}{Sorry, can't talk.}
-{133}{}{Coming back to the Hub with us?}
-{134}{}{I love Caravan duty, lots of action and caps.}
-{135}{}{The Far Go Traders are great to work for.}
-{136}{}{I like working for the Far Go Traders; they don't take stupid risks.}
-{137}{}{The Crimson Caravan's caravans are the best.}
-{138}{}{The Crimson Caravan pays so well, I'll retire in a year.}
-{139}{}{Talk to the other guard if you want to come back with us.}  
-{140}{}{Here're your caps. We could use a hand getting back if you can.}
+{127}{}{Desculpe, não vamos voltar ao Hub hoje.}
+{128}{}{Hum, desculpe. Eu não acho que precisamos de você para a viagem de volta.}
+{129}{}{Fale com nosso motorista de caravana se você quiser contratar.}
+{130}{}{Oi. Se você está procurando algum trabalho, veja nossa caravana
+ Motorista.}
+{131}{}{Por que, ola.}
+{132}{}{Desculpe, não posso falar.}
+{133}{}{Voltando ao Hub conosco?}
+{134}{}{Eu amo Caravan dever, muita ação e caps.}
+{135}{}{Os Far Go Traders são ótimos para trabalhar.}
+{136}{}{Eu gosto de trabalhar para os comerciantes de longe; eles não assumem riscos estúpidos.}
+{137}{}{As caravanas da caravana carmesim são as melhores.}

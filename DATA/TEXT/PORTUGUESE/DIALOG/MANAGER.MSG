@@ -1,27 +1,27 @@
-{100}{}{You see the Ghoul Manager.}
-{101}{}{Whatta you doing here?}
-{102}{}{Searching for the remains of the future past.}
-{103}{}{I'm an explorer.}
-{104}{}{What's it to you, wormface?.}
+{100}{}{Você vê o Ghoul Manager.}
+{101}{}{O que você está fazendo aqui?}
+{102}{}{Procurando pelos restos do passado futuro.}
+{103}{}{Eu sou um explorador.}
+{104}{}{O que há com você, wormface ?.}
 {105}{}{Dug-duh.}
-{106}{}{Whad you say?}
+{106}{}{O que você diz?}
 {107}{}{Nothing.}
-{108}{}{I'm looking for lost technology.}
-{109}{}{That's what I thought you say. Getta outta my house.}
-{110}{}{Oh nonna dat around here. Maybe uppa da
- temple or atta water place. Getta going.}
-{111}{}{Ack! Donna you be exploring any my stuff.
- Getta out! I mean it.}
-{112}{}{Donna be in my face, likka dat. I runna dis show.}
-{113}{}{Oh, yeah.}
-{114}{}{I'm gonna takea thata face of yours and shove it upa yer . . .}
-{115}{}{Ack! OK, I concede. I leave.}
-{116}{}{You no biggie to order me like dat. Take some of dis and shove it!}
-{117}{}{I don wanna talk to you.}
-{118}{}{What are you?}
-{119}{}{I'm a ghoul. Haven't you ever seen a ghoul before?}
-{120}{}{Yes.}
-{121}{}{No.}
-{122}{}{Musta been a pansie undergrounder. They letta you live so's you 
- could pester me. Now getta outta my house.}
-{123}{}{Well now you have. Getta outta here!}
+{108}{}{Estou à procura de tecnologia perdida.}
+{109}{}{Isso é o que eu pensei que você diz. Saia da minha casa.}
+{110}{}{Oh não sei por aqui. Talvez uppa da
+ templo ou atta lugar de água. Vai indo.}
+{111}{}{Ack! Donna você está explorando todas as minhas coisas.
+ Vamos sair! Quero dizer.}
+{112}{}{Donna estar na minha cara, likka dat. Eu runna dis show.}
+{113}{}{Oh, sim}}
+{114}{}{Eu vou levar essa sua cara e enfiá-la em você. . .}
+{115}{}{Ack! Ok, eu admito. Eu deixo.}
+{116}{}{Você não é nada demais para me pedir como dat. Pegue um pouco de dis e enfie-o!}
+{117}{}{Eu não quero falar com você.}
+{118}{}{O que você é?}
+{119}{}{Eu sou um carniçal. Você nunca viu um ghoul antes?}
+{120}{}{Sim}
+{121}{}{Nao}
+{122}{}{Musta foi um undergrounder pansie. Eles deixam você viver assim é você
+ poderia me incomodar. Agora saia da minha casa.}
+{123}{}{Bem, agora você tem. Saia daqui!}

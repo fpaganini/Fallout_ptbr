@@ -5,14 +5,14 @@
 {104}{}{Você voltou pra matar seu filho?}
 {105}{}{Aiyeee! Um fantasma!}
 {106}{}{Os mortos caminham de novo! O Mao-da-Morte retornou!}
-{107}{}{Well met.}
+{107}{}{Bom trabalho.}
 {108}{}{Oi.}
 {109}{}{Eu estou esperando o Garl pra esmagar Shady Sands. Eu quero um pouco de saque.}
 {110}{}{Bem-vindo, amigo.}
 {111}{}{Eu estou feliz que você pode retornar pra uma visita.}
 {112}{}{A menos que você queira problema, melhor você por isso longe.}
 {113}{}{Você quer festejar? Se não, ponha essa arma longe.}
-{114}{}{Oh, a tough one, huh?}
+{114}{}{Oh, um difícil, huh?}
 {115}{}{Garl Mao-da-Morte ama os guerreiros dele. Ponha essa coisa longe e va falar com ele.}
 {116}{}{Entao, você acha que você e durao, huh? Mexa comigo e nos dois descobriremos.}
 {117}{}{Eu não gosto do seu olhar.}

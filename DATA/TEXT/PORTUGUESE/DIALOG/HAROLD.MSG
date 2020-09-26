@@ -1,214 +1,213 @@
-{100}{}{You see Harold.}
+{100}{}{Você vê Harold.}
 {101}{HROLD0}{
-Spare change, old friend, old pal?  Can you help a poor mutant down on his luck? [Cough]}
-{102}{}{Yeah, here's $25. Good luck to you.}
-{103}{}{How about $5.}
-{104}{}{Sorry, don't have any money on me.}
-{105}{}{Keep away from me!}
+Mudança de reposição, velho amigo, velho amigo? Você pode ajudar um pobre mutante na sua sorte? [Tosse]}
+{102}{}{Yeah, aqui está $ 25. Boa sorte para você.}
+{103}{}{Como cerca de US $ 5.}
+{104}{}{Desculpe, não tem nenhum dinheiro comigo}
+{105}{}{Fique longe de mim!}
 {106}{}{Uhhh?}
 {107}{HROLD1}{
-Geez. You're worse off than I am, friend. Luck to you.}
+Nossa. Você está pior do que eu, amigo. Sorte para você.}
 {108}{HROLD2}{
-Oh, kind of ya, friend. Very kind. You know, if I could clear the gunk out of there, you, just might find a tear in Old Harold's eye.}
-{109}{}{Why is that?}
-{110}{}{You're welcome.}
-{111}{HROLD3}{
-[Cough] Rest of the Hubbers' been picking on me like a bad booger since I came back to town.  I can't leave, though.  When the deals are done [wheez] it's still my home.}
-{112}{}{What happened to you?}
-{113}{}{Who are the Hubbers?}
-{114}{}{Hope things get better. See you around.}
+Oh, tipo de você, amigo. Muito gentil. Você sabe, se eu pudesse tirar a gosma de lá, você poderia encontrar uma lágrima no olho do velho Harold.}
+{109}{} {Por que isso?}
+{110}{} {Seja bem-vindo.}
+{111} {HROLD3}{
+[Cough] O resto dos Hubbers tem me cutucado como um maluco desde que voltei para a cidade. Eu não posso sair, no entanto. Quando as negociações são feitas, ainda é minha casa.
+{112}{}{O que aconteceu com você?}
+{113}{}{Quem são os Hubbers?}
+{114}{}{Espero que as coisas melhorem. Até a próxima.}
 {115}{HROLD4}{
-Well, after the Great War, my Vault was one of the first to open. [Takes a deep breath] Whew.  Long time.}
-{116}{}{Tell me more about those days.}
-{117}{}{No, no. I meant what happened to change you?}
+Bem, depois da Grande Guerra, o meu Cofre foi um dos primeiros a abrir. [Respira fundo] Ufa. Muito tempo.}
+{116}{}{Conte-me mais sobre esses dias.}
+{117}{}{Não, não. Eu quis dizer o que aconteceu para mudar você?
 {118}{HROLD5}{
-All started with the sirens.  I was young, but ohh, I do remember that.  Lotta terrible years followed.  And I remember walking outta the Vault late one morning.}
-{119}{}{What did you do then?}
-{120}{}{Where was your Vault located?}
-{121}{}{Do you realize how old that makes you?}
+Tudo começou com as sirenes. Eu era jovem, mas eu lembro disso. Lotta anos terríveis se seguiram. E lembro-me de ter saído do Vault uma manhã.}
+{119}{}{O que você fez então?}
+{120}{}{Onde seu cofre foi localizado?}
+{121}{}{Você percebe quantos anos você tem?}
 {122}{HROLD6}{
-You know, [cough] I'm not real sure anymore.  West, I think.  Uh wait - east?  Ooh I don't know.  [Hacking cough]}
-{123}{}{What did you do then?}
+Você sabe, [tosse] eu não tenho mais certeza. Oeste, eu acho. Aguarde - leste? Eu não sei. [Tosse seca]}
+{123}{}{O que você fez então?}
 {124}{HROLD7}{
-Well, I was a trader.  Did pretty good making a circuit between survivors.  Lost a lotta good people, though. [Coughs]}
-{125}{}{How?}
-{126}{HROLD8}{
-Gangers got'em.  Scavengers attacking the caravans.  And mutants, son of a dog, if they weren't springing up like rabbits with a mission. [cough] Had to have an army of guards with, just to do a deal.}
-{127}{}{Didn't the guards help?}
-{128}{}{Where were the mutants coming from?}
+Bem, eu era um comerciante. Foi muito bom fazer um circuito entre os sobreviventes. Perdeu muitas pessoas boas, no entanto. [Tosses]}
+{125} {} {Como?}
+{126} {HROLD8}{
+Gangers tem eles. Scavengers atacando as caravanas. E mutantes, filho de um cachorro, se não estivessem surgindo como coelhos com uma missão. [tosse] Tinha que ter um exército de guardas, só para fazer um acordo.}
+{127}{}{Os guardas não ajudaram?}
+{128}{}{De onde vieram os mutantes?}
 {129}{HROLD9}{
-Course they helped, ya bonehead!  Just too damn many to handle!}
-{130}{}{How did you survive the mutant attacks?}
+Claro que eles ajudaram, ó idiota! Apenas muitos malditos para lidar!}
+{130}{}{Como você sobreviveu aos ataques mutantes?}
 {131}{HROLD9A}{
-Didn't.  Got killed. [Laughing cough] Love that joke.}
-{132}{}{Uh, yeah.}
+Não fez. Foi morto. [Tosse rindo] Ame essa piada.}
+{132}{}{Uh, sim}}
 {133}{HROLD10}{
-Everywhere!  Hell, seemed like you couldn't fart without hitting one.  But mostly in the northwest.}
-{134}{}{Did you explore that area?}
-{135}{}{Why didn't you just avoid the area?}
-{136}{}{You farted northwest?}
-{137}{hrold10a}{[Laughs] Pretty good...Noo...}
+Em toda parte! Inferno, parecia que você não podia peidar sem bater em um. Mas principalmente no noroeste.}
+{134}{}{Você explorou essa área?}
+{135}{}{Por que você simplesmente não evitou a área?}
+{136}{}{Você peidou para o noroeste?}
+{137}{hrold10a} {[risos] Muito bom ... Noo ...}
 {138}{HROLD11}{
-We mounted an expedition.  God, Richard.  Richard Grey.  Led a small group of us up there.}
+Montamos uma expedição. Deus, Richard. Richard Gray. Levou um pequeno grupo de nós lá em cima.}
 {139}{}{Richard Grey?}
-{140}{}{Where exactly did you go?}
+{140}{}{Aonde exatamente você foi?}
 {141}{HROLD12}{
-Needed to see what was there.  Maybe stop whatever was churnin them boogers out.  We thought we were prepared.  Were we wrong.}
-{142}{}{What did you do?}
+Precisava ver o que estava lá. Talvez pare o que quer que seja que esteja chocalhando os boogers. Nós pensamos que estávamos preparados. Estamos errados.}
+{142}{}{O que você fez?}
 {143}{HROLD13}{
-I can't remember the route or anything.  But I am damn sure it was northwest, though...I think.}
-{144}{}{Is there a shorter version of this story?}
-{145}{}{What about your leader?}
+Não me lembro da rota nem nada. Mas tenho certeza de que era noroeste, embora ... eu acho.}
+{144}{}{Existe uma versão mais curta desta história?}
+{145}{}{E quanto ao seu líder?}
 {146}{HROLD14}{
-Richard Grey was a doctor.  Little older than me, and friend was he smart.  He found the source.}
-{147}{}{And what was that?}
+Richard Gray era um médico. Pouco mais velho que eu, e amigo ele era esperto. Ele encontrou a fonte.}
+{147}{}{E o que foi isso?}
 {148}{HROLD15}{
-I like telling it my way.  Short version will cost you 25 extra, friend.  Which will it be?}
-{149}{}{Ok, long it is.}
-{150}{}{Short.}
-{151}{}{Short, but I don't have the cash.}
-{152}{}{How about neither, you old fart?}
+Eu gosto de dizer do meu jeito. Versão curta vai custar 25 extra, amigo. Qual será?}
+{149}{}{Ok, isso é longo.}
+{150}{}{Short}}
+{151}{}{Curto, mas não tenho dinheiro.}
+{152}{}{Como sobre nenhum, seu velho peido?}
 {153}{HROLD16}{
-Well, you seem like an okay sort.  I'll speed it up a bit.}
-{154}{}{Thanks.}
-{155}{hrold16a}{Lying to a poor old mutant.  What's the world coming to? [cough]}
-{156}{hrold17}{Little light on funds, huh?}
-{157}{hrold17a}{My way or walk away.  Your choice, friend.}
-{158}{}{Walking.}
-{159}{}{OK. Long it is.}
+Bem, você parece um tipo bem. Vou acelerar um pouco.}
+{154}{}{Obrigado.}
+{155}{hrold16a}{Mentir para um pobre velho mutante. O que o mundo está chegando? [tosse]}
+{156}{hrold17}{pouca luz sobre os fundos, hein?}
+{157}{hrold17a}{Meu caminho ou ir embora. Sua escolha, amigo.}
+{158}{}{Andando}
+{159}{}{OK. Long isso é.
 {160}{HROLD18}{
-Some sort of old military base.  We lost a lotta folks getting in there.}
-{161}{}{How did you know this base was the cause?}
-{162}{}{What were you running up against?}
+Algum tipo de base militar antiga. Perdemos muita gente chegando lá.}
+{161}{}{Como você sabia que essa base era a causa?}
+{162}{}{O que você estava enfrentando?}
 {163}{HROLD19}{
-Robots and such.  Lot of'em.  Damn surprised they was still running after all this time, what with the war and all.  Whooa boy they tore us a good one.}
-{164}{}{What did you do once you got past the robots?}
+Robôs e tal. Muitos deles. Surpreendeu-se que ainda estavam correndo depois de todo esse tempo, com a guerra e tudo mais. Whooa boy eles nos rasgaram uma boa.}
+{164}{}{O que você fez depois de passar pelos robôs?}
 {165}{HROLD20}{
-Because it was like someone went bargain shopping at mutantland!  Geez!  Cheaper by the dozens!  Can't figure any other reason except that being the factory.}
-{166}{}{Did you examine the base closely?}
+Porque era como se alguém fosse às compras em mutantland! Nossa! Mais barato pelas dezenas! Não consigo imaginar nenhum outro motivo, exceto que seja a fábrica.}
+{166}{}{Você examinou a base de perto?}
 {167}{HROLD21}{
-We got pretty far inside.  Wasn't a lot of us left by then.  Grey, me and couple of others.}
-{168}{}{And then?}
+Nós fomos muito longe para dentro. Não sobraram muitos de nós até então. Gray, eu e alguns outros.}
+{168}{}{E depois?}
 {169}{HROLD22}{
-One of them robots got Francine.  Mark was wounded, sent him back to the surface.  Then it was just me and Grey.}
-{170}{}{What ever happened to Mark?}
-{171}{}{What happened then?}
+Um deles robôs tem Francine. Mark foi ferido, enviou-o de volta à superfície. Então foi só eu e Gray.}
+{170}{}{O que aconteceu com Mark?}
+{171}{}{O que aconteceu então?}
 {172}{HROLD23}{
-To this day, I don't know.  He never made it back here, and...well I...couldn't face the wasteland again, so I...I never looked.}
-{173}{}{What about you and Grey?}
+Até hoje eu não sei. Ele nunca voltou aqui, e ... bem, eu ... não pude encarar o terreno baldio novamente, então eu ... eu nunca olhei.}
+{173}{}{E você e Gray?}
 {174}{HROLD24}{
-We made it to some sort of central core, like a plant of some sort.  That's when it happened.}
-{175}{}{What?}
+Nós chegamos a algum tipo de núcleo central, como uma planta de algum tipo. Foi quando isso aconteceu.}
+{175}{}{O quê?}
 {176}{HROLD25}{
-A robot crane crashed into us.  Last I saw of Grey, he was flying through the air in-into some sort of acid bath.  I was in bad shape and...well I passed out.}
-{177}{}{How did you survive?}
-{178}{}{And you never saw Grey again?}
-{179}{hrold25a}{Didn't.  Got killed...[Laughs then coughs] God, I love that joke.}
-{180}{}{Yeah, I can tell.}
+Um guindaste de robô caiu em nós. Na última vez que vi Gray, ele estava voando pelo ar em algum tipo de banho ácido. Eu estava em má forma e ... bem eu desmaiei.}
+{177}{}{Como você sobreviveu?}
+{178}{}{E você nunca mais viu Gray?}
+{179}{hrold25a} {Não fez. Foi morto ... [Risos tossem] Deus, eu amo essa piada.}
+{180}{}{Sim, eu posso dizer.}
 {181}{HROLD26}{
-Well, I have no idea.  Woke up in the wasteland, barely hanging on.  Got lucky and some traders I knew found me days later.  Good thing, since I was already changing.  They brought me here, and here I've been since.}
-{182}{}{How did you mutate?}
-{183}{}{Quite a great story.  Thanks.}
-{184}{hrold26a}{Well...Thanks for letting me tell it.}
-{185}{}{So that was the short version?}
-{186}{hrold26a}{Well . . . thanks for letting me tell it.}
-{187}{hrold26b}{For me it was.}
+Bem, eu não tenho ideia. Acordou no deserto, mal aguentando. Tive sorte e alguns comerciantes que eu conhecia me acharam dias depois. Ainda bem que eu já estava mudando. Eles me trouxeram aqui e aqui estou desde então.}
+{182}{}{Como você se transformou?}
+{183}{}{Uma ótima história. Obrigado.}
+{184}{hrold26a}{Bem ... Obrigado por me deixar contar.}
+{185}{}{Então essa foi a versão curta?}
+{186}{hrold26a}{Bem. . . obrigado por me deixar contar.}
+{187}{hrold26b}{Para mim foi.}
 {188}{HROLD27}{
-No, you idiot!  I just said I never saw him again, didn't I?}
-{189}{}{How did you survive?}
+Não, seu idiota! Eu apenas disse que nunca mais o vi, não foi?}
+{189}{}{Como você sobreviveu?}
 {190}{HROLD28}{
-All's I know, is it was something inside that base.}
-{191}{}{Do you think it could have been radiation?}
-{192}{}{Sorry, tough break. Thanks for the story.}
+Tudo o que eu sei, é algo dentro dessa base.}
+{191}{}{Você acha que poderia ter sido radiação?}
+{192}{}{Desculpe, pausa difícil. Obrigado pela história.}
 {193}{HROLD29}{
-How the hell should I know?  Grey would've known if anybody could. [sigh] Anyway, that's how the deal went down.}
-{194}{}{Thanks for the story.}
+Como diabos eu deveria saber? Gray saberia se alguém pudesse. [suspiro] Enfim, foi assim que o negócio caiu.}
+{194}{}{Obrigado pela história}
 {195}{HROLD30}{
-Yeah, about a century or two in dog years.}
-{196}{}{What?}
+Sim, cerca de um século ou dois em anos de cachorro.}
+{196}{}{O quê?}
 {197}{HROLD31}{
-Nevermind, that was from my time.  I'm cranky, old and I've been that way ever since I changed.}
-{198}{}{What did you do before this happened to you?}
+Nevermind, isso foi do meu tempo. Sou rabugenta, velha e sempre fui assim desde que mudei.}
+{198}{}{O que você fez antes que isso acontecesse com você?}
 {199}{HROLD32}{
-Well, I got mutated.  Sure wasn't born this ugly.  Happened when we tried to find out where all the mutants were coming from.}
+Bem, eu sofri mutação. Claro que não nasceu assim feio. Aconteceu quando tentamos descobrir de onde todos os mutantes estavam vindo.}
 {200}{}{What happened?}
 {201}{HROLD33}{
-It's in the past.  Probably should stay that way.}
-{202}{}{Please tell me what happened, it may help me now.}
-{203}{}{Have it your way.}
+Está no passado. Provavelmente deveria ficar assim.}
+{202}{}{Por favor me diga o que aconteceu, pode me ajudar agora.}
+{203}{}{Faça do seu jeito.}
 {204}{HROLD34}{
-Well, if you put it that way.  I guess it couldn't hurt.}
-{205}{}{Thanks.}
+Bem, se você colocar dessa maneira. Eu acho que não poderia machucar.}
+{205}{}{Obrigado.}
 {206}{HROLD35}{
-No, no.  It's too painful, even now.  Thanks for the help, friend.  Good luck to you.}
+Não não. É muito doloroso, mesmo agora. Obrigado pela ajuda, amigo. Boa sorte para você.}
 {207}{HROLD36}{
-You're in the Hub, right?  People who live in the Hub?  Hubbers.  Get it? [cough] Sheesh!  Thanks for the help and good luck...think you're gonna need it.}
+Você está no Hub, certo? Pessoas que vivem no Hub? Hubbers. Pegue? [tosse] Sheesh! Obrigado pela ajuda e boa sorte ... acho que você vai precisar.}
 {208}{HROLD37}{
-You're as bad as the rest of them. [Wheezing cough]}
+Você é tão ruim quanto o resto deles. [Tosse ofegante]}
 {209}{HROLD38}{
-Oh well, thanks anyway. [cough]}
+Oh bem, obrigado de qualquer maneira. [tosse]}
 {210}{HROLD39}{
-Hey, can you help me out, friend?}
-{211}{}{Yeah, here's $25.}
-{212}{}{Take $5.}
-{213}{}{Don't bug me.}
+Ei, você pode me ajudar, amigo?}
+{211}{}{Sim, aqui está $ 25.}
+{212}{}{Take $ 5.}
+{213}{}{Não me insulte}}
 {214}{}{Uhhh?}
 {215}{HROLD40}{
-Hey, 'preciate it!  Gotta admit, when I first saw you, [cough] I figured you might hassle me.}
-{216}{}{Why do you say that?}
-{217}{}{Nah, not me!  Have a good one.}
+Ei, preciate! Tenho que admitir, quando eu te vi pela primeira vez, [tosse] eu achei que você poderia me incomodar.}
+{216}{}{Por que você diz isso?}
+{217}{}{Nah, não eu! Tenha um bom dia.}
 {218}{HROLD41}{
-Oh, hey, it's you again.}
-{219}{}{Here's $20, if you need it.}
-{220}{}{Hi.}
+Oh, ei, é você de novo.}
+{219}{}{Aqui está $ 20, se precisar.}
+{220}{}{Oi.}
 {221}{}{Uhh?}
-{222}{hrold42}{Just putting me on, huh?}
+{222}{hrold42}{Apenas colocando-me, hein?}
 {223}{HROLD43}{
-Anything I can do for you?}
-{224}{}{Heard any good words recently?}
-{225}{}{I need info on the Deathclaw, and I hear you're the man.}
-{226}{}{What's your story?}
+Algo que eu possa fazer por você?}
+{224}{}{Ouviu algumas boas palavras recentemente?}
+{225}{}{Eu preciso de informações sobre a Garra da Morte, e ouvi dizer que você é o homem.}
+{226}{}{Qual é a sua história?}
 {227}{}{Nope}
-{228}{hrold43a}{The whole thing?  Well...}
+{228}{hrold43a}{A coisa toda? Bem...}
 {229}{HROLD44}{
-Oooh, well thanks.  Hope it wasn't too much of a strain. [coughs]}
-{230}{HROLD45}{Oooh, that thing.  Friend, that is nightmare city.  Why the hell you asking about that?}
-{231}{}{Gonna kill it.}
-{232}{}{If it catches up with me, I want to know what to do.}
-{233}{HROLD47}{Okay.  Well, it's like a damn big man, is what it is.  Got spikes and claws that can cut through the heaviest armor.  But don't let the size fool ya, it's quick.}
-{234}{}{Any weaknesses?}
-{235}{HROLD49}{Well, from what I've heard, maybe whack it in the head?  I'd try the eyes.  'Course, there's a problem there.}
-{236}{}{What kind of problem?}
-{237}{HROLD50}{You can't look at 'em!  It is said the Death Claw can hypnotize just by lookin'.  Then it walks up and "boom", you're et!}
-{238}{}{Great, thanks.}
-{239}{HROLD51}{Good luck to you...you're gonna need it.}
-{240}{}{Could be.}
-{241}{HROLD52}{You don't want to know about the Death Claw, and I ain't gonna be the one to tell ya.}
-{242}{HROLD53}{Well, heard one of Decker's men has somebody from the Brotherhood of Steel trapped in Old Town.}
-{243}{}{Thanks.}
-{244}{HROLD54}{I don't believe this one, but some say an army of mutants is on the way. [cough]}
-{245}{}{Thanks.}
-{246}{HROLD55}{Leave me alone. [cough]}
-{247}{}{I want to talk to you.}
-{248}{}{Here's some cash.}
-{249}{HROLD56}{Well, I don't wanta talk to you.  Go away!}
-{250}{HROLD57}{Don't want your money.  Go away. [cough]}
-{251}{hrold200}{As much as I love trading, I don't have anything to exchange. [cough]}
-{252}{hrold201}{I need to sleep for a while.  I'm kinda tired.}
-{253}{hrold202}{You might want to be more careful. [cough] I've heard that you've wasted several people recently.}
-{254}{hrold203}{Umm...Decker's looking for you.  He wants to talk. [cough]}
-{255}{hrold204}{All I got is clothes and freedom, and the latter's debatable.}
-{256}{hrold300}{Brilliant guy.  A doctor and philosopher.  Long ago he lead the expedition where I got changed into a mutant.}
-{257}{hrold301}{Who?  Is he some sort of sex therapist?  I could use one, you know.}
-{258}{hrold302}{Mutants.  Doesn't matter what they call themselves.}
-{259}{hrold303}{Oh, him.  He leads the Thieves Circle.  Thinks he's Robin Hood. [cough] He's alright, I guess.}
-{260}{hrold304}{I've seen religions come and religions go, and I hope this one goes.  Soon.}
-{261}{hrold305}{Yeah, I came from a Vault.  Too many people, not enough food and water.  But you wouldn't know anything about that, would you?}
-{262}{hrold306}{Horrible.  The world just went insane.  Long ago, but I'll never forget it.  Never.}
-{263}{hrold307}{[Cough] Trouble.  Nothing but trouble.}
-{264}{hrold400}{Well, like I said...}
-{265}{}{Nothing, thanks.}
-
+Oooh, bem obrigado. Espero que não tenha sido uma grande tensão. [coughs]}
+{230}{HROLD45}{Oooh, essa coisa. Amigo, essa é a cidade do pesadelo. Por que diabos você está perguntando sobre isso?
+{231}{}{Vou matá-lo.}
+{232}{}{Se me encontrar, quero saber o que fazer.}
+{233}{HROLD47}{Ok. Bem, é como um grande homem, é o que é. Tem pontas e garras que podem cortar a armadura mais pesada. Mas não deixe que o tamanho te engane, é rápido.}
+{234}{}{Alguma fraqueza?}
+{235}{HROLD49}{Bem, pelo que ouvi, talvez bater na cabeça? Eu tentaria os olhos. Claro, há um problema aí.}
+{236}{}{Que tipo de problema?}
+{237}{HROLD50}{Você não pode olhar para eles! Dizem que a Garra da Morte pode hipnotizar apenas olhando. Então ele sobe e "boom", você é et!}
+{238}{}{Ótimo, obrigado.}
+{239}{HROLD51}{Boa sorte para você ... você vai precisar.}
+{240}{}{Poderia ser}
+{241}{HROLD52}{Você não quer saber sobre a Garra da Morte, e eu não vou ser o único a te dizer.}
+{242}{HROLD53}{Bem, ouvi dizer que um dos homens de Decker tem alguém da Irmandade de Aço preso na Cidade Velha.}
+{243}{}{Obrigado.}
+{244}{HROLD54}{Eu não acredito neste, mas alguns dizem que um exército de mutantes está a caminho. [tosse]}
+{245}{}{Obrigado.}
+{246}{HROLD55}{Me deixe em paz. [tosse]}
+{247}{}{Eu quero falar com você.}
+{248}{}{Aqui está algum dinheiro.}
+{249}{HROLD56}{Bem, eu não quero falar com você. Vá embora!}
+{250}{HROLD57}{Não quer o seu dinheiro. Vá embora. [tosse]}
+{251}{hrold200}{Por mais que eu adore negociar, não tenho nada para trocar. [tosse]}
+{252}{hrold201}{Eu preciso dormir por um tempo. Eu estou meio cansado.}
+{253}{hrold202}{Você pode querer ser mais cuidadoso. [tosse] Ouvi dizer que você desperdiçou várias pessoas recentemente.}
+{254}{hrold203}{Umm ... Decker está procurando por você. Ele quer conversar. [tosse]}
+{255}{hrold204}{Tudo que eu tenho são roupas e liberdade, e as últimas são discutíveis.}
+{256}{hrold300}{cara brilhante. Um médico e filósofo. Há muito tempo ele liderou a expedição onde eu me transformei em mutante.}
+{257}{hrold301}{Quem? Ele é algum tipo de terapeuta sexual? Eu poderia usar um, você sabe.}
+{258}{hrold302}{Mutantes. Não importa o que eles se chamam.}
+{259}{hrold303}{Oh, ele. Ele lidera o Círculo dos Ladrões. Pensa que ele é Robin Hood. [tosse] Ele está bem, eu acho.}
+{260}{hrold304}{Eu vi as religiões virem e religiões irem, e eu espero que isso aconteça. Em breve.}
+{261}{hrold305}{Sim, eu vim de um Vault. Muitas pessoas não têm comida e água suficientes. Mas você não sabe nada sobre isso, quer?
+{262}{hrold306}{Horrível. O mundo ficou louco. Há muito tempo, mas nunca esquecerei isso. Nunca.}
+{263}{hrold307}{[Cough] Problema. Nada além de problemas.}
+{264}{hrold400}{Bem, como eu disse ...}
+{265}{}{Nada, obrigado.}
 #
 # TRANSLATION NOTE: The following groups of  lines are identical in English,
 # but they differ in foreign translations. The first line is for the case of the
@@ -216,20 +215,20 @@ Oooh, well thanks.  Hope it wasn't too much of a strain. [coughs]}
 # for the case of the player-character feminine ("my friend" will be feminine).
 #
 
-{266}{HROLD0}{Spare change, old friend, old pal? Can you help a poor mutant
- down on his luck? [Cough]}
-{267}{HROLD0}{Spare change, old friend, old pal? Can you help a poor mutant
- down on his luck? [Cough]}
-{268}{HROLD2}{Oh, kind of ya, friend. Very kind. You know, if I could
- clear the gunk out of there, you, just might find a tear in Old Harold's eye.}
-{269}{HROLD2}{Oh, kind of ya, friend. Very kind. You know, if I could
- clear the gunk out of there, you, just might find a tear in Old Harold's eye.}
-{270}{HROLD35}{No, no. It's too painful, even now. Thanks for the help, friend.
- Good luck to you.}
-{271}{HROLD35}{No, no. It's too painful, even now. Thanks for the help, friend.
- Good luck to you.}
-{272}{HROLD39}{Hey, can you help me out, friend?}
-{273}{HROLD39}{Hey, can you help me out, friend?}
+{266}{HROLD0}{Mudança de reserva, velho amigo, velho amigo? Você pode ajudar um pobre mutante
+  na sua sorte? [Tosse]}
+{267}{HROLD0}{Mudança de reserva, velha amiga, velha amiga? Você pode ajudar um pobre mutante
+  na sua sorte? [Tosse]}
+{268}{HROLD2}{Oh, tipo de você, amigo. Muito gentil. Você sabe, se eu pudesse
+  limpar o lamaçal de lá, você, só pode encontrar uma lágrima no olho do velho Harold.}
+{269}{HROLD2}{Oh, tipo de você, amiga. Muito gentil. Você sabe, se eu pudesse
+  limpar o lamaçal de lá, você, só pode encontrar uma lágrima no olho do velho Harold.}
+{270}{HROLD35}{Não, não. É muito doloroso, mesmo agora. Obrigado pela ajuda, amigo.
+  Boa sorte para você.}
+{271}{HROLD35}{Não, não. É muito doloroso, mesmo agora. Obrigado pela ajuda, amiga.
+  Boa sorte para você.}
+{272}{HROLD39}{Ei, você pode me ajudar, amigo?}
+{273}{HROLD39}{Ei, você pode me ajudar, amiga?}
 
 #
 # Harold's Tell-Me-Abouts
@@ -246,12 +245,12 @@ Oooh, well thanks.  Hope it wasn't too much of a strain. [coughs]}
 {1007}{}{Decker}
 {1008}{}{Grey}
 
-{1100}{hrold300}{Brilliant guy.  A doctor and philosopher.  Long ago he lead the expedition where I got changed into a mutant.}
-{1101}{hrold301}{Who?  Is he some sort of sex therapist?  I could use one, you know.}
-{1102}{hrold302}{Mutants.  Doesn't matter what they call themselves.}
-{1103}{hrold303}{Oh, him.  He leads the Thieves Circle.  Thinks he's Robin Hood. [cough] He's alright, I guess.}
-{1104}{hrold304}{I've seen religions come and religions go, and I hope this one goes.  Soon.}
-{1105}{hrold305}{Yeah, I came from a Vault.  Too many people, not enough food and water.  But you wouldn't know anything about that, would you?}
-{1106}{hrold306}{Horrible.  The world just went insane.  Long ago, but I'll never forget it.  Never.}
-{1107}{hrold307}{[Cough] Trouble.  Nothing but trouble.}
-{1108}{hrold300}{Brilliant guy.  A doctor and philosopher.  Long ago he lead the expedition where I got changed into a mutant.}
+{1100}{hrold300}{Cara brilhante. Um médico e filósofo. Há muito tempo ele liderou a expedição onde eu me transformei em mutante.}
+{1101}{hrold301}{Quem? Ele é algum tipo de terapeuta sexual? Eu poderia usar um, você sabe.}
+{1102}{hrold302}{Mutantes. Não importa o que eles se chamam.}
+{1103}{hrold303}{Oh, ele. Ele lidera o Círculo dos Ladrões. Pensa que ele é Robin Hood. [tosse] Ele está bem, eu acho.}
+{1104}{hrold304}{Eu vi as religiões virem e as religiões irem, e eu espero que isso aconteça. Em breve.}
+{1105}{hrold305}{Sim, eu vim de um Vault. Muitas pessoas não têm comida e água suficientes. Mas você não sabe nada sobre isso, quer?
+{1106}{hrold306}{Horrível. O mundo ficou louco. Há muito tempo, mas nunca esquecerei isso. Nunca.}
+{1107}{hrold307}{[Cough] Problema. Nada além de problemas.}
+{1108}{hrold300}{Cara brilhante. Um médico e filósofo. Há muito tempo ele liderou a expedição onde eu me transformei em mutante.}

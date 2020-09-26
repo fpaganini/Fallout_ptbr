@@ -13,11 +13,11 @@
 {1006}{}{Ghouls}
 {1007}{}{Normais}
 
-{1100}{}{I dunno.}
+{1100}{}{Eu não sei.}
 {1101}{}{Você esta de pe nela.}
 {1102}{}{Ele e uma bicha. Nos deveriamos simplesmente eliminar ele e seus ghouls.}
 {1103}{}{Isso e aqui.}
-{1104}{}{I dunno.}
+{1104}{}{Eu não sei.}
 {1105}{}{Ele chefe do Harry.}
 {1106}{}{Coisas fracotes.}
 {1107}{}{Mais fracotes do que os ghouls.}

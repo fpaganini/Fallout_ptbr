@@ -2,7 +2,7 @@
 {101}{}{Quem e você?}
 {102}{}{Você e a lider desta gangue?}
 {103}{}{Deixa pra la.}
-{104}{}{A...O qu?}
+{104}{}{A...O que?}
 {105}{}{Razor e o nome. Eu sou a coisa mais proxima que nos temos de um lider.}
 {106}{}{Entao você e a lider desta gangue?}
 {107}{}{Qual e a estoria com a area cercada ao sul?}

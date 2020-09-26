@@ -1,149 +1,149 @@
-{100}{}{You see a weary traveler.}
-{101}{}{You see Lance, one of the guards from Shady Sands' long-range patrols.}
-{102}{}{Just stay where you are. We've heard about you in Shady Sands and
- we want no part of you.}
-{103}{}{The only part of you that I want is what you're carrying. Strip down.}
-{104}{}{I'm a man of peace, friend.}
-{105}{}{Hey, didn't I save Tandi and kill off all your radscorpions?}
-{106}{}{I have no quarrel with Shady Sands. I kinda like the place.}
+{100}{}{Voce ve um viajante cansado.}
+{101}{}{Voce ve o Lance, um dos guardas das patrulhas de longo alcance de Shady Sands.}
+{102}{}{Apenas fique aonde voce esta. Nos ouvimos sobre voce em
+ Shady Sands e nos nao queremos ter parte com voce.}
+{103}{}{A unica parte de voce que eu quero e o que voce esta carregando. Solte-a.}
+{104}{}{Eu sou um homem de paz, amigo.}
+{105}{}{Ei, eu nao salvei a Tandi e matei todos os seus radscorpions?}
+{106}{}{Eu nao tenho problema com Shady Sands. Eu ate gosto do lugar.}
 {107}{}{Herung?}
-{108}{}{I heard about you, and I ain't letting you kill me.}
-{109}{}{I don't have anything to say to you.}
-{110}{}{Yeah? What d'ya want this time?}
-{111}{}{Would you know where I could find a water chip?}
-{112}{}{Any sign of Tandi?}
-{113}{}{Any problems with raiders lately?}
-{114}{}{How are things in Shady Sands?}
+{108}{}{Eu ouvi sobre voce e eu nao vou deixar voce me matar.}
+{109}{}{Eu nao tenho nada a dizer pra voce.}
+{110}{}{Sim? O que voce quer desta vez?}
+{111}{}{Voce saberia aonde eu posso achar um chip de agua?}
+{112}{}{Algum sinal da Tandi?}
+{113}{}{Houve quaisquer problemas com saqueadores ultimamente?}
+{114}{}{Como estao as coisas em Shady Sands?}
 {115}{}{Hnng!}
-{116}{}{Hello, stranger. What brings you out in the wastes? Where are you from?}
-{117}{}{I could ask the same thing about you.}
-{118}{}{Sorry friend, but I get the impression that's a rather dangerous
- question to answer.}
-{119}{}{Know any place good to get supplies?}
-{120}{}{I'm from a Vault. Lucky Vault 13!}
+{116}{}{Ola estranho. O que traz voce as terras devastadas? De onde voce e?}
+{117}{}{Eu poderia perguntar a mesma coisa sobre voce.}
+{118}{}{Lamento amigo, mas eu tenhoa a impressao de que
+ essa e uma pergunta um tanto perigosa de responder.}
+{119}{}{Conhece algum lugar bom pra obter suprimentos?}
+{120}{}{Eu sou de uma Vault. A sortuda Vault 13!}
 {121}{}{Waaah?}
-{122}{}{Hello, stranger. I'd recommend that you keep on moving, if you
- know what's good for you.}
+{122}{}{Ola estranho. Eu recomendo que voce continue andando,
+ se voce sabe o que e bom pra voce.}
 # TRANSLATION NOTE
 # After line 123, the player-character's name is inserted by the code, and
 # then line 124 or line 131 is added.
-{123}{}{Hello, }
-{124}{}{. I thought you were our friend when you rescued Tandi, but now I hear
- some real nasty rumors about you. Are they true?}
-{125}{}{People say all sorts of things. Who cares?}
-{126}{}{I ain't your friend. And if you make a wrong move, I'll spill your
- innards. You got that?}
-{127}{}{What kind of rumors?}
-{128}{}{Yeah. They're all true. Now strip down so I can take what you've got.}
-{129}{}{Maybe I've done a few things I regret, but you should know better than
- believing that crap.}
-{130}{}{. Am I glad it's you and not some raider! How's it going! I'm Lance, one
- of the guards over in Shady Sands. Sorry we gave you such a hard time when
- you first came to town!}
-{131}{}{Hi Lance, what's up?}
-{132}{}{Hi Lance. I used to be a nice person, but then life screwed me. Now strip
- down and hand over your stuff.}
-{133}{}{Don't sweat it, Lance. What are you doing out here alone?}
-{134}{}{Fine. But I'll remember this.}
+{123}{}{Ola, }
+{124}{}{. Eu pensei que voce era nosso amigo quando voce resgatou a Tandi, mas agora
+ eu ouço alguns rumores bem desagradaveis sobre voce. Eles sao verdadeiros?}
+{125}{}{As pessoas dizem todos os tipos de coisas. Quem se importa?}
+{126}{}{Eu nao sou seu amigo. E se voce fizer um movimento errado,
+ eu espalharei suas entranhas. Voce entendeu?}
+{127}{}{Que tipos de rumores?}
+{128}{}{Sim. Eles sao todos verdadeiros. Agora dispa-se para que eu possa tomar tudo o que voce tem.}
+{129}{}{Talvez eu tenha feito algumas coisas das quais eu me arrependo,
+ mas voce deveria saber mais do que acreditar nessa bosta.}
+{130}{}{. Eu estou feliz que e voce e nao algum saqueador! Como esta indo? Eu
+ sou o lance, um dos guardas de Shady Sands. Lamento que nos demos uma dura
+ em voce quando voce veio pela primeira vez na cidade!}
+{131}{}{Oi Lance, o que e que ha?}
+{132}{}{Oi Lance. Eu costumava ser uma pessoa bacana, mas entao a vida me ferrou.
+ Agora solte o que voce tem e me de suas coisas.}
+{133}{}{Nao se preocupe Lance. O que voce esta fazendo aqui sozinho?}
+{134}{}{Certo. Mas eu me lembrarei disto.}
 {135}{}{Up yours.}
-{136}{}{Spare me the idle threats, boy. I kill children like you in my sleep.
- Hand over your belongings, and I may let you live.}
-{137}{}{If you really think I'm a threat, go ahead and kill me.}
-{138}{}{Let's make a wrong move. I always wanted to see what my innards look like.}
-{139}{}{That was then, this is now. What have you done for us lately? I
- think you better leave before I get ornery.}
-{140}{}{We like it too. Especially when you're not in it. Now get!}
-{141}{}{Man, you musta spent too much time in the Glow!}
-{142}{}{I don't know what a water chip is. Sorry.}
-{143}{}{It's an electronic device used in water purification systems.}
-{144}{}{How's the radscorpion problem?}
-{145}{}{The raiders got her. I'm part of one of the search parties. I think she's
- at the raider camp south of Shady Sands, but the Khans have the place sealed up
- like a fortress.}
-{146}{}{Can you take me to Shady Sands?}
-{147}{}{Can you take me to the Khans?}
-{148}{}{We'll have to find a way to get her back.}
-{149}{}{Thanks for the information. Good luck with the search.}
-{150}{}{Uh, yeah, but we're handling it a little better since the Khans got their
- bloody nose. I understand we have you to thank for that. We're grateful.}
-{151}{}{I wouldn't mind seeing a little gratitude.}
-{152}{}{Thanks. Anything else I can do?}
-{153}{}{Let me know if they bother you again.}
-{154}{}{We're doing okay.}
-{155}{}{Are you sure about that?}
-{156}{}{That's great.}
-{157}{}{I haven't a clue. Idiot.}
-{158}{}{Okay, I'll trust you. I'm from Shady Sands. We're a community not far from
- here.}
-{159}{}{Could you take me there?}
-{160}{}{What's the town like?}
-{161}{}{Any water chips there?}
-{162}{}{Sounds like a nice place.}
-{163}{}{Well, you keep your secrets, I'll keep mine. Good bye.}
-{164}{}{Maybe it is. A pity, though.}
-{165}{}{I've been to Junktown. I think it's southwest of here, but I've been
- traveling for so many days it's hard to tell.}
-{166}{}{Yeah, right. All the Vaults were destroyed, as far as I know. Tell me
- another one.}
-{167}{}{That's not what I was asking . . . oh, never mind!}
-{168}{}{That's not an answer. They call you assassin, thief, grave-robber. They
- say you'll kill anyone who gets in your path. Is it true?}
-{169}{}{Well, I haven't killed you yet, so obviously someone's lying.}
-{170}{}{Pretty much. I've had my share of good times.}
-{171}{}{I've made my share of enemies. I've left enough of them alive to slander
- me.}
-{172}{}{I've killed quite a few people, yeah. I always had a reason.}
-{173}{}{They call you assassin, thief, grave-robber. They say you'll kill anyone
- who gets in your path. Is it true?}
-{174}{}{Okay, I'll do it. But if you keep acting like a raider, you'll die like
- a raider.}
-{175}{}{I'll give you the benefit of the doubt, for now. But a man's only as good
- as his reputation, and yours could use some work. I hope you'll do something
- about it before we meet again.}
-{176}{}{Just heading back to town. You wanna come along? I could use the company.}
-{177}{}{Sure.}
-{178}{}{Not today.}
-{179}{}{A little bit of scavenging. We've found a few abandoned raider bases that
- haven't been picked clean; I suspect they've been attacking each other. We can
- always use more ammo and drugs.}
-{180}{}{I'm going to regret this.}
-{181}{}{Get out of my sight before I come to my senses.}
-{182}{}{We're still seeing a few; they must be migrating from the high desert or
- the Glow. But it's a lot better now than it was last year, thanks to you.}
-{183}{}{Sounds good. Bye.}
-{184}{}{Sure. Let's go.}
-{185}{}{Man, I must be out of my mind. But I'll take you. Let's go.}
-{186}{}{Have a good suicide, friend. And for what it's worth, good luck.}
-{187}{}{I'm heading out. You take care of yourself.}
-{188}{}{Well, I don't have much, but what's mine is yours.}
-{189}{}{Not that I can think of. I'm heading out. You take care of yourself.}
-{190}{}{We will. I'm heading out. You take care of yourself.}
-{191}{}{Well, okay. Let's go.}
-{192}{}{I won't lead a possible enemy home. If you do make your way to Shady Sands,
- keep your nose clean.}
-{193}{}{Small. We make our living herding Brahmin. It's pretty rough country
- around here, and pasture land is rather precious.}
-{194}{}{In a Brahmin herding backwater? You've gotta be crazy! There's probably
- not a working piece of electronics within two hundred miles.}
-{195}{}{You got a point. I think we should play things cautious and go our
- separate ways. If I were you, I'd do something about those stories. Unless you
- like people hating and mistrusting you.}
-{196}{}{I should kill you right now. You cross my path again, and I will. Now get.}
-{197}{}{Let's go.}
-{198}{}{Let me guess, someone told you about my snoring. Oh well. You take care
- of yourself.}
-{199}{}{It is. Well, I'm heading out. You take care of yourself.}
-{200}{}{Just you stay where you are. I don't know if you're in league with those
- mutants, but if you are, I'll kill you.}
-{201}{}{What mutants?}
-{202}{}{Who are you?}
-{203}{}{What happened to you?}
-{204}{}{Okay, that's cool.}
+{136}{}{Me poupe das suas ameaças vazias garoto. Eu mato crianças como voce em
+ meu sono. Passe seus pertences e eu posso deixar voce viver.}
+{137}{}{Se voce realmente acha que eu sou uma ameaça va em frente e me mate.}
+{138}{}{Vamos fazer um movimento errado. Eu sempre quis ver com o que minhas entranhas se parecem.}
+{139}{}{Isso foi antes, isto e agora. O que voce fez por nos ultimamente?
+ Eu acho que e melhor voce sair antes que eu fique ornery.}
+{140}{}{Nos gostamos tambem. Especialmente quando voce nao esta nela. Agora saia!}
+{141}{}{Cara, voce deve ter passado muito tempo no Glow!}
+{142}{}{Eu nao sei o que um chip de agua e. Lamento.}
+{143}{}{E um dispositivo eletronico usado em sistemas de purificaçao.}
+{144}{}{Como esta o problema dos radscorpions?}
+{145}{}{Os saqueadores a pegaram. Eu sou parte de um dos grupos de buscas.
+ Eu acho que ela esta no acampamento ao sul de Shady Sands, mas os Khans
+ selaram o lugar como uma fortaleza.}
+{146}{}{Voce pode me levar para Shady Sands?}
+{147}{}{Voce pode me levar para os Khans?}
+{148}{}{Nos teremos que achar um jeito de traze-la de volta.}
+{149}{}{Obrigado pela informaçao. Boa sorte com a busca.}
+{150}{}{Uh, sim, mas nos estamos lidando um pouco melhor desde que os Khans ficaram com o
+ nariz sangrando. Eu entendo que nos temos voce pra agradecer por isso. Nos somos gratos.}
+{151}{}{Eu nao me importaria de ver um pouco de gratidao.}
+{152}{}{Obrigado. Algo mais que eu possa fazer?}
+{153}{}{Deixe-me saber se eles aborrecerem voce de novo.}
+{154}{}{Nos estamos indo bem.}
+{155}{}{Voce tem certeza sobre isso?}
+{156}{}{Isso e otimo.}
+{157}{}{Eu nao tenho pista. Idiota.}
+{158}{}{Ok, eu confiarei em voce. Eu sou de Shady Sands. Nos somos uma comunidade
+ que nao esta longe daqui.}
+{159}{}{Voce poderia me levar la?}
+{160}{}{Como e a cidade?}
+{161}{}{Quaisquer chips de agua por la?}
+{162}{}{Soa como um lugar bacana.}
+{163}{}{Bem, voce mantem seus segredos, eu manterei os meus. Adeus.}
+{164}{}{Talvez seja. Apesar disso e uma pena.}
+{165}{}{Eu estive em Junktown. Eu acho que esta a sudoeste daqui, mas
+ eu estive viajando por tantos dias que e dificil dizer.}
+{166}{}{Sim, certo. Todas as Vaults foram destruidas tanto quanto eu saiba.
+ Me diga outra.}
+{167}{}{Isso nao e o que eu estava pedindo... oh, deixa pra la!}
+{168}{}{Isso nao e uma resposta. Eles chamam voce de assassino, ladrao, ladrao de tumulos.
+ Eles dizem que voce matara qualquer um que ficar no seu caminho. E verdade?}
+{169}{}{Bem, eu ainda nao matei voce entao obviamente alguem esta mentindo.}
+{170}{}{Bastante. Eu ja tive minha cota de diversoes.}
+{171}{}{Eu fiz minha cota de inimigos. Eu deixar bastante deles vivos pra me
+ detonar.}
+{172}{}{Eu matei bastante pessoas, sim. Eu sempre tive uma razao.}
+{173}{}{Eles chamam voce de assassino, ladrao, ladrao de tumulos. Eles dizem
+ que voce matara qualquer um que ficar no seu caminho. E verdade?}
+{174}{}{Ok, eu o farei. Mas se voce continuar agindo como um saqueador
+ voce morrera como um saqueador.}
+{175}{}{Eu darei a voce o beneficio da duvida, por agora. Mas um homem so e tao bom
+ quanto a reputaçao dele e a sua poderia usar um pouco de trabalho. Eu espero que
+ voce fara algo a respeito dela antes de nos encontrarmos de novo.}
+{176}{}{Apenas voltando pra cidade. Voce quer se juntar? Sua companhia me seria util.}
+{177}{}{Com certeza.}
+{178}{}{Hoje nao.}
+{179}{}{Um pouco de scavenging. Nos achamos algumas bases de saqueadores abandonadas
+ que nao foram limpas; eu suspeito que eles estiveram atacando uns aos outros. Nos
+ sempore podemos usar mais muniçao e drogas.}
+{180}{}{Eu vou me arrepender disto.}
+{181}{}{Saia da minha vista antes que eu volte ao meu bom senso.}
+{182}{}{Nos ainda estamos vendo alguns; eles devem estar migrando do alto deserto ou
+ do Glow. Mas esta muito melhor agora do que estava no ultimo ano, graças a voce.}
+{183}{}{Soa bom. Tchau.}
+{184}{}{Com certeza. Vamos la.}
+{185}{}{Cara, eu devo estar louco. Mas eu levarei voce. Vamos la.}
+{186}{}{Tenha um bom suicidio amigo. E pelo que vale, boa sorte.}
+{187}{}{Eu estou saindo. Voce tome conta de si.}
+{188}{}{Bem, eu nao tenho muito, mas o que e meu e seu.}
+{189}{}{Nada em que eu consiga pensar. Eu estou saindo. Voce tome conta de si.}
+{190}{}{Nos tomaremos. Eu estou saindo. Voce tome conta de si.}
+{191}{}{Bem, ok. Vamos la.}
+{192}{}{Eu nao levarei um possivel inimigo pra casa. Mas se voce fizer seu
+ caminho ate Shady Sands mantenha longe de problemas.}
+{193}{}{Pequena. Nos fazemos nossa vida criando Brahmins. E um campo bem
+ duro por aqui e a terra de pasto e bem preciosa.}
+{194}{}{Em um backwater de criaçao de Brahmins? Voce deve estar louco! Provavelmente
+ nao ha um pedaço de eletronico que funcione a menos de duzentas milhas.}
+{195}{}{Voce tem razao. Eu acho que nos deveriamos conduzir as coisas com cautela e ir
+ pelos nossos caminhos separados. Se eu fosse voce eu faria algo a respeito dessas
+ estorias. A menos que voce goste de pessoas odiando e desconfiando de voce.}
+{196}{}{Eu devia matar voce agora mesmo. Se voce cruzar meu caminho de novo eu irei. Agora saia.}
+{197}{}{Vamos la.}
+{198}{}{Me deixe advinhar, alguem falou pra voce sobre meu roncar. Oh bem...
+ Voce tome conta de si.}
+{199}{}{E. Bem, Eu estou saindo. Voce tome conta de si.}
+{200}{}{Apenas fique aonde voce esta. Eu nao sei se voce e aliado desses
+ mutantes mas se voce for eu matarei voce.}
+{201}{}{Que mutantes?}
+{202}{}{Quem e voce?}
+{203}{}{O que aconteceu com voce?}
+{204}{}{Ok, isso e legal.}
 {205}{}{Ru-huh?}
-{206}{}{The mutants overran Shady Sands. Must of use are dead. I guess it's only
- a matter of time before they get the rest of us.}
-{207}{}{I don't care what you say, what you ask. We're all dead! All of us! And
- I thought the raiders and the rad scorpions were bad . . . they were nothing!
- Ha! Ha ha ha!}
-{208}{}{Shut up! I don't feel like talking! Talking accomplishes nothing!
- Talking just bores the hell out of me . . .}
+{206}{}{Os mutantes dominaram Shady Sands. A maioria de nos esta morta. Eu acho
+ que e so uma questao de tempo antes de eles pegarem o resto de nos.}
+{207}{}{Eu nao me importo com o que voce diz, com o que voce pergunta. Nos estamos
+ todos mortos! Todos nos! E eu pensava que os saqueadores e os radscorpions eram
+ ruins... Eles nao eram nada! Ha ha ha ha!}
+{208}{}{Cale-se! Eu nao tenho vontade de conversar! Conversar nao realiza nada!
+ Conversar apenas me entedia pra caramba...}

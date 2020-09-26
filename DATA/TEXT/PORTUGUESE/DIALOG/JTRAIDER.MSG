@@ -36,7 +36,7 @@
  você ain't doing so hot.}
 {131}{}{Ela riu de mim. Eles todos riram de mim. Eu farei eles pagarem, eu juro.}
 {132}{}{Eu confio em você. Vamos trabalhar através disto, ok?}
-{133}{}{Talvez. I dunno.}
+{133}{}{Talvez. Eu não sei.}
 {134}{}{cara}
 {135}{}{garota}
 {136}{}{Você sound like an all right kind of cara. No one ever wanted to help me before. I think we can talk some more.}

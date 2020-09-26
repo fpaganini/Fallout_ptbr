@@ -1,15 +1,15 @@
-{100}{}{Você ve o Terry.}
-{101}{}{A racao de agua e passada a noite . . . Ei, você não e
+{100}{}{Voce ve o Terry.}
+{101}{}{A racao de agua e passada a noite . . . Ei, voce nao e
  um ghoul!}
-{102}{}{Isso não e importante agora. O que e importante
+{102}{}{Isso nao e importante agora. O que e importante
  e o local do chefe.}
-{103}{}{Nao, eu não sou.}
+{103}{}{Nao, eu nao sou.}
 {104}{}{Ngh.}
-{105}{}{Eu levarei você a ele. Aqui, deixe-me dar uma mao pra você.}
-{106}{}{Melhor eu levar você pro Harry, ele sabera o que fazer com você.}
+{105}{}{Eu levarei voce a ele. Aqui, deixe-me dar uma mao pra voce.}
+{106}{}{Melhor eu levar voce pro Harry, ele sabera o que fazer com voce.}
 {107}{}{Ei, sem conversa! Perturba meu pensamento.}
 {108}{}{Que hora da noite e?}
-{109}{}{O mutante ignora você.}
+{109}{}{O mutante ignora voce.}
 
 {1000}{}{Chip}
 {1001}{}{Necropolis}
@@ -20,11 +20,11 @@
 {1006}{}{Ghouls}
 {1007}{}{Normais}
 
-{1100}{}{I dunno.}
-{1101}{}{Você de pe nela.}
-{1102}{}{He's a wus. We should just wipe out him and his ghouls.}
-{1103}{}{That's here.}
-{1104}{}{I dunno.}
-{1105}{}{He Harry's boss.}
-{1106}{}{Wimpy things.}
-{1107}{}{Wimpier than ghouls.}
+{1100} {} {Eu não sei.}
+{1101} {} {Voce de pe nela.}
+{1102} {} {Ele é um wus. Nós deverí­amos apenas acabar com ele e seus ghouls.}
+{1103} {} {Isso é aqui}
+{1104} {} {Eu não sei.}
+{1105} {} {O chefe de Harry.}
+{1106} {} {Wimpy things.}
+{1107}{}{Mais zangado que ghouls.}

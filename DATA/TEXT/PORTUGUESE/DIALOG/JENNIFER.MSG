@@ -1,211 +1,211 @@
-{100}{}{You see Jennifer.}
-{101}{}{You see a Paladin.}
-{102}{}{Excuse me, Brother. You should put away your weapon whenever
- you are in the Brotherhood. We are a friendly order, but as
- you know, times are rough.}
-{103}{}{Some members of the Brotherhood might be offended if a
- stranger . . . I mean, a new Initiate . . . approaches them
- with a weapon.}
-{104}{}{Good day, Initiate. How may I help you?}
-{105}{}{Hello, Sister, it's good to see there are women of rank in
- this organization. I didn't know what to expect with a name like
- the Brotherhood.}
-{106}{}{Hey there, legs. You are looking mighty fine. What time should
- I pick you up?}
+{100}{}{Voce ve a Jennifer.}
+{101}{}{Voce ve uma Paladina.}
+{102}{}{Com licença, Irmao. Voce deveria guardar sua arma
+ sempre que voce estiver na Irmandade. Nos somos uma ordem
+ amistosa mas como voce sabe, os tempos sao ruins.}
+{103}{}{Alguns membros da Irmandade poderiam ficar ofendidos
+ se um estranho... eu quero dizer, um novo Iniciado... se
+ aproxima deles com uma arma.}
+{104}{}{Bom dia, Iniciado. Como eu posso ajudar voce?}
+{105}{}{Oi, Irma, e bom ver que ha mulheres de rank nesta
+ organizaçao. Eu nao sabia o que esperar com um nome como
+ a Irmandade.}
+{106}{}{Ei, pernas bonitas. Voce e muito bonita.
+ Que hora eu deveria encontrar voce?}
 {107}{}{Oooooga!}
-{108}{}{Could you tell me where I might find our High Elder?}
-{109}{}{Who's in charge of this hole?}
-{110}{}{Where's this High Elder guy?}
+{108}{}{Voce poderia me dizer aonde eu poderia achar nosso Elder Supremo?}
+{109}{}{Quem esta no comando deste buraco?}
+{110}{}{Aonde esta este cara Supremo?}
 {111}{}{Gruk!}
-{112}{}{Maxson, the High Elder, can be found on the Fourth Floor.
- If you take the other elevator down to level four, he should
- be either in the Council Room or the Elders's rooms.}
-{113}{}{You can ask one of the guards on that level; they should know
- where he is at the moment.}
-{114}{}{Thank you.}
-{115}{}{Where can I get some better weapons?}
-{116}{}{You should talk to Talus. He might be able to help you, or
- at least tell you who to talk to.}
-{117}{}{During the day, Talus is normally supervising in the training hall.
- Do you know where that is?}
-{118}{}{Yes, I do. Thank you.}
-{119}{}{No.}
-{120}{}{Of course I do!}
-{121}{}{The training hall is right around the corner. Just go down this
- corridor, make a left, go through the door at the end of
- the corridor and it will be through the door on your right.}
-{122}{}{You have been extremely helpful. Thank you very much.
- I hope we can talk again soon. Good day.}
-{123}{}{Training hall? Do you think I could get some training there?
- I am a member of the Brotherhood now, right?}
-{124}{}{Thank you for your help, Sister. It's good to see there are
- women of rank in this organization. I didn't know what to
- expect with a name like the Brotherhood.}
-{125}{}{Thanks, Sugar. You know, you're looking mighty fine. What
- do you say you and me check out each other's 'equipment'
- later? What time do you get off?}
-{126}{}{Oh, that place. Okay, bye.}
-{127}{}{Excuse me? Is there something wrong?}
+{112}{}{Maxson, o Elder Supremo, pode ser achado no quarto andar. Se
+ voce pegar o outro elevador pra baixo ate o nivel quatro, ele deve
+ estar ou na Sala do Conselho ou nas Salas dos Elders.}
+{113}{}{Voce pode perguntar a um dos guardas naquele nivel;
+ eles devem saber aonde ele esta no momento.}
+{114}{}{Obrigado.}
+{115}{}{Aonde eu posso conseguir algumas armas melhores?}
+{116}{}{Voce deve falar com o Talus. Ele poderia ser capaz de ajudar
+ voce ou pelo menos dizer a voce com quem falar.}
+{117}{}{Durante o dia o Talus esta normalmente supervisionando a
+ sala de treinamento. Voce sabe aonde essa esta?}
+{118}{}{Sim, eu sei. Obrigado.}
+{119}{}{Nao.}
+{120}{}{Claro que eu sei!}
+{121}{}{A sala do treinamento esta logo ali na esquina. Apenas va
+ por este corredor, vire a esquerda, va atraves da porta no fim
+ do corredor e ela estara do outro lado da porta a sua direita.}
+{122}{}{Voce tem extremamente prestativo. Muito obrigado. Eu
+ espero que nos possamos conversar de novo em breve. Bom dia.}
+{123}{}{Salao de treinamento? Voce acha que eu poderia conseguir um pouco de
+ treinamento la? Eu sou um membro da Irmandade agora, certo?}
+{124}{}{Obrigado por sua ajuda, Irma. E bom ver que ha mulheres
+ no rank desta organizaçao. Eu nao sabia o que esperar com um
+ nome como a Irmandade.}
+{125}{}{Obrigado, docinho. Voce sabe, voce parece muito bem.
+ O que voce diz de voce e eu verificarmos o 'equipamento'
+ um do outro mais tarde? Que horas voce sai?}
+{126}{}{Oh, aquele lugar. Ok, tchau.}
+{127}{}{Com licença? Ha algo errado?}
 {128}{}{Muk lug?}
-{129}{}{I'm sorry, I don't think I can help you. You should go see the
- doctor. She's on the second level.}
-{130}{}{Of course there are. Two of our five Elders are women, our master
- scribe is a woman, and we have many other women in all the
- different ranks.}
-{131}{}{The women of the Brotherhood are also called Brothers. We don't call
- the women Sisters. This is the Brotherhood of Steel, after all,
- not the Brother and Sisterhood of Steel.}
-{132}{}{Don't you find it peculiar that it is called the Brotherhood,
- implying that its members consist solely of men?}
-{133}{}{But why is it called the Brotherhood, then?}
-{134}{}{Well, it just seemed strange.}
-{135}{}{I do not know. That has been our name all of my life. I'm sure
- there is a reason for it.}
-{136}{}{I guess you're right.}
-{137}{}{Well, it still seems a little strange to me.}
-{138}{}{That is strange. I've never really put much thought into it.
- We've been the Brotherhood of Steel all of my life. Our
- ancestors must have had a reason for naming it so.}
-{139}{}{But that doesn't mean things can't change.}
-{140}{}{Yeah, you're probably right.}
-{141}{}{So, is there anything else I can help you with?}
-{142}{}{Yes, where can I find the High Elder?}
-{143}{}{Where can I get better weapons?}
-{144}{}{No, that's it. Bye.}
-{145}{}{No, we're very strict when it comes to tradition. I don't think
- it could ever be changed. It doesn't bother me at all to be
- addressed as a Brother. That is curious, though.}
-{146}{}{I think I'll have a talk with Vree. She might be able to give
- some insight as to why our ancestors decided to call us the
- Brotherhood of Steel.}
-{147}{}{Who's Vree? One of the Elders?}
-{148}{}{Vree's the Master Scribe. She is the one you should talk to
- if you have any technical questions, but don't disturb her
- during her meditations at night.}
-{149}{}{She almost always stays in her room, which is also occupied
- by the mainframe on the third floor.}
-{150}{}{Hole? How dare you talk like that about the Brotherhood.
- You are a member of our order now, and should be proud
- to be a member of the Brotherhood of Steel.}
-{151}{}{Proud? Why? You're all just a bunch of robotic hop-heads, hiding
- from the real world. There's nothing to be proud of there.}
-{152}{}{I'm sorry. I get a little carried away with myself
- sometimes.}
-{153}{}{Yeah, right.}
-{154}{}{Well, I guess we all do sometimes.}
-{155}{}{So who is in charge of this place?}
-{156}{}{Yeah. Well, I've got to go.}
-{157}{}{Maxson, the High Elder. He's on the fourth floor.}
+{129}{}{Eu lamento, eu nao acho que eu possa ajudar voce. Voce deveria
+ ir ver a doutora. Ela esta no segundo nivel.}
+{130}{}{Claro que ha. Dois dos nossos cinco Elders sao mulheres,
+ nossa escriba mestra e uma mulher e nos temos muitas outras
+ mulheres em todos os ranks diferentes.}
+{131}{}{As mulheres da Irmandade tambem sao chamadas de Irmaos. Nos nao
+ chamamos as mulheres de Irmas. Depois de tudo, esta e a Irmandade do
+ do Aço, nao a Irmandade dos Homens ou das Mulheres de Aço.}
+{132}{}{Voce nao acha peculiar que seja chamada de a Irmandade
+ implicando que os membros dela consistam unicamente de homens?}
+{133}{}{Mas por que e chamada de Irmandade entao?}
+{134}{}{Bem, apenas parecia estranho.}
+{135}{}{Eu nao sei. Esse foi nosso nome por toda a minha vida.
+ Eu tenho certeza que ha uma razao nisso.}
+{136}{}{Eu creio que voce esta certo.}
+{137}{}{Bem, ainda parece um pouco estranho pra mim.}
+{138}{}{Isso e estranho. Eu nunca realmente pensei muito nisso
+ Nos fomos a Irmandade do Aço por toda a minha vida. Nossos
+ ancestrais devem ter tido uma razao pra nomea-la assim.}
+{139}{}{Mas isso nao significa que as coisas nao podem mudar.}
+{140}{}{Sim, voce provavelmente esta certo.}
+{141}{}{Entao, ha mais alguma coisa com a qual eu posso ajudar voce?}
+{142}{}{Sim aonde eu posso achar o Supremo?}
+{143}{}{Aonde eu posso conseguir armas melhores?}
+{144}{}{Nao, isso e tudo. Tchau.}
+{145}{}{Nao, nos somos muito estritos no que diz respeito a tradiçao.
+ Eu nao acho que poderia ser mudado. Nao me aborrece de modo algum
+ ser adereçada como Irmao. Apesar disso isso e curioso.}
+{146}{}{Eu acho que eu terei uma conversa com a Vree. Ela poderia
+ ser capaz de dar algum insight sobre o por que que os nossos
+ ancestrais decidiram nos chamar a Irmandade do Aço.}
+{147}{}{Quem e Vree? Uma dos Elders?}
+{148}{}{Vree e a Escriba Mestra. Ela e aquela com quem voce
+ deveria falar se voce tem quaisquer perguntas tecnicas mas
+ nao pertube ela durante as meditaçoes dela a noite.}
+{149}{}{Ela quase sempre fica na sala dela a qual esta tambem
+ ocupada pelo mainframe no terceiro andar.}
+{150}{}{Buraco? Como voce ousa falar assim da Irmandade.
+ Voce e um membro da nossa ordem agora e deveria estar
+ orgulhoso de ser um membro da Irmandade do Aço.}
+{151}{}{Orgulhoso? Por que? Voce todos sao apenas um bando de hop-heads roboticos
+ se escondendo do mundo real. Nao ha nada do que estar orgulhoso ai.}
+{152}{}{Eu lamento. Eu perco um pouco o controle
+ de mim mesmo as vezes.}
+{153}{}{Sim, certo.}
+{154}{}{Bem, Eu creio que todos nos as vezes.}
+{155}{}{Entao, quem esta no comando deste lugar?}
+{156}{}{Sim. Bem, eu tenho que ir.}
+{157}{}{Maxson, o Elder Supremo. Ele esta no quarto andar.}
 {158}{}{}
 {159}{}{}
 {160}{}{}
 {161}{}{}
 {162}{}{}
-{163}{}{Well, you are cute . . . but I don't think so. I don't think
- it would be a good idea to get involved with an outsider,
- anyways. You are cute, though, and somewhat attractive. }
-{164}{}{I don't know if it's because you're an outsider or because
- of your extreme . . . lack of tact? So, 'honey', is there
- anything else I can do for you?}
-{165}{}{Yeah, uh, I guess. Uh, who's in charge around here?}
-{166}{}{Uh, okay . . . um. How about some weapons then? Where can
- I get my hands on some of those?}
+{163}{}{Bem, voce e fofo... mas eu acho que nao. Eu nao acho que
+ seria uma boa ideia me envolver com um forasteiro de qualquer
+ maneira. Apesar disso voce e fofo e de algum modo atraente. }
+{164}{}{Eu nao sei se e porque voce e um forasteiro ou por causa
+ da sua extrema... falta de tato? Entao, 'docinho', ha alguma
+ coisa mais que eu possa fazer por voce?}
+{165}{}{Sim, uh, eu acho. Uh, quem esta no comando por aqui?}
+{166}{}{Uh, ok... um. Que tal algumas armas entao?
+ Aonde eu posso por minhas maos em algumas dessas?}
 {167}{}{Hmmph!}
-{168}{}{No.}
-{169}{}{That's . . . pretty funny. You are joking, I hope? Actually . . .
- don't answer that. I don't think I want to know.}
-{170}{}{Yeah, REAL funny. Almost as much as your face!}
-{171}{}{Thanks a lot. That's exactly what I needed to hear right now.}
-{172}{}{I'm out of here.}
-{173}{}{I'm sorry. It's just that you outsiders have such a strange
- way of talking to people sometimes. Is there anything I can
- help you with?}
-{174}{}{Well, I guess I should talk to this High Elder person.
- Where is he at?}
-{175}{}{I would like to get some better weapons. Who do I talk
- to about that?}
-{176}{}{No.}
-{177}{}{Are you for real? I haven't heard such a pitiful line
- in all my life!}
-{178}{}{Yeah? Well, I don't get out much. Okay?}
-{179}{}{Get out of my face, you walking garbage can!}
+{168}{}{Nao.}
+{169}{}{Isso e... bem engraçado. Voce esta brincando eu espero? Na verdade...
+ nao responda isso. Eu nao acho que eu queira saber.}
+{170}{}{Sim, engraçado MESMO. Quase tanto quanto a sua cara!}
+{171}{}{Muito obrigado. Isso e exatamente o que eu precisava ouvir agora.}
+{172}{}{Eu vou sair daqui.}
+{173}{}{Eu lamento. E apenas que voces forasterios tem um modo
+ tao estranho de falar com as pessoas as vezes. Ha qualquer
+ coisa com que eu possa ajudar voce?}
+{174}{}{Bem, eu acho que eu deveria falar com esta pessoa Elder Supremo.
+ Aonde ele esta?}
+{175}{}{Eu gostaria de obter algumas armas melhores.
+ Com quem eu falo a respeito disso?}
+{176}{}{Nao.}
+{177}{}{Voce esta falando serio? Eu jamais ouvi uma frase tao
+ horrivel em toda a minha vida!}
+{178}{}{Sim? Bem, eu nao saio muito. Ok?}
+{179}{}{Saia da minha frente sua lata de lixo andante!}
 {180}{}{Pfft!}
-{181}{}{Well, yes, you are a member of the Brotherhood, but the Elders
- have put a hold on all training of new Initiates.}
-{182}{}{Por quê?}
-{183}{}{Oh, that's just GREAT! Why the hell did I join this stupid
- group? Where's the door?!}
-{184}{}{There are rumors about some kind of army. I think the Elders
- want to concentrate their resources on the ones that are already
- far enough along in their training to make a difference if we
- do have a big battle on our hands.}
-{185}{}{We strongly believe that training a few fighters extremely
- well is better than giving mediocre training to a bunch of
- fighters. Saving lives is one of our primary objectives.}
-{186}{}{You could probably get quite a bit out of the training just
- by watching. Brother Thomas is the best trainer we have ever had
- at the Brotherhood.}
-{187}{}{Well, I'm to be working on the outside of the Brotherhood, right?
- It's a very hostile world out there and I'll be putting my life
- on the line every minute I'm out there. Don't you think I should
- be given training if I want or need it, or do you only 'say'
- it is your primary objective to 'save' lives?}
-{188}{}{Thank you for the suggestion, I'll take a look.}
-{189}{}{You're all a bunch of fools.}
-{190}{}{Can you tell me where Maxson is?}
-{191}{}{Well, I'm only repeating what I was told. If you talk to Thomas
- or Talus they might be able to make an exception.}
-{192}{}{Okay, thanks.}
-{193}{}{They'd better. I've jumped through enough hoops for you guys.}
-{194}{}{So, can you tell me where Maxson is?}
-{195}{}{Oh, my darling. When are we going to marry?}
-{196}{}{You're looking so handsome, as always.}
-{197}{}{Give me a kiss.}
-{198}{}{I've missed you so much.}
-{199}{}{I'll wait up for you.}
-{200}{}{I've been thinking about you all day.}
-{201}{}{You're so cute when you look at me like that.}
-{202}{}{Don't scare me like that. I thought I'd never see you again.}
-{203}{}{You didn't come by last night.}
-{204}{}{How long has it been since I've last seen you? It seems
- like an eternity.}
-{205}{}{I've missed you ever so much.}
-{206}{}{Come to bed, honey.}
-{207}{}{We can get married in the morning.}
-{208}{}{I think we should have about five kids.}
-{209}{}{Where do you want to go for our honeymoon? I hear
- the Children of the Cathedral have a beautiful place.}
-{210}{}{My parents are still waiting to meet you.}
-{211}{}{Why hello again. I hope things are well with you.
- I hope you've talked to Vree.}
-{212}{}{Hello, Brother }
+{181}{}{Bem, sim, voce e um membro da Irmandade, mas os Elders
+ puseram um limite em todo o treinamento dos novos Iniciados.}
+{182}{}{Por que?}
+{183}{}{Oh, isso e simplesmente OTIMO! Por que diabos eu me uni a
+ este grupo estupido? Aonde esta a porta?!}
+{184}{}{Ha rumores sobre algum tipo de exercito. Eu acho que os Elders
+ querem concentrar os recursos deles naqueles que ja estao distantes o
+ bastante no treinamento deles pra fazer a diferença se nos tivermos
+ uma grande batalha nas nossas maos.}
+{185}{}{Nos acreditamos fortemente que treinar alguns poucos lutadores
+ extremamente bem e melhor do que dar um treinamento mediocre pra um
+ bando de lutadores. Salvar vidas e um de nossos objetivos primarios.}
+{186}{}{Voce poderia provavelmente entender um pouco do treinamento
+ apenas observando. O irmao Thomas e o melhor treinador que nos ja
+ tivemos na Irmandade.}
+{187}{}{Bem, eu estou trabalhando no lado de fora da Irmandade, certo? E
+ um mundo muito hostil la fora e eu estarei pondo minha vida em risco a
+ cada minuto que eu estou la fora. Voce nao acha que deveria ser dado
+ treinamento a mim se eu quisesse ou precisasse ou voce so 'diz' que
+ e seu objectivo primario 'salvar' vivas?}
+{188}{}{Obrigado pela sugestao, eu darei uma olhada.}
+{189}{}{Voce sao todos um bando de tolos.}
+{190}{}{Voce pode me dizer aonde o Maxson esta?}
+{191}{}{Bem, eu so estou repetindo o que foi dito a mim. Se voce falar com
+ o Thomas ou o Talus eles poderiam ser capazes de fazer uma exceçao.}
+{192}{}{Ok, obrigado.}
+{193}{}{Melhor eles conseguirem. Eu pulei through enough hoops por voces.}
+{194}{}{Entao, voce pode me dizer aonde o Maxson esta?}
+{195}{}{Oh, meu querido. Quando nos vamos nos casar?}
+{196}{}{Voce esta tao bonito, como sempre.}
+{197}{}{Me da um beijo.}
+{198}{}{Eu senti tanta falta de voce.}
+{199}{}{Eu esperarei por voce.}
+{200}{}{Eu estive pensando em voce o dia todo.}
+{201}{}{Voce fica tao fofo quando voce olha pra mim assim.}
+{202}{}{Nao me assuste assim. Eu pensei que eu nunca veria voce de novo.}
+{203}{}{Voce nao veio na noite passada.}
+{204}{}{Quanto tempo faz desde que eu vi voce pela ultima vez?
+ Parece uma eternidade.}
+{205}{}{Eu senti tanta falta de voce.}
+{206}{}{Vem pra cama, docinho.}
+{207}{}{Nos podemos nos casar de manha.}
+{208}{}{Eu acho que nos deveriamos ter pelo menos cinco filhos.}
+{209}{}{Aonde voce quer ir na nossa lua de mel? Eu ouvi
+ que as Crianças da Catedral tem um lugar lindo.}
+{210}{}{Meus pais ainda estao esperando pra conhecer voce.}
+{211}{}{Ola de novo. Eu espero que as coisas estejam bem com voce.
+ Eu espero que voce tenha falado com a Vree.}
+{212}{}{Oi, Irmao }
 {213}{}{.}
-{214}{}{Be careful if you go to the north. Our scouts never returned.}
-{215}{}{Brother }
-{216}{}{, it's good to see you again.}
-{217}{}{Have you talked to Rhombus? He's the Head Knight. He's just
- right over there in that room.}
-{218}{}{I don't have time to talk. I'm busy.}
-{219}{}{Sorry, I'm not in the mood to talk to rude people.}
-{220}{}{Don't bother me.}
-{221}{}{What? Can't you go bother someone else?}
-{222}{}{Go away.}
-{223}{}{I don't want to talk to you.}
-{224}{}{Initiate, get back to your studies.}
-{225}{}{No time to talk, Initiate.}
-{226}{}{Come over here, you hunk!}
-{227}{}{Darling, over here!}
-{228}{}{ I've missed you.}
-{229}{}{I've got the nursery ready, darling.}
-{230}{}{Hi, honey.}
-{231}{}{I see you.}
-{232}{}{You've got to meet my parents.}
+{214}{}{Seja cuidadoso se voce for pro norte. Nossos patrulheiros nunca retornaram.}
+{215}{}{Irmao }
+{216}{}{, e bom ver voce de novo.}
+{217}{}{Voce falou com o Rhombus? Ele e o Cavaleiro Chefe. Ele esta
+ logo ali naquela sala.}
+{218}{}{Eu nao tenho tempo pra falar. Eu estou ocupado.}
+{219}{}{Lamento, eu nao estou com humor pra falar com pessoas rudes.}
+{220}{}{Nao me aborreça.}
+{221}{}{O que? Voce nao consegue aborrecer outra pessoa?}
+{222}{}{Vai embora.}
+{223}{}{Eu nao quero falar com voce.}
+{224}{}{Iniciado. volte aos seus estudos.}
+{225}{}{Sem tempo pra falar, Iniciado.}
+{226}{}{Venha aqui seu gostosao!}
+{227}{}{Querido, por aqui!}
+{228}{}{ Eu senti sua falta.}
+{229}{}{Eu ja tenho o berçario pronto, querido.}
+{230}{}{Oi, docinho.}
+{231}{}{Eu vejo voce.}
+{232}{}{Voce tem que encontrar meus pais.}
 {233}{}{Yoo hoo!}
-{234}{}{Come here, my little snookums.}
-{235}{}{Are you teasing me?}
-{236}{}{You're playing hard to get, aren't you?}
-{237}{}{Over here, sweaty!}
-{238}{}{Hi honey!}
-{239}{}{There you are. I was starting to worry.}
-{240}{}{Come here and give me a kiss, handsome.}
-{241}{}{Come on in, darling.}
+{234}{}{Venha aqui, meu little snookums.}
+{235}{}{Voce esta me provocando?}
+{236}{}{Voce esta se fazendo de dificil nao esta?}
+{237}{}{Por aqui, docinho!}
+{238}{}{Oi docinho!}
+{239}{}{Ai esta voce. Eu estava começando a me preocupar.}
+{240}{}{Venha aqui e me de um beijo, lindo.}
+{241}{}{Entre, querido.}

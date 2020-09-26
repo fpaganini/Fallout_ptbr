@@ -1,47 +1,47 @@
-{100}{}{Stop!}
-{101}{}{Die, human!}
-{102}{}{To the death.}
-{103}{}{You will pay for your sins!}
-{104}{}{You are not supposed to be armed in this area, little brother. Explain
- yourself.}
-{105}{}{You are not supposed to be armed in this area, little sister. Explain
- yourself.}
+{100}{}{Pare!}
+{101}{}{Morra, humano!}
+{102}{}{Para a morte}
+{103}{}{Você pagará pelos seus pecados!}
+{104}{}{Você não deveria estar armado nesta área, irmãozinho. Explicar
+ você mesmo.}
+{105}{}{Você não deveria estar armado nesta área, irmãzinha. Explicar
+ você mesmo.}
 {106}{}{Hngg.}
-{107}{}{It's okay, I work here.}
-{108}{}{It's okay, I have a pass.}
-{109}{}{I am armed by permission of the Lieutenant.}
-{110}{}{What manner of treason is this?!}
-{111}{}{Show me your pass, then.}
-{112}{}{I, uh, left it in my other robe.}
-{113}{}{It's right here, stapled to the front of my gun.}
-{114}{}{Hurry on your task then, but be warned, I'm watching you.}
-{115}{}{Yes, little brother. What is it that you need from me?}
-{116}{}{Yes, little sister. What is it that you need from me?}
+{107}{}{Tudo bem, eu trabalho aqui.}
+{108}{}{Tudo bem, eu tenho um passe.}
+{109}{}{Eu estou armado com permissão do tenente.}
+{110}{}{Que tipo de traição é essa ?!}
+{111}{}{Mostre-me o seu passe, então.}
+{112}{}{Eu, uh, deixei no meu outro manto.}
+{113}{}{Está bem aqui, grampeado na frente da minha arma.}
+{114}{}{Apresse-se em sua tarefa, mas esteja avisado, estou te observando.}
+{115}{}{Sim, irmãozinho. O que é que você precisa de mim?}
+{116}{}{Sim, irmãzinha. O que é que você precisa de mim?}
 {117}{}{Hng!}
-{118}{}{Hmm, where's this Master guy?}
-{119}{}{Praise to the Unity, brother.}
-{120}{}{I am sorry, but you will have to find the way to Unity yourself.}
-{121}{}{You are obviously a heathen! Pay for your sins!}
-{122}{}{He resides on Level 3, as he must. Why do you ask such a silly question?}
-{123}{}{Oh, uh, no reason.}
-{124}{}{I am going to kick his ass from here to, uh, someplace really far away!}
-{125}{}{What question? I said 'Hail to the Master, goodbye.'}
-{126}{}{You insult me! Die!}
-{127}{}{Praise to the Unity.}
-{128}{}{You sound like you do not believe what you say. Could this be true?
- Or have you left the path of righteousness?}
-{129}{}{You mistake the tremor in my voice for fear when it is actually
- a cold of some sort.}
-{130}{}{I think your kind is doomed, actually. Here, let me prove it with
- some help from my friends . . .}
-{131}{}{When you become one of us, you will not fear such minor things.
- Begone.}
-{132}{}{What do you want this time? I have little time for your talk.}
+{118}{}{Hmm, onde está esse cara Mestre?}
+{119}{}{Louvor à Unidade, irmão.}
+{120}{}{Eu sinto muito, mas você terá que encontrar o caminho para Unity.}
+{121}{}{Você é obviamente um pagão! Pague pelos seus pecados!}
+{122}{}{Ele reside no nível 3, como ele deve. Por que você faz uma pergunta tão boba?}
+{123}{}{Oh, uh, não há razão.}
+{124}{}{Eu vou chutar a bunda dele daqui para, uh, algum lugar bem longe!}
+{125}{}{Que pergunta? Eu disse "Salve ao Mestre, adeus".
+{126}{}{Você me insulta! Morrer!}
+{127}{}{Louvor à Unidade}}
+{128}{}{Você parece não acreditar no que diz. Isso poderia ser verdade?
+ Ou você deixou o caminho da justiça?}
+{129}{}{Você confunde o tremor na minha voz por medo quando na verdade é
+ um resfriado de algum tipo.}
+{130}{}{Eu acho que o seu tipo está condenado, na verdade. Aqui, deixe-me provar isso com
+ alguma ajuda de meus amigos. . .}
+{131}{}{Quando você se tornar um de nós, você não terá medo de coisas menores.
+ Begone.}
+{132}{}{O que você quer desta vez? Eu tenho pouco tempo para sua palestra.}
 {133}{}{Labbo!}
-{134}{}{I have little time for your life . . . Die!}
+{134}{}{Eu tenho pouco tempo para a sua vida. . . Morrer!}
 {135}{}{Nothing, sorry.}
-{136}{}{Praise to the Unity, brother.}
-{137}{}{Just who are you? Let me see . . . Argh! An intruder . . .}
-{138}{}{Move along. Do your part for the Unity and stop bothering me!}
-{139}{}{Get going.}
-{140}{}{Move along. Do your part for the Unity.}
+{136}{}{Louvor à Unidade, irmão.}
+{137}{}{Apenas quem é você? Deixe-me ver . . . Argh! Um intruso. . .}
+{138}{}{seguir em frente. Faça sua parte pela Unidade e pare de me incomodar!}
+{139}{}{seguir em frente}
+{140}{}{seguir em frente. Faça sua parte pela Unidade.}

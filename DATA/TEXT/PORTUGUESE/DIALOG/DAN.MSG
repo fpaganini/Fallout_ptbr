@@ -1,137 +1,137 @@
-{100}{}{You see Dan.}
-{101}{}{Help!}
-{102}{}{Why hello there, m'friend and welcome to the Hub. Let me introduce m'self,
- they call me 'Dan The Brahmin Man!' I wheel and deal with all the merchants
- around here, offer'n my humble services for a low, low price. So now, what
- can I do ya' for. }
-{103}{}{young man?}
-{104}{}{my man?}
-{105}{}{my little lady?}
-{106}{}{I want to join a caravan.}
-{107}{}{Uh, what services do you offer, exactly?}
-{108}{}{Why the hell are you yelling at that poor kid?!}
+{100}{}{Voce ve o Dan.}
+{101}{}{Ajuda!}
+{102}{}{Ola meu amigo e bem-vindo ao Hub. Deixe-me me apresentar, eles
+ me chama de 'Dan O Cara dos Brahmins!' Eu wheel e lido com todos os
+ mercadores por aqui, ofereço meus serviços por um preço baixo.
+ Entao agora, o que eu posso fazer por voce?}
+{103}{}{Jovem?}
+{104}{}{Meu cara?}
+{105}{}{Minha pequena dama?}
+{106}{}{Eu quero me unir a uma caravana.}
+{107}{}{Uh, quais serviços voces oferecem exatamente?}
+{108}{}{Por que diabos voce estava gritando com aquele pobre garoto?!}
 {109}{}{Urg.}
-{110}{}{Why, I manage the care for perddy much all of the Caravan's wagons
- and Brahmin in these parts. If they ever need anything for their caravans,
- I'm the one they talk to. Hell, the Big Three deal with me exclusively.}
-{111}{}{Who are the Big Three?}
-{112}{}{Well aren't you important.}
-{113}{}{Really? That's nice. I want to join a caravan.}
-{114}{}{Well, I got to go. Bye.}
-{115}{}{What?  Get the hell out of here ya damn Skag! Ta think I was about
- to waist m'time on a low-life like yerself.}
-{118}{}{Damn, son.  Have ya' been locked up all yer life in a cave or somethin'? The Big Three are the three largest
- Merchant groups in the world. Well, okay, maybe not the world, but they sure as hell cover a large portion;
- 'bout as far as yer eye can see.}
-{119}{}{Damn, honey.  Have ya' been locked up all yer life in a cave or somethin'? The Big Three are the three largest
- Merchant groups in the world. Well, okay, maybe not the world, but they sure as hell cover a large portion;
- 'bout as far as yer eye can see.}
-{120}{}{Damn yourself, you brahmin freak.}
-{121}{}{Oh, them. I thought you were talking about something else. So how do I join a caravan?}
-{122}{}{Okay, thanks. Bye.}
-{123}{}{Bramin freak? Is that an attempt at insult'n me? I would be a little more polite to the people ya' meet,
- stranger. I could care less, but this city is filled with all sorts of cutthroats that wouldn't hesitate to
- slit yer throat if ya look at'm wrong.}
-{124}{}{Damn, you're one ugly son of a bitch!}
-{125}{}{I'm scared. See ya.}
-{126}{}{Special, no. Lucky, yes; and unless ya want to be unlucky you'll be a little more polite to the people ya'
- meet. I could care less, but this city is filled with all sorts of cutthroats that wouldn't hesitate to slit
- yer throat if ya' look at'm wrong.}
-{127}{}{Damn, you're one ugly son of a bitch!}
-{128}{}{If you say so.}
-{129}{}{Well at least I don't have a mutated hind for a face.  Yer mother must have been a brahmin and yer
- daddy a rat; that's the only way ya' could have come out so damn ugly.  Hell, yer uglier than me!}
-{130}{}{No one talks about my mother like that!  Prepare to die!}
-{131}{}{Yeah, not bad.  Well I got places to go and people to beat.  See ya', Dan.}
-{132}{}{Yeah right, that's an okay line, but everyone uses it. Yer kiddin' right?
- Ya' wouldn't lay a hand on poor ol' Dan.}
-{133}{}{Line? Hand? You wish. I'll lay much more than my hand on your soon
- to be dead carcass.}
-{134}{}{Ha!  Had you going though, didn't I?}
-{135}{}{Yeah, a little maybe. You're not too bad, kid. But just remember to
- keep that mouth of yours under control. I'd hate to see a good mouth go to waste.}
-{136}{}{Sure, whatever you say. See ya', Dan.}
-{137}{}{So, how do I join a caravan?}
-{138}{}{Bye. And stay away from my brahmin, you dirty little bastard.}
-{139}{}{Bye. And stay away from my brahmin, you dirty little bitch.}
-{141}{}{Guards! Police! There's a Mad Man trying to kill me!}
-{142}{}{Well, I don't have any openings but ya' might wanna check with the Big Three.  There's a job post in
- the Merchant Market that might be of some help ta ya'. That's where they, and others, get their men.}
-{143}{}{Oh, sorry . . . and women of course.}
-{144}{}{You don't have any openings?  Are you a merchant, too?}
-{145}{}{Which way to the Merchant Market?}
-{146}{}{Okay, thanks.}
-{147}{}{Well no, not exactly.  I work very closely with most of the smaller merchant groups, though, and I know
- we're not hiring.}
-{148}{}{Your loss.}
-{149}{}{Okay, see ya' later, Dan.}
-{150}{}{So where's this Merchant Market?}
-{151}{}{Just go straight down this road.  It's smack dab in the center of the Hub -- ya' can't miss it.}
-{152}{}{That's none of yer business, stranger.}
-{153}{}{I'm going to make it my business, 'stranger!'}
-{154}{}{Sorry to intrude.}
-{155}{}{Why, hello again!  How are ya' doin'?}
-{156}{}{I want to join a caravan.}
-{157}{}{Uh, what services do you offer, exactly?}
-{158}{}{Why the hell where you yelling at that poor kid?!}
-{159}{}{Fine. Bye.}
+{110}{}{Por que? Eu gerencio o cuidado pelo perddy em todos os vagoes das caravanas e
+ Brahmins nestas partes. Se eles precisarem de qualquer coisa para as caravanas deles
+ eu sou aquele com quem eles falam. Inferno, os grandes 3 lidam exclusivamente comigo.}
+{111}{}{Quem sao os grandes 3?}
+{112}{}{Bem, nao e que voce e importante?}
+{113}{}{Mesmo? Isso e bacana. Eu quero me unir a uma caravana.}
+{114}{}{Bem, eu tenho que ir. Tchau.}
+{115}{}{O que? Saia daqui seu maldito Skag! Pensar que eu estava
+ pra desperdiçar meu tempo num inutil como voce.}
+{118}{}{Maldiçao filho. Voce ficou trancado por toda a sua vida numa caverna ou algo assim? Os 3 grandes sao os 3
+ maiores grupos mercadores no mundo. Bem, ok, talvez nao do mundo mas eles com certeza cobrem uma grande porçao;
+ tanto quanto seu olho consegue ver.}
+{119}{}{Maldiçao docinho. Voce ficou trancado por toda a sua vida numa caverna ou algo assim? Os 3 grandes sao os
+ 3 maiores grupos mercadores no mundo. Bem, ok, talvez nao do mundo mas eles com certeza cobrem uma grande porçao;
+ tanto quanto seu olho consegue ver.}
+{120}{}{Maldito seja, sua aberraçao brahmin.}
+{121}{}{Oh, eles. Eu pensei que voce estava falando sobre algo mais. Entao como eu me uno a uma caravana?}
+{122}{}{Ok, obrigado. Tchau.}
+{123}{}{Aberraçao Bramin? Isso e uma tentativa de me insultar? Eu seri aum pouco mais educado com as pessoas
+ que voce encontra, estranho. Eu nao poderia me importar menos, mas esta cidade esta cheia de todos os tipos
+ de assassinos que nao hesitariam em cortar sua garganta se voce olhasse errado pra eles.}
+{124}{}{Maldiçao, voce e um filho da puta feio!}
+{125}{}{Eu estou assustado. Vejo voce por ai.}
+{126}{}{Especial, nao. Sortudo, sim; e a menos que voce queira ser azarado voce sera um pouco mais educado com
+ as pessoas que voce encontra. Eu nao poderia me importar menos, mas esta cidade esta cheia de todos os tipos
+ de assassinos que nao hesitariam em cortar sua garganta se voce olhasse errado pra eles.}
+{127}{}{Maldiçao, voce e um filho da puta feio!}
+{128}{}{Se voce diz que sim.}
+{129}{}{Bem pelo menos eu nao tenho um traseiro mutante no lugar da cara. Sua mae deve ter sido uma brahmin e seu papai um
+ rato; esse e o unico jeito pelo qual voce poderia ter saido tao feio pra caramba. Inferno, voce e mais feio do que eu!}
+{130}{}{Ninguem fala da minha mae assim! Prepare-se pra morrer!}
+{131}{}{Sim, nada mal. Bem eu tenho lugares e pessoas pra bater. Vejo voce por ai Dan.}
+{132}{}{Sim certo, essa e uma linha ok, mas todos a usam. Voce esta brincando certo?
+ Voce nao poria uma mao no pobre velho Dan.}
+{133}{}{Linha? Mao? Voce deseja. Eu porei muito mais do que minha mao
+ na sua em breve morta carcaça.}
+{134}{}{Ha! Enganei voce, nao enganei}
+{135}{}{Sim, talvez um pouco. Voce nao e muito ruim garoto. Mas apenas lembre-se de
+ manter essa boca sua sob controle. Eu odiaria ver uma boa boca ser desperdiçada.}
+{136}{}{Com certeza, o que quer que seja que voce disse. Tchau Dan.}
+{137}{}{Entao, como eu me uno a uma caravana?}
+{138}{}{Tchau. E fique longe dos meus brahmins, seu bastardinho sujo.}
+{139}{}{Tchau. E fique longe dos meus brahmins, sua vadiazinha suja.}
+{141}{}{Guardas! Policia! Ha um homem louco tentando me matar!}
+{142}{}{Bem, Eu nao tenho quaisquer abertura mas voce poderia verificar com os 3 grandes. Ha um posto de trabalho no
+ Mercado dos Mercadores que poderia ser de alguma ajuda pra voce. La e onde eles e outros conseguem seus homens.}
+{143}{}{Oh, lamento . . . e mulheres claro.}
+{144}{}{Voce nao tem quaisquer openings? Voce e um mercador tambem?}
+{145}{}{Qual caminho pro Mercado dos Mercadores?}
+{146}{}{Ok, obrigado.}
+{147}{}{Bem nao, nao exatamente. Eu trabalho muito proximo da maioria dos grupos
+ de mercadores pequenos e eu sei que nos nao estamos contratando.}
+{148}{}{Sua perda.}
+{149}{}{Ok, vejo voce mais tarde, Dan.}
+{150}{}{Entao aonde e este Mercado dos Mercadores?}
+{151}{}{Apenas desça direto esta estrada. E smack dab no centro do Hub -- voce nao vai errar.}
+{152}{}{Isso nao e da sua conta, estranho.}
+{153}{}{Eu vou torna-lo da minha conta, 'estranho'!}
+{154}{}{Lamento me intrometer.}
+{155}{}{Mas por que, ola de novo! Como voce esta indo?}
+{156}{}{Eu quero me unir a uma caravana.}
+{157}{}{Uh, quais serviços voce oferece exatamente?}
+{158}{}{Por que diabos voce estava gritando com aquele pobre garoto?!}
+{159}{}{Tudo bem. Tchau.}
 {160}{}{Yuk.}
-{161}{}{What now?}
-{162}{}{Why the hell where you yelling at that poor kid?!}
-{163}{}{Nothing.}
+{161}{}{O que agora?}
+{162}{}{Por que diabos voce estava gritando com aquele pobre garoto?!}
+{163}{}{Nada.}
 {164}{}{Yuk.}
-{168}{}{Look, that kid was caught stealin'.  The police put'm in my care ta straighten'm out.}
-{169}{}{That's no reason to be so mean to him.}
-{170}{}{What's wrong with stealing?}
-{171}{}{Oh, that's different!  Give him hell!}
-{172}{}{Are ya' daft? That's a quick way to rot away in a cell or get exiled without any food, clothing, or
- weapons.}
-{173}{}{That still doesn't justify the way you're treating him!}
-{174}{}{Oh, okay.}
-{175}{}{I may not be the best role model in this damn city, but I'm the only
- one who cares and is willing ta try to help.  What have ya' done to improve society?}
-{176}{}{I've killed lots of things!}
-{177}{}{I'm sorry, I've misjudged you.}
-{178}{}{You should have just killed the brat!}
-{179}{}{Well, maybe you could be just a little nicer to him.  I think he's trying.}
-{180}{}{You should give him a good whipping!}
-{181}{}{Ya' think killing people solves the real problem?}
-{182}{}{Yep!}
-{183}{}{It's been working for me so far!}
-{184}{}{Hmmm, maybe not.}
-{185}{}{I don't know.}
-{186}{}{You disappoint me. You seemed to have a good head on your shoulders.
- Killing them might get rid of the problem temporarily, but you've got to
- get at the root of the problem to really make a difference.}
-{187}{}{Yeah, whatever.}
-{188}{}{Uh, okay. Bye.}
-{189}{}{You're an idiot.}
-{190}{}{Well (he pauses looking off into space) . . . maybe yer right, partner.
- I'll keep that in mind but I ain't promisin' ya' anything.}
-{191}{}{Are ya' kiddin'? That'd just make'm more defiant! My ways may not be
- perfect but at least I know it'll make'm stronger and more responsible.}
-{192}{}{Damn straight. Kill'n the person with the disease isn't the best way.
- You've gotta find the cure because it's bound to surface again.}
-{193}{}{No kidding, Einstein.}
-{194}{}{Quit yer' yappin'! You're giving me a headache!}
-{195}{}{Uh, yeah, sure pal. I've gotta go.}
-{196}{}{Well, try not ta solve all yer problems with a gun. Bye.}
-{197}{}{Damn, it's hot today!}
-{198}{}{Billy! Ya' better not be screw'n around, ya' little shit!}
-{199}{}{Billy! Ya' better make sure those brahmin are kept warm tonight or
- it'll be yer hide!}
-{200}{}{Damn it, you little brat! Stop yappin' and start working!}
-{201}{}{I told you to stop screwing around!}
-{202}{}{I'm warning you, Billy!}
-{203}{}{You don't want the hard way, do you?}
-{204}{}{Sorry kid, can't talk. I've got a business to run.}
-{208}{}{Sorry, can't talk. I've got a business to run.}
-{209}{}{You'd better not be pester'n Billy; he's got a hell of a lot of work
- to do today.}
-{210}{}{Beat it, I'm busy.}
-{211}{}{Why are people always bother'n me?  Can't you see I'm work'n?}
-{212}{}{Talk to the Merchants if you want a job. I'm not hiring.}
-{213}{}{Why don't ya' go play in the Maltese Falcon? I'm busy.}
-{214}{}{What the hell are you doing here?  Get out!}
-{215}{}{I said get out! I'm not joke'n!  I'll blow yer frigg'n head off!}
-{216}{}{Ya' punks will never learn, will ya'?}
+{168}{}{Olha, aquele garoto foi pego roubando. A policia o pos aos meus cuidados pra endireita-lo.}
+{169}{}{Isso nao e motivo pra ser tao malvado com ele.}
+{170}{}{O que ha de errado com roubar?}
+{171}{}{Oh, isso e diferente! Faça o inferno com ele!}
+{172}{}{Voce e daft? Esse e um modo rapido de apodrecer numa cela ou ser exilado
+ sem qualquer comida, roupa ou armas.}
+{173}{}{Isso ainda nao justifiva o modo como voce estava tratando ele!}
+{174}{}{Oh, ok.}
+{175}{}{Eu posso nao ser o melhor modelo nesta maldita cidade mas eu sou o unico que
+ se importa e esta desejanto tentar ajudar. O que voce fez pra melhorar a sociedade?}
+{176}{}{Eu matei muitas coisas!}
+{177}{}{Eu lamento, eu julguei voce mal.}
+{178}{}{Voce simplesmente deveria ter matado o pirralho!}
+{179}{}{Bem, talvez voce pudesse ser um pouco mais legal com ele. Eu acho que ele esta tentando.}
+{180}{}{Voce deveria dar ele umas boas chicotadas!}
+{181}{}{Voce acha que matar pessoas resolve o verdadeiro problema?}
+{182}{}{Sim!}
+{183}{}{Tem funcionado pra mim ate agora!}
+{184}{}{Hmmm, talvez nao.}
+{185}{}{Eu nao sei.}
+{186}{}{Voce me desaponta. Voce parecia ter uma boa cabeça nos seus ombros.
+ Mata-los poderia nos livrar do problema temporariamente, mas voce tem que
+ chegar na raiz do problema pra realmente fazer a diferença.}
+{187}{}{Sim, que seja.}
+{188}{}{Uh, ok. Tchau.}
+{189}{}{Voce e um idiota.}
+{190}{}{Bem (ele pausa olhando no espaço)... Talvez voce esteja certo parceiro.
+ Eu manterei isso em mente mas eu nao estou prometendo nada pra voce.}
+{191}{}{Voce esta brincando? Isso tornaria eles mais desafiadores! Meus caminhos podem nao
+ ser perfeitos mas pelo menos eu sei que tornara eles mais fortes e mais responsaveis.}
+{192}{}{Bem correto. Matar a pessoa com a doença nao e o melhor caminho. Voce
+ tem que achar a cura porque esta destinada a ir pra superficie de novo.}
+{193}{}{Sem brincadeira, Einstein.}
+{194}{}{Pare com seu yappin'! Voce esta me dando dor de cabeça!}
+{195}{}{Uh, sim, com certeza amigo. Eu tenho que ir.}
+{196}{}{Bem, tente nao resolver todos os seus problemas com uma arma. Tchau.}
+{197}{}{Maldiçao, esta quente hoje!}
+{198}{}{Billy! Melhor voce nao estar desperdiçando tempo por ai seu merdinha!}
+{199}{}{Billy! Melhor ter certeza que esses brahmins estao mantidos aquecidos
+ esta noite ou yer hide!}
+{200}{}{Maldição, seu pirralhinho! Pare de yappin' e comece a trabalhar!}
+{201}{}{Eu disse a voce pra parar de desperdiçar tempo!}
+{202}{}{Eu estou avisando voce, Billy!}
+{203}{}{Voce nao quer do modo dificil, quer?}
+{204}{}{Lamento garoto, nao posso falar. Eu tenho um negocio pra comandar.}
+{208}{}{Lamento, nao posso falar. Eu tenho um negocio pra comandar.}
+{209}{}{Melhor voce nao atrapalhar o Billy; ele tem muito trabalho pra
+ fazer hoje.}
+{210}{}{Desapareça, eu estou ocupado.}
+{211}{}{Por que as pessoas estao sempre me aborrecendo? Voce nao consegue ver que eu estou trabalhando?}
+{212}{}{Fale com os Mercadores se voce quer um trabalho. Eu nao estou contratando.}
+{213}{}{Por que voce nao vai jogar no Maltese Falcon? Eu estou ocupado.}
+{214}{}{O que diabos voce esta fazendo aqui? Saia!}
+{215}{}{Eu disse pra sair! Eu nao estou brincando! Eu explodirei sua cabeça!}
+{216}{}{Voces vagabundos nunca aprenderao, aprenderao?}

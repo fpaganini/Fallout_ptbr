@@ -1,59 +1,59 @@
-{100}{}{You see Jake of the Followers.}
-{101}{}{You see a Follower of the Apocalypse.}
-{102}{}{Welcome, my friend! How might I help you today?}
+{100}{}{Você vê Jake dos seguidores.}
+{101}{}{Você vê um seguidor do Apocalipse.}
+{102}{}{Bem-vindo, meu amigo! Como posso ajudá-lo hoje?}
 {103}{}{Me hep! Me hep!}
-{104}{}{I heard that you are a decent fighter. Let's find out.}
-{105}{}{I hear you need help. What's the problem?}
-{106}{}{What can you tell me about the Followers?}
-{107}{}{You want to help. I don't think you are good enough to
- help me out. Go talk to Neil.}
-{108}{}{I would love to fight you, but I am much too busy helping
- Nicole right now.}
-{109}{}{Figures. You looked like a wimp to me anyways.}
-{110}{}{Suit yourself. Good bye.}
-{111}{}{How did a wimp like you become second in command?}
-{112}{}{Hey. Just because I don't want to fight doesn't mean I'm a
- wimp. I just don't feel like it.}
-{113}{}{I was right. Just a wimp.}
-{114}{}{Some of us will use our brains to get further in this world.
- A lot can be settled with peace and thinking.}
-{115}{}{When are you going to use your brains then?}
-{116}{}{You're right. I'm sorry.}
-{117}{}{That's it. I'm not going to talk to you anymore.}
-{118}{}{That's better. Now. I have a problem with a spy around here.
- Will you help me?}
-{119}{}{Yes. What is it?}
-{120}{}{Fix it yourself if you are so great.}
-{121}{}{I just said we have a spy around here. I think it may be one
- of the guards that is the spy. Though it could be a scout.
- Those are the only two groups that have access to the
- Children.}
-{122}{}{Okay. I'll go get your spy and eliminate the problem.}
-{123}{}{Have any leads on this spy?}
-{124}{}{Forget it. I won't help you.}
-{125}{}{Thank you very much. Now go!}
-{126}{}{Nothing really. The only things I really know about is
- that a lot of low level information is getting to the
- Children. This is not good. Heather thinks it is either
- Neil or Peter.}
-{127}{}{Okay. I will go check on it.}
-{128}{}{Forget it. I won't help you.}
-{129}{}{I can't let you leave then.}
-{130}{}{I will then. Good bye!}
-{131}{}{We are having trouble with some of our information
- slipping out to the Children. I think it is a spy.}
-{132}{}{Okay. So, what is the problem?}
-{133}{}{Okay, I'll deal with this spy.}
-{134}{}{Have any leads yet?}
-{135}{}{Forget it. I won't help you.}
-{136}{}{Currently, I can't tell you anything. Good day.}
-{137}{}{I am trying to sleep. Don't bother me.}
-{138}{}{Hurry up and find that vile scum!}
-{139}{}{I knew it was Heather all along. She was deceitful from
- the start. I should have told everyone what I thought at first.}
-{140}{}{I never did learn anything from you. Your training
- was useless.}
-{141}{}{I have a package for you from Gabriel.}
-{142}{}{Hmm. I see. Thank you.}
-{143}{}{Get the hell out.}
-{144}{}{It's the hard way. It's always the hard way.}
+{104}{}{Eu ouvi dizer que você é um lutador decente. Vamos descobrir.}
+{105}{}{Eu ouço que você precisa de ajuda. Qual é o problema?}
+{106}{}{O que você pode me dizer sobre os seguidores?}
+{107}{}{Você quer ajudar. Eu não acho que você é bom o suficiente para
+ me ajude. Vá falar com Neil.}
+{108}{}{Eu adoraria lutar com você, mas estou muito ocupado ajudando
+ Nicole agora.}
+{109}{}{Figuras. Você parecia um covarde para mim mesmo.}
+{110}{}{Adequa-te a ti mesmo. Adeus.}
+{111}{}{Como um covarde como você se tornou o segundo no comando?}
+{112}{}{Ei. Só porque eu não quero lutar não significa que eu sou um
+ covarde. Eu simplesmente não sinto isso.}
+{113}{}{Eu estava certo. Apenas um covarde.}
+{114}{}{Alguns de nós usaremos nossos cérebros para chegarmos mais longe neste mundo.
+ Muito pode ser resolvido com paz e pensamento.}
+{115}{}{Quando você vai usar seus cérebros então?}
+{116}{}{Você está certo. Eu sinto Muito.}
+{117}{}{Isso é isto. Eu não vou mais falar com você.}
+{118}{}{Isso é melhor. Agora. Eu tenho um problema com um espião por aqui.
+ Você vai me ajudar?}
+{119}{}{Sim. O que é isso?}
+{120}{}{Conserte-se se você é tão bom.}
+{121}{}{Acabei de dizer que temos um espião por aqui. Acho que pode ser um
+ dos guardas que é o espião. Embora possa ser um escuteiro.
+ Esses são os dois únicos grupos que têm acesso ao
+ Crianças.}
+{122}{}{Ok. Vou pegar seu espião e eliminar o problema.}
+{123}{}{Tem alguma pista sobre esse espião?}
+{124}{}{Esqueça. Eu não vou te ajudar.
+{125}{}{Muito obrigado. Agora vá!}
+{126}{}{Nada realmente. As únicas coisas que eu realmente sei é
+ que muitas informações de baixo nível estão chegando ao
+ Crianças. Isto não é bom. Heather acha que é ou
+ Neil ou Peter.}
+{127}{}{Ok. Eu vou verificar isso.}
+{128}{}{Esqueça. Eu não vou te ajudar.
+{129}{}{Eu não posso deixar você ir embora.}
+{130}{}{eu vou então. Adeus!}
+{131}{}{Estamos tendo problemas com algumas de nossas informações
+ escapando para as crianças. Eu acho que é um espião.}
+{132}{}{Ok. Então qual é o problema?}
+{133}{}{Ok, eu vou lidar com esse espião.}
+{134}{}{Ainda tem alguma pista?}
+{135}{}{Esqueça. Eu não vou te ajudar.
+{136}{}{Atualmente, não posso te dizer nada. Dia bom.}
+{137}{}{Estou tentando dormir. Não me incomode.}
+{138}{}{Apresse-se e descubra essa vil escória!}
+{139}{}{Eu sabia que era Heather o tempo todo. Ela era enganosa de
+ o começo. Eu deveria ter dito a todos o que eu pensava no começo.
+{140}{}{Eu nunca aprendi nada com você. Seu treinamento
+ foi inútil.}
+{141}{}{Eu tenho um pacote para você do Gabriel.}
+{142}{}{Hmm. Entendo. Obrigado.}
+{143}{}{Dê o fora.}
+{144}{}{É o caminho mais difícil. É sempre o caminho mais difícil.}

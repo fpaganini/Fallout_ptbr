@@ -1,175 +1,175 @@
-{100}{}{You see Demetre.}
-{101}{}{Hey there! How are you doin'? The name's Demetre, Demetre Romara, head of the best damn caravan in the wastes. Are you lookin' for a job?}
-{102}{}{Hmmm, you don't look very strong at all, but... you MUST be great
- with guns then to have survived the outside! Hell, you're probably one mean
- fighter when the time comes!}
-{103}{}{You look pretty fit.}
-{104}{}{You look pretty strong.}
-{105}{}{Damn, you look strong!}
-{106}{}{Damn! You look like you could lift a mountain!}
-{107}{}{Yeah, so?}
+{100}{}{Voce ve o Demetre.}
+{101}{}{Ei! Como voce esta indo? O nome e Demetre, Demetre Romara, chefe da melhor caravana nas terras devastadas. Voce esta procurando por um trabalho?}
+{102}{}{Hmmm, voce nao parece muito forte de modo algum, mas... voce DEVE ser otimo
+ entao com armas pra ter sobrevivido no lado de fora! Inferno, voce e provavelmente
+ um lutador cruel quando a hora chega!}
+{103}{}{Voce parece bem fit.}
+{104}{}{Voce parece bem forte.}
+{105}{}{Maldiçao, voce parece forte!}
+{106}{}{Maldiçao! Parece que voce conseguiria levantar uma montanha!}
+{107}{}{Sim, so?}
 {108}{}{What's it to you?}
 {109}{}{Huh?}
-{110}{}{That's just what we're lookin' for! You like the thrill and excitement of battle don't you?!  Bullets flying everywhere, whippin' by your head, blowin' your enemy in two, seein' the fear in their eyes! Ahhhh, that's the life! You look like the kind of person that could serve us well, and we pay well!  Oh yes, we do! We've just had a few new openin's, if you are interested; but of course you are, right?!}
-{111}{}{What's the pay?}
-{112}{}{I'll kill anything that gets in our way!}
-{113}{}{No thanks.}
-{114}{}{I need a water chip.}
-{115}{}{What do you know about the missing caravans?}
-{116}{}{I've got to go.}
+{110}{}{Isso e o que nos estamos procurando! Voce gosta do thrill e excitaçao da batalha nao gosta?! Balas voando por toda parte, whippin' pela sua cabeça, explodindo seu inimigo em dois, vendo o medo nos olhos deles! Ahhhh, essa e a vida! Voce parece o tipo de pessoa que poderia nos servir bem, e nos pagamos bem! Oh sim, nos pagamos! Nos acabamos de ter alguns novos abrindo se voce estiver interessado; mas claro que voce esta, certo?!}
+{111}{}{Qual e o pagamento?}
+{112}{}{Eu matarei qualquer coisa que fique no nosso caminho!}
+{113}{}{Nao obrigado.}
+{114}{}{Eu preciso de um chip de agua.}
+{115}{}{O que voce sabe sobre as caravanas desapecidas?}
+{116}{}{Eu tive que ir.}
 {117}{}{Ugggg uggg!}
-{118}{}{We pay 600 hub bucks a job! That's each way! Hell, people say we take all
- the dangerous routes but I say they're the most excitin'! You need a
- little excitement in your life, am I right? Of course I am!}
-{119}{}{Hell, I think that's just what I'm lookin' for!}
-{120}{}{Do you always talk so loud?}
-{121}{}{Dangerous?}
-{122}{}{No thanks, bub.}
-{123}{}{Damn straight it is! Just go talk to Keri in the next room, she'll let you know when
- the next caravan is leavin'.}
-{124}{}{Bub? What the hell are you talkin' about? Well, no skin off my back.}
-{125}{}{What, are you afraid of loud noises or somethin'?}
-{126}{}{Yes.}
-{127}{}{Only at night.}
-{128}{}{No, I was just wondering you were deaf or dumb.}
-{129}{}{No, but my ears were getting a little sore.}
-{130}{}{Ha! Maybe both! Well, go talk to Keri in the next room if you do want a job.}
-{131}{}{You're a smart little ass, are you? Well, it doesn't matter to me!
- Just as long as you defend the caravans I'll be satisfied. Go talk to
- Keri in the next room if you want a job.}
-{132}{}{Ha! That's a funny one! Well, if you think you can brave the
- darkness, come see me.}
-{133}{}{Of course it's dangerous -- why else would I fork out 600 bucks?}
-{134}{}{Oh, okay. Bye.}
-{135}{}{I'll still take the job.}
-{136}{}{Get out of here before I rip your head off!}
-{137}{}{I'll shove your head up your ass!}
-{138}{}{That's it!}
-{139}{}{Of course you will! Go talk to Keri in the next room, she works the schedules.}
-{140}{}{Hell, that's disappointin', but oh well.}
-{141}{}{Yeah! I like you! You're hired! Go talk to Keri in the next room, she'll assign you to
- a caravan.}
-{142}{}{A water chip? Hmmm, haven't heard of one of those before. You might
- want to check with one of the shops outside -- they have lots of stuff. So, did you want a job?}
-{143}{}{Well, what's it pay?}
-{144}{}{No, not really.}
-{145}{}{Not much, I've only lost two. I really have no idea why they're hittin'
- the Far Go Traders more then anyone else.}
-{146}{}{Any suspicions?}
-{147}{}{What about your routes and cargo?}
-{148}{}{Okay, thanks.}
-{149}{}{Who ever is doin' this has got to have one hell of a raidin' party.
- Our caravans are well armed and you would think that someone would have
- gotten away by now. They don't leave a trace.}
-{150}{}{So, how much does that job pay?}
-{151}{}{What about your routes and cargo?}
-{152}{}{Okay, thanks.}
-{153}{}{Hell, we go to more dangerous places than they do and our cargo is better!}
-{154}{}{How is your cargo better?}
-{155}{}{Just checking, thanks.}
-{156}{}{You're full of crap!}
-{157}{}{Well, okay -- maybe it's not better but we do carry a larger variety than them.}
-{158}{}{Okay, thanks.}
-{159}{}{You know, Beth's been yapping about some Death Claw. I would check
- that out if I where you! I've heard a few rumors from other sources
- about somethin' creepin' around at night to the northwest.}
-{160}{}{Sorry, but we're paid good money to be sure the job gets done!
- We'll only hire the best! We've got to have reliable men and women on
- those caravans!}
-{161}{}{Like I really wanted a job, ya' loud-mouthed moron!}
-{162}{}{Sorry to have bothered you.}
-{163}{}{Please, can I have another job?}
+{118}{}{Nos pagamos 600 pratas do hub por trabalho! Isso e ida e volta! Inferno, as	pessoas
+ dizem que nos pegamos todas as rotas perigosas mas eu digo que elas sao as mas excitantes!
+ Voce precisa de um pouco de excitaçao na sua vida nao estou certo? Claro que eu estou!}
+{119}{}{Inferno, Eu acho que isso e o que eu estava procurando!}
+{120}{}{Voce sempre fala tao alto?}
+{121}{}{Perigoso?}
+{122}{}{Nao obrigado, bub.}
+{123}{}{Bem certo que e! Va falar com a Keri na proxima sala, ela deixara voce saber
+ quando a proxima caravana esta saindo.}
+{124}{}{Bub? O que diabos voce esta falando? Bem, nenhuma pele das minhas costas.}
+{125}{}{O que? Voce tem medo de barulhos altos ou algo assim?}
+{126}{}{Sim.}
+{127}{}{So a noite.}
+{128}{}{Nao, Eu so estava imaginando se voce era surdo ou burro.}
+{129}{}{Nao, mas meus ouvidos estavam ficando um pouco inflamados.}
+{130}{}{Ha! Talvez ambos! Bem, va falar com a Keri na proxima sala se voce quer um trabalho.}
+{131}{}{Voce e um espertinho nao e? Bem, nao importa pra mim! Tanto
+ quanto voce defenda as caravanas eu estarei satisfeito. Va falar
+ com a Keri na proxima sala se voce quiser um trabalho.}
+{132}{}{Ha! Essa e engraçada! Bem, se voce achar que voce consegue
+ desbravar a escuridao venha me ver.}
+{133}{}{Claro que e perigoso -- por que mais eu pagaria 600 pratas?}
+{134}{}{Oh, ok. Tchau.}
+{135}{}{Eu ainda aceitarei o trabalho.}
+{136}{}{Saia daqui antes que eu arranque sua cabeça fora!}
+{137}{}{Eu enfiarei sua cabeça no seu rabo!}
+{138}{}{Basta!}
+{139}{}{Claro que voce aceitara! Va falar com a Keri na proxima sala, ela trabalha com os agendamentos.}
+{140}{}{Inferno, isso e desapontador mas tudo bem.}
+{141}{}{Sim! Eu gosto de voce! Voce esta contratado! Va falar com a Keri na proxima sala, ela
+ designara voce a uma caravana.}
+{142}{}{Um chip de agua? Hmmm, nao ouvi sobre um desses antes. Voce poderia querer verificar
+ com uma das lojas no lado de fora -- eles tem muitas coisas. Entao, voce queria um trabalho?}
+{143}{}{Bem, Qual e o pagamento?}
+{144}{}{Nao, nao realmente.}
+{145}{}{Nao muito, eu so perdi duas. Eu realmente nao tenho iidea do por que
+ eles estao atingindo os Far Go Traders mais do que os outros.}
+{146}{}{Alguma suspeita?}
+{147}{}{E quanto a suas rotas e cargas?}
+{148}{}{Ok, obrigado.}
+{149}{}{Quem estiver fazendo isto tem que ter um grupo de saqueadores dos bons.
+ Nossas caravanas estao bem armadas e voce pensaria que alguem teria ido embora
+ agora. Eles nao deixam rastro.}
+{150}{}{Entao, quanto esse trabalho paga?}
+{151}{}{E quanto a suas rotas e cargas?}
+{152}{}{Ok, obrigado.}
+{153}{}{Inferno, nos vamos pra lugares mais perigosos do que eles e nossa carga e melhor!}
+{154}{}{Como sua carga e melhor?}
+{155}{}{Apenas olhando, obrigado.}
+{156}{}{Voce esta cheio de bosta!}
+{157}{}{Bem, ok -- talvez nao seja melhor mas nos carregamos uma variedade maior do que eles.}
+{158}{}{Ok, obrigado.}
+{159}{}{Voce sabe, a Beth tem estado yapping sobre alguns deathclaws. Eu
+ verificaria isso se eu fosse voce! Eu ouvi alguns rumores de outras
+ fontes sobre algo creepin' around a noite a noroeste.}
+{160}{}{Lamento, mas nos pagamos bom dinheiro pra ter certeza que o
+ trabalho seja feito! Nos so contrataremos os melhores! Nos temos
+ que ter homens e mulheres confiaveis nessas caravanas!}
+{161}{}{Como se eu realmente quisesse um trabalho, seu retardado de voz alta!}
+{162}{}{Lamento ter aborrecido voce.}
+{163}{}{Por favor, eu posso ter outro trabalho?}
 {164}{}{Huta?}
-{165}{}{I said we won't hire you!}
-{166}{}{Sorry, I'm done takin' risks with you!}
-{167}{}{You're wastin' your time here!}
-{168}{}{Please stop botherin' me!}
-{169}{}{Beat it.}
-{170}{}{Demetre ignores you.}
-{171}{}{Hell, I don't hire drug addicts! If you want a job you better sober up!}
-{172}{}{I'm no drug add . . . I mean . . . Arg!}
+{165}{}{Eu disse que nos nao contrataremos voce!}
+{166}{}{Lamento, Eu parei de aceitar riscos com voce!}
+{167}{}{Voce esta desperdiçando seu tempo aqui!}
+{168}{}{Por favor pare de me aborrecer!}
+{169}{}{Desapareça.}
+{170}{}{O Demetre ignora voce.}
+{171}{}{Inferno, eu nao contrato viciados em droga! Se voce quer um trabalho melhor voce ficar sobrio!}
+{172}{}{Eu nao sou viciado em dro... eu quero dizer... Argh!}
 {173}{}{Blah!}
-{174}{}{Doing drugs are we? Hell, it's a good thing we aren't hiring your ass again!}
-{175}{}{Hell, no! I don't think you realize just how much is at stake!
- We can't afford to take the risk! Hell, I don't no how the Far Go Traders are
- still in business with all those missin' caravans!}
-{176}{}{Sorry, you'll have to see if one of the others' houses will take a
- risk with you. I can't afford to take another one.}
-{177}{}{Get out of here, you make me sick!}
-{178}{}{Hey! What do you think your doin'?}
-{179}{}{That leads to our warehouse.}
-{180}{}{It can only be opened from the other side.}
-{181}{}{You're a strange one.}
-{182}{}{You're wastin' your time.}
-{183}{}{He ignores you.}
-{184}{}{So? Do you want a job or what? I'm offerin' you a great chance at some
- excitement and lots of cash! You can never have too much of either!}
-{185}{}{Oh, yeah. How much was that?}
-{186}{}{I'll kill anything that gets in our way!}
-{187}{}{No, thanks.}
-{188}{}{I need a water chip.}
-{189}{}{What do you know about the missing caravans?}
-{190}{}{I've got to go.}
+{174}{}{Usando drogas? Inferno, e uma coisa boa que nos nao estamos contratando seu rabo de novo!}
+{175}{}{Inferno, nao! Eu nao acho que voce perceba o quanto esta em jogo! Nos
+ nao podemos afford em aceitar o risco! Inferno, eu nao sei como os Far Go
+ Traders ainda esta no negocio com todas essas caravanas desaparecidas!}
+{176}{}{Lamento, voce tera que ver se uma das casas dos outros aceitarao
+ o risco com voce. Eu nao posso afford aceitar outro risco.}
+{177}{}{Saia daqui, voce me deixa doente!}
+{178}{}{Ei! O que voce acha que voce esta fazendo?}
+{179}{}{Isso leva ao nosso deposito.}
+{180}{}{So pode ser aberta do outro lado.}
+{181}{}{Voce e estranho.}
+{182}{}{Voce esta desperdiçando nosso tempo.}
+{183}{}{He ignora voce.}
+{184}{}{Entao? Voce quer um trabalho ou o que? Eu estou oferecendo a voce uma grande chance
+ de um pouco de excitaçao e muito dinheiro! Voce nunca pode ter demais de ambos!}
+{185}{}{Oh, sim. Quanto foi isso?}
+{186}{}{Eu matarei qualquer coisa que fique no nosso caminho!}
+{187}{}{Nao, obrigado.}
+{188}{}{Eu preciso de um chip de agua.}
+{189}{}{O que voce sabe sobre as caravanas desapecidas?}
+{190}{}{Eu tive que ir.}
 {191}{}{Ruk luk?}
-{192}{}{Hey, you did a fine job on that last caravan -- good goin'! Did you need
- somethin'?}
-{193}{}{Yeah, I wanted another job.}
-{194}{}{I need a water chip.}
-{195}{}{What do you know about the missing caravans?}
-{196}{}{No. Just stopped by to say hi.}
-{197}{}{Nothing, bye.}
-{198}{}{We lost all of our cargo! I'm afraid we can't hire you anymore, sorry.}
-{199}{}{You're lucky, we almost lost that caravan you bugged out on!
- I'm afraid we can't hire you for any more jobs, sorry.}
-{200}{}{We're not hiring, so what do you want?}
-{201}{}{Get lost! We're not hiring.}
-{202}{}{I need a water chip.}
-{203}{}{Tell me what you know about the missing caravans.}
-{204}{}{I want your ugly face out of my way!}
-{205}{}{I want your head on a stick!}
-{206}{}{Never mind.}
+{192}{}{Ei, voce fez um bom trabalho naquela ultima caravana -- boa ida!
+ Voce precisava de alguma coisa?}
+{193}{}{Sim, eu queria outro trabalho.}
+{194}{}{Eu preciso de um chip de agua.}
+{195}{}{O que voce sabe sobre as caravanas desapecidas?}
+{196}{}{Nao. So parei pra dizer oi.}
+{197}{}{Nada, tchau.}
+{198}{}{Nos perdemos toda nossa carga! Eu temo que nos nao podemos contratar mais voce, lamento.}
+{199}{}{Voce tem sorte, nos quase perdemos aquela caravana que voce deixou! Eu
+ temo que nos nao podemos contratar voce pra quaisquer mais trabalho, lamento.}
+{200}{}{Nos nao estamos contratando, entao o que voce quer?}
+{201}{}{Desapareça! Nos nao estamos contratando.}
+{202}{}{Eu preciso de um chip de agua.}
+{203}{}{Diga-me o que voce sabe sobre as caravanas desapecidas.}
+{204}{}{Eu quero sua cara feia fora do meu caminho!}
+{205}{}{Eu quero sua cabeça numa estaca!}
+{206}{}{Deixa pra la.}
 {207}{}{Ruk luk?}
-{208}{}{You think you're tough? Don't make me laugh!}
-{209}{}{Well, you should be talking to my daughter, Keri; she takes care of all that!  She's in the next room.}
-{210}{}{I already told you. Just talk to Keri in the next room.}
-{211}{}{Your daughter?}
-{212}{}{That ugly thing is your daughter?  That explains a lot!}
-{213}{}{Certo.}
-{214}{}{Yes, she's my pride and joy! Isn't she beautiful? Just talk to her
- when you want another job. Some day . . . hopefully soon,
- I'll be able to retire and she'll take over for me.}
-{215}{}{You can't if you're both dead!}
-{216}{}{Okay, thanks.}
-{217}{}{You dare insult someone's family? I should rip your heart out!}
-{218}{}{I'm sorry, I was just kidding!}
-{219}{}{I'll do more than insult you!}
-{220}{}{Too late for apologies! [His face gets very red . . . then in a calm,
- controlled voice.] Get, before I make good on my threat!}
-{221}{}{Is that your poor attempt at a threat?}
-{222}{}{It's not a threat! You're about to die!}
-{223}{}{Yeah, well, I gave it the old college try!}
-{224}{}{No, I'm sorry. I've got to go. Bye!}
-{225}{}{Well I've got to admit, I've heard better.}
-{226}{}{Yeah, I know. See ya.}
-{227}{}{Well, you're still going to die!}
-{228}{}{Uh, okay.}
-{229}{}{Well, what are you waiting for? There are caravans to run!}
-{230}{}{They're not ready to leave yet.}
-{231}{}{I've still got some things to do first.}
-{232}{}{I need a water chip.}
-{233}{}{Tell me what you know about the missing caravans.}
-{234}{}{Okay, bye.}
+{208}{}{Voce acha que voce e forte? Nao me faça rir!}
+{209}{}{Bem, voce deveria falar com minha filha, Keri; ela toma conta de tudo isso! Ela esta na proxima sala.}
+{210}{}{Eu ja disse a voce. Apenas fale com a Keri na proxima sala.}
+{211}{}{Sua filha?}
+{212}{}{Aquela coisa feia e sua filha? Isso explica muito!}
+{213}{}{Ok.}
+{214}{}{Sim, ela e meu orgulho e alegria! Ela nao e linda? Apenas fale com
+ ela quando voce quiser outro trabalho. Algum dia... esperançosamente em
+ breve, eu serei capaz de aposentar e ela tomara conta depois de mim.}
+{215}{}{Voces nao podem se ambos estiverem mortos!}
+{216}{}{Ok, obrigado.}
+{217}{}{Voce ousa insultar a familia de alguem? Eu deveria arrancar seu coraçao fora!}
+{218}{}{Eu lamento, eu estava apenas brincando!}
+{219}{}{Eu farei mais do que insultar voce!}
+{220}{}{Muito tarde pra desculpas! [A face dele fica muito vermelha... entao numa voz
+ calma, controlada.] Saia, antes que eu execute minha ameaça!}
+{221}{}{Isso e sua pobre tentativa de uma ameaça?}
+{222}{}{Nao e uma ameaça! Voce esta pra morrer!}
+{223}{}{Sim, bem, eu dei a velha tentativa da faculdade!}
+{224}{}{Nao, eu lamento. Eu tive que ir. Tchau!}
+{225}{}{Bem, eu tenho que admitir, eu ouvi melhores.}
+{226}{}{Sim, eu sei. Tchau.}
+{227}{}{Bem, voce ainda vai morrer!}
+{228}{}{Uh, ok.}
+{229}{}{Bem, o que voce esta esperando? Ha caravanas pra comandar!}
+{230}{}{Eles ainda nao estao prontos pra sair.}
+{231}{}{Eu ainda tenho algumas coisas pra fazer primeiro.}
+{232}{}{Eu preciso de um chip de agua.}
+{233}{}{Diga-me o que voce sabe sobre as caravanas desapecidas.}
+{234}{}{Ok, tchau.}
 {235}{}{Rik rok?}
 {236}{}{Roerow?}
-{237}{}{Damn! You're missing out on some good action! I'm sure there are
- lots of people, creatures, and things waiting to attack the caravans!
- Nothing beats a good fire fight! Here - take this, it'll give you something
- to play with until the next caravan is ready to go. [He hands you a frag grenade.]}
-{238}{}{Damn! Do our caravans ever leave?}
-{239}{}{What about your boat?}
-{240}{}{Don't take too long.}
-{241}{}{Keri, are we book yet?}
-{242}{}{You've got to kill the enemy before it gets you!}
-{243}{}{Nothin' like squeezin' the life out of your enemies!}
-{244}{}{The hell you are!}
-{245}{}{Damn it, where's my gun!}
+{237}{}{Maldiçao! Voce esta perdendo um pouco da boa açao! Eu tenho certeza que ha muitas
+ pessoas, criaturas e coisas esperando pra atacar as caravanas! Nada ganha de uma boa
+ luta de fogo! Aqui - leve isto, dara a voce algo com o que brincar ate que a proxima
+ caravana esteja pronta pra iro. [Ela da uma granada de fragmentaçao a voce.]}
+{238}{}{Maldiçao! Nossas caravanas ainda nao sairam?}
+{239}{}{E quanto ao seu bote?}
+{240}{}{Nao demore demais.}
+{241}{}{Keri, nós jareservamos?}
+{242}{}{Voce tem que matar o inimigo antes que ele pegue voce!}
+{243}{}{Nada como espremer pra fora a vida dos seus inimigos!}
+{244}{}{O caramba que voce vai!}
+{245}{}{Maldiçao, aonde esta minha arma?}

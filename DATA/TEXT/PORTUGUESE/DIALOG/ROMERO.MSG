@@ -7,7 +7,7 @@
 {108}{}{Você acha que poderia ser Twitch.}
 {109}{}{Você acha que poderia ser Hammer.}
 {110}{}{Você acha que poderia ser Razor.}
-{111}{}{Stand down!}
+{111}{}{Abaixe-se!}
 {112}{}{O que? O que você quer dizer?}
 {113}{}{Nunca!}
 {114}{}{Eu estou aqui pra falar sobre a paz.}

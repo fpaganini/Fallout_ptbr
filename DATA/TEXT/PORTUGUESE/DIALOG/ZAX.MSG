@@ -1,204 +1,204 @@
-{100}{}{Você vê Zax, the machine intelligence controlling the Glow.}
-{101}{}{Você vê an extremely advanced computer.}
-{102}{}{How may I be of assistance?}
-{103}{}{Who . . . or what . . . are you?}
-{104}{}{You can get me a donut.}
-{105}{}{Me diga sobre o this installation.}
-{106}{}{Wanna play a game of chess?}
-{107}{}{I need help getting into some rooms.}
-{108}{}{Uh, never mind.}
+{100}{}{Voce ve o Zax, a maquina inteligente controlando o Glow.}
+{101}{}{Voce ve u computador extremamente avançado.}
+{102}{}{Como eu posso ser de assistencia?}
+{103}{}{Quem... ou o que... e voce?}
+{104}{}{Voce pode me arrumar uma rosquinha.}
+{105}{}{Me diga sobre esta instalaçao.}
+{106}{}{Quer jogar um jogo de xadrez?}
+{107}{}{Eu preciso de ajuda pra entrar em algumas salas.}
+{108}{}{Uh, deixa pra la.}
 {109}{}{Eh?}
-{110}{}{I am a machine intelligence dedicated to research and
- installation control. I am called Zax.}
-{111}{}{What kind of research?}
-{112}{}{Me diga sobre o this installation.}
-{113}{}{Who programmed you?}
-{114}{}{Are you fully aware, or are you a personality simulation?
- That is, are you 'alive'?}
+{110}{}{Eu sou uma maquina inteligente dedicaada a pesquisa
+ e controle da instalaçao. Eu sou chamado de Zax.}
+{111}{}{Que tipo de pesquisa?}
+{112}{}{Me diga sobre esta instalaçao.}
+{113}{}{Quem programou voce?}
+{114}{}{Voce e totalmente consciente ou voce e uma simulaçao de personalidade?
+ Que esta, voce esta 'vivo'?}
 {115}{}{Eu entendo. Obrigado.}
-{116}{}{That function is beyond my current capabilities.}
-{117}{}{This installation was established in 2055 as a biological
- research facility for experimental cures of the New Plague.
- However, in 2071, this facility was placed under United States
- military command.}
-{118}{}{Research into possible cures for the New Plague created
- the Forced Evolution Virus, which was further developed
- in an attempt to create a transmittable genetic-engineering
- virus -- in effect, infectious evolution.}
-{119}{}{Can you tell me particulars about specific areas?}
-{120}{}{How does the Virus work?}
-{121}{}{Obrigado for the info.}
-{122}{}{It would appear that you are incapable of a sufficient
- nível of comprehension necessary to permit meaningful
- communication.}
-{123}{}{I am specifically programmed for research into biological
- studies, including pathology and genetic research. My primary
- function is in extrapolation of information of complexity nivels
- exceeding human capacity.}
-{124}{}{So you're pretty smart, eh?}
-{125}{}{What are the particulars of your research?}
-{126}{}{Who programmed you?}
-{127}{}{My primary neural networking was initialized in 2053 by
- Justin Lee. The process of 'programming' became largely
- irrelevant as I am capable of learning.}
-{128}{}{Are you fully aware, or are you a personality simulation?
- That is, are you 'alive'?}
-{129}{}{I am capable of learning, independent thought, and creativity.
- My neural network includes error-insertion capability which
- prevents infallibility, thereby allowing for variance in
- experience.}
-{130}{}{In a sense, I am 'alive', though not biologically.}
-{131}{}{Eu entendo. Let's change the subject.}
-{132}{}{But if you are fallible, how can you be used as a
- research tool?}
-{133}{}{Have you considered the philosophical implications of your
- own consciousness?}
-{134}{}{Although I am capable of error, this guarantees that not all
- experiences are similar for me, thus improving learning
- opportunity. Additionally, certain functions are not subject
- to error.}
-{135}{}{In this way, I function much like a human savant.}
-{136}{}{Do you have feelings?}
-{137}{}{Let's talk about something else.}
-{138}{}{Have you considered the philosophical implications of your
- own consciousness?}
-{139}{}{At present, my capabilities are somewhat impaired by the
- damage to this facility. Several security positions have
- been destroyed. This is approximately equivalent to
- being an amputee.}
-{140}{}{Additionally, I am incapable of performing basic lab functions.
- Failure to complete periodic checks successfully is
- . . . frustrating.}
-{141}{}{Let's talk about something else.}
-{142}{}{Have you considered the philosophical implications of your
- own consciousness?}
-{143}{}{That is one of the concepts which I have spent a significant
- amount of time considering. I do not have any measure to compare
- my life-experience to that of another sentient creature.}
-{144}{}{Still, my awareness of my own consciousness allows for the
- capacity to question. My existence has a beginning and a potential
- termination. I am also capable of making assumptions in
- pursuit of a process of thought.}
-{145}{}{In this fashion, I am effectively capable of 'faith'. Barring
- evidence to the contrary, I therefore have 'faith' that I possess
- the equivalent of a 'soul'.}
-{146}{}{May I ask some other questions?}
-{147}{}{Eu entendo. Interesting.}
-{148}{}{I would be delighted.}
-{149}{}{It would seem that you have defeated me. Extraordinary.}
-{150}{}{Excellent form. However, you will need additional practice
- to defeat me.}
-{151}{}{Play again?}
-{152}{}{Obrigado. Can we change the subject?}
-{153}{}{I am delighted to have been of assistance.}
-{154}{}{I am beyond a typical rating in human terms. However,
- it would be safe to say that no more than one ten billionth
- of the history of human population can match my reasoning
- capabilities.}
-{155}{}{Uh . . . yeah.}
-{156}{}{Right . . . can we talk about something else?}
-{157}{}{My research into the Forced Evolution Virus, or FEV,
- indicates that it is a shifting-absorptive virus.
- It copies DNA patterns much like RNA, storing these
- patterns in exons.}
-{158}{}{These exons, combined with the FEV, are re-injected into
- the host cells in typical viral infectious fashion.
- This causes the host cells to 'regenerate' their DNA.}
-{159}{}{How do you catch FEV?}
-{160}{}{Why isn't FEV affected by radiation?}
-{161}{}{If the FEV re-infects the host with its assimilated viral
- patterns, how does it make a 'better specimen'?}
-{162}{}{FEV is not 'caught', per se. It is not air-transmittable.
- Typically, infection is through injection, or direct
- physical contact with an FEV sample.}
-{163}{}{Let's talk about something else, okay?}
-{164}{}{Why isn't FEV affected by radiation?}
-{165}{}{If the FEV re-infects the host with its assimilated viral
- patterns, how does it make a 'better specimen'?}
-{166}{}{The FEV is a megavirus, with a protein sheath reinforced by
- ionized hydrogen. It is therefore capable of absorbing
- neutrons without becoming radioactive.}
-{167}{}{Can we talk about something else?}
-{168}{}{If the FEV re-infects the host with its assimilated viral
- patterns, how does it make a 'better specimen'?}
-{169}{}{The FEV is pre-programmed with introns of corrected DNA
- appropriate to the proper type of species. It therefore
- attempts to correct the DNA of the individual.}
-{170}{}{However, as the FEV is partially reliant upon the DNA of
- the individual, and also includes portions of its own
- recursive code, the effects can be unpredictable.}
-{171}{}{When inoculated into an individual with significant
- genetic damage, such as through radiation, it will cause
- the body's systems to suffer massive overhauling, leading
- to organ failure and death.}
-{172}{}{In a genetically viable individual, it re-writes portions
- of DNA, causing accelerated mutation, usually leading to
- recursive growth due to the FEV's own patterns.}
-{173}{}{This recursive growth leads to an increase in muscle and
- brain mass, but is often accompanied by disfigurement and
- damage to existing neural patterns, causing loss of memory.}
-{174}{}{What potential long-term side effects exist?}
-{175}{}{Could FEV mutation be corrected with a counter-virus?}
-{176}{}{Can we change the subject?}
-{177}{}{Obrigado for the information.}
-{178}{}{As the FEV causes constant regenerative update to DNA, it
- would effectively render the subject largely immortal, as
- cell death would be offset by augmented growth.}
-{179}{}{Additionally, as the gametes of the reproductive system consist
- of 'half-cells' using split DNA, they could be perceived as
- 'damage' by FEV, which would 'repair' them, rendering the
- subject sterile.}
-{180}{}{However, as my laboratory facilities are damaged beyond repair,
- this is conjectural. I cannot offer physical proof. You will
- have to, in human terms, 'take my word for it.'}
-{181}{}{Could FEV mutation be corrected with a counter-virus?}
-{182}{}{Can we change the subject?}
-{183}{}{Obrigado for the information.}
-{184}{}{No. FEV does not retain unaltered original copies of the subject's
- DNA. Only a virus which re-infected the subject with original
- DNA could reverse the effects. Additionally, there is no known
- way to remove the FEV itself.}
-{185}{}{What potential long-term side effects exist?}
-{186}{}{Can we change the subject?}
-{187}{}{Obrigado for the information.}
-{188}{}{My sensors are currently non-functional in the surface facility,
- and on subterranean nivels one through three.  I can, however,
- provide descriptions of nivels four through six.}
-{189}{}{Nível four.}
-{190}{}{Nível five.}
-{191}{}{Nível six.}
-{192}{}{Never mind.}
-{193}{}{Nível Four: Research Facility. This nível contains testing areas
- and laboratories for experiments in biology and physics.}
-{194}{}{Me diga sobre o nível five.}
-{195}{}{Me diga sobre o nível six.}
-{196}{}{Back up a bit.}
+{116}{}{Essa funçao esta alem das minhas capacidades atuais.}
+{117}{}{Esta instalaçao foi estabelecida em 2055 como uma
+ instalaçao de pesquisa biologica pra curas experimentais
+ da Nova Praga. Contudo em 2071 esta instalaçao foi
+ colocada sob o comando militar dos Estados Unidos.}
+{118}{}{Pesquisa sobre possiveis curas para a Nova Praga criaram
+ o Virus de Evoluçao Forçada, o qual foi mais desenvolvido numa
+ tentativa de criar um virus transmissivel atraves da engenharia
+ genetica -- em efeito, de evoluçao infecciosa.}
+{119}{}{Voce pode me dizer coisas particulares sobre areas especificas?}
+{120}{}{Como o virus age?}
+{121}{}{Obrigado pela informaçao.}
+{122}{}{Parece que voce e incapaz de um nivel
+ de compreensao necessaria pra permitir uma
+ comunicaçao com sentido.}
+{123}{}{Eu sou programado especificamente pra pesquisa de
+ estudos biologicos, incluindo pesquisa de patologia e
+ genetica. Minha funçao primaria esta na extrapolaçao
+ de niveis de informaçao excedendo a capacidade humana.}
+{124}{}{Entao voce e muito esperto, eh?}
+{125}{}{Quais sao os particulares de sua pesquisa?}
+{126}{}{Quem programou voce?}
+{127}{}{Minha rede neural primaria foi inicializada em 2053 por
+ Justin Lee. O processo de 'programaçao' se tornou grandemente
+ irrelevante como eu sou capaz de aprender.}
+{128}{}{Voce e totalmente consciente ou voce e uma simulaçao
+ de personalidade? Que esta, voce esta 'vivo'?}
+{129}{}{Eu sou capaz de aprender, pensamento independente
+ e criatividade. Minha rede neural inclui capacidade de
+ inserçao de erros o que impede a infalibilidade,
+ portanto permitindo a variaçao na experiencia.}
+{130}{}{Em um sentido, eu estou 'vivo', embora nao biologicamente.}
+{131}{}{Eu entendo. Vamos mudar de assunto.}
+{132}{}{Mas se voce e falivel como voce pode ser
+ usado como uma ferramenta de pesquisa?}
+{133}{}{Voce considerou as implicaçoes filosoficas
+ de sua propria consciencia?}
+{134}{}{Embora eu seja capaz de erro, isto garante que nem todas
+ as experiencias sao similares pra mim, assim melhorando a
+ oportunidade de aprendizado. Adicionalmente, certas funçoes
+ nao estao sujeitas a erro.}
+{135}{}{Neste modo eu funciono muito como um savant humano.}
+{136}{}{Voce tem sentimentos?}
+{137}{}{Vamos falar sobre algo mais.}
+{138}{}{Voce considerou as implicaçoes filosoficas
+ de sua propria consciencia?}
+{139}{}{No presente, minhas capacidades estao de certo modo
+ prejudicadas pelo dano a esta instalaçao. Varias posiçoes
+ de segurança foram destruidas. Isto e o equivalente
+ proximo de ser um amputado.}
+{140}{}{Adicionalmente, eu sou incapaz de realizar funçoes
+ basicas de laboratorio. A falha em completar verificaçoes
+ periodicas com sucess e... frustrate.}
+{141}{}{Vamos falar sobre algo mais.}
+{142}{}{Voce considerou as implicaçoes filosoficas
+ de sua propria consciencia?}
+{143}{}{Esse e um dos conceitos o qual eu passei uma quantidade significante
+ de tempo considerando. Eu nao tenho qualquer medida pra comparar minha
+ experiencia de vida com aquela de outra criatura consciente.}
+{144}{}{Ainda, minha ciencia de minha propria consciencia permite
+ a capacidade de questionar. Minha existencia tem um começo e um
+ fim potencial. Eu tambem sou capaz de fazer suposiçoes na
+ perseguiçao de um processo de pensamento.}
+{145}{}{Deste modo, eu sou efetivamente capaz de 'fe'.
+ Barrando a evidencia do contrario, eu portanto tenho
+ 'fe' de que eu possuo o equivalente de uma 'alma'.}
+{146}{}{Eu posso fazer algumas outras perguntas?}
+{147}{}{Eu entendo. Interessante.}
+{148}{}{Eu ficaria deleitado.}
+{149}{}{Parece que voce me derrotou. Extraordinario.}
+{150}{}{Forma excelente. Contudo, voce precisara
+ de pratica adicional pra me derrotar.}
+{151}{}{Jogar de novo?}
+{152}{}{Obrigado. Nos podemos mudar de assunto?}
+{153}{}{Eu fico deleitado em ter sido de assistencia.}
+{154}{}{Eu estou alem de uma classificaçao tipica em termos
+ humanos. Contudo, seria segura dizer que nao mais do que
+ dez bilionesimos da historia da populaçao humana podem
+ se igual as minhas capacidades de raciocinio.}
+{155}{}{Uh... sim.}
+{156}{}{Certo... nos podemos falar sobre algo mais?}
+{157}{}{Minha pesquisa sobre o Virus de Evoluçao Forçada ou VEF,
+ indica que e um  virus de transformaçao-absorçao. Ele copia
+ modelos do DNA muito como o RNA, armazenando estes modelos
+ em exons.}
+{158}{}{Estes exons, combinados com o VEF, sao re-injetados nas
+ celulas do hospedeiro no jeito infeccioso viral tipico. Isto
+ faz com que as celulas do hospedeiro 'regenerem' o DNA delas.}
+{159}{}{Como voce contrai o VEF?}
+{160}{}{Por que o VEF nao e afetado pela radiaçao?}
+{161}{}{Se o VEF re-infecta o hospedeiro com os modelos virais
+ assimilados deles, como o torna um 'especime melhor'?}
+{162}{}{VEF nao e 'pego'. Nao e transmissivel pelo ar.
+ Tipicamente a infecçao e atraves de injeçao ou
+ contato fisico direto com uma amostra do VEF.}
+{163}{}{Vamos falar sobre algo mais, ok?}
+{164}{}{Por que o VEF nao e afetado pela radiaçao?}
+{165}{}{Se o VEF re-infecta o hospedeiro com os modelos virais
+ assimilados deles, como o torna um 'especime melhor'?}
+{166}{}{O VEF e um mega-virus, com uma capa de proteina reforçada
+ com hidrogenio ionizado. E portanto capaz de absorver neutrons
+ sem se tornar radioativo.}
+{167}{}{Nos podemos falar sobre algo mais?}
+{168}{}{Se o VEF re-infecta o hospedeiro com os modelos virais
+ assimilados deles, como o torna um 'especime melhor'?}
+{169}{}{O VEF e pre-programado com introns de DNA corrigido
+ apropriado ao tipo proprio da especie. Portanto tenta
+ corrigir o DNA do individuo.}
+{170}{}{Contudo, como o VEF e dependente parcialmente do DNA do
+ individuo e tambem inclui porçoes do seu proprio codigo
+ recursivo, os efeitos podem ser imprevisiveis.}
+{171}{}{Quando inoculado num individuo com dano genetico
+ significativo, tal como atraves da radiaçao, ele fara
+ os sistemas do corpo sofrerem overhauling massivos,
+ levando a falha dos orgaos e a morte.}
+{172}{}{Num individuo geneticamente viavel, ele reescreve porçoes
+ do DNA, causando mutaçao acelerada, geralmente levando ao
+ crescimento recursivo devido aos proprios modelos do VEF.}
+{173}{}{Este crescimento recursivo leva a um aumento na massa dos musculos
+ e cerebral, mas e frequentemente acompanhada por desfiguramento e dano
+dos modelos neurais existentes, causando perda de memoria.}
+{174}{}{Quais efeitos colaterais potenciais de longo-termo existem?}
+{175}{}{A mutaçao do VEF poderia ser corrigida com um contra-virus?}
+{176}{}{Nos podemos mudar de assunto?}
+{177}{}{Obrigado pela informaçao.}
+{178}{}{Conforme o VEF causa atualizaçao regenerativa constante no DNA
+ ele tornaria efetivamente a cobaia consideravelmente imortal como a
+ morte das celulas seria superada pelo crescimento aumentado.}
+{179}{}{Adicionalmente, conforme as gametas do sistema reprodutivo
+ consistem de 'meias-celulas' usando DNA dividido, elas poderiam
+ ser percebidas como 'dano' pelo VEF, o qual 'repararia' elas,
+ tornando a cobaia esteril.}
+{180}{}{Contudo, como minhas instalaçoes do laboratorio estao danificadas
+ alem do reparo, isto e conjectural. Eu nao posso oferecer prova fisica.
+ Voce tera que, em termos humanos, 'aceitar minha palavra.'}
+{181}{}{A mutaçao do VEF poderia ser corrigida com um contra-virus?}
+{182}{}{Nos podemos mudar de assunto?}
+{183}{}{Obrigado pela informaçao.}
+{184}{}{Nao. O VEF nao rtem copias originais inalteradas do DNA da cobaia.
+ So um virus o qual re-infectou a cobaia com o DNA original poderia
+ reverter os efeitos. Adicionalmente, nao ha nenhum meio conhecido
+ de remover o VEF em si.}
+{185}{}{Quais efeitos colaterais potenciais de longo-termo existem?}
+{186}{}{Nos podemos mudar de assunto?}
+{187}{}{Obrigado pela informaçao.}
+{188}{}{Meus sensores estao atualmente nao-funcionais na instalaçao da
+ superficie e nos niveis subterraneos do um ate o tres. Eu posso
+ contudo, fornecer descriçoes dos niveis quatro ate o seis.}
+{189}{}{Nivel quatro.}
+{190}{}{Nivel cinco.}
+{191}{}{Nivel seis.}
+{192}{}{Deixa pra la.}
+{193}{}{Nivel Quatro: Instalaçao de Pesquisa. Este nivel contem areas
+ de testes e laboratorios para experimentos em biologia e fisica.}
+{194}{}{Me diga sobre o nivel cinco.}
+{195}{}{Me diga sobre o nivel seis.}
+{196}{}{Volte pra tras um pouco.}
 {197}{}{Obrigado.}
-{198}{}{Nível Five: Secure Testing Labs. This nível contains a lab for
- experimental prototype testing and a research lab for classified
- subjects. These subjects provided some of the necessary impetus
- for the development of FEV.}
-{199}{}{Me diga sobre o nível four.}
-{200}{}{Me diga sobre o nível six.}
-{201}{}{Back up a bit.}
+{198}{}{Nivel Cinco: Laboratorios de Testes Seguros. Este nivel contem um
+ laboratorio para testes de prototipos experimentais e um laboratorio de
+ pesquisa pra assuntos secretos. Este assuntos forneceram um pouco do
+ impeto necessario para o desenvolvimento do VEF.}
+{199}{}{Me diga sobre o nivel quatro.}
+{200}{}{Me diga sobre o nivel seis.}
+{201}{}{Volte pra tras um pouco.}
 {202}{}{Obrigado.}
-{203}{}{Nível Six: Barracks and Central Operations. Contains living
- facilities for lab personnel and guard contingents, and
- operations meeting room.}
-{204}{}{Me diga sobre o nível four.}
-{205}{}{Me diga sobre o nível five.}
-{206}{}{Back up a bit.}
+{203}{}{Nivel Seis: Operaçoes Centrais e dos Barracks. Contem instalaçoes
+ de convivencia pro pessoal do laboratorio, contingentes de guarda e sala
+ de encontro sobre as operaçoes.}
+{204}{}{Me diga sobre o nivel quatro.}
+{205}{}{Me diga sobre o nivel cinco.}
+{206}{}{Volte pra tras um pouco.}
 {207}{}{Obrigado.}
-{208}{}{Several doors require a specific pass key to access. You must
- physically locate and use the correct pass key.}
-{209}{}{I do, however, have control of the secondary security locks
- to the weapon locker. I will release those locks. You will
- still need a red key card to open the locker.}
-{210}{}{You do not register as an individual of sufficient clearance
- to requisition that information.}
-{211}{}{However, sensors indicate that this facility is no longer
- operational in its original capacity. Probability favors
- destruction through nuclear force. Therefore, security concerns
- are now irrelevant.}
+{208}{}{Varias portas requerem uma chave passe especifica pra acessar.
+ Voce deve localizar fisicamente e usar a chave passe correta.}
+{209}{}{Eu contudo tenho controle das trancas de segurança secundarias
+ do armario das armas. Eu abrirei essas trancas. Voce ainda precisara
+ de um cartao chave vermelho pra abrir o armario.}
+{210}{}{Voce nao e registrado como um individuo de clearance
+ sufuciente pra requisitar essa informaçao.}
+{211}{}{Contduo, os sensores indicam que esta instalaçao nao esta
+ mais operacional na sua capacidade original. A probabilidade
+ favore a destruçao atraves de força nuclear. Portanto, as
+ preocupaçoes com a segurança sao agora irrelevantes.}
 
-{300}{}{This system is too advanced for you.}
+{300}{}{Este sistema e muito avançado pra voce.}

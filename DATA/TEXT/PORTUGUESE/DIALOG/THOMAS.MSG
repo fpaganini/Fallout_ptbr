@@ -1,66 +1,66 @@
-{100}{}{You see Brother Thomas.}
-{101}{}{Okay children. Today we will be going over some martial arts.}
-{102}{}{In close combat the technique you use depends on your
- opponents size, reach, and quickness.}
-{103}{}{If given the opportunity test your opponent.}
-{104}{}{Don't rush the attack.}
-{105}{}{All right my little one, try to hurt poor old gramps.}
+{100}{}{Você vê o irmão Thomas.}
+{101}{}{Ok, filhos. Hoje vamos passar por algumas artes marciais.
+{102}{}{Em combate próximo a técnica que você usa depende do seu
+ oponentes tamanho, alcance e rapidez.}
+{103}{}{Se for dada a oportunidade, teste seu oponente.}
+{104}{}{Não apresse o ataque}
+{105}{}{Tudo bem, meu pequeno, tente machucar os pobres e velhos mundos.}
 {106}{}{Ah!}
 {107}{}{Uhh.}
-{108}{}{Well that's all for now, so let's review.}
-{109}{}{You see how he lost his balance?}
-{110}{}{Overextending yourself leaves you open for a counter attack.}
-{111}{}{When you attack be sure not to overextend.}
-{112}{}{Why is overextending so bad?}
-{113}{}{If you have the opportunity for a kill, shouldn't you go for it?}
-{114}{}{That's a lot to risk your life over.}
-{115}{}{Overextending leaves your inside vulnerable to a counter attack
- and puts you off balance.}
-{116}{}{One little shove will land you right on your ass.}
-{117}{}{Okay, let's give another young punk a try at gramps.}
-{118}{}{Let's see if you've learned from the previous example.}
-{119}{}{Not bad, that last move almost got me.}
-{120}{}{Are you sure you want to be a Scribe Initiate?}
-{121}{}{Those talents would be a shame to waste.}
-{122}{}{We'll just keep you in reserve. Okay?}
-{123}{}{I'm just fooling with ya.}
-{124}{}{You may want to reconsider a career as a Knight.}
-{125}{}{Just think about it.}
-{126}{}{Thank you Brother Thomas.}
-{127}{}{I hope you all noticed how Brother Anthony did not overextend
- himself.}
-{128}{}{He also tried to use my weight and bulkiness against me.}
-{129}{}{Martial arts have their good and bad sides.}
-{130}{}{We will be learning many different styles to better understand
- their strengths and weaknesses.}
-{131}{}{Okay. Show me what you've got.}
-{132}{}{Very good. You lasted much longer than I thought you would.}
-{133}{}{You can go back to the line.}
-{134}{}{Well, I hope you kids were able to catch what was going on.}
-{135}{}{He's a natural fighter.}
-{136}{}{Let's have one more.}
-{137}{}{Pay close attention...}
-{138}{}{and remember to always punch through your targets.}
-{139}{}{Pretend your target is a few inches beyond were the impact is
- going to be.}
-{140}{}{Um, Brother Thomas?}
-{141}{}{Yes, my little piece of clay.}
-{142}{}{Shouldn't we do that for kicking too?}
-{143}{}{Of, course.}
-{144}{}{Very good. I think we'll let you live.}
-{145}{}{Just kidding, try to smile once in a while.}
-{146}{}{This isn't a life and death situation.}
-{147}{}{There'll be plenty of time for that later on.}
-{200}{}{Not bad.}
-{201}{}{That was pretty good.}
-{202}{}{Okay, you're learning.}
-{203}{}{Stay focused.}
-{204}{}{Keep your eyes on me.}
-{205}{}{Don't overextend.}
-{206}{}{Never look away from your opponent.}
-{207}{}{Work on your blocks.}
-{208}{}{Keep your center of gravity low.}
-{209}{}{Excellent!}
-{210}{}{Perfect form.}
-{211}{}{I'm impressed.}
-{300}{}{You gain 500 experience points from watching the training.}
+{108}{}{Bem, isso é tudo por agora, então vamos rever.}
+{109}{}{Você vê como ele perdeu o equilíbrio?}
+{110}{}{Overextending yourself deixa você aberto para um contra-ataque.}
+{111}{}{Quando você ataca, certifique-se de não extrapolar.}
+{112}{}{Por que a superexcitação é tão ruim?}
+{113}{}{Se você tem a oportunidade de matar, você não deveria ir atrás disso?}
+{114}{}{Isso é muito para arriscar sua vida.}
+{115}{}{Overextending deixa seu interior vulnerável a um contra-ataque
+ e te desequilibra.}
+{116}{}{Um empurrãozinho te deixará na sua bunda.}
+{117}{}{Ok, vamos tentar outro jovem punk em gramps.}
+{118}{}{Vejamos se você aprendeu com o exemplo anterior.}
+{119}{}{Nada mal, esse último movimento quase me pegou.}
+{120}{}{Tem certeza de que quer ser um Iniciado Escriba?}
+{121}{}{Esses talentos seriam uma pena desperdiçar.}
+{122}{}{Apenas manteremos você na reserva. OK?}
+{123}{}{Estou apenas brincando com você.}
+{124}{}{Você pode querer reconsiderar uma carreira como Cavaleiro.}
+{125}{}{Apenas pense nisso}
+{126}{}{Obrigado irmão Thomas.}
+{127}{}{Espero que todos tenham notado como o irmão Anthony não extrapolou
+ ele mesmo.}
+{128}{}{Ele também tentou usar o meu peso e volume contra mim.}
+{129}{}{As artes marciais têm seus lados bons e ruins.}
+{130}{}{Nós estaremos aprendendo muitos estilos diferentes para entender melhor
+ seus pontos fortes e fracos.}
+{131}{}{Ok. Mostre-me o que você tem.}
+{132}{}{Muito bom. Você durou muito mais tempo do que eu pensava.}
+{133}{}{Você pode voltar para a linha.}
+{134}{}{Bem, eu espero que vocês, crianças, tenham entendido o que estava acontecendo.}
+{135}{}{Ele é um lutador natural.}
+{136}{}{Vamos ter mais um.}
+{137}{}{Preste muita atenção ...}
+{138}{}{e lembre-se sempre de acessar seus alvos.}
+{139}{}{Finja que o alvo está alguns centímetros depois, onde o impacto é
+ será.}
+{140}{}{Hum, irmão Thomas?}
+{141}{}{Sim, meu pequeno pedaço de barro.}
+{142}{}{Não deveríamos fazer isso para chutar também?}
+{143}{}{De, claro.}
+{144}{}{Muito bom. Acho que vamos deixar você viver.}
+{145}{}{Brincadeira, tente sorrir de vez em quando.}
+{146}{}{Esta não é uma situação de vida ou morte.}
+{147}{}{Haverá muito tempo para isso mais tarde.}
+{200}{}{Não é ruim.}
+{201}{}{Isso foi muito bom.}
+{202}{}{Ok, você está aprendendo.}
+{203}{}{Mantenha o foco.}
+{204}{}{Mantenha os olhos em mim.}
+{205}{}{Não extrapolar.}
+{206}{}{Nunca desvie o olhar do seu oponente.}
+{207}{}{Trabalhe nos seus blocos.}
+{208}{}{Mantenha o seu centro de gravidade baixo}
+{209}{}{Excelente!}
+{210}{}{Forma perfeita.}
+{211}{}{Estou impressionado.}
+{300}{}{Você ganha 500 pontos de experiência ao assistir ao treinamento.}

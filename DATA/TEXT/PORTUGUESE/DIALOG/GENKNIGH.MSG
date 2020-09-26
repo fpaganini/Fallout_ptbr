@@ -1,24 +1,24 @@
-{100}{}{You see a Knight.}
-{101}{}{I wonder what the old turbine engines were really like.}
-{102}{}{It would be great if we had a working automobile.}
-{103}{}{Did you know man has been on the moon? Or I think that's what they
- said.}
-{104}{}{I can't find the file I need.}
-{105}{}{I'll be a Paladin someday.}
-{106}{}{Talus is a skilled warrior. I would never want to have to go up
- against him.}
-{107}{}{Thomas is the best fighter in the Brotherhood. I bet he could best
- Rhombus.}
-{108}{}{I'd like to get my hands on those raiders. Show them what thieves
- deserve.}
-{109}{}{That's it . . . what? Oh sorry. I can't talk right now.}
-{110}{}{I wonder . . . huh? Oh, you made me lose my train of thought.}
-{111}{}{I love working on new prototypes.}
-{112}{}{When our supplies are limited, it can really be a challenge to find
- a way to use what we've got.}
-{113}{}{I can't figure out why my last prototype didn't work.}
-{114}{}{Sorry, can't talk right now.}
-{115}{}{Vree's over there.}
-{116}{}{Now where did I put that file . . .}
-{117}{}{Where's that schematic?}
-{118}{}{Well the computer says it should work; now what did I do wrong?}
+{100}{}{Você vê um cavaleiro.}
+{101}{}{Eu gostaria de saber como eram os antigos motores de turbina.}
+{102}{}{Seria ótimo se tivéssemos um automóvel em funcionamento.}
+{103}{}{Você sabia que o homem esteve na lua? Ou eu acho que é o que eles
+ disse.}
+{104}{}{Não consigo encontrar o arquivo que preciso.}
+{105}{}{Eu serei um Paladino algum dia.}
+{106}{}{Talus é um guerreiro habilidoso. Eu nunca iria querer ter que subir
+ contra ele.}
+{107}{}{Thomas é o melhor lutador da Irmandade. Aposto que ele poderia melhor
+ Rhombus.}
+{108}{}{Eu gostaria de colocar minhas mãos nesses atacantes. Mostre a eles que ladrões
+ merecer.}
+{109}{}{É isso. . . o que? Oh, desculpe. Eu não posso falar agora.}
+{110}{}{eu me pergunto. . . Hã? Oh, você me fez perder minha linha de pensamento.}
+{111}{}{adoro trabalhar em novos protótipos.}
+{112}{}{Quando nossos suprimentos são limitados, pode ser realmente um desafio encontrar
+ uma maneira de usar o que temos.}
+{113}{}{Não consigo descobrir porque meu último protótipo não funcionou.}
+{114}{}{Desculpe, não posso falar agora.}
+{115}{}{Vree está ali.}
+{116}{}{Agora onde eu coloquei esse arquivo. . .}
+{117}{}{Onde está esse esquema?}
+{118}{}{Bem, o computador diz que deveria funcionar; agora o que fiz de errado?}

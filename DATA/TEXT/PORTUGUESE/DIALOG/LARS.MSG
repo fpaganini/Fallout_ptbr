@@ -13,32 +13,32 @@
 {110}{}{Se você está no comando dos guardas aqui, eu acho que eu tenho um pouco de informação
  para você.}
 {111}{}{Ei! Você! Nós sabemos sobre você, seu/sua monstro(a)!}
-{112}{}{Bastante, tanto quanto você fique no nosso lado bom. Nós temos o armazém do Killian
+{112}{}{Bastante, tanto quanto você fique no nosso lado. Nós temos o armazém do Killian
  Darkwaters', aonde você pode fazer algum comércio. E há o cassino do Casino, se você é um(a)
  jogador(a). Ou se você apenas quer uma bebida, você pode ir para o Skum Pitt.
- Apenas não fique muito rowdy.}
-{113}{}{Ei, Eu gosto de um rowdy time!}
-{114}{}{Bem, melhor você manter a si mesmo(a) sob controle. Nós somos uma cidade livre mas nós
- não toleramos pisar nos dedos das outras pessoas. Não cause quaisquer problemas e
- você não dará causa para eu e meus homens come down on you.}
+ Apenas não fique muito bebado.}
+{113}{}{Ei, Eu gosto de uma bebedeira!}
+{114}{}{Bem, melhor você manter-se sob controle. Nós somos uma cidade livre mas nós
+ não toleramos pisar na bola com outras pessoas. Não cause quaisquer problemas e
+ você não dará causa para eu e meus homens te 'acalme'.}
 {115}{}{Que pau na lama!}
-{116}{}{Olhe, camarada, meu trabalho aqui é manter a paz e seu eu tenho que quebrar algumas
- cabeças para fazê-lo, então algumas pessoas vão ser feridas. Então apenas assita.}
+{116}{}{Olhe, camarada, meu trabalho aqui é manter a paz e se eu tenho que quebrar algumas
+ cabeças para fazer isto acontecer, então algumas pessoas vão ser feridas sim. Então apenas assita.}
 {117}{}{Eu e meus homens aqui trabalhamos para Killian Darkwater. Nós mantemos alguma ordem nesta
  cidade, lidando com todos os assassinos, ladrões e outras scumbags que venham
  do deserto. Se você quer meu conselho, você também ficará longe do Gizmo. Aquele
  cabeça gorda dirige uma operação crooked, mas não não fomos capazes de provar nada.
  Ele e seus lacaios, os Skulz, vão cair em algum tempo em breve, se
  Killian tem qualquer coisa a dizer a respeito.}
-{118}{}{Que bummer. Nenhuma diversão aqui de modo algum.}
+{118}{}{Que chatisse. Nenhuma diversão aqui.}
 {119}{}{Bom saber que alguém está mantendo a paz por aqui. Obrigado.}
-{120}{}{Então, o que impede vocês garotos da lei de simplesmente busting Gizmo e os Skulz?}
-{121}{}{Ei, é nosso trabalho. Mas é nosso trabalho saber que alguém o aprecia.
+{120}{}{Então, o que impede vocês garotos da lei de simplesmente prenderem Gizmo e os Skulz?}
+{121}{}{Que isto, é apenas nosso trabalho. Mas é bom saber que alguém o aprecia.
  Obrigado.}
-{122}{}{Tenho que fazê-lo todo proper like. Nós sabemos que Gizmo dirige uma operação rigged
- e tal, mas nós precisamos de evidência dura para derrubá-lo. O mesmo com os Skulz; eles
- rough someone up, nós trazemos um ou dois deles pra dentro, mas nada muda. Nós simplesmente
- não temos qualquer evidência direta ligando eles a qualquer dos assassinatos ou muggings.}
+{122}{}{Tenho que fazê-lo com todo gosto. Nós sabemos que Gizmo dirige uma operação duvidosa
+ e tal, mas nós precisamos de evidência robusta para derrubá-lo. E mesmo com os Skulz; eles
+ são muito bom nisto, nós trazemos um ou dois deles para cá, mas nada muda. Nós simplesmente
+ não temos qualquer evidência direta ligando eles a qualquer dos assassinatos ou assaltos.}
 {123}{}{Talvez eu possa ajudar você com isso.}
 {124}{}{Bem, boa sorte.}
 {125}{}{Inferno, se você acha que você consegue obter alguma sujeira de ambos, nós apreciaríamos
@@ -46,14 +46,14 @@
  pouder obter um pouco de info sobre os Skulz, apenas volte pra mim e eu e os garotos
  tomaremos conta deles.}
 {126}{}{Obrigado. Cuidado por aí.}
-{127}{}{Eu sou o cabeça dos guardas aqui em Junktown. O nome é Lars. For that matter,
+{127}{}{Eu sou o cabeça dos guardas aqui em Junktown. O nome é Lars. Falando nisto,
  quem é você, estranho(a)?}
 {128}{}{Eu sou }
 {129}{}{.}
-{130}{}{Buzz off, Eu não tenho que dizer nada a você.}
+{130}{}{Cai fora, Eu não tenho que dizer nada a você.}
 {131}{}{Bem-vindo(a) a Junktown, }
 {132}{}{. Em que eu posso ajudar você?}
-{133}{}{Você pode me fill me in sobre Junktown?}
+{133}{}{Você pode me dar mais detalhes sobre Junktown?}
 {134}{}{Apenas procurando por algo pra fazer. Tem quaisquer sugestões?}
 {135}{}{Bom dia, viajante. Você precisa de alguma coisa?}
 {136}{}{O que?}
@@ -74,7 +74,7 @@
 {147}{}{Eu verei o que eu posso fazer.}
 {148}{}{Eu tive testemunho de Sherry, um membro formal da gangue.}
 {149}{}{Excelente. Eu pegarei ela para algumas perguntas e eu tenho certeza que eu
- obterei toda a informação que eu preciso para put them away.}
+ obterei toda a informação que eu preciso para tirar ele daqui.}
 {150}{}{Olha, isto não é um jogo. As pessoas estão se ferindo aqui. Se você achar alguma
  evidência verdadeira, volte, mas do contrário, não desperdice meu tempo!}
 {151}{}{Se você não é averso(a) a um pouco de skullduggery, Eu preciso de alguém par obter
@@ -99,10 +99,10 @@
 {165}{}{Sim.}
 {166}{}{Os Skulz estão planejando matar o Neal!}
 {167}{}{Os homens do Lars rapidamente eliminam os Skulz.}
-{168}{}{Parece que Lars ainda pode estar vivo, mas ele definitivamente está fora da luta.}
+{168}{}{Parece que Lars ainda pode estar vivo, mas ele definitivamente está fora de cena.}
 {169}{}{Viajante, você simplesmente ferrou com tudo. Nós precisávamos de evidência para que nós
- pudéssemos derrubar Gizmo tudo bacana e legalmente. Olha, fora do registro, eu estou feliza de ter
- aquela porra gorda fora do quadro, mas nós não podemos condenar assassinato. Melhor você sair de
+ pudéssemos derrubar Gizmo com tudo certo e legalmente. Olha, fora do registro, eu estou feliz de ter
+ aquela porra gorda fora do quadro, mas nós não podemos condenar de assassinato. Melhor você sair de
  Junktown e nunca voltar.}
 {170}{}{Nós não gostamos do seu tipo aqui. Você tem por volta de quinze segundos antes que eu
  exploda seu cabeça.}

@@ -1,25 +1,25 @@
-{100}{}{Você ve um homem alegre com cabelo close-cropped hair.}
-{101}{}{Você ve o comerciante da cidade, Tine.}
-{102}{}{Nos não temos muitos estranhos por aqui. O que você quer?}
-{103}{}{Ola, estranho! O que eu posso fazer por você hoje?}
+{100}{}{Voce ve um homem alegre com corte de cabelo rente.}
+{101}{}{Voce ve o comerciante da cidade, Tine.}
+{102}{}{Nos nao temos muitos estranhos por aqui. O que voce quer?}
+{103}{}{Ola, estranho! O que eu posso fazer por voce hoje?}
 {104}{}{Meu nome e }
 {105}{}{.}
-{106}{}{Eu posso perguntar a você sobre os mercadores do Hub?}
+{106}{}{Eu posso perguntar a voce sobre os mercadores do Hub?}
 {107}{}{Eu gostaria de fazer alguns negocios.}
-{108}{}{What's your take on Adytum?}
-{109}{}{Nada.}
-{110}{}{Sim, eu negocio com eles.}
+{108}{}{Qual é a sua opinião sobre Adytum?}
+{109}{}{Nenhuma.}
+{110}{}{Sim, eu negocío com eles.}
 {111}{}{Eu faco algum comercio com eles de tempos em tempos. Na maior parte
  eu vendo balas em troca de comida.}
-{112}{}{Eu so o Tine. Você tem algum negocio pra conduzir?}
-{113}{}{Prazer em encontrar você. Eu sou o Tine.}
-{114}{}{Otimo fazer negocio com você. Venha de novo.}
+{112}{}{Eu so o Tine. Voce tem algum negocio pra conduzir?}
+{113}{}{Prazer em encontrar voce. Eu sou o Tine.}
+{114}{}{Otimo fazer negocio com voce. Venha de novo.}
 {115}{}{Que seja.}
 {116}{}{Matenha contato!}
 {117}{}{O que?}
-{118}{}{Ola de novo! Com o que eu posso ajudar você?}
-{119}{}{E uma boa cidade. Poderia ser um pouco mais feliz se os Reguladors não mantivessem
+{118}{}{Ola de novo! Com o que eu posso ajudar voce?}
+{119}{}{E uma boa cidade. Poderia ser um pouco mais feliz se os Reguladors nao mantivessem
  tal dominio forte sobre as coisas. Mas ei, esse e o estilo deles.}
-{120}{}{Nao e uma cidadezinha ruim. Zimmerman e um homem justo, ms talvez não o cara mais
- brilhante. E claro, nos temos o Miles, provavelmente o único homem em cem milhas que
- sabe alguma coisa de ciência.}
+{120}{}{Nao e uma cidadezinha ruim. Zimmerman e um homem justo, ms talvez nao o cara mais
+ brilhante. E claro, nos temos o Miles, provavelmente o unico homem em cem milhas que
+ sabe alguma coisa de ciencia.}

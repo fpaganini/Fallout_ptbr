@@ -1,169 +1,169 @@
-{100}{}{You see the ghoul leader.}
-{101}{}{Thank you for not shooting first. Can I help you with anything?}
-{102}{}{Yes, I'm looking for water.}
-{103}{}{Sure, who are you?}
-{104}{}{Nah.}
-{105}{}{Ahh, if you like you may rest here, we will not harm you.}
+{100}{}{Voce ve o lider dos ghouls.}
+{101}{}{Obrigado por nao atirar primeiro. Eu posso ajudar voce com alguma coisa?}
+{102}{}{Sim, eu estou procurando por agua.}
+{103}{}{Com certeza, quem e voce?}
+{104}{}{Nao.}
+{105}{}{Ahh, se voce quiser voce pode descansar aqui, nos nao faremos mal a voce.}
 {106}{}{Ahh.}
-{107}{}{I am the leader of a simple people who have left the surface
- because of the others.}
-{108}{}{Who has forced you down here?}
-{109}{}{Geez, that's pretty dumb.}
-{110}{}{Hmm. Ok. Bye.}
-{111}{}{The surface of Necropolis and the water is controlled
- by Set and his Ghouls. We are a much more peaceful group - which
- disgusts Set.}
-{112}{}{Who is this Set?}
-{113}{}{Well, I've taken care of Set. He won't bother you further.}
-{114}{}{How then do you survive down here without water?}
-{115}{}{Well I sure wouldn't like a bunch of pansies either, Set
- sounds like an OK guy.}
-{116}{}{Set is a Ghoul like us, but has assumed a certain amount of
- power in the above ground world. He is an oaf.}
-{117}{}{He sounds a lot more interesting than you freaks.}
-{118}{}{Why does he let you survive down here?}
-{119}{}{He does not speak of it, however Set is afraid of not having
- enough people to defend Necropolis if it ever needed it. So, he gives
- us what water we need.}
-{120}{}{Where does all of this water come from?}
-{121}{}{I need water for my people! If you know where he gets it
- from, tell me now!}
-{122}{}{I am looking for a Water Chip, to give my people the water
- they need. Do you know where I might find one?}
-{123}{}{I wouldn't keep you guys around to defend a paper bag. So
- what's this about water?}
-{124}{}{Up until recently we pumped our water from the ground, with
- a pump in the Watershed.}
-{125}{}{Until recently? What has happened that changed things?}
-{126}{}{How do I get to the Watershed?}
-{127}{}{What is the Watershed?}
-{128}{}{Since our pump stopped working, we have been getting our water
- from a place under the ground. I have heard that a water computer
- is being used to purify the water.}
-{129}{}{Thanks.}
-{130}{}{Where is that?}
-{131}{}{The watershed is to the north. You'll need to take the sewers
- to get there.}
-{132}{}{You aren't thinking of taking the Water Chip from us are you?}
-{133}{}{Umm.. Me, no, I would never do such a thing. I am just going
- to see how it all works.}
-{134}{}{Of course, my people need the Water Chip to survive.}
-{135}{}{Por quê?}
-{136}{}{If you take the Water Chip from us, then we will all die. With
- our water pump broken we need it to survive.}
-{137}{}{Well, I really don't care about you and your people. We need
- the water chip for our own survival. Goodbye.}
-{138}{}{Is it possible that your pump could be fixed?}
-{139}{}{If that is the case then I can't let you leave my presence alive.}
-{140}{}{I do not think that I believe you.}
-{141}{}{I am sorry I did not mean to deceive you. What is wrong with
- taking the Water Chip.}
-{142}{}{Well I don't really care. If you won't get out of my way, I'll
- just remove you myself.}
-{143}{}{That may be difficult. The parts needed to fix the pump were lost
- in the sewers under the watershed.}
-{144}{}{Why is that so difficult?}
-{145}{}{Do you mean these parts? (You show the parts you found to the
- Ghoul Leader)}
-{146}{}{The sewers there are filled with monsters, and none of my people
- that I have sent to retrieve them have come back. Are you willing to
- retrieve the parts, so that the Water Pump can be fixed?}
-{147}{}{Sounds like too much trouble, I think I'll just take the Water
- Chip.}
-{148}{}{Yes.}
-{149}{}{Since you guys are to incompetent to do this yourself, I guess
- I'll have to lend a hand.}
-{150}{}{Thank you. When you get the parts, return here. It is possible
- that I can help you further.}
-{151}{}{Ok, I'll be on my way then.}
-{152}{}{Have you found the parts for the Water Pump yet?}
-{153}{}{Not yet.}
-{154}{}{Nope. And I've decided to forget the whole thing.}
-{155}{}{Where was I supposed to find them again?}
-{156}{}{Well I wish you luck then.}
-{157}{}{You have returned. Do you have the parts needed to repair the
- Water Pump?}
-{158}{}{Yes, here they are.}
-{159}{}{Yeah, but I've decided to forget about fixing the Water Pump.}
-{160}{}{Well it looks like you may need some help with the parts. Here
- are some books that we have found littered around. They may help you.
- Now please take the parts to the water shed and repair the pump.}
-{161}{}{Unfortunately I will be able to help you no further. Good luck
- with the Water Pump. Please take the parts to the water shed and
- repair the pump.}
-{162}{}{Have you fixed the Water Pump yet?}
-{163}{}{No not yet, but I am still working on it.}
-{164}{}{No, and I am not planning on it now.}
-{165}{}{Yes those are the parts I was talking about. Thank the flow
- that you already have them.}
-{166}{}{Is there anything else I should know?}
-{167}{}{Well that's as close as they are going to get to the Water Pump.}
-{168}{}{As I already told you, they can be found in the sewers underneath
- the Water shed. Go east from here, and then north. You will find the
- Watershed in that direction.}
-{169}{}{Thanks for the directions. Goodbye.}
-{170}{}{Well thank you for that service. Was there something else you
- wanted to know?}
-{171}{}{How do you survive down here without water?}
-{172}{}{It is where all the water is stored and handed out to us.}
-{173}{}{Where is it located?}
-{174}{}{Lately I have heard rumors that someone has taken over the
- control of the Watershed. However, our rations are still being
- delivered for some reason.}
-{175}{}{How do I get to the Watershed?}
-{176}{}{What is the Watershed?}
-{177}{}{Thank you for repairing the Water Pump, and I hope all is
- well with your people when you return with what you have found.}
-{178}{}{Thank you for your help. Goodbye.}
-{179}{}{You have fixed the Water Pump and the flow has returned from
- the deep. However, I see you have not found what you are looking for.}
-{180}{}{Yes, I cannot seem to find the location of the Water Chip.}
-{181}{}{I have heard that it is located deeply below the Watershed.
- I wish you luck in searching for it.}
-{182}{}{I see that you have what you came here to find. You realize
- that we will die if you take the Water Chip from us.}
-{183}{}{Yes, but I am still working to fix the Water Pump. Where did
- you say I could find the parts?}
-{184}{}{I need the Water Chip and I don't have time to deal with your
- problems.}
-{185}{}{What other options do I have.}
-{186}{}{I am tired of putting up with your snide remarks. I do not
- wish to speak with you any further.}
-{187}{}{We once had a pump located in the Watershed that pumped the
- flow from the deep. However, it was broken and the parts needed to
- fix it were lost in the sewers directly below the Watershed.}
-{189}{}{Why have you not retrieved the parts yourself?}
-{190}{}{You have nothing to fear from us!}
-{191}{}{I will speak with you before you leave.}
-{192}{}{You have left me no choice, but to stop you myself.}
-{193}{}{Wait. Don't shoot!}
-{194}{}{You have nothing to fear from us!}
-{195}{}{I will speak with you before you leave.}
-{196}{}{You have left me no choice, but to stop you myself.}
-{200}{}{Tough luck.}
-{201}{}{Can't the water pump be repaired?}
-{202}{}{I'm sorry but my people need the chip to survive.}
-{203}{}{Please don't take our chip. Without it we will die.}
-{204}{}{Maybe, but the parts are lost in the sewers beneath the watershed.
- With all those monsters there, we can't get them back.}
-{205}{}{Sorry, I wish I could help.}
-{206}{}{I'll find the parts.}
+{107}{}{Eu sou o lider de um povo simples que deixou a superficie
+ por causa dos outros.}
+{108}{}{Quem forçou voces a virem aqui pra baixo?}
+{109}{}{Puxa, isso e muito burro.}
+{110}{}{Hmm. Ok. Tchau.}
+{111}{}{A superficie de Necropolis e a agua sao controladas
+ por Set e os ghouls dele. Nos somos um grupo muito mais
+ pacifico - o qual enoja o Set.}
+{112}{}{Quem e este Set?}
+{113}{}{Bem, eu tomei conta do Set. Ele nao aborrecera mais voces.}
+{114}{}{Como entao voces sobrevivem aqui embaixo sem agua?}
+{115}{}{Bem, eu com certeza tambem nao gostaria de um bando de
+ viados, O Set parece um cara Ok.}
+{116}{}{O Set e um ghoul como nos, mas ele assumiu uma certa quantidade
+ de poder no mundo acima do solo. Ele e um imbecil.}
+{117}{}{Ele soa muito mais interessante do que voces aberraçoes.}
+{118}{}{Por que ele deixa voces sobreviverem aqui embaixo?}
+{119}{}{Ele nao fala disso, contudo o Set esta com medo de nao ter
+ pessoas o bastante pra defender Necropolis se ele precisasse.
+ Entao ele nos da a agua que nos precisamos.}
+{120}{}{De aonde toda esta agua vem?}
+{121}{}{Eu preciso de agua pro meu povo! Se voce sabe de onde ele a
+ obtem diga-me agora!}
+{122}{}{Eu estou procurando um chip de agua pra dar ao meu povo a
+ agua que ele precisam. Voce sabe aonde eu poderia achar um?}
+{123}{}{Eu nao manteria voces por perto pra defender uma sacola de
+ papel. Entao, e quanto isto a respeito da agua...}
+{124}{}{Ate recentemente nos bombeavamos nossa agua do solo, com
+ uma bomba na Bacia Hidrografica.}
+{125}{}{Ate recentemente? O que aconteceu que mudou as coisas?}
+{126}{}{Como eu chego ate a Bacia Hidrografica?}
+{127}{}{O que e a Bacia Hidrografica?}
+{128}{}{Desde que nossa bomba parou de funcionar nos estamos obtendo
+ nossa agua de um lugar abaixo do solo. Eu ouvi que um computador de
+ agua esta sendo usado pra purificar a agua.}
+{129}{}{Obrigado.}
+{130}{}{Aonde e isso?}
+{131}{}{A Bacia Hidrografica esta a norte. Voce precisara ir atraves
+ dos esgotos pra chegar la.}
+{132}{}{Voce nao esta pensando em tirar o chip de agua de nos, esta?}
+{133}{}{hmm... Eu, nao, eu nunca faria tal coisa. Eu apenas estou
+ indo ver como tudo funciona.}
+{134}{}{Claro. Meu povo precisa do chip de agua pra sobreviver.}
+{135}{}{Por que?}
+{136}{}{Se voce tirar o chip de agua de nos entao nos todos morreremos.
+ Com nossa bomba de agua quebrada nos precisamos dele pra sobreviver.}
+{137}{}{Bem, eu realmente nao me importo com voce e com seu povo. Nos
+ precisamos do chip de agua pra nossa propria sobrevivencia. Adeus.}
+{138}{}{E possivel que sua bomba pudesse ser consertada?}
+{139}{}{Se esse e o caso entao eu nao posso deixar que voce saia da minha presença vivo.}
+{140}{}{Eu nao acho que eu acredito em voce.}
+{141}{}{Eu lamento, eu nao tive a intençao de enganar voce. O que esta
+ errado em tirar o chip de agua?}
+{142}{}{Bem, eu realmente nao me importo. Se voce nao sair do meu caminho eu
+ simplesmente removerei voce eu mesmo.}
+{143}{}{Isso pode ser dificil. As partes necessarias pra consertar a bomba
+ estao perdidas nos esgotos sob a Bacia Hidrografica.}
+{144}{}{Por que e tao dificil?}
+{145}{}{Voce quer dizer estas partes? (Voce mostra as partes que voce achou
+ ao Lider dos Ghouls)}
+{146}{}{Os esgotos, eles estao cheios de monstros e ninguem do meu povo
+ que eu enviei pra recupera-los voltou. Voce esta querendo recuperar as
+ partes para que a bomba de agua possa ser consertada?}
+{147}{}{Soa como problema demais, eu acho que eu apenas levarei o
+ chip de agua.}
+{148}{}{Sim.}
+{149}{}{Ja que voces sao muito incompetentes pra fazerem isto voces mesmos
+ eu creio que eu terei que dar uma mao.}
+{150}{}{Obrigado. Quando voce obter as partes retorne aqui. E possivel
+ que eu possa ajudar voce mais.}
+{151}{}{Ok, entao eu estou indo.}
+{152}{}{Voce achou as partes da bomba de agua?}
+{153}{}{Ainda nao.}
+{154}{}{Nao. E eu decidi esquecer a coisa inteira.}
+{155}{}{De novo, aonde eu supostamente devia acha-los?}
+{156}{}{Bem, entao eu desejo sorte a voce.}
+{157}{}{Voce retornou. Voce tem as partes necessarias pra reparar a
+ Bomba de Agua?}
+{158}{}{Sim, aqui estao elas.}
+{159}{}{Sim, mas eu decidi esquecer consertar a bomba de agua.}
+{160}{}{Bem, parece que voce pode precisar de um pouco de ajuda com as partes.
+ Aqui estao alguns livros que nos achamos empilhados. Eles podem ajudar voce.
+ Agora por favor leve as partes ate a bacia hidrografica e repare a bomba.}
+{161}{}{Infelizmente eu nao serei mais capaz de ajudar voce. Boa sorte
+ com a Bomba de Agua. Por favor leve as partes ate a bacia hidrografica
+ e repare a bomba.}
+{162}{}{Voce ja consertou a bomba de agua?}
+{163}{}{Nao, ainda nao, mas eu ainda estou trabalhando nisso.}
+{164}{}{Nao, e eu nao estou planejando faze-lo agora.}
+{165}{}{Sim, essas sao as partes que eu estava falando a respeito.
+ Agradeçam ao flow que voces ja tem elas.}
+{166}{}{Ha algo mais que eu deveria saber?}
+{167}{}{Bem, isso e tao perto quanto eles vao chegar da bomba de agua.}
+{168}{}{Como eu ja disse a voce elas podem ser achadas nos esgotos debaixo
+ da bacia hidrografica. Va a leste daqui e entao ao norte. Voce achara a
+ Bacia Hidrografica naquela direçao.}
+{169}{}{Obrigado pelas direçoes. Adeus.}
+{170}{}{Bem, obrigado a voce por esse serviço. Havia algo mais que voce
+ queria saber?}
+{171}{}{Como voces sobrevivem aqui embaixo sem agua?}
+{172}{}{E aonde toda a agua e armazenada e entregue a nos.}
+{173}{}{Aonde esta localizada?}
+{174}{}{Ultimamente eu ouvi rumores que alguem tomou o controle da
+ Bacia Hidrografica. Contudo, nossas raçoes ainda estao sendo
+ entregues por algum motivo.}
+{175}{}{Como eu chego ate a Bacia Hidrografica?}
+{176}{}{O que e a Bacia Hidrografica?}
+{177}{}{Obrigado por reparar a Bomba de Agua e eu espero que tudo esteja
+ bem com seu povo quando voce retornar com o que voce achou.}
+{178}{}{Obrigado pela sua ajuda. Adeus.}
+{179}{}{Voce consertou a Bomba de Agua e o fluxo retornou das profundezas.
+ Contudo, eu vejo que voce nao achou o que voce estava procurando.}
+{180}{}{Sim, eu nao consigo achar o local do chip de agua.}
+{181}{}{Eu ouvi que esta localizada profundamente abaixo da Bacia
+ Hidrografica. Eu desejo a voce sorte na procura por ela.}
+{182}{}{Eu vejo que voce tem o que voce veio achar aqui. Voce percebe
+ que nos morreremos que voce tirar o Chip de Agua de nos?}
+{183}{}{Sim, mas eu ainda estou trabalhando pra consertar a Bomba de Agua.
+ Aonde voce disse que eu poderia achar as partes?}
+{184}{}{Eu preciso do Chip de Agua e eu nao tenho tempo pra lidar
+ com seus problemas.}
+{185}{}{Quais outras opçoes eu tenho?}
+{186}{}{Eu estou cansado de lidar com suas snide remarks. Eu nao
+ desejo falar mais com voce.}
+{187}{}{Nos uma vez tivemos uma bomba localizada na Bacia Hidrografica que bombeava o
+ fluxo das profundezas. Contudo, ela quebrou e as partes necessarias pra conserta-la
+ foram perdidas nos esgotos diretamente abaixo da Bacia Hidrografica.}
+{189}{}{Por que voce nao recuperou as partes voce mesmo?}
+{190}{}{Voce nao tem nada a temer de nos!}
+{191}{}{Eu falarei com voce antes de voce sair.}
+{192}{}{Voce nao me deixou escolha alem de eu mesmo impedir voce.}
+{193}{}{Espere. Nao atire!}
+{194}{}{Voce nao tem nada a temer de nos!}
+{195}{}{Eu falarei com voce antes de voce sair.}
+{196}{}{Voce nao me deixou escolha alem de eu mesmo impedir voce.}
+{200}{}{Sorte dificil.}
+{201}{}{A bomba de agua nao pode ser reparada?}
+{202}{}{Eu lamento mas meu povo precisa do chip pra sobreviver.}
+{203}{}{Por favor nao leve nosso chip. Sem ele nos morreremos.}
+{204}{}{Talvez, mas as partes estao perdidas nos esgotos abaixo da bacia hidrografica.
+ Com todos esses monstros la nos nao podemos pega-las de volta.}
+{205}{}{Lamento, eu desejo que eu pudesse ajudar.}
+{206}{}{Eu acharei as partes.}
 
 
 ############ Tell Me Abouts
 
 {1000}{}{Set}
-{1001}{}{Master}
-{1002}{}{Water}
-{1003}{}{Watershed}
+{1001}{}{Mestre}
+{1002}{}{Agua}
+{1003}{}{Bacia Hidrografica}
 {1004}{}{Hall}
 {1005}{}{Necropolis}
 {1006}{}{Chip}
 
-{1100}{}{He tries to control Necropolis, and has forced us underground.}
-{1101}{}{He has something to do with the Mutants. I don't know much more.}
-{1102}{}{We get our water from the place under the Watershed. It might have something to do with that.}
-{1103}{}{The broken water pump is there. Also, that's where the Mutants hand out the water from their new source.}
-{1104}{}{Set's so-called palace.}
-{1105}{}{City of the Dead, where we would like to live peacefully, if Set or the Mutants will let us.}
-{1106}{}{We get our water from the place under the Watershed. It might have something to do with that.}
+{1100}{}{Ele tenta controlar Necropolis, e nos forçou ao subsolo.}
+{1101}{}{Ele tem algo a ver com os Mutantes. Eu nao sei muito mais.}
+{1102}{}{Nos obtemos nossa agua do lugar debaixo do Bacia Hidrografica. Poderia ter algo a ver com isso.}
+{1103}{}{A bomba de agua quebrada esta la. Tambem, la e aonde os Mutantes entregam a agua da nova fonte deles.}
+{1104}{}{O assim chamado palacio do Set.}
+{1105}{}{Cidade dos Mortos, aonde nos gostariamos de viver pacificamente, se o Set ou os Mutantes nos deixassem.}
+{1106}{}{Nos obtemos nossa agua do lugar debaixo do Bacia Hidrografica. Poderia ter algo a ver com isso.}

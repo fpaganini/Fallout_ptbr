@@ -14,7 +14,7 @@
 {111}{}{O Doutor esta disponivel?}
 {112}{}{Hnnn!}
 {113}{}{De modo algum. O Doutor esta dormindo. Volte mais tarde.}
-{114}{}{I dunno, por que você não fala com ele você mesmo?}
+{114}{}{Eu não sei, por que você não fala com ele você mesmo?}
 {115}{}{Sim, OK. Saia.}
 {116}{}{Ei, isto e propriedade privada. Melhor você sair, agora.}
 {117}{}{Eat my dung.}

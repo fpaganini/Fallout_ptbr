@@ -1,23 +1,23 @@
-{100}{}{You see a Paladin.}
-{101}{}{Sorry, can't talk, Initiate.}
-{102}{}{Good day.}
-{103}{}{Did you know you could survive for weeks without water in a suit
- of powered armor?}
-{104}{}{Don't you just love a good fight?}
-{105}{}{I really like the new laser rifles, but the old laser pistols
- are my favorite.}
-{106}{}{The night perimeter patrols are very dangerous. I wouldn't wander
- too far at night if I were you.}
-{107}{}{Be careful, it's a deadly world out there.}
-{108}{}{I think my armor has a spot on it!}
-{109}{}{The Brotherhood is great. I haven't had any experience
- outside of it, but it couldn't possibly get better than this.}
-{110}{}{Good day, Initiate.}
-{111}{}{If you need anything, you should talk to Vree.}
-{112}{}{Vree's right over there if you need to talk to someone.}
-{113}{}{I've got to find time between the patrols and training to keep up
- with my studies. I think I'm getting a little rusty.}
-{114}{}{You've got to keep your mind and body in top condition at all times,
- Initiate.}
-{115}{}{Being a Paladin isn't just combat, my son.}
-{116}{}{Being a Paladin isn't just combat, my lady.}
+{100}{}{Você vê um paladino.}
+{101}{}{Desculpe, não posso falar, iniciar.}
+{102}{}{Bom dia.}
+{103}{}{Você sabia que poderia sobreviver por semanas sem água em um traje?
+ de armadura elétrica?}
+{104}{}{Você não adora uma boa luta?}
+{105}{}{Eu realmente gosto dos novos rifles a laser, mas as velhas pistolas a laser
+ são meus favoritos.}
+{106}{}{As patrulhas de perímetro noturno são muito perigosas. Eu não vagaria
+ muito longe à noite, se eu fosse você.}
+{107}{}{Tenha cuidado, é um mundo mortal lá fora.}
+{108}{}{Eu acho que minha armadura tem um ponto nela!}
+{109}{}{A Irmandade é ótima. Eu não tive nenhuma experiência
+ fora dele, mas não poderia ficar melhor do que isso.}
+{110}{}{Bom dia, inicie.}
+{111}{}{Se você precisar de alguma coisa, você deve falar com Vree.}
+{112}{}{Vree está bem ali se você precisar falar com alguém.}
+{113}{}{Eu tenho que encontrar tempo entre as patrulhas e treinar para acompanhar
+ com meus estudos. Eu acho que estou ficando um pouco enferrujado.}
+{114}{}{Você precisa manter sua mente e corpo sempre em boas condições,
+ Iniciar.}
+{115}{}{Ser um Paladino não é apenas combate, meu filho.}
+{116}{}{Ser um Paladino não é apenas combate, minha senhora.}

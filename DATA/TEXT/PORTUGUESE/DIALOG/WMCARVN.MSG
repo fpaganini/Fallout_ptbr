@@ -1,55 +1,55 @@
-{100}{}{Você vê um motorista de caravana.}
-{101}{}{Hi, if you're looking for a job on one of our caravans, you should talk to the Mercadora Mestra. She's in that building to the east.}
-{102}{}{Eu lamento, mas você precisa falar com a Mercadora Mestra.}
-{103}{}{Good, you got the okay. I knew it wouldn't be a problem. She's so swamped lately, ever since
- Daren Hightower started hiding in his office. Strange man. Nós saímos just about every five days. That's
- the 1º, 5º, 10º, 15º, 20º, and the 25º. We currently only go to Junktown and the LA Boneyard.}
-{104}{}{Então qual é o pagamento?}
+{100}{}{Voce ve um motorista de caravana.}
+{101}{}{Oi, se voce esta procurando por um trabalho em uma das nossas caravanas voce deveria falr com a Mercadora Mestra. Ela esta no predio a leste.}
+{102}{}{Eu lamento, mas voce precisa falar com a Mercadora Mestra.}
+{103}{}{Bom, voce conseguiu o ok. Eu sabia que nao seria um problema. Ela esta tao swamped ultimamente, desde
+ que o Daren Hightower comecou a se esconder no escritorio dele. Homem estranho. Nos saimos a cada 5 dias. No
+ 1º, 5º, 10º, 15º, 20º e o 25º. Nos atualmente so vamos ate Junktown e a Boneyard de Los Angeles.}
+{104}{}{Entao qual e o pagamento?}
 {105}{}{Um.}
-{106}{}{Our pay's 200 hubbucks. It's not that great, but we go out often and our routes aren't too dangerous
- and yes, like everyone else, that is for each way, but of course you don't have to go both ways. }
-{107}{}{Nós saímos hoje. Você está interessado?}
-{108}{}{Nós saímos no }
+{106}{}{Nosso pagamento e de 200 hubbucks. Nao e assim otimo mas nos saimos frequentemente e nossas rotas nao sao muito
+ perigosas e sim, como todos os outros isso e para cada caminho, mas claro voce nao tem que ir em ambos os caminhos. }
+{107}{}{Nos saimos hoje. Voce esta interessado?}
+{108}{}{Nos saimos no }
 {109}{}{Vazio}
 {110}{}{}
-{111}{}{. Você está interessado(a)?}
-{112}{}{Eu darei a você um trabalho mesmo embora… deixa pra lá. Você está interessado(a)?}
+{111}{}{. Voce esta interessado?}
+{112}{}{Eu darei a voce um trabalho mesmo embora… deixa pra la. Voce esta interessado?}
 {113}{}{Com certeza. }
-{114}{}{Não.}
+{114}{}{Nao.}
 {115}{}{Talvez.}
 {116}{}{Yaya.}
 {117}{}{Tae?}
-{118}{}{Oh, ok. Não é um problema. Apenas deixe-me saber se você mudar de idéia.}
-{119}{}{Eu desejo que você make up your mind.}
-{120}{}{Well, just stop by if you decide to work for us. That's the 1º, 5º, and so on. Bye.}
-{121}{}{I'm sorry, but I can't hire you unless you can communicate clearly with the rest of the crew.}
-{122}{}{Por favor volte quando você estiver se sentindo melhor.}
-{123}{}{Uh, are you all right?  I think you need to get something to eat, but don't go to Bob's.}
+{118}{}{Oh, ok. Nao e um problema. Apenas deixe-me saber se voce mudar de ideia.}
+{119}{}{Eu desejo que voce decida.}
+{120}{}{Bem, apenas passe aqui se voce decidir trabalhar pra nos. Isso e no 1º, 5º e assim por diante. Tchau.}
+{121}{}{Eu lamento, mas eu nao posso contratar voce a menos que voce consiga se comunicar claramente com o resto da turma.}
+{122}{}{Por favor volte quando voce estiver se sentindo melhor.}
+{123}{}{Uh, voce estao todos bem? Eu acho que voce precisa pegar algo pra comer, mas nao va ao Bob's.}
 {124}{}{Eu disse suma!}
-{125}{}{Eu estou bastante desapontado com você… roubando! Agora, por que você fez isso?}
-{126}{}{Porque eu sou uma mariposa verde má do espaço sideral e eu sou… ‘mau(á)'!}
-{127}{}{Eu não queria, mas eu estou faminto(a) e eu tenho crianças para alimentar.}
-{128}{}{Eu carve seu coração pra fora com um garfo! }
+{125}{}{Eu estou bastante desapontado com voce… roubando! Agora, por que voce fez isso?}
+{126}{}{Porque eu sou uma mariposa verde malvada do espaco sideral e eu sou… ‘mau'!}
+{127}{}{Eu nao queria, mas eu estou faminto e eu tenho criancas para alimentar.}
+{128}{}{Eu carve seu coracao pra fora com um garfo! }
 {129}{}{(Renda-se)}
 {130}{}{(Ataque)}
-{131}{}{I tried to help you, but I guess some people are beyond help. Sorry, to say this but we're going to
- have to do this the violent way.}
-{132}{}{I understand, but that doesn't justify it. I'm still going to have to ask you to leave. We can't
- hire people who can't control their own temptations.}
-{133}{}{Você realmente espera que eu caia nessa bosta?? Guardas!}
-{134}{}{I'm sorry, but sometimes a little cell time can heal a person. Guardas!  Try ‘not' to kill
- her. Will you surrender to my guardas?}
-{135}{}{Eu verei você no inferno!}
+{131}{}{Eu tentei ajudar voce, mas eu creio que algumas pessoas estao alem da ajuda. Lamento dizer isto mas nos vamos
+ ter que fazer isto do jeito violento.}
+{132}{}{Eu entendo, mas isso nao justifica. Eu ainda vou ter que pedir pra voce sair. Nos nao podemos
+ contratar pessoas que nao conseguem controlar suas proprias tentacoes.}
+{133}{}{Voce realmente espera que eu caia nessa bosta?? Guardas!}
+{134}{}{Eu lamento, mas as vezes um pouco de tempo numa cela pode curar uma pessoa. Guardas! Tentem nao matar
+ ela. Voce se rendera aos meus guardas?}
+{135}{}{Eu verei voce no inferno!}
 {136}{}{Sim. Eu lamento.}
-{137}{}{O que? Você vai entrar em outra luta?}
-{138}{}{I'm sorry but you must leave immediately or I will be forced to call the police!}
-{139}{}{Guardas! Polícia!}
-{140}{}{Eu acho que você deveria sair..}
-{141}{}{Lamento, mas não me é permitido contratar você.}
-{142}{}{Por favor, você está tornando isto difícil pra mim.}
+{137}{}{O que? Voce vai entrar em outra luta?}
+{138}{}{Eu lamento mas voce deve sair imediatamente ou eu serei forcado a chamar a policia!}
+{139}{}{Guardas! Policia!}
+{140}{}{Eu acho que voce deveria sair..}
+{141}{}{Lamento, mas nao me e permitido contratar voce.}
+{142}{}{Por favor, voce esta tornando isto dificil pra mim.}
 {143}{}{Por favor saia.}
-{144}{}{Intrigante, mas você não é meu tipo.}
-{145}{}{Outstanding! The pay will be 200 hubbucks. Which route would you prefer?}
+{144}{}{Intrigante, mas voce nao e meu tipo.}
+{145}{}{Outstanding! O pagamento sera de 200 hubbucks. Qual rota voce preferiria?}
 {146}{}{Fabuloso. Por favor volte no }
 {147}{}{1º}
 {148}{}{5º}
@@ -57,66 +57,66 @@
 {150}{}{15º}
 {151}{}{20º}
 {152}{}{25º}
-{153}{}{. Você sairá então. Como sempre pagarei 200 hubbucks.}
+{153}{}{. Voce saira entao. Como sempre, pagarei 200 hubbucks.}
 {154}{}{Ok.}
-{155}{}{Lamento, não posso esperar.}
-{156}{}{It's a tragedy. We lost the whole caravana, but you survived?  That shouldn't have happened. I don't
- know what happened out there, but we can't hire you anymore. I'm sorry.}
+{155}{}{Lamento, nao posso esperar.}
+{156}{}{E uma tragedia. Nos perdemos a caravana inteira, mas voce sobreviveu? Isso nao deveria ter acontecido. Eu nao
+ sei o que aconteceu la fora mas eu nao posso contratar mais voce. Eu lamento.}
 {157}{}{Junktown}
 {158}{}{Boneyard de Los Angeles }
-{159}{}{Um, não agora. Talvez outra hora.}
+{159}{}{Um, nao agora. Talvez outra hora.}
 {160}{}{Outstanding, Eu pegarei o resto do grupo.}
-{161}{}{Ótimo.}
-{162}{}{Off você vai. Boa sorte!}
-{163}{}{Tente evitar problemas, não vá procurando por eles.}
-{164}{}{Tenha cuidado, eu não gosto dos olhares da Boneyard. It's creepy.}
-{165}{}{That's good. Those black walkways are really strange, but they're great to travel on.}
-{166}{}{Eu acho que há gangues lá embaixo. Eu teria muito cuidado com quem você fala.}
-{167}{}{Ótimo. Junktown é um lugar decente.}
-{168}{}{Oh, say 'hi' to that… Kill.. again?  I forget his name, but he's a decent fellow. I wonder how
- he's doing.}
-{169}{}{Interesting place. I hear they have some evil doctor that animates the dead, or something.}
-{170}{}{Why on earth did you leave that last caravana?  Nothing terrible happened to it, but something could
- have.}
+{161}{}{Otimo.}
+{162}{}{Off voce vai. Boa sorte!}
+{163}{}{Tente evitar problemas, nao va procurando por eles.}
+{164}{}{Tenha cuidado, eu nao gosto dos olhares da Boneyard. It's creepy.}
+{165}{}{Isso e bom. Aquelas passagens negras sao realmente estranhas, mas elas sao otimas pra viajar.}
+{166}{}{Eu acho que ha gangues la embaixo. Eu teria muito cuidado com quem voce fala.}
+{167}{}{Otimo. Junktown e um lugar decente.}
+{168}{}{Oh, diga 'oi' pra isso… Matar.. de novo? Eu esqueci o nome dele, mas ele e um camarada decente. Eu imagino como
+ ele esta indo.}
+{169}{}{Lugar interessante. Eu ouvi que eles tem algum doutor maligno que anima os mortos ou algo assim.}
+{170}{}{Por que na terra voce deixou aquela ultima caravana? Nada terrivel aconteceu a ela, mas algo poderia
+ ter acontecido.}
 {171}{}{Eu posso ter outra chance?}
 {172}{}{Nada.}
-{173}{}{Eu não ligo uma bosta!}
+{173}{}{Eu nao ligo uma bosta!}
 {174}{}{Ig wa neeka rooola?}
 {175}{}{Lig.}
-{176}{}{I'm sorry, you've failed me again. You don't seem to be very responsible, and that isn't a very good
- combination for our line of work.}
+{176}{}{Eu lamento, voce falhou comigo de novo. Voce nao parece ser muito responsavel, e isso nao e uma
+ combinacao muito boa pra nossa linha de trabalho.}
 {177}{}{Por que eu deveria?}
-{178}{}{Você não deveria.}
-{179}{}{Porque eu vou pôr um buraco através da sua cabeça se você não o fizer.}
+{178}{}{Voce nao deveria.}
+{179}{}{Porque eu vou por um buraco atraves da sua cabeca se voce nao o fizer.}
 {180}{}{Eu tenho coisas melhores pra fazer do que andar around some caravana burra.}
-{181}{}{Eu não sabia que não era permitido a mim sair. Tudo parecia ok.}
-{182}{}{Entendo… você estava nas drogas. Bem, viva essa vida se você a deseja.}
-{183}{}{Eu lamento que você se sinta desse modo.}
-{184}{}{I'm surprised you've never done a caravana before, but I guess no harm came of it… so, sure.
- I'll give you one more chance.}
-{185}{}{Você fez um bom trabalho! Você gostaria de outra caravana?}
+{181}{}{Eu nao sabia que nao era permitido a mim sair. Tudo parecia ok.}
+{182}{}{Entendo… voce estava nas drogas. Bem, viva essa vida se voce a deseja.}
+{183}{}{Eu lamento que voce se sinta desse modo.}
+{184}{}{Eu estou surpreso que voce nunca fez uma caravana antes, mas eu creio que nenhum dano veio disso… entao, com certeza.
+ Eu darei mais uma chance pra voce.}
+{185}{}{Voce fez um bom trabalho! Voce gostaria de outra caravana?}
 {186}{}{Com certeza.}
-{187}{}{Não.}
+{187}{}{Nao.}
 {188}{}{Talvez.}
 {189}{}{Eeek!}
 {190}{}{Lub.}
-{191}{}{Pronto(a) pra ir? Nós estamos saindo hoje.}
+{191}{}{Pronto pra ir? Nos estamos saindo hoje.}
 {192}{}{Sim.}
-{193}{}{Não!}
+{193}{}{Nao!}
 {194}{}{Ack!}
-{195}{}{Otherwise I'll just give it to someone else, don't worry about it. You're not obligated…
-until you leave with the caravana, right?}
-{196}{}{Você chegou um pouco cedo. A próxima corrida da caravana não é até }
+{195}{}{De outro modo eu o darei pra alguem mais, nao se preocupe com isso. Voce nao e obrigado…
+ a menos que voce saia com a caravana, certo?}
+{196}{}{Voce chegou um pouco cedo. A proxima corrida da caravana nao e ate }
 {197}{}{1º}
 {198}{}{5º}
 {199}{}{10º}
 {200}{}{15º}
 {201}{}{20º}
 {202}{}{25º}
-{203}{}{. Volte então se você ainda gostar do trabalho. }
+{203}{}{. Volte entao se voce ainda gostar do trabalho. }
 {204}{}{Janeiro }
 {205}{}{Fevereiro }
-{206}{}{Março }
+{206}{}{Marco }
 {207}{}{Abril }
 {208}{}{Maio }
 {209}{}{Junho }

@@ -1,154 +1,154 @@
-{100}{}{Você see Razlo.}
-{101}{}{Eu'm sorry but I can't help you.}
-{102}{}{Can't or won't?}
-{103}{}{Razlo looks at you for a moment, and then turns away.}
-{104}{}{Você look distraught. Are you in need of assistance?}
-{105}{}{Tandi has been kidnapped.}
+{100}{}{Voce ve o Razlo.}
+{101}{}{Eu lamento mas eu nao posso ajudar voce.}
+{102}{}{nao pode ou nao ira?}
+{103}{}{Razlo olha pra voce por um momento e entao se vira de costas.}
+{104}{}{Voce parece distraught. Voce esta com necessidade de assistencia?}
+{105}{}{Tandi foi sequestrada.}
 {106}{}{Hng, Tanny boo.}
-{107}{}{Tandi is gone? That is a terrible thing. I hope they find her.}
-{108}{}{Hmm, Tandi is gone? I find this hard to believe, but maybe
- she ran away with Seth. I know that they have been eyeing
- each other lately. Aradesh was always a little bit of a
- prude, perhaps it was too much for her finally.}
-{109}{}{Hmm, I didn't think of that.}
-{110}{}{Eu don't think so, I think that she was kidnapped.}
-{111}{}{Perhaps, I'll go talk to some other people.}
-{112}{}{How awful! If that is the case, I hope she is not hurt.
- Who is looking for her?}
-{113}{}{Almost everyone.}
-{114}{}{Many people, including myself.}
-{115}{}{Eu hope she is found before it is too late.}
-{116}{}{If she is hurt, it could be bad. Here, take these . . .
- I hope that you won't need them.}
-{117}{}{Eu hope Tandi gets back soon. Aradesh must be feeling
- terrible right now.}
-{118}{}{Eu heard that you helped save Tandi. Congratulations
- and thank you. Anytime you need healing, come here.}
-{119}{}{My grief knows no end. Tandi, the only child of my
- good friend, is gone. I cannot work right now.}
-{120}{}{Eu'm Razlo. Can I help you?}
-{121}{}{Not right now, but it was nice meeting you.}
-{122}{}{Eu need healing.}
+{107}{}{Tandi se foi? Isso e uma coisa terrivel. Eu espero que eles achem ela.}
+{108}{}{Hmm, Tandi se foi? Eu acho isto dificil de acreditar mas talvez
+ ela fugiu com o Seth. Eu sei que eles estavam vendo um ao outro
+ ultimamente. O Aradesh sempre foi um pouco puritano, talvez
+ finalmente tenha sido demais para ela.}
+{109}{}{Hmm, eu nao pensei nisso.}
+{110}{}{Eu acho que nao, eu acho que ela foi sequestrada.}
+{111}{}{Talvez, eu irei falar com outras pessoas.}
+{112}{}{Que terrivel! Se esse e o caso eu espero que ela nao esteja ferida.
+ Quem esta procurando por ela?}
+{113}{}{Quase todo mundo.}
+{114}{}{Muitas pessoas, incluindo eu mesmo.}
+{115}{}{Eu espero que ela seja achada antes que seja tarde demais.}
+{116}{}{Se ela esta ferida poderia ser ruim. Aqui, leve estes . . .
+ Eu torço que voce nao precisara deles.}
+{117}{}{Eu espero que a Tandi volte em breve. O Aradesh deve estar se
+ sentindo terrivel agora.}
+{118}{}{Eu ouvi que voce ajudou a salvar a Tandi. Parabens
+ e obrigado. A qualquer hora que voce precisar de cura venha aqui.}
+{119}{}{Minha grief nao tem fim. Tandi, a unica criança do meu
+ bom amigo se foi. Eu nao posso trabalhar agora.}
+{120}{}{Eu sou o Razlo. Eu posso ajudar voce?}
+{121}{}{Agora nao mas foi bom encontrar voce.}
+{122}{}{Eu preciso de cura.}
 {123}{}{Hnngh!}
-{124}{}{Hmmm. I think I've seen Brahmin with more brain cells
- then you. Well, let's see if you're wounded.}
-{125}{}{Well, you seem fine to me. Perhaps later, then?}
-{126}{}{Let's see here.}
-{127}{}{Eu have already given you as much as I can. Good luck.}
-{128}{}{Hmmm, I don't like your looks. I hope that you have come
- for business, and will be moving on shortly . . .}
-{129}{}{No need to get defensive, I'm just looking around}
-{130}{}{Help, I need some healing.}
-{131}{}{Olá, again. How can I be of service?}
-{132}{}{Olá again. Just stopping by.}
-{133}{}{Eu need healing.}
+{124}{}{Hmmm. Eu acho que eu ja vi Brahmin com mais celulas cerebrais
+ do que voce. Bem, vamos ver se voce esta ferido.}
+{125}{}{Bem, voce parece bem pra mim. Talvez mais tarde entao?}
+{126}{}{Vamos ver aqui.}
+{127}{}{Eu ja dei a voce tanto quanto eu posso. Boa sorte.}
+{128}{}{Hmmm, eu nao gosto da sua aparencia. Eu espero que voce tenha vindo
+ para negocios e que saia rapidamente...}
+{129}{}{Nao ha necessidade de ficar na defensiva, eu so estou olhando.}
+{130}{}{Me ajude! Eu preciso de um pouco de cura.}
+{131}{}{Ola de novo. Como eu posso ser de ajuda?}
+{132}{}{Ola de novo. So passando.}
+{133}{}{Eu preciso de cura.}
 {134}{}{Ug!}
-{135}{}{It was nice seeing you again. Have a good day.}
-{136}{}{Of course. It's you again. Now what?}
-{137}{}{Nothing.}
-{138}{}{Eu need healing.}
+{135}{}{Foi bom ver voce de novo. Tenha um bom dia.}
+{136}{}{Claro. E voce de novo. Agora o que?}
+{137}{}{Nada.}
+{138}{}{Eu preciso de cura.}
 {139}{}{Luki!}
-{140}{}{Of course you do.}
-{141}{}{Can I help you?}
-{142}{}{No.}
-{143}{}{Eu need healing.}
-{144}{}{Eu've been poisoned!}
-{145}{}{What do you know about Radscorpions?}
-{146}{}{Eu have a sample of the Radscorpion poison, can you do
- something with it?}
+{140}{}{Claro que voce precisa.}
+{141}{}{Eu posso ajudar voce?}
+{142}{}{Nao.}
+{143}{}{Eu preciso de cura.}
+{144}{}{Eu fui envenenado!}
+{145}{}{O que voce sabe sobre os Radscorpions?}
+{146}{}{Eu tenho uma amostra do veneno do Radscorpion, voce
+ consegue fazer alguma coisa com ela?}
 {147}{}{Luki!}
-{148}{}{Sorry, I can't cure any poisons. I don't have the
- proper ingredients to make a decent anti-venom.}
-{149}{}{Here, let's see.}
-{150}{}{Yep, just as I thought. Let me get the cure.}
-{151}{}{Você seem fine, now. Be careful in the future.}
-{152}{}{Stop by again, but stay healthy next time.}
-{153}{}{Not too much. They seem to be extremely large versions
- of the north American Emperor scorpion. Contrary to my
- medical knowledge, their poison has grown more potent,
- not diluted, as I would expect. Seth has been hunting them, which helps
- some of my tests.}
-{154}{}{And how such a large
- creature can even be possible by natural evolution,
- or even radiation induced mutation is beyond me.}
-{155}{}{Thanks.}
-{156}{}{Você seem well educated. What are you doing here?}
-{157}{}{Anything else?}
-{158}{}{They seem to be sensitive to light. Nocturnal. If I
- could get a sample of their poison, especially the
- venom production sac located in their tail, I could
- create an anti-venom.}
-{159}{}{Thanks.}
-{160}{}{Doc Morbid in Junktown taught me some. And just
- because we live in stone huts, does not mean we are
- less intelligent or educated. Have a nice day.}
-{161}{}{Let me see the sac! Yes, I can do something with
- this.}
-{162}{}{Here, take this as a free sample. It seems to work
- well against radscorpion stings, of course, but it
- shows much potential as a general anti-venom and
- poison cure.}
-{163}{}{It's late. Come back in the morning.}
-{164}{}{But I need your help.}
-{165}{}{Eu'm trying to kill some radscorpions. Do you have anything
- to help?}
-{166}{}{Eu'm looking for Tandi. Can you help?}
+{148}{}{Lamento, eu nao posso curar quaisquer envenenamentos. Eu
+ nao tenho os ingredientes apropriados pra fazer um antidoto.}
+{149}{}{Aqui, vamos ver.}
+{150}{}{Sim, como eu pensava. Deixe-me pegar a cura.}
+{151}{}{Voce parece bem agora. Seja cuidadoso no futuro.}
+{152}{}{Passe de novo mas fique saudavel da proxima vez.}
+{153}{}{Nao muito. Eles parecem ser versoes extremamente maiores
+ do escorpiao imperador norte-americano. Ao contrario do meu
+ conhecimento medico o veneno deles ficou mais potente e nao
+ diluido como eu esperava. O Seth tem caçado eles o que
+ ajuda alguns dos meus testes.}
+{154}{}{E como uma criatura tao grande pode ser possivel
+ pela evoluçao natural ou ate mesmo pela mutaçao
+ induzida pela radiaçao esta alem de mim.}
+{155}{}{Obrigado.}
+{156}{}{Voce parece bem educado. O que voce esta fazendo aqui?}
+{157}{}{Algo mais?}
+{158}{}{Eles parecem ser sensiveis a luz. Noturnos. Se eu
+ pudesse obter uma amostra do veneno deles, especialmente
+ do saco de produçao do veneno localizado na cauda deles,
+ eu poderia criar um antidoto.}
+{159}{}{Obrigado.}
+{160}{}{O Dr. Morbid em Junktown me ensinou um pouco. E so
+ porque vivemos em cabanas de pedra nao quer dizer que nos
+ somos menos inteligentes ou educados. Tenha um bom dia.}
+{161}{}{Deixe-me ver o saco! Sim, eu posso fazer algo
+ com isto.}
+{162}{}{Aqui, leve isto como uma amostra gratis. Parece
+ fucionar bem contra as ferroadas dos radscorpions,
+ claro, mas ele mostra muito potencial como um
+ antidoto geral e cura do veneno.}
+{163}{}{Esta tarde. Volte de manha.}
+{164}{}{Mas eu preciso da sua ajuda.}
+{165}{}{Eu estou tentando matar alguns Radscorpions. Voce
+ tem algo pra ajudar?}
+{166}{}{Eu estou procurando a Tandi. Voce pode ajudar?}
 {167}{}{Hnn.}
-{168}{}{Hnn?! What is that? Great, I get awakened by the great
- mumbling beast of the north. Come back in the morning.}
-{169}{}{Are you hurt?}
-{170}{}{Yes.}
-{171}{}{No.}
-{172}{}{Você will be, if you keep me from my sleep. Now come
- back in the morning.}
-{173}{}{Great Brahmin! Why didn't you say so?}
-{174}{}{Uhhh. I did . . .}
-{175}{}{Você're barely hurt. I suggest a good nights sleep and
- some rest; you will heal naturally over time.}
-{176}{}{Você're barely hurt, you wimp. Come back in the morning.}
-{177}{}{Ouch, that does look a little painful. That will be $25.}
-{178}{}{OK, here you go.}
-{179}{}{Eu don't have enough money.}
-{180}{}{Oh Great Brahmin! That is very, very serious. It will
- cost $50.}
-{181}{}{OK, here you go.}
-{182}{}{Eu don't have enough money.}
-{183}{}{How can you still be walking?! This looks extremely
- serious. We'll need some special prayers for this one
- and a lot of luck. Not to mention $100.}
-{184}{}{OK, here you go.}
-{185}{}{Eu don't have enough money.}
-{186}{}{Você don't have enough money! I'm sorry, but my work ethic
- doesn't permit me to heal for free, you know. Come back
- when you have enough money.}
-{187}{}{Can you take something in trade?}
-{188}{}{Thanks for nothing.}
-{189}{}{Sorry, not today.}
-{190}{}{Why would I be able to help you kill radscorpions?
- I'm a doctor, not a warrior. For that you should see
- Aradesh, or even Tandi, or her boyfriend, Seth. Leave
- me.}
-{191}{}{Eu need something for their poison.}
-{192}{}{If I had a sample of their poison, I could create
- a cure.}
-{194}{}{Eu don't think so, I think that she was kidnapped.}
-{195}{}{Perhaps, I'll go talk to some other people.}
-{196}{}{This will take a little bit of time. Come, relax in
- the back. You might have a slight headache from the
- junja juice, as well. Come, come . . .}
-{197}{}{Eu have already given you as much as I can. Good luck.}
-{300}{}{Você gain 250 experience points for helping make the antidote.}
-{301}{}{K, me giv?}
+{168}{}{Hnn?! O que e isso? Otimo, eu sou acordado pela grande
+ besta resmungante do norte. Volte de manha.}
+{169}{}{Voce esta ferido?}
+{170}{}{Sim.}
+{171}{}{Nao.}
+{172}{}{Voce sera se voce me impedir de dormir. Agora
+ volte de manha.}
+{173}{}{Grande Brahmin! Por que voce nao disse?}
+{174}{}{Uhhh. Eu fiz...}
+{175}{}{Voce mal esta ferido. Eu sugiro uma boa noite de sono e
+ um pouco de descanso; voce se curara naturalmente com o tempo.}
+{176}{}{Voce mal esta ferido seu fracote. Volte de manha.}
+{177}{}{Ouch, isso parece um pouco doloroso. Isso custara $25.}
+{178}{}{Ok, aqui vai voce.}
+{179}{}{Eu nao tenho dinheiro o bastante.}
+{180}{}{Oh Grande Brahmin! Isso e muito, muito serio.
+ Custara $50.}
+{181}{}{Ok, aqui vai.}
+{182}{}{Eu nao tenho dinheiro o bastante.}
+{183}{}{Como voce ainda pode estar caminhando?! Isto parece
+ extremamente serio. Nos precisaremos de algumas preces
+ especiais pra esta e muita sorte, sem mencionar $100.}
+{184}{}{Ok, aqui vai.}
+{185}{}{Eu nao tenho dinheiro o bastante.}
+{186}{}{Voce nao tenho dinheiro o bastante! Eu lamento mas
+ minha etica de trabalho nao me permite cura de graça voce
+ sabe. Volte quando voce tiver dinheiro o bastante.}
+{187}{}{Voce pode pegar algo em troca?}
+{188}{}{Obrigado por nada.}
+{189}{}{Lamento, hoje nao.}
+{190}{}{Por que eu seria capaz de ajudar voce a matar os Radscorpions?
+ Eu sou um doutor, nao um guerreiro. Pra isso voce deveria ver o
+ Aradesh ou ate mesmo a Tandi, ou o namorado dela Seth. Me
+ deixe.}
+{191}{}{Eu preciso de algo pro veneno deles.}
+{192}{}{Se eu tivesse uma amostra do veneno deles,
+ eu poderia criar uma cura.}
+{194}{}{Eu acho que nao, eu acho que ela foi sequestrada.}
+{195}{}{Talvez, eu irei falar com outras pessoas.}
+{196}{}{Isto levara um pouco de tempo. Venha, relaxe nas
+ costa. Voce pode ter uma leve dor de cabeça do suco
+ junja tambem. Vem, vem...}
+{197}{}{Eu ja dei a voce tanto quanto eu posso. Boa sorte.}
+{300}{}{Voce ganha 250 pontos de experiencia por ajudar a fazer o antidoto.}
+{301}{}{Ok, mim dar?}
 {302}{}{Nunga.}
-{303}{}{Scorpin, Scorpin?}
-{304}{}{My giv dis?}
-{305}{}{How about a Radscorpion tail instead?}
-{306}{}{Let me see the sac! Yes, I can do something with
- this, as well as heal you for this great gift.}
-{307}{}{This will take a little bit of time. Come, relax in
- the back, while I work with the sac. You might have a slight headache from the
- junja juice, as well. Come, come . . .}
-{308}{}{Please do not take my things.}
+{303}{}{Escorpi, Escorpi?}
+{304}{}{Meu dar isto?}
+{305}{}{Que tal uma cauda de Radscorption ao inves disto?}
+{306}{}{Me deixa ver o saco! Sim, eu posso fazer algo com
+ isto assim como curar voce por este otimo presente.}
+{307}{}{Isto levara um pouco de tempo. Venha, relaxe la atras
+ enquanto eu trabalho com a bolsa. Voce pode ter uma leve dor
+ de cabeça do suco junja tambem. Vem, vem...}
+{308}{}{Por favor nao pegue minhas coisas.}
 
 
 {1000}{}{Khans}
@@ -156,28 +156,28 @@
 {1002}{}{Junktown}
 {1003}{}{Shady}
 {1004}{}{Hub}
-{1005}{}{Water}
+{1005}{}{Agua}
 {1006}{}{Tandi}
 {1007}{}{Aradesh}
 {1008}{}{Seth}
 {1009}{}{Razlo}
-{1010}{}{Sands}
+{1010}{}{Areias}
 
-{1100}{}{They are a lawless group who pretend to be some people from the
- far past.}
-{1101}{}{Ele leads the Khans.  He is one of the most dangerous men that
- has ever set eyes on Shady Sands.  He leads the raider clans with a
- heavy fist.}
-{1102}{}{It's 4-6 days to the southwest.  Good trading occasionally, but
- more often than not, they try to stiff us.}
-{1103}{}{Você're standing in it.}
-{1104}{}{Much farther to the south than Junktown.  The Hub is the largest
- city I've heard about.  Must be a thousand people there, at least.}
-{1105}{}{Sorry, I can't help you.}
-{1106}{}{She is the daughter of Aradesh.  Some day she could lead us, but
- she must learn to temper her ways.}
-{1107}{}{Ele is the leader of our community, and a true hero.  You can always
- find him at work in the communal hall.}
-{1108}{}{Ele works with Aradesh to make sure we are safe.}
-{1109}{}{That is me. I am the doctor for Shady Sands.}
-{1110}{}{Você're standing in it.}
+{1100}{}{Eles sao um grupo sem lei que fingem ser algumas pessoas
+ do passado distante.}
+{1101}{}{Ele lidera os Khans. Ele e um dos homens mais perigosos que
+ ja puseram os olhos em Shady Sands. Ele lidera os clans dos
+ saqueadores com um pulso forte.}
+{1102}{}{Sao 4-6 dias para o sudoeste. Bom comercio ocasionalmente mas
+ mais frequentemente do que nao eles tentam nos enganar.}
+{1103}{}{Voce esta de pe nela.}
+{1104}{}{Muito mais longe ao sul do que Junktown. O Hub e a maior cidade
+ do qual eu ouvi. Deve haver umas mil pessoas la pelo menos.}
+{1105}{}{Lamento, eu nao posso ajudar voce.}
+{1106}{}{Ela e a filha do Aradesh. Alguns dizem que ela poderia nos liderar
+ mas ela deve aprender a controlar seu temperamento.}
+{1107}{}{Ele e o lider da nossa comunidade e um verdadeiro heroi. Voce
+ consegue sempre acha-lo no trabalho no salao da comunidade.}
+{1108}{}{Ele trabalha com o Aradesh pra ter certeza que nos estamos seguros.}
+{1109}{}{Esse sou eu. Eu sou o doutor de Shady Sands.}
+{1110}{}{Voce esta de pe nela.}

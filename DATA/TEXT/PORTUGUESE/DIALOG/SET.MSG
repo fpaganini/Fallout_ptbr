@@ -36,7 +36,7 @@
  Volte para trás. . . Hmm. Se eu disser aos meus ghouls para segurar
  fora de você, os muties podem ouvir e saber. Então eu te digo,
  é hora do favor. Eu continuo calado. Consegui?}
-{125} {} {Entendido}.}
+{125} {} {Entendido}
 {126} {} {É os ghouls?}
 {127} {} {Fantasmas, certo!}
 {128} {} {Huh?}
@@ -61,8 +61,8 @@
 {142} {} {Parece um pouco fora do meu alcance. Eu estou fora disso.}
 {143} {Set12} {Os Mutantes no galpão de água precisam de sonecas de sujeira. Faz
  minha sombra cresce. Você corta e recompensa corre para
- você. Info, também.
-{144} {} {Feito}.
+ você. Info, também.}
+{144} {} {Feito}
 {145} {} {Demasiado dificuldade. Vejo você por aí.}
 {146} {Set13} {Você quer empregar, andarilho? Me mostre que você pode brigar.
  Derrube os mutantes no galpão de água. Mostre-lhes
@@ -74,7 +74,7 @@
 {151} {} {Yeah. Acha difícil usar fio dental?}
 {152} {Set15} {Tão engraçado meu rosto dói. Tente de novo e minhas elites
  suco você. Consegui?}
-{153} {} {Got it}.}
+{153} {} {Got it}
 {154} {} {Eu ainda estou um pouco incerto. . .}
 {155} {} {Seu rosto dói bem.}
 {156} {Set16} {Meu nome é definido. Seu é um mundo ferido. Faça um acordo, eu
@@ -172,7 +172,7 @@
 {218} {Set39} {viável. Siga Garret para gratidão, depois caminhe
  outro caminho.}
 {219} {Set40} {Razões para agressões? Ande e meu vai ficar.
- Fale e meu vai se mover.
+ Fale e meu vai se mover.}
 {220} {} {Lamento, má tentativa de humor.}
 {221} {} {'Sobreo o tempo. Ficando entediado esperando seu rosto clarear.}
 {222} {Set41} {Ahh, o normie do pensador. Você matou aqueles no
@@ -200,10 +200,10 @@
  saco de sangue tolo.}
 {239} {} {Como é o seu próprio saco?}
 {240} {} {Entendido.}
-{241} {} {Morda-me}}
+{241} {} {Morda-me}
 {242} {Set45a} {Com prazer. . .}
 {243} {Set46} {Sem blefes, sem torção. O Mestre não tremula
- mim. Andar. Sua bem-vinda tem.
+ mim. Andar. Sua bem-vinda tem.}
 {244} {} {Obrigado pelo seu tempo.}
 {245} {} {Pense em fumar você vai trazer de volta o meu bem-vindo?
  Funciona para mim.}
@@ -304,7 +304,7 @@
 #
 {970}{Set01}{Tempos simples. Estou pronto. Eu estou no comando. sacou?}
 
-980} {Set206} {Pensamentos não estão em minha posse}
+{980} {Set206} {Pensamentos não estão em minha posse}
 {981} {Set310} {Abaixo dos meus pensamentos.}
 {982} {Set311} {Não nos meus pensamentos.}
 

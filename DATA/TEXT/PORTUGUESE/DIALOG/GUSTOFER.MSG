@@ -47,7 +47,7 @@
 {136}{}{Hmm. Obrigado.}
 {137}{}{Ei, o que você esta fazendo?}
 {138}{}{Uh, nada.}
-{139}{}{Você quer comecar algo, perdedor?}
+{139}{}{Você quer começar algo, perdedor?}
 {140}{}{Por favor desista.}
 {141}{}{Uh, não. Deixa pra lá. Esqueça que eu disse alguma coisa.}
 {142}{}{Bem, bem, parece que você e um vencedor! Aqui estão suas tampinhas.}
@@ -56,7 +56,7 @@
 {145}{}{Com certeza, mas que inferno.}
 {146}{}{Nah, Eu tenho coisas pra fazer. Eu voltarei depois.}
 {147}{}{Certo, mas se você perder a luta, você forfeit sua aposta!}
-{148}{}{Deixe a luta comecar!}
+{148}{}{Deixe a luta começar!}
 {149}{}{Por favr não me pertube enquanto a luta esta em progresso.}
 
 #

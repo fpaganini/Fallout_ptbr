@@ -1,6 +1,6 @@
-{100}{}{Você vê um bandido}
+{100}{}{Você vê um bandido.}
 {101}{}{Ei, você não é o bastardo que tem nos ferrado? Cara, você veio ao lugar errado!}
-{102}{}{Ei, você não é a vadia que está nos atrapalhando? Você está no lugar errado, senhora, e isso vai te custar!
+{102}{}{Ei, você não é a vadia que está nos atrapalhando? Você está no lugar errado, senhora, e isso vai te custar!}
 {103}{}{Eu estou do seu lado agora. Então saia do meu caminho!}
 {104}{}{Você está enganado. Todos parecem iguais nos Desperdícios.}
 {105}{}{Lugar errado? Parece certo para mim!}
@@ -87,7 +87,7 @@
 {183}{}{Bullshit? Me diga que você está brincando! Deve ser verdade! [face reta]}
 {184}{}{Se for besteira, por que você está aqui?}
 {185}{}{Contanto que eu tenha a chance de matar alguma coisa.}
-{186}{}{Eu não sei! A única pessoa que o viu é Morpheus, e ele está em sua torre. Cara, você está me assustando!
+{186}{}{Eu não sei! A única pessoa que o viu é Morpheus, e ele está em sua torre. Cara, você está me assustando!}
 {187}{}{Eu tenho esse efeito às vezes. Você continua cooperando e não terá motivos para ter medo.}
 {188}{}{Me diga mais sobre Morpheus!}
 {189}{}{Quem mais é importante nessa articulação?}
@@ -95,7 +95,7 @@
 {191}{}{Você precisa ser mais social. Você sabe onde eles escondem a bebida?}
 {192}{}{Muito ruim. Eu estava esperando que você stiffs teria algumas bolas.}
 {193}{}{É eu pensei que era louco! É melhor você sair daqui antes que alguém te mate!}
-{194}{}{Por favor não me mata! Eu vou te dizer o que você quer saber.
+{194}{}{Por favor não me mata! Eu vou te dizer o que você quer saber.}
 {195}{}{O que está acontecendo por aqui?}
 {196}{}{Onde está o mestre?}
 {197}{}{Quem está no comando aqui?}
@@ -121,7 +121,7 @@
 {217}{}{No booze? Merda!}
 {218}{}{Se eu não beber bastante, eu começo a beber sangue.}
 {219}{}{Isso é Morpheus. Nosso líder. Ele está na torre, eu acho.}
-{220}{}{Líder? O que ele está levando você para?
+{220}{}{Líder? O que ele está levando você para?}
 {221}{}{Vamos lá, cara. Isso não me diz nada. Compartilhe um pouco da sujeira!}
 {222}{}{Quem mais é importante nessa articulação?}
 {223}{}{Você foi útil. Obrigado amigo.}
@@ -152,7 +152,7 @@
 {245}{}{Porque eu faço bem o meu trabalho. Eu matei três scum Apocalypse no último mês. Ninguém me dá merda. Você quer?}
 {246}{}{Estou impressionado. Um cara como você deve conhecer a história real sobre o que está acontecendo por aqui ..}
 {247}{}{Apocalipse, eh? Eles deveriam ser duros?}
-{248}{}{três} Isso é tudo? Você deve ver meu bodycount!}
+{248}{}{três}{ Isso é tudo? Você deve ver meu bodycount!}
 {249}{}{Nope.}
 {250}{}{Eu aposto que o seu não gritou tão alto quanto o meu. Eu gosto quando eles gritam.}
 {251}{}{Ei! Um cara com uma arma ainda é um cara com uma arma! Você acha que pode fazer melhor?}

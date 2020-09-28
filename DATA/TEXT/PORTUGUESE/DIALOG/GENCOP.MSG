@@ -34,7 +34,7 @@
 {133}{}{Você deveria guardar isso . . . sua arma, isso é.}
 {134}{}{Bem-vindo Paladino, já tem algum tempo.}
 {135}{}{Você e aquele rowdy one. Sem mais brigas ok?}
-{136}{}{Melhor você não comecar outra briga!}
+{136}{}{Melhor você não começar outra briga!}
 {137}{}{É você . . . mantenha esse temperamento seu sob controle.}
 {138}{}{Os Far Go Traders foram eliminados. Eu não consigo acreditar.}
 {139}{}{Os Mercadores das Aguas se foram. Que alivio.}
@@ -54,7 +54,7 @@
 {153}{}{Pobre Harold -- ele teve uma vida difícil.}
 {154}{}{Mantenha-se longe de problemas.}
 {155}{}{Ei. Eu conheco você. Sem mais brigas, okay?}
-{156}{}{Melhor você não estar pensando em comecar outra briga!}
+{156}{}{Melhor você não estar pensando em começar outra briga!}
 {157}{}{Se nos pegarmos você brigando de novo, você vai entrar!}
 {158}{}{Você ouviu? Os Far Go Traders foram eliminados.}
 {159}{}{Os Mercadores da Agua são historia. Isso é uma bencao.}

@@ -97,7 +97,7 @@ Alguém parece estar roubando caravanas inteiras dos Far Go Traders. É o Circul
 {171}{DECK_27}{
 Excelente. Você vê, o ultimo trabalho que eu dei a você foi um teste e você fez muito bem. Agora vem um trabalho de importancia.}
 {172}{}{Qual e?}
-{173}{{Parece assustador. Eu não acho que estou interessado.}
+{173}{}{Parece assustador. Eu não acho que estou interessado.}
 {174}{DECK_28}{
 Como você deve saber, os Filhos da Catedral estão ganhando influencia nesta cidade e, sinceramente, não vou tolerar isso.}
 {175}{}{Então, o que você quer que eu faça?}
@@ -110,8 +110,7 @@ Eu acredito que estou começando a gostar de você. O pagamento e de 1000 na fre
 {180}{}{Okay}
 {181}{DECK_31}{
 Fale com o Kane quando sair. Ele lhe dara detalhes.}
-{182}{DECK_32}{
-É matar o comerciante não foi?
+{182}{DECK_32}{É matar o comerciante não foi?}
 {183}{}{Bem, tudo bem, eu farei.}
 {184}{}{Eu não me importo. Eu não farei isso.}
 {185}{DECK_33}{
@@ -161,7 +160,7 @@ Que pena. Tem certeza de que nem vai ouvir o que é o trabalho?}
 {226}{DECK_72}{Apenas fora da porta e para o norte. Você não pode perder isso.}
 {227}{DECK_73}{Isso não é importante.}
 {228}{DECK_74}{O que? Isso não é importante agora.}
-{229}{DECK_75}{Realmente. Agora, por que eu iria querer fazer isso?
+{229}{DECK_75}{Realmente. Agora, por que eu iria querer fazer isso?}
 {230}{}{Eu vejo que você eliminou o meu segundo. Eu mesmo terei que cuidar de você.}
 {231}{}{Que bom te ver, xerife Greene! Eu vejo que você veio se despedir.}
 
@@ -255,7 +254,7 @@ Que pena. Tem certeza de que nem vai ouvir o que é o trabalho?}
 {1120}{DECK_69}{Ela e atualmente a cabeça dos Filhos da Catedral no Centro. Tenho motivos para acreditar que isso pode mudar em breve.}
 {1121}{DECK_70}{Uma das invençoes das Crianças. Ele supostamente e um pouco menor, ou algo assim.}
 {1122}{DECK_71}{É um lugar pequeno que se vende. . . armas justas. Nós Far Go Traders.}
-{1123}{DECK_72{Apenas fora da porta e para o norte. Você não pode perder isso.}
+{1123}{DECK_72}{Apenas fora da porta e para o norte. Você não pode perder isso.}
 {1124}{DECK_51}{A minha mae, a melhor mulher que conheci, deu-me a ideia para este, o melhor estabelecimento de entretenimento em todo o Hub.}
 {1125}{DECK_51}{A minha mae, a melhor mulher que conheci, deu-me a ideia para este, o melhor estabelecimento de entretenimento em todo o Hub.}
 {1126}{DECK_53}{Ele e o chefe da policia. Cara legal, se você gosta da seta reta, tipo honesto. Não como seu pai, agora havia um homem leal.}

@@ -37,7 +37,7 @@
 {132}{}{Dirt? Recados de metal?}
 {133}{}{Uh ... isso é fascinante, mas eu tenho que ir.}
 {134}{}{Você ficaria surpreso com o que está acontecendo lá fora. Algo que é dado como certo em um lugar pode ser uma mercadoria muito procurada em um assentamento a 10 milhas de distância.}
-{135}{}{Certo, chega de conversa com o comerciante chato. Onde está a porta?
+{135}{}{Certo, chega de conversa com o comerciante chato. Onde está a porta?}
 {136}{}{Obrigado, tchau.}
 {137}{}{Você pode me falar sobre o trabalho que foi postado?}
 {138}{}{Você tem algum trabalho?}
@@ -68,13 +68,13 @@
 {163}{}{Lamento, tenho que ir.}
 {164}{}{Rhoo?}
 {165}{}{Bem, eu não disse que seria fácil. Caso contrário, teríamos resolvido o problema há muito tempo. Pergunte por aí. Seja áspero se for preciso, mas não consuma sangue. Pelo menos, não em público.}
-{166}{}{Eu estou te dizendo, deixe as drogas. Eles vão bagunçar você.
+{166}{}{Eu estou te dizendo, deixe as drogas. Eles vão bagunçar você.}
 {167}{}{O trabalho paga 500 Hubbucks quando você pode dizer ao Butch exatamente o que está acontecendo com todas as caravanas que têm
  desapareceu recentemente. Então, colete qualquer prova que você possa encontrar. Eu pessoalmente acho que são aqueles malditos comerciantes de água ou aqueles
  freaks arma na Irmandade de Aço. Butch acha que é uma Garra da morte ou algo assim. Verifique com Beth, ela saberia mais sobre isso.}
 {168}{}{Certo, mas eu não sei o que você perdeu. Não há muito para isso.}
-{169}{}{Eu pensei com certeza que você era de lá. Eu estava apenas testando você. Se você não é de lá, como diabos você conseguiu aquela roupa de aço que eles trafegam por aí?
-{170}{}{Ah, isso? Eu encontrei, se você sabe o que quero dizer.
+{169}{}{Eu pensei com certeza que você era de lá. Eu estava apenas testando você. Se você não é de lá, como diabos você conseguiu aquela roupa de aço que eles trafegam por aí?}
+{170}{}{Ah, isso? Eu encontrei, se você sabe o que quero dizer.}
 {171}{}{Eu não tenho a liberdade de dizer.}
 {172}{}{Droga, você deve estar bem. Estou feliz que esteja do nosso lado. Eu não sei como você não poderia saber, mas a Irmandade é um grupo estranho que adora a tecnologia, ou algo assim. Eles estão um pouco a noroeste daqui.}
 {173}{}{O que é a Irmandade de Aço?}
@@ -84,10 +84,10 @@
 {177}{}{Obrigado, tchau.}
 {178}{}{Bem, tanto faz. Tenho certeza que você já os conheceu antes. Eles são um bando estranho que adoram tecnologia ou algo parecido. Eles estão a noroeste daqui.}
 {179}{}{Eles são realmente estranhos. Eles adoram a tecnologia ou algo assim. Eles têm um monte de poder de fogo. Eles poderiam facilmente tirar uma caravana. Eles estão no noroeste.}
-{180}{}{Eu sabia que você tinha que ser um deles. Você tinha que estar com esse terno de aço. Espero que você esteja certo, e espero que não seja um erro contratá-lo, mas você não é o único que contratamos, está tudo bem.
+{180}{}{Eu sabia que você tinha que ser um deles. Você tinha que estar com esse terno de aço. Espero que você esteja certo, e espero que não seja um erro contratá-lo, mas você não é o único que contratamos, está tudo bem.}
 {181}{}{Por que você diz isso?}
 {182}{}{Porque acabei de me inscrever no pedido deles e verifiquei-os cuidadosamente. Eles são apenas quietos e guardam para si mesmos, mas não há nada a temer lá.}
-{183}{}{Eu tenho estado dentro daquele bunker deles. Eles não são aqueles que você está procurando.
+{183}{}{Eu tenho estado dentro daquele bunker deles. Eles não são aqueles que você está procurando.}
 {184}{}{Apenas um palpite.}
 {185}{}{Bem, isso é reconfortante. Eu acho que.}
 {186}{}{Eu espero que você esteja certo.}
@@ -106,7 +106,7 @@
 {199}{}{Eu esqueci.}
 {200}{}{Você esqueceu? Homem engraçado. Agora, se perca.}
 {201}{}{Você esqueceu? Engraçado, senhora. Agora, se perca.}
-{202}{}{Eu sabia que eram eles. Você trouxe prova? Eu vou fazer esses bastardos pagarem.
+{202}{}{Eu sabia que eram eles. Você trouxe prova? Eu vou fazer esses bastardos pagarem.}
 {203}{}{Uhh. Não. Eu perdi isso. Mas você pode aceitar minha palavra.}
 {204}{}{Na verdade, não foram eles. Foi um monte de grandes mutantes.}
 {205}{}{Lamento, eu tenho que ir.}
@@ -146,7 +146,7 @@
 {239}{}{Bem, se esse Deathclaw realmente existir, você pode querer examinar o seu covil. Pode ter uma pista.}
 {240}{}{Oi. Como posso ajudá-lo?}
 {241}{}{Eu descobri o que aconteceu com as caravanas desaparecidas.}
-{242}{}{Ah, nada}}
+{242}{}{Ah, nada}
 {243}{}{Hey! Ouvi dizer que você matou o bastardo encarregado desses mutantes. Bom andamento. Você provavelmente salvou a vida de todos no Hub; mas eu me pergunto de onde eles vieram.}
 {244}{}{Yeah! Mais coisas para matar! Eu me pergunto onde eles estão se escondendo.}
 {245}{}{Sim, eu devo limpar completamente a área do trabalho maligno do Mestre. Eu me pergunto onde eles estão se escondendo.}

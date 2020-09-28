@@ -19,7 +19,7 @@
 {115}{}{Muito bem, então. Que a paz esteja com você.}
 {116}{}{Eu me desculpo. Como eu posso ser de ajuda?}
 {117}{}{O que é que você esta fazendo?}
-{118}{}{Você pode comecar respondendo minha pergunta.}
+{118}{}{Você pode começar respondendo minha pergunta.}
 {119}{}{Você pode morrer!}
 {120}{}{Guardas!!!}
 {121}{}{É obvio que você não é daqui. Quem é você?}

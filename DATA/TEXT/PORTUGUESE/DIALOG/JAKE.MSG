@@ -30,14 +30,14 @@
  Crianças.}
 {122}{}{Certo. Vou pegar seu espião e eliminar o problema.}
 {123}{}{Tem alguma pista sobre esse espião?}
-{124}{}{Esqueça. Eu não vou te ajudar.
+{124}{}{Esqueça. Eu não vou te ajudar.}
 {125}{}{Muito obrigado. Agora vá!}
 {126}{}{Nada realmente. As únicas coisas que eu realmente sei é
  que muitas informações de baixo nível estão chegando ao
  Crianças. Isto não é bom. Heather acha que é ou
  Neil ou Peter.}
 {127}{}{Certo. Eu vou verificar isso.}
-{128}{}{Esqueça. Eu não vou te ajudar.
+{128}{}{Esqueça. Eu não vou te ajudar.}
 {129}{}{Eu não posso deixar você ir embora.}
 {130}{}{eu vou então. Tchau!}
 {131}{}{Estamos tendo problemas com algumas de nossas informações
@@ -45,12 +45,12 @@
 {132}{}{Certo. Então qual é o problema?}
 {133}{}{Certo, eu vou lidar com esse espião.}
 {134}{}{Ainda tem alguma pista?}
-{135}{}{Esqueça. Eu não vou te ajudar.
+{135}{}{Esqueça. Eu não vou te ajudar.}
 {136}{}{Atualmente, não posso te dizer nada. Dia bom.}
 {137}{}{Estou tentando dormir. Não me incomode.}
 {138}{}{Apresse-se e descubra essa vil escória!}
 {139}{}{Eu sabia que era Heather o tempo todo. Ela era enganosa de
- o começo. Eu deveria ter dito a todos o que eu pensava no começo.
+ o começo. Eu deveria ter dito a todos o que eu pensava no começo.}
 {140}{}{Eu nunca aprendi nada com você. Seu treinamento
  foi inútil.}
 {141}{}{Eu tenho um pacote para você do Gabriel.}

@@ -81,7 +81,7 @@
  serao aquelas que trabalham juntas pra sobreviver, como nos.}
 {166}{}{Eu estou feliz que alguns dos forasteiros, como você, se sentem desse modo.
  Nós precisamos achar modos de trabalhar juntos para construir algo novo. Não
- comecara aqui; nos somos muito regulados, mas tem de comecar em algum lugar.}
+ comecara aqui; nos somos muito regulados, mas tem de começar em algum lugar.}
 {167}{}{Ola. O que eu posso fazer por você?}
 {168}{}{Eu posso ajudar você?}
 {169}{}{Sim?}

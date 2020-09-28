@@ -26,7 +26,7 @@
  do sangue de deus, o mais santo dos santos. o VEF moldara e mudara você. Você
  será forte. Você se tornara um Nightkin se você for feliz e valoroso da honra,
  senao você morrera a morte mais dolorosa possível. Em breve, eu serei honrado.
- Eu me tornarei forte. Então eu não temerei nenhum homem
+ Eu me tornarei forte. Então eu não temerei nenhum homem}
 {120}{}{Você esteve perto dos Nightkin por muito tempo. Tchau.}
 {121}{}{Por que você esta me dizendo isto?}
 {122}{}{De onde você conseguiu o VEF?}

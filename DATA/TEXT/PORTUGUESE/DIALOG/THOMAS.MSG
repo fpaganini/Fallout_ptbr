@@ -1,5 +1,5 @@
 {100}{}{Você vê o irmão Thomas.}
-{101}{}{Certo, filhos. Hoje vamos passar por algumas artes marciais.
+{101}{}{Certo, filhos. Hoje vamos passar por algumas artes marciais.}
 {102}{}{Em combate próximo a técnica que você usa depende do seu
  oponentes tamanho, alcance e rapidez.}
 {103}{}{Se for dada a oportunidade, teste seu oponente.}

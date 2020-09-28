@@ -9,7 +9,7 @@
 {108}{}{Você vê o Iniciado Hopper das Crianças da Catedral.}
 {109}{}{Você vê o Iniciado Radek das Crianças da Catedral.}
 {110}{}{Esses Seguidores perdidos foram faceis de matar.}
-{111}{}{Agora que os Seguidores estão fora do caminho, a reconstrucao pode comecar.}
+{111}{}{Agora que os Seguidores estão fora do caminho, a reconstrucao pode começar.}
 {112}{}{No final desta busca, eu espero ser um Escriba ou Estudioso.}
 {113}{}{Algum dia eu serei um estudioso e irei adiante pregar a Unidade.}
 {114}{}{Orfeo é uma pessoa difícil de se trabalhar.}

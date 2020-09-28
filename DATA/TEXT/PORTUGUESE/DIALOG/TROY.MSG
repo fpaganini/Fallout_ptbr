@@ -9,7 +9,7 @@
 {107}{}{Ruh?}
 {108}{}{Siga-me e você descobrira. Ou, pra por de outro modo, siga-me e viva, tolo!}
 {109}{}{Então se eu não ir, eu morro? Isso não soa muito religioso.}
-{110}{}{Você me convenceu. Vamos comecar a hoofing!}
+{110}{}{Você me convenceu. Vamos começar a hoofing!}
 {111}{}{Eu acho que não.}
 {112}{}{Não comece o que você não pode terminar, aberracao!}
 {113}{}{Excelente!}

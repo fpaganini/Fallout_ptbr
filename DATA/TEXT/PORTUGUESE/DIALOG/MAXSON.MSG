@@ -233,7 +233,7 @@
 {322}{}{É aparente que alguém precisa ir lá subir lá e verificar.}
 {323}{}{Vai exigir mais do que um "gut feeling" pra me fazer arriscar minha vida
  indo lá em cima.}
-{324}{}{Eu considero minha vida ser uma prioridade fairly importante.}
+{324}{}{Eu considero minha vida ser uma prioridade bastante importante.}
 {325}{}{Eu apenas não acho que eu estou pronto para a tarefa.}
 {326}{}{Eu sou leal a apenas uma pessoa.}
 {327}{}{Eu posso.}

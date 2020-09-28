@@ -6,8 +6,8 @@
 {105}{}{[Mais]}
 {106}{}{Desculpe cara, mas você passou do ponto sem volta com a gente. É hora de você dar o fora!}
 {107}{}{Desculpe cara, mas você passou do ponto sem volta com a gente. É hora de você dar o fora!}
-{108}{}{É por que eu iria querer falar com alguém que sai por ai matando crianças? Saia da minha frente!}
-{109}{}{Ouvi dizer que você é muito durão. Mas infelizmente isto não impressiona o Ton commo gostaria. Você tem algo a me dizer ou já quer comecar?}
+{108}{}{E por que eu iria querer falar com alguém que sai por ai matando crianças? Saia da minha frente!}
+{109}{}{Ouvi dizer que você é muito durão. Mas infelizmente isto não impressiona o Ton commo gostaria. Você tem algo a me dizer ou já quer começar?}
 {110}{}{Paz, irmão! Estou apenas conhecendo este lugar.}
 {111}{}{Não estou nem um pouco interessado em impressionar você. Então se você tem algo útil para me dizer, então me diga logo!}
 {112}{}{Começar? Senhor, me desculpe, mas eu não gosto de garotinhos magricelos.}

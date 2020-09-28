@@ -25,9 +25,9 @@
 {122}{}{Ele reside no nível 3, como ele deve. Por que você faz uma pergunta tão boba?}
 {123}{}{Ah, uh, não há razão.}
 {124}{}{Eu vou chutar a bunda dele daqui para, uh, algum lugar bem longe!}
-{125}{}{Que pergunta? Eu disse "Salve ao Mestre, adeus".
+{125}{}{Que pergunta? Eu disse "Salve ao Mestre, adeus".}
 {126}{}{Você me insulta! Morrer!}
-{127}{}{Louvor à Unidade}}
+{127}{}{Louvor à Unidade}
 {128}{}{Você parece não acreditar no que diz. Isso poderia ser verdade?
  Ou você deixou o caminho da justiça?}
 {129}{}{Você confunde o tremor na minha voz por medo quando na verdade é

@@ -277,7 +277,7 @@
 {318}{}{Isso depende da mensagem.}
 {319}{}{Diga a ele que ele e um bastardo covarde por se esconder na caverninha dele. Se ele quer ser um homem
  ele deveria tentar sair no mundo real.}
-{320}{}{Diga a ele pra comecar a rezar por um milagre, por que é o que ele vai precisar quando eu acabar com ele.}
+{320}{}{Diga a ele pra começar a rezar por um milagre, por que é o que ele vai precisar quando eu acabar com ele.}
 {321}{}{Eu esqueci.}
 {322}{}{Diga a ele que ele e meu idolo e que eu admiro seu trabalho.}
 {323}{}{Diga a ele que eu vou fazer com ele o que ele fez com o ultimo cara que comandou este lugar!}

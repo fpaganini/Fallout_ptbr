@@ -57,7 +57,7 @@
 {154}{}{Meu parceiro. O cara que esta guardando o Jain.}
 {155}{}{Depende de como você arrisca sua vida. Minha vida tem estado bem ocupada ultimamente, então em vim aqui pra
  ficar na moita. Mas se você gosta de ação, com certeza, Apenas não estrague tudo ou você esta morto, isso e tudo.}
-{156}{}Eu ouvi que os Mercadores da Agua estão sempre empacotando a melhor merda. Mas as pessoas dirao qualquer
+{156}{}{Eu ouvi que os Mercadores da Agua estão sempre empacotando a melhor merda. Mas as pessoas dirao qualquer
  coisa sobre os Mercadores da Agua. Não esta aqui entre esta turma, isso com certeza.}
 {157}{}{Eu estive tentando obter um bom entendimento destes caras por semanas. A principio eu pensava que eles eram
  tolos, mas agora... eu não tenho certeza. Eles são organizados e eles tem um plano. Eu consigo cheirar!}

@@ -395,7 +395,7 @@
 {4035}{}{celulas pareciam as maisreceptivas ao vírus. As celulas}
 {4036}{}{sensórias são as menos afetadas. Surpreendentemente, até}
 {4037}{}{mesmo as celulas nervosasnao-replicantes e não-somaticas}
-{4038}{}{foram induzidas a comecar a mitose. Mais experimentos serao}
+{4038}{}{foram induzidas a começar a mitose. Mais experimentos serao}
 {4039}{}{necessarios para determinar os resultados nestas celulas.}
 {4040}{}{**FIM-DO-DISCO**}
 

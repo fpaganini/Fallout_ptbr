@@ -38,7 +38,7 @@
 {135}{}{Os Nightkin são meus amigos.}
 {136}{}{Você é um pouco jovem demais pra entender quao divertido eu posso ser.}
 {137}{}{Vá em frente. É eu direi a eles sobre você.}
-{138}{}{Se você comecar a falar pra qualquer um sobre mim garoto você esta morto!}
+{138}{}{Se você começar a falar pra qualquer um sobre mim garoto você esta morto!}
 {139}{}{Com certeza é. Eu a pequei eu mesmo de um bosque across da cidade. Bem, foi bacana encontrar você. Possa o Mestre abencoar você.}
 {140}{}{O que eu faria? O que eu faria?!}
 {141}{}{Você tem certeza que você não quer uma flor?}

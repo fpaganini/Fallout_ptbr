@@ -18,7 +18,7 @@
 {116}{}{Eu realmente estou aqui pra libertar você. Eu sou um humano normal.}
 {117}{}{Se você quer desse jeito. Com certeza. Tchau.}
 {118}{}{Você não se lembra que você tentou esse truque na ultima semana? Então,
- eu não cai por ele e eu não vou comecar agora.}
+ eu não cai por ele e eu não vou começar agora.}
 {119}{}{O que? Nenhum cowl pra se esconder atras? Sua natureza traidora e auto-evidente.}
 {120}{}{Eu estou aqui pra libertar você.}
 {121}{}{Tchau, então.}

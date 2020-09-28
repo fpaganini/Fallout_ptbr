@@ -18,11 +18,11 @@
 {114}{}{Eu me recuso a lidar com aqueles que usam armas pra fazer demandas. Nós
  Crianças crescemos alem do simples uso de armas de fogo e brancas.}
 {115}{}{Louco facista do controle de armas!}
-{116}{}{Deixe-me holster it e nós podemos permutar em paz.}
+{116}{}{Deixe-me guardar isto e nós podemos permutar em paz.}
 {117}{}{Bom, eu gosto disso. Eu ficaria feliz de fazer negócios com você.}
 {118}{}{Saudações, minha camarada Crianca. Como eu posso ajudar você?}
 {119}{}{Lugga!?}
-{120}{}{O que você tem pra negociar?}
+{120}{}{O que você tem pra' negociar?}
 {121}{}{Obrigado. Vejo você mais tarde, jacare.}
 {122}{}{Eu lamento. Talvez nos possamos apenas fazer um acordo.}
 {123}{}{Brye!}

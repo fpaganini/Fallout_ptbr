@@ -38,5 +38,5 @@
 {212}{}{(Resistência a Chems) Chems só afetam você pela metade do normal, mas sua chance de ficar viciado e tambem apenas 50% do normal.}
 {213}{}{Como um pessoa noturna, você esta mais acordado quando o sol desce.  Sua Inteligencia e Percepcao são melhoradas a noite, mas entorpecidos durante o dia.}
 {214}{}{Como você passou + tempo melhorando suas técnicas que uma pessoa normal, você comeca com melhores niveis nas técnicas. A parte ruim e que você não ganha tantas habilidades extras. Você ganhara um benefício a 4 niveis.}
-{215}{}{Você tem mais habilidades inatas que a maioria, então você não passou tanto tempo afiando suas técnicas. Suas estat. primarias são +1, mas você perde 10% em todas as técnicas ao comecar e recebe 5 pts menos de técnica por nível.}
+{215}{}{Você tem mais habilidades inatas que a maioria, então você não passou tanto tempo afiando suas técnicas. Suas estat. primarias são +1, mas você perde 10% em todas as técnicas ao começar e recebe 5 pts menos de técnica por nível.}
 

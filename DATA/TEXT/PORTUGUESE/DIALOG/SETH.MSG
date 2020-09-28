@@ -48,7 +48,7 @@
 {202}{}{Você tem certeza que você quer retornar pra lá? É uma longa jornada,
  e você eliminou a ameaca deles.}
 {203}{}{Certo. Aprecie sua estada aqui.}
-{204}{}{Bem-vindo a Shady Sands, estranho. Por favor holster essa arma
+{204}{}{Bem-vindo a Shady Sands, estranho. Por favor guarde essa arma
  enquanto você estiver aqui.}
 {205}{}{Ola estranho. Bem-vindo a Shady Sands.}
 {206}{}{Você deveria falar com o Aradesh, nosso lider. Ele gosta de

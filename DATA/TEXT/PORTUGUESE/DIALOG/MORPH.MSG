@@ -32,7 +32,7 @@
  é um espião enviado pelos seguidores. Eu posso estar errado, mas eu não me arrisco.
  Você deve ser eliminado. }
 {122}{MORP07}{O que você poderia me oferecer? }
-{123}{}{Eu sou de um cofre. Você sabe o que é isso, certo?
+{123}{}{Eu sou de um cofre. Você sabe o que é isso, certo?}
 {124}{}{Gostaria de oferecer algumas informações sobre seus inimigos.}
 {125}{}{Eu fui enviado aqui pelo Mestre. Ele quer que eu te espie.}
 {126}{morp08}{seguir em frente}
@@ -41,9 +41,9 @@
 {128}{}{Eu tenho algumas informações para o Mestre sobre o meu Cofre.}
 {129}{}{Não tão rápido. Eu quero saber o que posso obter para minha informação.}
 {130}{MORP09}{Eu não tenho um mestre, seu imbecil! }
-{131}{}{Então, como você chama o Mestre? Ele não controla você?
+{131}{}{Então, como você chama o Mestre? Ele não controla você?}
 {132}{}{Parece que o Mestre controla você.}
-{133}{}{Ei. Cuidado com os insultos !!
+{133}{}{Ei. Cuidado com os insultos !!}
 {134}{}{Eu pareço ter atingido um nervo}
 {135}{MORP10}{Ninguém
  me controla. Ele e eu somos ... parceiros. }
@@ -98,7 +98,7 @@
 {172}{}{Isso seria muito fácil contra você. Eu irei a rota mais desafiadora.}
 {173}{}{Eu acho que uma bala na cabeça serve.}
 {174}{MORP26}{Aqui está o seu negócio.
- Diga-me o que você sabe, e você poderá sair daqui em ambas as pernas.
+ Diga-me o que você sabe, e você poderá sair daqui em ambas as pernas.}
 {175}{}{Eu sou de um cofre, e estou disposto a dar ao Mestre o local.}
 {176}{}{Gostaria de oferecer algumas informações sobre seus inimigos.}
 {177}{}{Você não é muito intimidante.}

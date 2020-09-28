@@ -112,7 +112,7 @@
 {211}{}{Então responder mais perguntas não pode machucar, certo?}
 {212}{}{Bem, eu tenho que ir.}
 {213}{Nic_35}{[Suspiro] Você simplesmente não esta pronto para entender as diferencas. Certo. Então por que você apenas não pensa sobre isso e então volte para conversar.}
-{214}{Nic_36}{Não há muitos restantes pra baixo ao sul. A radiação poluiu quase tudo. A maioria das pessoas restantes nos seguiu para comecar a organizacao.}
+{214}{Nic_36}{Não há muitos restantes pra baixo ao sul. A radiação poluiu quase tudo. A maioria das pessoas restantes nos seguiu para começar a organizacao.}
 {215}{}{Como sua familia sobreviveu?}
 {216}{}{Ainda esta radioativo assim? Apos 80 anos?}
 {217}{Nic_37}{Nós vivemos nos arredores do Grande Glow. A doenca comecou a se espalhar, então nos juntamos todas as pessoas e nós fizemos nosso caminho para o norte. [Suspiro] Isso e quando meus pais foram mortos.}
@@ -153,7 +153,7 @@
 {252}{}{Obrigado. Eu espero que a sorte esteja conosco.}
 {253}{Nic_53}{A sorte não tem nada a ver com isto. Eu tenho fe em você.}
 {254}{Nic_56}{Nosso destino jaz diante de nos. Deixe-nos esperar que nos sejamos de valor.}
-{255}{Nic_57}{O que? Este e o nosso destino. Os Seguidores enfrentarao este mal para que a cura da terra possa finalmente comecar.}
+{255}{Nic_57}{O que? Este e o nosso destino. Os Seguidores enfrentarao este mal para que a cura da terra possa finalmente começar.}
 {256}{}{Não. Eu o proibo.}
 {257}{}{Certo. Me encontre na Catedral.}
 {258}{Nic_58}{[Riso Discreto] Você não nos controla. Nós atacaremos, com ou sem a sua bencao!}
@@ -208,13 +208,13 @@
 {306}{Nic_91}{Eles são os servos pessoais de Morpheus. Eles são criaturas enormes, pesadas. Ugh!}
 {307}{Nic_92}{Você provavelmente viu seus hospitais por ai. Eles pregam a paz, mas há algo errado com eles. Nós precisamos descobrir o que.}
 {308}{Nic_93}{É uma pequena colônia. Você a achara a oeste na Boneyard.}
-{309}{Nic_94}{Antes da Grande Guerra, esta era uma cidade grande, prospera. Minha mae contou estorias, mas dificilmente há algo restante agora. So ruinas e morte
+{309}{Nic_94}{Antes da Grande Guerra, esta era uma cidade grande, prospera. Minha mae contou estorias, mas dificilmente há algo restante agora. So ruinas e morte}
 {310}{Nic_95}{Eles guerreiam com os Blades abaixo ao sul. Os Rippers são a gangue mais violenta na Boneyard. Quando nos enviamos pessoas para converte-los, a unica coisa que nos tivemos de volta eram as cabecas deles.}
 {311}{Nic_96}{Os Blades enfrentam os Rippers abaixo ao sul. Eles são a mais favoravel das duas gangues, embora isso não é dizer muito. Nós convertemos alguns deles.}
 {312}{Nic_97}{Nossa historia esta na ultima caixa, no topo da prateleira.}
 {313}{Nic_98}{Tudo foi queimado, tudo destruido. Nós tentamos ensinar as pessoas a paz, para que isso nunca aconteca de novo.}
 {314}{Nic_99}{Essa é a cidade do comercio ao norte. Nós estamos tentando estabelecer um projeto lá.}
-{315}{Nic_100}{Nós não temos certeza sobre eles. Eles vendem armas, nos vendemos paz. Mas os motivos deles
+{315}{Nic_100}{Nós não temos certeza sobre eles. Eles vendem armas, nos vendemos paz. Mas os motivos deles}
 {316}{Nic_101}{Nós não sabemos nada sobre isso.}
 {317}{Nic_102}{Nós nunca ouvimos sobre isso.}
 {318}{Nic_103}{Nós não sabemos do que você esta falando.}
@@ -268,14 +268,14 @@
 {1107}{Nic_91}{Eles são os servos pessoais de Morpheus. Eles são criaturas enormes, pesadas. Ugh!}
 {1108}{Nic_92}{Você provavelmente viu seus hospitais por ai. Eles pregam a paz, mas há algo errado com eles. Nós precisamos descobrir o que.}
 {1109}{Nic_93}{É uma pequena colônia. Você a achara a oeste na Boneyard.}
-{1110}{Nic_94}{Antes da Grande Guerra, esta era uma cidade grande, prospera. Minha mae contou estorias, mas dificilmente há algo restante agora. So ruinas e morte
+{1110}{Nic_94}{Antes da Grande Guerra, esta era uma cidade grande, prospera. Minha mae contou estorias, mas dificilmente há algo restante agora. So ruinas e morte}
 {1111}{Nic_97}{Nossa historia esta no ultimo, prateleira do topo.}
 {1112}{Nic_98}{Tudo foi queimado, tudo destruido. Nós tentamos ensinar as pessoas a paz, para que isso nunca aconteca de novo.}
 {1113}{Nic_99}{Essa é a cidade do comercio ao norte. Nós estamos tentando estabelecer um projeto lá.}
-{1114}{Nic_100}{Nós não temos certeza sobre eles. Eles vendem armas, nos vendemos paz. Mas os motivos deles
-{1115}{Nic_94}{Antes da Grande Guerra, esta era uma cidade grande, prospera. Minha mae contou estorias, mas dificilmente há algo restante agora. So ruinas e morte
-{1116}{Nic_94}{Antes da Grande Guerra, esta era uma cidade grande, prospera. Minha mae contou estorias, mas dificilmente há algo restante agora. So ruinas e morte
-{1117}{Nic_100}{Nós não temos certeza sobre eles. Eles vendem armas, nos vendemos paz. Mas os motivos deles
+{1114}{Nic_100}{Nós não temos certeza sobre eles. Eles vendem armas, nos vendemos paz. Mas os motivos deles}
+{1115}{Nic_94}{Antes da Grande Guerra, esta era uma cidade grande, prospera. Minha mae contou estorias, mas dificilmente há algo restante agora. So ruinas e morte}
+{1116}{Nic_94}{Antes da Grande Guerra, esta era uma cidade grande, prospera. Minha mae contou estorias, mas dificilmente há algo restante agora. So ruinas e morte}
+{1117}{Nic_100}{Nós não temos certeza sobre eles. Eles vendem armas, nos vendemos paz. Mas os motivos deles}
 
 {1118}{Nic_101}{Nós não sabemos nada sobre isso.}
 {1119}{Nic_102}{Nós nunca ouvimos sobre isso.}

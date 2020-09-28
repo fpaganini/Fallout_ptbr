@@ -91,7 +91,7 @@
  qualquer tipo de aptidao pra reparar coisas você não deve ter problema.
  Boa sorte.}
 {168}{}{Apos tudo isso? Certo, apenas me deixe saber quando você quiser que eu a
- ponha dentro. Então você pode comecar a repara-lá.}
+ ponha dentro. Então você pode começar a repara-lá.}
 {169}{}{Bem, eu não sei o que dizer a você. Eu creio que você precisa polir
  suas tecnicas de reparacao um pouco. Eu manterei a unidade aqui pra você.}
 {170}{}{Certo. Obrigado a você. Tchau.}

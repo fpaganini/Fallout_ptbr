@@ -64,14 +64,14 @@
 {144}{}{É seu corpo.}
 {145}{}{Levara }
 {146}{}{ minutos. Você quer
- comecar o processo?}
+ começar o processo?}
 {147}{}{Não.}
 {148}{}{Sim.}
 {149}{}{Levara }
 {150}{}{ minutos. Sera capaz de
  remover por volta de }
 {151}{}{ por cento. Você quer
- comecar o processo?}
+ começar o processo?}
 {152}{}{Não.}
 {153}{}{Sim.}
 {154}{}{Isto vai ser realmente, realmente doloroso.}

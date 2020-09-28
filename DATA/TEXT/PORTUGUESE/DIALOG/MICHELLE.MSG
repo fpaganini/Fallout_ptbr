@@ -32,7 +32,7 @@
 {128}{}{Se a sua inteligência fosse maior, eu tentaria
  explicar os benefícios da paz.}
 {129}{}{Se você está aqui para fazer isso, então você precisa tentar encontrar
- Navalha. Ela vai deixar você saber o que achamos disso.
+ Navalha. Ela vai deixar você saber o que achamos disso.}
 {130}{}{Uh, obrigado. Eu acho que.}
 {131}{}{Certo. Tchau.}
 {132}{}{Zomba de mim, você vai? Eu acho que deveria esperar tanto de um
@@ -47,7 +47,7 @@
 {136}{}{Gostaria de viver aqui.}
 {137}{}{Eu sou realmente um Estripador disfarçado.}
 {138}{}{Eu quero trazer paz às gangues.}
-{139}{}{Deixando}}
+{139}{}{Deixando}
 {140}{}{Nada de especial. Apenas olhando para o lixo para ser
  reciclado.}
 {141}{}{Nós nunca dissemos nada sobre viver. Você seria apenas

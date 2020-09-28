@@ -132,7 +132,7 @@
 {1114}{}{Agora você morre!}
 {1115}{}{Você gosta disto?}
 {1116}{}{}
-{1117}{}{Não deveria comecar o que você não pode terminar}
+{1117}{}{Não deveria começar o que você não pode terminar}
 {1118}{}{Melhor você rezar para os deuses!}
 {1119}{}{}
 {1120}{}{}
@@ -226,7 +226,7 @@
 {1214}{}{Esta é a melhor parte...}
 {1215}{}{}
 {1216}{}{Vou alimentar os cachorros com você}
-{1217}{}{Não deveria comecar o que você não pode terminar}
+{1217}{}{Não deveria começar o que você não pode terminar}
 {1218}{}{Espero que você não morra muito rapido}
 {1219}{}{So um de nos esta saindo fora}
 {1220}{}{Morra!}
@@ -718,7 +718,7 @@
 {1716}{}{}
 {1717}{}{Vamos ver o quao forte você é.}
 {1718}{}{Pensa que você e algum tipo de pessoa famosa, huh?}
-{1719}{}{Não deveria comecar o que você não pode terminar}
+{1719}{}{Não deveria começar o que você não pode terminar}
 {1720}{}{Você esperava sair bem com isto?}
 {1721}{}{Eu como prostitutas como você no cafe da manha}
 #
@@ -2021,7 +2021,7 @@
 #
 # moving in to attack
 #
-{3106}{}{Deixe o desafio comecar!}
+{3106}{}{Deixe o desafio começar!}
 {3107}{}{Carne fresca...}
 {3108}{}{Saquear!}
 {3109}{}{Este e meu!}
@@ -4551,7 +4551,7 @@
 #
 # attacking
 #
-{5612}{}{Não deveria comecar o que você não pode terminar}
+{5612}{}{Não deveria começar o que você não pode terminar}
 {5613}{}{Você pediu por isto!}
 {5614}{}{}
 {5615}{}{Eu sei como lidar com suinos!}
@@ -5664,7 +5664,7 @@
 {6714}{}{Agora você morre!}
 {6715}{}{Você gosta disto?}
 {6716}{}{Mexa com o melhor, morra como o resto}
-{6717}{}{Não deveria comecar o que você não pode terminar}
+{6717}{}{Não deveria começar o que você não pode terminar}
 {6718}{}{}
 {6719}{}{Vamos ver o quanto você gosta disto!}
 {6720}{}{}
@@ -7516,7 +7516,7 @@
 #
 # moving in to attack
 #
-{8706}{}{Deixe a luta de honra comecar!}
+{8706}{}{Deixe a luta de honra começar!}
 {8707}{}{}
 {8708}{}{}
 {8709}{}{Este e meu!}

@@ -12,7 +12,7 @@
 {109}{}{Uh . . . Você lidou com gangues antes?}
 {110}{}{Você poderia dizer isso.}
 {111}{}{Qual e o seu problema, velho? Eu acabei de dizer que eu já lidei, não disse?}
-{112}{}{Não, eu não lidei, e eu não planejo comecar agora. Bom dia, senhor.}
+{112}{}{Não, eu não lidei, e eu não planejo começar agora. Bom dia, senhor.}
 {113}{}{Bom, então você sabe quao ruthless e sedentas de sangue elas podem ser.
  Os Blades são os piores deles todos, eu estou com medo. Nós somos uma cidade
  humilde, temente a Deus que só esta tentando sobreviver e estes

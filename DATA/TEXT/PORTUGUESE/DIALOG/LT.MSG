@@ -1,7 +1,7 @@
 {100}{}{Você vê o tenente do exército do Mestre.}
 {101}{LIEUT1}{Agora, o que temos aqui? Eu tenho dito que você deseja divulgar
  informação da maior importância. Eu espero que sim.}
-{102}{}{Uh, sim}}
+{102}{}{Uh, sim}
 {103}{}{Não para alguém tão feio quanto você.}
 {104}{}{Com uma condição.}
 {105}{}{Doh!}
@@ -63,8 +63,8 @@
 {145}{}{Você está me dizendo que não haverá guerra?}
 {146}{LIEUT13}{Você fez a escolha de nascer neste mundo coberto de cinzas?
  Nós, os Super Mutantes, somos os melhores preparados para o mundo vindouro.
- O que é livre escolha em comparação com a vida?
-{147}{}{Ponto discutível. Mas como você está mais preparado do que os humanos normais?
+ O que é livre escolha em comparação com a vida?}
+{147}{}{Ponto discutível. Mas como você está mais preparado do que os humanos normais?}
 {148}{}{Mas é mau forçar as pessoas a viverem do seu jeito!}
 {149}{LIEUT14}{Intuitivamente óbvio para o observador mais casual. Nós estamos
  altamente inteligente e imune a doenças. Os fortes sobrevivem! É nosso
@@ -109,7 +109,7 @@
 {174}{}{Meu Deus, não somos vaidosos?}
 {175}{}{Você acha que você é deuses?}
 {176}{LIEUT24}{É honestidade vaidosa? Nós somos o próximo passo na evolução.
- Através da nossa Unidade, o mundo sobreviverá. Onde está o conceito nisso?
+ Através da nossa Unidade, o mundo sobreviverá. Onde está o conceito nisso?}
 {177}{}{Que tal dentro dessa cabeça grotesca de vocês?}
 {178}{}{Bem, o que você disser. Posso fazer mais algumas perguntas?}
 {179}{LIEUT25}{Claro que não. Nós somos simplesmente o futuro.}
@@ -139,7 +139,7 @@
 {195}{}{So?}
 {196}{}{Então você precisa daqueles que não são contaminados para fazer Super Mutantes?}
 {197}{LIEUT31}{Então, você é de um Vault e tem exposição limitada a
- este vírus mutado. O FEV original no Vats deve funcionar muito bem em você.
+ este vírus mutado. O FEV original no Vats deve funcionar muito bem em você.}
 {198}{}{É como você sabe disso?}
 {199}{LIEUT32}{Temos feito extensas experiências em humanos para alcançar
  esta conclusão. Meu mestre está procurando por Vaults não abertos para
@@ -183,13 +183,13 @@
 {223}{}{Parece que estamos ambos ferrados.}
 {224} {LIEUT39b}{Infelizmente, neste momento, eu tenho que arriscar.
  Eu preciso dessa informação.}
-{225}{}{Eu direi}}
-{226}{}{É melhor esperar que eu esqueça. Porque se eu lembrar de nada disso, sua bunda é minha.
+{225}{}{Eu direi}
+{226}{}{É melhor esperar que eu esqueça. Porque se eu lembrar de nada disso, sua bunda é minha.}
 {227}{LIEUT40}{excelente. Eu acredito que você entenda. Então você tem certeza que quer
  dizer onde está o cofre? A tortura pode ser tão agradável.}
 {228}{}{Sim, tenho certeza}.
 {229}{}{Agora que você mencionou, não.}
-{230{}{Posso fazer algumas perguntas primeiro?}
+{230}{}{Posso fazer algumas perguntas primeiro?}
 {231}{LIEUT40a}{Eu pensei que você poderia ver do meu jeito. Não há segundas intenções?}
 {232}{}{Eu vou te contar tudo.}
 {233}{}{Sim, eu mudei de idéia e nunca vou contar.}
@@ -253,7 +253,7 @@
  mas eles pareciam ter subestimado seus talentos. Guardas, capturem-no!}
 {271}{LIEUT39f}{Ah, eu admiro sua vontade. Guardas, leve-a embora e prepare-se
  ela para o mergulho. Ela nos dirá onde está seu Cofre quando ela é uma de nós.}
-{272}{LIEUT39}Eu admiro sua vontade. Guardas, leve-o para sua cela e
+{272}{LIEUT39}{Eu admiro sua vontade. Guardas, leve-o para sua cela e
  prepará-lo para o mergulho. Ele nos dirá onde está seu Cofre quando ele é um de nós.}
 
 
@@ -286,7 +286,6 @@
 {1106}{LIEUT62}{Eles foram construídos antes da guerra. Eles também são nossa principal fonte de Prime Normals.}
 {1107}{LIEUT63}{Morpheus. É muito divertido. Ele acha que ele é muito mais do que uma lesma que o Mestre recrutou para liderar seu absurdo Filhos da Catedral. Ah bem. Ele também será mergulhado no Vats e provavelmente morrerá uma morte horrível ... espero.}
 {1108}{LIEUT57}{O vírus FEV foi descoberto pelo Mestre há muitos anos. É o que nos torna os escolhidos. Mas você logo aprenderá isso, asseguro-lhe.}
-
 {1109}{LIEUT65}{Essa questão é irrelevante para a Unidade.}
 {1110}{LIEUT66}{Eu nem vou dignificar isso com uma resposta.}
 {1111}{lieut45m}{Bem, estou bastante impressionado. Meus espiões me disseram que você era engenhoso, mas eles pareciam ter subestimado seus talentos. Guardas, capturem-no!}

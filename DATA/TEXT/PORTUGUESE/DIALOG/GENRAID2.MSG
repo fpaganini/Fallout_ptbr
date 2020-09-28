@@ -16,7 +16,7 @@
 {115}{}{Garl Death-Hand ama seus guerreiros. Coloque essa coisa fora e vá falar com ele.}
 {116}{}{Então, você acha que é durão, hein? Mexa comigo e nós dois vamos descobrir.}
 {117}{}{Eu não gosto da sua aparência.}
-{118}{}{Vá embora}}
+{118}{}{Vá embora}
 {119}{}{O que você quer?}
 {120}{}{Estou à procura de uma mulher chamada Tandi. Visto ela?}
 {121}{}{Nada. Apenas olhando por aí.}
@@ -32,10 +32,10 @@
 {130}{}{Realmente? Como ela se parece?}
 {131}{}{cerca de 6 metros de altura. Loiras. Ela é de Shady Sands.}
 {132}{}{Sim, ela está aqui. Ela está na casa grande. Você sabe, se dissermos ao Garl,
- então ele iria querer um pedaço da recompensa. Você pode querer pensar sobre isso.
+ então ele iria querer um pedaço da recompensa. Você pode querer pensar sobre isso.}
 {133}{}{Você não parece ter dito isso. Eu acho que você está tramando alguma coisa.
  E se você está dizendo a verdade, então eu vou sacar a recompensa para mim.}
 {134}{}{I. . . Eu não posso dizer mais nada ou Garl vai me matar.}
 {135}{}{Morda-me!}
-{136}{}{Eu não gosto da sua aparência. É melhor você ficar longe de mim.
+{136}{}{Eu não gosto da sua aparência. É melhor você ficar longe de mim.}
 {137}{}{O que? Vá embora!}

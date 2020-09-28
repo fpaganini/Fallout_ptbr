@@ -15,7 +15,7 @@
  por outra de graca.}
 {112}{}{Hnn. Facinora.}
 {113}{}{Obrigado.}
-{114}{}{Sem problema. Quarto #1. Siga-me.}
+{114}{}{Sem problema. Quarto Número 1. Siga-me.}
 {115}{}{Aprecie sua estada. Não seja uma dor paras os outros.}
 {116}{}{Você deveria ter salvado a Sinthia. É sua culpa que ela morreu.
  Eu espero que você esteja feliz consigo mesmo.}
@@ -53,7 +53,7 @@
 {141}{}{Bem-vindo de volta. o que eu posso fazer por você?}
 {142}{}{Eu quero alugar um quarto.}
 {143}{}{Hnnn.}
-{144}{}{Você ja esta alugando o quarto #1 de mim. Você quer que eu mostre
+{144}{}{Você ja esta alugando o quarto Número 1 de mim. Você quer que eu mostre
  a você aonde e?}
 {145}{}{Com certeza.}
 {146}{}{Não.}
@@ -68,7 +68,7 @@
 {155}{}{Certo. Uma semana.}
 {156}{}{Apenas uma noite.}
 {157}{}{Não, obrigado.}
-{158}{}{Certo. O quarto #1 e seu. Tenha uma boa estada.}
+{158}{}{Certo. O quarto Número 1 é seu. Tenha uma boa estada.}
 {159}{}{Sim, o que você quer?}
 {160}{}{Eu quero alugar um quarto.}
 {161}{}{Hnn.}
@@ -82,7 +82,7 @@
 {169}{}{Lide com isso. Sim ou não.}
 {170}{}{Não.}
 {171}{}{Certo.}
-{172}{}{Bom. Aqui vai você. Quarto #1. Tenha uma boa noite, verifique a hora,
+{172}{}{Bom. Aqui vai você. Quarto Número 1. Tenha uma boa noite, verifique a hora,
  são 11 horas.}
 {173}{}{Você matou o Killian, não matou?}
 {174}{}{Sim, com certeza matei.}

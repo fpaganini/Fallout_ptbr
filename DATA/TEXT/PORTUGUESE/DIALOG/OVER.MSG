@@ -29,7 +29,7 @@
  lugar para começar, eu acho. Então, novamente, o que diabos eu sei
  sobre o lado de fora? EU . . . Veja. Você sabe que é importante para mim e
  para . . . Eu realmente. . . apenas esteja seguro, ok?}
-{111}{Over_7}{Você esta de volta! É em um pedaço! Como vai a pesquisa?
+{111}{Over_7}{Você esta de volta! É em um pedaço! Como vai a pesquisa?}
 {112}{}{Não e bom, mas notei que a contagem de radiação e baixa. Por que nos simplesmente não tiramos as pessoas do cofre?}
 {113}{}{Eu não encontrei o chip ainda. Não podemos apenas fazer uma substituiçao?}
 {114}{}{Nada ainda.}
@@ -55,7 +55,7 @@
  opçao. A maioria dessas pessoas, inclusive eu, não sobreviverá lá fora.}
 {128}{}{OK, vou ver se consigo encontra-lo}
 {129}{Over_16}{Não temos tempo nem opçoes. Eu sei que é muita responsabilidade
- para você, mas não temos escolha. Nós precisamos do chip agora.
+ para você, mas não temos escolha. Nós precisamos do chip agora.}
 {130}{Over_19a}{Por favor, me diga que você encontrou o chip.}
 {131}{}{Não, mas eu vi coisas incríveis!}
 {132}{}{Desculpe, ainda não foi possível rastreá-lo.}
@@ -76,7 +76,7 @@
 {144}{}{Sua escolha. Eu farei o meu melhor, mas não sei se sera o bastante.}
 {145}{}{Eu entendo.}
 {146}{Over_26} {Tem que ser. Se você falhar, o mesmo acontece com o Vault.}
-{147}{}{Got it}.}
+{147}{}{Got it}
 {148}{}{Whatever.}
 {149}{Over_27}{Bom, então vá em frente!}
 {150}{Over_28}{Você encontrou o chip?}
@@ -108,7 +108,7 @@
 {167}{Over_38}{Não, não é isso. Eu quero o chip com-pu-ter.}
 {168}{Over_38a}{Não. O chip.}
 {169}{Over_39}{Apenas-me-dê-o-chip!}
-{170}{Over_40}{Obrigado. Agora, vá para a biblioteca e descanse por um tempo, ok?
+{170}{Over_40}{Obrigado. Agora, vá para a biblioteca e descanse por um tempo, ok?}
 {171}{}{Nuh-huh, uh-nuh?}
 {172}{}{Uh, nuh? Nuh-uh-uh-nuh.}
 {173}{Over_41}{Sim, você pode tocar em coisas.}
@@ -135,7 +135,7 @@
 {186}{}{O que você quer que eu faça sobre isso?}
 {187}{Over_47}{Desde que alguém esteja criando mutantes hostis nesse ritmo, o
  A segurança do Vault está em jogo! Encontre e destrua este laboratório assim que puder.}
-{188}{}{Certo}}
+{188}{}{Certo}
 {189}{}{Mais uma vez na brecha, meu amigo.}
 {190}{Over_48}{Você não tem ideia de como sinto muito enviar você de volta.}
 {191}{Over_49}{Ah, sim. Hmm . . . Eu 'eu' eu 'é assim.
@@ -165,7 +165,7 @@
  acho que você deveria voltar e dar uma olhada. Tente para o oeste, lá
  parece ser uma grande concentração de mutantes lá.}
 {209}{Over_60}{Volte e encontre-o. Precisa ser destruído para o cofre
- estar seguro. Tente para o oeste, a maioria dos mutantes parece estar lá.
+ estar seguro. Tente para o oeste, a maioria dos mutantes parece estar lá.}
 {210}{Over_61}{O que é isso? Você matou o líder mutante?}
 {211}{}{Uh-huh, nuh, huh. Nuh-nuh.}
 {212}{Over_61aS}{Ainda há mais mutantes aparecendo? Você precisa destruir o seu
@@ -174,10 +174,10 @@
 {214}{}{Eu estraguei tudo.}
 {215}{}{As cubas mutantes foram destruídas.}
 {216}{}{Nuhh!}
-{217}{Over_63}{Todos eles}}
+{217}{Over_63}{Todos eles}
 {218}{}{Bem, todos eles nas cubas.}
-{219}{}{Uh, nuh-nuh}}
-{220}{Over_64}{É o líder mutante? É sobre esse assim chamado Mestre?
+{219}{}{Uh, nuh-nuh}
+{220}{Over_64}{É o líder mutante? É sobre esse assim chamado Mestre?}
 {221}{}{Até onde eu sei, ele ainda está vivo.}
 {222}{}{Uh-nuh-nuh.}
 {223}{Over_66}{Ele deve ser parado. Se não, ele poderia reconstruir seu império de mutantes
@@ -254,7 +254,7 @@
  fora da água.}
 {255}{Over_1b}{Você tem dois meses para recuperar o chip antes que a água do cofre se esgote
  fora da água.}
-{256}{Over_1c}{256} {Over_1c}} para recuperar o chip antes que a água do cofre se esgote
+{256}{Over_1c}{para recuperar o chip antes que a água do cofre se esgote
  fora da água.}
 {257}{Over_1d}{Você tem cinco meses para recuperar o chip antes que a água do cofre se esgote
  fora da água.}
@@ -269,7 +269,7 @@
  até salvou a raça humana. [O Supervisor suspira]
  Isso torna o resto ainda mais difícil.}
 {263}{Over_81c}{Todo mundo vai querer falar com você.
- Todos os jovens olham para você e querem imitá-lo. É então o que?
+ Todos os jovens olham para você e querem imitá-lo. É então o que?}
 {264}{Over_81d}{Eles vão querer sair. O que acontece com o Vault se nós
  perder o melhor de uma geração? E se formos o único lugar seguro no mundo?
  Você acabou de nos dar de volta todas essas vidas. . . Eu não posso correr o risco de perdê-los.}

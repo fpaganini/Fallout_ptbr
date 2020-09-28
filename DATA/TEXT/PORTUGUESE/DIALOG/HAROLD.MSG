@@ -13,14 +13,14 @@ Ah, tipo de você, amigo. Muito gentil. Você sabe, se eu pudesse tirar a gosma 
 {109}{} {Por que isso?}
 {110}{} {Seja bem-vindo.}
 {111} {HROLD3}{
-[Cough] O resto dos Hubbers tem me cutucado como um maluco desde que voltei para a cidade. Eu não posso sair, no entanto. Quando as negociações são feitas, ainda é minha casa.
+[Cough] O resto dos Hubbers tem me cutucado como um maluco desde que voltei para a cidade. Eu não posso sair, no entanto. Quando as negociações são feitas, ainda é minha casa.}
 {112}{}{O que aconteceu com você?}
 {113}{}{Quem são os Hubbers?}
 {114}{}{Espero que as coisas melhorem. Até a próxima.}
 {115}{HROLD4}{
 Bem, depois da Grande Guerra, o meu Cofre foi um dos primeiros a abrir. [Respira fundo] Ufa. Muito tempo.}
 {116}{}{Conte-me mais sobre esses dias.}
-{117}{}{Não, não. Eu quis dizer o que aconteceu para mudar você?
+{117}{}{Não, não. Eu quis dizer o que aconteceu para mudar você?}
 {118}{HROLD5}{
 Tudo começou com as sirenes. Eu era jovem, mas eu lembro disso. Lotta anos terríveis se seguiram. É lembro-me de ter saído do Vault uma manhã.}
 {119}{}{O que você fez então?}
@@ -41,7 +41,7 @@ Claro que eles ajudaram, ó idiota! Apenas muitos malditos para lidar!}
 {130}{}{Como você sobreviveu aos ataques mutantes?}
 {131}{HROLD9A}{
 Não fez. Foi morto. [Tosse rindo] Ame essa piada.}
-{132}{}{Uh, sim}}
+{132}{}{Uh, sim}
 {133}{HROLD10}{
 Em toda parte! Inferno, parecia que você não podia peidar sem bater em um. Mas principalmente no noroeste.}
 {134}{}{Você explorou essa área?}
@@ -65,7 +65,7 @@ Richard Gray era um médico. Pouco mais velho que eu, e amigo ele era esperto. E
 {148}{HROLD15}{
 Eu gosto de dizer do meu jeito. Versão curta vai custar 25 extra, amigo. Qual será?}
 {149}{}{Certo, isso é longo.}
-{150}{}{Short}}
+{150}{}{Short}
 {151}{}{Curto, mas não tenho dinheiro.}
 {152}{}{Como sobre nenhum, seu velho peido?}
 {153}{HROLD16}{
@@ -75,7 +75,7 @@ Bem, você parece um tipo bem. Vou acelerar um pouco.}
 {156}{hrold17}{pouca luz sobre os fundos, hein?}
 {157}{hrold17a}{Meu caminho ou ir embora. Sua escolha, amigo.}
 {158}{}{Andando}
-{159}{}{OK. Long isso é.
+{159}{}{OK. Long isso é.}
 {160}{HROLD18}{
 Algum tipo de base militar antiga. Perdemos muita gente chegando lá.}
 {161}{}{Como você sabia que essa base era a causa?}
@@ -151,7 +151,7 @@ Ah bem, obrigado de qualquer maneira. [tosse]}
 Ei, você pode me ajudar, amigo?}
 {211}{}{Sim, aqui está $ 25.}
 {212}{}{Take $ 5.}
-{213}{}{Não me insulte}}
+{213}{}{Não me insulte}
 {214}{}{Uhhh?}
 {215}{HROLD40}{
 Ei, preciate! Tenho que admitir, quando eu te vi pela primeira vez, [tosse] eu achei que você poderia me incomodar.}
@@ -172,7 +172,7 @@ Algo que eu possa fazer por você?}
 {228}{hrold43a}{A coisa toda? Bem...}
 {229}{HROLD44}{
 Oooh, bem obrigado. Espero que não tenha sido uma grande tensão. [coughs]}
-{230}{HROLD45}{Oooh, essa coisa. Amigo, essa é a cidade do pesadelo. Por que diabos você está perguntando sobre isso?
+{230}{HROLD45}{Oooh, essa coisa. Amigo, essa é a cidade do pesadelo. Por que diabos você está perguntando sobre isso?}
 {231}{}{Vou matá-lo.}
 {232}{}{Se me encontrar, quero saber o que fazer.}
 {233}{HROLD47}{Certo. Bem, é como um grande homem, é o que é. Tem pontas e garras que podem cortar a armadura mais pesada. Mas não deixe que o tamanho te engane, é rápido.}
@@ -203,7 +203,7 @@ Oooh, bem obrigado. Espero que não tenha sido uma grande tensão. [coughs]}
 {258}{hrold302}{Mutantes. Não importa o que eles se chamam.}
 {259}{hrold303}{Ah, ele. Ele lidera o Círculo dos Ladrões. Pensa que ele é Robin Hood. [tosse] Ele está bem, eu acho.}
 {260}{hrold304}{Eu vi as religiões virem e religiões irem, e eu espero que isso aconteça. Em breve.}
-{261}{hrold305}{Sim, eu vim de um Vault. Muitas pessoas não têm comida e água suficientes. Mas você não sabe nada sobre isso, quer?
+{261}{hrold305}{Sim, eu vim de um Vault. Muitas pessoas não têm comida e água suficientes. Mas você não sabe nada sobre isso, quer?}
 {262}{hrold306}{Horrível. O mundo ficou louco. Há muito tempo, mas nunca esquecerei isso. Nunca.}
 {263}{hrold307}{[Cough] Problema. Nada além de problemas.}
 {264}{hrold400}{Bem, como eu disse ...}
@@ -250,7 +250,7 @@ Oooh, bem obrigado. Espero que não tenha sido uma grande tensão. [coughs]}
 {1102}{hrold302}{Mutantes. Não importa o que eles se chamam.}
 {1103}{hrold303}{Ah, ele. Ele lidera o Círculo dos Ladrões. Pensa que ele é Robin Hood. [tosse] Ele está bem, eu acho.}
 {1104}{hrold304}{Eu vi as religiões virem e as religiões irem, e eu espero que isso aconteça. Em breve.}
-{1105}{hrold305}{Sim, eu vim de um Vault. Muitas pessoas não têm comida e água suficientes. Mas você não sabe nada sobre isso, quer?
+{1105}{hrold305}{Sim, eu vim de um Vault. Muitas pessoas não têm comida e água suficientes. Mas você não sabe nada sobre isso, quer?}
 {1106}{hrold306}{Horrível. O mundo ficou louco. Há muito tempo, mas nunca esquecerei isso. Nunca.}
 {1107}{hrold307}{[Cough] Problema. Nada além de problemas.}
 {1108}{hrold300}{Cara brilhante. Um médico e filósofo. Há muito tempo ele liderou a expedição onde eu me transformei em mutante.}

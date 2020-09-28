@@ -268,7 +268,7 @@
 {13800}{}{Dreno}
 {13801}{}{Sons de água gorgolejando vem além deste dreno. Assim vem um fedor realmente vil.}
 {13900}{}{Escada da Mão}
-{13901}{}{É uma escada velha, fairly rickety ladder. Parece que mal suportará seu peso.}
+{13901}{}{É uma escada velha, bastante frágil. Parece que mal suportará seu peso.}
 {14000}{}{Buraco do Esgoto}
 {14001}{}{Parece um buraco de acesso para o sistema de esgoto.}
 {14100}{}{Fonte de Luz}
@@ -1238,7 +1238,7 @@
 {65400}{}{Cano}
 {65500}{}{Cano}
 {65600}{}{Gerador de Força}
-{65601}{}{Um gerador de força da Wattz ElectroBox. Fairly padrão como geradores de reforço antes da guerra.}
+{65601}{}{Um gerador de força da Wattz ElectroBox. Bastante padrão como os geradores de apoio antes da guerra.}
 {65700}{}{Tanque}
 {65701}{}{Um grande tanque de água. Parece bem mantido, o que é provavelmente uma coisa boa.}
 {65800}{}{Caixa da Polícia}
@@ -1685,9 +1685,9 @@
 {89300}{}{Sinal}
 {89301}{}{Um anúncio para as lâminas Blades-brand razor.}
 {89400}{}{Chuveiro}
-{89401}{}{A fairly normal shower stall.}
+{89401}{}{Um chuveiro bastante normal.}
 {89500}{}{Chuveiro}
-{89501}{}{A fairly normal shower stall.}
+{89501}{}{Um chuveiro bastante normal.}
 {89600}{}{Sinal}
 {89601}{}{Este é o sinal do the Companhia de Empréstimos Amistosos.}
 {89700}{}{Sinal}

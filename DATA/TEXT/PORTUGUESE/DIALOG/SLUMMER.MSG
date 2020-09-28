@@ -77,7 +77,7 @@
 {177}{}{Muitos tentaram matar o Mestre, e todos falharam. Contduo, se você tentar este ato vil o Mestre pode perdoar você e achar um bom uso pra você. Eu rezarei por você. }
 {178}{}{Eu só estava brincando. Pessoas que passam muito tempo nas terras devastadas tem um senso de humor esquisito você sabe. Então, o que esta acontecendo por aqui?}
 {179}{}{Nós veremos sobre isso...}
-{180}{}{Ninguem reza pela minha alma. Mas e melhor alguém comecar a rezar por você porque eu vou matar você agora mesmo!}
+{180}{}{Ninguem reza pela minha alma. Mas e melhor alguém começar a rezar por você porque eu vou matar você agora mesmo!}
 {181}{}{Você veio ao lugar errado amigo. Este lugar não é sobre poder. Este lugar e sobre a paz.}
 {182}{}{Eu ouvi que a nossa cruzada vai bem. Em breve nos traremos a paz e unidade pra Boneyard e todas as comunidades ao redor, não é otimo?}
 {183}{}{Quem é o próximo na lista pra receber a paz e unidade?}
@@ -190,7 +190,7 @@
 {290}{}{Soa interessante. Se importa se eu olhar um pouco mais por ai?}
 {291}{}{Eu acho que vocês são todos um bando de zumbis.}
 {292}{}{So há uma unidade pra humanidade e isso e quando nos tornamos comida de minhoca.}
-{293}{}{Nós temos o direito de sobreviver. Os antigos tentaram sobreviver e manter a liberdade deles o olhe que eles fizeram a nos! Nós não devemos cometer os mesmos erros. A unidade é a unica soluçao. É o unico jeito de salvar o que a humanidade se tornou
+{293}{}{Nós temos o direito de sobreviver. Os antigos tentaram sobreviver e manter a liberdade deles o olhe que eles fizeram a nos! Nós não devemos cometer os mesmos erros. A unidade é a unica soluçao. É o unico jeito de salvar o que a humanidade se tornou}
 {294}{}{O que você quer dizer com o que a humanidade se tornou? Nós ainda somos perfeitamente humanos.}
 {295}{}{Talvez o erro que nossos ancestrais cometeram não foi a falta de unidade. Talvez eles não pudessem deixar os outros em paz.}
 {296}{}{Eu não sou filosofo, mas eu sei quando algo esta certo e algo esta errado e isto e errado.}

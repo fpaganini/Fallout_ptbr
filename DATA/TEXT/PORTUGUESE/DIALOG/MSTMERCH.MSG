@@ -48,12 +48,12 @@
  tera coisas pra negociar para nos manter indo por algum tempo. Contudo, com nossas reservas atuais, Eu estou achando que
  nos só seremos capazes de manter a sua Vault até por uns 100 dias extras ou isso.}
 {141}{}{Tudo bem, aqui esta o dinheiro.}
-{142}{}{A Vault deve ser capaz de tomar conta da maioria do seu pagamento inicial. Por que eu não dou a você 1000 em vez disso para comecar?}
+{142}{}{A Vault deve ser capaz de tomar conta da maioria do seu pagamento inicial. Por que eu não dou a você 1000 em vez disso para começar?}
 {143}{}{É um caminho longo, mas a Vault tem bastante mercadorias para reembolsar você pelo seu dinheiro upfront. Então, qual tal 500 ao inves disso?}
 {144}{}{Eu não tenho o dinheiro, eu voltarei quando eu tiver.}
 {145}{}{Parece que você não tem dinheiro o bastante, volte quando você tiver. Lembre-se que você precisa de }
 {146}{}{ tampinhas.}
-{147}{}{Certo, eu posso comecar a enviar as caravanas para sua Vault hoje. Agora você deve saber, as caravanas são bastante visiveis
+{147}{}{Certo, eu posso começar a enviar as caravanas para sua Vault hoje. Agora você deve saber, as caravanas são bastante visiveis
  indo pelo deserto. Então, enviar as caravanas por esse caminho vai pintar um quadro muito bom para qualquer um que poderia estar
  procurando pela sua Vault. Você ainda tem certeza que você quer envia-las por esse caminho?}
 {148}{}{Eu creio que não.}

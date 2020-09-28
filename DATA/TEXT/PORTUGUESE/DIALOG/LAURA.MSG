@@ -52,7 +52,7 @@ O cara ativa uma porta secreta na parte inferior.}
 {158}{}{Então o que?}
 {159}{}{Você pode me mostrar essa porta?}
 {161}{laura26}{Ele usa essa chave estranha para abri-lá e
-desaparece. Eu nunca tentei segui-lo.
+desaparece. Eu nunca tentei segui-lo.}
 {162}{}{Você sabe onde esta chave está?}
 {163}{}{Por que não?}
 {165}{laura27}{Bem, eu diria que ele mantém isso nele.}
@@ -64,7 +64,7 @@ desaparece. Eu nunca tentei segui-lo.
 {174}{laura30a}{Certo, mas temos que nos apressar.}
 {176}{laura30b}{Ah, torne isto rápido.}
 {178}{laura31}{Acredite, se você viu o Nightkin,
-você saberia porque. A menos que você seja idiota.
+você saberia porque. A menos que você seja idiota.}
 {179}{}{Talvez eu esteja, mas não estou com medo.}
 {180}{}{Eu posso entender isso. Podemos voltar Ã s perguntas?}
 {182}{laura32}{Ah, eu vejo que isso é realmente engraçado. Olha, eu estou no
@@ -121,7 +121,7 @@ Estou indo para lá.}
 {225}{}{É os seguidores?}
 {226}{}{Posso ajudar Adytum?}
 {228}{laura44}{As crianças não acham que somos uma ameaça o suficiente.
-Nós vamos mostrar a eles.
+Nós vamos mostrar a eles.}
 {229}{}{bom. O que você planeja fazer?}
 {230}{}{Posso ajudar Adytum de alguma forma?}
 {232}{laura45}{Sim, você pode ajudá-los chegando ao Mestre. 'Morda o
@@ -182,7 +182,7 @@ use essa linha patética em mim.}
 {294}{laura62}{O que você está fazendo? Coloque isso no chão!}
 {296}{laura63}{Ei! Saia daqui!}
 {297}{}{Ou então o que?}
-{298}{}{Desculpe, irei agora}}
+{298}{}{Desculpe, irei agora}
 {300}{laura64}{Pare com isso!}
 {302}{laura65}{O que. . . o que você esta fazendo aqui? Você precisa sair!}
 {303}{}{Não, você sai!}
@@ -236,7 +236,7 @@ onde Morpheus faz todas as suas cerimÃ´nias. Eu estive lá,
 Eu assisti Morpheus executar seu pequeno ato de circo lá.}
 {339}{}{Ah, você não pode ir lá. É onde Morpheus contempla.}
 {340}{}{É onde Morpheus e seus amigos se encontram.
-Ninguém é permitido lá em cima.
+Ninguém é permitido lá em cima.}
 {341}{}{Eles provaram-se á  Igreja. O resto de nós aspiramos a isso.}
 {342}{}{Ah sim, estes são os caras que sobreviveram a tortura e quem
 sabe o que mais. Totalmente brainwashed e vai fazer
@@ -281,7 +281,7 @@ qualquer coisa que eles dizem.}
 Ele pode fazer justiça à  sua pergunta.}
 {1105}{laura80}{Nightkin? Eu não sei do que você está falando.}
 {1106}{laura81}{O que?}
-{1107}{laura82}{É o grande lugar no extremo norte da igreja,}
+{1107}{laura82}{É o grande lugar no extremo norte da igreja,
 onde Morpheus faz todas as suas cerimÃ´nias. Eu estive lá, é maravilhoso!}
 {1108}{laura83}{Ah, você não pode ir lá. É onde Morpheus contempla.}
 {1109}{laura84}{Eles provaram-se Ã  Igreja. O resto de nós aspiramos a isso.}

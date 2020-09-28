@@ -27,7 +27,7 @@
 {120}{}{Morda as suas leis!}
 {121}{}{Bem, uh, esta bem pra mim. Mas e melhor você ser cuidadoso.}
 {122}{}{Bom que você perguntou. Nenhuma arma pode ser sacada exceto em
- auto-defesa, se você comecar uma briga, a culpa e sua. Alem disso, e
+ auto-defesa, se você começar uma briga, a culpa e sua. Alem disso, e
  seu direito andar por ai armado. Apenas não puxe uma faca ou arma
  sem justa causa. Tenha um bom dia.}
 {123}{}{Ei você, sem armas! É eu não me importo se sua mamae deixou você

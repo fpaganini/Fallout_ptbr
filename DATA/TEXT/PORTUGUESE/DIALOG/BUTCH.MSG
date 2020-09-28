@@ -412,7 +412,7 @@
 {1125}{butch100}{Bem, é uma grande cidade arruinada ao sul. As Crianças,
  os Seguidores e Adytum estão lá. junto com todas as gangues e tal.}
 #{1126}{butch101}{Por que? O que você ouviu? Eu ouvi que foi ransacked,
- mas ninguém sabe quem o fez. Mas uh, eu não estou preocupado. Ninguem consegue tomar o Hub.}
+# mas ninguém sabe quem o fez. Mas uh, eu não estou preocupado. Ninguem consegue tomar o Hub.}
 {1126}{butch102}{Bem, e o lugar aonde todos vao para negociar na
  Boneyard. É o único lugar civilizado o bastante para faze-lo.}
 {1127}{butch103}{Da ultima vez que eu ouvi, ele e o prefeito de Adytum.}
@@ -421,7 +421,7 @@
 {1129}{butch105}{Ele dirige as Crianças da Catedral abaixo na Boneyard.}
 {1130}{buth105a}{Jain é a Suma Sacerdotisa das Crianças da Catedral
  e sets up o hospital aqui no Hub.}
-{1131}{butch106}{Eu uh . . . ouvi estorias, isso e tudo. Nenhuma verdade nelas
+{1131}{butch106}{Eu uh . . . ouvi estorias, isso e tudo. Nenhuma verdade nelas}
 {1132}{butch107}{Melhores preços nas melhores armas na cidade. Todos dizem que sim,
  não é apenas por que eu as possuo! Apenas trot out e faca um acerto.
  Você não pode perder.}

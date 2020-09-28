@@ -9,7 +9,7 @@
 {108}{}{Me Big Soldier! Hah! Hah! Hah!}
 {109}{}{Fico feliz que você tenha vindo falar comigo. Eu ouvi o que você disse a Laura. Você não deve fazer isso.}
 {110}{}{O que você acha que eu vou fazer?}
-{111}{}{Laura? Quem é Laura?
+{111}{}{Laura? Quem é Laura?}
 {112}{}{Ah, oh.}
 {113}{}{Ah, isso foi um grande erro! É isso vai te custar.}
 {114}{}{tak? Raar!}
@@ -20,8 +20,8 @@
 {119}{}{Claro, irmã. Louvado seja o Mestre! Elogie a Chama Sagrada!}
 {120}{}{Você sabe, toda vez que eu falo com alguém, as pessoas repetem tudo que dizem repetidamente.}
 {121}{}{Entretenimento? Onde está a bebida!}
-{122}{}{Este lugar é chato! Cadê o sangue? Onde está a morte?
-{123}{}{Saudações iniciadas. Como posso estar de serviço para você?
+{122}{}{Este lugar é chato! Cadê o sangue? Onde está a morte?}
+{123}{}{Saudações iniciadas. Como posso estar de serviço para você?}
 {124}{}{Eu estava um pouco nervoso com nossos planos de longo alcance.}
 {125}{}{O que está acontecendo por aqui?}
 {126}{}{Onde está o mestre?}
@@ -42,7 +42,7 @@
 {141}{}{Quem está no comando aqui?}
 {142}{}{Me dê uma irmãzinha. Ninguém serve a outra pessoa a menos que uma arma esteja contra a cabeça deles!}
 {143}{}{Eu sei quem você é. É você vai perdoar a minha grosseria, mas eu não falo com assassinos psicóticos. Tchau.}
-{144}{}{Minha reputação tem sido muito exagerada. A catedral julga as pessoas por boatos e insinuações?
+{144}{}{Minha reputação tem sido muito exagerada. A catedral julga as pessoas por boatos e insinuações?}
 {145}{}{assassino psicótico? Quem eu!}
 {146}{}{Baby, eu não sou psicopata, eu sou simplesmente louco, e se você não responder minhas perguntas eu provarei isso!}
 {147}{}{Eu não forma laços de lealdade facilmente. É também não os quebro facilmente. Eu não direi nada.}
@@ -64,7 +64,7 @@
 {163}{}{eu sei. Eu tenho uma tendência a fazer isso também, quando não tenho nada original para dizer. Até logo.}
 {164}{}{As pessoas que têm o espírito da Chama Sagrada não precisam de outros espíritos. Ou então eles dizem. Você sabe como isso vai_}
 {165}{}{No andar de cima. Peça ao Nightkin para derramar seu sangue, eles ficarão mais do que felizes em agradecer.}
-{166}{}{Porque o Mestre é um mal necessário. Porque alguém tem que unir o mundo, e ele é o único na área que tem a chance de unificá-lo.
+{166}{}{Porque o Mestre é um mal necessário. Porque alguém tem que unir o mundo, e ele é o único na área que tem a chance de unificá-lo.}
 {167}{}{Alguém já lhe disse que a Unidade é superestimada?}
 {168}{}{Por quê?}
 {169}{}{Eu não acredito em males necessários.}
@@ -77,7 +77,7 @@
 {176}{}{Se você acha que eu acredito, por que você não me entregou?}
 {177}{}{Eu pareço o tipo de pessoa que se importa com um bom assassinato?}
 {178}{}{Você já ouviu falar em estar na sua cabeça? Ninguém, por mais bem armado ou treinado, pode derrotar meia dúzia de Nightkin. Eu sou uma mulher de paz. Estou tentando te salvar.}
-{179}{}{Olhe para as pessoas que causaram o Apocalipse! Eles não acreditavam em paz e união, e olham o que fizeram para nós! A união é a única maneira de impedir que isso aconteça novamente, é a união deve acontecer agora, antes que os outros cofres ao redor do mundo tenham a chance de reunir suas forças.
+{179}{}{Olhe para as pessoas que causaram o Apocalipse! Eles não acreditavam em paz e união, e olham o que fizeram para nós! A união é a única maneira de impedir que isso aconteça novamente, é a união deve acontecer agora, antes que os outros cofres ao redor do mundo tenham a chance de reunir suas forças.}
 {180}{}{Você parece um pouco inteligente demais para esse bando de zumbis.}
 {181}{}{Você quer que todos ajam como as pessoas nesta sala? Isso é pior do que estar morto!}
 {182}{}{Você está louco! Isso só vai levar a outro Apocalipse.}
@@ -87,7 +87,7 @@
 {186}{}{Talvez eu deva considerar isso.}
 {187}{}{Então o massacre em massa está correto se você pretende salvar o mundo?}
 {188}{}{Isso é besteira, senhora!}
-{189}{}{Que diabos tipo de mundo você acha que isso é? É um pesadelo lá fora!
+{189}{}{Que diabos tipo de mundo você acha que isso é? É um pesadelo lá fora!}
 {190}{}{Como você sabe que não há algo melhor lá fora?}
 {191}{}{Talvez eu deva considerar isso.}
 {192}{}{Um mundo onde eu possa ser livre para viver minha própria vida como eu escolher.}
@@ -110,7 +110,7 @@
 {209}{}{Ou talvez haja salvação disfarçada de genocídio. Talvez o mundo não seja um lugar tão ruim se as pessoas trabalharem pela visão do Mestre. Talvez possamos até encontrar maneiras de fazê-lo com menos derramamento de sangue. Pense nisso!}
 {210}{}{Ótimo. Mas se você continuar no seu caminho atual, você vai morrer. Eu pensei que deveria avisá-lo.}
 {211}{}{Você pode me matar. Você vai provar meu ponto, claro, mas eu ainda vou morrer. Sua escolha.}
-{212}{}{Por causa do Apocalipse! Veja o que isso fez para nós! A união é a única maneira de impedir que isso aconteça novamente, é a união deve acontecer agora, antes que os outros cofres ao redor do mundo tenham a chance de reunir suas forças.
+{212}{}{Por causa do Apocalipse! Veja o que isso fez para nós! A união é a única maneira de impedir que isso aconteça novamente, é a união deve acontecer agora, antes que os outros cofres ao redor do mundo tenham a chance de reunir suas forças.}
 {213}{}{Você parece um pouco inteligente demais para esse bando de zumbis.}
 {214}{}{Você quer que todos ajam como as pessoas nesta sala? Isso é pior do que estar morto!}
 {215}{}{Eu vou considerar isso}
@@ -139,7 +139,7 @@
 {238}{}{Essa é uma resposta irritantemente vaga.}
 {239}{}{Obrigado, irmã.}
 {240}{}{O sumo sacerdote da catedral é Morpheus. Ele pode ser encontrado no Santuário Superior, mas não dá audiências pessoais. Você pode persuadir o padre Lasher a confirmar sua presença, ele pode ser encontrado aqui embaixo, na Reitoria.}
-{241}{}{Morpheus? Ele é um bom homem?
+{241}{}{Morpheus? Ele é um bom homem?}
 {242}{}{Por que eles o chamam de Lasher?}
 {243}{}{É o que dizer do Mestre?}
 {244}{}{Existe mais alguma coisa que eu deva saber?}
@@ -157,7 +157,7 @@
 {256}{}{Quem eu abordo sobre voluntariado?}
 {257}{}{Semanas! Isso é uma longa espera.}
 {258}{}{Que ancião é o melhor para abordar?}
-{259}{}{Trabalho de serviço? Como matar seus inimigos?
+{259}{}{Trabalho de serviço? Como matar seus inimigos?}
 {260}{}{Minhas desculpas. No mínimo, você pode estar honestamente buscando redenção para seus crimes. Como posso ajudá-lo.}
 {261}{}{Eu queria saber o que é a catedral.}
 {262}{}{Como se torna um iniciado?}
@@ -177,7 +177,7 @@
 {276}{}{Você é bem vindo, senhorita. Que o Mestre te abençoe com sabedoria.}
 {277}{}{Ele é um homem inteligente e tem a confiança do Mestre. Isso deveria ser o suficiente. Que o Mestre te abençoe com sabedoria. Tchau.}
 {278}{}{Ele educa as crianças, e faz isso com dureza. Mais alguma coisa?}
-{279}{}{Morpheus? Ele é um bom homem?
+{279}{}{Morpheus? Ele é um bom homem?}
 {280}{}{Por que Lasher deveria ferir crianças?}
 {281}{}{É o que dizer do Mestre?}
 {282}{}{Existe mais alguma coisa que eu deva saber?}

@@ -5,7 +5,7 @@
 {104}{}{Hmm, você parece juicy . . .}
 {105}{}{Eu espero que você não vá me chutar daqui.}
 {106}{}{Não.}
-{107}{}{Esse e um jeito estranho de comecar uma conversa.}
+{107}{}{Esse e um jeito estranho de começar uma conversa.}
 {108}{}{Hnnn.}
 {109}{}{Ah, bem, se você quiser ficar um pouco, vá bem em frente. Eu acho que nos
  estamos seguros aqui.}

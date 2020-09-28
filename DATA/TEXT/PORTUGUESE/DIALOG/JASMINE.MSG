@@ -2,13 +2,13 @@
 {101}{}{Com licença, senhor, essa pessoa é membro de uma das corporações mercantes.}
 {102}{}{Deixe-me ver se entendi; você está atirando em meu chefe e meus amigos e quer conversar? Seja dobrado!}
 {103}{}{A porta está ali. Não deixe que você bata na saída.}
-{104}{}{Oi. Bem-vindo ao Círculo de Ladrões. Jogue suas cartas certas e você está dentro.
+{104}{}{Oi. Bem-vindo ao Círculo de Ladrões. Jogue suas cartas certas e você está dentro.}
 {105}{}{Bem-vindo ao Círculo de Ladrões. Eu sou Jasmine. Estou aqui para ajudar a tornar sua infiltração do
 Daren Hightower propriedade tão indolor quanto possível. A propriedade de Hightower está localizada nas alturas. Tem um
 mínimo de dois guardas de plantão em todos os momentos. O colar é provavelmente em um cofre, que muitas vezes têm
 algumas pequenas armadilhas, então tenha cuidado. Aqui estão alguns lockpicks e um par de foguetes para tornar seu trabalho um pouco
 mais fácil .. É uma garrafa de Nuka-Cola. Tente não matar o Sr. Hightower. Ele é um dos nossos "favoritos". Você
-tem tudo isso?
+tem tudo isso?}
 {106}{}{O que você quer dizer com "favorito"?}
 {107}{}{Lockpicks e Flares? Isso é tudo.}
 {108}{}{Nuka Cola?}

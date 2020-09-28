@@ -6,7 +6,7 @@
 {105}{}{Com quem eu posso falar sobre dar minha assistencia?}
 {106}{}{Otimo. Eu estou ocupado, e eu consigo um retardado tailing me. Vá procurar o Jake
  se você precisa de alguém para conversar.}
-{107}{}{Com certeza. Você pode comecar saindo fora do meu caminho.}
+{107}{}{Com certeza. Você pode começar saindo fora do meu caminho.}
 {108}{}{Certamente. Alguma coisa mais?}
 {109}{}{Deve haver alguma coisa mais que eu possa fazer.}
 {110}{}{Não me jogue para o lado.}

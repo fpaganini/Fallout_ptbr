@@ -13,7 +13,7 @@
 {111}{}{Você cheira como um brahmin mas eu aposto que você não é tão inteligente.}
 {112}{}{}
 {113}{}{Ahh, muito bom. Fregueses são sempre bem-vindos.
- Entre mas por favor mantenha suas armas holstered.
+ Entre mas por favor mantenha suas armas guardadas.
  Vá achar o Zack, ele pode set you up com qualquer coisa que você precise.}
 {114}{}{}
 {115}{}{Eu preciso falar com seu chefe. É muito importante.}

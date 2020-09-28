@@ -44,7 +44,7 @@
 {135}{}{Lamento ouvir isso, espero que as coisas fiquem mais interessantes.}
 {136}{}{Você poderia me ensinar?}
 {137}{}{Soa interessante, mas eu tenho que ir.}
-{138}{}{Bem, eu creio que eu tenho o tempo. Poderia tambem comecar agora mesmo. [MacRae comeca a mostrar
+{138}{}{Bem, eu creio que eu tenho o tempo. Poderia tambem começar agora mesmo. [MacRae comeca a mostrar
  pra você algumas posições de luta, e modos de levar socos como um verdadeiro escoces.]}
 {139}{}{Você ser um aprendiz rapido. Espero que ajude você nas suas viagens.}
 {140}{}{Bem, eu costumava ajudar os Blades ensinando eles algumas coisas sobre proteger a si mesmos

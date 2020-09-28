@@ -23,7 +23,7 @@
  ladroes, você sabe... as coisas de sempre. De tudo por tudo, e meu tipo de cidade. [Risadas]}
 {121}{}{Quanto tempo antes que a caravana saia?}
 {122}{}{Eu acho que eu darei uma olhada antes de nos irmos. Vejo você mais tarde.}
-{123}{}{Esta parte da Boneyard e chamada Adytum. A Boneyard e basicamente comandada por gangues. Tipo de area ruim, então cuidado aonde pisa aqui. Adytum e comandada pelos Reguladores. Eles estão tentando manter este lugar unido a despeito de todas as guerras de gangues. Eles são compreensivelmente suspeitos de estranhos, então se você não falou com eles ainda eu sugiro a você que o faca antes de comecar a vaguear por ai.}
+{123}{}{Esta parte da Boneyard e chamada Adytum. A Boneyard e basicamente comandada por gangues. Tipo de area ruim, então cuidado aonde pisa aqui. Adytum e comandada pelos Reguladores. Eles estão tentando manter este lugar unido a despeito de todas as guerras de gangues. Eles são compreensivelmente suspeitos de estranhos, então se você não falou com eles ainda eu sugiro a você que o faca antes de começar a vaguear por ai.}
 {124}{}{Vazio}
 {125}{}{Quanto tempo antes que a caravana saia?}
 {126}{}{Eu acho que eu darei uma olhada antes de nos irmos. Vejo você mais tarde.}

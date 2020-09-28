@@ -4,7 +4,7 @@
 {103}{}{Por que você não tem muitos visitantes?}
 {104}{}{O que é que você faz aqui?}
 {105}{}{Este lugar não é muito acessivel com um ninho daqueles malditos deathclaws bem do lado de fora da nossa fabrica.}
-{106}{}{Você  parecem fairly bem armados, por que você não vao extermina-los?}
+{106}{}{Vocês  parecem estarem bem armados, por que vocês não vao extermina-los?}
 {107}{}{Nós fomos lá e eliminamos alguns, mas eles sempre parecem voltar. Alem disso, nos somos operarios, não lutadores.}
 {108}{}{O que você me daria se eu fosse lá e tomasse conta deles pra você?}
 {109}{}{Nós fabricamos armas e munição. Nós estivemos nisto pelos ultimos 30 anos. Mas os ultimos 10 foram o inferno.}
@@ -15,7 +15,7 @@
 {114}{}{Por que vocês simplesmente não saem e set up em algum outro lugar?}
 {115}{}{Isso e rough. O que você me daria pra tomar conta dos deathclaws?}
 {116}{}{Nós iriamos se nos pudessemos. Mas mudar e um major undertaking com todos os lathes e mills. Estas são coisas que não são apenas picked up easily moved. Nós podiamos mudar mas os deathclaws o torna impossivel.}
-{117}{}{Você  parecem fairly bem armados, por que você não vao extermina-los?}
+{117}{}{Vocês  parecem estarem bem armados, por que vocês não vao extermina-los?}
 {118}{}{Se você pudesse se livrar dos deathclaws de uma vez por todas você poderia dar seu preço.}
 {119}{}{Eu quero armas e munição, e muitas delas.}
 {120}{}{}

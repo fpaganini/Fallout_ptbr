@@ -64,29 +64,29 @@
 {156}{}{Codigo de autorizacao invalido. Comando?}
 {157}{}{Codigo de autorizacao aceito. Por favor aguarde. Acessando os dados.
  Pronto pra processar o pedido.}
-{158}{}{Encerrar os sistemas de suporte a vida no lote do VEF #23872-A.}
+{158}{}{Encerrar os sistemas de suporte a vida no lote do VEF Número 23872-A.}
 {159}{}{Aumentar a dosagem do DNA original em 100% em todos os especimes.}
 {160}{}{Acesso concedido. Qual arquivo do paciente você gostaria de examinar?}
-{161}{}{Arquivo do paciente #23869.}
-{162}{}{Arquivo do paciente #23870.}
-{163}{}{Arquivo do paciente #23871.}
-{164}{}{Arquivo do paciente #23872.}
-{165}{}{Arquivo do paciente #23869. Cobaia: Masculino. Idade 25. Contagem da radiacao: 40.
+{161}{}{Arquivo do paciente Número 23869.}
+{162}{}{Arquivo do paciente Número 23870.}
+{163}{}{Arquivo do paciente Número 23871.}
+{164}{}{Arquivo do paciente Número 23872.}
+{165}{}{Arquivo do paciente Número 23869. Cobaia: Masculino. Idade 25. Contagem da radiacao: 40.
  Exposicao ao VEF: 50%. Cadeias originais do DNA remanescentes: 50%. Os sinais vitais
  estão altos mas dentro dos paremetros normais.}
 {166}{}{Eu gostaria de examinar outro arquivo do paciente.}
-{167}{}{Arquivo do paciente #23870. Cobaia: Masculino. Idade 23. Contagem da radiacao: 15.
+{167}{}{Arquivo do paciente Número 23870. Cobaia: Masculino. Idade 23. Contagem da radiacao: 15.
  Exposicao ao VEF: 60%. Cadeias originais do DNA remanescentes: 40%. Os sinais vitais
  estão dentro dos parametros normais.}
-{168}{}{Arquivo do paciente #23781. Cobaia: Feminina. Idade 20. Contagem da radiacao: 10.
+{168}{}{Arquivo do paciente Número 23781. Cobaia: Feminina. Idade 20. Contagem da radiacao: 10.
  Exposicao ao VEF: 55%. Cadeias originais do DNA remanescentes: 45%. Os sinais vitais
  estão dentro dos parametros normais.}
-{169}{}{Arquivo do paciente #23782. Cobaia: Masculino. Idade 26. Contagem da radiacao: 35.
+{169}{}{Arquivo do paciente Número 23782. Cobaia: Masculino. Idade 26. Contagem da radiacao: 35.
  Exposicao ao VEF: 60%. Cadeias originais do DNA remanescentes: 40%. Os sinais vitais
  acima do normal mas dentro dos parametros aceitaveis.}
 {170}{}{Você tem certeza que você deseja desativar os sistemas de suporte a vida do Lote
- do VEF #23872-A?}
-{171}{}{Lote do VEF #23872-A encerrado. Comando?}
+ do VEF Número 23872-A?}
+{171}{}{Lote do VEF Número 23872-A encerrado. Comando?}
 {172}{}{Sim.}
 {173}{}{Não.}
 {174}{}{Você tem certeza que você deseja aumentar a dosagem? A auto-correcao sera

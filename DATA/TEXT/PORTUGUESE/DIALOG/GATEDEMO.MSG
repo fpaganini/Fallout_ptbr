@@ -20,7 +20,7 @@
  casa, no lado noroeste. Mas ninguém encontrou tudo.}
 {118}{}{Certo. Obrigado pelo seu tempo.}
 {119}{}{Existe mais alguma coisa?}
-{120}{}{Certo, ok, ok. Por favor, não me machuque.
+{120}{}{Certo, ok, ok. Por favor, não me machuque.}
 {121}{}{Não é uma chance! Die scum !!}
 {122}{}{Bem, supostamente o sujeito que morava no prédio a noroeste tinha uma linda
  arma desagradável. Talvez você possa encontrá-lo.}

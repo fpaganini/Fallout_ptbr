@@ -10,7 +10,7 @@
  esta ao sul, com as outras areas branching off em cada direção
  de lá.}
 {109}{}{Aonde eu posso achar suprimentos?}
-{110}{}{Se eu estivesse procurando por um trabalho, aonde seria um bom lugar pra comecar?}
+{110}{}{Se eu estivesse procurando por um trabalho, aonde seria um bom lugar pra começar?}
 {111}{}{Eu posso fazer outra pergunta pra você?}
 {112}{}{Obrigado pela informação. Tchau.}
 {113}{}{Eu obtenho tudo de que preciso do Mitch abaixo do Maltese Falcon. Apenas siga

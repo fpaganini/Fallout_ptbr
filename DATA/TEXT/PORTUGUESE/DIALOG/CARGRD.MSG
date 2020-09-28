@@ -40,7 +40,7 @@
  de volta em segurança para o Hub, mas somente se eu fizer isso. Você tem que cobrir
  me se entrarmos em uma briga.}
 {123}{}{Então, você mudou de ideia?}
-{124}{}{Sim, aceito o trabalho}}
+{124}{}{Sim, aceito o trabalho}
 {125}{}{Não}
 {126}{}{Hra?}
 {127}{}{Desculpe, não vamos voltar ao Hub hoje.}

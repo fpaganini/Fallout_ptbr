@@ -5,7 +5,7 @@
 {104}{}{Dia bacana, não e?}
 {105}{}{Fale com o Zack se você esta procurando gear.}
 {106}{}{Zack vende as armas.}
-{107}{}{Mantenha suas armas holstered.}
+{107}{}{Mantenha suas armas guardadas.}
 {108}{}{Não tente qualquer coisa engracada.}
 {109}{}{Nós poderiamos deter um exercito aqui.}
 {110}{}{Um cara caiu no fosso uma vez. Que jeito horrivel de se for.}

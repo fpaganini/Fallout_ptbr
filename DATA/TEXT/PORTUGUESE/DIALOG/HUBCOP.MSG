@@ -42,7 +42,7 @@
 # == Don't do anything illegal.
 
 {118}{}{Ei. Eu conheco você. Sem mais brigas okay?}
-{119}{}{Melhor você não estar pensando em comecar outra briga!}
+{119}{}{Melhor você não estar pensando em começar outra briga!}
 {120}{}{Se você pegarmos você brigando de novo, você vai pra cadeia!}
 # "You're going in" equals "You are going to jail"
 

@@ -16,7 +16,7 @@
 {115}{}{Garl Death-Hand ama seus guerreiros. Coloque essa coisa fora e vá falar com ele.}
 {116}{}{Então, você acha que é durão, hein? Mexa comigo e nós dois vamos descobrir.}
 {117}{}{Eu não gosto da sua aparência.}
-{118}{}{Vá embora}}
+{118}{}{Vá embora}
 {119}{}{O que você quer?}
 {120}{}{Estou à procura de uma mulher chamada Tandi. Visto ela?}
 {121}{}{Nada. Apenas olhando por aí.}

@@ -1,0 +1,118 @@
+{100}{}{Você vê um adolescente.}
+{101}{}{Você! Você o fez! Quando eu crescer eu vou pegar você!
+ Eu vou caçar você e matar você! Você matou todos eles!
+ Tooodoooossss! [Choro incontrolavel].}
+{102}{}{Era o unico jeito. O unico modo de para-los.}
+{103}{}{Como diabos você sobreviveu a bomba atomica?}
+{104}{}{É uma mentira, garoto. Eu não o fiz!}
+{105}{}{Melhor você achar um doutor, garoto. Você tem a doenca da radiaçao.}
+{106}{}{Você sabe garoto, Eu não preciso de um cara forte tentando me atrasar em 20 anos. diga boa noite, pirralho.}
+{107}{}{Eu ouvi sobre você. Você anda pelas terras devastadas matando garotos! Ajuda! Nightkin!}
+{108}{}{Você esta enganado, criança. Eu sou um homem bom.}
+{109}{}{Sim, e se você não calar a boca você não vivera tempo o bastante pra ter pesadelos.}
+{110}{}{Eu não estou aqui pra aborrecer você garoto, então apenas fique quieto.}
+{111}{}{Eu faço o que? Eles não são apenas caras pequenos?}
+{112}{}{Certo. Eu ficarei quieto. Mas eu espero que os Nightkin peguem você!}
+{113}{}{Nightkin! Nightkin!}
+{114}{}{Talvez foi outra pessoa. Mas se foi você, eu acharei você um dia quando eu ficar mais velho, e eu farei você pagar!}
+{115}{}{Ola, senhor. Você precisa de uma flor de meditacao?}
+{116}{}{Ola, senhora. Você precisa de uma flor de meditacao?}
+{117}{}{Crianca, ultimamente tem algo interessante acontecendo aqui?}
+{118}{}{Claro, criança.}
+{119}{}{Não agora.}
+{120}{}{Flor bonita?}
+{121}{}{Tira essa erva daninha da minha frente, seu pirralhinho!}
+{122}{}{Eu ouvi que o Padre Morpheus teve uma visita do proprio Mestre. Ele esta realmente feliz agora.}
+{123}{}{Algo mais?}
+{124}{}{Eu apostarei.}
+{125}{}{Não agora.}
+{126}{}{Flor bonita?}
+{127}{}{Tira essa erva daninha da minha frente, seu pirralhinho!}
+{128}{}{O Padre Lasher diz que eu tenho que manter minha boca grande fechada. Ele não é divertido!}
+{129}{}{Vamos garoto! Certamente você viu alguma coisa!}
+{130}{}{Padre Lasher?}
+{131}{}{Divercao bom.}
+{132}{}{Soa como se ele e eu temos muito em comum.}
+{133}{}{Isso e otimo! Possa o Mestre abencoar você. [Ele da uma flor pra você.]}
+{134}{}{Aw! Você não é divertido. Talvez eu devesse falar com os Nightkin sobre você!}
+{135}{}{Os Nightkin são meus amigos.}
+{136}{}{Você é um pouco jovem demais pra entender quao divertido eu posso ser.}
+{137}{}{Vá em frente. É eu direi a eles sobre você.}
+{138}{}{Se você começar a falar pra qualquer um sobre mim garoto você esta morto!}
+{139}{}{Com certeza é. Eu a pequei eu mesmo de um bosque across da cidade. Bem, foi bacana encontrar você. Possa o Mestre abencoar você.}
+{140}{}{O que eu faria? O que eu faria?!}
+{141}{}{Você tem certeza que você não quer uma flor?}
+{142}{}{Eu a levarei se você me disser o que esta acontecendo por aqui.}
+{143}{}{Certo. Eu a levarei.}
+{144}{}{Lamento garoto. Eu não um cara que gosta de flor.}
+{145}{}{Lamento garoto. Você é um pouco jovem pra estar me dando flores.}
+{146}{}{I dunno. Por que você pergunta?}
+{147}{}{Eu não dizer isso pra você! Os Nightkin me comeriam!}
+{148}{}{Ele e meu professor. Ele diz que cada chicotada que nos recebemos nos traz mais perto do Mestre!}
+{149}{}{Que homem charmoso. Nós realmente devemos conversar.}
+{150}{}{Não acredite nele garoto.}
+{151}{}{Aonde esta este bastardo? Eu matarei ele.}
+{152}{}{Professor? Quem precisa de professor?}
+{153}{}{É você ainda não aprender quando calar a boca? Você deve ter coco no lugar de cerebro, garoto.}
+{154}{}{Uh, tchau!}
+{155}{}{Sim, é. Bem, adeus. Que o Mestre possa abençoar você!}
+{156}{}{Mas os Nightkin gostam de mim! Eles me disseram que se alguém me aborrecesse, eles matariam eles. So there!}
+{157}{}{Eu ouvi que há uma passagem secreta por aqui, mas eu não
+ a achei ainda. Supostamente e perigosa mesm. So o Morpheus e os
+ Nightkin são permitidos nela. Bem,
+ Melhor eu ir. Louvem o Mestre!}
+{158}{}{Isso e muito ruim. De qualquer modo, que o Mestre possa abençoar você.}
+{159}{}{Por favor não diga a ele que eu disse qualquer coisa pra você! Por favor!}
+{160}{}{Não se preocupe. Quando eu tiver acabado com ele ele não se lembrara de nada.}
+{161}{}{Eu não direi. Eu prometo.}
+{162}{}{Vá cuidar da sua vida, garoto.}
+{163}{}{Rar! O que você disse?}
+{164}{}{A vida e dura. Aprenda a leva-lá garoto, e pare de reclamar.}
+{165}{}{Mas eu devo! Eu devo! A descrença e dor!}
+{166}{}{Por favor não! Ele me ama! Ele e o unico que ama.}
+{167}{}{Isso esta ok, eu acho. Que o Mestre possa abençoar você. Tchau.}
+{168}{}{Obrigado! Ah obrigado! Que o Mestre possa abençoar você. Tchau.}
+{169}{}{Certo eu irei . . . (sniff) Talvez o Padre Lasher sera mais bondoso comigo apos o Mestre dominar o mundo.}
+{171}{}{É quando o Mestre vai dominar o mundo?}
+{172}{}{Me fale mais sobre isto, garoto.}
+{173}{}{Ele não ficara. Ele se tornara pior. Mas se você for esperto, torne-se a favorita dela e ele deixara você torturar os novos garotos que chegarem.}
+{174}{}{Ugh! Mim gosta bondade.}
+{175}{}{Em breve, ou assim eles me dizem. Nós vamos ter paz, e Unidade é a Chama Sagrada sera acesa. É tambem talvez o Padre Morpheus não falara tão alto.}
+{176}{}{Algo mais?}
+{177}{}{Padre Morpheus?}
+{178}{}{Alto é uma droga!}
+{179}{}{Uh, eu realmente não sei muito. Verdade. Abençoado seja o Mestre! Tchau!}
+{180}{}{Oi. Como você esta?}
+{181}{}{Bem, garoto. Quais são as boas novas?}
+{182}{}{Certo. Então, você tem qualquer sujeira pro seu velho amigo?}
+{183}{}{Muito bom. Que tal você?}
+{184}{}{Eu não sei. Entendiado.}
+{185}{}{Eu me sinto lousy. Você sabe quanto tempo faz desde que eu matei alguma coisa?}
+{186}{}{Uh, ola.}
+{187}{}{Ola garoto. Você pode me dizer sobre o que é este lugar?}
+{188}{}{Oi garoto. O que você esta fazendo neste joint?}
+{189}{}{Oi garoto. Como você esta indo?}
+{190}{}{Fique longe de mim, pirralho, ou eu transformarei você num cinto!}
+{191}{}{Hello? Rima com yellow! Engraçado! (Piada que perderia o sentido se fosse traduzida)}
+{192}{}{Esta é a Catedral das Crianças da Catedral. Eu
+ não sei por que eles dizem Catedral duas vezes. Nós
+ adoramos o Mestre, e nós gritamos muito sobre Paz e
+ Unidade. Soa tipo uma coisa burra, mas o Mestre e
+ esperto mesmo, então eu creio que deve ser ok.}
+{193}{}{Me fale mais sobre o Mestre.}
+{194}{}{Soa burro pra mim tambem. O que você esta fazendo aqui?}
+{195}{}{Não fale dos seus velhos desse modo, ok?}
+{196}{}{Que tipo de bobinho com lavagem cerebral você e? Você vai crescer pra ser um destes zumbis! Eu deveria matar você agora!}
+{197}{}{Eu dou flores. Cada petala é a paz, e o caule é a Unidade. Ou as petalas são unidade e o caule a paz? Ah não, eu não me lembro! Você quer uma?}
+{198}{}{Eu pegarei uma se você me disser o que esta acontecendo por aqui.}
+{199}{}{Com certeza.}
+{200}{}{Não, obrigado.}
+{201}{}{Dane-se a paz. Dane-se a Unidade. É tire essa flor da minha frente!}
+{202}{}{Padre Lasher diz que eu não devo falar com estranhos . . . até que nos tenhamos a Unidade, claro; então ninguém sera um estranho. Tchau!}
+{203}{}{Eu estou ok. Pelo menos até a proxima liçao do Padre Lasher.}
+{204}{}{Talvez se você estudasse mais, as liçoes não seriam tão ruins.}
+{205}{}{Me fale mais sobre o Padre Lasher.}
+{206}{}{Que tipo de liçao?}
+{207}{}{Pare de reclamar seu pirralhinho, e seja grato que alguém esta se importando de ensinar você!}
+{208}{}{Eu nunca faço bom o bastante! Nunca!}
+{209}{}{[Feito]}

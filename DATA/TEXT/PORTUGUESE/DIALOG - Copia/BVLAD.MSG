@@ -1,0 +1,7 @@
+{100}{}{Você comeca a escalar a escada.}
+{101}{}{Você escorrega da escada e plummet na escuridão abaixo.
+ Você aterrissa com um crash, mas não toma dano.}
+{102}{}{Você escorrega da escada e plummet na
+ escuridão abaixo. Você aterrissa com um crash e toma }
+{103}{}{ de dano.}
+{104}{}{Você cai da escada perto do chao.}

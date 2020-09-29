@@ -1,0 +1,23 @@
+{100}{}{Você vê um paladino.}
+{101}{}{Desculpe, não posso falar, iniciar.}
+{102}{}{Bom dia.}
+{103}{}{Você sabia que poderia sobreviver por semanas sem água em um traje?
+ de armadura elétrica?}
+{104}{}{Você não adora uma boa luta?}
+{105}{}{Eu realmente gosto dos novos rifles a laser, mas as velhas pistolas a laser
+ são meus favoritos.}
+{106}{}{As patrulhas de perímetro noturno são muito perigosas. Eu não vagaria
+ muito longe à noite, se eu fosse você.}
+{107}{}{Tenha cuidado, é um mundo mortal lá fora.}
+{108}{}{Eu acho que minha armadura tem um ponto nela!}
+{109}{}{A Irmandade é ótima. Eu não tive nenhuma experiência
+ fora dele, mas não poderia ficar melhor do que isso.}
+{110}{}{Bom dia, inicie.}
+{111}{}{Se você precisar de alguma coisa, você deve falar com Vree.}
+{112}{}{Vree está bem ali se você precisar falar com alguém.}
+{113}{}{Eu tenho que encontrar tempo entre as patrulhas e treinar para acompanhar
+ com meus estudos. Eu acho que estou ficando um pouco enferrujado.}
+{114}{}{Você precisa manter sua mente e corpo sempre em boas condições,
+ Iniciar.}
+{115}{}{Ser um Paladino não é apenas combate, meu filho.}
+{116}{}{Ser um Paladino não é apenas combate, minha senhora.}

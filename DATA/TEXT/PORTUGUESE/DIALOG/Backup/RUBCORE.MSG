@@ -1,0 +1,3 @@
+{100}{}{O resto da vault nesta direção tinha equipamento delicado
+ que provavelmente foi arruinado e destruido. Há uma chance
+ muito baixa de qualquer coisa que tenha valor.}

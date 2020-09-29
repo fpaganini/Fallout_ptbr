@@ -1,0 +1,262 @@
+{100}{}{Você vê Morpheus.}
+{101}{MORP02}{Eu não me lembro de convidar alguém para o meu quarto? É ainda tenho um
+ Visitante. Por quê?}
+{102}{}{Ah, me desculpe. Eu pareço estar perdido.}
+{103}{}{Porque eu tenho um bom negócio para você ...}
+{104}{}{Eu estou}
+{105}{}{. O que é seu?}
+{106}{}{Um dos irmãos me enviou aqui.}
+{107}{}{Mom?}
+{108}{MORP02A}{Não. Eu sou a morte do pai ...}
+{109}{MORP03}{Bom, meu filho, é muito perigoso explorar
+ lugares onde você não pertence. Para onde você estava indo?
+ minhas câmaras privadas?}
+{110}{}{Eu sou novo, e eu estava procurando o banheiro. Um de
+ os outros Sumo Sacerdotes me enviaram aqui.}
+{111}{}{Eu estava procurando pelo confessionário, e um dos
+ Os Sumo Sacerdotes me enviaram até aqui. Eu realmente sinto muito por eu
+ acabou aqui!}
+{112}{}{Bem, eu não estou realmente perdido.}
+{113}{}{Eu estava indo para cá para te matar.}
+{114}{}{Eu esqueci. Eu irei apenas.}
+{115}{MORP04}{Ahh ... Ei, heh heh. Isso seria Lasher. Ele adora receber os adoradores
+ em apuros. Este é o seu dia de sorte, meu pequeno amigo ignorante. Você pode sair
+ agora sem incidentes. }
+{116}{MORP04A}{Você foi avisado. Guardas! }
+{117}{MORP05A}{Você é uma mentirosa patética. Diga-me a verdadeira razão pela qual você
+ está aqui agora ... antes que eu tenha sua pele viva. }
+{118}{}{Não é verdade! Estou perdido!}
+{119}{}{Tudo bem, você me pegou. Estou aqui para oferecer um acordo.}
+{120}{}{Eu estou apenas olhando em volta.}
+{121}{MORP06}{Eu suspeito que você
+ é um espião enviado pelos seguidores. Eu posso estar errado, mas eu não me arrisco.
+ Você deve ser eliminado. }
+{122}{MORP07}{O que você poderia me oferecer? }
+{123}{}{Eu sou de um cofre. Você sabe o que é isso, certo?}
+{124}{}{Gostaria de oferecer algumas informações sobre seus inimigos.}
+{125}{}{Eu fui enviado aqui pelo Mestre. Ele quer que eu te espie.}
+{126}{morp08}{seguir em frente}
+{127}{}{Eu gostaria de dar ao seu mestre um pouco de informação
+ sobre o meu cofre.}
+{128}{}{Eu tenho algumas informações para o Mestre sobre o meu Cofre.}
+{129}{}{Não tão rápido. Eu quero saber o que posso obter para minha informação.}
+{130}{MORP09}{Eu não tenho um mestre, seu imbecil! }
+{131}{}{Então, como você chama o Mestre? Ele não controla você?}
+{132}{}{Parece que o Mestre controla você.}
+{133}{}{Ei. Cuidado com os insultos !!}
+{134}{}{Eu pareço ter atingido um nervo}
+{135}{MORP10}{Ninguém
+ me controla. Ele e eu somos ... parceiros. }
+{136}{}{Sim, certo. Você é um cachorrinho com uma coleira curta.}
+{137}{}{Não importa. Eu tenho informações sobre um Vault ele
+ quereria.}
+{138}{}{Ele dá comandos, certo? É você os segue, não
+ perguntas feitas.}
+{139}{MORP11}{Eu não tolero
+ insultos. Guardas! }
+{140}{MORP12}{Ótimo. Eu vou te levar ao Mestre. Mas se
+ você está mentindo, ele saberá. }
+{141}{}{Certo, tudo bem}
+{142}{}{Você não está me levando a lugar algum!}
+{143}{MORP13}{Isso não é da sua conta.
+ se você for verdadeiramente de um Vault, o Mestre descobrirá. Guardas! Venha comigo.}
+{144}{MORP14}{Você pode manter sua vida. Agora, me diga o que você sabe. }
+{145}{}{Eu sou de um cofre, e estou disposto a dar o
+ Domine a localização.}
+{146}{}{ou o quê?}
+{147}{}{Eu não te direi nada.}
+{148}{MORP15}{Não? Então eu vou pegar as informações de você. Guardas! }
+{149}{MORP16}{É quem seriam meus inimigos? }
+{150}{}{Bem, os seguidores, por um.}
+{151}{}{De onde estou, parece que todos.}
+{152}{MORP17}{Diga-me o que você sabe. }
+{153}{}{Eu não penso assim. Leva-me ao mestre. Ele, eu direi.}
+{154}{}{Vamos apenas dizer que eu sei de algo para te ajudar contra eles.}
+{155}{MORP18}{Dê-me a informação ou morra devagar ... demorando ... morte. }
+{156}{}{Acha que o Mestre ficaria feliz se você matasse um morador de Vault?}
+{157}{}{Eu estou falando apenas com o Mestre.}
+{158}{MORP19}{Ahh ... Então você é o morador de Vault que eu tenho ouvido falar.
+ Surpreso? Eu tenho minhas fontes. Agora, vou levá-lo como um presente para o Mestre.
+ Ele ficará muito satisfeito. }
+{159}{}{Que tal nós tiramos você em uma sacola?}
+{160}{}{É assim será I.}
+{161}{MORP20}{Um espião? Muito tolo de você. Será
+ difícil relatar a ele quando você está morto, não vai? }
+{162}{MORP21}{Você é
+ um mentiroso malvado. Agora me diga o que você quer. }
+{163}{}{Eu sou de um cofre. Você sabe o que é isso, certo?}
+{164}{}{Gostaria de oferecer algumas informações sobre seus inimigos.}
+{165}{MORP23}{Como é surpreendente. Agora
+ me diga porque você está aqui. }
+{166}{}{Eu sou de um Vault, e estou disposto a dar ao Mestre o local.}
+{167}{}{Gostaria de oferecer algumas informações sobre seus inimigos.}
+{168}{}{Você não é muito intimidante.}
+{169}{}{Eu não te direi nada.}
+{170}{MORP24}{Ah, é mesmo? É como você planeja fazer
+ aquele? Com sua inteligência estonteante e língua afiada? }
+{171}{}{Não, com isso. . .}
+{172}{}{Isso seria muito fácil contra você. Eu irei a rota mais desafiadora.}
+{173}{}{Eu acho que uma bala na cabeça serve.}
+{174}{MORP26}{Aqui está o seu negócio.
+ Diga-me o que você sabe, e você poderá sair daqui em ambas as pernas.}
+{175}{}{Eu sou de um cofre, e estou disposto a dar ao Mestre o local.}
+{176}{}{Gostaria de oferecer algumas informações sobre seus inimigos.}
+{177}{}{Você não é muito intimidante.}
+{178}{}{Eu não te direi nada.}
+{179}{MORP27}{Eu faço as perguntas, não você. Agora, me diga o que você está fazendo
+ Aqui. }
+{180}{}{Eu acabei de perder.}
+{181}{}{Eu estou aqui para fazer um acordo.}
+{182}{morp28}{Yes?}
+{183}{}{Oi. Eu sou novo para as crianças e queria saber se
+ Eu poderia te fazer algumas perguntas.}
+{184}{}{Não importa.}
+{185}{}{Nuhh?}
+{186}{morp29}{Naturalmente, meu filho.}
+{187}{}{Obrigado. . .}
+{188}{}{Não importa.}
+{189}{}{Quais são os planos das crianças?}
+{190}{}{mudou minha mente. Sem mais perguntas.}
+{191}{}{O que você diz se eu te disser que sou de um Vault?}
+{192}{MORP31}{Nossos planos? Nós somos os mensageiros da evolução, meu filho.
+ Nós seguimos o Mestre em sua busca sem fim para curar a terra e as pessoas.}
+{193}{}{Realmente? Apenas que tipo de evolução você está ensinando?}
+{194}{}{Que tipo de cura?}
+{195}{MORP32}{Sabemos que há um nível mais alto, um lugar glorioso, a humanidade
+ deve se esforçar para alcançar. O nosso objetivo é encontrar a vida melhor, mais
+ cumprindo, do que o presente, marcado por dificuldades e conflitos. }
+{196}{}{Você está brincando, certo?}
+{197}{}{É você encontrou este nível mais alto?}
+{198}{MORP33}{[Irritada] Por que você! ... [Calmamente] Você está perdoado. Nem todo mundo é
+ capaz de ver a luz. Mas me diga meu filho, por que você se juntou a nós? }
+{199}{}{Eu tinha que ver se isso era tanto uma piada quanto eu tinha ouvido. Agora eu sei.}
+{200}{}{Desculpa. Eu acho que estava fora de linha.}
+{201}{morp34}{Você não sabe nada.}
+{202}{MORP35}{Sim, você
+ foram, mas você está perdoado. Agora, se não houver mais perguntas, eu tenho trabalho
+ façam. }
+{203}{}{Na verdade, há mais alguns.}
+{204}{}{Não, obrigado.}
+{205}{MORP36}{Naturalmente. Por favor. Continuar.}
+{206}{MORP37}{Sim, mas você
+ são ... perdoados. Vá em paz, meu filho. }
+{207}{MORP38}{Não, mas com fé e
+ espero, estamos certos de encontrá-lo. Mas tudo isso deve ser conhecido por você, meu
+ criança.}
+{208}{}{Eu sei, mas apenas mais algumas perguntas, por favor.}
+{209}{}{Eu sei. Tchau.}
+{210}{MORP39}{Nós curamos o corpo físico para começar. Você certamente
+ vimos nossos hospitais. Então oferecemos esperança e cura para o espírito. }
+{211}{}{Uau. Eu quase acreditei nisso. Você é bom!}
+{212}{}{Onde estão esses hospitais?}
+{213}{MORP40}{O nosso glorioso esforço acabou de chegar ao Adytum e, claro, o
+ Hub brilha com nossos esforços lá. Mas tenho a sensação de que há mais você
+ deseja perguntar. }
+{214}{MORP41}{Estes são dias maravilhosos. Junktown agora junta-se em
+ Adytum e o Hub em nossa missão de salvar corpo e alma. Há mais que você deseja
+ saber, meu filho? }
+{215}{}{Na verdade. . .}
+{216}{}{Nada. Eu tenho que ir.}
+{217}{MORP42}{A visão das crianças agora se estende de Adytum, ao Hub, Junktown, e agora
+ acaricia suavemente Shady Sands. Por que você pergunta? }
+{218}{}{Só pensando. Posso fazer mais algumas perguntas?}
+{219}{}{Nada. Eu tenho que ir.}
+{220}{MORP42A}{Você é o que? }
+{221}{} {Você me ouviu. Leve-me para ver o Mestre agora!}
+{222}{MORP42B}{Uh, sim.
+ Bem. Por favor siga-me. }
+{223}{MORP42C}{Ah, meu filho, você não faz sentido
+ qualquer. por favor, encontre um dos nossos médicos e peça ajuda. }
+{224}{MORP45}{Meu filho, fale com
+ Lasher Ele vai te ajudar com isso. }
+{225}{MORP46}{Eu disse ...}
+{226}{MORP47}{Are
+ você é surdo? Eu disse...}
+{227}{MORP48}{Eu não vou me repetir de novo! }
+{228}{MORP49}{Eu não vou dizer isso de novo! }
+{229}{MORP50}{O Nightkin chegou até nós há um tempo atrás. Eles podem ser hediondos
+ mutantes, mas eles são extremamente fiéis aos filhos. Como todos somos.}
+{230}{MORP51}{É ele quem me trouxe o
+ visão da Unidade e é ele quem trará paz a esta terra atribulada.}
+{231}{MORP52}{Meu filho, você deveria conhecer o Auditório. Eu dou meus sermões
+ há. }
+{232}{MORP53}{Não se preocupe com isso. Somente os sumos sacerdotes podem entrar. }
+{233}{MORP54}{Eu sou mas um humilde servo da Unidade. }
+{234}{MORP55}{Nós somos os sumos sacerdotes do grande Deus das Trevas. Treze de nós
+ são tão abençoados em passar suas poderosas palavras para o resto dos Filhos. }
+{235}{MORP56}{Eu não faço ideia do que você está falando. }
+{236}{MORP57}{Os hospitais das Crianças da Catedral prestam os melhores cuidados
+ em toda essa maldita terra devastada. Este cuidado é vital para a Unidade.}
+{237}{MORP58}{A unidade é nossa busca por um nível mais alto de vida e união com nossos semelhantes. }
+{238}{MORP59}{Ele é outro Sumo Sacerdote. Ele gasta muito do seu tempo nos estudos. }
+{239}{MORP60}{Meu coração sangra por eles. Conduziu um caminho falso. Eles não
+ sabemos que seus esforços trarão apenas dor e sofrimento para seus semelhantes.}
+{240}{MORP61}{Nicole é a infeliz e confusa líder dos seguidores de
+ o apocalipse. }
+{241}{MORP62}{Adytum é a cidade ao nordeste de nós. }
+{242}{MORP63}{Isso não é importante. }
+{243}{MORP64}{Isso não é nada. Você pode saber algo mais. }
+{244}{morp65}{Nada para se preocupar com.}
+{245}{}{Mestre, eu acredito que você vai apreciar este . . .}
+{500}{}{Você ganha 1000 pontos de experiência por destruir o líder das Crianças da Catedral.}
+
+
+# Morpheus Tell-Me-Abouts generic responses
+{980}{MORP63}{Isso não é importante. }
+{981}{MORP64}{Isso não é nada. Você pode perguntar sobre algo mais. }
+{982}{morp65}{Nada para se preocupar com.}
+
+
+#
+# Morpheus Tell-Me-Abouts
+#
+
+
+{1000}{}{Nightkin}
+{1001}{}{Master}
+{1002}{}{Auditorium}
+{1003}{}{Sanctum}
+{1004}{}{Morpheus}
+{1005}{}{Order}
+{1006}{}{Caravans}
+{1007}{}{Hospitals}
+{1008}{}{Unity}
+{1009}{}{Lasher}
+{1010}{}{Followers}
+{1011}{}{Nicole}
+{1012}{}{Adytum}
+{1013}{}{Apocalypse}
+{1014}{}{Mutants}
+{1015}{}{Holy Flame}
+{1016}{}{Children}
+{1017}{}{Base}
+{1018}{}{Chip}
+
+{1100}{MORP50}{O Nightkin chegou até nós há um tempo atrás. Eles podem ser hediondos
+ mutantes, mas eles são extremamente fiéis aos filhos. Como todos somos.}
+{1101}{MORP51}{É ele quem me trouxe o
+ visão da Unidade e é ele quem trará paz a esta terra atribulada.}
+{1102}{MORP52}{Meu filho, você deve conhecer o Auditório. Eu dou meus sermões
+ há. }
+{1103}{MORP53}{Não se preocupe com isso. Somente os sumos sacerdotes podem entrar. }
+{1104}{MORP54}{Eu sou apenas um humilde servo da Unidade. }
+{1105}{MORP55}{Somos os sumos sacerdotes do grande Deus das trevas. Treze de nós
+ são tão abençoados em passar suas poderosas palavras para o resto dos Filhos. }
+{1106}{MORP56}{Eu não faço ideia do que você está falando. }
+{1107}{MORP57}{Os hospitais das Crianças da Catedral prestam os melhores cuidados
+ em toda essa maldita terra devastada. Este cuidado é vital para a Unidade.}
+{1108}{MORP58}{A unidade é nossa busca por um nível mais alto de vida e união com nossos semelhantes. }
+{1109}{MORP59}{Ele é outro Sumo Sacerdote. Ele gasta muito do seu tempo nos estudos. }
+{1110}{MORP60}{Meu coração sangra por eles. Conduziu um caminho falso. Eles não
+ sabemos que seus esforços trarão apenas dor e sofrimento para seus semelhantes.}
+{1111}{MORP61}{Nicole é a infeliz e confusa líder dos seguidores de
+ o apocalipse. }
+{1112}{MORP62}{Adytum é a cidade ao nordeste de nós. }
+{1113}{MORP60}{Meu coração sangra por eles. Conduziu um caminho falso. Eles não
+ sabemos que seus esforços trarão apenas dor e sofrimento para seus semelhantes.}
+{1114}{MORP50}{O Nightkin veio até nós há um tempo atrás. Eles podem ser hediondos
+ mutantes, mas eles são extremamente fiéis aos filhos. Como todos somos.}
+{1015}{morp65}{Nada para se preocupar com.}
+{1016}{morp65}{Nada para se preocupar com.}
+{1017}{morp65}{Nada para se preocupar com.}
+{1018}{morp65}{Nada para se preocupar com.}

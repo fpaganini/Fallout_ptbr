@@ -1,0 +1,84 @@
+{100}{}{Você! Pare ai e enfrente a lei!}
+{101}{}{Obrigado a você por trazer o chip purificador de água. Vai realmente ajudar a
+ moral é a impedir as pessoas de quebrarem a lei da vault.}
+{102}{}{Bom ver você de novo. Há algo que eu possa fazer por você?}
+{103}{}{O que você faz?}
+{104}{}{Sim, eu preciso de algumas armas.}
+{105}{}{Por que haveria uma porta trancada na vault?}
+{106}{}{Glop!}
+{107}{}{Hmmm. Eu acho que você deveria estar em algum outro lugar alem daqui. Tenha um bom dia.}
+{108}{}{Eu estou no comando da seguranca da vault e enforcement da lei. Você
+ poderia não saber, mas a vault não funcionaria tão bem se não fosse por mim.}
+{109}{}{Hmm. Bacana. Obrigado.}
+{110}{}{Soa importante.}
+{111}{}{É. Sem a propria aderencia as leis, a vault em breve
+ seria um lugar sem lei, com nenhuma direção. Isso colocaria
+ em jogo a seguranca de nos todos.}
+{112}{}{Agora que eu estive lá fora, há quaisquer leis que
+ aplicam especificamente a mim?}
+{113}{}{Eu vi alguns lugares no mundo exterior que sofrem
+ porque eles não tem leis.}
+{114}{}{Bem, mesmo se armas são requeridas no mundo exterior,
+ não exiba elas de uma maneira ameacadora aqui. Alem disso,
+ eu não consigo pensar em qualquer coisa em particular.}
+{115}{}{Obrigado.}
+{116}{}{Você entende, eu sabia que aconteceria. As pessoas obedecerem
+ a lei é a unica coisa que salvou a vault da miseria e destruição.
+ Mantenha o bom trabalho.}
+{117}{}{O Supervisor não me autorizou a abrir a armaria e pegar mais
+ armas pra você. Eu lamento, mas eu não posso ajudar você.}
+{118}{}{Por favor! Eu realmente preciso delas!}
+{119}{}{Certo. Obrigado de qualquer maneira.}
+{120}{}{Não. Eu não posso faze-lo.}
+{121}{}{Tenha um bom dia.}
+{122}{}{Pra manter as armas longe daqueles que não tem
+ acesso a elas.}
+{123}{}{Quem tem acesso?}
+{124}{}{Isso não parece muito justo.}
+{125}{}{A vida não é justa, as vezes. Mas a nossa lei é. Tenha
+ um bom dia.}
+{126}{}{O Supervisor, eu mesmo e meu time de seguranca. Isso e tudo.}
+{127}{}{Soa como se só pessoas com necessidade tivessem acesso.}
+{128}{}{Essa é uma lista realmente pequena.}
+{129}{}{Sim, é. Eu tenho que voltar ao trabalho.}
+{130}{}{Sim, só pessoas com necessidade podem entrar.}
+{131}{}{Bem, eu tenho necessidade. Por favor abra a porta.}
+{132}{}{Eu lamento, e um bom good argumento, mas eu não posso deixar você entrar.}
+{133}{}{Hmm. Agora que você menciona, soa como se você do. Aqui,
+ deixe-me abrir a porta pra você.}
+{134}{}{O que eu posso fazer por você, }
+{135}{}{?}
+{136}{}{Eu preciso de mais armas.}
+{137}{}{Você se sente ok?}
+{138}{}{Huh-huh.}
+{139}{}{Otimo. Sua inteligencia me staggers. Eu não consigo possivelmente
+ pensar mais.}
+{140}{}{Lamento, você pegou tudo que nos poupamos. Bom dia.}
+{141}{}{Eu não do seu tipo. Rabble-rousers. Você deveria estar envergonhado.}
+{142}{}{Sim, bem, o mesmo pra você, muttonhead.}
+{143}{}{Você não acha que você esta sendo um pouco duro?}
+{144}{}{Cuidado com o que fala, ou eu trarei você por falha em
+ respeitar um oficial enforcement da lei.}
+{145}{}{Sim, certo. Vejo você por ai.}
+{146}{}{Isso e tudo. Eu estou fed up com você me rousting.}
+{147}{}{Hmm. Possivelmente. Deveria ser meu trabalho ser imparcial,
+ mas eu poderia ter pisado alem da linha desta vez. Eu tentarei
+ fazer melhor no futuro.}
+{148}{}{Hmm. Não. Provavelmente não duro o bastante.}
+{149}{}{Boa sorte. Eu espero que você possa fazer o trabalho.}
+{150}{}{Melhor você não me desapontar.}
+{151}{}{Guarde sua arma, agora mesmo.}
+{152}{}{O que você acha que você esta fazendo com isso aqui?}
+{153}{}{Apenas praticando minha mira.}
+{154}{}{Nada, lamento. Não queria te-lá sacado.}
+{155}{}{Hung.}
+{156}{}{Tome cuidado com do que você me chama. É não saque uma arma
+ aqui dentro. Esta é a vault, pelo amor de deus.}
+{157}{}{Melhor você não estar praticando aqui. Eu e você teremos um
+ problema serio se você o fizer de novo.}
+{158}{}{Eu sabia que a vida lá fora colocaria você em problema.}
+{159}{}{Alto! Você não é permitido ai!}
+
+{1000}{}{Supervisor}
+{1100}{}{Ele é a autoridade suprema da vault. A vault responde as decisoes
+ dele.}

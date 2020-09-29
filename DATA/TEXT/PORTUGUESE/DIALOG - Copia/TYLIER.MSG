@@ -1,0 +1,32 @@
+{100}{}{Estacao de Segurança}
+{101}{}{Este terminal, 'Tylier', controla as Operações das Forcas Especiais.
+ Por favor apresente a autorizacao por voz.}
+{102}{}{Nuna!}
+{103}{}{Me ajude. Mim ficou dodoi.}
+{104}{}{Deixe-me entrar.}
+{105}{}{Eu sou }
+{106}{}{. Deixe-me passar.}
+{107}{}{O que você faz aqui?}
+{108}{}{Voz não reconhecida. Status dos sistemas de seguranca: armados.}
+{109}{}{Eu sou o sistema de seguranca do Nivel Azul. Todos os sistemas armados.}
+{110}{}{Você consegue desarmar os sistemas?}
+{111}{}{Por que os sistemas estão armados quando a guerra já acabou?}
+{112}{}{Obrigado a você.}
+{113}{}{Eu fui programado pra manter os sistemas armados até que o
+ pessoal autorizado tenha inserido o codigo de voz correto.}
+{114}{}{Você desarmara os sistemas por mim?}
+{115}{}{Tchau.}
+{116}{}{Voice override: Gamma Delta Delta. Desarmar todos os sistemas.}
+{117}{}{Você não esta autorizado. Acesso negado.}
+{118}{}{Codigo invalido. Acesso negado.}
+{119}{}{Voice override: Gamma Omicron Delta. Desarmar sistemas.}
+{120}{}{Voice override: Omicron Delta Delta. Desarmar sistemas.}
+{121}{}{Voice override: Alpha Delta Delta. Desarmar sistemas.}
+{122}{}{Voice override: Delta Omicron Gamma. Desarmar sistemas.}
+{123}{}{Tchau.}
+{124}{}{Voice override confirmado. Desarmando os sistemas de seguranca.}
+{125}{}{Eu não recebi ordens pra faze-lo de outro modo. O acesso a rede
+ esta indisponivel; o processador central ZAX aparentemente foi destruido.}
+{126}{}{Bom. Voice override: Sigma Alpha Delta. Desarmar sistemas.}
+{127}{}{Tchau.}
+{128}{}{Os sistemas de seguranca estão atualmente desarmados.}

@@ -1,0 +1,6 @@
+{100}{}{Paz para você.}
+{101}{}{Exterminar!}
+{102}{}{Matar o humano!}
+{103}{}{Matar o intruso!}
+{104}{}{[Brrzk!] Morte para a carne!}
+{105}{}{[Breep!] Sem paz. Sem paz.}

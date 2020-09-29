@@ -1,0 +1,2 @@
+{100}{}{Com toda a bagunca, e difícil ver o que realmente estava
+ nesta mesa na hora.}

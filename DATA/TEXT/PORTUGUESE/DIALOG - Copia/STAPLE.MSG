@@ -1,0 +1,46 @@
+{100}{}{Você vê a Sra. Stapleton, a bibliotecaria.}
+{101}{}{Você uma mulher de meia idade.}
+{102}{}{Oi, Bem-vindo a Biblioteca. Eu não acho que eu tenha visto você por estas partes
+ antes. O que você poderia estar procurando no caminho do conhecimento??}
+{103}{}{Bom ver você de novo. O que você poderia estar procurando hoje?}
+{104}{}{O que você tem no caminho dos livros?}
+{105}{}{Eu estou procurando por um Chip de Agua.}
+{106}{}{Nada, mas obrigado.}
+{107}{}{Bem, deixe-me mostrar a você minha selecao.}
+{108}{}{Bem, nos meus estudos eu cheguei a algumas referencias sobre tais coisas. Realmente,
+ eu tenho em minha possessao um holodisco que contem uma certa quantia de informação que
+ você poderia achar util.}
+{109}{}{Um holodisco, o que é isso?}
+{110}{}{Eu posso ter o holodisco?}
+{111}{}{Um holodisco contem informação nele, mas só pode ser lido por um certo numero de
+ dispositivos eletronicos. Eu vejo que você tem um PIP Boy. Você pode usar isso para
+ decodificar, revisar e armazenar a informação que um holodisco contem.}
+{112}{}{Soa otimo! Eu posso ter o holodisco?}
+{113}{}{Informacao e difícil de vir neste dia e era. Eu precisarei cobrar de você 750
+ pratas do Hub por este disco.}
+{114}{}{Soa bem. Aqui esta o dinheiro.}
+{115}{}{Agora, esse parece um holodisco gasto se eu já vi um. Eu darei a você 500 por
+ ele.}
+{116}{}{Que tal eu take a blowtorch a este lugar inteiro ao inves disso? Huh senhora?!}
+{117}{}{Lamento, não tenho o dinheiro.}
+{118}{}{Eu lamento mas eu só posso aceitar a quantia completa pelo holodisco. Por favor
+ retorne quando você tiver essa quantia.}
+{119}{}{Eu lamento, mas você precisara manter suas tendencias piromaniacas para si próprio.
+ Por favor saia.}
+{120}{}{[A Sra. Stapleton toma o seu dinheiro.]}
+{121}{}{Você esta certo, o disco já viu dias melhores. Como esse e o caso, eu aceitarei
+ 500 ao inves do meu preço original. [A Sra. Stapleton toma o seu dinheiro.]}
+{122}{}{Normalmente, eu não cederia por tais metodos, mas para proteger minha colecao de
+ tal ameaca eu darei a você o disco. Em troca, eu pediria que você nunca retornasse aqui.}
+{123}{}{Conforme eu possa ter explicado, você precisara usar isto e então acessar a
+ informação atraves do seu PIP Boy. [A Sra. Stapleton da o holodisco pra você]}
+{124}{}{Você tera que me desculpar, mas eu tenho pesquisa pra fazer.}
+{125}{}{Ruk?}
+{126}{}{Eu lamento, eu não entendo você. Em algum lugar eu tenho um holodisco sobre aprender o idioma Ingles, se você esta interessado.}
+{127}{}{Tchau.}
+{128}{}{Obrigado.}
+{129}{}{Ug.}
+{130}{}{Você tem um conjunto de jornais de quimica? O Miles em Adytum disse que você poderia ter.}
+{131}{}{Sim, eu ouvi do Miles e eu tenho os que ele esta procurando. Eles custarao a você 750 pratas.}
+{132}{}{Aqui esta você, senhor. Diga ola ao Miles por mim.}
+{133}{}{Eu lamento, mas você não tem dinheiro o bastante. Por favor retorne quando você tiver o dinheiro.}

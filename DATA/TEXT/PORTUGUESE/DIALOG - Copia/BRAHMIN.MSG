@@ -1,0 +1,5 @@
+{100}{}{É um animal domesticado.}
+{101}{}{Não há nada natural a respeito destas vacas. A segunda cabeca
+ só pode ser o resultado de alguma mutacao estranha.}
+{102}{}{Parece normal pra você.}
+{103}{}{Moo.}

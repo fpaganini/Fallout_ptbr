@@ -1,0 +1,3 @@
+{100}{}{A cama parece asseadamente feita em sua natureza esfarrapada.}
+{101}{}{Você vê uma cama esfarrapada.}
+{102}{}{Agatha não ficaria feliz se você mexesse na cama dela.}

@@ -1,0 +1,41 @@
+{100}{}{Você vê Jasmim.}
+{101}{}{Com licença, senhor, essa pessoa é membro de uma das corporações mercantes.}
+{102}{}{Deixe-me ver se entendi; você está atirando em meu chefe e meus amigos e quer conversar? Seja dobrado!}
+{103}{}{A porta está ali. Não deixe que você bata na saída.}
+{104}{}{Oi. Bem-vindo ao Círculo de Ladrões. Jogue suas cartas certas e você está dentro.}
+{105}{}{Bem-vindo ao Círculo de Ladrões. Eu sou Jasmine. Estou aqui para ajudar a tornar sua infiltração do
+Daren Hightower propriedade tão indolor quanto possível. A propriedade de Hightower está localizada nas alturas. Tem um
+mínimo de dois guardas de plantão em todos os momentos. O colar é provavelmente em um cofre, que muitas vezes têm
+algumas pequenas armadilhas, então tenha cuidado. Aqui estão alguns lockpicks e um par de foguetes para tornar seu trabalho um pouco
+mais fácil .. É uma garrafa de Nuka-Cola. Tente não matar o Sr. Hightower. Ele é um dos nossos "favoritos". Você
+tem tudo isso?}
+{106}{}{O que você quer dizer com "favorito"?}
+{107}{}{Lockpicks e Flares? Isso é tudo.}
+{108}{}{Nuka Cola?}
+{109}{}{não o mata? Sem promessas, mulher.}
+{110}{}{Este trabalho é  uma droga. Encontre outra pessoa.}
+{111}{}{Não tem problema. Estou fora daqui.}
+{112}{}{Runk!}
+{113}{}{Com licença, senhor, mas você não deveria estar trabalhando na sua tarefa?}
+{114}{}{Com licença, senhorita, mas você não deveria estar trabalhando na sua tarefa?}
+{117}{}{Oi novamente. Se você tiver o colar, terá que entregá-lo ao Sr. Loxley antes de receber sua recompensa.}
+{118}{}{Bem feito, rapaz. Aqui está sua recompensa. [Jasmine dá 3000 dólares]}
+{119}{}{Bem feito, senhorita. Aqui está sua recompensa. [Jasmine dá 3000 dólares]}
+{121}{}{A propósito, aqui está algo extra para ajudá-lo em suas futuras incursões criminosas.}
+{122}{}{Olá de novo.}
+{123}{}{Bem, ele tem sido nosso benfeitor em muitas ocasiões. Se você matá-lo, alguém mais esperto pode tomar o seu lugar.
+Nós não gostaríamos disso.}
+{124}{}{Pfah! Um verdadeiro ladrão vive em sua inteligência. Estamos sendo generosos com você. Agora scat!}
+{125}{}{Eles são nossos patrocinadores corporativos. Loxley ficou com sede e eles "doaram" várias dúzias de garrafas para nós. Real
+ bom deles para nos ajudar.}
+{126}{}{Hmm, não pense que eu gosto da atitude. Bem, ninguém é perfeito.}
+{127}{}{Ótimo. Acho que posso falar pelo Sr. Loxley quando digo que espero nunca mais nos cruzarmos. Saia de
+ Aqui.}
+{128}{}{Boa sorte. Os diamantes são minha segunda coisa favorita no mundo!}
+{129}{}{Certo. Runk Certo.}
+{130}{}{Nós te avisamos, mas você não escutou. Muito ruim com esse problema de audição.}
+{131}{}{Eu acho que você acabou de falhar no teste! Não volte.}
+{132}{}{Com licença, senhor, essa pessoa é membro de uma das corporações mercantes.}
+{133}{}{Nós te avisamos, mas você não escutou. Muito ruim com esse problema de audição.}
+{134}{}{Pfah! Um verdadeiro ladrão vive em sua inteligência. Estamos sendo generosos com você, senhorita. Agora scat!}
+{135}{}{[Jasmine entrega um conjunto de Lockpicks Eletrônicos]}

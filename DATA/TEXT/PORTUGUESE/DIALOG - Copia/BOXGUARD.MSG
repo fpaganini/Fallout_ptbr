@@ -1,0 +1,8 @@
+{100}{}{Santa bosta! Mate!}
+{101}{}{Atire naquela fera antes que ela coma ele!}
+{102}{}{Armas!}
+{103}{}{Tirem ele daqui!}
+{104}{}{Não vá dentro do ringue, chump.}
+{105}{}{Ei, aonde você pensa que você este indo?}
+{106}{}{Fale com Gustofer se você quer apostar.}
+{107}{}{Lutas de Boxe as 2:00 de cada terceiro dia.}

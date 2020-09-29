@@ -1,0 +1,13 @@
+{100}{}{Você vê o quadro dos postos de trabalho}
+{101}{}{TRABALHOS! Você precisa trabalhar? Você precisa de dinheiro? OLHE AQUI!}
+{102}{}{Por favor não ponha mensagens duplicadas.  -Xerife Greene.}
+{103}{}{1       Caravana Desaparecida! Recompensa!}
+{104}{}{2       Precisamos de Guardas para Caravanas.}
+{105}{}{8a}
+{106}{}{8b}
+{107}{}{8c}
+{108}{}{8d}
+{109}{}{9       Sair}
+{110}{}{1a      RECOMPENSA: CARAVANA DESAPARECIDA. Uma recompensa de 500 Hubbucks vai pra qualquer um que for
+ capaz de pegar os bastardos que tem estado saqueando nossas caravanas. Para detalhes, veja Butch Harris,
+  Far Go Trader, a nordeste do mercado dos mercadores.}

@@ -1,0 +1,378 @@
+{100}{}{Você vê Killian.}
+{101}{}{Quem é você?}
+{102}{}{Que tal me contar um pouco sobre esta cidade?}
+{103}{}{Você é o proprietário desta loja?}
+{104}{}{Eu quero comprar alguma coisa.}
+{105}{}{O que há para fazer por aqui?}
+{106}{}{O que eu tenho que fazer para ajudar você a se livrar do Gizmo?}
+{107}{}{É melhor eu ir.}
+{108}{}{Nu-uhh?}
+{109}{Kill0a}{Você quer comprar alguma coisa, amigo?}
+{110}{}{Uh-huh.}
+{111}{}{Nuh-uh.}
+{112}{Kill1m}{Bem vindo ao Junktown, estranho. Com o que posso ajudar?}
+{113}{Kill1f}{Olá, querida. O que eu posso te pegar?}
+{114}{Kill1b}{O que você quer?}
+{115}{Kill1g}{Posso ajudar você?}
+{116}{}{Que tal me contar um pouco sobre esta cidade?}
+{117}{}{Você é o proprietário desta loja?}
+{118}{}{eu quero comprar alguma coisa.}
+{119}{}{O que há para fazer por aqui?}
+{120}{}{O que eu tenho que fazer para ajudar você a se livrar do Gizmo?}
+{121}{}{É melhor eu ir.}
+{122}{}{Nu-uhh?}
+{123}{Kill02}{O nome é Killian. Killian Darkwater. Eu sou o prefeito desta multa
+ Cidade. É quem pode ser você?}
+{124}{}{Eu}
+{125}{}{.}
+{126}{}{Meu nome é}
+{127}{}{. Eu venho do norte.}
+{128}{}{O que há com você?}
+{129}{Kill03}{Não muito desse jeito, exceto deserto e Shady Sands. Você de lá?}
+{130}{}{Não. Eu venho de um Vault, para o oeste.}
+{131}{}{Não. Minhas . . . hum. . . aldeia é um pouco a oeste, nas montanhas.}
+{132}{}{Na verdade não. Existe mais alguma coisa lá em cima?}
+{133}{}{Naturalmente, eu venho de lá, seu idiota.}
+{134}{Kill03a}{Ei, você parece que está esperando que eu preencha algumas lacunas para você.}
+{135}{Kill04}{Sim, se você diz isso. Então, o que você precisa?}
+{136}{Kill05}{Ah sim, claro que você faz. É quando você era bebê, seu berço era seguro.}
+{137}{}{Não, não. Chama-se um cofre. Nós protegeu
+ da guerra. Está cheio de pessoas há 80 anos!}
+{138}{}{Ei, você tem minha piada. Eu realmente venho de um
+ aldeia não muito longe de Shady Sands.}
+{139}{Kill06}{Não se sinta mal, não é a pior história que eu
+ foi dito. Assim . . . O que posso fazer por você?}
+{140}{Kill08}{Bem, os viajantes me dizem que há um monte de loucos no norte chamado
+ Vipers. Outro grupo de yahoos no leste chamou os Khans. Nem
+ um deles provavelmente convidaria você para jantar como qualquer coisa além do prato principal,
+ se você souber o que quero dizer.}
+{141}{}{O que mais está fora de Junktown?}
+{142}{}{Obrigado.}
+{143}{Kill09}{Bem, você tem o Hub sudoeste. Não vá para o sul, no entanto. Isso seria Necropolis;
+ o ... . . o clima é ruim lá, chova ou faça sol. Se você entende o que eu sou
+ dizendo.}
+{144}{}{Bem, obrigado pela informação. Posso fazer mais algumas perguntas?}
+{145}{}{Você apenas sabe de tudo, não sabe?}
+{146}{}{É melhor eu ir agora.}
+{147}{Kill10a}{Inferno, porque não. Peça longe, amigo.}
+{148}{Kill10b}{Sim, tudo bem. Mas seja rápido, tenho trabalho a fazer.}
+{149}{Kill11}{Bem, Junktown não é muito, mas está em casa. Principalmente nós trocamos com
+ pessoas ou deixá-los esquecer seus problemas por um tempo.
+ Obviamente, temos nossa parcela de problemas.}
+{150}{}{Problemas?}
+{151}{}{O que há para fazer nesta cidade?}
+{152}{}{Que outras cidades estão por aqui?}
+{153}{}{Obrigado.}
+{154}{Kill12}{Do lado de fora, nós tivemos as tarefas ocasionais com os Khans. Mas
+ eles estão bem quietos ultimamente. No interior, os problemas vêm do Skulz.
+ E eu ouvi falar de algumas coisas estranhas acontecendo no Hub, mas
+ eles ainda não nos afetaram, batem na cabeça da minha sogra.}
+{155} {Kill13b}{Ah, nós temos toneladas para fazer. O Skum Pitt está no lado leste, pelo
+ Entrada. Ótimo lugar para beber. O Gizmo está perto de lá. E se você está ferido, Doc
+ Morbid é seu homem.}
+{156}{}{Obrigado.}
+{157}{}{É tudo o que há para fazer por aqui?}
+{158}{Kill14}{Bem, se formos muito rápidos para você, apenas passe, amigo. É amigo,
+ não é isso?}
+{159}{}{Melhor que nada, eu acho.}
+{160}{}{Então não haverá nada excitante na cidade.}
+{161}{Kill15}{Por uma maldita visão.}
+{162}{Kill16}{Ah, você obviamente me confundiu com alguém que tem que tomar
+ seu lábio. Por que você não volta quando sua mãe lhe ensina algumas maneiras?}
+{163}{Kill21}{Bem, essa é uma bela coincidência! Isso é o que esta loja está aqui
+ para! Nós temos tudo que você precisa. Deixe-me mostrar-lhe algumas
+ as coisas por aqui. . .}
+{164}{Kill22}{Você aposta. Pode não ser tão grande quanto alguns no Hub, mas as pessoas geralmente
+ encontre o que eles estão procurando. Dê uma olhada ao redor. . .}
+{165}{Kill23}{Você tem que usar um gravador e fita Gizmo confessando, ou planta
+ este fio toca em seu escritório. De qualquer maneira, e nós o pegamos.}
+{166}{Kill24}{Bem, ei! O que eu posso fazer para você hoje?}
+{167}{Kill26}{Você de novo. O que você quer agora?}
+{168}{Kill27}{A menos que você vai pagar por isso, é melhor você colocar isso para baixo.}
+{169}{Kill28}{Você não é muito brilhante, é você. Rapazes . . .}
+{170}{Kill29}{É óbvio que sua mãe não lhe ensinou boas maneiras. Eu vou ter que?}
+{171}{Kill30}{Bem, parabéns. Você acabou de ganhar um
+ noite em uma cela. Rapazes . . .}
+{172}{Kill31}{Agora, o que o tio Sam-inferno você acha que está fazendo aqui?}
+{173}{}{Uh. . . Eu me perdi?}
+{174}{}{Ah, este é o seu lugar?}
+{175}{}{Bem. . . Eu arrombei.}
+{176}{Kill32}{Você está certo que este é o meu lugar! Agora dê o fora antes
+ Eu faço sua cabeça uma decoração de parede!}
+{177}{}{Certo, ok, estou indo.}
+{178}{}{Você? Acorde, amigo, você ainda está sonhando.}
+{179}{Kill34}{Uh, não. Você ficou idiota. Saia daqui!}
+{180}{}{Certo. Desculpe pelo inconveniente.}
+{181}{}{Quem vai me fazer? Você? Não me faça rir. . .}
+{182}{Kill35}{Um ladrão honesto. Hmpf. Bem, ainda vou ter que te levar.
+ Venha calmamente e você não vai se machucar.}
+{183}{}{Tudo bem, eu vou em paz.}
+{184}{}{Certo. . . Acho que não.}
+{185}{Kill36}{Como eu disse. . .}
+{186}{Kill37}{Eu já te disse. . .}
+{187}{Kill38}{Eu já te disse. . .}
+{188}{Kill39}{Você está ouvindo bem? Eu disse . . .}
+{189}{Kill40}{Olha, se você não lembra, isso é difícil.}
+{190}{Kill41}{Ouça, eu já te disse isso várias vezes.}
+{191}{Kill42}{Você está saindo tão cedo? Melhor pagar primeiro.}
+{192}{Kill43}{Isto não é algo que eu tome como uma piada. Agora. Pagar.}
+{193}{Kill44}{Tudo bem. Bem. Vamos ver se uma noite no armário vai
+ Refresque-se um pouco.}
+{194}{Kill45}{Mais alguma pergunta?}
+{195}{}{Você aposta.}
+{196}{}{Nope. É isso aí, obrigado.}
+{197}{Kill46}{Até a cidade em volta. Tenha cuidado para não se meter em muita dificuldade.}
+{198}{Kill47}{Ouça. Obrigado por salvar minha vida. É uma coisa valente e corajosa a se fazer.
+ Parece que nos conseguimos uma situação aqui. Eu sei que o Gizmo está por trás disso,
+ mas eu preciso de prova. Você está interessado em ajudar?}
+{199}{}{Eu? O que você precisa de mim para?}
+{200}{}{Não consegue mais alguém? Estou meio ocupado. . .}
+{201}{}{Estou dentro}
+{202}{Kill48}{Agora, se eu conseguir provas, o pessoal da Junktown vai expulsá-lo.
+ Eu acho que você precisa plantar um inseto em sua casa ou usar um fio
+ e levá-lo a confessar para você. Você pode lidar com isso?}
+{203}{}{Whoa. Soa meio perigoso. . .}
+{204}{}{O que eu ganho em troca?}
+{205}{}{Ummm. . . não. Envolver-se em outras pessoas
+ problemas nunca funcionam.}
+{206}{Kill49}{Eu não vou mentir para você, será perigoso. Mas eu te devo
+ um, e Killian Darkwater sempre paga suas dívidas.}
+{207}{}{Tem certeza de que não consegue encontrar outra pessoa?}
+{208}{}{O que você quer dizer com 'paga suas dívidas?'}
+{209}{}{Eu não penso assim. Soa muito perigoso para mim.}
+{210}{Kill50}{Vai funcionar melhor se for você. O Gizmo não conhece você, então ele pode confiar
+ você. Ou, pelo menos, ele terá dificuldade em me culpar. De qualquer forma, você é o melhor
+ pessoa para o trabalho.}
+{211}{}{Feira suficiente, eu farei isto.}
+{212}{}{Passe. Ser morto não parece ser uma coisa divertida para mim.}
+{213}{}{O que eu ganho com isso?}
+{214}{Kill51}{eu vou te dizer o que. Qualquer coisa na loja, mesmo a mais cara,
+ é seu. Sem custo. Se for uma arma, vou te dar toda a munição que você pode carregar.
+ Isso parece justo?}
+{215}{}{Sim. Eu vou fazer isso.}
+{216}{}{Nem sequer perto. Eu não estou arriscando meu pescoço por isso.}
+{217}{Kill52}{Bem, droga. Isso é ruim. Mas, você sabe, eu vou ter que trancar
+ você até que isso seja feito. Não posso correr o risco de descobrir o Gizmo. Desculpa.}
+{218}{Kill53}{Tudo bem, eu te devo. Aqui está o bug e o fio.
+ Você me avisa quando terminar. É boa sorte.}
+{219}{Kill54}{Então, você conseguiu a evidência?}
+{220}{}{Ainda não. Mas eu vou acreditar em mim!}
+{221}{}{eu tenho certeza}.
+{222}{Kill55}{Bem, ele não virá aqui e confessará! Você não deveria estar
+ visto comigo até que isso seja feito. Agora vá.}
+{223}{Kill56}{Que bug ou fita?}
+{224}{}{O erro.}
+{225}{}{A confissão}
+{226}{Kill57}{Ótimo! Deixe-me ter certeza de que está funcionando.}
+{227}{Kill57a}{Alto e claro. Nós vamos pegá-lo. Nesse meio tempo, nós
+ tenho alguns negócios. . .}
+{228}{Kill58}{Vamos ouvir isto.}
+{229}{Kill58b}{Essa é a primeira vez que fico feliz em ouvir a voz dele. Obrigado,
+ amigos. Agora é hora de você e eu cuidarmos dos outros negócios.}
+{230}{Kill59}{Bem, obrigado novamente. Ah, ouça, vou pegar os guardas e fugir
+ Gizmo e seus amigos fora da cidade. Eu poderia usar outra arma. Você está pronto para isso?
+ Pode ser bom para rir.}
+{231}{}{Claro. Vai valer a pena apenas vê-lo tentar andar mais de dez pés.}
+{232}{}{Depende do que você está disposto a me dar.}
+{233}{}{Novamente? Acho que não. Eu tenho muita coisa acontecendo.}
+{234}{Kill60}{Ir para Lars na estação de guarda. Ele te preencherá.
+ E ouça, esta cidade lhe deve. . . muito.}
+{235}{Kill61b}{Bem, eu posso te pagar a taxa padrão de trabalho mercenário,
+ 500 caps.}
+{236}{}{Feito}.
+{237}{}{Desculpe, não o suficiente}
+{238}{Kill62}{Bom o suficiente. Vá ver Lars, ele vai te dar os detalhes.}
+{239}{Kill63}{Ouça, é tudo o que estou oferecendo. Obrigado por receber o
+ evidência, mas eu não vou implorar por seus serviços.}
+{240}{}{Tudo bem, farei isso por essa taxa.}
+{241}{}{Ah, bem. Vejo você por aí.}
+{242}{Kill64} {Boa sorte nas suas viagens. Agora se você me der licença, eu tenho uma bunda gorda
+ mover.}
+{243}{Kill65}{Gizmo é dono do cassino. Nomeado depois de si próprio.
+ Tenha muito cuidado com ele.}
+{244}{Kill66}{Bem, sou eu. Onde você esteve?}
+{245}{Kill67}{Ah, Lars dirige os guardas aqui. Ele é um cara legal.
+ Bastante confiável.}
+{246}{Kill68}{Bem Vinnie, ele é um dos filhos problemáticos. Ele lidera um grupo
+ de punks chamado Skulz. Ainda assim, eles pagam aluguel, e eles não se incomodaram
+ alguém demais.}
+{247}{Kill69}{Bem, Doc possui um pequeno lugar no meio da cidade. Faz
+ um bom trabalho de patch se você precisar. Preços razoavelmente razoáveis.}
+{248}{Kill70}{Os Skulz são um punhado de punks que trabalham para o Gizmo. Eles não causam
+ muito problema, mas eu e o Lars ficamos de olho neles.}
+{249}{Kill71}{Bem, os Khans são um bando de valentões que vivem fora do
+ leste. Eles estão tentando tomar Junktown o maior tempo possível
+ lembre-se, mas eles nunca passam dos portões.}
+{250}{Kill72}{Os Vipers são um bando maluco do norte. Eles adoram cobras, ou
+ alguma coisa.}
+{251}{Kill73}{Essa é a minha loja. Você precisa disso, eu entendi.}
+{252}{Kill74}{Ótimo lugar para conseguir um quarto barato. Não é muito sujo também. Mas não
+ bagunça com o dono, Marcelles, ela vai puxar os braços para fora se você for esperto
+ para ela.}
+{253}{Kill75}{Ah, Gizmo é o cassino na entrada. Estou surpreso que você não tenha notado
+ em seu caminho. Geralmente você pode sentir o cheiro do lugar por milhas. Mas
+ Ei, traz os turistas.}
+{254}{Kill76}{Esse é o nosso bar residente. A comida é boa, mas a cerveja é ótima.
+ O dono, Neil, não dá a mínima, nem mesmo de alguns dos Raiders que entram.}
+{255}{Kill76a}{Não há muito a dizer. Doc Morbid está muito chateado porque seus preços são
+ menor para material médico. Eles estão no lado oeste.}
+{256}{Kill77}{A Garra da Morte? Ah, essa é uma história para dormir. Bebe sangue e uivos
+ na lua cheia. Okay, certo.}
+{257}{Kill78}{Bem, o Hub é o principal lugar para o comércio. Qualquer coisa que você não encontrar
+ aqui você provavelmente encontrará no Hub. Não tenho certeza de como é seguro hoje em dia, com
+ todas essas coisas estranhas acontecendo.}
+{258}{Kill79}{Shady Sands? É um pequeno lugar ao norte. Eu gostaria de fazer
+ mais negociação com eles.}
+{259}{Kill80}{A morte da cidade. Eu mandei duas patrulhas
+ lá embaixo e nenhum deles retornou.}
+{260}{Kill81}{Bem, existem dois tipos, os Khans e os Vipers.
+ Nós geralmente não temos problemas com os Vipers, e alguns deles
+ realmente passe pela cidade. Os Khans, no entanto, são um bando malvado.
+ Eles acham que podem conquistar o mundo ou alguma porcaria dessas.}
+{261}{Kill82}{Onde você esteve nos últimos 100 anos? Em um armário? Meu pai usou
+ para me contar histórias sobre a guerra. Seu pai era um soldado antes de começar
+ Junktown.}
+{262}{Kill83}{Bem, existem alguns rumores vindo do Hub. Caravanas
+ desaparecendo, pessoas sendo massacradas, até mesmo algumas conversas sobre grandes monstros verdes
+ que comem carne humana. Todos os tipos de coisas estranhas.}
+{263}{Kill84}{Não, eu nunca ouvi falar de algo assim.}
+{264}{Kill85}{No indício.}
+{265}{Kill86}{Ohhh. . . Eu realmente não poderia te dizer.}
+{266}{Kill87}{Vá falar com o Lars. Ele lhe dirá mais.}
+{267}{}{[pronto]}
+{268}{}{[Mais]}
+{269}{}{Você ganha 600 pontos de experiência por sua parte na derrota de Killian.
+ Junktown nunca será o mesmo.}
+{270}{}{Você ganha 500 pontos de experiência por garantir a confissão do Gizmo.}
+{271}{}{Estou aqui para te levar, Gizmo. Desta vez, eu tenho a prova que eu preciso.}
+{272}{}{O que você sabe sobre esse personagem do Gizmo?}
+{273}{}{Okay}
+{274}{}{Sim, ele é perigoso. Estou aqui para te matar por ele.}
+{275}{}{eu direi. . . aquele gordo só tentou me contratar para te matar.
+ Por que você não faz algo sobre ele?}
+{276}{}{Eu vou pegar uma espingarda e conchas.}
+{277}{}{Eu vou levar uma armadura de couro.}
+{278}{}{Eu levarei o kit médico de um médico.}
+{279}{}{Eu vou pegar todos os stimpaks que você puder poupar.}
+{280}{}{Não obrigado. Saber que o Gizmo vai receber o que lhe é devido é muito obrigado.}
+{281}{}{Eu gostaria de dar uma olhada no equipamento de viagem.}
+{282}{}{Eu procurarei por minha conta, obrigado.}
+{283}{}{Não importa. Obrigado.}
+{284}{}{Você se moveu contra o Gizmo sem evidência. Sabe, ele não estava no up-and-up
+ mas você também não é. Vá ver Lars.}
+
+
+# Killian Tell-Me-Abouts generic responses
+{980}{Kill84}{Não, eu nunca ouvi falar de nada parecido.}
+{981}{Kill85}{No indício.}
+{982}{Kill86}{Ohhh. . . Eu realmente não poderia te dizer.}
+{983}{Kill87}{Vá falar com o Lars. Ele lhe dirá mais.}
+
+#
+# Killian Tell-Me-Abouts
+#
+
+
+{1000}{}{Gizmo}
+{1001}{}{Killian}
+{1002}{}{Lars}
+{1003}{}{Vinnie}
+{1004}{}{Doc}
+{1005}{}{Skulz}
+{1006}{}{Khans}
+{1007}{}{Vipers}
+{1008}{}{Darkwater's}
+{1009}{}{Crash}
+{1010}{}{Gizmo's}
+{1011}{}{Skum}
+{1012}{}{Cathedral}
+{1013}{}{Claw}
+{1014}{}{Hub}
+{1015}{}{Shady}
+{1016}{}{Necropolis}
+{1017}{}{Raiders}
+{1018}{}{War}
+{1019}{}{Strange}
+{1020}{}{Darkwater}
+{1021}{}{Morbid}
+{1022}{}{Darkwaters}
+{1023}{}{Gizmos}
+{1024}{}{Pitt}
+{1025}{}{Sands}
+{1026}{}{Pit}
+
+{1100}{Kill65}{Gizmo é dono do cassino no lado leste. Nomeado depois de si próprio.
+ Tenha muito cuidado com ele.}
+{1101}{Kill66}{Bem, sou eu. Onde você esteve?}
+{1102}{Kill67}{Ah, Lars lidera os guardas aqui. Ele é um cara legal.
+ Bastante confiável.}
+{1103}{Kill68}{Bem Vinnie, ele é um dos filhos problemáticos. Ele lidera um grupo
+ de punks chamado Skulz. Ainda assim, eles pagam o aluguel e não se incomodaram
+ alguém demais.}
+{1104}{Kill69}{Bem, Doc possui um pequeno lugar no meio da cidade. Faz
+ um bom trabalho de patch se você precisar. Preços razoavelmente razoáveis.}
+{1105}{Kill70}{Os Skulz são um bando de punks que trabalham para o Gizmo. Eles não causam
+ muito problema, mas eu e o Lars ficamos de olho neles.}
+{1106}{Kill71}{Bem, os Khans são um bando de valentões que vivem do lado de fora
+ leste. Eles estão tentando tomar Junktown o maior tempo possível
+ lembre-se, mas eles nunca passam dos portões.}
+{1107}{Kill72}{Os Vipers são um bando maluco do norte. Eles adoram cobras, ou
+ alguma coisa.}
+{1108}{Kill73}{Essa é a minha loja. Você precisa disso, eu entendi.}
+{1109}{Kill74}{Ótimo lugar para conseguir um quarto barato. Não é muito sujo também. Mas não
+ bagunça com o dono, Marcelles, ela vai puxar os braços para fora se você for esperto
+ para ela.}
+{1110}{Kill75}{Ah, Gizmo é o cassino na entrada. Estou surpreso que você não tenha notado
+ em seu caminho. Geralmente você pode sentir o cheiro do lugar por milhas. Mas
+ Ei, traz os turistas.}
+{1111}{Kill76}{Esse é o nosso bar residente. A comida é boa, mas a cerveja é ótima.
+ O dono, Neal, não dá a mínima, nem mesmo de alguns dos Raiders que entram.}
+{1112}{Kill76a}{Não há muito a dizer. Doc Morbid está muito chateado porque seus preços são
+ menor para material médico. Eles estão no lado oeste.}
+{1113}{Kill77}{A Garra da Morte? Ah, essa é uma história para dormir. Bebe sangue e uivos
+ na lua cheia. Okay, certo.}
+{1114}{Kill78}{Bem, o Hub é o lugar principal para o comércio. Qualquer coisa que você não encontrar
+ aqui você provavelmente encontrará no Hub. Não tenho certeza de como é seguro hoje em dia, com
+ todas essas coisas estranhas acontecendo.}
+{1115}{Kill79}{Areias Shady? É um pequeno lugar ao norte. Eu gostaria de fazer
+ mais negociação com eles.}
+{1116}{Kill80}{A morte da cidade. Eu mandei duas patrulhas
+ lá embaixo e nenhum deles retornou.}
+{1117}{Kill81}{Bem, existem dois tipos, os Khans e os Vipers.
+ Nós geralmente não temos problemas com os Vipers, e alguns deles
+ realmente passe pela cidade. Os Khans, no entanto, são um bando malvado.
+ Eles acham que podem conquistar o mundo ou alguma porcaria dessas.}
+{1118}{Kill82}{Onde você esteve nos últimos 100 anos? Em um armário? Meu pai usou
+ para me contar histórias sobre a guerra. Seu pai era um soldado antes de começar
+ Junktown.}
+{1119}{Kill83}{Bem, existem alguns rumores vindo do Hub. Caravanas
+ desaparecendo, pessoas sendo massacradas, até mesmo algumas conversas sobre grandes monstros verdes
+ que comem carne humana. Todos os tipos de coisas estranhas.}
+{1120}{Kill66}{Bem, sou eu. Onde você esteve?}
+{1121}{Kill69}{Bem, Doc possui um pequeno lugar no meio da cidade. Faz
+ um bom trabalho de patch se você precisar. Preços razoavelmente razoáveis.}
+{1122}{Kill73}{Essa é a minha loja. Você precisa disso, eu entendi.}
+{1123}{Kill75}{Ah, Gizmo é o cassino na entrada. Estou surpreso que você não tenha notado
+ em seu caminho. Geralmente você pode sentir o cheiro do lugar por milhas. Mas
+ Ei, traz os turistas.}
+{1124}{Kill76}{Esse é o nosso bar residente. A comida é boa, mas a cerveja é ótima.
+ O dono, Neal, não dá a mínima, nem mesmo de alguns dos Raiders que entram.}
+{1125}{Kill79}{Shady Sands? É um pequeno lugar ao norte. Eu gostaria de fazer
+ mais negociação com eles.}
+{1126}{Kill76}{Esse é o nosso bar residente. A comida é boa, mas a cerveja é ótima.
+ O dono, Neal, não dá a mínima, nem mesmo de alguns dos Raiders que entram.rumores vindo do Hub. Caravanas
+ desaparecendo, pessoas sendo massacradas, atÃ© mesmo algumas conversas sobre grandes monstros verdes
+ que comem carne humana. Todos os tipos de coisas estranhas.}
+{1120}{Kill66}{Bem, sou eu. Onde vocÃª esteve?}
+{1121}{Kill69}{Bem, Doc possui um pequeno lugar no meio da cidade. Faz
+ um bom trabalho de patch se vocÃª precisar. PreÃ§os razoavelmente razoÃ¡veis.}
+{1122}{Kill73}{Essa Ã© a minha loja. VocÃª precisa disso, eu entendi.}
+{1123}{Kill75}{Ah, Gizmo Ã© o cassino na entrada. Estou surpreso que vocÃª nÃ£o tenha notado
+ em seu caminho. Geralmente vocÃª pode sentir o cheiro do lugar por milhas. Mas
+ Ei, traz os turistas.}
+{1124}{Kill76}{Esse Ã© o nosso bar residente. A comida Ã© boa, mas a cerveja Ã© Ã³tima.
+ O dono, Neal, nÃ£o dÃ¡ a mÃ­nima, nem mesmo de alguns dos Raiders que entram.}
+{1125}{Kill79}{Shady Sands? Ã‰ um pequeno lugar ao norte. Eu gostaria de fazer
+ mais negociaÃ§Ã£o com eles.}
+{1126}{Kill76}{Esse Ã© o nosso bar residente. A comida Ã© boa, mas a cerveja Ã© Ã³tima.
+ O dono, Neal, nÃ£o dÃ¡ a mÃ­nima, nem mesmo de alguns dos Raiders que entram.}

@@ -1,0 +1,29 @@
+{100}{}{Você vê o Daren Hightower.}
+{101}{}{Quem é você?!? É quem deixou você entrar?}
+{102}{}{Eu tenho uma mensagem de um amigo.}
+{103}{}{Sua vida esta em perigo, e eu preciso falar com você.}
+{104}{}{Meu nome e }
+{105}{}{. Leon me deixou entrar.}
+{106}{}{Meu nome?... Morte!}
+{107}{}{Eu sou seu pior pesadelo.}
+{108}{}{BoBo?}
+{109}{}{Eu não tenho amigos. Qual e sua mensagem?}
+{110}{}{Decker envia his regards.}
+{111}{}{Um... Bob me enviou... ah... ele disse que você pagou 100 tampinhas a mais pra ele e me enviou pra da-las de volta a você.}
+{112}{}{Não há mensagem realmente, eu apenas estava tentando conversar pra sair fora desta.}
+{113}{}{Eu amo você.}
+{114}{}{Me diga algo que eu não saiba, seu retardado!}
+{115}{}{Retardado? Eu estava tentando ajudar você. Você pode ir pro inferno.}
+{116}{}{Decker quer você morto e ele me contratou pra faze-lo.}
+{117}{}{Você obviamente não sabe que você esta para morrer!}
+{118}{}{Esqueça. Eu estava apenas tentando ajudar.}
+{119}{}{Foi um prazer encontrar você }
+{120}{}{. Agora o meu assistente Leon guiara você pra fora da minha casa.}
+{121}{}{Eu não conheco qualquer Bob, mas eu pegarei as 100 tampinhas e você pode sair.}
+{122}{}{Vai pro inferno!}
+{123}{}{OK, aqui vai você. Obrigado pelo seu tempo.}
+{124}{}{Uhh...  Aquele BASTARDO do Bob não me deu tampinhas o bastante! Eu as pegarei pra você Sr. Hightower, de verdade, eu pegarei!}
+{125}{}{Não se preocupe com isso. Eu sempre aprecio estranhos vindo na minha casa e me dando dinheiro. Leon, mostre a porta pra este tolo!
+ Volte de novo, e meus guardas terao sua cabeca!}
+{126}{}{Leon, mostre a porta pra este tolo! Volte de novo, e meus guardas terao sua cabeca!}
+{127}{}{Guardas! Assassino!}

@@ -1,0 +1,67 @@
+{100}{}{Este e o Caleb, lider dos Reguladores.}
+{101}{}{Você vê um homem stern por volta dos seus trinta anos.}
+{102}{}{Você deveria saber que nós não gostamos de estranhos aqui. O que você quer?}
+{103}{}{Bom dia. Eu posso ser de assistencia?}
+{104}{}{Eu sou}
+{105}{}{Você tem a aparencia de alguém importante.}
+{106}{}{Você pode me dizer um pouco sobre Adytum?}
+{107}{}{Você pode me dizer sobre o que esta acontecendo aqui na Boneyard?}
+{108}{}{Qual é a historia por tras dos Reguladores?}
+{109}{}{Diga-me mais sobre as Crianças e os Seguidores.}
+{110}{}{Onde eu posso achar o Zimmerman?}
+{111}{}{Tenha um bom dia. Obrigado.}
+{112}{}{Cidade bem bacana. Eu e os Reguladores trabalhamos duro pra mante-lá desse jeito.
+ Alguém em particular que você queira saber a respeito?}
+{113}{}{Quem comanda Adytum?}
+{114}{}{Quem faz comercio aqui?}
+{115}{}{Nada mais, obrigado.}
+{116}{}{Fique longe de problemas, entendeu? Eu sou Caleb,
+ e esse e um nome pra você se lembrar, por que eu serei
+ aquele que ira atras de você se você ferrar com alguém.}
+{117}{}{Eu sou Caleb. Eu treino e organizo os Reguladores aqui.}
+{118}{}{Sim, eu creio. Você tem os Blades ao norte, uma manada bastante patetica
+ de pessoas, e os Gun Runners um pouco ao norte é a caminhos do leste atraves do
+ Playground do deathclaw.}
+{119}{}{Também, a caminhos ao sul daqui você tem as Crianças da Catedral, que
+ comandam um hospital é uma grande igreja. Acima um pouquinho ao norte é a
+ oeste você tem os loony Seguidores do Apocalipse, que são todos tipos-da-paz.}
+{120}{}{Fique longe de problemas.}
+{121}{}{Tenha você um bom dia tambem.}
+{122}{}{Você de volta de novo?}
+{123}{}{Como eu posso ajudar você, filho?}
+{124}{}{O que eu posso fazer por você, senhorita?}
+{125}{}{Melhor você manter suas armas guardadas enquanto você esta na cidade.}
+{126}{}{Guga gu.}
+{127}{}{Lamento, mas eu não tenho tempo para você. Corra.}
+{128}{}{Adytum aqui e comandada por Jon Zimmerman. Ele e um camarada upright,
+ toma conta bem da velha cidade. Você deveria ir ver ele. Algo mais?}
+{129}{}{Tine comanda uma loja perto dos portoes. Esta abaixo do pequeno bunker.
+ Ele faz todo o comercio com o Hub e com forasteiros como você. Algo mais?}
+{130}{}{Nós sommos a força policial de Adytum. A maioria do pessoal por aqui
+ sabe o bastante pra não causar quaisquer problemas.}
+{131}{}{Eu estou no comando de treinar os Reguladores e ter certeza que os skags estão trabalhando duro o bastante, e que ninguém se mude para aqui. Algo mais?}
+{132}{}{Bem, as Crianças da Catedral todas vivem nesta grande construcao
+ preta tipo-igreja. Eles tem algum tipo de grande deus, e eles vao por
+ ai tentando converter as pessoas para o culto deles.}
+{133}{}{Você achara ele na grande construcao a sudoeste. Ele poderia ser
+ capaz de por sentencas juntas o bastante pra deixar você saber que nos
+ estamos procurando por um pouco de ajuda contra os Blades.}
+{134}{}{O que esta acontecendo com os Blades?}
+{135}{}{Eu posso perguntar algo mais a você?}
+{136}{}{Obrigado pela informação. Tchau.}
+{137}{}{Com certeza. O que mais você quer saber?}
+{138}{}{Eles fizeram alguma coisa com o filho half witted do Zimmerman.
+ Mas como eu disse, vá falar com o Zimmerman a respeito.}
+{139}{}{Eu posso perguntar algo mais pra você?}
+{140}{}{Tudo bem, eu entendi o quadro. Eu irei falar com o Zimmerman.}
+{141}{}{Então, o Zimmerman deu a você o scoop sobre os Blades. Que seja. Eu
+ tenho certeza que ele vai querer saber quando você tiver feito o trabalho.}
+{142}{}{Onde estão os Blades?}
+{143}{}{Por que vocês caras não tomam conta disso vocês mesmos?}
+{144}{}{Sim, eu voltarei quando o trabalho estiver feito.}
+{145}{}{Eles estão a norte daqui. Você não será capaz de perder o fedor
+ deles. Algo mais?}
+{146}{}{Por que é um desperdicio do nosso tempo. Eu tenho coisas melhores
+ pra fazer do que sair lá e matar alguns skags. Leve mais tempo tomando
+ banho apos ter lidado com eles. Algo mais?}
+{147}{}{Então você esta de volta. Vá falar com o Zimmerman}

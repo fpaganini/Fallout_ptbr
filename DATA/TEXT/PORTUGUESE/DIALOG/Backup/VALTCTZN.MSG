@@ -1,0 +1,7 @@
+{100}{}{Você vê um cidadao da vault 13.}
+{101}{}{Como e o mundo exterior?}
+{102}{}{Você deve ser bravo para se aventurar fora da vault.}
+{103}{}{O Supervisor diz que o mundo exterior e perigoso.}
+{104}{}{Seja cuidadoso enquanto viajar fora da vault.}
+{105}{}{Não se esqueça de ver o medico se você estiver ferido.}
+{106}{}{O Supervisor tem certeza de que todos são bem cuidados na vault.}

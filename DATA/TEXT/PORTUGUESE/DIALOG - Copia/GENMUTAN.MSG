@@ -1,0 +1,47 @@
+{100}{}{Pare!}
+{101}{}{Morra, humano!}
+{102}{}{Para a morte}
+{103}{}{Você pagará pelos seus pecados!}
+{104}{}{Você não deveria estar armado nesta área, irmãozinho. Explicar
+ você mesmo.}
+{105}{}{Você não deveria estar armado nesta área, irmãzinha. Explicar
+ você mesmo.}
+{106}{}{Hngg.}
+{107}{}{Tudo bem, eu trabalho aqui.}
+{108}{}{Tudo bem, eu tenho um passe.}
+{109}{}{Eu estou armado com permissão do tenente.}
+{110}{}{Que tipo de traição é essa ?!}
+{111}{}{Mostre-me o seu passe, então.}
+{112}{}{Eu, uh, deixei no meu outro manto.}
+{113}{}{Está bem aqui, grampeado na frente da minha arma.}
+{114}{}{Apresse-se em sua tarefa, mas esteja avisado, estou te observando.}
+{115}{}{Sim, irmãozinho. O que é que você precisa de mim?}
+{116}{}{Sim, irmãzinha. O que é que você precisa de mim?}
+{117}{}{Hum!}
+{118}{}{Hmm, onde está esse cara Mestre?}
+{119}{}{Louvor à Unidade, irmão.}
+{120}{}{Eu sinto muito, mas você terá que encontrar o caminho para Unity.}
+{121}{}{Você é obviamente um pagão! Pague pelos seus pecados!}
+{122}{}{Ele reside no nível 3, como ele deve. Por que você faz uma pergunta tão boba?}
+{123}{}{Ah, uh, não há razão.}
+{124}{}{Eu vou chutar a bunda dele daqui para, uh, algum lugar bem longe!}
+{125}{}{Que pergunta? Eu disse "Salve ao Mestre, adeus".}
+{126}{}{Você me insulta! Morrer!}
+{127}{}{Louvor à Unidade}
+{128}{}{Você parece não acreditar no que diz. Isso poderia ser verdade?
+ Ou você deixou o caminho da justiça?}
+{129}{}{Você confunde o tremor na minha voz por medo quando na verdade é
+ um resfriado de algum tipo.}
+{130}{}{Eu acho que o seu tipo está condenado, na verdade. Aqui, deixe-me provar isso com
+ alguma ajuda de meus amigos. . .}
+{131}{}{Quando você se tornar um de nós, você não terá medo de coisas menores.
+ Begone.}
+{132}{}{O que você quer desta vez? Eu tenho pouco tempo para sua palestra.}
+{133}{}{Labbo!}
+{134}{}{Eu tenho pouco tempo para a sua vida. . . Morrer!}
+{135}{}{Nothing, sorry.}
+{136}{}{Louvor à Unidade, irmão.}
+{137}{}{Apenas quem é você? Deixe-me ver . . . Argh! Um intruso. . .}
+{138}{}{seguir em frente. Faça sua parte pela Unidade e pare de me incomodar!}
+{139}{}{seguir em frente}
+{140}{}{seguir em frente. Faça sua parte pela Unidade.}

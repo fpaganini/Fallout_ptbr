@@ -1,53 +1,53 @@
-{100}{}{VocÃª vÃª Jerry, um jovem Iniciado.}
-{101}{}{VocÃª vÃª um Iniciado Knight.}
-{102}{}{VocÃª vÃª um Escriba Iniciado.}
-{103}{}{OlÃ¡! VocÃª deve ser irmÃ£o}
-{104}{}{, o novo iniciado do lado de fora. Meu nome Ã© Jerry, sou seu
-Â novo companheiro de quarto. Eu sou um iniciado tambÃ©m! Eu estive estudando muito. VocÃª estÃ¡
-Â um cavaleiro iniciante ou escriba?}
-{105}{}{Eu nÃ£o decidi.}
+{100}{}{Você vê Jerry, um jovem Iniciado.}
+{101}{}{Você vê um Iniciado Knight.}
+{102}{}{Você vê um Escriba Iniciado.}
+{103}{}{Olá! Você deve ser irmão}
+{104}{}{, o novo iniciado do lado de fora. Meu nome é Jerry, sou seu
+ novo companheiro de quarto. Eu sou um iniciado também! Eu estive estudando muito. Você está
+ um cavaleiro iniciante ou escriba?}
+{105}{}{Eu não decidi.}
 {106}{}{Cavaleiro.}
 {107}{}{Escriba.}
 {108}{}{Uk.}
-{109}{}{Sim, ser um cavaleiro seria Ã³timo, eles vÃªem muita aÃ§Ã£o e
-Â Consiga construir todas as coisas. Eu ainda nÃ£o decidi, mas estou inclinado
-Â em direÃ§Ã£o a um cavaleiro. Estou te entediando? Algumas pessoas dizem que eu falo muito
-Â mas eu nÃ£o acho que eles entendam. Eu sÃ³ tenho muito a dizer.}
-{110}{}{NÃ£o, de maneira nenhuma}
+{109}{}{Sim, ser um cavaleiro seria ótimo, eles vêem muita ação e
+ Consiga construir todas as coisas. Eu ainda não decidi, mas estou inclinado
+ em direção a um cavaleiro. Estou te entediando? Algumas pessoas dizem que eu falo muito
+ mas eu não acho que eles entendam. Eu só tenho muito a dizer.}
+{110}{}{Não, de maneira nenhuma}
 {111}{}{Eu tenho que ir. Muito prazer em conhece-lo.}
-{112}{}{Sim, os escribas tÃªm uma posiÃ§Ã£o tÃ£o criativa. Seria Ã³timo
-Â pensar em novas armas, modificar as antigas e manter registros de todos os
-Â detalhe de cada item na Irmandade. Estou te entediando? Algumas pessoas
-Â digamos que eu falo muito, mas eu nÃ£o acho que eles entendam. Eu apenas tenho
-Â muito a dizer.}
-{113}{}{Sim, ainda estou tentando decidir. Ã‰ tÃ£o difÃ­cil, ambos sÃ£o
-Â muito empolgante. By the way, se vocÃª quiser o beliche de cima, deixe-me
-Â sabe, eu nÃ£o me importo.}
+{112}{}{Sim, os escribas têm uma posição tão criativa. Seria ótimo
+ pensar em novas armas, modificar as antigas e manter registros de todos os
+ detalhe de cada item na Irmandade. Estou te entediando? Algumas pessoas
+ digamos que eu falo muito, mas eu não acho que eles entendam. Eu apenas tenho
+ muito a dizer.}
+{113}{}{Sim, ainda estou tentando decidir. É tão difícil, ambos são
+ muito empolgante. By the way, se você quiser o beliche de cima, deixe-me
+ sabe, eu não me importo.}
 {114}{}{Obrigado, tchau.}
-{115}{}{VocÃª estÃ¡ bem? Talvez vocÃª precise ver o mÃ©dico ou talvez
-Â vocÃª sÃ³ precisa dormir um pouco. Bem, Ã© melhor eu voltar a estudar. Tchau.}
-{116}{}{Ah, a propÃ³sito, estou feliz que vocÃª seja minha nova colega de quarto. Meu Ãºltimo
-Â um sempre usava tampÃµes de ouvido, nÃ£o sei por quÃª. De qualquer forma, sinta-se livre para
-Â Deixa o que quiseres aqui, eu nÃ£o ocupo muito espaÃ§o. VocÃª quer
-Â o beliche de cima? Eu vou mudar se vocÃª quiser ... vocÃª nÃ£o ronca, nÃ£o Ã©? Ah,
-Â NÃ£o importa. AtÃ© mais.}
-{117}{}{Sim, foi o que eu pensei. Bem, eu estou feliz que vocÃª serÃ¡ meu novo
-Â colega de quarto. Meu Ãºltimo sempre usava tampÃµes de ouvido, nÃ£o sei por quÃª. De qualquer forma,
-Â Sinta-se livre para deixar qualquer coisa que vocÃª gosta aqui, eu nÃ£o ocupar muito espaÃ§o.
-Â VocÃª quer o beliche superior? Eu vou mudar se vocÃª quiser ... vocÃª nÃ£o ronca
-Â vocÃª? NÃ£o importa. AtÃ© mais.}
+{115}{}{Você está bem? Talvez você precise ver o médico ou talvez
+ você só precisa dormir um pouco. Bem, é melhor eu voltar a estudar. Tchau.}
+{116}{}{Ah, a propósito, estou feliz que você seja minha nova colega de quarto. Meu último
+ um sempre usava tampões de ouvido, não sei por quê. De qualquer forma, sinta-se livre para
+ Deixa o que quiseres aqui, eu não ocupo muito espaço. Você quer
+ o beliche de cima? Eu vou mudar se você quiser ... você não ronca, não é? Ah,
+ Não importa. Até mais.}
+{117}{}{Sim, foi o que eu pensei. Bem, eu estou feliz que você será meu novo
+ colega de quarto. Meu último sempre usava tampões de ouvido, não sei por quê. De qualquer forma,
+ Sinta-se livre para deixar qualquer coisa que você gosta aqui, eu não ocupar muito espaço.
+ Você quer o beliche superior? Eu vou mudar se você quiser ... você não ronca
+ você? Não importa. Até mais.}
 {118}{}{Apenas deixe-me saber se estou roncando.}
 {119}{}{Thomas diz que eu falo muito.}
-{120}{}{Talus diz que eu seria um bom Cavaleiro se eu nÃ£o falasse tanto.}
-{121}{}{Prazer em vÃª-lo novamente, companheiro de quarto!}
-{122}{}{Eu nÃ£o dormi bem na noite passada.}
+{120}{}{Talus diz que eu seria um bom Cavaleiro se eu não falasse tanto.}
+{121}{}{Prazer em vê-lo novamente, companheiro de quarto!}
+{122}{}{Eu não dormi bem na noite passada.}
 {123}{}{Oi novamente}.
-{124}{}{Eu tenho que ir em uma patrulha amanhÃ£.}
-{125}{}{Eu serei um Iniciado SÃªnior em alguns anos.}
-{126}{}{Este nÃ£o Ã© o seu quarto, por favor, deixe.}
-{127}{}{Eu acho que vocÃª estÃ¡ no quarto de Jerry.}
-{128}{}{Boa sorte, vocÃª fica com Jerry na boca.}
-{129}{}{O que vocÃª estÃ¡ fazendo aqui?}
-{130}{}{VocÃª Ã© um Iniciado tambÃ©m?}
+{124}{}{Eu tenho que ir em uma patrulha amanhã.}
+{125}{}{Eu serei um Iniciado Sênior em alguns anos.}
+{126}{}{Este não é o seu quarto, por favor, deixe.}
+{127}{}{Eu acho que você está no quarto de Jerry.}
+{128}{}{Boa sorte, você fica com Jerry na boca.}
+{129}{}{O que você está fazendo aqui?}
+{130}{}{Você é um Iniciado também?}
 {131}{}{Visitando?}
-{132}{}{Seu quarto Ã© o primeiro da esquerda quando vocÃª entra.}
+{132}{}{Seu quarto é o primeiro da esquerda quando você entra.}

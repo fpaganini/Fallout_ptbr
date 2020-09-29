@@ -1,0 +1,34 @@
+{100}{}{Você vê o Gunther.}
+{101}{}{Você vê um homem stern nos seus trinta e tantos anos.}
+{102}{}{Bem-vindo a minha casa humilde. O que eu posso fazer por você?}
+{103}{}{Você poderia me dizer um pouco a respeito do Hub?}
+{104}{}{Aonde eu posso achar algumas munições e armas por aqui?}
+{105}{}{O que vocês fazem por aqui?}
+{106}{}{Quem é a lei por aqui?}
+{107}{}{Com certeza, o que mais você gostaria de saber?}
+{108}{}{É uma cidade sprawling, a maior que eu já vi na minha vida. O centro da cidade
+ esta ao sul, com as outras areas branching off em cada direção
+ de lá.}
+{109}{}{Aonde eu posso achar suprimentos?}
+{110}{}{Se eu estivesse procurando por um trabalho, aonde seria um bom lugar pra começar?}
+{111}{}{Eu posso fazer outra pergunta pra você?}
+{112}{}{Obrigado pela informação. Tchau.}
+{113}{}{Eu obtenho tudo de que preciso do Mitch abaixo do Maltese Falcon. Apenas siga
+ pro sul daqui.}
+{114}{}{Eu ocasionalmete faco uma stint em uma das caravanas que saem daqui. Se você esta
+ procurando por este tipo de trabalho, apenas fale com uma das casas de comercio. Eu
+ sou parcial quanto aos Far Go Traders, mas eu trabalhei com todos eles.}
+{115}{}{Bem, eu compro a maioria das minhas coisas da Beth na Weapon Store. Tem uma
+ selecao bastante boa.}
+{116}{}{o que eu deveria fazer se eu estivesse procurando por algo um pouco mais 'exotico'?}
+{117}{}{Mencionar seu nome ajuda com o preço?}
+{118}{}{Eu ouvi que há um cara na cidade antiga que lida com coisas um pouco mais
+ violentas.}
+{119}{}{Provavelmente não, ela e um doce com o guarda costas dela, o Sid. Mas, você poderia
+ querer tentar o Butch, ele comanda os Far Go Traders - os quais possuem a loja dela.}
+{120}{}{Eu entendo. Eu trabalho com as caravanss quando eu estou com pouco dinheiro, e
+ trabalho pros fazendeiros um pouco ao sul.}
+{121}{}{Bem, você provavelmente passou pelo Deputy Fry no seu caminho aqui pra baixo. O chefe
+ dele e o Xerife Greene, e você achara ele na Delegacia de Policia na maior parte do tempo.}
+{122}{}{Biiissccooiiittoo!}
+{123}{}{Eu lamento, mas você não faz sentido algum. Talvez o Dr. Thorndyke com as Crianças possam ajudar você.}

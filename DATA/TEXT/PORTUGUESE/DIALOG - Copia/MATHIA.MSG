@@ -1,0 +1,44 @@
+{100}{}{Você vê Mathia.}
+{101}{}{Ola, Iniciado. Então, você e aquele que conseguiu sair
+ da Ordem Antiga vivo.}
+{102}{}{O que?}
+{103}{}{É quem é você?}
+{104}{}{Lamento, eu pensei que você era outra pessoa. Tchau.}
+{105}{}{O nome e Mathia. Eu sou oficialmente o assistente do Maxson, mas
+ eu estou aqui tambem pra ter certeza de que ninguém mexa com o velho.}
+{106}{}{Velho? Isso soa um pouco desrespeitoso.}
+{107}{}{O que você faz como assistente do Maxson?}
+{108}{}{Bom encontrar você. Tchau.}
+{109}{}{Não, não, de modo algum. Ele e um cara bom. (Brincano) Alem disso,
+ eu não falaria mal dele enquanto ele estivesse de pe próximo a mim.}
+{110}{}{Então, o que é que você faz para o Maxson como assistente dele?}
+{111}{}{Tchau.}
+{112}{}{Eu tomo conta de todo o trabalho em papel. Ele não conseguiria fazer
+ trabalho em papel pra salvar a vida dele. Também, se ele clears um
+ upgrade das armas para um dos Irmaos, eu processo a ordem.}
+{113}{}{Certo, obrigado pela informação.}
+{114}{}{Eu não consigo acreditar que um idiota como você e aquele que
+ fez a Ordem Antiga funcionar. Vai entender.}
+{115}{}{Ola de novo Iniciado. Como eu posso ajudar você?}
+{116}{}{O que?}
+{117}{}{Eu lamento, eu esqueci seu nome.}
+{118}{}{Lamento, eu pensei que você era outra pessoa. Bom dia.}
+{119}{}{Certo, vamos lao. (Ele agarra você pelo braço)}
+{120}{}{Uh huh.}
+{121}{}{Uh uh.}
+{122}{}{Certo, certo. Eu estou indo.}
+{123}{}{Fique longe de mim. Eu não vou a qualquer lugar.}
+{124}{}{Certo. Maxson has cleared um upgrade de arma pra você. O que você
+ gostaria?}
+{125}{}{O que?}
+{126}{}{Rifle de Sniper.}
+{127}{}{Lancador de Foguetes.}
+{128}{}{Pistola Laser.}
+{129}{}{Punho de Energia.}
+{130}{}{Ripper.}
+{131}{}{Ai vai você. Estou feliz de que você esta no nosso lado Iniciado.}
+{132}{}{Os Elders have called uma reuniao. Eles desejam que você encontre
+ eles na sala de conferencia imediatamente.}
+{133}{}{Aonde é a sala de conferencia?}
+{134}{}{Certo, obrigado.}
+{135}{}{Esta neste andar. No canto a nordeste, logo atras do salao da assembleia.}

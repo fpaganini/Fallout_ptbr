@@ -1,0 +1,29 @@
+{100}{}{O que você quer?}
+{101}{}{Me deixe em paz}
+{102}{}{O quê?}
+{103}{}{Não mexa com minhas coisas.}
+{104}{}{Oi.}
+{105}{}{Arrrr!}
+{106}{}{Grrrrr!}
+{107}{}{Uungh.}
+{108}{}{Uhh.}
+{109}{}{Ei, você ouviu que Set foi desativado?}
+{110}{}{Conjunto está morto. Set está morto. Set está morto. . .}
+{111}{}{Há água suficiente para todos.
+ Set garante isso.}
+{112}{}{Eu ouvi dizer que os mutantes foram expulsos da cidade.}
+{113}{}{Desde que os mutantes saíram, tem sido melhor.}
+{114}{}{Olá.}
+{200}{}{Você examina a coisa lamentável, mas não consegue descobrir o que pode
+ fizeram do jeito que é.}
+{201}{}{Parece ter sido humano uma vez, ou pelo menos descendente de
+ humanos. Você adivinha que a dissuasão no corpo é mais provável
+ a ácido ou radiação.}
+{202}{}{O corpo do humanóide parece ser altamente irradiado, mas ainda assim
+ funcionamento. Enquanto era uma vez humano, parece ter voltado a um
+ estilo de vida mais animalesco}
+{203}{}{O corpo do humanóide parece ser altamente irradiado, e muito
+ do músculo e da matéria cerebral parecem ter se deteriorado. No entanto, genética
+ indicadores levam você a acreditar que ele descendeu, como você, daqueles
+ que entrou nos cofres.}
+{300}{}{Você foi irradiado!}

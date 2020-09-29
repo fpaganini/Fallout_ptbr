@@ -1,0 +1,106 @@
+{100}{}{Pelo olhar das coisas, ele não podem ter viajado muito longe. Eles devem ter um covil por perto.}
+{101}{}{Eles aparentam ter viajado pra aqui de algum lugar próximo.}
+{102}{}{Parece que eles viajaram de algum lugar longe ao norte daqui.}
+{103}{}{Aparentemente, eles estavam apenas vagueando pelas terras devastadas.}
+{104}{}{Você tropecou numa batalha feroz entre radscorpions e ratos toupeiras.}
+{105}{}{EMBOSCADA!!!}
+{106}{}{Você tropecou num grupo grande de radscorpions!}
+{107}{}{Você tropecou num grupo de radscorpions.}
+{108}{}{Você tropecou numa familia de ratos toupeiras.}
+{109}{}{Você consegue evitar um caso serio de desidratacao procurando por água. A busca leva uma hora adicional.}
+{110}{}{Você consegue evitar um caso serio de desidratacao procurando por água. A busca leva adicionais }
+{111}{}{ houras.}
+{112}{}{Seu suprimento de água esta se esgotando e sua busca de uma hora falha em
+ localizar mais água. Ocorre uma desidratacao severa, causando a você }
+{113}{}{ pontos de dano a saude.}
+{114}{}{Seu suprimento de água esta se esgotando e sua busca de }
+{115}{}{ horas falha em localizar mais água. Ocorre uma desidratacao severa causando a você }
+{116}{}{ pontos de dano a saude.}
+{117}{}{Você procura por água na paisagem do alto deserto por uma hora, mas você não acha o bastante
+ para satisfazer completamente sua sede. Você susteve um ponto de
+ dano a saude.}
+{118}{}{Você procura por água na paisagem do alto deserto por uma hora, mas você não acha o bastante para satisfazer
+ completamente sua sede. Você susteve }
+{119}{}{ pontos de dano a saude.}
+{120}{}{Você procura por água na paisagem do alto deserto por }
+{121}{}{ horas, mas você não acha
+ o bastante para satisfazer completamente sua sede. Você susteve um ponto de dano a saude.}
+{122}{}{Você procura por água na paisagem do alto deserto por }
+{123}{}{ horas, mas você não acha o bastante para satisfazer completamente sua sede. Você
+ susteve }
+{124}{}{ pontos de dano a saude.}
+{125}{}{Você consegue evitar a desidratacao devido aos seus suprimentos de água.}
+#{12600}{}{Radscorpions cacam ratos toupeiras entre as paredes da cidade arruinada.}
+{126}{}{Você vai de encontro com alguns radscorpions caçando ratos toupeiras.}
+{127}{}{Humanoides magricelas hostis com pele esverdeada se aproximam.}
+{128}{}{Lixo e rochas estão espalhados.}
+{129}{}{Um solitario radscorpion emboscou você!}
+{130}{}{Você nota um cadaver parcialmente comido aqui.}
+{131}{}{STAMPEDE!!!}
+{132}{}{Você tropeca num grande grupo de radscorpions!}
+{133}{}{Saqueadores emboscam você!}
+{134}{}{Um grupo de radscorpions malvados atacam do deserto!}
+{135}{}{Você encontra um grupo de guardas em patrulha.}
+{136}{}{Você encontra um mercador com varios guardas.}
+{137}{}{Você vê um campones herding varios brahmins.}
+{143}{}{Saqueadores!!!}
+{144}{}{Você tropecou num grande encontro de ratos toupeiras.}
+{145}{}{Você encontra um bando de radscorpions selvagens.}
+{146}{}{Você encontra alguns camponeses sob ataque.}
+{169}{}{Você tropeca numa familia de radscorpions.}
+{170}{}{Você cruza com um mercador viajante e guardas.}
+{171}{}{Você encontra um viajante morto.}
+#{17100}{}{Você encontra um viajante.}
+#{17200}{}{Você tropecou num pequeno patch de construções arruinadas e desertas.}
+{172}{}{Você tropecou em alguns items deixados no chao.}
+{173}{}{Você localiza os restos de uma caravana, sendo saqueada pelos saqueadores.}
+{196}{}{radscorpions, incoming!}
+{197}{}{Uh oh . . . um festa de saqueadores!}
+{198}{}{Você vê um saqueador solitario a distancia.}
+{199}{}{Você encontra os restos de um campo de batalha, com corpos strewn about.}
+{200}{}{radscorpions, incoming!}
+{223}{}{Você localiza um grupo vagueante de coiotes selvagens.}
+{224}{}{Você nota diversos individuos patrulhando.}
+{225}{}{Você encontra um pequeno grupo de mercadores e guardas.}
+{226}{}{Você vê uma pequena guerra acontecendo -- homens vs mutantes!}
+{227}{}{Uma tremenda horda de radscorpions esta vindo por este caminho!}
+{250}{}{Varios homens com power armor estão se aproximando de você.}
+{251}{}{Você vê um grupo de mercadores e guardas.}
+{252}{}{Você vê uma batalha vicious underway entre varios saqueadores do deserto e um grupo de homens com power armor.}
+{253}{}{Você vê varios mutantes explorando um patch de solo hostil.}
+{254}{}{Você vê algumas estranhas criaturas a frente . . .}
+{25500}{}{Você localiza as ruinas de uma pequena vila.}
+{255}{}{Você acha alguns itens.}
+{256}{}{Uma unidade patrulha de super mutantes esta passando por perto!}
+{279}{}{A frente você consegue ver lixo strewn nas areias.}
+{280}{}{Você tropeca num grupo de guerra super mutante.}
+{281}{}{Você tropeca num grupo de criaturas bizarras.}
+{282}{}{Você tropeca num grupo de radscorpions famintos.}
+{283}{}{Você se sente nauseado e o ar parece waver com o calor.}
+{284}{}{Você tropecou numa bizarra criatura flutuante.}
+{285}{}{Você encontra algo de um velho filme Ficcao Cientifica.}
+{286}{}{O Deathclaw!!}
+{287}{}{Você tropeca num grupo migrante de radscorpions.}
+{288}{}{Você encontra uma criatura do deserto que sofreu mutacao.}
+{299}{}{Você vê varios radscorpions um pouco distantes.}
+{300}{}{Você vai de encontro um campones ragged.}
+{301}{}{Você encontra um rato toupeira.}
+{302}{}{O Deathclaw!!}
+{303}{}{Você tropeca num grupo migrante de radscorpions.}
+{304}{}{Tipo de Cena == }
+{305}{}{Você encontra o que restou dos guardas hostis do mercador Duc.}
+{306}{}{Uma unidade patrulha de mutantes esta passando por perto, junto com eles estão algumas criaturas estranhas!}
+{307}{}{Você e emboscado por um pequeno grupo de guerra super mutante.}
+{308}{}{Parece que você tropeca numa guerra de gangues vicious!}
+{309}{}{Um grupo de membros de gangue hostis bursts forth!}
+{310}{}{Um pequeno grupo de saqueadores atacam!}
+{311}{}{Um pequeno grupo de membros de gangue atacam!}
+{312}{}{Você e de repente atacado por ratos!}
+{313}{}{Você e de repente atacado por um enxame de mantis!}
+# Some special encounter text
+{314}{}{Ei! Eles estão realmente lá fora.}
+{315}{}{Você vê um caminhao virado a distancia.}
+{316}{}{Você tropeca em alguns carros danificados no meio da terra devastada.}
+{317}{}{A nordeste você encontra uma cabine da policia.}
+{318}{}{Você encontra uma manada de brahmins selvagens. Você sente que há algo errado...}
+

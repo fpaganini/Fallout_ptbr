@@ -1,0 +1,40 @@
+{100}{}{Você vê Tolya, um bandido do deserto.}
+{101}{}{Olá, eu sou Tolya. Parece que você acabou de chegar
+ o deserto. Quem é Você?}
+{102}{}{I'm}
+{103}{}{. O que você faz?}
+{104}{}{Você pode me falar sobre o seu acampamento?}
+{105}{}{Urgh?}
+{106}{}{Como um atacante, eu exploro as terras em busca de novos suprimentos. Houveram
+ algumas cidades que foram agraciados pela nossa presença.}
+{107}{}{Em outras palavras, você rouba das pessoas que visita.}
+{108}{}{Ei, isso é muito bom da sua parte. Tenho certeza de que Garl está satisfeito com você.}
+{109}{}{Para quais lugares você já esteve?}
+{110}{}{Venha agora, Garl me diz para nunca falar com estranhos. Você deve
+ pelo menos esteja disposto a me dizer seu nome.}
+{111}{}{Você está certo. Eu estou }
+{112}{}{.
+ Você vai me dizer algo sobre sua banda?}
+{113}{}{Olhe seu idiota, eu não tenho que dizer nada para você.}
+{114}{}{Vá embora, idiota.}
+{115}{}{Nós nunca roubamos. Nós apenas pegamos o extra que os outros têm e redistribuímos
+ entre os nossos famintos.}
+{116}{}{Então, basicamente, você rouba.}
+{117}{}{Parece uma ótima ideia.}
+{118}{}{Estive em muitos lugares nas terras devastadas. Os lugares mais próximos que eu já
+ Estive em Shady Sands e Junktown. Eles são muito gratos
+ para as viagens que fazemos a eles.}
+{119}{}{Você visita Shady Sands?}
+{120}{}{Onde está Junktown?}
+{121}{}{Você está começando a ficar irritante agora. Acho que vou acabar
+ esse pequeno problema.}
+{122}{}{Nós somos o Khan e nosso líder é Garl. Nós somos os mais temidos
+ grupo no terreno baldio, e com um bom motivo. Nós levamos
+ o que queremos e aqueles que ficam no nosso caminho pagam o preço.}
+{123}{}{Sim, vamos a Shady Sands de tempos em tempos. Adiciona um pouco
+ emoção para a vida de todos os interessados.}
+{124}{}{É sobre Junktown?}
+{125}{}{Por que, Junktown é um pouquinho ao sul daqui.
+ Vá alguns quilômetros, vire à direita no cacto moribundo. Você não pode perder isso!}
+{126}{}{Você também disse que visita Shady Sands.}
+{127}{}{Não me incomoda agora. Estou me preparando para o próximo ataque.}

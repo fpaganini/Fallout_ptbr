@@ -1,0 +1,56 @@
+{100}{}{Você vê Romero.}
+{103}{}{Você vê um membro dos Blades.}
+{104}{}{Você vê um membro dos Blades.}
+{105}{}{Você acha que poderiam ser Livros.}
+{106}{}{Você acha que poderiam ser Cicatrizes.}
+{107}{}{Você acha que poderia ser Gunner.}
+{108}{}{Você acha que poderia ser Twitch.}
+{109}{}{Você acha que poderia ser Hammer.}
+{110}{}{Você acha que poderia ser Razor.}
+{111}{}{Abaixe-se!}
+{112}{}{O que? O que você quer dizer?}
+{113}{}{Nunca!}
+{114}{}{Eu estou aqui pra falar sobre a paz.}
+{115}{}{Certo.}
+{116}{}{Eu faco as perguntas aqui. O que você esta fazendo aqui?}
+{117}{}{Eu estou procurando um amigo.}
+{118}{}{Eu estou aqui pra falar sobre a paz.}
+{119}{}{Eu quero acabar com a guerra de gangues!}
+{120}{}{Eu quero beber o sangue dos Blades!}
+{121}{}{Então você esta procurando na area errada. Desapareca.}
+{122}{}{Você deve ser um daqueles pequenos mantos purpuras fracotes.
+ Saia daqui antes que nos explodamos você.}
+{123}{}{Espere! Eu não sei do que você esta falando. Eu estou aqui
+ por Adytum. Eles querem que eu faca todos deixarem eles em paz.}
+{124}{}{Paz com ISTO!}
+{125}{}{Lamento. Eu irei agora.}
+{126}{}{Hmm. Se você e realmente de Adytum, então você ainda e um perdedor.
+ Nunca podera haver paz enquanto aqueles Rippers ainda estiverem por ai.}
+{127}{}{O que você quer dizer?}
+{128}{}{Uh, com certeza.}
+{129}{}{Pergunte pra Razor. Ela explicara sobre esses incestuosos sedentos de sangue.}
+{130}{}{Desapareca!}
+{131}{}{Ei, agora que você e um Blade, eu preciso pedir um favor pra você.}
+{132}{}{Com certeza.}
+{133}{}{O que e?}
+{134}{}{De modo algum.}
+{135}{}{Otimo. Leve este locket pra Julianna. Diga a ela que eu espero
+ ver ela em breve.}
+{136}{}{Parece que eu me apaixonei por uma garota de Adytum. Por causa dos
+ Reguladores atirando em nos a vista, eu não consigo ficar perto dela.}
+{137}{}{Como eu posso ajudar?}
+{138}{}{Continue.}
+{139}{}{Entrada difícil.}
+{140}{}{Se você levar este locket pra Julianna, eu ficaria em debito com você.}
+{141}{}{Coisa certa.}
+{142}{}{Ache outro alguém.}
+{143}{}{Com aliados como você, quem precisa de inimigos? Tchau!}
+{144}{}{Eu acho que ela me ama tambem, mas eu não sei. Os Blades não
+ arriscarao me deixando tentar entrar em Adytum.}
+{145}{}{Entrada difícil.}
+{146}{}{Okay, eu ajudarei.}
+{147}{}{Obrigado! Ela me enviou uma nota. Nós vamos nos encontrar no lugar
+ dos Seguidores e nós casar.}
+{148}{}{Bem-vindo de volta.}
+{149}{}{Muito obrigado. Nós ficaremos aqui com os Seguidores agora, aonde
+ nos podemos estar felizmente casados.}

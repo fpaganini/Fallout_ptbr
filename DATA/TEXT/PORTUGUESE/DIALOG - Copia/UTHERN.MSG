@@ -1,0 +1,39 @@
+{100}{}{Você vê diante de você o Uthern, lider dos Super Mutantes.}
+{101}{}{Normal! Como você ousa entrar nos confinamentos dos seus melhores?}
+{102}{}{Huh?}
+{103}{}{Escoria como você nunca conseguiria ser melhor do que os humanos!}
+{104}{}{Morra mutante!!}
+{105}{}{Mesmo? Você clama a si próprio como melhor, mas qual prova você tem?}
+{106}{}{Se você considera a si próprio melhor do que o resto, você cai na falacia da generalizacao.}
+{107}{}{É uma maravilha que sua raca sobreviveu o tanto que sobreviveu. Eu começarei a limpeza com você.}
+{108}{}{Você só prova meu ponto usando comentarios inane tais como esse. Eu pessoalmente não desejaria ter
+ você na minha vista mas o meu Mestre quer conversar com você.}
+{109}{}{Mostre-me seu Mestre.}
+{110}{}{Tente estas palavras -- Caia morto!}
+{111}{}{Certamente alguém do seu intelecto consegue ver que tais coisas não resolverao nada.}
+{112}{}{Com prazer.}
+{113}{}{Você esta clamando que conversar não resolvera nada? Você e mais tolo do que eu pensava.}
+{114}{}{Embora você seja tolo, eu estava me referindo a sua maneira de entregar as palavras.}
+{115}{}{Ah, o tolo finalmente percebe algo.}
+{116}{}{Palavras só o farao tanto. Isto resolvera mais.}
+{117}{}{Eu comeco a achar que você possa ter um pouco de sangue superior em você. Deixe-me descobrir com certeza.}
+{118}{}{Ele does de fato, pois a morte será sua graca salvadora.}
+{119}{}{A mais simples das provas pra você. Eu sou mais esperto, mais forte e mais rapido do que você é.
+ Você se importaria com um teste das minhas técnicas?}
+{120}{}{Não, obrigado. Eu acredito em você.}
+{121}{}{Você esqueceu arrogante, estúpido e feio.}
+{122}{}{Com certeza. Vamos ver o que você pode fazer.}
+{123}{}{Bom. Você gostaria de uma chance de ganhar poderes maiores?}
+{124}{}{Você pode apostar!}
+{125}{}{De modo algum!}
+{126}{}{Eu não tenho certeza a respeito disto.}
+{127}{}{Morra!}
+{128}{}{Então eu levarei você até o meu Mestre.}
+{129}{}{Quase parece uma pena. Não importa, isso não vai demorar muito.}
+{130}{}{Ofereci todo o poder no mundo e ainda assustado. Eu ajudarei você com sua decisao.}
+{131}{}{Comentarios tais como esses só provam quao muito mais inteligente eu sou do que você. Agora, você pagara por sua insolencia!}
+{132}{}{Você aceita cartoes de credito, ou só tampinhas?}
+{133}{}{Nunca!!}
+{134}{}{Lamento, eu estou com poucas tampinhas agora. Eu posso conseguir raincheck?}
+{135}{}{O que? Eu acho que eu posso generalizar tanto assim -- você vai vir comigo agora.}
+{136}{}{Que bom ver você de novo. Me foi dito que você estava vagueando por aqui. Eu tenho ordens para trazer você.}

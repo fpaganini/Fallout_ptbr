@@ -1,0 +1,32 @@
+{100}{}{Você vê o Mitch, o gerente da Loje All-In-One.}
+{101}{}{Procurando por alguma coisa?}
+{102}{}{O que você esta procurando hoje?}
+{103}{}{Com o que eu posso ajudar você?}
+{104}{}{Eu tenho de tudo, o que é que você precisa?}
+{105}{}{Precisa de suprimentos?}
+{106}{}{Quer comprar?}
+{107}{}{O que será?}
+{108}{}{Pegou qualquer coisa boa pra negociar?}
+{109}{}{O que você pegou?}
+{110}{}{Me faca uma oferta.}
+{111}{}{Vou fazer um acordo com você.}
+{112}{}{Venha de novo.}
+{113}{}{Obrigado, vejo você de novo em breve.}
+{114}{}{Tchau.}
+{115}{}{Cuidado com sua bolsa.}
+{116}{}{Se você precisar de qualquer coisa, deixe-me saber.}
+{117}{}{Cuidado por onde anda.}
+{118}{}{Se achar qualquer coisa boa, traga-a de volta.}
+{119}{}{Não seja um estranho.}
+{120}{}{Eu tenho todas as coisas boas.}
+{121}{}{O que?}
+{122}{}{Mitch comanda este lugar, não eu.}
+{123}{}{Eu estou indo pro Falcon quando eu estiver de folga!}
+{124}{}{Fique longe de problema.}
+{125}{}{Cuidado.}
+{126}{}{Você esta me encarando?}
+{127}{}{Melhor eu não pegar você roubando.}
+{128}{}{Bem-vindo a Loje All-In-One.}
+{129}{}{Compre já alguma coisa!}
+{130}{}{Você esta tentando causar problema?}
+{131}{}{Nós estamos fechados.}

@@ -1,0 +1,11 @@
+{100}{}{Essa técnica não ajudara aqui.}
+{101}{}{Você achar um dispositivo explosivo   conectado ao footlocker.}
+{102}{}{Você detona uma armadilha explosiva!}
+{103}{}{Você desarma a armadilha.}
+{104}{}{Você não desarmou a armadilha.}
+{105}{}{Você acidentalmente detona o explosivo!}
+{106}{}{Você acidentalmente detona o explosivo, porque você foi esperto o bastante
+ pra acha-lo, mas não esperto o bastante pra deixa-lo em paz.}
+{107}{}{Ooof!}
+{108}{}{Aaargh!}
+{109}{}{Você vê a  do Set.}

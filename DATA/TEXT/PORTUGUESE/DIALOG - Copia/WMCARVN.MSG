@@ -1,0 +1,128 @@
+{100}{}{Você vê um motorista de caravana.}
+{101}{}{Oi, se você esta procurando por um trabalho em uma das nossas caravanas você deveria falr com a Mercadora Mestra. Ela esta no predio a leste.}
+{102}{}{Eu lamento, mas você precisa falar com a Mercadora Mestra.}
+{103}{}{Bom, você conseguiu o ok. Eu sabia que não seria um problema. Ela esta tão swamped ultimamente, desde
+ que o Daren Hightower comecou a se esconder no escritorio dele. Homem estranho. Nós saimos a cada 5 dias. No
+ 1º, 5º, 10º, 15º, 20º e o 25º. Nós atualmente só vamos até Junktown é a Boneyard de Los Angeles.}
+{104}{}{Então qual é o pagamento?}
+{105}{}{Um.}
+{106}{}{Nosso pagamento e de 200 hubbucks. Não e assim otimo mas nos saimos frequentemente e nossas rotas não são muito
+ perigosas e sim, como todos os outros isso e para cada caminho, mas claro você não tem que ir em ambos os caminhos. }
+{107}{}{Nós saimos hoje. Você esta interessado?}
+{108}{}{Nós saimos no }
+{109}{}{Vazio}
+{110}{}{}
+{111}{}{. Você esta interessado?}
+{112}{}{Eu darei a você um trabalho mesmo embora… deixa pra lá. Você esta interessado?}
+{113}{}{Com certeza. }
+{114}{}{Não.}
+{115}{}{Talvez.}
+{116}{}{Yaya.}
+{117}{}{Tae?}
+{118}{}{Ah, ok. Não e um problema. Apenas deixe-me saber se você mudar de ideia.}
+{119}{}{Eu desejo que você decida.}
+{120}{}{Bem, apenas passe aqui se você decidir trabalhar pra nos. Isso e no 1º, 5º e assim por diante. Tchau.}
+{121}{}{Eu lamento, mas eu não posso contratar você a menos que você consiga se comunicar claramente com o resto da turma.}
+{122}{}{Por favor volte quando você estiver se sentindo melhor.}
+{123}{}{Uh, você estão todos bem? Eu acho que você precisa pegar algo pra comer, mas não vá ao Bob's.}
+{124}{}{Eu disse suma!}
+{125}{}{Eu estou bastante desapontado com você… roubando! Agora, por que você fez isso?}
+{126}{}{Porque eu sou uma mariposa verde malvada do espaco sideral e eu sou… ‘mau'!}
+{127}{}{Eu não queria, mas eu estou faminto e eu tenho crianças para alimentar.}
+{128}{}{Eu carve seu coração pra fora com um garfo! }
+{129}{}{(Renda-se)}
+{130}{}{(Ataque)}
+{131}{}{Eu tentei ajudar você, mas eu creio que algumas pessoas estão alem da ajuda. Lamento dizer isto mas nos vamos
+ ter que fazer isto do jeito violento.}
+{132}{}{Eu entendo, mas isso não justifica. Eu ainda vou ter que pedir pra você sair. Nós não podemos
+ contratar pessoas que não conseguem controlar suas proprias tentações.}
+{133}{}{Você realmente espera que eu caia nessa bosta?? Guardas!}
+{134}{}{Eu lamento, mas as vezes um pouco de tempo numa cela pode curar uma pessoa. Guardas! Tentem não matar
+ ela. Você se rendera aos meus guardas?}
+{135}{}{Eu verei você no inferno!}
+{136}{}{Sim. Eu lamento.}
+{137}{}{O que? Você vai entrar em outra luta?}
+{138}{}{Eu lamento mas você deve sair imediatamente ou eu serei forcado a chamar a policia!}
+{139}{}{Guardas! Policia!}
+{140}{}{Eu acho que você deveria sair..}
+{141}{}{Lamento, mas não me e permitido contratar você.}
+{142}{}{Por favor, você esta tornando isto difícil pra mim.}
+{143}{}{Por favor saia.}
+{144}{}{Intrigante, mas você não é meu tipo.}
+{145}{}{Outstanding! O pagamento sera de 200 hubbucks. Qual rota você preferiria?}
+{146}{}{Fabuloso. Por favor volte no }
+{147}{}{1º}
+{148}{}{5º}
+{149}{}{10º}
+{150}{}{15º}
+{151}{}{20º}
+{152}{}{25º}
+{153}{}{. Você saira então. Como sempre, pagarei 200 hubbucks.}
+{154}{}{Certo.}
+{155}{}{Lamento, não posso esperar.}
+{156}{}{É uma tragedia. Nós perdemos a caravana inteira, mas você sobreviveu? Isso não deveria ter acontecido. Eu não
+ sei o que aconteceu lá fora mas eu não posso contratar mais você. Eu lamento.}
+{157}{}{Junktown}
+{158}{}{Boneyard de Los Angeles }
+{159}{}{Um, não agora. Talvez outra hora.}
+{160}{}{Outstanding, Eu pegarei o resto do grupo.}
+{161}{}{Otimo.}
+{162}{}{Off você vai. Boa sorte!}
+{163}{}{Tente evitar problemas, não vá procurando por eles.}
+{164}{}{Tenha cuidado, eu não gosto dos olhares da Boneyard. It's creepy.}
+{165}{}{Isso e bom. Aquelas passagens negras são realmente estranhas, mas elas são otimas pra viajar.}
+{166}{}{Eu acho que há gangues lá embaixo. Eu teria muito cuidado com quem você fala.}
+{167}{}{Otimo. Junktown e um lugar decente.}
+{168}{}{Ah, diga 'oi' pra isso… Matar.. de novo? Eu esqueci o nome dele, mas ele e um camarada decente. Eu imagino como
+ ele esta indo.}
+{169}{}{Lugar interessante. Eu ouvi que eles tem algum doutor maligno que anima os mortos ou algo assim.}
+{170}{}{Por que na terra você deixou aquela ultima caravana? Nada terrível aconteceu a ela, mas algo poderia
+ ter acontecido.}
+{171}{}{Eu posso ter outra chance?}
+{172}{}{Nada.}
+{173}{}{Eu não ligo uma bosta!}
+{174}{}{Ig wa neeka rooola?}
+{175}{}{Lig.}
+{176}{}{Eu lamento, você falhou comigo de novo. Você não parece ser muito responsável, e isso não é uma
+ combinacao muito boa pra nossa linha de trabalho.}
+{177}{}{Por que eu deveria?}
+{178}{}{Você não deveria.}
+{179}{}{Porque eu vou por um buraco atraves da sua cabeca se você não o fizer.}
+{180}{}{Eu tenho coisas melhores pra fazer do que andar around some caravana burra.}
+{181}{}{Eu não sabia que não era permitido a mim sair. Tudo parecia ok.}
+{182}{}{Entendo… você estava nas drogas. Bem, viva essa vida se você a deseja.}
+{183}{}{Eu lamento que você se sinta desse modo.}
+{184}{}{Eu estou surpreso que você nunca fez uma caravana antes, mas eu creio que nenhum dano veio disso… então, com certeza.
+ Eu darei mais uma chance pra você.}
+{185}{}{Você fez um bom trabalho! Você gostaria de outra caravana?}
+{186}{}{Com certeza.}
+{187}{}{Não.}
+{188}{}{Talvez.}
+{189}{}{Eeek!}
+{190}{}{Lub.}
+{191}{}{Pronto pra ir? Nós estamos saindo hoje.}
+{192}{}{Sim.}
+{193}{}{Não!}
+{194}{}{Ack!}
+{195}{}{De outro modo eu o darei pra alguém mais, não se preocupe com isso. Você não é obrigado…
+ a menos que você saia com a caravana, certo?}
+{196}{}{Você chegou um pouco cedo. A proxima corrida da caravana não é até }
+{197}{}{1º}
+{198}{}{5º}
+{199}{}{10º}
+{200}{}{15º}
+{201}{}{20º}
+{202}{}{25º}
+{203}{}{. Volte então se você ainda gostar do trabalho. }
+{204}{}{Janeiro }
+{205}{}{Fevereiro }
+{206}{}{Marco }
+{207}{}{Abril }
+{208}{}{Maio }
+{209}{}{Junho }
+{210}{}{Julho }
+{211}{}{Agosto }
+{212}{}{Setembro }
+{213}{}{Outubro }
+{214}{}{Novembro }
+{215}{}{Dezembro }

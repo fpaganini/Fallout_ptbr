@@ -1,0 +1,9 @@
+{100}{}{Você vê a assistente da Doutora.}
+{179}{}{Você deveria ver a Doutora.}
+{180}{}{Ela é a Doutora, não eu.}
+{181}{}{Eu estou apenas no treinamento.}
+{182}{}{Eu não posso ajudar você, oficialmente.}
+{183}{}{Lori é a Doutora.}
+{184}{}{Você tem que perguntar a Doutora.}
+{185}{}{Não se preocupe, ela e apenas uma brincalhona.}
+{186}{}{Ela apenas gosta de provocar, não se preocupe.}

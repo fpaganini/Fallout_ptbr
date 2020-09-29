@@ -1,0 +1,22 @@
+{100}{}{Você vê um guarda dos Mercadores das Aguas.}
+{101}{}{Alto! Membros não-mercadores não são permitidos próximo da torre da água
+ ou das bombas.}
+{102}{}{Não e permitido a você estar aqui atras, saia agora!}
+{103}{}{Esta area esta fora dos limites! Mova-se pra longe das bombas.}
+{104}{}{Volte se você valoriza suas costas.}
+{105}{}{Ultimo aviso! Saia.}
+{106}{}{Melhor você sair enquanto você ainda pode.}
+{107}{}{Você tem segundos pra sair ou levar um tiro.}
+{108}{}{Você e surdo? Saia agora!}
+{109}{}{Basta.}
+{110}{}{Você tera que aprender do jeito difícil.}
+{111}{}{Você simplesmente não escuta.}
+{112}{}{Ensinar a ele uma licao.}
+{113}{}{Ensinar a ela uma licao.}
+{114}{}{Membros não-mercadores não são permitidos próximo da torre da água ou das bombas.}
+{115}{}{Você deveria sair.}
+{116}{}{Nós não confiamos em qualquer um e nós não vamos começar com você.}
+{117}{}{Melhor você ficar longe das bombas.}
+{118}{}{Se você precisa de algo vá até a Camara dos Mercadores.}
+{119}{}{Nós atiraremos. Nem ao menos pense.}
+{120}{}{Nós não deixaremos qualquer um colocar em jogo o sangue da vida do Hub.}

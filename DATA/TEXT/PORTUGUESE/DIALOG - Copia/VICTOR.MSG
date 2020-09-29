@@ -1,0 +1,21 @@
+{100}{}{Você vê o Victor.}
+{101}{}{Você vê um membro de gangue.}
+{102}{}{Aaaaggghhh . . .}
+{103}{}{Sangue novo. Ei. Ei heh.}
+{104}{}{Um, sim. Uh, eu acho que eu irei agora.}
+{105}{}{Você não é uma pessoa muito feliz, não e?}
+{106}{}{Huh huh!}
+{107}{}{Não, realmente, eu acho que eu manterei você aqui por um tempo.}
+{108}{}{Por que você diz isso? Eu estou bastante feliz. Eu estou muito feliz
+ por que há muitas coisas que sangram.}
+{109}{}{Você é um psicopata de verdade, você sabe disso?}
+{110}{}{Um, sim. Tchau.}
+{111}{}{Ah, sim, apreciacao da arte. Uh, eu consigo entender isso. Eu acho.}
+{112}{}{Não diga isso! Minha mae disse isso! Eu farei você pagar! Eu sou um bom garoto,
+ certo mamae?}
+{113}{}{Alguém que me entende! Finalmente!}
+{114}{}{Ola de novo, meu amigo artistico.}
+{115}{}{Há! Há! Ei heh hee! Ho ho há!}
+{116}{}{Zzzzz}
+{117}{}{Victor, eu já disse a você que você e um psicopata de verdade?}
+{118}{}{Uh, oi.}

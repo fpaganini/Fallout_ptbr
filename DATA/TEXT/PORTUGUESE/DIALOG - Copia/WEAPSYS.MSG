@@ -1,0 +1,1 @@
+{100}{}{Parece que o sistema de seguranca automatizado esta armado.}

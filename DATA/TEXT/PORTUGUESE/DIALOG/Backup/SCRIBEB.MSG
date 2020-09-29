@@ -1,0 +1,25 @@
+{100}{}{Escriba}
+{101}{}{A Vree é minha idola.}
+{102}{}{A Vree e tão bonita.}
+{103}{}{A Sophia com certeza e bacana.}
+{104}{}{Derek is the bee's knees.}
+{105}{}{O universo continuara a se expandir, ou eventualmente entrara
+ em colapso de volta em si próprio?}
+{106}{}{Eu amo esses livros e revistas velhas, mas els são tão difíceis
+ de vir.}
+{107}{}{Conhecimento e poder.}
+{108}{}{A caneta e mais forte que a espada.}
+{109}{}{A technologia deve ser preservada.}
+{110}{}{A ciência e tão divertida.}
+{111}{}{Eu vi uma nave espacial alienigena antes.}
+{112}{}{Você sabia que o sol e realmente uma grande reação nuclear?
+ Similar ao que terminou o mundo antigo, excepto que é fissao,
+ não fusao.}
+{113}{}{Você sabia que um buraco negro e realmente uma entrada para outro
+ universo? Eu tenho tudo trabalhado no papel. É muito ruim que não havera
+ qualquer viagem espacial até muio depois de eu estar morto.}
+{114}{}{Você sabia que o atomo de hidrogenio e 99.9843425% de espaco vazio?}
+{115}{}{A viagem no tempo será possível um dia e nós poderiamos ser capazes de
+ impedir o desastre que arruinou nosso mundo no passadao. Mas isso
+ não . . . nos imepediria de voltar se estivesse consertado . . .
+ oh, minha cabeca doi.}

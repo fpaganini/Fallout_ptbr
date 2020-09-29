@@ -1,0 +1,105 @@
+{100}{}{Você vê a Cleo.}
+{101}{}{Sem retirada, sem rendicao, amigo.}
+{102}{}{Sem retirada, sem rendicao, dama.}
+{103}{}{Você já não estava saindo? Saia daqui.}
+{104}{}{O que você quer?}
+{105}{}{Diga-me sobre o Loxley.}
+{106}{}{Diga-me sobre a Jasmine.}
+{107}{}{Diga-me sobre o Grupo.}
+{108}{}{Diga-me sobre o Decker.}
+{109}{}{Diga-me sobre as caravanas desaparecidas.}
+{110}{}{Oi.}
+{111}{}{Um, ugh!}
+{112}{}{Ei! O que esta acontecendo?}
+{113}{}{Diga-me sobre o Loxley.}
+{114}{}{Diga-me sobre a Jasmine.}
+{115}{}{Diga-me sobre o Grupo.}
+{116}{}{Diga-me sobre o Decker.}
+{117}{}{Diga-me sobre as caravanas desaparecidas.}
+{118}{}{Diga-me sobre as caravanas desaparecidas.}
+{119}{}{Oi.}
+{120}{}{Um, ugh!}
+{121}{}{Ele e o chefe. O que mais há pra saber?}
+{122}{}{Diga-me sobre a Jasmine.}
+{123}{}{Diga-me sobre o Grupo.}
+{124}{}{Diga-me sobre o Decker.}
+{125}{}{Diga-me sobre as caravanas desaparecidas.}
+{126}{}{Oi.}
+{127}{}{Um, ugh!}
+{128}{}{Ela é a assistente dos chefes. Não é uma garota ruim.}
+{129}{}{Diga-me sobre o Loxley.}
+{130}{}{Diga-me sobre a Jasmine.}
+{131}{}{Diga-me sobre o Grupo.}
+{132}{}{Diga-me sobre o Decker.}
+{133}{}{Diga-me sobre as caravanas desaparecidas.}
+{134}{}{Oi.}
+{135}{}{Um, ugh!}
+{136}{}{Se você tiver sorte você considerara você mesmo como um de nos no fim do dia. Em casa, parte da
+ mobilia, entende?}
+{137}{}{Diga-me sobre o Loxley.}
+{138}{}{Diga-me sobre a Jasmine.}
+{139}{}{Diga-me sobre o Decker.}
+{140}{}{Diga-me sobre as caravanas desaparecidas.}
+{141}{}{Oi.}
+{142}{}{Um, ugh!}
+{143}{}{Nós não discutimos sobre o Sr. Decker em companhia educada.}
+{144}{}{Diga-me sobre o Loxley.}
+{145}{}{Diga-me sobre a Jasmine.}
+{146}{}{Diga-me sobre o Grupo.}
+{147}{}{Diga-me sobre as caravanas desaparecidas.}
+{148}{}{Oi.}
+{149}{}{Um, ugh!}
+{150}{}{Nós não temos nada a ver com isso!}
+{151}{}{Diga-me sobre o Loxley.}
+{152}{}{Diga-me sobre a Jasmine.}
+{153}{}{Diga-me sobre o Grupo.}
+{154}{}{Diga-me sobre o Decker.}
+{155}{}{Oi.}
+{156}{}{Um, ugh!}
+{157}{}{Oi yourself.}
+{158}{}{Por que você se importa de conversar com as pessoas, retardado?}
+{159}{}{Um grande lider. Ele esta fazendo de tudo pra ferrar as pessoas certas e manter o Hub unido --
+ por uma pequena quantia, claro.}
+{160}{}{Diga-me sobre a Jasmine.}
+{161}{}{Diga-me sobre o Grupo.}
+{162}{}{Diga-me sobre o Decker.}
+{163}{}{Diga-me sobre as caravanas desaparecidas.}
+{164}{}{Diga-me sobre as caravanas desaparecidas.}
+{165}{}{Oi.}
+{166}{}{Um, ugh!}
+{167}{}{É ambos, um trabalho é  uma aventura. Ajudando os pobres, arriscando sua vida, encontrando caras novos
+ e interessantes. Esses somos nos, os caras bons!}
+{168}{}{Diga-me sobre o Loxley.}
+{169}{}{Diga-me sobre a Jasmine.}
+{170}{}{Diga-me sobre o Decker.}
+{171}{}{Diga-me sobre as caravanas desaparecidas.}
+{172}{}{Diga-me sobre as caravanas desaparecidas.}
+{173}{}{Oi.}
+{174}{}{Um, ugh!}
+{175}{}{I had a friend who worked for him once. When the assignment went bad, he ran back to Decker for
+ reinforcements. Decker called him a fool, and he had him lobotomized as an example to others. We don't
+ like Decker very much around here.}
+{176}{}{What rumors do you want to hear? The Water Merchants are playing games. Decker's squeezing merchants
+ for more protection. The Children of the Cathedral sacrificed it to their god. The Deathclaw até it. Rumors
+ ain't worth nothing. The world's full of rumor and suspicion, and empty of truth. Look for fact, not
+ fiction. But why are you asking? You had friends on the caravan?}
+{177}{}{Eu não posso falar sobre meus motivos.}
+{178}{}{Eu prometi a um amigo que eu olharia sobre isso.}
+{179}{}{Eu preciso de água para minha cidade e não posso afford to have caravans disappear.}
+{180}{}{Sim, eu tinha um amigo.}
+{181}{}{Certo. Eu tenho segredos tambem. Boa sorte, amigo.}
+{182}{}{Lamento que eu não possa ser mais util. Ah, e então, há o rumor sobre a nave do espaco sideral. Eu
+ acho que alguém tem brincado com muitos dos jogos estupidos do Rufus.}
+{183}{}{Realmente? De onde você e?}
+{184}{}{Shady Sands.}
+{185}{}{Um lugar logo ao norte de Shady Sands.}
+{186}{}{Vault 13.}
+{187}{}{Aqui e ali. Eu faco trabalhos odds para lugares que me deixam ficar.}
+{188}{}{Lamento ouvir isso. Eu perdi alguns bons amigos no meu tempo, e um dele eu achei pior do que morto,
+ mas eu prefiro não entrar em detalhes.}
+{189}{}{Nós não já discutimos isso? Você tem uma mente de uma trilha, amigo.}
+{190}{}{Não e um lugar ruim se você gosta de areia. Um pouco seco demais e selvagem pra mim. Pelo menos no Hub você
+ não tem que se preocupar sobre radscorpions andarilhos. Nós temos o bastante de nossos predadores, eu suponho.}
+{191}{}{Você e de uma Vault? Saia daqui! Não me alimente com essa besteira.}
+{192}{}{Eu não invejo você. Claro, se você faz um nome por você mesmo, você pode se tornar uma dessas lendas de
+ lutas selvagens como o Magnum Tom Goddard ou o Escorpiao Joe Cornelius. Cara, isso deve ser uma coisa boa!}

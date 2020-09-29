@@ -1,0 +1,57 @@
+{100}{}{Você vê um guarda de caravana.}
+{101}{}{Não acredito que perdemos o chefe. Você quer voltar com a gente?
+ Ainda podemos pagar os 400 scripts.}
+{102}{}{É uma pena que perdemos o Driver; Rutger não vai gostar disso nem um pouco.
+ Se você quiser, ainda podemos pagar o mesmo para voltar conosco para
+ o Hub.}
+{103}{}{Você está voltando com a gente? Eu vou dirigir essa coisa. O pagamento será o
+ mesmo.}
+{104}{}{Bem, eu não sei sobre você, mas acho que vou esperar por outro
+ caravana. Eu não quero voltar sozinha. Se você quiser voltar, eu irei
+ com você, mas se eu não fizer isso, você não receberá os 400 scripts.}
+{105}{}{Isso foi muito desagradável. Se você realmente quiser, eu posso te dar outra
+ 400 scripts, se você voltar ao Hub comigo. É perigoso para um
+ pessoa.}
+{106}{}{Você terá outros 400 roteiros se puder me pegar é a caravana
+ de volta em segurança para o Hub, mas somente se eu fizer isso. Você tem que cobrir
+ me se entrarmos em uma briga.}
+{107}{}{Certo, eu vou com você.}
+{108}{}{Não obrigado. Eu tive bastante dever de guarda.}
+{109}{}{Tuk.}
+{110}{}{Ótimo! Vamos sair daqui!}
+{111}{}{Certo, eu entendo.}
+{112}{}{Eu farei o devido.}
+{113}{}{Tudo bem.}
+{114}{}{Você está bem?}
+{115}{}{Eu acho que você precisa descansar um pouco.}
+{116}{}{Uh, eu acho que você deveria ver o doutor da Irmandade.}
+{117}{}{Perdemos o chefe. Você pode voltar com a gente? Nós ainda podemos te pagar
+ os 400 scripts.}
+{118}{}{Nosso motorista era uma boa pessoa. . . uma perda terrível. Ainda posso pagar
+ você os 400 scripts, se você quiser voltar conosco para o Hub.}
+{119}{}{Eu vou nos levar de volta se você quiser vir conosco. O pagamento será o
+ mesmo.}
+{120}{}{Uau, não posso acreditar que somos os únicos que restaram. Eu irei com você,
+ mas se eu não conseguir você não será pago os 400 scripts.}
+{121}{}{Isso foi muito desagradável. Se você realmente quiser, eu posso te pegar
+ outros 400 scripts se você voltar ao Hub comigo. É também
+ perigoso para uma pessoa.}
+{122}{}{Você terá outros 400 roteiros se puder me pegar é a caravana
+ de volta em segurança para o Hub, mas somente se eu fizer isso. Você tem que cobrir
+ me se entrarmos em uma briga.}
+{123}{}{Então, você mudou de ideia?}
+{124}{}{Sim, aceito o trabalho}
+{125}{}{Não}
+{126}{}{Hra?}
+{127}{}{Desculpe, não vamos voltar ao Hub hoje.}
+{128}{}{Hum, desculpe. Eu não acho que precisamos de você para a viagem de volta.}
+{129}{}{Fale com nosso motorista de caravana se você quiser contratar.}
+{130}{}{Oi. Se você está procurando algum trabalho, veja nossa caravana
+ Motorista.}
+{131}{}{Por que, ola.}
+{132}{}{Desculpe, não posso falar.}
+{133}{}{Voltando ao Hub conosco?}
+{134}{}{Eu amo Caravan dever, muita ação e caps.}
+{135}{}{Os Far Go Traders são ótimos para trabalhar.}
+{136}{}{Eu gosto de trabalhar para os comerciantes de longe; eles não assumem riscos estúpidos.}
+{137}{}{As caravanas da caravana carmesim são as melhores.}

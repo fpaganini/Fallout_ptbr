@@ -1,0 +1,8 @@
+{100}{}{Este computador purifica a água para a vault.}
+{101}{}{O computador da água e inutil sem o chip de controle
+ da purificacao da água o que e
+ irreparavel. Você precisara de um substituto.}
+{102}{}{Você mexe com o computador, mas não acha realmente
+ qualquer a respeito dele.}
+{103}{}{Há muitas luzes piscando nesta coisa.}
+{104}{}{Com o chip substituto, o computador parece estar funcionando bem.}

@@ -1,0 +1,32 @@
+{100}{}{Você vê o Snake.}
+{101}{}{Você vê o Dolgan.}
+{102}{}{}
+{103}{}{}
+{104}{}{Você vê um membro dos Blades.}
+{105}{}{Você vê um membro dos Blades.}
+{106}{}{Você acha que poderiam ser Livros.}
+{107}{}{Você acha que poderiam ser Cicatrizes.}
+{108}{}{Você acha que poderia ser o Gunner.}
+{109}{}{Você acha que poderia ser o Twitch.}
+{110}{}{Você acha que poderia ser o Hammer.}
+{111}{}{Você acha que poderia ser a Razor.}
+{112}{}{Desapareca! Isto e só para lutadores de verdade.}
+{113}{}{Então, você acha que você consegue vencer Tangler e os fracotes dele?
+ Aqui, eu ensinarei a você como usar essa lamina.}
+{114}{}{Agora que você esta um pouco melhor nisso vá chutar a bunda do
+ Tangler até o próximo ano por mim.}
+{115}{}{Otimo trabalho em hacking aqueles Rippers. O que eu posso fazer por você?}
+{116}{}{Você pode me ensinar mais algumas técnicas com laminas?}
+{117}{}{Como eu consigo entrar nos Gun Runners?}
+{118}{}{Nada, obrigado.}
+{119}{}{Coisa certa. Mas levara a maior parte do dia para melhorar um pouco.
+ Você ainda quer isso?}
+{120}{}{Sim.}
+{121}{}{Não.}
+{122}{}{Ai vai você. Você mostrou um pouco de melhora. Boa sorte
+ pra você.}
+{123}{}{Coisa certa. Volte quando você quiser mais treinamento.}
+{124}{}{Parece que nos deixamos um tolo entrar. Bem, se você quer entrar
+ no lugar deles, há uma pequena break no fosso deles. Procure por ela
+ e corra feito louco. Você pode até mesmo conseguir passar.}
+{125}{}{Obrigado.}

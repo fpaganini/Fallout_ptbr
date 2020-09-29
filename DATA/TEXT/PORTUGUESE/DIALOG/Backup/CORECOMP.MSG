@@ -1,0 +1,9 @@
+{100}{}{Este computador monitora as maquinas mantendo a vault.}
+{101}{}{A maior parte do seu acesso ao computador foi removido por ordem
+ do sistema de IA da Vault.}
+{102}{}{Este é o Nucleo do Computador Central da Vault 13.
+ Ele controla a maioria das estações de trabalho que
+ você acha na vault.}
+{103}{}{Você mexe com o computador mas não descobre realmente qualquer
+ coisa mais a respeito.}
+{104}{}{Há muitas luzes piscando nesta coisa.}

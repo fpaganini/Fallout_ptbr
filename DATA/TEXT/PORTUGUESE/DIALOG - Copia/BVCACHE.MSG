@@ -1,0 +1,2 @@
+{100}{}{Há um deposito de emergencias medicas na parede
+ do leste. Pode se provar util.}

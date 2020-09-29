@@ -1,0 +1,37 @@
+{100}{}{Você vê o Dragon.}
+{101}{}{}
+{102}{}{}
+{103}{}{Você vê um membro dos Blades.}
+{104}{}{Você vê um membro dos Blades.}
+{105}{}{Você acha que podem ser Livros.}
+{106}{}{Você acha que isso pode ser Scars.}
+{107}{}{Você acha que pode ser Artilheiro.}
+{108}{}{Você acha que pode ser o Twitch.}
+{109}{}{Você acha que pode ser o Hammer.}
+{110}{}{Você acha que pode ser Razor.}
+{111}{}{Se perca! Você não pode dizer que estou tentando descansar?}
+{112}{}{O que você está fazendo vagando por aqui?}
+{113}{}{Apenas olhando para as estrelas.}
+{114}{}{À procura de você.}
+{115}{}{Caça.}
+{116}{}{Seu olhar te custou caro. Qual é a história?
+ Diga-me a verdade e você pode viver.}
+{117}{}{Estou mesmo aqui para te matar.}
+{118}{}{Eu quero acabar com as guerras de gangues.}
+{119}{}{Apenas procurando por casa. É logo ali. A lua.}
+{120}{}{Acho que me arrependeria disso, mas não presto atenção a
+ pessoas mortas.}
+{121}{}{chance de gordura. Agora saia daqui antes que eu mande a noite
+ guarda depois de você.}
+{122}{}{Meu, você não gosta muito da vida. Eu vou te ajudar a acabar com isso.}
+{123}{}{Você me achou. Agora, ande ou morra!}
+{124}{}{Eu acho que vou andar.}
+{125}{}{Eu prefiro viver.}
+{126}{}{Qual é a palavra nos Rippers?}
+{127}{}{Eles vão te matar!}
+{128}{}{Eles estão mortos. Vejo?}
+{129}{} {Nada ainda.}
+{130}{}{Ótimo. Vá levá-lo para o Razor.}
+{131}{}{Não minta para mim. Saia!}
+{132}{}{Então pegue sua bunda daqui e pode o bastardo!}
+{133}{}{Ei, mano! Bom trabalho que você fez nos Rippers!}

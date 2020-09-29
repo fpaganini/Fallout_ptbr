@@ -1,0 +1,100 @@
+{100}{}{Você vê um homem grande bem armado.}
+{101}{}{Você vê Gabriel, lider dos Gun Runners.}
+{102}{}{Não e frequente que nos tenhamos visitantes, como eu posso ajudar você?}
+{103}{}{Por que você não tem muitos visitantes?}
+{104}{}{O que é que você faz aqui?}
+{105}{}{Este lugar não é muito acessivel com um ninho daqueles malditos deathclaws bem do lado de fora da nossa fabrica.}
+{106}{}{Vocês  parecem estarem bem armados, por que vocês não vao extermina-los?}
+{107}{}{Nós fomos lá e eliminamos alguns, mas eles sempre parecem voltar. Alem disso, nos somos operarios, não lutadores.}
+{108}{}{O que você me daria se eu fosse lá e tomasse conta deles pra você?}
+{109}{}{Nós fabricamos armas e munição. Nós estivemos nisto pelos ultimos 30 anos. Mas os ultimos 10 foram o inferno.}
+{110}{}{Por que isso?}
+{111}{}{Nós limpamos a area rodeando nossa fabrica de todos os metais de sucata que foram deixados apos a guerra. Agora nos temos que confiar em Adytum para nos suprir com materia-prima.}
+{112}{}{O que é tão ruim a respeito de Adytum suprir vocês com seus materiais?}
+{113}{}{A principio estava bem. Eles nos supriam com materia-prima, nos fabricavamos e vendiamos as armas. Então 3 anos atras Zimmerman contratou alguns mercenarios para ajudar a proteger Adytum dos deathclaws e dos estranhos ataques aleatórios dos saqueadores. Aqueles Reguladores são bastardos de coração frio e estão squeezing us por tudo que nos temos. Nós fazemos as armas e eles ficam ricos com elas.}
+{114}{}{Por que vocês simplesmente não saem e set up em algum outro lugar?}
+{115}{}{Isso e rough. O que você me daria pra tomar conta dos deathclaws?}
+{116}{}{Nós iriamos se nos pudessemos. Mas mudar e um major undertaking com todos os lathes e mills. Estas são coisas que não são apenas picked up easily moved. Nós podiamos mudar mas os deathclaws o torna impossivel.}
+{117}{}{Vocês  parecem estarem bem armados, por que vocês não vao extermina-los?}
+{118}{}{Se você pudesse se livrar dos deathclaws de uma vez por todas você poderia dar seu preço.}
+{119}{}{Eu quero armas e munição, e muitas delas.}
+{120}{}{}
+{121}{}{Se você limpar aquela area nos sairemos, mas nos deixaremos pra tras mais armas e munições que você poderia possivelmente usar.}
+{122}{}{Certo. Você tem um trato.}
+{123}{}{Eu terei que pensar a respeito.}
+{124}{}{Pessoas que consertariam todos os seus problemas com Adytum.}
+{125}{}{Você extermina os deathclaws, todos eles, e você tem um trato.}
+{126}{}{OK. Eu o farei.}
+{127}{}{Eu terei que pensar a respeito.}
+{128}{}{Ola de novo.}
+{129}{}{O que é que você faz aqui?}
+{130}{}{Tchau.}
+{131}{}{}
+{132}{}{Esta indo ok.}
+{133}{}{Eu acho que eu matei todos os deathclaws.}
+{134}{}{Nós precisamos ter certeza. Nós matamos 20 nos 2 anos passados e eles sempre parecem voltar. É nos nunca conseguimos imaginar como. Vamos dar alguns dias e se eles ainda não estiverem lá nos veremos o que nos podemos fazer por você.}
+{135}{}{Certo, obrigado}
+{136}{}{Deixe-nos saber quando você tomou conta dos deathclaws.}
+{137}{}{Sim. Vejo você por ai, talvez.}
+{138}{}{Eu sei, diga-me a respeito.}
+{139}{}{Vejo você por ai, talvez.}
+{140}{}{Não e frequente que nos tenhamos visitantes, eu posso ajudar você?}
+{141}{}{Por que é que vocês não tem muitos visitantes?}
+{142}{}{O que é que você faz aqui?}
+{143}{}{Este lugar não é muito acessivel com um ninho daqueles malditos deathclaws bem do lado de fora da nossa fabrica.}
+{144}{}{Eu matei todos os deathclaws. Até mesmo todos os malditos ovos.}
+{145}{}{Nós iriamos se nos pudessemos. Mas mudar e um major undertaking com todos os lathes e mills. Estas são coisas que não são apenas picked up easily moved. Nós podiamos mudar mas os deathclaws o torna impossivel.}
+{146}{}{Eu matei todos os deathclaws. Até mesmo todos os malditos ovos.}
+{147}{}{}
+{148}{}{Eu quero armas e munição, e muitas delas.}
+{149}{}{}
+{150}{}{Nenhuma necessidade de me pagar. Seu obrigado e o bastante.}
+{151}{}{Você conseguiu - apenas leve qualquer coisa que você quiser. Nós estamos saindo daqui em um dia ou dois, mas nos deixaremos mais armas e munição do que você poderia carregar agora. Apenas volte aqui sempre que você precisar delas.}
+{152}{}{}
+{153}{}{}
+{154}{}{Obrigado a você.}
+{155}{}{}
+{156}{}{Sem problema.}
+{157}{}{}
+{158}{}{}
+{159}{}{Vocês não estavam saindo?}
+{160}{}{Eu estou aqui para pegar algumas coisas. O que você tem hoje?}
+{161}{}{Nada. De qualquer maneira, obrigado.}
+{162}{}{}
+{163}{}{Ótimo. O que vocês tem hoje?}
+{164}{}{Bem, eu verei vocês mais tarde.}
+{165}{}{}
+{166}{}{Eu estou aqui para pegar algumas coisas. O que você tem hoje?}
+{167}{}{Nada. Obrigado de qualquer maneira.}
+{168}{}{Lamento que eu não possa falar com você agora, eu estou muito ocupado.}
+{169}{}{Armas, eu gosto de armas!}
+
+#
+# TRANSLATION NOTE: The following three sets of lines are identical in English,
+# but they differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+{170}{}{Eu tenho alguns amigos que podem realmente usar algumas das suas armas.}
+{171}{}{Eu tenho algumas amigas que podem realmente usar algumas das suas armas.}
+{172}{}{Como vai, meu amigo?}
+{173}{}{Como vai, minha amiga?}
+{174}{}{Você o que?! Você matou todos eles? Gracas aos deuses! Agora nos podemos mudar pra onde nos pudermos pegar nossos proprios materiais e não ter que confiar naquelas cobras em Adytum. Você da o nome e você o tem, meu amigo.}
+{175}{}{Você o que?! Você matou todos eles? Gracas aos deuses! Agora nos podemos mover pra onde nos pudermos pegar nossos proprios materiais e não ter que confiar naquelas cobras em Adytum. Você da o nome e você o tem, minha amiga.}
+{176}{}{Justo o bastante. Foi um prazer fazer negócios com você, meu amigo.}
+{177}{}{Justo o bastante. Foi um prazer fazer negócios com você, minha amiga.}
+{178}{}{Você conseguiu. Deixe seus amigos saberem que eles conseguiram as armas deles.}
+{179}{}{Você conseguiu. Deixe suas amigas saberem que eles conseguiram as armas deles.}
+{180}{}{Obrigado a você meu amigo.}
+{181}{}{Obrigado a você minha amigo.}
+{182}{}{Lamento que eu não possa falar com você, amigo, mas nos estamos ocupados enchendo este lugar para nos mudarmos. Ajude a si próprio com qualquer coisa que você precisar.}
+{183}{}{Lamento que eu não possa falar com você, amiga, mas nos estamos ocupados enchendo este lugar para nos mudarmos. Ajude a si mesma com qualquer coisa que você precisar.}
+{184}{}{Não há razão pra sair agora que seus amigos se livraram daqueles malditos Reguladores.}
+{185}{}{Não há razão pra sair agora que suas amigas se livraram daqueles malditos Reguladores.}
+{186}{}{Bem-vindo, amigo. Com o que eu posso ajudar você?}
+{187}{}{Bem-vinda, amiga. Com o que eu posso ajudar você?}
+
+#
+# Following Line is just to be translated normally.
+#
+{188}{}{Você precisa falar com o Zack sobre comprar coisas.}

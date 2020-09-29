@@ -1,0 +1,24 @@
+{100}{}{O robo não esta funcional. A camada de po nele sugere que ele não
+ esteve ativo recentemente.}
+{101}{}{O robo foi reparado, mas ainda não esta funcionando.}
+{102}{}{O hardware não é um problema, deve ser o software.}
+{103}{}{Você não consegue acessar as funções do robo, como se estivessem desativadas.}
+{104}{}{Você tinker com os componentes que funcionam mal, mas precisa de mais
+ tempo pra fazer o conserto.}
+{105}{}{Você reinicia o computador onboard e com sucesso reinicia o robo.
+ Você nota que o radio do robo esta quebrado.}
+{106}{}{Você passa algum tempo no computador do robo, mas não consegue faze-lo
+ se reiniciado.}
+{107}{}{Unidade #462 online. Alto-teste. Ajustando os dados locais da unidade.
+ Consertados. Reconstruindo o arquivo de memória. Consertado. Erro - tarefa incompleta.}
+{108}{}{Rogga.}
+{109}{}{Qual e sua tarefa incompleta?}
+{110}{}{Bem, apenas faca-o e saia do meu caminho!}
+{111}{}{[Clique] Okey-dokey! Reiniciando tarefa.}
+{112}{}{Unidade #462 e um modelo de limpeza. Deve terminar a limpeza e
+ manutencao deste nível.}
+{113}{}{Vá faze-lo!}
+{114}{}{O que você deixou pra limpar?}
+{115}{}{Sala de Controle dos Vats. [Clique] Fim da lista.}
+{116}{}{Ei. Termine sua tarefa.}
+{117}{}{Você ganha 1000 pontos de experiência por fazer um pouco de trabalho de limpeza.}

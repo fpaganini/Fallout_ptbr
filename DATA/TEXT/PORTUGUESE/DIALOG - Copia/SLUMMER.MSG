@@ -1,0 +1,249 @@
+{100}{}{Você vê um zumbi. }
+{101}{}{Você cometeu muitos pecados. Eu rezarei por sua rendencao.}
+{102}{}{Saudem o Mestre! Saudem a Chama Sagrada! Saudem paz e unidade!}
+{103}{}{Ola minha crianca. Por que você segura uma arma? Talvez você precise de instrucao nos caminhos da paz?}
+{104}{}{Louvem o Mestre, que finalmente eu achei um lugar aonde eu posso abaixar minhas armas e abracar a paz!}
+{105}{}{Soa bem. Quem me instruiria?}
+{106}{}{Eu estou no dever da guarda.}
+{107}{}{Soa bem pra mim. Que tal instrucao é uma massagem nas costas?}
+{108}{}{Eles tem algum vinho santos nesta joint?}
+{109}{}{Que se dane a paz. O Mestre esta fazendo um jogo de força e eu quero um pedaço da acao. Aonde ele esta?}
+{110}{}{Você diz mim estúpido?}
+{111}{}{Ola. Tempo bacana, não e?}
+{112}{}{Sim, mas há uma tempestade se aproximando. Os inimigos da Catedral estão por toda parte. Quais rumores você ouviu?}
+{113}{}{Eu ja vi melhores. Quem esta no comando aqui?}
+{114}{}{Sim, tempo bacana.}
+{115}{}{Tempo bacana se você não se importa com um bronze radioativo.}
+{116}{}{Eles tem algum vinho santos nesta joint?}
+{117}{}{Que se dane o tempo. Eu estou aqui pra matar o Mestre. Aonde esta esse punk?}
+{118}{}{Sim. Ensolarado. Soa bem.}
+{119}{}{Ola amigo. É bom ver você. Abaixe sua arma, você esta entre amigos aqui!}
+{120}{}{Lamento, foi uma semana difícil. Então o que você pode me dizer a respeito deste lugar?}
+{121}{}{Lamento, mas eu aprendi a ser cuidadoso. Quem esta no comando aqui?}
+{122}{}{Amigos, eh? Isso e estranho, eu ouvi muitas coisas ruins sobre vocês.}
+{123}{}{Bacana saber que eu estou entre amigos aqui. O que esta acontecendo?}
+{124}{}{Amigos? Quao amistoso você quer ser...?}
+{125}{}{Eles tem algum vinho santos nesta joint?}
+{126}{}{Arma?}
+{127}{}{Ola estranho. Me perdoe, mas você não deveria sacar sua arma na Catedral.}
+{128}{}{Eu trouxe minha arma a servico da Catedral e do seu Mestre. Você tem um problema com isto?}
+{129}{}{Obrigado. Eu com certeza me lembrarei disso.}
+{130}{}{Velho habito. Muitas coisas tentaram me matar ultimamente. O que você pode me dizer sobre este lugar?}
+{131}{}{Eles tem algum vinho santos nesta joint?}
+{132}{}{Arma?}
+{133}{}{Ola estranho. Se você veio aqui pra ser redimido, você e bem-vindo aqui, mas eu sugiro a você guardar sua arma.}
+{134}{}{Eu trouxe minha arma a servico da Catedral e do seu Mestre. Você tem um problema com isto?}
+{135}{}{Com certeza. Redimido. Soa bem.}
+{136}{}{Velho habito. Muitas coisas tentaram me matar ultimamente. O que você pode me dizer sobre este lugar?}
+{137}{}{Sugira qualquer coisa que você quiser, mas se você quer continuar respirando você me dira o que eu quero saber.}
+{138}{}{Redima meu rabo, zumbi.}
+{139}{}{Eles tem algum vinho santos nesta joint?}
+{140}{}{Arma?}
+{141}{}{Ola amigo! Eu estou tão feliz que você se juntou a nossa causa!}
+{142}{}{Eu não me juntei ainda, embora eu esteja interessado. Alem desta coisa de paz e unidade do que vocês tratam?}
+{143}{}{Tinha que acontecer. Quem eu vejo a respeito da iniciacao?}
+{144}{}{Eu vim aqui para instrucao. Eu posso ver o Mestre?}
+{145}{}{Amigos? Quao amistoso você quer ser...?}
+{146}{}{Eles tem algum vinho santos nesta joint?}
+{147}{}{Raaar! A causa! Raaar!?}
+{148}{}{Ola estranho. Eu posso ajudar você?}
+{149}{}{Com certeza. Eu ouvi sua mensagem e eu quero ouvir mais sobre vocês!}
+{150}{}{Eu estava procurando pela pessoa no comando deste lugar.}
+{151}{}{Esta coisa de paz e unidade não pode ser verdadeira.}
+{152}{}{Quem é este cara, o Mestre?}
+{153}{}{Eu posso fazer uso de uma massagem corporal completa e talvez algo extra. Você esta interessado?}
+{154}{}{Eles tem algum vinho santos nesta joint?}
+{155}{}{Ajuda? Uh.. não.}
+{156}{}{Me perdoe estranho, mas eu tenho muitos deveres. Por favor me desculpe.}
+{157}{}{Saudem o Mestre! Saudem paz! Saudem the Chama Sagrada! Saudem unidade!}
+{158}{}{Eu posso ir pela parte da paz, mas por que o Mestre e tão importante?}
+{159}{}{Eu estava procurando pela pessoa no comando deste lugar.}
+{160}{}{Esta coisa de paz e unidade não pode ser verdadeira.}
+{161}{}{Quem é este cara, o Mestre?}
+{162}{}{Eles tem algum vinho santos nesta joint?}
+{163}{}{Eu sugiro que você ache o Irmao Lasher. Ele e um homem rigido, mas o Mestre trabalha de modos misteriosos. Tchau.}
+{165}{}{Mas nós não temos guardas, exceto pelos Nightkin. Do que você esta falando?}
+{166}{}{O Mestre ordenou seguranca extra. Não tenho certeza do por que, eu acho que os Nightkin são poderosos o bastante. Você tem alguma ideia do que esta acontecendo?}
+{167}{}{Alguém ferrou com minhas ordens.}
+{168}{}{Eu não sou um dos guardas da Catedral, eu sou um dos patrulheiros.}
+{169}{}{Nós não temos? Ah merda!}
+{170}{}{Eu sou...ah...Ah bem, nada que não possa ser resolvido com uma bala. MORRA!}
+{171}{}{Minhas desculpas. Louvem o Mestre, e tenham um bom dia.}
+{172}{}{Talvez mais tarde.}
+{173}{}{Eu não acredito que nos tenhamos vinho. Louvem o Mestre, eu tenho certeza que isto e para o melhor.}
+{174}{}{Eu tenho certeza que é. [Groan].}
+{175}{}{Que tipo de Catedral nem ao menos tem vinho sagrado?}
+{176}{}{Certo, então eu terei que matar você quando eu estiver sobrio. Como agora. Morra seu filho da puta!}
+{177}{}{Muitos tentaram matar o Mestre, e todos falharam. Contduo, se você tentar este ato vil o Mestre pode perdoar você e achar um bom uso pra você. Eu rezarei por você. }
+{178}{}{Eu só estava brincando. Pessoas que passam muito tempo nas terras devastadas tem um senso de humor esquisito você sabe. Então, o que esta acontecendo por aqui?}
+{179}{}{Nós veremos sobre isso...}
+{180}{}{Ninguem reza pela minha alma. Mas e melhor alguém começar a rezar por você porque eu vou matar você agora mesmo!}
+{181}{}{Você veio ao lugar errado amigo. Este lugar não é sobre poder. Este lugar e sobre a paz.}
+{182}{}{Eu ouvi que a nossa cruzada vai bem. Em breve nos traremos a paz e unidade pra Boneyard e todas as comunidades ao redor, não é otimo?}
+{183}{}{Quem é o próximo na lista pra receber a paz e unidade?}
+{184}{}{Isso e um tanto vago. Você ouviu algo mais?}
+{185}{}{Bom. Ja estava na hora que alguém limpasse este esgoto.}
+{186}{}{Sim. A morte não é otima?}
+{187}{}{A pessoa que você procura e o Padre Morpheus. Ele pode ser achado na torre. Isso e tudo?}
+{188}{}{Há alguma coisa que eu deveria saber antes de eu encontra-lo?}
+{189}{}{Nós veremos a respeito disso...}
+{190}{}{Obrigado! Carne fresca finalmente!}
+{191}{}{Há algo mais na sua mente minha crianca?}
+{192}{}{Lamento, foi uma semana difícil. Então, o que você pode me dizer a respeito deste lugar?}
+{193}{}{Eu estou procurando por mais instruções nos caminhos da Catedral. Quem eu deveria ver?}
+{194}{}{Eu estava pensando, quem esta no comando?}
+{195}{}{Eu posso fazer uso de uma massagem corporal completa e talvez algo extra. Você esta interessado?}
+{196}{}{Eles tem algum vinho santos nesta joint?}
+{197}{}{Eu estava imaginando com o que você pareceria se algum maniaco derramasse seu cerebro por todo este chao bacana da Catedral. Vamos descobrir!}
+{198}{}{Você tem um senso muito bom de humor minha crianca. Apenas não diga piadas pro Irmao Lasher.}
+{199}{}{Há outros servos do Mestre com os quais eu deveria prestar atencao?}
+{200}{}{Talvez ela passou um pouco demais de tempo nas terras devastadas?}
+{201}{}{Eu gostaria de ver o Mestre.}
+{202}{}{Eu estava pensando, quem esta no comando?}
+{203}{}{Eles tem algum vinho santos nesta joint?}
+{204}{}{Sabe, essa é a coisa mais bacana que alguém disse pra mim o dia todo. Eu acho que depois de tudo eu não matarei vocês.}
+{205}{}{Eu temo que você possa ter tido sol demais. Eu espero que você ache a cura aqui. Louvem o Mestre! Louvem the Chama Sagrada!}
+{206}{}{Suas palavras estão cheias de tal dor e odio! Eu tenho pena de você meu amigo, mas pena pode ser transformada em alegria. Procure o padre Morpheus na torre. Ele e um homem maravilhoso e pode abrir seu coração pra amar de novo.}
+{207}{}{Você nunca esteve na Catedral antes? Este e um lugar de paz e unidade. Este e um lugar aonde as diferencas são esquecidas e nós procuramos um futuro de unidade e prosperidade para todos. Um futuro aonde os horrores que nossos ancestrais infligirao sobre nos nunca possam se repetir de novo!}
+{208}{}{É como nos realizamos este perfeita utopia?}
+{209}{}{Mas o livre arbitrio tem que ser sacrificado pra criar utopia?}
+{210}{}{Eu gostaria de ver o Mestre e ouvir o que ele tem a dizer.}
+{211}{}{Como você pode estar tão certo de que isto não é alguma forma de controle da mente?}
+{212}{}{Eles tem algum vinho santos nesta joint?}
+{213}{}{Eu concordo. Eu prefiro infligir meu proprios horrores nas pessoas.}
+{214}{}{Nossos inimigos slander us! As pessoas são assustadas tão facilmente, especialmente quando alguém diz a elas o que fazer! Mas desde que eu sigo o Mestre é a Chama Sagrada eu não tenho mais que ter medo. O Mestre me disse pra não ter medo!}
+{215}{}{É como nos realizamos este perfeita utopia?}
+{216}{}{Bom pro Mestre! Alguma ideia de aonde eu possa acha-lo?}
+{217}{}{Mas há rumores sobre exercitos mutantes...}
+{218}{}{Alguém ja disse a você que você e um zumbi?}
+{219}{}{Eu concordo. Eu prefiro inflingir meu proprios horrores nas pessoas.}
+{220}{}{Apenas louvando o Mestre. Eu nunca fico cansado de louvar o Mestre. Por que você não louva o Mestre comigo amigo?}
+{221}{}{Por que eu deveria louvar o Mestre? Continue, me convenca.}
+{222}{}{Com certeza. Louvem to o Mestre! Como assim?}
+{223}{}{Eu acho que não.}
+{224}{}{Alguém ja disse a você que você e um zumbi?}
+{225}{}{Vamos louva-lo com algumas garrafas de vinho santo. Louvem e muito melhor quando o espirito move você.}
+{226}{}{Sabe, aquela que esta na sua mao?}
+{227}{}{Ah, essa arma.}
+{228}{}{Um, esta carregada?}
+{229}{}{I don't know much. The mind of o Mestre is só great.. I do know that the Children are marching north. We will take control of all of the settlements, and baptize everyone! The baptism will change us and bring us closer to God, só we can have peace and unity, and there will never be war or destruction again!}
+{230}{}{É aonde esta a fonte de batismo?}
+{231}{}{Isso soa como se ele fosse jogar todos no virus FEV-2!}
+{232}{}{Que dia maravilhoso esse vai ser!}
+{233}{}{Bem, eu ja ouvi tudo que eu preciso saber.}
+{234}{}{Então melhor eu trazer um pouco de destruiçao enquanto eu ainda tenho uma chance. Morra skag!}
+{235}{}{Louvem o Mestre! Que a paz esteja com você! Aprecie sua estada na Catedral.}
+{236}{}{Este e um santuario, aonde aqueles que desejam um futuro pacifico podem ir de modo a executar a visao deles.}
+{237}{}{É que direito você tem de impor seu futuro sobre todos?}
+{238}{}{Mas as pessoas tem que deixar os santuarios e sair pro mundo. De outro modo um santuario se torna uma prisao.}
+{239}{}{Ninguem quer a paz. Todos estão competindo pelo numero um amigo. Acorda!}
+{240}{}{Soa bem. Quem eu vejo pra me registrar?}
+{241}{}{paz? Santuario? Você esta me deixando doente garoto-zumbi!}
+{242}{}{Eu estou feliz em ouvir que você expressa um interesse na paz. Fale com o padre Morpheus e Irmao Lasher. Eles podem instruir você mais.}
+{243}{}{Eu estou com medo de que eu não possa ajudar você. So o padre Morpheus comunga com o Mestre. Você pode acha-lo na torre.}
+{244}{}{Há algo que eu deva saber antes de eu encontra-lo?}
+{245}{}{Obrigado. A gente se vê.}
+{246}{}{Padre Morpheus. Esse e um nome que soa realmente pacifico. Quem é o assistente dele? Irmao Assassinato? Irmao Morte? Irma Mata talvez?}
+{247}{}{Eu mais do que desejo renascer pela minha causa. Mate-me agora se você quiser, mas eu serei redimido e você morrera.}
+{248}{}{Garoto. de um jeito ou de outro você vai cuspir suas entranhas agora!}
+{249}{}{Eu ficaria feliz se você apenas calasse a boca. Vocês zumbis estão me dando dor de cabeça.}
+{250}{}{Você tem coragem garoto. Eu admiro isso. Talvez eu não mate você.}
+{251}{}{Eu não ligo a minima pra sua alma garoto, mas eu serei amaldiçoado se eu recusar o convite, um martir saindo!}
+{252}{}{bem... Uh... Que a paz esteja com você... eu acho... adeus...}
+{253}{}{Olhe ao redor de você. Você não ouviu as mensagens? Como você pode duvidar da sinceridade do Mestre?}
+{254}{}{Ninguem quer a paz. Todos estão competindo pelo numero um amigo. Acorda!}
+{255}{}{É facil falar sobre paz, mas o que o Mestre realmente esta fazendo?}
+{256}{}{Me perode irmao. O mundo e um lugar tão terrível e eu me preocupo em perder nossa liberdade...}
+{257}{}{É facil falar sobre paz mas eu ouvi terriveis rumores de exercitos mutantes...}
+{258}{}{Talvez você esteja certo. Quem eu vejo pra me registrar?}
+{259}{}{A sinceridade só sai do cano de uma arma!}
+{260}{}{Ele e o guardiao da Chama Sagrada, aquele que luta pra exterminar todas as divisoes, todos os odios. Ele empunha ambos a espada e o arado, mas prefere construir do que destruir. Saudem o Mestre! Saudem a unidade!}
+{261}{}{Eu ouvi que a nossa Cruzada vai bem, nos estamos marchando pro norte e como o Mestre prometeu as forças da era das trevas não são pareo pra um exercito dos iluminados. Estes são tempos gloriosos! Levante sua cabeça amigo e grite com louvor!}
+{262}{}{É o que acontece com aqueles que nos derrotamos? Nós podemos dispersar uma era das trevas com sangue? Com tirania?}
+{263}{}{Cara, eu simplesmente quero começar a dançar!}
+{264}{}{Bem, eu ja ouvi tudo que eu preciso saber.}
+{265}{}{Não obrigado. Eu estou com a garganta inflamada. Eu prefiro celebrar a minha propria maneira - matando você!}
+{266}{}{Eu não quis insultar você, nem interferir nos seus deveres. Por favor aceite minhas desculpas. Que o Mestre possa abençoar você por seu serviço.}
+{267}{}{Minhas desculpas. Louvem o Mestre, e tenham um bom dia.}
+{268}{}{Sua alma é uma alma triste meu amigo. Eu só posso advinhar quais horrores você viu que fizeram você fechar sua mente. Abra-a agora e ache a paz. Assista as telas, escute o padre Morpheus e louve o Mestre.}
+{269}{}{Eu não sei de nada meu amigo, nada! Você tera que achar alguém pra responder suas indagaçoes. Mas não é sabio perguntar sobre os Nightkin.}
+{270}{}{Com certeza. Sem problema.}
+{271}{}{Por que isso?}
+{272}{}{Eu só tenho uma questão sobre eles. Eles gritam bem alto que você mata eles?}
+{273}{}{Você não sabe de nada? Você deve ser estúpido.}
+{274}{}{Nightkin! Nightkin! Matar!}
+{275}{}{Esta foi uma conversa maravilhosa mas eu estou atrasado nos meus louvores. Tchau. Louvem o Mestre! Louvem the Chama Sagrada! Deixe-nos cantar as cançoes sagradas.}
+{276}{}{Se você não gosta daqui você pode sair. Louvem o Mestre, e tenham um bom dia.}
+{277}{}{Eu tenho pena das terras devastadas se isso é uma amostra do humor distorcido que gera. Eu não o compartilharia com os outros.}
+{278}{}{Alguém em particular que eu deveria evitar?}
+{279}{}{Este lugar não deve ser divertido de jeito nenhum!}
+{280}{}{Certo, Eu paro com as piadas.}
+{281}{}{Você ouviu aquela sobre o joquei de bomba atomica e o caixeiro viajante?}
+{282}{}{Você tem certeza que eu não posso mostrar a você o que eu faço por risadas?}
+{283}{}{Não que eu possa pensar. Tchau amigo.}
+{284}{}{Eu não acredito que eu possa ajudar você amigo. Tchau e tenham um bom dia. Louvem o Mestre! Louvem the Chama Sagrada..}
+{285}{}{Eu temo que eu não posso ajudar você com isso. Eu devo meditar nas glorias do Mestre. Por favor me desculpe. Saudem o Mestre! Louvem a Chama Sagrada!}
+{286}{}{Todos aqui estão cheios de amor! Mas e difícil pra algumas pessoas expressarem o amor delas e os Nightkin acham extremamente difícil expressa-lo. Mas você descobrira isto por conta propria. Louvem o Mestre! Louvem the Chama Sagrada!}
+{287}{}{Nós devemos nos submeter ao Mestre é a Chama Sagrada. Quando nos provarmos a nos mesmos nos tornaremos batizados e mais pertos de Deus. Quando todos tiverem sido batizados nos seremos como um, uma unidade sob o Mestre!}
+{288}{}{Me diga mais sobre este batismo.}
+{289}{}{O que acontece se alguém não quer ser batizado?}
+{290}{}{Soa interessante. Se importa se eu olhar um pouco mais por ai?}
+{291}{}{Eu acho que vocês são todos um bando de zumbis.}
+{292}{}{So há uma unidade pra humanidade e isso e quando nos tornamos comida de minhoca.}
+{293}{}{Nós temos o direito de sobreviver. Os antigos tentaram sobreviver e manter a liberdade deles o olhe que eles fizeram a nos! Nós não devemos cometer os mesmos erros. A unidade é a unica soluçao. É o unico jeito de salvar o que a humanidade se tornou}
+{294}{}{O que você quer dizer com o que a humanidade se tornou? Nós ainda somos perfeitamente humanos.}
+{295}{}{Talvez o erro que nossos ancestrais cometeram não foi a falta de unidade. Talvez eles não pudessem deixar os outros em paz.}
+{296}{}{Eu não sou filosofo, mas eu sei quando algo esta certo e algo esta errado e isto e errado.}
+{297}{}{Talvez você esteja certo.}
+{298}{}{Não vale a pena a humanidade ser salva e nem vocês. Morram seu pequeno zumbi!}
+{299}{}{O Mestre disse que foi a falta de unidade, então deve ter sido. Procure seu sumo sacerdote! O padre Morpheus corrigira as mentiras que foram ditas a você.}
+{300}{}{Nós não somos zumbis! Quando eu era um membro da gangue de rua Fighting Flesh eu era um tolo psicotico que fazia tudo que os superiores me diziam pra fazer! Louvor para o Mestre que eu não sou mais cego! Ah louvem o Mestre! Vamos louva-lo juntos, vamos?}
+{301}{}{Eu poderia louva-lo melhor se eu soubesse o que ele estava fazendo.}
+{302}{}{Louvem o Mestre!}
+{303}{}{Vocês louvem o Mestre, Eu estou fora daqui.}
+{304}{}{Que tal louvar a ele juntos com um pouco de vinho sagrado? Eu preciso de uma bebida!}
+{305}{}{Eu tenho uma ideia ainda melhor. Eu louvarei ele sobre seu cadaver de zumbi morto. Hora de morrer!}
+{306}{}{Não seria maravilhoso que o Mestre unisse humanos e mutantes? Ele transcende o odio e preconceito. Você não consegue ver? Isto prova que ele quer o que é melhor para todos!}
+{307}{}{Eu suponho que os exercitos estão compartilhando o amor é a irmandade aonde quer que eles vao.}
+{308}{}{Eu creio que ele não o esta fazendo-o porque os mutantes são matadores mais eficientes.}
+{309}{}{Louvem o Mestre!}
+{310}{}{Eu preciso de mais provas.}
+{311}{}{Que tal louvar a ele juntos com um pouco de vinho sagrado? Eu preciso de uma bebida!}
+{312}{}{Eu vejo agora. Eu seguirei o exemplo do Mestre! Eu sei o que é melhor pra você, portanto eu devo matar você agora! Faz sentido perfeitamente.}
+{313}{}{Abra seu coraçao. Abra sua mente. Escute o que as pessoas estão dizendo e você achara a iluminaçao.}
+{314}{}{Talvez haja alguém que possa explicar as coisas mais diretamente. O Mestre esta disponivel?}
+{315}{}{O que eu estou vendo são um bando de zumbis!}
+{316}{}{Essas não são razões. Essas são propagandas!}
+{317}{}{Eu acho que eu apenas caminharei por ai e verei por mim mesmo.}
+{318}{}{Eu prefiro abrir uma garrafa de vinho. Aonde esta a bebida por aqui?}
+{319}{}{Vocês zumbis me deixam doente! Eu quero matar cada um de vocês!}
+{320}{}{Que triste. Eu rezarei por você.}
+{321}{}{Infelizmente eu nunca fui privilegiado o bastante pra ver a fonte batismal. Talvez se eu oferecer louvor o bastante pro Mestre eu receberei uma bençao. Saudem o Mestre! Saudem a Chama Sagrada! Saudem paz e unidade!}
+{322}{}{Claro que não fara. Ele e o Mestre. Ele nunca faria isso com os discipulos dele. É o poder santo dele atraves do batismo e da Chama Sagrada que nos transformara. O virus e um mal do tempo antigo o qual eu tenho certeza que sera limpo.}
+{323}{}{Nós não temos desejo de trazer desconforto a você. Se nós não podemos confortar você por favor ache outro lugar aonde você possa lidar com seu tormento. Este e um lugar de paz.}
+{324}{}{Eu estou fora daqui!}
+{325}{}{Eu disse a você pra calar a boca. Por que você não consegue escutar?}
+{326}{}{Eu creio que o unico jeito de obter paz e quietude e matar todos vocês! Morram!!}
+{327}{}{Você tera que achar a resposta pra essa pergunta você mesmo. Louvem o Mestre! Louvem a Chama Sagrada!}
+{328}{}{O batismo mudara a nos todos e trara nossas formas fisicas mais perto da propria imagem de Deus. Quando nos todos nos tornarmos Deus todas as nossas diferenças desaparecerao, então finalmente nos podemos ter a paz é a unidade e nunca havera guerra ou destruiçao de novo!}
+{329}{}{É aonde esta a fonte de batismo?}
+{330}{}{Isso soa como se ele fosse jogar todos no virus FEV-2!}
+{331}{}{Que dia maravilhoso esse vai ser!}
+{332}{}{Bem, eu ja ouvi tudo que eu preciso saber.}
+{333}{}{Então melhor eu trazer um pouco de destruiçao enquanto eu ainda tenho uma chance. Morra cuzao!}
+{334}{}{Uma vez que as pessoas entendam o Mestre e o que ele defende todos serao batizados. As unicas pessoas que não desejariam ser batizadas são os insanos e alguém deveria acabar com a miseria deles pra propria segurança deles, pobres coisas wretched.}
+{335}{}{Você não esta surpreso com o numero de pessoas insanas que você ja encontrou?}
+{336}{}{Você e louco!}
+{337}{}{Eu acho que é melhor olhar por ai um pouco mais.}
+{338}{}{Sim. Pobres coisas  wretched. Vamos abrir o vinho santo e beber em homenagem a eles!}
+{339}{}{Ei, se você precisa de alguém pra acabar com a miseria deles - ou a sua - eu estou disponivel!}
+{340}{}{Amigo, se você procura pela verdade com uma mente aberta, você nos achara esperando por você. Louvem o Mestre! Eu desejo o bem a você na sua busca por iluminaçao.}
+{341}{}{Nós devemos nos tornar mais proximos de Deus, mutantes e humanos igualmente. Eu não tenho certeza do que o Mestre significa com esta parte particular da mensagem, mas deve ser verdadeira. Louvem o Mestre, ele e tão sabio!}
+{342}{}{Mas se ele fosse verdadeiramente sabio a mensagem dele teria qualquer ambiguidade?}
+{343}{}{Você e louco!}
+{344}{}{Eu acho que é melhor olhar por ai um pouco mais.}
+{345}{}{Sim, eu tive uma otima ideia! Vamos abrir o vinho sagrado e beber um bocado a sabedoria do Mestre!}
+{346}{}{Toda a sabedoria do mundo não ajudara contra uma bala de calibre .56 entre os olhos.}
+{347}{}{Nós estamos forjando um mundo que é melhor pra todos. Isso e tudo. Eu lamento se você ainda não entende. Eu rezo pra que alguém mais sabio do que eu possa mudar sua mente. Tchau meu amigo. Louvem o Mestre! Louvem a paz e unidade!}
+{348}{}{O mundo esconde muitas surpresas meu amigo, algumas agradaveis, outras desagradaveis. Tchau meu amigo, e louve o Mestre!}
+{349}{}{[Feito]}

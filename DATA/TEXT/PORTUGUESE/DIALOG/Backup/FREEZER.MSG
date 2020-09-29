@@ -1,0 +1,4 @@
+{100}{}{Um pesado refrigerador militar.}
+{101}{}{Um papel desvanecido no freezer diz:
+ Federal Bureau of Investigation,
+ Projetos Especiais, Classificacao: Terminus da Segurança.}

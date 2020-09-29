@@ -1,0 +1,66 @@
+{100}{}{Apenas porque você tem uma arma sacada isso não quer dizer que eu vou
+ dar a você o que você quer . . .}
+{101}{}{Você me derrotou! O que mais você quer, maldicao!}
+{102}{}{Eu não tenho nada a dizer! Falar e para os fracos!}
+{103}{}{Eu não sei quem você e, mas eu darei a você um aviso justo: qualquer um
+ que mexe com os Khans morre messy.}
+{104}{}{Você sabe, se você realmente pensasse que você era mais forte, você me mataria.}
+{105}{}{Muito ruim. Eu estou mexendo com você!}
+{106}{}{Certo. Não vamos mess um com o outro e nós estaremos felizes.}
+{107}{}{Eu me rendo. Por favor não me mate!}
+{108}{}{Hngrrr!}
+{109}{}{Huh?}
+{110}{}{Saudacao irmao Khan! Como vai a cacada? Quantos fracos morreram hoje?}
+{111}{}{Saudacao irma Khan! Como vai a cacada? Quantos fracos morreram hoje?}
+{112}{}{Eu pouparei meus boasts para o fogo do acampamento, mas eu tenho muitos contos para contar!}
+{113}{}{Eu vi muito sangue e levei muitos saques.}
+{114}{}{Nada mau. É quanto a você?}
+{115}{}{Eu já estive melhor . . .}
+{116}{}{Você é um inimigo dos Khans! Você ataca nossos guerreiros e leva nossas mulheres!
+ Me de uma razão pela qual eu não deveria cortar seu coração!}
+{117}{}{Corte a bravata. Onde esta Tandi? Diga-me ou você morre!}
+{118}{}{Não consigo pensar em nada. Vamos lutar!}
+{119}{}{Porque ambos de nos viveremos se você não tentar.}
+{120}{}{Eu não estou em condicao de lutar. Eu me rendo.}
+{121}{}{Você é um deles? Um dos mutantes?}
+{122}{}{O que você sabe sobre mutantes?}
+{123}{}{Sim, eu sou um mutante!}
+{124}{}{Eu pareco um mutante pra você?}
+{125}{}{Não.}
+{126}{}{Talvez. se você deseja lutar eu lutarei. Se você deseja ir em paz,
+ você tem minha palavra como um Khan que eu não atacarei.}
+{127}{}{Vamos lutar.}
+{128}{}{Não vamos lutar.}
+{129}{}{Palavra de um Khan? Que piada!}
+{130}{}{Você e muito forte pra mim, e eu estou cansado pelos muitos dias na terra
+ devastada. Eu não desejo morrer. Embora me envergonhe, eu me rendo.}
+{131}{}{Eu concordo. Eu dou minha palavra que se você puder ir em paz, provided
+ que você não me provoque. Não crie problemas pra mim de novo.}
+{132}{}{Eu não quero nada que pertenca a um covarde, incluindo sua vida Saia da
+ minha vista!}
+{133}{}{Seu animal estúpido. Eu apreciarei matar você.}
+{134}{}{Uh, sim . . .}
+{135}{}{Eu apreciarei ouvi-los. Tchau, irmao!}
+{136}{}{Eu apreciarei ouvi-los. Tchau, irma!}
+{137}{}{Realmente? Então eu devo te-lo para meu proprio!}
+{138}{}{Sim, eu ouvi que a sorte favorece muito você. É por essa unica razão
+ que eu não desafio você pelos seus espolios. Tchau, meu irmao! Possamos nos
+ nos encontrar da proxima vez lado a lado em batalha.}
+{139}{}{Sim, eu ouvi que a sorte favorece muito você. É por essa razão que
+ eu não desafio você pelos seus espolios. Tchau, minha irma! Possamos nos
+ nos encontrar da proxima vez lado a lado em batalha.}
+{140}{}{Eu estou cansado e exausto de uma jornada de muitos dias maior do que
+ eu esperava. Radscorpions mataram meus companheiros. Eu desejo os confortos
+ do acampamento e os carinhos de cura das nossas mulheres.}
+{141}{}{Que possa a sorte de novo se achar favoravel a você. Tchau, meu irmao.}
+{142}{}{Que possa a sorte de novo se achar favoravel a você. Tchau, minha irma.}
+{143}{}{Eles destruiram Shady Sands. Eles mataram todos no caminho deles. Eu
+ nunca sonhei que tal ferocidade existisse. Nós estamos todos condenados . . .}
+{144}{}{Cao assassino!}
+{145}{}{Não, mas é difícil dizer. Eu ouvi que eles cloak themselves a noite,
+ que eles nublam as mentes dos homens e tomam a forma de belas mulheres!
+ Nós estamos todos condenados!}
+{146}{}{Isso e bom. Eu desejo vingar nossos mortos e até mesmo os mortos de
+ Shady Sands. Qualquer mutante que cruzar meu caminho morrera! Vá em frente
+ e mate. Morte aos mutantes!}
+{147}{}{Você morrera por essas palavras!}

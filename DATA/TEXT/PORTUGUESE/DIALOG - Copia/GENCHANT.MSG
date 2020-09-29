@@ -1,0 +1,21 @@
+{100}{}{Você vê um chanter das Crianças}
+{101}{}{O Mestre perdoara seus pecados! Junte-se a nos e seja livre! Louvem
+ o Mestre é a misericordia dele!}
+{102}{}{Ola amigo! Você cantaria uma canção de louvor comigo? . . . Uma vez
+ eu estava vagueando cegamente, em uma terra que era tão unkind . . .}
+{103}{}{Eu odeio interromper seu hino, mas aonde eu poderia encontrar o Mestre?}
+{104}{}{Não desista do seu trabalho durante o dia.}
+{105}{}{Quem esta no comando aqui?}
+{106}{}{. . . mas agora eu beijo a bunda do Mestre . . .}
+{107}{}{Feliz! Feliz! Eu canto canção bem!}
+{108}{}{Ele acha você quando e aonde você menos espera! Louvem the Mestre!
+ Louvem a Chama Sagrada! Louvem o mundo!}
+{109}{}{Que piada maravilhosa! Eu não costumava ter senso de humor,
+ mas gracas ao Mestre, eu estou cheio de mirth! Louvem the Mestre!}
+{110}{}{Aquele que se senta acima. Aquele que se senta abaixo. Aquele que descansa
+ no interior. Louvem o Mestre por tal clareza de visao!}
+{111}{}{Ah, se eu apenas fosse tão feliz! Talvez um dia o Mestre deixara eu
+ beijar as partes do corpo dele. Louvem the Mestre! Louvem the Chama Sagrada!}
+{112}{}{Hmm, não é isso o que eu tinha em mente. Melhor você praticar, meu
+ amigo. Louvem to the Mestre! Louvem the Chama Sagrada!}
+{113}{}{[Feito]}

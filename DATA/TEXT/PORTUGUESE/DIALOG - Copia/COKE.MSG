@@ -1,0 +1,2 @@
+{100}{}{Está quebrada.}
+{101}{}{Você acha algumas velhas bottlecaps.}

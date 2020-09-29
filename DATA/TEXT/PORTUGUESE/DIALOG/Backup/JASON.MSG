@@ -1,0 +1,76 @@
+{100}{}{Você vê um jovem homem com caractersticas proeminentes.}
+{101}{}{Você vê o Jason Zimmerman.}
+{102}{}{Ei, você e realmente de bem longe? Você teve muitas
+ aventuras?}
+{103}{}{Sim, eu sou de uma Vault longe ao norte.}
+{104}{}{Na verdade, eu sou de marte. Quer ver minha lança de fogo?}
+{105}{}{Eu tive algumas aventuras.}
+{106}{}{Não fiz tanto assim, mesmo.}
+{107}{}{Uh, longe. Vault.}
+{108}{}{Ah. Eu pensei que alguém que esteve nas terras devastadas
+ lá fora seria, bem, mais esperto. Deixa pra lá.}
+{109}{}{Miles disse que agora que você pegou essas partes, ele
+ consegue fazer as fazendas funcionarem, para que nós não
+ tenhamos que vender balas pro Hub. Eu nunca pensei muito
+ a respeito até que o Smitty apontou que as balas que ele }
+{110}{}{fez eram vendidas pro Hub que vendia elas pras gangues.
+ Eu creio que você achou uma boa solucao.}
+{111}{}{Eu nunca pensei que nos seriamos capaz de parar de enfrentar
+ as gangues. Meu pai me disse como você fez elas prometerem nos
+ deixar em paz. Você sabe, eu pensava que eu sempre quis ir me
+ aventurar, mas eu acho que eu gosto de . . . bem, da }
+{112}{}{sensacao de seguranca aqui agora. Sem mais preocupações a respeito
+ das gangues atacando de repente e ficar imaginando quem vai ser morto.}
+{113}{}{A Lorraine disse que havia uma Vault ao sul daqui,
+ aonde muitos dos meus avos viveram. Como e que é viver em
+ uma Vault?}
+{114}{}{É bastante entendiante, mesmo.}
+{115}{}{É muito excitante. Nós temos todos os tipos de tecnologia que
+ você não acreditaria!}
+{116}{}{Ah. Bem, você deve ter tido algumas aventuras apos sair, certo?}
+{117}{}{Realmente não.}
+{118}{}{Sim, há bastante perigo lá fora.}
+{119}{}{Como alguém uma vez escreveu, 'Aventura e outra pessoa bem longe
+ tendo um tempo muito desagradavel.'}
+{120}{}{Huh. Os mercadores do Hub falam sobre radscorpions e tal.}
+{121}{}{Na verdade, e na maior parte apenas deserto.}
+{122}{}{Bem, na verdade, há todos os tipos de monstros lá fora.}
+{123}{}{Mesmo? Quais tipos de monstros você enfrentou?}
+{124}{}{Não muitos, apenas alguns ratos e tal.}
+{125}{}{Sim, os guardas do Hub disseram que há muitas coisas
+ radioativas mutantes vivendo no deserto. Cacar monstros 
+ deve ser um verdadeiro estouro!}
+{126}{}{Sim, e bom pra caramba!}
+{127}{}{Não, e mais uma dor. Veneno, mordidas, radiação . . . e mortal.}
+{128}{}{Eu desejo que eu pudesse ir me aventurar alguma vez.}
+{129}{}{Eu nunca pensei a respeito disso. Eu prefiro ter água limpa
+ e um lugar para ficar.}
+{130}{}{Eu pensei que viver na terra devastada seria . . .
+ você sabe . . . rugged, e perigoso e tudoo. Mas eu
+ suponho que nos temos o bastante pra nos manter
+ ocupados aqui com as gangues e tudo mais.}
+{131}{}{Mas o que, você e algum tipo de esquisito ou algo assim? O Caleb
+ nunca deveria ter deixado você nos portoes!}
+{132}{}{Isso e legal. Tudo que nos temos aqui e este poco estúpido
+ e aquelas fazendas no subsolo que o Miles continua tentando fazer
+ funcionar.}
+{133}{}{Sim, eu notei que você não tem um bedroll ou algo assim.
+ Deve ser bastante sujo e desconfortavel lá fora.}
+{134}{}{Ola de novo. Tem quaisquer estorias interessantes para contar?}
+{135}{}{Do que você quer saber a respeito?}
+{136}{}{Realmente não.}
+{137}{}{Bem, se você fez algo interessante, diga-me tudo sobre isso!}
+{138}{}{Deixe-me em paz!}
+{139}{}{Gracas a Deus que você esta aqui! Por favor me ajude a sair daqui!}
+{140}{}{Ayuh.}
+{141}{}{Não se preocupe, eu tirarei a ns pra fora daqui.}
+{142}{}{Lamento garoto, você esta por conta propria!}
+{143}{}{O que você está fazendo aqui?}
+{144}{}{Obrigado a você!}
+{145}{}{Por favor não me deixe!}
+{146}{}{Eu pensei que seria divertido sair de Adytum
+ e explorar o mundo. Mas os Rippers me pegaram e
+ estiveram me mantendo aqui. Por favor, me ajude!}
+{147}{}{Tudo bem, vamos sair daqui!}
+{148}{}{De modo algum. Você se colocou nisto, você sai.}
+{149}{}{Eu espero que nos saiamos daqui em breve!}

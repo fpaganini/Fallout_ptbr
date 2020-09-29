@@ -1,0 +1,13 @@
+{100}{}{desligado}
+{101}{}{Tempo restante:  }
+{102}{}{ segundos.}
+{103}{}{Isto e aonde você seria considerado morto.}
+{104}{}{desligado}
+{105}{}{ligado}
+{106}{}{desligado}
+{107}{}{Tempo restante:  }
+{108}{}{ segundos.}
+{109}{}{Isto e aonde você seria considerado morto.}
+{110}{}{Tempo restante:  }
+{111}{}{ segundos.}
+{112}{}{Isto e aonde você seria considerado morto.}

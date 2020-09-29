@@ -1,0 +1,16 @@
+{100}{}{Eu estou aqui pra chutar traseiro e mascar chiclete. Eu estou sem chiclete.}
+{101}{}{A Irmandade esta rezando pelo nosso sucesso, senhor.}
+{102}{}{Vamos nos mover.}
+{103}{}{Mantenha sua presença tatica, senhor.}
+{104}{}{Melhor nos irmos.}
+{105}{}{Sem tempo pra bate-papo, senhor.}
+{106}{}{Eu estou aqui pra chutar traseiro e mascar chiclete. Eu estou sem chiclete.}
+{107}{}{A Irmandade esta rezando pelo nosso sucesso, senhora.}
+{108}{}{Vamos nos mover.}
+{109}{}{Mantenha sua presença tatica, senhora.}
+{110}{}{Melhor nos irmos.}
+{111}{}{Sem tempo pra bate-papo, senhora.}
+{112}{}{Bom, você esta aqui. Vamos incendiar este lugar.}
+{113}{}{Há algo errado a respeito desta sala.}
+{114}{}{Este lugar esta comecando a me dar calafrios          .}
+{115}{}{Agora é a hora de nos voltarmos para a Irmandade.}

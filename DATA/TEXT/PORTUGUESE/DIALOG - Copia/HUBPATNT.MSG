@@ -1,0 +1,2 @@
+{100}{}{Você vê um Paciente.}
+{101}{}{Ohhhh…. Misericoridia…. Santa Chama….}

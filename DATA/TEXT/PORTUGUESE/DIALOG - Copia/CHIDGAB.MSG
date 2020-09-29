@@ -1,0 +1,16 @@
+{100}{}{Você vê uma Crianca com uma atitude de verdade.}
+{101}{}{Saia da minha frente, seu filho da puta!}
+{102}{}{Fique longe de mim!}
+{103}{}{O que no inferno você quer?}
+{104}{}{Onde eu poderia encontrar este Mestre?}
+{105}{}{Para descobrir o que esta acontecendo aqui.}
+{106}{}{Quem esta no comando aqui?}
+{107}{}{Ei, mellow out! Vamos ter uma bebida!}
+{108}{}{Para acrescentar suas orelhas a minha colecao.}
+{109}{}{Mim não quer inferno! Homem estúpido!}
+{110}{}{No inferno, perdedor.}
+{111}{}{Você sempre pergunta questoes estupidas, perdedor?}
+{112}{}{Certo como o inferno de que não é você, miseravel.}
+{113}{}{O que faz você pensar que eu quero beber com você, seu     !}
+{114}{}{Saia daqui antes que eu mate você!}
+{115}{}{[feito]}

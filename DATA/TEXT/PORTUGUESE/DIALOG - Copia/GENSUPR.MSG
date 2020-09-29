@@ -1,0 +1,29 @@
+{100}{}{Comando, esta é a casa da guarda. Tudo limpo. Cambio.}
+{101}{}{Morte pra você!}
+{102}{}{Intruso!}
+{103}{}{Hu-mano!}
+{104}{}{Alto. Esta area restrita. Você não estar aqui.}
+{105}{}{Melhor você estar se rendendo.}
+{106}{}{Você parar. Mim levar pra Tenente. Venha pacifico ou morra.}
+{107}{}{Luggi!}
+{108}{}{Morra cria do inferno!}
+{109}{}{Eu vim pra falar com seu mestre.}
+{110}{}{Eu sou um mutante especial numa missao para seu mestre.
+ Me deixe passar ou enfrente as consequencias.}
+{111}{}{Eu estou com a Catedral. Me deixe passar.}
+{112}{}{Morra!}
+{113}{}{Faca do seu jeito.}
+{114}{}{Bom. Para a morte é.}
+{115}{}{Bom. Venha comigo, sem coisa do tipo pra rir.}
+{116}{}{OK. Vamos lá.}
+{117}{}{Coisa do tipo pra rir? Mas você vai ficar tão engracado quando eu encaixotar você!}
+{118}{}{Eu não acredito em você.}
+{119}{}{Eu acho que não.}
+{120}{}{Não. Você humano. Você morre.}
+{121}{}{Se você mentir, mim matar você.}
+{122}{}{Ah, OK. Mova-se.}
+{123}{}{Uh, certo. Eu creio. Talvez melhor você ver Tenente.}
+{124}{}{Você matou meu irmao. Eu terei minha vinganca!}
+{125}{}{Morte pra você!}
+{126}{}{Assassino!}
+{127}{}{Matador!}

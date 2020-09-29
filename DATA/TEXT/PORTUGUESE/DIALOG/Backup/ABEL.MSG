@@ -1,0 +1,26 @@
+{100}{}{Você vê Abel.}
+{101}{}{Você vê um grande mutante.}
+{102}{}{Você supostamente não devia estar aqui.}
+{103}{}{Hum.}
+{104}{}{Claro que não. Eu estou aqui para matar você!}
+{105}{}{Por que você diz isso?}
+{106}{}{Ah, sim? Sua mamãe!}
+{107}{}{Pik!}
+{108}{}{Eu vou chutar seu traseiro se você disser isso de novo!}
+{109}{}{Pik! Pik!}
+{110}{}{Ah, você vai pagar por isso agora!}
+{111}{}{Você humano. Mim mutante. Mutante mata humano.}
+{112}{}{Como você pode fazer isso? É quanto ao campo de força?}
+{113}{}{Abel toma conta disso. Então Abel chuta seu traseiro!}
+{114}{}{Crianças não são permitidas aqui. Este lugar de mutante. Vá embora.}
+{115}{}{Hum!}
+{116}{}{Eu tenho que passar por este campo de força. Por favor baixe-o.}
+{117}{}{Não.}
+{118}{}{Você de novo. Abel chutar seu traseiro!}
+
+# tell me about name
+{970}{}{Mim Abel.}
+
+# tell me about generic
+{980}{}{Hum.}
+{981}{}{Por que você diz isso?}

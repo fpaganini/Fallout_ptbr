@@ -1,0 +1,102 @@
+{100}{}{Você vê um Elder da Irmandade.}
+{101}{}{Saudações Iniciado. Eu preciso falar com você. (Ele faz um movimento pra você se aproximar.)}
+{102}{}{Sobre o que?}
+{103}{}{Eu não tenho tempo agora.}
+{104}{}{Err?}
+{105}{}{Há um assunto urgente em que eu preciso que você me ajude.
+ É o Maxson. Nós estamos bem certos de que ele gone off the
+ deep end. Ele se mantem balbuciando sobre um um exercito
+ massing para o norte.}
+{106}{}{Eu não estou querendo enviar nossas tropas lá em cima em
+ areas possivelmente irradiadas, a menos que eu tenha prova
+ absoluta de que este "exercito" exista.}
+{107}{}{Eu preciso de alguém que não é um amigo do velho. Alguém de
+ quem eu possa obter um relatorio honesto. Você quer verificar a
+ regiao ao norte?}
+{108}{}{Eu o farei.}
+{109}{}{Eu não posso faze-lo agora. Eu tenho outras coisas com as quais eu preciso lidar.}
+{110}{}{Eu já vi uma base ao norte dirigida por um exercito de mutantes.}
+{111}{}{Bom. Primeiro fale com o Maxson se você já não o fez. Reporte de volta
+ para mim quando você tiver verificado o territorio ao norte. Apos isso, nos
+ decidiremos o que fazer com o Maxson.}
+{112}{}{Me deseje sorte.}
+{113}{}{Você explorou o territorio ao norte inteiro?}
+{114}{}{Sim.}
+{115}{}{Não.}
+{116}{}{É o que você tem para relatar?}
+{117}{}{Eu achei uma base guardada por mutantes altamente armados. Parece bem ruim.}
+{118}{}{Eu não pensava que sim. Você não foi por muito tempo. Agora, volte lá fora e
+ não volte até que você tenha um relatorio COMPLETO.}
+{119}{}{Sim, senhor.}
+{120}{}{Eu informarei os Elders. Nós esperaremos pela palavra do Maxson sobre o
+ que fazer. Vá informa-lo do que você achou. Obrigado pela sua ajuda, Iniciado.}
+{121}{}{De nada.}
+{122}{}{Então você conseguira tempo para me ouvir.}
+{123}{}{Você obteve minha atenção.}
+{124}{}{Você pode ir pro inferno, velho.}
+{125}{}{Esqueça. Eu tenho coisas mais importantes pra fazer.}
+{126}{}{Eu entendo. Se você viajar lá naquela area e achar qualquer coisa, por favor, deixe-me saber.}
+{127}{}{Se eu achar qualquer coisa que lembre um exercito ao norte, eu deixarei você saber.}
+{128}{}{Bom trabalho com os mutantes. Nós já ouvimos que você destruiu a instalacao
+ de producao deles. Obrigado por tomar conta dessa problema para nos.}
+{129}{}{Sem problema.}
+{130}{}{Err? Que tipo de resposta e Err? Saia! Agora!}
+{131}{}{Se fosse por mim, você estaria fora daqui.}
+{132}{}{Eu não tenho nada a dizer pra você.}
+{133}{}{Você deveria aprender um pouco de respeito.}
+{134}{}{O encontro vira a ordem. Todos os Elders estão presentes e
+ concordaram em ouvir os clamores do Irmao }
+{135}{}{. Nós determinaremos quais ações serao tomadas. Irmao }
+{136}{}{, diga-nos o que você viu ao norte.}
+{137}{}{Durante minhas explorações, eu achei uma instalacao militar sendo usada
+ por mutantes. Esta altamente guardada e patrulhada regularmente.}
+{138}{}{Norfa?}
+{139}{}{É com o que estes mutantes se pareciam?}
+{140}{}{Eles são grandes humanoides. A massa muscular deles esta bem alem do que um
+ humano regular poderia ganhar. La aparenta ter varios deles guardando o
+ portao em tropas organizadas.}
+{141}{}{Eles eram grandes, esverdeados e carregando armas.}
+{142}{}{Conforme você possa saber, nossa Escriba Mestra, Vree, fez uma autopsia numa
+ criatura muito similar ao que você acabou de descrever. Você acredita que estes
+ são os mesmos?}
+{143}{}{Sim. A descricao da criatura e aproximadamente identica.}
+{144}{}{Que ameca você assume que estes "mutantes" posam?}
+{145}{}{Assim como a Irmandade has been gearing up para a batalha, este
+ "exercito mutante" tem estado se preparando para algo grande.}
+{146}{}{Francamente, seu relatorio não nos mostra qualquer prova de que eles são uma
+ ameaca para nos. Que prova você pode nos dar de que eles tem intenções hostis?}
+{147}{}{Eles invadiram Necropolis. Eles não pararao ai.}
+{148}{}{Eles estão juntando um exercito. Um exercito altamente armado. Eles
+ certamente não vao apenas fazer uma parada. Eles pretendem usa-las.}
+{149}{}{Então, por estas ações que eles estão tomando, e feasable que eles
+ eventualmente virao aqui?}
+{150}{}{e possível que eles já estão no seu caminho para aqui. A Irmandade e
+ a unica oposicao de verdade que eles poderiam ter.}
+{151}{}{Eu não acredito que isso mostra hostilidade. Eles poderiam simplesmente estar
+ protegendo a si mesmos de ataque. Até mesmo nos temos que lidar com o ataque ocasional.}
+{152}{}{Se eles atacarem, não será NADA como o ataque ocasional que você tem dos
+ saqueadores. Isto será uma matanca.}
+{153}{}{Ja que eles estão saindo daquela velha instalacao militar, eu imaginaria
+ que eles teriam armas comparaveis as suas proprias.}
+{154}{}{O que você sugere? Um ataque preventivo na base militar deles?}
+{155}{}{Sim. Eu não quero que ele saibam que nos estamos indo. Um pequeno time
+ stand uma chance melhor de entrar no perimetro deles sem serem detectados.}
+{156}{}{Isso só tomara conta de uma parte do problema. Eles estão sendo liderados
+ por um grupo saindo da Catedral de Boneyard.}
+{157}{}{Então que seja. Você tera 3 Paladinos de minha escolha para encontrar você na Base Militar para
+ ajudar você a entrar. Elders, obrigado a vocês por seu tempo. O melhor da sorte pra você Iniciado.}
+{158}{}{Se eles estão sendo liderados por um grupo da Catedral de Boneyard, então as chances são
+ de que eles tem um pequeno exercito lá embaixo tambem.}
+{159}{}{Se nos os derrotarmos no norte, então isso deixa o nosso lado sul vulneravel.
+ Eu só posso poupar alguns homens nesta endeavor.}
+{160}{}{De-me alguns Paladinos para tomar a base deles ao norte.}
+{161}{}{De-me alguns Paladinos para tomar a base deles ao sul.}
+{162}{}{Então que seja. Você tera 2 Paladinos de minha escolha para encontrar você na Catedral de
+ Boneyard. Elders, obrigado a vocês por seu tempo. O melhor da sorte pra você Iniciado.}
+{163}{}{Então que seja. Você tera 3 Paladinos de minha escolha para encontrar você na Base Militar para
+ ajudar você a entrar. Elders, obrigado a vocês por seu tempo. O melhor da sorte pra você Iniciado.}
+{164}{}{Obviamente nos cometemos um erro. Elders, Eu lamento por desperdicar o seu tempo. Alguém
+ por favor removeria esta abominacao mental?}
+{165}{}{Eu estou muito ocupado planejando uma estrategia defensiva.}
+{166}{}{Você ganha }
+{167}{}{pontos de experiência por convencer a Irmandade a ajudar.}

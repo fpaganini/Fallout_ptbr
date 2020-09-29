@@ -1,0 +1,116 @@
+{100}{}{Você vê uma jovem mulher com cabelo escuro.}
+{101}{}{Você vê Lorraine, uma Scav de Adytum.}
+{102}{}{Oi. Você e novo aqui?}
+{103}{}{Sim. Você pode me ajudar um pouco?}
+{104}{}{Sim, eu sou. Eu sou chamada }
+{105}{}{. }
+{106}{}{Whuuu?}
+{107}{}{Eu suponho. Do que você precisa saber a respeito?}
+{108}{}{Quem é você?}
+{109}{}{Você pode me dar um pouco de informação sobre a Boneyard?}
+{110}{}{Me diga um pouco sobre os outros residentes de Adytum.}
+{111}{}{O que você faz para viver?}
+{112}{}{Deixa pra lá, obrigado.}
+{113}{}{Eu sou Lorraine.}
+{114}{}{Eu posso fazer algumas perguntas?}
+{115}{}{Eu sou uma Scav. Eu trabalho com o Sammael pra coletar coisas das
+ ruinas, para que nos possamos usa-las pra construir or fazer comercio.}
+{116}{}{Por que todos aqui não fazem isso?}
+{117}{}{Quanto Scavs existem?}
+{118}{}{Eu posso perguntar a você sobre algo diferente?}
+{119}{}{Bacana conversar com você.}
+{120}{}{Bem, você tem os Deathclaws lá fora, alem disso os Reguladores tomam uma porcentagem
+ do montante, mais algum para protecao aqui em Adytum. Creio que as pessoas não tenham o
+ dinheiro de cara ou a coragem pra encarar um Deathclaw nos olhos.}
+{121}{}{Qual e o problema com os Reguladores?}
+{122}{}{Como você evita os Deathclaws?}
+{123}{}{Eu posso perguntar a você sobre algumas outras coisas?}
+{124}{}{Obrigado. Tchau.}
+{125}{}{Ah, há meia duzia de nos. O Sammael foi o primeiro, e ele ainda e
+ o melhor.}
+{126}{}{Eu posso perguntar a você sobre algumas outras coisas?}
+{127}{}{Interessante. Obrigado.}
+{128}{}{Eles mantem a paz por aqui, e controlam todo o dinheiro que entra e sai.
+ O resto das pessoas aqui geralmente trabalham pros Reguladores, e esse não é o
+ trabalho mais misericordioso. Muitos deles nem ao menos veem alem da cerca que
+ rodeia este lugar.}
+{129}{}{Tudo que faz você imaginar o que Julianna estava pensando.}
+{130}{}{O que você quer dizer sobre a Julianna?}
+{131}{}{Muito desagradavel. Eu posso perguntar sobre algumas outras coisas?}
+{132}{}{Obrigado pelo aviso.}
+{133}{}{Ah, ela acabou se apaixonando por algum Blade a um tempo atras. A pobre
+ querida não consegue deixar a cidade, claro, e o Caleb mataria o jovem homem
+ a vista. Muito tragico.}
+{134}{}{Uh . . . se você diz que sim.}
+{135}{}{Eu posso perguntar sobre algumas outras questoes?}
+{136}{}{Hmm. Obrigado por me filling. Tchau.}
+{137}{}{Nós só scavenge apos escurecer. É nos somos muito bons no que nos
+ fazemos. O Sammael tem um pequeno teste que ele gosta de jogar nas
+ pessoas antes de ele deixar elas se tornarem Scavs.}
+{138}{}{Qual e o teste?}
+{139}{}{Ainda soa perigoso.}
+{140}{}{Eu entendo. Se importa se nos back up um pouco?}
+{141}{}{Interessante. Tchau.}
+{142}{}{O Sammael faz a pessoa se esconder em algum lugar dentro de Adytum
+ durante o dia. Se ele não conseguir achar o estudante em uma hora então
+ ele deixa a pessoa se juntar no próximo grupo de scavenger.}
+{143}{}{Que sistema estúpido!}
+{144}{}{Parece funcionar. Você ainda esta viva.}
+{145}{}{Huh. Eu posso perguntar a você sobre algumas outras coisas?}
+{146}{}{Interessante. Tchau.}
+{147}{}{Vamos lá, não há o traco mais fraco de um romantico em
+ você? Realmente, e muito ruim. Amor não correspondido e tudo
+ isso. Tragico.}
+{148}{}{Hmpf. Mostre o que você sabe. Diga isso a Sammael. Se você
+ conseguir acha-lo.}
+{149}{}{Sim, embora possa ser difícil. É muito perigoso, especialmente
+ se você e pego.}
+{150}{}{Sem duvida. Eu posso perguntar sobre algo mais?}
+{151}{}{Obrigado pela info.}
+{152}{}{Uau, eu acho que você esta um pouco alem da minha ajuda.}
+{153}{}{Esta costumava ser uma grande cidade chamada Los Angeles. Mas as
+ bombas atingiram pra valer. Agora, só há a Angel's Boneyard. Nós
+ Adytowners estamos apenas tentando sobreviver nos
+ destrocos.}
+{154}{}{Você pode me dizer mais sobre Los Angeles?}
+{155}{}{Eu entendo. Obrigado.}
+{156}{}{Muitas pessoas viviam aqui. Do que eu ouvi, os sobreviventes se esconderam
+ num lugar grande chamado Vault, e sairam anos mais tarde. Alguns deles fundaram
+ os Reguladores e então fundaram Adytum, enquanto os }
+{157}{}{outros formaram os Blades. Os Gun Runners não são originalmente daqui.}
+{158}{}{Onde esta esta Vault?}
+{159}{}{Qual e o problema com os Reguladores?}
+{160}{}{De onde são os Gun Runners?}
+{161}{}{}
+{162}{}{Obrigado pela sua ajuda.}
+{163}{}{Bem supostamente estava em algum lugar ao sul daqui, mas eu não
+ sei realmente. Eu acho que todos sairam porque estava quebrada.}
+{164}{}{Eu posso fazer a você mais algumas perguntas?}
+{165}{}{Hmm. Obrigado.}
+{166}{}{Eu não tenho realmente certeza. Eu acho que eles vieram de algum lugar
+ ao norte daqui.}
+{167}{}{O que você sabe sobre os Reguladores?}
+{168}{}{Eu posso perguntar sobre algumas outras coisas?}
+{169}{}{Obrigado pela informação.}
+{170}{}{De quem você quer saber a respeito?}
+{171}{}{Jon Zimmerman.}
+{172}{}{Caleb.}
+{173}{}{Miles.}
+{174}{}{Tine.}
+{175}{}{Smitty.}
+{176}{}{Ninguem.}
+{177}{}{O Zimmerman toma conta da nossa cidade. Ele procura ter certeza de que todos
+ fiquem alimentados e que todos tenham um trabalho pra fazer.}
+{178}{}{O Caleb e o lider dos Reguladores. É o trabalho dele proteger
+ Adytum. Ele parece aprecia-lo um pouco mais do que ele deveria.}
+{179}{}{Ah, nosso quimico residente. O Miles faz balas, e ele tambem
+ construiu o destilador de água que garante que nos consigamos água
+ limpa do poco. Ele esta trabalhando numa fazenda no subsolo agora
+ mesmo, mas ele esta com falta de algumas partes.}
+{180}{}{O Tine comanda a loja. Ela esta no bunker perto do portao.
+ Ele faz comercio com os mercadores do Hub pra nos.}
+{181}{}{Hmm. O Smitty e um tipo de tinker. Ele e bom em trabalho de reparacao.
+ Ele casts balas e conserta coisas quebradas pela cidade.}
+{182}{}{Eu posso perguntar a respeito de mais alguém?}
+{183}{}{Nós podemos falar sobre um assunto diferente?}
+{184}{}{}

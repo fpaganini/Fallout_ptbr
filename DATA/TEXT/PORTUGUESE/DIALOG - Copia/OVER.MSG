@@ -1,0 +1,320 @@
+{100}{}{Você vê o supervisor.}
+{101}{}{Ahh, voca este aqui. Boa. Bem, só bom que você esteja aqui. Nós temos
+ um problema. Um grande. O chip controlador do nosso sistema de purificação de água
+ desistiu do fantasma. Nós não podemos fazer outro e o processo e muito complicado
+ para um sistema de trabalho.
+ Simplificando, estamos ficando sem água potavel. Não água, não Vault.
+ Agora nos dois sabemos que temos nossas diferenças a medida que você cresce. Você tem o
+ Wanderlust em você - desejos de coisas que o Vault não pode satisfazer. É você sabe
+ Eu acho que isso pode ser o ultimo lugar seguro em qualquer lugar, então eu estou sempre preocupado
+ sobre aqueles que querem decolar em aventuras. Ei, se todos saissem, eu estaria fora
+ de um emprego!
+ Serio, isso é crucial para nossa sobrevivencia. É francamente, eu acho que você e o unico
+ Espero que tenhamos.
+ Voce precisa encontrar outro chip controlador.}
+{102}{Over_0a}{Há uma foto no seu PIP para ajuda-lo a identifica-lo.}
+{103}{Over_1}{Você tem tres meses para recuperar o chip antes de o cofre acabar
+ de água.}
+{104}{}{Um mes. . . dois . . . quatro. . . cinco. . . seis. . .}
+{105}{Over_2}{Você tem dois meses, talvez menos, antes que o cofre fique sem água.
+ Precisamos desse chip!}
+{106}{Over_3}{Estimamos que tenhamos quatro a cinco meses antes que o vault acabe
+ agua. Precisamos desse chip!}
+{107}{Over_4}{Eis alguns equipamentos que você provavelmente precisara.}
+{108}{Over_4a}{Se não tivessemos que fazer isso, eu nunca perguntaria. E se você não fizer isso,
+ Eu não sei quem mais pode. Ajude-nos. Você e nosso unico. . . chance, eu acho.}
+{109}{Over_5}{Se precisar de ajuda, volte aqui. Obviamente, faremos o que formos
+ posso. Mas não temos muito tempo. Esteja seguro, encontre esse chip e volte aqui.}
+{110}{Over_6}{Marcamos seu mapa com a localização de outro Vault. Não e ruim
+ lugar para começar, eu acho. Então, novamente, o que diabos eu sei
+ sobre o lado de fora? EU . . . Veja. Você sabe que é importante para mim e
+ para . . . Eu realmente. . . apenas esteja seguro, ok?}
+{111}{Over_7}{Você esta de volta! É em um pedaço! Como vai a pesquisa?}
+{112}{}{Não e bom, mas notei que a contagem de radiação e baixa. Por que nos simplesmente não tiramos as pessoas do cofre?}
+{113}{}{Eu não encontrei o chip ainda. Não podemos apenas fazer uma substituiçao?}
+{114}{}{Nada ainda.}
+{115}{}{Nuh.}
+{116}{Over_8}{Olha, eu sei que tem que ser difícil. Mas estamos contando com você. É
+ Estamos ficando sem tempo. Por favor! Continue tentando!}
+{117}{Over_9}{Ahh, você nunca me ouviu. Nós não temos as partes necessarias
+ nao mais. Usamos todos os suprimentos necessarios.}
+{118}{}{Ah, ok. Obrigado.}
+{119}{Over_10}{Nós debatemos isso antes. Você deveria saber agora, depois de estar fora
+ ha! Você acha que o resto de nos poderia sobreviver a isso?
+ Alem disso, eu estaria sem emprego! Eu sou gestora! Não e como se eu soubesse
+ faça qualquer coisa util!}
+{120}{}{Nós concordamos com isso.}
+{121}{Over_12}{Bem, você tem o chip?}
+{122}{}{Ainda não. Desculpa.}
+{123}{}{Eu ainda digo que nos apenas empacotamos todo mundo e saimos daqui.}
+{124}{}{Não, mas tenho muitas outras coisas para lhe dizer!}
+{125}{}{Nuh.}
+{126}{Over_13}{[O Supervisor suspira.] Não se desculpe. Eu sei que você esta tentando o seu melhor e isso significa muito.
+ Mas você não pode desistir agora.}
+{127}{Over_14}{Este não é o melhor momento para debater isso. Pegue o chip, nos de o
+ opçao. A maioria dessas pessoas, inclusive eu, não sobreviverá lá fora.}
+{128}{}{OK, vou ver se consigo encontra-lo}
+{129}{Over_16}{Não temos tempo nem opçoes. Eu sei que é muita responsabilidade
+ para você, mas não temos escolha. Nós precisamos do chip agora.}
+{130}{Over_19a}{Por favor, me diga que você encontrou o chip.}
+{131}{}{Não, mas eu vi coisas incríveis!}
+{132}{}{Desculpe, ainda não foi possível rastreá-lo.}
+{133}{}{Nope.}
+{134}{}{Nuh-uh.}
+{135}{Over_20}{Bem, continue procurando. O tempo esta ficando curto.}
+{136}{Over_21}{Nós não temos tempo para isto! Nós precisamos do chip. O tempo esta se esgotando. [Suspiro]}
+{137}{Over_22}{Existe algum problema? Você precisa de mais equipamentos? Há alguma coisa
+ podemos fazer para ajudar?}
+{138}{}{Não, só vai levar algum tempo. É um grande mundo lá fora.}
+{139}{}{Eu poderia usar mais algumas coisas.}
+{140}{}{Sim, você poderia sair de suas fannies e ajudar.}
+{141}{Over_23}{Faça o seu melhor. Lembre-se, estamos todos contando com você.}
+{142}{Over_24}{Aqui, pegue o ultimo de nossos suprimentos de munição portátil e de cura.
+ Estamos em apuros. Pressa!}
+{143}{Over_25}{Faça o que? Com quem? Qualquer outra pessoa seria menos qualificada e teria menos
+ suprimentos. Seria suicidio.}
+{144}{}{Sua escolha. Eu farei o meu melhor, mas não sei se sera o bastante.}
+{145}{}{Eu entendo.}
+{146}{Over_26} {Tem que ser. Se você falhar, o mesmo acontece com o Vault.}
+{147}{}{Got it}
+{148}{}{Whatever.}
+{149}{Over_27}{Bom, então vá em frente!}
+{150}{Over_28}{Você encontrou o chip?}
+{151}{}{Sim}
+{152}{}{Sim, mas acho que devemos falar mais sobre deixar as pessoas sairem do Vault.}
+{153}{}{Nuh-huh!}
+{154}{Over_29}{Otimo! Deixe-me ficar com isso. Vamos ver se funciona.}
+{155}{Over_30}{Por favor, o chip!}
+{156}{Over_31}{Okey-dokey. Um momento, o chip esta inicializando. Aqui - aqui - aqui -
+ Lá vai . . . O autoteste e verde. . . reinicializar e bom. . .
+ Hah! Esta funcionando! É parece que temos um vencedor! Haha!
+ [O supervisor suspira de alívio.] Você - você nos salvou. Você fez isso!}
+{157}{}{Ahh, não foi nada.}
+{158}{}{Seja bem-vindo.}
+{159}{Over_32}{Nada? Não, oh não! Foi algo.
+ Nao subestime o que você fez. Você salvou muitas vidas.
+ Tudo bem, agora precisamos de um relatorio sobre o que está lá fora.
+ Por favor, vá para a biblioteca.}
+{160}{}{Certo}
+{161}{Over_33}{Você salvou o Vault. Você deveria estar orgulhoso. Mas agora precisamos do seu
+ relatorio. Nós vamos pegar de você na biblioteca. Por favor, vá para lá agora.}
+{162}{}{Certo}
+{163}{Over_34}{Bem, você certamente mereceu isso. Mas vamos cuidar de
+ sobrevivencia em primeiro lugar. De-me o chip e discutiremos isso quando você
+ de seu relatorio.}
+{164}{}{Justo o suficiente.}
+{165}{}{Eu não sei.}
+{166}{Over_37}{Ah, isso é ótimo! Posso ter o chip, por favor?}
+{167}{Over_38}{Não, não é isso. Eu quero o chip com-pu-ter.}
+{168}{Over_38a}{Não. O chip.}
+{169}{Over_39}{Apenas-me-dê-o-chip!}
+{170}{Over_40}{Obrigado. Agora, vá para a biblioteca e descanse por um tempo, ok?}
+{171}{}{Nuh-huh, uh-nuh?}
+{172}{}{Uh, nuh? Nuh-uh-uh-nuh.}
+{173}{Over_41}{Sim, você pode tocar em coisas.}
+{174}{Over_41a}{Ah, sim. Você fez bem e tenho certeza que tem muito a dizer.}
+{175}{Over_42}{Eu uh, eu só queria que você soubesse que o suprimento de água
+ estabilizado. Na verdade, estamos reconstruindo nossas reservas.
+ Você foi ótimo. . . Eu estou um pouco preocupado, no entanto.}
+{176}{}{Sobre o quê?}
+{177}{}{Huh?}
+{178}{Over_43}{Eu não gosto de seus relatórios. O que estava nos relatórios,
+ isso é. Ei Na verdade, eles me assustaram. São esses mutantes.
+ Fiz alguns cálculos e, bem, cheguei a uma conclusão desagradável.}
+{179}{}{O que é isso?}
+{180}{Over_44}{[Sigh] A população mutante é muito maior do que se poderia esperar
+ por crescimento natural ou mutações. Isso me leva a acreditar em - eu
+ realmente não entendo isso. Mas parece que alguém
+ gerando novos mutantes. É a uma taxa surpreendente.}
+{181}{}{Dizer de novo? Sem a confusão?}
+{182}{}{Deve ser um laboratório em algum lugar.}
+{183}{Over_45}{Alguém está fazendo mutantes!}
+{184}{}{O que eu preciso fazer?}
+{185} {Over_46}{Exatamente! É como você provavelmente já adivinhou, nenhuma dessas mutações poderia
+ ocorreram naturalmente, mesmo com a radiação da guerra.}
+{186}{}{O que você quer que eu faça sobre isso?}
+{187}{Over_47}{Desde que alguém esteja criando mutantes hostis nesse ritmo, o
+ A segurança do Vault está em jogo! Encontre e destrua este laboratório assim que puder.}
+{188}{}{Certo}
+{189}{}{Mais uma vez na brecha, meu amigo.}
+{190}{Over_48}{Você não tem ideia de como sinto muito enviar você de volta.}
+{191}{Over_49}{Ah, sim. Hmm . . . Eu 'eu' eu 'é assim.
+ Há um lugar ruim de onde os maus mutantes vêm.
+ Isso é ruim. O cofre é bom. Por favor, vá destruir o lugar ruim.}
+{192}{Over_50}{O laboratório mutante já foi descoberto? Melhor ainda, me diga
+ foi destruído.}
+{193}{}{Não.}
+{194}{}{Ainda não, mas tenho boas pistas.}
+{195}{}{Não, estou um pouco perdido.}
+{196}{}{Nungh.}
+{197}{Over_51}{Bom, continue procurando.}
+{198}{Over_52}{Bom. Mas depressa, quanto mais tempo eles têm para produzi-los, mais difícil
+ eles vão parar.}
+{199}{Over_53}{Bem, com base nas informações que você forneceu sobre
+ densidade populacional, eu acho que você deve concentrar sua pesquisa para o oeste.}
+{200}{Over_54}{Quais notícias você tem dos mutantes?}
+{201}{}{Eu desperdicei a cabeça SOB.}
+{202}{}{Eu matei o Mestre, o líder mutante.}
+{203}{}{Nuh, ungh. Uh-nuh, nuh.}
+{204}{Over_55}{Excelente! É o laboratório? Você também destruiu isso?}
+{205}{}{Não.}
+{206}{}{Sim, claro que sim. Matou todos os mutantes e explodiu seus tanques de produção. O cofre não tem nada a temer agora.}
+{207}{Over_58}{Você deve se orgulhar de tudo que conquistou. Nós
+ Dependia de você e você veio. Agora vamos falar sobre o seu futuro. . .}
+{208}{Over_59}{Tem certeza? Faltar alguma coisa seria mortal para o Vault. Eu
+ acho que você deveria voltar e dar uma olhada. Tente para o oeste, lá
+ parece ser uma grande concentração de mutantes lá.}
+{209}{Over_60}{Volte e encontre-o. Precisa ser destruído para o cofre
+ estar seguro. Tente para o oeste, a maioria dos mutantes parece estar lá.}
+{210}{Over_61}{O que é isso? Você matou o líder mutante?}
+{211}{}{Uh-huh, nuh, huh. Nuh-nuh.}
+{212}{Over_61aS}{Ainda há mais mutantes aparecendo? Você precisa destruir o seu
+ cubas? Bom trabalho! Volte lá e cuide disso.}
+{213}{Over_62}{Quais notícias dos mutantes?}
+{214}{}{Eu estraguei tudo.}
+{215}{}{As cubas mutantes foram destruídas.}
+{216}{}{Nuhh!}
+{217}{Over_63}{Todos eles}
+{218}{}{Bem, todos eles nas cubas.}
+{219}{}{Uh, nuh-nuh}
+{220}{Over_64}{É o líder mutante? É sobre esse assim chamado Mestre?}
+{221}{}{Até onde eu sei, ele ainda está vivo.}
+{222}{}{Uh-nuh-nuh.}
+{223}{Over_66}{Ele deve ser parado. Se não, ele poderia reconstruir seu império de mutantes
+ e certamente nos atacaria. O cofre não será seguro
+ até que o Mestre esteja morto.}
+{224}{Over_68}{É o líder mutante. . . cuidado?}
+{225}{}{Não.}
+{226}{}{Ele será. . . em breve.}
+{227}{}{Nuh.}
+{228}{Over_69}{Eu sei que isso tem sido difícil para você. Mas esse mestre é do tipo que vai
+ reconstrua seu exército mutante. Então ele virá para nós. Por favor vá
+ sair e terminar o trabalho.}
+{229}{Over_70}{Bem, Th 'Tha' Isso é ótimo. Isso é muito bom. Você parece
+ como se você estivesse no controle lá fora. Por favor, termine logo para que você
+ e eu posso . . . Quando você está lá fora, lembre-se, as pessoas
+ do Cofre sabem que você os salvou.}
+{230}{Over_71}{Não podemos ter isso. Agora não. Não com tudo mais acontecendo. o
+ regras do Vault estão lá para nossa proteção é a sobrevivência de
+ nossa espécie.}
+{231}{Over_72}{O que há de errado com você ?! Você se virou contra nós ?!
+ Eu não posso permitir isso.}
+{232}{Over_73}{As caravanas de água deste lugar do Hub começaram a chegar. Eu tenho
+ tenho corrido os números e tenho algumas notícias perturbadoras.}
+{233}{}{O que é isso?}
+{234}{}{Huh?}
+{235}{Over_74}{Ah, não importa. Apenas tente encontrar o chip de água. Pegue o chip.
+ Nós ainda precisamos disso.}
+{236}{Over_75}{A água da caravana manterá nosso suprimento atual, mas não aumentará
+ substancialmente. É esses comerciantes do Hub estão nos cobrando um braço
+ e perna. Isso ajuda e estamos agradecidos por isso, mas não é uma solução.}
+{237}{}{Certo}
+{238}{}{Há outra coisa, não está lá?}
+{239}{Over_76}{Continue procurando por um chip substituto. É a única maneira que podemos
+ manter a nossa independência é a segurança que vem com o nosso isolamento.}
+{240}{Over_77}{Estamos correndo um risco terrível mostrando a essas pessoas o caminho para nosso
+ cofre. Eu entendo sua escolha e pode ser o que nos salva. Mas
+ Estou preocupado. Podemos confiar nessas pessoas?}
+{241}{}{Eu confio neles}
+{242}{}{Eu entendo.}
+{243}{Over_78}{Eu tenho certeza que você faz, mas precisamos desse chip de substituição para o nosso longo prazo
+ sobrevivência e estabilidade econômica. Nós não produzimos tantos bens quanto
+ precisamos pagar por essa água e em breve não poderemos pagar.
+ Encontre o chip.}
+{244}{Over_79}{Eu tenho certeza que você faz. Você também deve entender nossa necessidade de
+ chip de substituição. Por favor, continue procurando.}
+{245}{Over_80}{Por favor, continue procurando o chip de água. Essas caravanas de água são
+ vai nos causar problemas a longo prazo.}
+{246}{Over_81}{Você fez isso! Isso é . . . Maravilhoso. Surpreendente! Estou tão
+ orgulhoso do que você realizou, do que você suportou. Não tem jeito
+ as pessoas do Vault podem agradecer o suficiente pelo que você fez.
+ Você salvou todas as nossas vidas. Quem sabe, talvez até salvou a raça humana.
+ [O Supervisor suspira.] Isso torna o resto ainda mais difícil.
+ Todo mundo vai querer falar com você. Todo jovem vai olhar para você.
+ E quero imitar você. É então o que? Eles vão querer sair. o que
+ acontece com o Vault se perdermos o melhor de uma geração? E se nós
+ são o único lugar seguro no mundo? Você acabou de nos devolver tudo isso
+ vidas . . . Eu não posso correr o risco de perdê-los. Eu fiz um monte de
+ decisões difíceis desde que tomei essa posição. Mas nenhum deles mais difícil
+ do que este. Você nos salvou, mas vai nos matar. Eu sinto Muito. Você é
+ um herói . . . e você tem que sair.}
+{247}{Over_100}{Eu não sei nada sobre isso.}
+{248}{Over_200}{É uma parte crítica que nos permite purificar a água. Sem
+ isso, vamos ficar sem água potável.}
+{249}{Over_201}{Esta é a nossa casa. Todos estaríamos mortos sem isso. Se nos importamos com isso
+ corretamente, deve durar por muito tempo.}
+{250}{Over_202}{Foi terrível. Espero que aprendamos nossa lição e nunca façamos isso
+ novamente.}
+{251}{Over_203}{Como eu saberia? Eu mal consigo acompanhar o que se passa aqui!
+ Eu suspeito que você vai descobrir.}
+{252}{}{Você ganha 7.500 pontos de experiência para devolver o chip de água e salvar
+ o cofre. Parabéns!}
+{253}{Over_0ab}{Aqui está uma foto para ajudar você a identificá-lá.}
+{254}{Over_1a}{Você tem um mês para recuperar o chip antes da execução do cofre
+ fora da água.}
+{255}{Over_1b}{Você tem dois meses para recuperar o chip antes que a água do cofre se esgote
+ fora da água.}
+{256}{Over_1c}{para recuperar o chip antes que a água do cofre se esgote
+ fora da água.}
+{257}{Over_1d}{Você tem cinco meses para recuperar o chip antes que a água do cofre se esgote
+ fora da água.}
+{258}{Over_1e}{você tem que corrigir o chip antes que a água do cofre se esgote
+ fora da água.}
+{259}{}{Sim, bem, eu acho que você terá que encontrar alguém para fazer o seu trabalho sujo.}
+{260}{}{Eu entendo. Vou trabalhar mais para encontrar o chip.}
+{261}{Over_81a}{Você fez isso! Isso é . . . Maravilhoso. Surpreendente!
+ Estou tão orgulhoso do que você realizou, do que você suportou.}
+{262}{Over_81b}{Não tem como as pessoas do Vault poderem te agradecer
+ o suficiente para o que você fez. Você salvou todas as nossas vidas. Quem sabe, talvez
+ até salvou a raça humana. [O Supervisor suspira]
+ Isso torna o resto ainda mais difícil.}
+{263}{Over_81c}{Todo mundo vai querer falar com você.
+ Todos os jovens olham para você e querem imitá-lo. É então o que?}
+{264}{Over_81d}{Eles vão querer sair. O que acontece com o Vault se nós
+ perder o melhor de uma geração? E se formos o único lugar seguro no mundo?
+ Você acabou de nos dar de volta todas essas vidas. . . Eu não posso correr o risco de perdê-los.}
+{265}{Over_81e}{Eu tomei várias decisões difíceis desde que assumi essa posição.
+ Mas nenhum deles é mais difícil que este. Você nos salvou, mas vai nos matar.
+ Eu sinto Muito. Você é um herói . . e você tem que sair.}
+
+# Overseer Tell-Me-Abouts generic responses
+{980}{Over_100}{Eu não sei nada sobre isso.}
+
+#
+# Overseer Tell-Me-Abouts
+#
+
+
+{1000}{}{Water}
+{1001}{}{Vault}
+{1002}{}{War}
+{1003}{}{Outside}
+{1004}{}{Chip}
+{1005}{}{Library}
+{1006}{}{Healing}
+{1007}{}{Medic}
+{1008}{}{Vault13}
+{1009}{}{Vault-13}
+{1010}{}{Overseer}
+{1011}{}{Waterchip}
+
+{1100}{Over_200}{É uma parte crítica que nos permite purificar a água. Sem
+ isso, vamos ficar sem água potável.}
+{1101}{Over_201}{Esta é a nossa casa. Todos estaríamos mortos sem isso. Se nos importamos com isso
+ corretamente, deve durar por muito tempo.}
+{1102}{Over_202}{Foi terrível. Espero que aprendamos nossa lição e nunca façamos isso
+ novamente.}
+{1103}{Over_203}{Como eu saberia? Eu mal consigo acompanhar o que se passa aqui!
+ Eu suspeito que você vai descobrir.}
+{1104}{Over_200}{É uma parte crítica que nos permite purificar a água. Sem
+ isso, vamos ficar sem água potável.}
+{1105}{Over_21q}{Nós não temos tempo para isto!}
+{1106}{Over_21q}{Nós não temos tempo para isto!}
+{1107}{Over_21q}{Nós não temos tempo para isto!}
+{1108}{Over_201}{Esta é a nossa casa. Todos estaríamos mortos sem isso. Se nos importamos com isso
+ corretamente, deve durar por muito tempo.}
+{1109}{Over_201}{Esta é a nossa casa. Todos estaríamos mortos sem isso. Se nos importamos com isso
+ corretamente, deve durar por muito tempo.}
+{1110}{Over_21q}{Nós não temos tempo para isto!}
+{1111}{Over_200}{É uma parte crítica que nos permite purificar a água. Sem
+ isso, vamos ficar sem água potável.}

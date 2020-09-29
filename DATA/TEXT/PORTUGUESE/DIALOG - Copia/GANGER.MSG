@@ -1,0 +1,43 @@
+{100}{}{Você vê um ghoul membro de gangue.}
+{101}{}{O que você esta fazendo aqui? Responda sabiamente - esta poderia
+ ser sua unica chance . . .}
+{102}{}{Eu estou procurando o chefe.}
+{103}{}{Esta predio esta condenado - Eu vim pra entregar a notificacao final.}
+{104}{}{Lamento, apenas olhando por ai.}
+{105}{}{Duh.}
+{106}{}{Set não esta aqui, então saia.}
+{107}{}{Ah, OK. Tchau.}
+{108}{}{Bem, quando eu achar aquele filho da puta, eu vou faze-lo desaparecer
+ de tal forma que ninguém consiga acha-lo.}
+{109}{}{Bem, você então simplesmente tera que ser meu saco de pancada.}
+{110}{}{Você tem serious problemas mentais com os quais trabalhar. Set
+ não vai deixar algum perdedor como você derruba-lo. Ele tem os
+ guardas e ele tem as armas.}
+{111}{}{Quantos guardas?}
+{112}{}{O que você esta fazendo aqui?}
+{113}{}{Set mantem pelo menos dois guardas ao redor dele todo o
+ tempo, mas ele consegue chamar mais do que dez se ele precisar.
+ É quando e ele esta na sala do trono dele, aqueles dez guardas
+ ficam a segundos de distancia.}
+{114}{}{Então o que você esta fazendo aqui?}
+{115}{}{Eu não vou dizer pra você. O que você pensa que eu sou,
+ estúpido. Agora saia . . .}
+{116}{}{Eu tenho que ter a certeza de que ninguém passa. Esta é a casa do zumbi.}
+{117}{}{O que é um zumbi?}
+{118}{}{Bem, tenha você um bom dia.}
+{119}{}{Não o que . . . O QUEM. Nós somos os zumbis. Se nos fizermos bem, o Set
+ far de nos um dos guardas dele. Agora isso e tudo que eu vou dizer pra você.}
+{120}{}{Por que você quer ser um dos guardas dele?}
+{121}{}{Tchau.}
+{122}{}{Eu disse que isso e tudo que eu vou dizer pra você. Agora saia.}
+{123}{}{Você louco. O que você pensa que isto e? Melhor você sair.}
+{124}{}{Não, eu quero entrar.}
+{125}{}{OK, eu estou saindo daqui.}
+{126}{}{Eu acho que não. Saia antes que eu chame os rapazes e
+ dance na sua cara.}
+{127}{}{Isso é uma ameaca?}
+{128}{}{OK.}
+{129}{}{Era. Agora e um fato. ZUMBIS!}
+{130}{}{Fique longe deste lugar se você valoriza sua vida.}
+{131}{}{EI, ZUMBIS, NOS TEMOS UM SACO DE PANCADA!}
+{132}{}{Você deveria sair.}

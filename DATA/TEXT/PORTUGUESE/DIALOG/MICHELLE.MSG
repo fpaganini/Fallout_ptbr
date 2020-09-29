@@ -1,69 +1,69 @@
-{100}{}{VocÃª vÃª Michelle.}
+{100}{}{Você vê Michelle.}
 {101}{}{}
 {102}{}{}
-{103}{}{VocÃª vÃª um membro dos Blades.}
-{104}{}{VocÃª vÃª um membro dos Blades.}
-{105}{}{VocÃª acha que podem ser Livros.}
-{106}{}{VocÃª acha que isso pode ser Scars.}
-{107}{}{VocÃª acha que pode ser Artilheiro.}
-{108}{}{VocÃª acha que pode ser o Twitch.}
-{109}{}{VocÃª acha que pode ser o Hammer.}
-{110}{}{VocÃª acha que pode ser Razor.}
-{111}{}{O que vocÃª estÃ¡ fazendo aqui?}
+{103}{}{Você vê um membro dos Blades.}
+{104}{}{Você vê um membro dos Blades.}
+{105}{}{Você acha que podem ser Livros.}
+{106}{}{Você acha que isso pode ser Scars.}
+{107}{}{Você acha que pode ser Artilheiro.}
+{108}{}{Você acha que pode ser o Twitch.}
+{109}{}{Você acha que pode ser o Hammer.}
+{110}{}{Você acha que pode ser Razor.}
+{111}{}{O que você está fazendo aqui?}
 {112}{}{Hhrrrnnn.}
 {113}{}{Nada. Honesto.}
 {114}{}{Estou apenas olhando em volta.}
 {115}{}{Isto! * smack *}
-{116}{}{Um idiota. Eu acho que Ã© melhor vocÃª sair daqui. De outra forma,
-Â vocÃª pode se tornar uma prÃ¡tica de alvo.}
+{116}{}{Um idiota. Eu acho que é melhor você sair daqui. De outra forma,
+ você pode se tornar uma prática de alvo.}
 {117}{}{Arroo!}
 {118}{}{Arook}
-{119}{}{Nothing, eh? Eu acho que vocÃª estÃ¡ escondendo alguma coisa. Fora com isso
-Â antes de ver sua coragem.}
+{119}{}{Nothing, eh? Eu acho que você está escondendo alguma coisa. Fora com isso
+ antes de ver sua coragem.}
 {120}{}{Eu sou realmente um marciano.}
 {121}{}{Estou aqui para parar as guerras de gangues.}
-{122}{}{NÃ£o estou Ã  altura de nada.}
-{123}{}{Eu estou atÃ© isso! * smack *}
-{124}{}{Todo mundo sabe que nÃ£o existem coisas como marcianos.
-Â Todos os alienÃ­genas sÃ£o de VÃªnus. Agora vocÃª morre!}
-{125}{}{Claro, e eu sou a rainha do MÃ©xico.}
+{122}{}{Não estou à altura de nada.}
+{123}{}{Eu estou até isso! * smack *}
+{124}{}{Todo mundo sabe que não existem coisas como marcianos.
+ Todos os alienígenas são de Vênus. Agora você morre!}
+{125}{}{Claro, e eu sou a rainha do México.}
 {126}{}{Honestos. Eu quero parar as guerras para que eu possa ajudar Adytum.}
 {127}{}{Sua Majestade, eu realmente procuro terminar as guerras.}
-{128}{}{Se a sua inteligÃªncia fosse maior, eu tentaria
-Â explicar os benefÃ­cios da paz.}
-{129}{}{Se vocÃª estÃ¡ aqui para fazer isso, entÃ£o vocÃª precisa tentar encontrar
-Â Navalha. Ela vai deixar vocÃª saber o que achamos disso.}
+{128}{}{Se a sua inteligência fosse maior, eu tentaria
+ explicar os benefícios da paz.}
+{129}{}{Se você está aqui para fazer isso, então você precisa tentar encontrar
+ Navalha. Ela vai deixar você saber o que achamos disso.}
 {130}{}{Uh, obrigado. Eu acho que.}
 {131}{}{Certo. Tchau.}
-{132}{}{Zomba de mim, vocÃª vai? Eu acho que deveria esperar tanto de um
-Â crianÃ§a. Ah, por falar nisso. Aqui!}
-{133}{}{Fancy talk sÃ³ vai te levar tÃ£o longe. Aqui vai ficar
-Â vocÃª cerca de seis pÃ©s abaixo.}
-{134}{}{Se vocÃª estÃ¡ fazendo nada, entÃ£o vamos colocÃ¡-lo para
-Â alguma coisa. Eu acho que 'alvo' faz uma coisa boa.}
-{135}{}{VocÃª olhou. Agora o que vocÃª quer? Pense rÃ¡pido. Isso pode significar
-Â a diferenÃ§a entre sair daqui e se tornar
-Â um residente permanente.}
+{132}{}{Zomba de mim, você vai? Eu acho que deveria esperar tanto de um
+ criança. Ah, por falar nisso. Aqui!}
+{133}{}{Fancy talk só vai te levar tão longe. Aqui vai ficar
+ você cerca de seis pés abaixo.}
+{134}{}{Se você está fazendo nada, então vamos colocá-lo para
+ alguma coisa. Eu acho que 'alvo' faz uma coisa boa.}
+{135}{}{Você olhou. Agora o que você quer? Pense rápido. Isso pode significar
+ a diferença entre sair daqui e se tornar
+ um residente permanente.}
 {136}{}{Gostaria de viver aqui.}
-{137}{}{Eu sou realmente um Estripador disfarÃ§ado.}
-{138}{}{Eu quero trazer paz Ã s gangues.}
+{137}{}{Eu sou realmente um Estripador disfarçado.}
+{138}{}{Eu quero trazer paz às gangues.}
 {139}{}{Deixando}
 {140}{}{Nada de especial. Apenas olhando para o lixo para ser
-Â reciclado.}
-{141}{}{NÃ³s nunca dissemos nada sobre viver. VocÃª seria apenas
-Â residir aqui. Indefinidamente. Aproveite sua estadia.}
-{142}{}{Fico feliz que vocÃª tenha dito isso. Eu tenho significado para aguÃ§ar isso. }
-{143}{}{Em breve vou ter um esconderijo para afiÃ¡-lo.}
-{144}{}{NÃ£o tÃ£o rÃ¡pido. A Ãºnica maneira de alguÃ©m sair daqui Ã© se eles
-Â sÃ£o uma LÃ¢mina ou em uma bolsa.}
-{145}{}{EntÃ£o eu quero ser uma Blade.}
-{146}{}{QuÃ£o grande Ã© essa sacola?}
-{147}{}{VocÃª esquece a terceira opÃ§Ã£o. Eu!}
-{148}{}{chance de gordura. Mas ele Ã© um teste. Se vocÃª pode encontrar Razor, entÃ£o
-Â vocÃª pode falar com ela sobre isso.}
+ reciclado.}
+{141}{}{Nós nunca dissemos nada sobre viver. Você seria apenas
+ residir aqui. Indefinidamente. Aproveite sua estadia.}
+{142}{}{Fico feliz que você tenha dito isso. Eu tenho significado para aguçar isso. }
+{143}{}{Em breve vou ter um esconderijo para afiá-lo.}
+{144}{}{Não tão rápido. A única maneira de alguém sair daqui é se eles
+ são uma Lâmina ou em uma bolsa.}
+{145}{}{Então eu quero ser uma Blade.}
+{146}{}{Quão grande é essa sacola?}
+{147}{}{Você esquece a terceira opção. Eu!}
+{148}{}{chance de gordura. Mas ele é um teste. Se você pode encontrar Razor, então
+ você pode falar com ela sobre isso.}
 {149}{}{Grande o suficiente para encher suas partes do corpo quando terminarmos.}
-{150}{}{Eu nÃ£o sou Bela Adormecida. Eu nÃ£o preciso ser despertado.
-Â Saia ou morra.}
-{151}{}{OuÃ§a que vocÃª estÃ¡ fora pela cabeÃ§a do bastardo. DÃª a ele um extra
-Â faca torcer para mim.}
-{152}{}{Bem-vindo de volta. O buraco estÃ¡ aberto e pronto para abrigÃ¡-lo mais uma vez.}
+{150}{}{Eu não sou Bela Adormecida. Eu não preciso ser despertado.
+ Saia ou morra.}
+{151}{}{Ouça que você está fora pela cabeça do bastardo. Dê a ele um extra
+ faca torcer para mim.}
+{152}{}{Bem-vindo de volta. O buraco está aberto e pronto para abrigá-lo mais uma vez.}

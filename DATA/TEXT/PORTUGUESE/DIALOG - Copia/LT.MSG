@@ -1,0 +1,293 @@
+{100}{}{Você vê o tenente do exército do Mestre.}
+{101}{LIEUT1}{Agora, o que temos aqui? Eu tenho dito que você deseja divulgar
+ informação da maior importância. Eu espero que sim.}
+{102}{}{Uh, sim}
+{103}{}{Não para alguém tão feio quanto você.}
+{104}{}{Com uma condição.}
+{105}{}{Doh!}
+{106}{LIEUT1A}{Um insulto. Quão divertido Eu definiria essa palavra para você
+ mas isso seria um desperdício, não seria? Vamos para suas duas escolhas:
+ Você pode me dizer o que eu quero saber. Ou eu posso fazer isso. . . o meu caminho.}
+{107}{}{Eu não aceito 'nenhuma das opções acima.'}
+{108}{}{Certo, mas com uma condição.}
+{109}{}{Tudo bem, eu vou te dizer. Está do outro lado das montanhas
+ longe para o norte. Você vai encontrá-lo perto de uma estranha rocha tipo meia-cúpula. . .
+ Agora, o que eu ganho?}
+{110}{LIEUT1B}{Não acredito que tenha oferecido. Mas eu vou te agradecer por
+ me dizendo onde está seu cofre. Tenho certeza que o mestre será. . . sempre tão grato.}
+{111}{LIEUT2}{Que bom para nós dois. Agora, por favor, a localização do seu Vault.}
+{112}{}{É uh. . . é uh . .}
+{113}{}{Com uma condição, pal.}
+{114}{}{Fooled ya, não fui eu? Eu nunca te direi!}
+{115}{}{Certo, tudo bem! Apenas não me mate! Eu vou te contar tudo o que eu sei!}
+{116}{LIEUT3}{Condições? Como delicioso. Vá em frente, me divirta
+ seu . . . condição.}
+{117}{}{Eu quero ir livre.}
+{118}{}{Coloque uma sacola sobre sua cabeça para que eu possa suportar estar na sua presença.}
+{119}{}{Eu gostaria de poder fazer algumas perguntas primeiro.}
+{120}{LIEUT4}{Que esplêndido senso de humor. Pena que eu não tenho um.
+ Assim . . . a localização do seu Cofre, por favor.}
+{121}{}{Tudo bem, mas posso fazer algumas perguntas primeiro?}
+{122}{}{Eu não estou dizendo e você não pode me fazer.}
+{123}{}{É uh. . . é uh . .}
+{124}{LIEUT5}{Por que, certamente, meu querido humano. Estou curioso para ver o que você perguntará.}
+{125}{}{O que é que você faz aqui?}
+{126}{}{Para quem você trabalha?}
+{127}{}{O que você quer de mim?}
+{128}{}{Que tal eu apenas sair agora.}
+{129}{LIEUT7}{Meu querido humano, este é o grande procriador! Aqui vamos fazer
+ outros da raça mestra e asseguram a Unidade. É tudo muito glorioso
+ Eu te asseguro.}
+{130}{}{Fale-me sobre a Unidade.}
+{131}{}{Parece que sim. Por que você precisa de tudo isso para procriar?}
+{132}{}{Então, quem está no comando?}
+{133}{LIEUT8}{Atualmente, existe uma ligeira. . . problema na reprodução
+ processo. Está sendo assistido. Por enquanto, devemos usar o Vats para transformar
+ seres humanos em Super Mutantes. Você experimentará essa glória a si próprio momentaneamente.}
+{134}{}{Ah, goody. Mais algumas perguntas antes de eu. . . brilho?}
+{135}{lieut8a}{Como eu poderia recusar um pedido formulado assim?}
+{136}{LIEUT9}{Certamente. Nós temos todo o tempo do mundo. . . Confie em mim.}
+{137}{LIEUT10}{A unidade é o nosso objetivo. É bem simples, na verdade.
+ Certamente, até mesmo você notou o constante declínio da civilização?}
+{138}{}{Bem, sim, mas. . .}
+{139}{LIEUT11}{O Super Mutante é o próximo avanço na evolução humana.
+ Para salvar o mundo, converteremos todos os indivíduos dignos.
+ Simples, eficiente, glorioso.}
+{140}{}{Então você está transformando todo mundo em grandes mutantes verdes e feios para salvar o mundo?}
+{141}{}{Como você está mais avançado?}
+{142}{}{Mas não há escolha envolvida.}
+{143}{LIEUT12}{Sua mente humana está bastante sub-equipada para lidar com isso,
+ então um simples sim será suficiente por enquanto. Logo todos no mundo vão
+ ser convertido é a paz reinará.}
+{144}{}{Mas e o livre arbítrio?}
+{145}{}{Você está me dizendo que não haverá guerra?}
+{146}{LIEUT13}{Você fez a escolha de nascer neste mundo coberto de cinzas?
+ Nós, os Super Mutantes, somos os melhores preparados para o mundo vindouro.
+ O que é livre escolha em comparação com a vida?}
+{147}{}{Ponto discutível. Mas como você está mais preparado do que os humanos normais?}
+{148}{}{Mas é mau forçar as pessoas a viverem do seu jeito!}
+{149}{LIEUT14}{Intuitivamente óbvio para o observador mais casual. Nós estamos
+ altamente inteligente e imune a doenças. Os fortes sobrevivem! É nosso
+ objetivo de melhorar a raça humana.}
+{150}{}{objetivo muito elevado. Como você é feito assim?}
+{151}{LIEUT15}{Ahh, as maravilhas da tecnologia. Antes da guerra, o humano
+ os cientistas fizeram uma droga chamada FEV. Foi projetado para tornar o humano perfeito.}
+{152}{}{Então você é o ser humano perfeito?}
+{153}{LIEUT16}{Melhor. Mais que humano. Eu também já fui humano.
+ Como você, eu era uma lesma, chafurdando na lama antes de ser exposta a
+ FEV e passando por minha gloriosa transformação.}
+{154}{}{Então você está planejando mergulhar todos neste FEV?}
+{155}{LIEUT17}{Exatamente. Agora você vê.}
+{156}{}{Uh, claro que sim. Posso fazer mais algumas perguntas?}
+{157}{}{Mas está errado!}
+{158}{LIEUT18}{Ah, que decepcionante. Eu esperava que você visse a luz
+ antes . . . Bem, quando você é um de nós, tenho certeza que você vai entender.
+ Então você vai abraçar a Unidade.}
+{159}{}{Nunca! É o mal. Mal, eu te digo!}
+{160}{}{Talvez. Posso fazer mais algumas perguntas primeiro?}
+{161}{LIEUT19}{Nenhuma guerra e nenhuma doença. Todos os Super Mutantes estão limitados pelo
+ Unidade. Nós somos a esperança para o mundo.}
+{162}{}{Parece delirante para mim.}
+{163}{}{Como você é a esperança do mundo?}
+{164}{LIEUT20}{Nós todos trabalhamos para o Mestre para defender a glória da Unidade.
+ Ele foi o primeiro, você vê.}
+{165}{}{Como você veio trabalhar para ele?}
+{166}{}{Qual é a unidade?}
+{167}{LIEUT21}{Destino. Sorte do sorteio. Eu era o mais forte do meu lote
+ para ser mergulhado no vírus, e eu sempre apoiei os ideais de
+ a Unidade e o Mestre, pois ele está certo. É por minha devoção eu
+ foram recompensados.}
+{168}{}{Qual vírus?}
+{169}{}{Então, como é este Mestre?}
+{170}{LIEUT22}{Antes da guerra, os humanos criaram um vírus chamado FEV para criar
+ o homem perfeito. Eles foram bem sucedidos, como você pode ver claramente. O mestre
+ foi o primeiro a utilizar verdadeiramente o FEV em todo o seu potencial.}
+{171}{}{Então, onde está este Mestre?}
+{172}{}{Como isso funciona?}
+{173}{LIEUT23}{Ele está ocupado com os Filhos da Catedral. Eles realmente
+ nos consideram deuses. Mas então, quem pode culpá-los?}
+{174}{}{Meu Deus, não somos vaidosos?}
+{175}{}{Você acha que você é deuses?}
+{176}{LIEUT24}{É honestidade vaidosa? Nós somos o próximo passo na evolução.
+ Através da nossa Unidade, o mundo sobreviverá. Onde está o conceito nisso?}
+{177}{}{Que tal dentro dessa cabeça grotesca de vocês?}
+{178}{}{Bem, o que você disser. Posso fazer mais algumas perguntas?}
+{179}{LIEUT25}{Claro que não. Nós somos simplesmente o futuro.}
+{180}{}{Eu não acredito em você.}
+{181}{}{Antes do futuro chegar, há algumas outras coisas que eu sou
+ curioso sobre.}
+{182}{LIEUT26}{Ah, eu suspeito que esteja muito acima da sua capacidade de compreensão.
+ Mas não se preocupe. Logo seus olhos serão abertos para uma nova vida.}
+{183}{}{O que você quer dizer !?}
+{184}{}{Antes que isso aconteça, há um par de outras coisas que eu sou curioso
+ sobre.}
+{185}{LIEUT27}{[O tenente suspira.] Você ainda não percebeu?
+ Você é um primo normal. Logo você será um de nós.}
+{186}{}{Como é que 'não tem jeito'?}
+{187}{}{Antes de me tornar um mergulho como você, há algumas outras coisas que
+ Estou curioso sobre.}
+{188}{}{Por que eu sou um humano primo?}
+{189}{LIEUT28}{Vá em frente, faça suas perguntas. Nós não temos pressa.}
+{190}{LIEUT29}{Ele foi nosso guia para o vírus vivificante, e ele é o Pai
+ para todos nós. É ele quer tanto te conhecer. Espero que você esteja honrado.}
+{191}{}{Uh. . . OK. É aquele vírus? O que é isso?}
+{192}{}{Antes de conceder essa honra, que tal responder a mais perguntas?}
+{193}{}{Onde ele está?}
+{194}{LIEUT30}{O FEV foi mutado pela radiação de guerra. Aqueles que vivem
+ neste deserto desolado foram expostos a este mutante FEV,
+ essencialmente inoculando-os dos efeitos completos.}
+{195}{}{So?}
+{196}{}{Então você precisa daqueles que não são contaminados para fazer Super Mutantes?}
+{197}{LIEUT31}{Então, você é de um Vault e tem exposição limitada a
+ este vírus mutado. O FEV original no Vats deve funcionar muito bem em você.}
+{198}{}{É como você sabe disso?}
+{199}{LIEUT32}{Temos feito extensas experiências em humanos para alcançar
+ esta conclusão. Meu mestre está procurando por Vaults não abertos para
+ provar suas teorias. É agora você veio junto. Como você é atencioso.}
+{200}{}{Você não encontrará.}
+{201}{}{Bem, antes que isso aconteça, há algumas outras coisas que eu sou
+ curioso sobre.}
+{202}{LIEUT33}{Ah, meu, você é mais brilhante do que eu pensava. Agora você sabe porque
+ precisamos do seu Vault.}
+{203}{}{Muito ruim você não vai conseguir.}
+{204}{}{É um grande cofre. Que tal algumas respostas mais pequenas primeiro?}
+{205}{LIEUT34}{Indo? Acredito . . . deixe-me ver . . . Por que, sim, eu quase
+ riu! Que maravilhosamente bem humorado. O único lugar em que você está indo é o Vat.
+ Mas primeiro, você vai me dizer onde está seu cofre.}
+{206}{}{Espero que você possa receber rejeição.}
+{207}{LIEUT35}{Veremos, não vamos?}
+{208}{lieut35a}{Curiosamente, eu acredito que você não pretende me dizer. Bem
+ tem que corrigir isso!}
+{209}{LIEUT36}{Sente-se melhor agora? Desde que a tortura é tão grosseira, ainda que estranhamente
+ técnica satisfatória e eficaz, vou pedir-lhe mais uma vez bem.
+ Onde . . . é . . . o cofre!}
+{210}{}{Eu sou. Não. Dizendo.}
+{211}{}{Você ganha. É através das montanhas a oeste. Eu vou te desenhar um mapa.}
+{212}{LIEUT37}{Eu esperava que você dissesse isso.}
+{213}{LIEUT37b}{Como foi isso? Em mais. . . humor falador? Agora onde estávamos?
+ Ah, claro . . . o cofre.}
+{214}{}{É. . . Está . . . nos seus sonhos.}
+{215}{}{Você vence. É através das montanhas a oeste. Eu vou te desenhar um mapa.}
+{216}{LIEUT38}{Ah, me sinto muito melhor. É você? . . . Agora, seja um bom pequeno
+ humano e me diga onde está o seu cofre. Isso está ficando mais tedioso.}
+{217}{}{Vá para o inferno.}
+{218}{}{Eu direi! Apenas não me machuque mais!}
+{219}{}{Eu admiro sua vontade. Guardas, leve-o de volta para
+ seu celular e prepará-lo para mergulhar. Ele vai contar
+ nos onde seu Cofre é quando ele é um de nós.}
+{220}{}{Se você tem certeza que eu vou contar depois de mergulhar, então por que tudo isso?}
+{221}{LIEUT39a}{Bem, veja você, há essa pequena desvantagem. As vezes,
+ nem sempre, a memória de uma pessoa é, hum. . . como diremos
+ interrompido por imersão. Portanto, há uma pequena chance de você esquecer o local.}
+{222}{}{Então você não pode me dar um mergulho.}
+{223}{}{Parece que estamos ambos ferrados.}
+{224} {LIEUT39b}{Infelizmente, neste momento, eu tenho que arriscar.
+ Eu preciso dessa informação.}
+{225}{}{Eu direi}
+{226}{}{É melhor esperar que eu esqueça. Porque se eu lembrar de nada disso, sua bunda é minha.}
+{227}{LIEUT40}{excelente. Eu acredito que você entenda. Então você tem certeza que quer
+ dizer onde está o cofre? A tortura pode ser tão agradável.}
+{228}{}{Sim, tenho certeza}.
+{229}{}{Agora que você mencionou, não.}
+{230}{}{Posso fazer algumas perguntas primeiro?}
+{231}{LIEUT40a}{Eu pensei que você poderia ver do meu jeito. Não há segundas intenções?}
+{232}{}{Eu vou te contar tudo.}
+{233}{}{Sim, eu mudei de idéia e nunca vou contar.}
+{234}{}{Posso fazer algumas perguntas primeiro?}
+{235}{LIEUT41}{Ah, isso é excelente. Você sabe, eu realmente duvidei do meu
+ oficiais quando eles disseram que tinham capturado um primo normal. É tão bom ver você.}
+{236}{}{Vá para o inferno.}
+{237}{}{O que você quer comigo?}
+{238}{}{Duh!}
+{239}{LIEUT42}{Sim, você tem jeito com as palavras, não tem. É as palavras são
+ o que nós queremos antes. . .}
+{240}{}{O que você quer dizer com 'antes?'}
+{241}{}{Você não vai conseguir nada de mim!}
+{242}{LIEUT43}{Por que, quando você se torna um de nós, é claro! Eu não posso ter
+ um perfeitamente normal perfeito e não torná-lo um dos escolhidos,
+ agora posso? Depois que você me disser onde está seu cofre.}
+{243}{}{Diga-lhe? Você é quase engraçado.}
+{244}{}{com uma condição.}
+{245}{LIEUT44}{Ah, que louvável. Chega de tolice. Onde está seu cofre?}
+{246}{}{Eu não estou dizendo.}
+{247}{}{Bem. . . com uma condição.}
+{248}{LIEUT45f}{Bem, estou bastante impressionado. Meus espiões me disseram que você era engenhoso
+ mas eles pareciam ter subestimado seus talentos. Guardas, capture-a!}
+{249}{LIEUT46}{Ahh, teve uma boa soneca? Eu espero que sim. Mas agora é hora de pegar
+ até os negócios.}
+{250}{}{Vá para o inferno}
+{251}{}{O que você quer comigo?}
+{252}{LIEUT48}{A mente simplesmente confunde seu intelecto. Por que as legiões não
+ Curvado aos seus pés agora, eu nunca vou entender. Guardas, leve isso
+ idiota de distância!}
+{253}{LIEUT50}{Como eu disse. . .}
+{254}{lieut51}{Como eu te disse antes. . .}
+{255}{LIEUT52}{Por favor, ouça atentamente desta vez. Eu disse . . .}
+{256}{lieut53}{Eu te disse. . .}
+{257}{LIEUT54}{Você sabe, você me lembra uma barata que eu já possuía.
+ Eu o esmaguei porque estava aborrecido com seus barulhinhos apressados. Lembre-se disso.}
+{258}{LIEUT55}{Você é um pequeno ser humano chato, não é?
+ Não vou repeti-lo novamente.}
+{259}{LIEUT56}{A Unidade é o objetivo de todos os Super Mutantes. Através do FEV
+ vírus, vamos trazer toda a humanidade juntos em paz.}
+{260}{LIEUT57}{O vírus FEV foi descoberto pelo Mestre há muitos anos. isto
+ é o que nos faz os escolhidos. Mas você logo aprenderá isso, asseguro-lhe.}
+{261}{LIEUT58}{O Mestre é pai de todos nós.}
+{262}{LIEUT59}{Nada além de um dispositivo para promover nossos planos. Não importa, todos os humanos
+ será escolhido. . . ou morto.}
+{263}{LIEUT60}{O Vats é onde o FEV é armazenado, e onde você normal
+ Torne-se um de nós. Naturalmente, alguns morrem horríveis, excruciante
+ mortes dolorosas, mas bem, essas são as quebras.}
+{264}{LIEUT61}{Eles são humanos que não foram expostos à radiação. Eles tendem
+ se sair melhor nos tanques do que os outros. Você é um exemplo perfeito disso.}
+{265}{LIEUT62}{Eles foram construídos antes da guerra. Eles também são nossos principais
+ fonte de Prime Normals.}
+{266}{LIEUT63}{Morpheus. É muito divertido. Ele acha que ele é muito mais do que
+ apenas uma lesma que o Mestre recrutou para dirigir seu absurdo Filhos da Catedral.
+ Ah bem. Ele também será mergulhado no Vats e provavelmente morrerá horrivelmente
+ morte . . . Eu espero.}
+{267}{LIEUT64}{Isso não é importante no momento.}
+{268}{LIEUT65}{Essa questão é irrelevante para a Unidade.}
+{269}{LIEUT66}{Eu não vou sequer dignificar isso com uma resposta.}
+{270}{LIEUT45m}{Bem, estou bastante impressionado. Meus espiões me disseram que você era engenhoso
+ mas eles pareciam ter subestimado seus talentos. Guardas, capturem-no!}
+{271}{LIEUT39f}{Ah, eu admiro sua vontade. Guardas, leve-a embora e prepare-se
+ ela para o mergulho. Ela nos dirá onde está seu Cofre quando ela é uma de nós.}
+{272}{LIEUT39}{Eu admiro sua vontade. Guardas, leve-o para sua cela e
+ prepará-lo para o mergulho. Ele nos dirá onde está seu Cofre quando ele é um de nós.}
+
+
+# Lieutenant Tell-Me-Abouts generic responses
+{980}{LIEUT64}{Isso não é importante agora.}
+{981}{LIEUT65}{Essa questão é irrelevante para a Unidade.}
+{982}{LIEUT66}{Eu não vou sequer dignificar isso com uma resposta.}
+
+#
+# Lieutenant Tell-Me-Abouts
+#
+
+
+{1000}{}{Unidade}
+{1001}{}{FEV}
+{1002}{}{Master}
+{1003}{}{Cathedral}
+{1004}{}{Vats}
+{1005}{}{Normals}
+{1006}{}{Vaults}
+{1007}{}{Morpheus}
+{1008}{}{Virus}
+
+{1100}{LIEUT56}{A Unidade é o objetivo de todos os Super Mutantes. Através do vírus FEV, reuniremos toda a humanidade em paz.}
+{1101}{LIEUT57}{O vírus FEV foi descoberto pelo Mestre há muitos anos. É o que nos torna os escolhidos. Mas você logo aprenderá isso, asseguro-lhe.}
+{1102}{LIEUT58}{O Mestre é o pai de todos nós.}
+{1103}{LIEUT59}{Nada além de um dispositivo para promover nossos planos. Não importa, todos os humanos serão escolhidos ... ou mortos.}
+{1104}{LIEUT60}{O Vats é onde o FEV é armazenado, e onde você normal se torna um de nós. É claro que alguns morrem de forma horrível, dolorosamente dolorosa, mas bem, essas são as interrupções.}
+{1105}{LIEUT61}{Eles são humanos que não foram expostos à radiação. Eles tendem a se sair melhor no Vats do que outros. Você é um exemplo perfeito disso.}
+{1106}{LIEUT62}{Eles foram construídos antes da guerra. Eles também são nossa principal fonte de Prime Normals.}
+{1107}{LIEUT63}{Morpheus. É muito divertido. Ele acha que ele é muito mais do que uma lesma que o Mestre recrutou para liderar seu absurdo Filhos da Catedral. Ah bem. Ele também será mergulhado no Vats e provavelmente morrerá uma morte horrível ... espero.}
+{1108}{LIEUT57}{O vírus FEV foi descoberto pelo Mestre há muitos anos. É o que nos torna os escolhidos. Mas você logo aprenderá isso, asseguro-lhe.}
+{1109}{LIEUT65}{Essa questão é irrelevante para a Unidade.}
+{1110}{LIEUT66}{Eu nem vou dignificar isso com uma resposta.}
+{1111}{lieut45m}{Bem, estou bastante impressionado. Meus espiões me disseram que você era engenhoso, mas eles pareciam ter subestimado seus talentos. Guardas, capturem-no!}
+{1112}{lieut39f}{Ah, eu admiro sua vontade. Guardas, levá-lá embora e prepará-lá para o mergulho. Ela nos dirá onde está seu Cofre quando ela é uma de nós.}
+{1113}{lieut39m}{Eu admiro sua vontade. Guardas, leve-o para sua cela e prepare-o para o mergulho. Ele nos dirá onde está seu Cofre quando ele é um de nós.}

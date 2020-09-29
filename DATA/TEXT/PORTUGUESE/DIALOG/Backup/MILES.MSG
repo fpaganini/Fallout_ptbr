@@ -1,0 +1,87 @@
+{100}{}{Você vê Miles, o quimico de Adytum.}
+{101}{}{Você vê um homem magro em um jaleco branco.}
+{102}{}{Eu não acredito que nós nos encontramos. Eu sou Miles. O que eu posso fazer por você?}
+{103}{}{Eu estou apenas olhando por ai, obrigado.}
+{104}{}{Esse jaleco faz você parecer um cientista. O que você esta estudando?}
+{105}{}{Huh?}
+{106}{}{Bem, aprecie sua estada na nossa pequena cidade.}
+{107}{}{Eu sou um quimico. Na maior parte, eu faco primer e polvora pra que nos possamos re-usar
+ as brass casings das balas. Mas eu tambem dabble com alguns outros produtos quimicos.}
+{108}{}{Então você faz balas para Adytum.}
+{109}{}{Aonde você obtem o enxofre, potassio e outros quimicos?}
+{110}{}{Com quais outros quimicos você trabalha?}
+{111}{}{Obrigado pela informação.}
+{112}{}{Sim, embora o Smitty e o que realmente casts as balas.
+ eu apenas encho de novo as brass casings.}
+{113}{}{Mas os mercadores do Hub tiram um lucro de você e da cidade.}
+{114}{}{É incomum achar alguém que consiga apreciar a quimica! Mas pra responder
+ sua pergunta, alguns dos materiaiss que nos obtemos dos mercadores do Hub;
+ outras eu fabrico ou apenas acho na area. Por instancia, as pilhas de
+ fezes dos Brahmin são uma boa fonte, assim como algumas das strains
+ de fungos que eu cultivo.}
+{115}{}{Bem, eu estive tentando obter alguns acidos fortes pra que o Smitty
+ possa usa-los pra etching. Eu tambem estive tentando fazer alguns dyes
+ e tintas permanentes. Mas sem acesso a tintas naturais e difícil.}
+{116}{}{A qualquer hora.}
+{117}{}{Ah querido. Eu estou com medo de que eu não possa ajudar você.}
+{118}{}{Ola de novo. Eu posso ajudar você?}
+{119}{}{Sim, bem, nos temos que viver. Ja que as fazendas hidroponicas não estão
+ funcionando, nos temos que comprar comida dos mercadores, e balas são a unica
+ coisa que nos temos pra vender.}
+{120}{}{Eu poderia tentar obter as partes para consertar as fazendas hidropônicas.}
+{121}{}{Ah. Bem, isso e muito ruim.}
+{122}{}{Mesmo? Isso seria maravilhoso! Nós estamos apenas sem algumas partes, mas eu
+ eu tenho certeza que se você pudesse scrounge up os pedacos certos, nos poderiamos
+ ser auto-suficientes! O Sammael poderia ser capaz de dar alguma ajuda a você.}
+{123}{}{Você ainda não achou as partes?}
+{124}{}{Sim, aqui estão elas.}
+{125}{}{Ainda não, a quem você disse que eu deveria perguntar sobre elas?}
+{126}{}{Você precisara falar com o Sammael. Você geralmente achara ele numa
+ tenda lá pra baixo ao lado das fazendas durante o dia.}
+{127}{}{[Miles looks over as partes] Essas são elas, mas parece que o
+ Smitty vai ter que fazer um trabalhinho nelas. Você pode leva-las
+ para ele?}
+{128}{}{Eu tenho outras coisas com as quais lidar. Você não pode fazer você mesmo?}
+{129}{}{Com certeza, eu voltarei apos ele ter consertado elas.}
+{130}{}{Com certeza, eu aprecio que você as achou para nos.}
+{131}{}{É . . .}
+{132}{}{Não e um problema.}
+{133}{}{Ah. Eu quase esqueci. Aqui estão algumas coisas pelo seu trabalho.
+ [O Miles da algumas tampinhas e alguns stimpacks pra você.]}
+{134}{}{Você foi capaz de levar as partes para o Smitty?}
+{135}{}{[O Miles pega as partes consertadas de você] Parece que o Smitty fez um otimo
+ trabalho nestas. Obrigado pela ajuda, e aqui estão algumas coisas pelo seu trabalho.}
+{136}{}{[Miles da a você algumas tampinhas e alguns stimpacks.]}
+{137}{}{Se você voltar por este caminho, você poderia querer falar comigo e com o
+ Smitty. Nós poderiamos ser capazes de ajudar você com alguns ajustes em alguns
+ dos seus equipamentos. O Smitty pode fazer maravilhas com certas armas, e eu
+ posso ajudar com certos tipos de armadura.}
+{138}{}{Parece que você achou uma Power Armor. Eu ouvi de um processo quimico que
+ eu poderia usar pra endurecer a superficie da armadura. Contudo, eu estou em
+ falta de um pouco de informação que poderia me dar as ultimas poucas pistas
+ para a formula e reagentes necessarios. Eu ouvi que a bibliotecaria no Hub,
+ a Sra. Stapleton, tem alguns jornais e livros que poderiam ser de uso. Se
+ você puder pegar esses de lá, eu poderia provavelmente testar o processo
+ na sua armadura.}
+{139}{}{Soa bem. Eu irei falar com a Sra. Stapleton.}
+{140}{}{Eu tenho coisas melhores pra fazer do que fetch algo mais para você.}
+{141}{}{Bem, se você mudar de ideia vá ver a Sra. Stapleton
+ e então volte aqui.}
+{142}{}{Ainda não teve uma chance de ir até o Hub e visitar a Sra. Stapleton?}
+{143}{}{Sim, aqui estão os livros.}
+{144}{}{Ainda não.}
+{145}{}{[Miles pega os livros de você e comeca a folhear atraves deles.] Hmmmm.
+ Sim, hmmmm. [Ele resmunga pra si próprio por alguns minutos mais.]
+ Bem, eu acho que eu posso conseguir, mas levara um dia inteiro
+ pra liga acontecer. Isso e aceitavel?}
+{146}{}{Não e um problema.}
+{147}{}{Lamento, não tenho o tempo.}
+{148}{}{Bem, quando você tiver tempo volte e eu farei o processo
+ na sua armadura.}
+{149}{}{[Miles toma sua armadura de você.]}
+{150}{}{[Miles da sua armadura de volta pra você, ela parece brilhar um pouco mais
+ mais do que brilhava antes.] Bem, eu acho que funcionou! Espero que ajude você.}
+{151}{}{O que aconteceu com sua power armor? Eu só posso ajudar você se
+ você tem a power armor.}
+{152}{}{Bacana ver você, mas eu estou bem no meio de uma pesquisa.}
+{153}{}{Nada que eu possa fazer com esse tipo de armadura. Lamento.}

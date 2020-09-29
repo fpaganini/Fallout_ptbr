@@ -1,0 +1,22 @@
+{100}{}{A bomba de água esta consertada e funcionando bem.}
+{101}{}{A bomba de água não esta funcionando devido a uma bomba de vacuo quebrada.}
+{102}{}{A bomba de água não esta funcionando.}
+{103}{}{Um pedaço de maquinaria.}
+{104}{}{Esta bomba de água não esta funcionando devido a uma bomba de vacuo quebrada.}
+{105}{}{Ela poderia precisar de um novo fusivel.}
+{106}{}{A bomba de água não esta funcionando.}
+{107}{}{Você não pode reparar a bomba de água sem uma bomba de vacuo
+ substituta.}
+{108}{}{Você falha em reparar a bomba de água. Ela poderia precisar de um novo fusivel.}
+{109}{}{Você falha em reparar a bomba de água.}
+{110}{}{Esta bomba de água não esta funcionando devido a uma bomba de vacuo quebrada.}
+{111}{}{Esta bomba de água pode precisar de um novo fusivel.}
+{112}{}{A bomba de água não esta funcionando.}
+{113}{}{Você não nota nada incomum.}
+{114}{}{A bomba massiva luta para vir a vida apos você instalar com
+ sucesso as partes que faltavam.}
+{115}{}{Você de algum modo consegue destruir as partes enquanto corta sua
+ mao por 1 ponto de dano.}
+{116}{}{Você esta tendo dificuldade em fazer estas partes funcionarem.}
+{117}{}{Esta item não pode ser usado na bomba.}
+{118}{}{Você ganha 1000 pontos de experiência por consertar a bomba.}

@@ -1,0 +1,29 @@
+{100}{}{Você vê um fazendeiro abatido pelo tempo.}
+{101}{}{Bom dia.}
+{102}{}{Ola.}
+{103}{}{Hubip.}
+{104}{}{Ola de novo.}
+{105}{}{O que eu posso fazer por você?}
+{106}{}{Qual e seu nome?}
+{107}{}{O que você pode me dizer a respeito da sua vila?}
+{108}{}{O que você esta fazendo?}
+{109}{}{Nada, obrigado.}
+{110}{}{Eu sou chamado de Curtis.}
+{111}{}{Nossa vila e pequena, mas nos damos suporte a nos mesmo.
+ dos ataques dos saqueadores e do radscorpion ocasional,
+ nós não temos problemas. Aradesh e um bom lider.}
+{112}{}{Eu sou um fazendeiro. Nós irrigamos deserto muitos anos atras.
+ Embora a terra devastada e harsh, e possível cultivar
+ coisas com paciencia e tempo.}
+{113}{}{Entendo. Você parece estar indo muito bem.}
+{114}{}{Você tem todos os seus campos plantados agora? Você poderia
+ provavelmente fazer melhor com a rotacao das colheitas.}
+{115}{}{Rotacao das colheitas? O que é isso?}
+{116}{}{Deixa pra lá.}
+{117}{}{Você planta apenas alguns dos seus campos, permitindo aos outros obter de
+ volta alguns dos nutrientes que as plantas usaram. Você deixa os outros campos
+ se tornarem ferteis de novo apenas tilling up o que quer que cresca lá.}
+{118}{}{Huh. Nunca pensei nisso. Faz sentido, though. Boa ideia.}
+{119}{}{Eu posso fazer outra pergunta pra você?}
+{200}{}{Você ganha 500 pontos de experiência por ajudar a melhorar a
+ agricultura de Shady Sands.}

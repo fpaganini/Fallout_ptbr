@@ -1,40 +1,40 @@
-{100}{}{VocÃª vÃª Tolya, um bandido do deserto.}
-{101}{}{OlÃ¡, eu sou Tolya. Parece que vocÃª acabou de chegar
-Â o deserto. Quem Ã© VocÃª?}
+{100}{}{Você vê Tolya, um bandido do deserto.}
+{101}{}{Olá, eu sou Tolya. Parece que você acabou de chegar
+ o deserto. Quem é Você?}
 {102}{}{I'm}
-{103}{}{. O que vocÃª faz?}
-{104}{}{VocÃª pode me falar sobre o seu acampamento?}
+{103}{}{. O que você faz?}
+{104}{}{Você pode me falar sobre o seu acampamento?}
 {105}{}{Urgh?}
 {106}{}{Como um atacante, eu exploro as terras em busca de novos suprimentos. Houveram
-Â algumas cidades que foram agraciados pela nossa presenÃ§a.}
-{107}{}{Em outras palavras, vocÃª rouba das pessoas que visita.}
-{108}{}{Ei, isso Ã© muito bom da sua parte. Tenho certeza de que Garl estÃ¡ satisfeito com vocÃª.}
-{109}{}{Para quais lugares vocÃª jÃ¡ esteve?}
-{110}{}{Venha agora, Garl me diz para nunca falar com estranhos. VocÃª deve
-Â pelo menos esteja disposto a me dizer seu nome.}
-{111}{}{VocÃª estÃ¡ certo. Eu estou }
+ algumas cidades que foram agraciados pela nossa presença.}
+{107}{}{Em outras palavras, você rouba das pessoas que visita.}
+{108}{}{Ei, isso é muito bom da sua parte. Tenho certeza de que Garl está satisfeito com você.}
+{109}{}{Para quais lugares você já esteve?}
+{110}{}{Venha agora, Garl me diz para nunca falar com estranhos. Você deve
+ pelo menos esteja disposto a me dizer seu nome.}
+{111}{}{Você está certo. Eu estou }
 {112}{}{.
-Â VocÃª vai me dizer algo sobre sua banda?}
-{113}{}{Olhe seu idiota, eu nÃ£o tenho que dizer nada para vocÃª.}
-{114}{}{VÃ¡ embora, idiota.}
-{115}{}{NÃ³s nunca roubamos. NÃ³s apenas pegamos o extra que os outros tÃªm e redistribuÃ­mos
-Â entre os nossos famintos.}
-{116}{}{EntÃ£o, basicamente, vocÃª rouba.}
-{117}{}{Parece uma Ã³tima ideia.}
-{118}{}{Estive em muitos lugares nas terras devastadas. Os lugares mais prÃ³ximos que eu jÃ¡
-Â Estive em Shady Sands e Junktown. Eles sÃ£o muito gratos
-Â para as viagens que fazemos a eles.}
-{119}{}{VocÃª visita Shady Sands?}
-{120}{}{Onde estÃ¡ Junktown?}
-{121}{}{VocÃª estÃ¡ comeÃ§ando a ficar irritante agora. Acho que vou acabar
-Â esse pequeno problema.}
-{122}{}{NÃ³s somos o Khan e nosso lÃ­der Ã© Garl. NÃ³s somos os mais temidos
-Â grupo no terreno baldio, e com um bom motivo. NÃ³s levamos
-Â o que queremos e aqueles que ficam no nosso caminho pagam o preÃ§o.}
+ Você vai me dizer algo sobre sua banda?}
+{113}{}{Olhe seu idiota, eu não tenho que dizer nada para você.}
+{114}{}{Vá embora, idiota.}
+{115}{}{Nós nunca roubamos. Nós apenas pegamos o extra que os outros têm e redistribuímos
+ entre os nossos famintos.}
+{116}{}{Então, basicamente, você rouba.}
+{117}{}{Parece uma ótima ideia.}
+{118}{}{Estive em muitos lugares nas terras devastadas. Os lugares mais próximos que eu já
+ Estive em Shady Sands e Junktown. Eles são muito gratos
+ para as viagens que fazemos a eles.}
+{119}{}{Você visita Shady Sands?}
+{120}{}{Onde está Junktown?}
+{121}{}{Você está começando a ficar irritante agora. Acho que vou acabar
+ esse pequeno problema.}
+{122}{}{Nós somos o Khan e nosso líder é Garl. Nós somos os mais temidos
+ grupo no terreno baldio, e com um bom motivo. Nós levamos
+ o que queremos e aqueles que ficam no nosso caminho pagam o preço.}
 {123}{}{Sim, vamos a Shady Sands de tempos em tempos. Adiciona um pouco
-Â emoÃ§Ã£o para a vida de todos os interessados.}
-{124}{}{Ã‰ sobre Junktown?}
-{125}{}{Por que, Junktown Ã© um pouquinho ao sul daqui.
-Â VÃ¡ alguns quilÃ´metros, vire Ã  direita no cacto moribundo. VocÃª nÃ£o pode perder isso!}
-{126}{}{VocÃª tambÃ©m disse que visita Shady Sands.}
-{127}{}{NÃ£o me incomoda agora. Estou me preparando para o prÃ³ximo ataque.}
+ emoção para a vida de todos os interessados.}
+{124}{}{É sobre Junktown?}
+{125}{}{Por que, Junktown é um pouquinho ao sul daqui.
+ Vá alguns quilômetros, vire à direita no cacto moribundo. Você não pode perder isso!}
+{126}{}{Você também disse que visita Shady Sands.}
+{127}{}{Não me incomoda agora. Estou me preparando para o próximo ataque.}

@@ -1,0 +1,144 @@
+{100}{}{Você vê o Thorndyke.}
+{101}{}{Eu não uso minhas tecnicas pra curar meus inimigos. Saia daqui.}
+{102}{}{Eu ouvi sobre você. Você é um matador ruthless. Eu não curarei alguém que fez mal a tantos.
+ Saia daqui.}
+{103}{}{Senhor, Eu sou um curador. Você não tem necessidade dos meus serviços.}
+{104}{}{Madame, Eu sou um curador. Você não tem necessidade dos meus serviços.}
+{105}{}{Me fale sobre seu trabalho.}
+{106}{}{Este lugar é a respeito do que?}
+{107}{}{Quanto você cobra pelos seus serviços?}
+{108}{}{Talvez mais tarde...}
+{109}{}{Você sabe, eu poderia ajudar drum up os negócios. Eu sou muito bom em machucar pessoas!}
+{110}{}{Huh?}
+{111}{}{Senhor, Eu ja dei sua medicaçao. Eu não ouso administrar uma segunda dose agora.}
+{112}{}{Madame, Eu ja dei sua medicaçao. Eu não ouso administrar uma segunda dose agora.}
+{113}{}{Me fale sobre seu trabalho.}
+{114}{}{Este lugar é a respeito do que?}
+{115}{}{Essa é uma medicaçao bem triste. Talvez você devesse achar algo mais forte?}
+{116}{}{Lamento aborrecer você Doutor.}
+{117}{}{Você sabe, eu poderia ajudar drum up os negócios. Eu sou muito bom em machucar pessoas!}
+{118}{}{Huh?}
+{119}{}{Senhor, você esta ferido. Eu posso tratar você se você desejar. Eu sou um curador.}
+{120}{}{Madame, você esta ferida. Eu posso tratar você se você desejar. Eu sou um curador.}
+{121}{}{Me fale sobre seu trabalho.}
+{122}{}{Este lugar é a respeito do que?}
+{123}{}{Quanto?}
+{124}{}{Vá em frente.}
+{125}{}{Não, obrigado.}
+{126}{}{Eu odeio doutores!}
+{127}{}{Oooo! Owwwww!}
+{128}{}{Rarrrr!!!}
+{129}{}{Senhor, você esta seriamente ferido. Eu fortemente recomendo que você me permita tratar você. Eu sou um curador.}
+{130}{}{Madame, você esta seriamente ferida. Eu fortemente recomendo que você me permita tratar você. Eu sou um curador.}
+{131}{}{Me fale sobre seu trabalho.}
+{132}{}{Este lugar é a respeito do que?}
+{133}{}{Quanto?}
+{134}{}{Não, obrigado.}
+{135}{}{Eu odeio doutores!}
+{136}{}{Oooo! Owwwww!}
+{137}{}{Rarrrr!!!}
+{138}{}{A Chama Sagrada comanda que eu cure pessoas. A sabedoria dela e incontrovertible, então eu obedeço.
+ Eu ja aprendi muito sobre o mundo alem da Catedral.}
+{139}{}{Me fale sobre a Catedral.}
+{140}{}{O que você aprendeu?}
+{141}{}{Este lugar é a respeito do que?}
+{142}{}{Lamento aborrecer você Doutor.}
+{143}{}{Essa deve ser A chama!}
+{144}{}{Senhor, me perdoe, mas eu não tenho paciencia pra conversas longas. Há outras pessoas que podem instruir
+ você melhor do que eu. Por favor me de licença.}
+{145}{}{Madame, me perdoe, mas eu não tenho paciencia pra conversas longas. Há outras pessoas que podem instruir
+ você melhor do que eu. Por favor me de licença.}
+{146}{}{Para mim, senhor, e um lugar pra praticar o dom da cura. Pra outros, e um lugar aonde as almas stray
+ podem ser unidas e postas num caminho produtivo. Perdoe-me mas eu não tenho paciencia com conversas longas.
+ Há outras pessoas que podem instruir você melhor do que eu. Por favor me de licença.}
+{147}{}{Para mim, madame, e um lugar pra praticar o dom da cura. Pra outros, e um lugar aonde as almas stray
+ podem ser unidas e postas num caminho produtivo. Perdoe-me mas eu não tenho paciencia com conversas longas.
+ Há outras pessoas que podem instruir você melhor do que eu. Por favor me de licença.}
+{148}{}{Haviam alguns sabios entre os antigos que acreditavam que a virtude e sua propria recompensa. Essa e
+ minha crença tambem. Talvez se mais pessoas compartilhassem esta opiniao, não haveria necessidade da Chama
+ Sagrada. Perdoe-me, mas eu não tenho paciencia pra conversas longas. Há outras pessoas que podem instruir
+ você melhor do que eu. Por favor me de licença.}
+{149}{}{Tchau. Caso você precise de mim eu estarei aqui. Eu espero que você nunca precisara me encontrar de novo.}
+{150}{}{Isto e um serviço, não um negocio. É seu talento não é um do qual eu me gabaria a respeito. Agora por
+ favor me de licença.}
+{151}{}{Alias, seus ferimentos podem estar alem da minha habilidade de curar. É dito que a Chama Sagrada pode
+ guiar aqueles que estão amaldiçoados com estupidez e leva-los a redençao; eu orarei por você.}
+{152}{}{Você esta ferido. Poupe a conversa casual pra mais tarde, por favor deixe eu curar você.}
+{153}{}{Não muito de ter modos ao lidar com um paciente não é Doutor?}
+{154}{}{Eu realmente gostaria de saber sobre isto.}
+{155}{}{Quanto você cobra?}
+{156}{}{Vá em frente.}
+{157}{}{Não, obrigado.}
+{158}{}{Eu odeio doutores!}
+{159}{}{Eu sou um curador, não um emprestador de dinheiro. A Catedral vê minhas necessidades então eu poderia ver
+ as necessidades dos outros. Agora, deixe-me ver seus ferimentos.}
+{160}{}{Vá em frente.}
+{161}{}{Muito bom.}
+{162}{}{Esqueça. Se você parecesse mais com um pato você estaria nadando numa lagoa.}
+{163}{}{Eu odeio doutores!}
+{164}{}{Eu recomendo alguns dias de descanso na cama, não que alguém ja aceitou meu conselho. Agora,
+ saia daqui.}
+{165}{}{Escolha sua. Eu estarei aqui se você mudar de ideia.}
+{166}{}{[Sorri.] Pessoas terriveis. Eu simpatizo inteiramente. [O sorriso desaparece]
+ Eu estarei aqui se você mudar de ideia. Você esta desculpado.}
+{167}{}{Eu tomarei isso como um sim. Por favor não me mate.}
+{168}{}{OWWWWWW!! [SNARL!]}
+{169}{}{Pobre criatura. Uma fera com seu baixo intelecto seria um desafio mesmo para os poderes de cura da
+ Chama Sagrada. Saia daqui.}
+{170}{}{Eu tomarei isso como um "não". Você esta desculp... uh, você vai agora. Vai!}
+{171}{}{É um lugar muito bonito, embora um pouco cheio de gente estes dias. Esta longe ao sul de nos.
+ Nós fieis nos juntamos pra louvar nosso mestre, a Chama Sagrada e pra orar por paz e unidade. Agora,
+ se isso sera tudo...}
+{172}{}{Me fale sobre a paz é a unidade.}
+{173}{}{Aonde esta exatamente este lugar?}
+{174}{}{Então o que esta causando o excesso de gente?}
+{175}{}{Eu odeio doutores!}
+{176}{}{Eu aprendi que nos somos uma especie spiteful, violenta e estupida, não valorosos da Chama Sagrada. Eu vi ganancia
+ e mal por toda a parte. É a menos que nos façamos algo drastico nos seremos queimados pela Chama Sagrada de novo.}
+{177}{}{Me fale mais sobre a Chama Sagrada.}
+{178}{}{Sua religiao morde o osso amigo!}
+{179}{}{Quantas religioes prometeram que as pessoas queimarao?}
+{180}{}{Defina "drastico" pra mim.}
+{181}{}{Eu odeio doutores!}
+{182}{}{É de fato, mas há outros aqui que podem expound nas suas glorias de longe mais eloquentemente
+ do que eu. Tchau.}
+{183}{}{Você esta quebrando minha concentraçao! Você deseja ser curado ou não?}
+{184}{}{O que esta aborrecendo tanto você?}
+{185}{}{Você não parece ter muita concentraçao pra começar!}
+{186}{}{Vá em frente.}
+{187}{}{Não, obrigado.}
+{188}{}{Eu odeio doutores!}
+{189}{}{A paz e, como sempre, forjada por guerra e resistencia, como é a unidade.
+ Alias, meus dons serao necessarios nos dias que vem.}
+{190}{}{Me fale sobre a guerra.}
+{191}{}{A unidade vale o preço?}
+{192}{}{Por que todos acham que a guerra é a resposta para a paz?}
+{193}{}{Deixe-me dizer isto. Você esta servindo uma religiao que esta planejando morte e destruiçao e você não
+ tem um problema com isto? Você é um idiota!}
+{194}{}{O mundo antigo estava cheio de mal e decadencia. A Chama Sagrada o destruiu.
+ Nós podemos temer a Chama Sagrada ou adora-lá e tentar entende-lá. As Crianças
+ escolheram o entendimento. Embora nós não desejamos ver a Chama Sagrada
+ desencadeada de novo.}
+{195}{}{Como você sabe com o que parecia o mundo antigo?}
+{196}{}{Adorar? A bomba? O que é tão especial sobre uma bomba?}
+{197}{}{Se a Chama Sagrada e tão boa por que você não quer vê-lá o tempo todo?}
+{198}{}{Deixe-me entender isto. De modo a entender algo você tem
+ que adora-lo?}
+{199}{}{Vocês são loucos!}
+{200}{}{Quando eu peço a alguém pra fazer algo eu não espero ser ignorado. Se
+ você escolhe ignorar meus desejos eu posso ignorar seus ferimentos. Tchau.}
+{201}{}{Quem diabos você pensa que e? Saia da minha frente seu bandidinho!}
+{202}{}{Você inquiriu informaçao o bastante de mim por um dia. Tchau, senhor.}
+{203}{}{Você inquiriu informaçao o bastante de mim por um dia. Tchau, madame.}
+{204}{}{A Chama Sagrada é uma metafora para a morte do mundo antigo e o começo do novo.
+ É o poder da vida e da morte. O que é mais valoroso de adoraçao do que isso?}
+{205}{}{Minha arma tem o poder da vida e da morte mas você não vê um culto maluco adorando isso!}
+{206}{}{Talvez você esteja certo. Eu terei que pensar a respeito.}
+{207}{}{Uh, bem, há comida e sexo é uma arma grande... eu consig pensar em muitas coisas que eu prefiriria adorar!}
+{208}{}{Você não sai muito, sai?}
+{209}{}{Você não é muito convincente, Doutor.}
+{210}{}{Este debate se tornou cansativo. Por favor me deixe.}
+{211}{}{Eu ainda me lembro dos seus insultos, senhor. Eu não vou tratar você, você pode ir apodrecer no Glow.}
+{212}{}{Eu ainda me lembro dos seus insultos, madame. Eu não vou tratar você, você pode ir apodrecer no Glow.}
+{213}{}{A mae Jain deseja que ninguém fale com você. Tchau.}
+{214}{}{Idiota. Você não consegue ver que ele precisa de descanso?}

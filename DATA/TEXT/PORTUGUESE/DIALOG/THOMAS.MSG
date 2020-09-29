@@ -1,66 +1,66 @@
-{100}{}{VocÃª vÃª o irmÃ£o Thomas.}
+{100}{}{Você vê o irmão Thomas.}
 {101}{}{Certo, filhos. Hoje vamos passar por algumas artes marciais.}
-{102}{}{Em combate prÃ³ximo a tÃ©cnica que vocÃª usa depende do seu
-Â oponentes tamanho, alcance e rapidez.}
+{102}{}{Em combate próximo a técnica que você usa depende do seu
+ oponentes tamanho, alcance e rapidez.}
 {103}{}{Se for dada a oportunidade, teste seu oponente.}
-{104}{}{NÃ£o apresse o ataque}
+{104}{}{Não apresse o ataque}
 {105}{}{Tudo bem, meu pequeno, tente machucar os pobres e velhos mundos.}
 {106}{}{Ah!}
 {107}{}{Uhh.}
-{108}{}{Bem, isso Ã© tudo por agora, entÃ£o vamos rever.}
-{109}{}{VocÃª vÃª como ele perdeu o equilÃ­brio?}
-{110}{}{Overextending yourself deixa vocÃª aberto para um contra-ataque.}
-{111}{}{Quando vocÃª ataca, certifique-se de nÃ£o extrapolar.}
-{112}{}{Por que a superexcitaÃ§Ã£o Ã© tÃ£o ruim?}
-{113}{}{Se vocÃª tem a oportunidade de matar, vocÃª nÃ£o deveria ir atrÃ¡s disso?}
-{114}{}{Isso Ã© muito para arriscar sua vida.}
-{115}{}{Overextending deixa seu interior vulnerÃ¡vel a um contra-ataque
-Â e te desequilibra.}
-{116}{}{Um empurrÃ£ozinho te deixarÃ¡ na sua bunda.}
+{108}{}{Bem, isso é tudo por agora, então vamos rever.}
+{109}{}{Você vê como ele perdeu o equilíbrio?}
+{110}{}{Overextending yourself deixa você aberto para um contra-ataque.}
+{111}{}{Quando você ataca, certifique-se de não extrapolar.}
+{112}{}{Por que a superexcitação é tão ruim?}
+{113}{}{Se você tem a oportunidade de matar, você não deveria ir atrás disso?}
+{114}{}{Isso é muito para arriscar sua vida.}
+{115}{}{Overextending deixa seu interior vulnerável a um contra-ataque
+ e te desequilibra.}
+{116}{}{Um empurrãozinho te deixará na sua bunda.}
 {117}{}{Certo, vamos tentar outro jovem punk em gramps.}
-{118}{}{Vejamos se vocÃª aprendeu com o exemplo anterior.}
-{119}{}{Nada mal, esse Ãºltimo movimento quase me pegou.}
+{118}{}{Vejamos se você aprendeu com o exemplo anterior.}
+{119}{}{Nada mal, esse último movimento quase me pegou.}
 {120}{}{Tem certeza de que quer ser um Iniciado Escriba?}
-{121}{}{Esses talentos seriam uma pena desperdiÃ§ar.}
-{122}{}{Apenas manteremos vocÃª na reserva. OK?}
-{123}{}{Estou apenas brincando com vocÃª.}
-{124}{}{VocÃª pode querer reconsiderar uma carreira como Cavaleiro.}
+{121}{}{Esses talentos seriam uma pena desperdiçar.}
+{122}{}{Apenas manteremos você na reserva. OK?}
+{123}{}{Estou apenas brincando com você.}
+{124}{}{Você pode querer reconsiderar uma carreira como Cavaleiro.}
 {125}{}{Apenas pense nisso}
-{126}{}{Obrigado irmÃ£o Thomas.}
-{127}{}{Espero que todos tenham notado como o irmÃ£o Anthony nÃ£o extrapolou
-Â ele mesmo.}
-{128}{}{Ele tambÃ©m tentou usar o meu peso e volume contra mim.}
-{129}{}{As artes marciais tÃªm seus lados bons e ruins.}
-{130}{}{NÃ³s estaremos aprendendo muitos estilos diferentes para entender melhor
-Â seus pontos fortes e fracos.}
-{131}{}{Certo. Mostre-me o que vocÃª tem.}
-{132}{}{Muito bom. VocÃª durou muito mais tempo do que eu pensava.}
-{133}{}{VocÃª pode voltar para a linha.}
-{134}{}{Bem, eu espero que vocÃªs, crianÃ§as, tenham entendido o que estava acontecendo.}
-{135}{}{Ele Ã© um lutador natural.}
+{126}{}{Obrigado irmão Thomas.}
+{127}{}{Espero que todos tenham notado como o irmão Anthony não extrapolou
+ ele mesmo.}
+{128}{}{Ele também tentou usar o meu peso e volume contra mim.}
+{129}{}{As artes marciais têm seus lados bons e ruins.}
+{130}{}{Nós estaremos aprendendo muitos estilos diferentes para entender melhor
+ seus pontos fortes e fracos.}
+{131}{}{Certo. Mostre-me o que você tem.}
+{132}{}{Muito bom. Você durou muito mais tempo do que eu pensava.}
+{133}{}{Você pode voltar para a linha.}
+{134}{}{Bem, eu espero que vocês, crianças, tenham entendido o que estava acontecendo.}
+{135}{}{Ele é um lutador natural.}
 {136}{}{Vamos ter mais um.}
-{137}{}{Preste muita atenÃ§Ã£o ...}
+{137}{}{Preste muita atenção ...}
 {138}{}{e lembre-se sempre de acessar seus alvos.}
-{139}{}{Finja que o alvo estÃ¡ alguns centÃ­metros depois, onde o impacto Ã©
-Â serÃ¡.}
-{140}{}{Hum, irmÃ£o Thomas?}
-{141}{}{Sim, meu pequeno pedaÃ§o de barro.}
-{142}{}{NÃ£o deverÃ­amos fazer isso para chutar tambÃ©m?}
+{139}{}{Finja que o alvo está alguns centímetros depois, onde o impacto é
+ será.}
+{140}{}{Hum, irmão Thomas?}
+{141}{}{Sim, meu pequeno pedaço de barro.}
+{142}{}{Não deveríamos fazer isso para chutar também?}
 {143}{}{De, claro.}
-{144}{}{Muito bom. Acho que vamos deixar vocÃª viver.}
+{144}{}{Muito bom. Acho que vamos deixar você viver.}
 {145}{}{Brincadeira, tente sorrir de vez em quando.}
-{146}{}{Esta nÃ£o Ã© uma situaÃ§Ã£o de vida ou morte.}
-{147}{}{HaverÃ¡ muito tempo para isso mais tarde.}
-{200}{}{NÃ£o Ã© ruim.}
+{146}{}{Esta não é uma situação de vida ou morte.}
+{147}{}{Haverá muito tempo para isso mais tarde.}
+{200}{}{Não é ruim.}
 {201}{}{Isso foi muito bom.}
-{202}{}{Certo, vocÃª estÃ¡ aprendendo.}
+{202}{}{Certo, você está aprendendo.}
 {203}{}{Mantenha o foco.}
 {204}{}{Mantenha os olhos em mim.}
-{205}{}{NÃ£o extrapolar.}
+{205}{}{Não extrapolar.}
 {206}{}{Nunca desvie o olhar do seu oponente.}
 {207}{}{Trabalhe nos seus blocos.}
 {208}{}{Mantenha o seu centro de gravidade baixo}
 {209}{}{Excelente!}
 {210}{}{Forma perfeita.}
 {211}{}{Estou impressionado.}
-{300}{}{VocÃª ganha 500 pontos de experiÃªncia ao assistir ao treinamento.}
+{300}{}{Você ganha 500 pontos de experiência ao assistir ao treinamento.}

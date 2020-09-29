@@ -1,0 +1,3 @@
+{100}{}{Esta é a sala de reuniao da Vault. Este e um bom
+ lugar de reunicao para os andarilhos da Vault.
+ Estranhamente, ela não prende sua atenção como fazia no passado.}

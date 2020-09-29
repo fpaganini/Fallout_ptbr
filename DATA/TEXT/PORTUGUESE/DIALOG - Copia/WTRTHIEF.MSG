@@ -1,0 +1,35 @@
+{100}{}{Você vê um cidadao da vault sonolento.}
+{101}{}{Você vê um cidadao da vault agindo de maneira suspeita.}
+{102}{}{Ele parece estar evitando seu olhar.}
+{103}{}{Você localiza o ladrão de água!}
+{104}{}{Você ganha 500 pontos de experiência por acabar com a ameaca as rações de
+ água da vault matando o ladrão.}
+{105}{}{Obrigado por resolver o caso. Isto ajudara a moral um pouco.}
+{106}{}{Você ganha 1.000 pontos de experiência por capturar com sucesso o ladrão de água.}
+{107}{}{Ola, }
+{108}{}{.}
+{109}{}{Ola. O que você esta fazendo aqui desta vez?}
+{110}{}{Eaah!}
+{111}{}{Eu estava preocupado com a vault e tive um pesadelo. Eu não conseguia
+ voltar a dormir então eu pensei em dar uma caminhada pra relaxar.}
+{112}{}{Certo.}
+{113}{}{Você viu alguém mais por aqui?}
+{114}{}{Eu lamento, mas eu estou procurando pelo ladrão de água e eu
+ preciso ver o que você esta carregando.}
+{115}{}{Sim, um cara estava agindo de maneira suspeita lá atras perto da sala
+ de rações de água. Ele me assustou. Eu espero que ele não tenha me visto.}
+{116}{}{Como ele era?}
+{117}{}{Eu lamento, mas eu ainda preciso ver o que você esta carregando.}
+{118}{}{Eu não dei uma boa olhada nele porque eu corri.}
+{119}{}{Okay. Obrigado de qualquer maneira.}
+{120}{}{Com certeza. Eu não tenho nada a esconder.}
+{121}{}{[Revistar ele]}
+{122}{}{Não me toque! Eu não tenho nada. Agora me deixe em paz!}
+{123}{}{Okay. Lamento.}
+{124}{}{Você preferiria ter uma bala na sua cabeca?}
+{125}{}{Eu roubei a água. Eu lamento. Por favor não me machuque!}
+{126}{}{Eu vou levar você até o oficial.}
+{127}{}{Okay, okay. Eu não tenho nada a esconder. Procure você mesmo.}
+{128}{}{Bem, boa noite.}
+{129}{}{Boa noite.}
+{130}{}{Você não acha nada.}

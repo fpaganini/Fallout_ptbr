@@ -1,0 +1,41 @@
+{100}{}{O saqueador esta muito assustado com Garl pra falar mais com você.}
+{101}{}{Você vê um saqueador do deserto durao.}
+{102}{}{É o Mao-da-Morte. Ele retornou!}
+{103}{}{Desculpe-me, Mao-da-Morte. Eu lamento perturbar você.}
+{104}{}{Você voltou pra matar seu filho?}
+{105}{}{Aiyeee! Um fantasma!}
+{106}{}{Os mortos caminham de novo! O Mao-da-Morte retornou!}
+{107}{}{Bom trabalho.}
+{108}{}{Oi.}
+{109}{}{Eu estou esperando o Garl pra esmagar Shady Sands. Eu quero um pouco de saque.}
+{110}{}{Bem-vindo, amigo.}
+{111}{}{Eu estou feliz que você pode retornar pra uma visita.}
+{112}{}{A menos que você queira problema, melhor você por isso longe.}
+{113}{}{Você quer festejar? Se não, ponha essa arma longe.}
+{114}{}{Ah, um difícil, huh?}
+{115}{}{Garl Mao-da-Morte ama os guerreiros dele. Ponha essa coisa longe e vá falar com ele.}
+{116}{}{Então, você acha que você e durao, huh? Mexa comigo e nós dois descobriremos.}
+{117}{}{Eu não gosto do seu olhar.}
+{118}{}{Vai embora!}
+{119}{}{O que você quer?}
+{120}{}{Eu estou procurando por uma mulher chamada Tandi. Viu ela?}
+{121}{}{Nada. Apenas olhando por ai.}
+{122}{}{Huh?}
+{123}{}{Ah. Você deve estar procurando por um trabalho. Vá e veja o Garl na sala grande
+ e nós deixe em paz.}
+{124}{}{Então faca-o em outro lugar.}
+{125}{}{Não. Eu não vi ela. Por que você esta perguntando?}
+{126}{}{Nada. Apenas procurando uma amiga minha.}
+{127}{}{Há uma recompensa pela cabeca dela. Se eu puder mata-lá, eu posso conseguir um bom dinheiro.}
+{128}{}{Você esta mentindo. Aonde ela esta?}
+{129}{}{Ah, OK.}
+{130}{}{Mesmo? Como ela e?}
+{131}{}{Por volta de 1 metro e oitenta de altura. Loira. Ela e de Shady Sands.}
+{132}{}{Sim, ela esta aqui. Ela esta na casa grande. Você sabe, se nos dissermos ao Garl,
+ então ele vai querer um pedaço da recompensa. Você poderia querer pensar sobre isso.}
+{133}{}{Você não soa como se você quisesse faze-lo. Eu acho que você esta armando algo.
+ E se você esta dizendo a verdade, então eu bag a recompensa pra mim mesmo.}
+{134}{}{Eu . . . Eu não posso dizer mais ou o Garl me matara.}
+{135}{}{Me morda!}
+{136}{}{Eu não gosto do seu olhar. Melhor você ficar longe de mim.}
+{137}{}{O que? Vai embora!}

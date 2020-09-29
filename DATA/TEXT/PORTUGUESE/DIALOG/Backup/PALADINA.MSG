@@ -1,0 +1,16 @@
+{100}{}{Paladino}
+{101}{}{Fique afiado, Iniciado!}
+{102}{}{Parece bom. Mantenha o bom trabalho.}
+{103}{}{Ola Iniciado, tudo esta seguro.}
+{104}{}{Oi, Irmao }
+{105}{}{.}
+{106}{}{Lamento, eu não deveria estar falando com ninguém. Você sabe como é.}
+{107}{}{Você deveria falar com Talus ou Maxson se você tem quaisquer perguntas.}
+{108}{}{Vree esta na biblioteca durante o dia se você tem
+ perguntas técnicas.}
+{109}{}{Rhombus e meu idolo.}
+{110}{}{Eu desejo que eu estivesse treinando agora. Este dever de guarda
+ é uma perda de tempo.}
+{111}{}{Vree é minha idola.}
+{112}{}{Marco!}
+{113}{}{Polo!}

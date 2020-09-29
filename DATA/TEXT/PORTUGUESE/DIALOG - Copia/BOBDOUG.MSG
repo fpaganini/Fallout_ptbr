@@ -1,0 +1,5 @@
+{100}{}{Você vê um Cavaleiro.}
+{101}{}{A sala de aprendizado esta logo ali se e isso o que você esta
+ procurando.}
+{102}{}{Você esta perdido? A sala de aprendizado esta logo ali.}
+{103}{}{O Laboratorio Medico esta logo ali na esquina.}

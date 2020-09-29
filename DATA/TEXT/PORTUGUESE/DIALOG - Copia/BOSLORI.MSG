@@ -1,0 +1,111 @@
+{100}{}{Você vê a Doutora da Irmandade.}
+{102}{}{Olá, como eu posso ajudar você?}
+{103}{}{Eu estou ferido.}
+{104}{}{Eu estou irradiado.}
+{105}{}{Você faz operações?}
+{106}{}{Diga-me sobre as operações de novo.}
+{107}{}{Ug!}
+{108}{}{Você está ferido? Vamos ver...}
+{109}{}{Esse era o problema. Aí vai você. Seja mais cuidadoso lá fora.}
+{110}{}{Lamento, eu não posso ajudar você se você não me disser o que está errado.}
+{111}{}{ Você parece bem.}
+{112}{}{Lá vai você. Eu espero que você se sinta melhor.}
+{113}{}{Aí vai você, mas pare de entrar em brigas.}
+{114}{}{Isso deveria ter consertado você.}
+{115}{}{Bom como novo.}
+{116}{}{Tudo curado.}
+{117}{}{Radiação é muito perigosa; você deveria ter mais cuidado.}
+{118}{}{Eu não tenho tempo para jogos.}
+{119}{}{Mas claro, mas custa muito e consome tempo.}
+{120}{}{Detalhes?}
+{121}{}{Certo, deixa pra lá.}
+{122}{}{Well, I can help make you stronger, more perceptive, increase
+ your endurance, help improve your learning process, and
+ increase your dexterity. Which would you like more
+ information on? I can only do each operation once.}
+{126}{}{Certo, de qual operação você queria falar a respeito?}
+{127}{}{Força.}
+{128}{}{Percepção.}
+{129}{}{Resistência.}
+{130}{}{Inteligência.}
+{131}{}{Agilidade.}
+{132}{}{Deixa pra lá.}
+{133}{}{That's easy to do but there's a long recovery time. It only
+ costs 2000 scripts but takes 3 weeks to heal.}
+{135}{}{Eu a farei!}
+{136}{}{Eu passarei.}
+{137}{}{Now that's a difficult operation. It costs 4000 scripts, but
+ the recovery from this operation is only a week.}
+{139}{}{This one's not that difficult. It takes about a week and
+ will cost 3000 scripts.}
+{141}{}{This is the most complex and dangerous! It'll take 3 weeks
+ and costs 6000 scripts.}
+{143}{}{This isn't that tough of an operation but it is very costly
+ and time consuming. It will take 3 weeks and cost 5000
+ scripts.}
+{146}{}{Certo, aí vai você. Eu espero que o foam não irrite sua pele.}
+{147}{}{Eu lamento, mas eu não posso ajudar se você não tem o dinheiro.}
+{148}{}{Eu estou sorry, but you are an outsider. After you're in the
+ Brotherhood for ten years or só I'll be able to do the
+ operation for free, but we have expenses and you're not a
+ regular working member of the Brotherhood, yet.}
+{149}{}{Deixe-me saber quando você tem os fundos.}
+{153}{}{Você queria perguntar sobre outra?}
+{154}{}{Okay, here goes nothing . . . Just kidding. We can start right
+ away. (She gases you and you slowly slip away.)}
+{156}{}{So how are we feeling? (You can already tell the difference.)
+ You're quite a talkative person in your sleep. You're free
+ to go! Good day.}
+{159}{}{Out with the old and in with the new . . . (You drop like a rock
+ into an abyss.)}
+{161}{}{You look exactly the same, but how do you feel? (All of your
+ senses feel much sharper.) Well, you're taking up valuable
+ bed space. Get going!}
+{164}{}{I hope you have a heart . . . (She winks at you as you fall
+ under.)}
+{166}{}{Well, you look a little bulkier. (You feel great!) Well, let
+ me know if there are any problems.}
+{168}{}{Now where's the brain again? What's this thing supposed to do?
+ (You try to fight the drugs but it's a losing battle.)}
+{170}{}{Well, it looks like I got it all back in and everything's
+ running great. (It's as if the pathways of your thoughts
+ have direct links to everywhere in your head and your
+ memories are much crisper.) Take it easy.}
+{174}{}{All right, let's give it a spin. (The drugs, are só . . .
+ friendly. Your slumber comes quickly.)}
+{176}{}{Okay you're ready for duty. (You flex your muscles and can
+ feel the increased speed and control.) All I ask of you is
+ to please not damage my masterpiece.}
+{200}{}{Você vê o assistente da Doutora.}
+{279}{}{Você deveria ver a Doutora.}
+{280}{}{Ela é a Doutora, não eu.}
+{281}{}{Eu estou apenas em treinamento.}
+{282}{}{Eu não posso ajudar você, oficialmente.}
+{283}{}{Lori é a Doutora.}
+{284}{}{Você tem que perguntar a Doutora.}
+{285}{}{Não se preocupe, ela é apenas uma brincalhona.}
+{286}{}{Ela apenas gosta de provocar, não se preocupe.}
+{300}{}{Eu lamento, mas esta operação não ajudará você.}
+
+{400}{}{Hmmm. If anyone here needs an Intelligence Enhancement, it
+ would be you. In fact, I'll do it for 3000 caps instead of the 6000
+ you would normally need for the operation. I can't guarantee that it
+ will help you, but I think it would be worth a try. It will also
+ take 3 weeks of recovery time. You probably don't understand this
+ though, do you?}
+{401}{}{Mim querer esperto.}
+{402}{}{Não querer.}
+{403}{}{Você está irradiado ou ferido? Eu ajudarei você se eu puder.}
+{404}{}{mIm fErido.}
+{405}{}{cAbelo caiR.}
+{406}{}{Não.}
+{407}{}{Certo. Você está acordado. Vamos ver aqui. Você se sente mais esperto?}
+{408}{}{Hunh?}
+{409}{}{Sim!}
+{410}{}{Damn! It was a failure. Well I didn't have much to work with.
+ Sorry, you're just an idiot and will most likely remain an idiot. We
+ can only do the operation once, sorry to say.}
+{411}{}{It was a success! I was able to increase your IQ to an acceptable
+ level. How does it feel to have half a brain?}
+{412}{}{Está ótimo. Obrigado Dra. Tchau.}
+{413}{}{Aí vai você. Tudo melhor.}

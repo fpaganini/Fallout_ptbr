@@ -1,0 +1,161 @@
+{100}{}{Você vê o Rhombus.}
+{101}{}{Me fale sobre você.}
+{102}{}{Você pode me dar um pouco da historia por tras da Irmandade?}
+{103}{}{Ouviu quaisquer bons rumores?}
+{104}{}{O que você pode me dizer sobre as areas ao redor?}
+{105}{Rhom1}{Eu posso ajudar você?}
+{106}{}{Eu posso fazer a você algumas perguntas?}
+{107}{}{Você não parece muito um lutador.}
+{108}{}{Uhhh?}
+{109}{Rhom2}{Sim.}
+{110}{Rhom3}{Pup insolente. Desculpe-se agora e você não sera machucado.}
+{111}{}{Eu estava tentando fazer uma piada. Eu lamento muito.}
+{112}{}{O que, por você?}
+{113}{Rhom4}{O que você quer?}
+{114}{}{Eu posso fazer algumas perguntas?}
+{115}{}{Apenas quao covarde você e?}
+{116}{Rhom5}{Você é uma desgraça para a Irmandade. Eu ensinarei modos pra você.}
+{117}{Rhom6}{Eu não desperdiçarei mais tempo com você.}
+{118}{Rhom7}{Eu sou Rhombus, chefe dos Paladinos. Eu treino aqueles que querem aprender.}
+{119}{}{Certo, você pode me ensinar algumas coisas?}
+{120}{}{É isso? Isso e sua vida?}
+{121}{}{O que os Paladinos fazem?}
+{122}{Rhom8}{Coisas? Eu poderia ensinar a você como lutar... se você tivesse qualquer habilidade. Mas o Elder Supremo decretou nenhum treinamento de novos recrutas até que a ameaça de invasao passe.}
+{123}{}{Que ameaça?}
+{124}{}{Por que ele parou o treinamento?}
+{125}{}{Eu poderia facilmente derrotar você em batalha.}
+{126}{Rhom9}{Não cabe a mim responder. Veja o Elder Supremo se você desejar.}
+{127}{}{Ah vamos, por favor?}
+{128}{}{Tudo certo, bom. Eu posso fazer a você mais algumas perguntas?}
+{129}{Rhom10}{Há rumores de um estranho exercito se unindo. Eu não direi mais.}
+{130}{}{Ah, vamos, por favor?}
+{131}{}{Eu posso fazer a você mais algumas perguntas?}
+{132}{Rhom11}{ Não.}
+{133}{}{Ah vamos, por favor?}
+{134}{}{Certo. Eu posso fazer a você mais algumas perguntas?}
+{135}{Rhom12}{Sim. Isso e tudo que precisa haver.}
+{136}{}{Sua vida soa realmente vazia.}
+{137}{}{Mesmo?}
+{138}{Rhom13}{Você não entende o que é ser um Paladino. Muito ruim.}
+{139}{}{Você acha que eu poderia me tornar um Paladino?}
+{140}{}{Ser um cavaleiro soa estúpido.}
+{141}{}{Não, eu creio que não. Eu posso mais perguntas pra você?}
+{142}{Rhom14}{Possivelmente. Quando o exercito invasor for conquistado, volte pra ser treinado.}
+{143}{}{Eu acho que eu farei isso, obrigado.}
+{144}{}{Por você? Eu poderia limpar o chao com você!}
+{145}{Rhom15}{Há algo mais?}
+{146}{}{Sim. Eu posso fazer a você mais algumas perguntas?}
+{147}{}{Não, obrigado.}
+{148}{Rhom16}{Tchau então.}
+{149}{Rhom17}{Demora muito tempo. Eu gasto meu tempo melhorando aquelas ja treinadas.}
+{150}{}{Soa muito entediante.}
+{151}{}{É isso? Essa e sua vida?}
+{152}{}{Darn. Eu posso fazer mais algumas perguntas pra você?}
+{153}{Rhom18}{Há há há! Vamos ver.}
+{154}{Rhom19}{Os Escribas copiam os planos para as armas e os Cavaleiros fazem elas. Os Paladinos protegem a Irmandade de danos.}
+{155}{}{Que tipo de dano pode haver?}
+{156}{}{Deus, isso soa entediante.}
+{157}{Rhom20}{Muitos cobiçam nossa tecnologia. Nós temos pelo menos 4 ataques por semana, de saqueadores a pessoas comuns que querem roubar o que nos temos.}
+{158}{}{Ah. Eu posso fazer a você mais algumas perguntas?}
+{159}{Rhom21}{Fale com a Vree na biblioteca principal.}
+{160}{Rhom22}{Eu não alimento rumores.}
+{161}{}{Ah vamos, apenas um? Por favor?}
+{162}{}{Certo.}
+{163}{Rhom23}{The Hub and the Boneyard are south, mountains are east, and desolate wasteland north. Whoever goes there never returns.}
+{164}{Rhom24}{Ponha isso de volta agora!}
+{165}{Rhom25}{Isso o que nos fazemos com criminosos...}
+{166}{Rhom26}{Pare com isso!}
+{167}{Rhom27}{Então você e um ladrao? Eu mostrarei o que nos fazemos com ladroes...}
+{168}{}{Não! Espere! Eu posso explicar!}
+{169}{}{Vá em frente. De seu melhor tiro.}
+{170}{Rhom28}{Tudo certo, explique-se, Iniciado.}
+{171}{}{Eu estava apenas olhando por ai!}
+{172}{}{Eu lamento. Eu não sabia que que este era seu quarto.}
+{173}{Rhom29}{Então saia, e eu esquecerei este pequeno incidente.}
+{174}{}{Certo, obrigado.}
+{175}{}{Bem certo que você o fara.}
+{176}{Rhom30}{Você mente, Iniciado! Assim e como nos lidamos com ladroes...}
+{177}{Rhom32}{Você e ou estúpido ou faz piada de mim. De qualquer mod, eu não desperdiçarei meu tempo.}
+{178}{Rhom33}{Fale com o Talus, meu segundo-em-comando. Ele pode dizer mais a você sobre isso.}
+{179}{Rhom34}{Eu disse...}
+{180}{Rhom35}{Como eu acabei de dizer a você...}
+{181}{Rhom36}{Eu não repetirei de novo.}
+{182}{Rhom37}{Você não ouviu? Eu não direi de novo!}
+{183}{Rhom38}{Ela é a Escriba Chefe. Você pode acha-lá na biblioteca.}
+{184}{Rhom39b}{Esse sou eu.}
+{185}{}{Talus e meu segundo-em-comando.}
+{186}{Rhom40}{Ah, O General Maxson era o melhor Paladino Chefe. Quando ele assumiu como Elder Supremo, Eu me tornei Chefe dos Paladinos.}
+{187}{Rhom41}{Eles copiam os documentos das armas e vem com novas ideias. O que eles pesquisam, os Caveleiros fazem.}
+{188}{Rhom42}{Eles são os criadores das armas.}
+{189}{Rhom43}{O Hub esta ao sul. Nós negociamos com eles.}
+{190}{Rhom44}{Pergunte a Vree. Ela deve saber.}
+{191}{Rhom45}{Eu não estou autorizado a discutir isso. Fale com o Elder Supremo.}
+{192}{Rhom46}{A Boneyard esta bem longe ao sul. Você só achara violência lá.}
+{193}{Rhom47}{Eu não sei disso.}
+{194}{Rhom48}{Eu nunca ouvi sobre isso.}
+{195}{Rhom49}{Eu não tenho conhecimento de tal coisa.}
+{200}{}{Eu sou novo aqui e eu não conheço meu caminho.}
+{201}{}{Eu não preciso explicar nada pra você, aberraçao.}
+{202}{}{Obrigado. Tchau.}
+{203}{}{Vai pro inferno.}
+{204}{}{A porta range quando você tenta abri-lá.}
+{205}{}{Sua tecnica permite a você roubar silenciosamente. Você não faz nenhum
+ som enquanto abre o armario.}
+{206}{}{Quem esta ai?}
+{207}{}{Você ficou startled e deixou cair seu saque.}
+{208}{}{Este armario não esta trancado.}
+{209}{}{Fique longe dos meus quarters!}
+{210}{}{Eu sou inocente!}
+
+
+
+{980}{Rhom47}{Eu não sei disso.}
+{981}{Rhom48}{Eu nunca ouvi sobre isso.}
+{982}{Rhom49}{Eu não tenho conhecimento de tal coisa.}
+
+#
+# Rhombus Tell-Me-Abouts
+#
+
+
+{1000}{}{Vree}
+{1001}{}{Rhombus}
+{1002}{}{Talus}
+{1003}{}{Elder}
+{1004}{}{Escribas}
+{1005}{}{Cavaleiros}
+{1006}{}{Hub}
+{1007}{}{Discos}
+{1008}{}{Exercito}
+{1009}{}{Boneyard}
+{1010}{}{Paladinos}
+{1011}{}{Mestre}
+{1012}{}{Guerra}
+{1013}{}{Exodo}
+{1014}{}{Exercito Estranho}
+{1015}{}{Mercadores}
+{1016}{}{Caravanas Desaparecidas}
+{1017}{}{Crianças da Catedral}
+{1018}{}{Iniciados}
+{1019}{}{Chip}
+
+{1100}{Rhom38}{Ela é a Escriba Chefe. Você pode acha-lá na biblioteca.}
+{1101}{Rhom39b}{Esse sou eu.}
+{1102}{Rhom39a}{Talus e meu segundo-em-comando.}
+{1103}{Rhom40}{Ah, O General Maxson era o melhor Paladino Chefe. Quando ele assumiu como Elder Supremo, Eu me tornei Chefe dos Paladinos.}
+{1104}{Rhom41}{Eles copiam os documentos das armas e vem com novas ideias. O que eles pesquisam, os Caveleiros fazem.}
+{1105}{Rhom42}{Eles são os criadores das armas.}
+{1106}{Rhom23}{O Hub é a Boneyard estão ao sul, as montanhas estão a leste é a terra devastada ao norte. Quem quer que vá lá nunca retorna.}
+{1107}{Rhom44}{Pergunte a Vree. Ela deve saber.}
+{1108}{Rhom45}{Eu não estou autorizado a discutir isso. Fale com o Elder Supremo.}
+{1109}{Rhom46}{A Boneyard esta bem longe ao sul. Você só achara violência lá.}
+{1110}{Rhom13}{Você não entende o que é ser um Paladino. Muito ruim.}
+{1111}{Rhom44}{Pergunte a Vree. Ela deve saber.}
+{1112}{Rhom21}{Fale com a Vree na biblioteca principal.}
+{1113}{Rhom21}{Fale com a Vree na biblioteca principal.}
+{1114}{Rhom10}{Há rumores de um estranho exercito se unindo. Eu não direi mais.}
+{1115}{Rhom21}{Fale com a Vree na biblioteca principal.}
+{1116}{Rhom47}{Eu não sei disso.}
+{1117}{Rhom49}{Eu não tenho conhecimento de tal coisa.}
+{1118}{Rhom21}{Fale com a Vree na biblioteca principal.}
+{1119}{Rhom49}{Eu não tenho conhecimento de tal coisa.}

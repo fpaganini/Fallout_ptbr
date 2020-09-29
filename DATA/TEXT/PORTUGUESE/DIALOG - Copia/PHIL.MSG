@@ -1,0 +1,50 @@
+{100}{}{Você vê um camponês.}
+{101}{}{Você vê Phil.}
+{102}{}{Não é o meu cachorro!}
+{103}{}{Porra, atire nessa fera!}
+{104}{}{Eu não confiaria nessa besta, se eu fosse você. Essa coisa é um assassino.}
+{105}{}{Senhor}
+{106}{}{Senhora,}
+{107}{}{Eu ficaria muito feliz se você fosse se livrar desse maldito cachorro.}
+{108}{}{Por quê?}
+{109}{}{Nah, eu lido apenas com coisas importantes.}
+{110}{}{De onde veio isso?}
+{111}{}{Hnnn.}
+{112}{}{Talvez você possa falar até a morte.}
+{113}{}{Não nos deixará voltar para a nossa casa, é por isso.}
+{114}{}{Okay}
+{115}{}{Não é o seu cachorro?}
+{116}{}{Era o "animal de estimação" de um viajante. Quando o viajante morreu, este
+ cão maldito apenas largou sua bunda peluda na minha porta
+ e não sai. Está lá há dias.}
+{117}{}{Ah.}
+{118}{}{Quem foi este viajante?}
+{119}{}{Como era o viajante?}
+{120}{}{Eu não sei. Um cara. Ele veio do leste, ele disse.
+ Como qualquer um poderia passar pelas terras mortas a leste.
+ Ele entrou em conflito com o Gizmo, tentando interferir com o Gizmo
+ o negócio.}
+{121}{}{Então, Gizmo mandou dois rapazes espancá-lo e jogá-lo de volta
+ o teto do cassino. O viajante quebrou seu pescoço damnfool e
+ morreu. O cachorro estava chateado.}
+{122}{}{Como era o viajante?}
+{123}{}{Ah, o cara era alto, de cabelos escuros e um pouco grisalho
+ em torno das bordas. Ele estava todo vestido de couro preto,
+ como essa é uma boa ideia no deserto, e carregada
+ uma espingarda.}
+{124}{}{Ele tinha algum sotaque engraçado. O cachorro era seu companheiro constante
+ seguiu-o em todos os lugares.}
+{125}{}{Aprecie as fofocas.}
+{126}{}{Eu odeio esse cachorro.}
+
+{127}{}{Obrigado pela ajuda.}
+
+# For PEASVICT.SSL script mainly
+# KSW 9/9/97
+
+{128}{}{Ajude-nos!}
+{129}{}{Estamos sendo atacados!}
+{130}{}{Obrigado por nos ajudar a defender contra aqueles malditos invasores bêbados. Por nos ajudar, nós lhes concedemos}
+{131}{}{caps.}
+{132}{}{Agradecemos sua ajuda! Nós agrupamos estes}
+{133}{}{ se une e os concede a você para nos ajudar a nos defender contra essa escória.}

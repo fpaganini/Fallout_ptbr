@@ -1,0 +1,37 @@
+{100}{}{Você vê um tecnico. Ele esta trabalhando diligentemente pela Unidade e pelo Mestre.}
+{101}{}{Nós fazemos o trabalho do Mestre.}
+{102}{}{Nós fazemos o trabalho do Mestre, e nós não podemos ser interrompidos!}
+{103}{}{Mestre! Um intruso!}
+{200}{}{Você vê o Viscious, um lider super mutante. Ele parece mau.}
+{201}{}{Você vê um super mutante de aparencia ma.}
+{202}{}{A vontade do Mestre prevalece. Quais noticias você tem pra mim?}
+{203}{}{Hum!}
+{204}{}{Uh, a guerra vai bem.}
+{205}{}{Eu tenho uma mensagem pro Mestre do seu Tenente. Eu devo ver o
+ Mestre agora.}
+{206}{}{A unica noticia que eu tenho e que você esta pra ser tornar fertilizante.}
+{207}{}{Um intruso!}
+{208}{}{Suas maneiras traem você, intruso. Eu encerrarei a ameaca aqui.}
+{209}{}{Você não pode estar falando serio. De fato, você deve estar mentindo.}
+{210}{}{Uh, sim, então o que?}
+{211}{}{Eu não estou. O Tenente não pode confiar esta mensagem ao metodo comum.
+ Eu tenho que ver o Mestre agora mesmo! Não há tempo a desperidicar!}
+{212}{}{Então use a porta, e cuidado com o Corredor. Eu assumo que você tenha sua
+ protecao no lugar?}
+{213}{}{Claro. Obrigado. A Unidade prevalece.}
+{214}{}{Não, não realmente. Eu deveria?}
+{215}{}{Claro! Você não pode esperar passar pelo Corredor sem ele. O que você
+ fez com seu nulificador?}
+{216}{}{Eu o deixei nos meus outros mantos.}
+{217}{}{O Tenente não teve tempo de me dar um.}
+{218}{}{Ah, humor, eu gosto disso. [pausa] Eu não tenho, obviamente. Você precisa
+ ir pegar um dos braindrains no segundo nível. A Unidade prevalece.}
+{219}{}{Então ele era um tolo, ou você não é o que parece ser. O que e?}
+{220}{}{Obviamente, ele e um tolo.}
+{221}{}{A segunda parte.}
+{222}{}{Mova-se sozinho e continue sua missoa. Eu não tenho tempo pra você.}
+{300}{}{Há uma pequena pilha de guimbas de cigarro no canto da sala.}
+{301}{}{O super mutante caminha pra um lado da sala, e acende um
+ cigarro.}
+{302}{}{Você vê um super mutante com um cigarro pendurado na boca dele.}
+{303}{}{O super mutante flicks a guimba no canto.}

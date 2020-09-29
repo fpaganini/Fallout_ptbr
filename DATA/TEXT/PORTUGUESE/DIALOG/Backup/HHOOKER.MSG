@@ -1,0 +1,168 @@
+# These are various People combined into one file.
+# They are split into the groups of what they are.
+
+################
+# Flat monotonic people. Nothing interesting. they are apathic.
+{106}{}{Você vê uma mulher.}
+{107}{}{Você vê um homem.}
+
+################
+# The drunk has slurred speech. he's been hitting the booze a bit too hard
+# and is having problems standing and remembering his name
+
+{100}{}{Você vê um bebado.}
+{110}{}{Deixe-me com as minhas lamentações.}
+{111}{}{Você e meu melhor amigo de todos.}
+# best friend (slurred)
+
+{112}{}{Por que você esta... (hic) onde eu estou?}
+{113}{}{Quem é você?}
+{114}{}{Eu conheco você?}
+{115}{}{Eu me sinto um pouco queasy.}
+{116}{}{Bebidas estão em mim, eu quero dizer, você.}
+{117}{}{Por que há dois de você?}
+{118}{}{Fique de pe camarada!}
+# laddy is male
+
+{119}{}{Fique de pe garota!}
+
+#################
+# Customer and gamble are both genders. Consider male for translation. They are agitated, yet happy to
+# be spending all their money. Consider the people in Las Vegas gambling away their money.
+
+{101}{}{Você vê um fregues.}
+{104}{}{Você vê um jogador.}
+{120}{}{Desapareca skag!}
+# == "Get out of here loser"
+
+{121}{}{Você esta diminuindo a classe deste lugar.}
+# == "you are dropping the class of this place"
+
+{122}{}{Vá emobra, você me dara azar!}
+# == "get away. you will bring me bad luck"
+
+{123}{}{Não quebre minha concentracao.}
+{124}{}{Eu ainda derrotarei este maldito jogo!}
+{125}{}{Você e bom nisto?}
+{126}{}{Você viu aquilo? Aquilo foi impossivel!}
+# referring to dice roll
+
+{127}{}{Eu acho que eles estão trapaceando.}
+# they is referring to the owners of the Maltese Falcon, the drinking/gambling establishment
+# They is Male
+
+{128}{}{Agora esses são bons odds.}
+{129}{}{É uma coisa certa.}
+# referring to a bet.
+
+{130}{}{O que? Como eu poderia ter perdido?}
+{131}{}{Esta mesa esta com azar!}
+# == "this table is cursed/unlucky"
+
+{132}{}{Eu estou ocupado.}
+{133}{}{Você não consegue ver que eu estou jogando um jogo aqui?}
+{134}{}{Aposte ou suma.}
+
+#################
+# This is a sleazy prostitute who will have sex with anyone who will give
+# her $20. She will be talking a sexy, but lewd voice.
+
+{102}{}{Você vê uma mulher muito bonita.}
+{105}{}{Você vê uma mulher, ela parece estar ocupada.}
+{135}{}{Deixe-nos em paz ou eu chamarei os guardas.}
+{136}{}{Cuidado, eu sou uma amiga proxima do Agente Fry.}
+{137}{}{Você se importa?}
+{138}{}{Sem peep shows!}
+# == "I don't allow people to watch me having sex with someone else."
+
+{139}{}{Eu não faco grupais.}
+# == "I don't have sex with more than one person."
+
+{140}{}{Eu estou muito cansada para outra transa.}
+# referring to having another round of sex.
+
+{141}{}{Você esta sonhando amigo, desapareca!}
+{142}{}{Saia!}
+{143}{}{O que diabos você acha que você esta fazendo?}
+{144}{}{Melhore suas maneiras!}
+{145}{}{Eu chamarei os policiais!}
+{146}{}{Nem mesmo pense nisso!}
+{147}{}{Saia!}
+{148}{}{Desapareca!}
+{149}{}{O que você esta olhando?}
+{150}{}{Você se importa?}
+
+#####################
+# This is a customer for the Hooker. Gender is male. He is aburpt and is really not
+# interested in the player, only having sex with the prostitute
+
+{109}{}{Você vê um mercenario.}
+{151}{}{Saia do nosso quarto!}
+{152}{}{Saia!}
+{153}{}{Você e parte do combo?}
+# == "are you part of the group of three/threesome/orgy"
+
+{154}{}{Desapareca pervertido!}
+# == "get out of here, perverse person"
+
+{155}{}{Qual e o seu problema?}
+{156}{}{Desapareca antes que eu fique zangado.}
+# "Beat it" == "get out of here"
+
+{157}{}{Pegue a sua propria.}
+# ==  "get your own hooker"
+
+{158}{}{Ela é minha.}
+# "She" is referring to the hooker.
+
+######################
+# Gambler is Male. The gambler has lost a lot of money and is really upset about
+# having done só.
+
+{108}{}{Você vê um jogador muito aborrecido.}
+{159}{}{Maldicao!}
+{160}{}{Você esta trapaceando?}
+# referring to the player
+
+{161}{}{Isso deveria ter sido meu.}
+# someone else won a bet, this person thinks they should have won instead
+
+{162}{}{Quase!}
+# nearly got his number on the roulette wheel
+
+{163}{}{Perdi por pouco.}
+# pulled up a 19 to the dealers 20 in blackjack
+
+{164}{}{Quais são as regras de novo?}
+# in referrence to a gambling game
+
+{165}{}{Eu costumava ser bom nisto.}
+# in referrence to a gambling game
+
+{166}{}{Obrigado por nada.}
+{167}{}{Eu não acredito!}
+{168}{}{Eu quis fazer isso.}
+# he meant to lose.
+
+######################
+# This is the dealer/roulette shooter for the casino. Monotonic voice and trying to
+# pretend to be happy about being here.
+
+{103}{}{Você vê um homem de aparencia estranha.}
+{169}{}{Coloquem suas apostas.}
+{170}{}{Mantenha suas mãos longe senhor.}
+# in referrence to taking money from the table while the bet is going on
+
+{171}{}{Vencedor!}
+{172}{}{Lamento pessoal, talvez da proxima vez.}
+# maybe next time someone can win
+
+{173}{}{Outro vencedor!}
+{174}{}{Maos fora!}
+# don't take the dice off the table while someone is rolling them
+
+{175}{}{Sua vez senhor.}
+# your turn to bet
+{176}{}{Lamento, essa é uma aposta invalida.}
+{177}{}{Isso e tudo.}
+{178}{}{Alguém mais?}

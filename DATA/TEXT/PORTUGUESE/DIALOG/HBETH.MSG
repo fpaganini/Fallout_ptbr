@@ -1,143 +1,143 @@
 # Beth is female. She speaks with a normal accent. She is a friendly person
 # who is mostly interested in selling equipment and information.
-{100}{}{VocÃª vÃª a Beth, dona da Loja de Armas.}
-{101}{}{Oi. Como eu posso ajudar vocÃª?}
-{102}{}{Eu posso fazer algumas perguntas pra vocÃª?}
-{103}{}{Eu poderia fazer mais algumas perguntas pra vocÃª?}
+{100}{}{Você vê a Beth, dona da Loja de Armas.}
+{101}{}{Oi. Como eu posso ajudar você?}
+{102}{}{Eu posso fazer algumas perguntas pra você?}
+{103}{}{Eu poderia fazer mais algumas perguntas pra você?}
 {104}{}{Eu compro comprar uma coisa.}
 {105}{}{Eu tenho algo pra vender.}
-{106}{}{Como alguÃ©m faz dinheiro por aqui?}
+{106}{}{Como alguém faz dinheiro por aqui?}
 {107}{}{Nada. Tchau.}
 {108}{}{Ruk?}
-{109}{}{Qual sÃ£o as palavras lÃ¡ fora nas ruas sobre as caravanas desaparecidas?}
+{109}{}{Qual são as palavras lá fora nas ruas sobre as caravanas desaparecidas?}
 # os Deathclaw is male
-{110}{}{O que vocÃª sabe sobre o deathclaw?}
-{111}{}{VocÃª poderia me contar sobre o deathclaw de novo?}
+{110}{}{O que você sabe sobre o deathclaw?}
+{111}{}{Você poderia me contar sobre o deathclaw de novo?}
 # Decker is male
-{112}{}{O que vocÃª pode me dizer sobre o Decker?}
-{113}{}{O que vocÃª pode me dizer sobre os diferentes mercadores?}
-{114}{}{VocÃª ouviu quaisquer bons rumores?}
+{112}{}{O que você pode me dizer sobre o Decker?}
+{113}{}{O que você pode me dizer sobre os diferentes mercadores?}
+{114}{}{Você ouviu quaisquer bons rumores?}
 {115}{}{Obrigado, isso e tudo. Tchau.}
-{116}{}{Umm, deixa pra lÃ¡.}
+{116}{}{Umm, deixa pra lá.}
 # Jain is a female religious figure
-{117}{}{Bem, eu nÃ£o sou de fofocar, mas eu ouvi que a morte do Decker esta de algum modo relacionada a
+{117}{}{Bem, eu não sou de fofocar, mas eu ouvi que a morte do Decker esta de algum modo relacionada a
  tentativa de assassinato da Jain.}
 # The Maltese Falcon is a bar
-{118}{}{Bem, eu geralmente nÃ£o falo por tras das costas das pessoas, mas eu conheco alguÃ©m que diz que eles viram tres
+{118}{}{Bem, eu geralmente não falo por tras das costas das pessoas, mas eu conheco alguém que diz que eles viram tres
  extremamente grandes figuras com manto irem no Maltese Falcon logo antes dos assassinatos.}
-# os CrianÃ§as da Catedral is an organization - religious
-{119}{}{Bem, eu geralmente nÃ£o falo por tras das costas das pessoas, mas alguÃ©m matou Jain, a Sumo Sacerdotisa das CrianÃ§as da
- Catedral. Eu mesmo nÃ£o me importo com eles, mas eu nÃ£o sei o que ela poderia ter feito pra merecer isso.}
+# os Crianças da Catedral is an organization - religious
+{119}{}{Bem, eu geralmente não falo por tras das costas das pessoas, mas alguém matou Jain, a Sumo Sacerdotisa das Crianças da
+ Catedral. Eu mesmo não me importo com eles, mas eu não sei o que ela poderia ter feito pra merecer isso.}
 # The Irmandade do Aco is an organization - religious
-{121}{}{Bem, eu geralmente nÃ£o falo por tras das costas das pessoas, mas um mercador amigo meu viu um grupo de mutantes vagueando
+{121}{}{Bem, eu geralmente não falo por tras das costas das pessoas, mas um mercador amigo meu viu um grupo de mutantes vagueando
  no deserto alem da Irmandade do Aco, longe a noroeste.}
-{122}{}{Bem, eu geralmente nÃ£o falo por tras das costas das pessoas, mas as CrianÃ§as da Catedral tem perguntado as pessoas sobre
- aonde vocÃª esta. Eu seria cuidadoso. Eles sÃ£o um bando estranho.}
-{123}{}{Bem, eu nÃ£o sou de fofocar, mas eu ouvi que a morte do Decker esta de algum modo relacionada a
+{122}{}{Bem, eu geralmente não falo por tras das costas das pessoas, mas as Crianças da Catedral tem perguntado as pessoas sobre
+ aonde você esta. Eu seria cuidadoso. Eles são um bando estranho.}
+{123}{}{Bem, eu não sou de fofocar, mas eu ouvi que a morte do Decker esta de algum modo relacionada a
  tentativa de assassinato da Jain.}
-{124}{}{HÃ¡ algo mais. Eu conheco alguÃ©m que conhece alguÃ©m que diz que eles viram tres
+{124}{}{Há algo mais. Eu conheco alguém que conhece alguém que diz que eles viram tres
  extremamente grandes figuras com manto irem no Maltese Falcon logo antes dos assassinatos.}
-{125}{}{HÃ¡ algo mais. AlguÃ©m matou Jain, a Sumo Sacerdotisa das CrianÃ§as da Catedral.
- Eu mesmo nÃ£o me importo com eles, mas eu nÃ£o sei o que ela poderia ter feito pra merecer isso.}
-{126}{}{HÃ¡ algo mais. Um mercador amigo meu viu um grupo de mutantes vagueando no deserto alem
+{125}{}{Há algo mais. Alguém matou Jain, a Sumo Sacerdotisa das Crianças da Catedral.
+ Eu mesmo não me importo com eles, mas eu não sei o que ela poderia ter feito pra merecer isso.}
+{126}{}{Há algo mais. Um mercador amigo meu viu um grupo de mutantes vagueando no deserto alem
  da Irmandade do Aco, longe a noroeste.}
-{127}{}{HÃ¡ algo mais. As CrianÃ§as da Catedral tem perguntado as pessoas sobre aonde vocÃª esta.
- Eu seria cuidadoso. Eles sÃ£o um bando estranho.}
+{127}{}{Há algo mais. As Crianças da Catedral tem perguntado as pessoas sobre aonde você esta.
+ Eu seria cuidadoso. Eles são um bando estranho.}
 {128}{}{Algo mais?}
-{129}{}{Obrigado, eu posso fazer outra pergunta pra vocÃª?}
+{129}{}{Obrigado, eu posso fazer outra pergunta pra você?}
 {130}{}{Okay, obrigado.}
 {131}{}{Desculpe, o que foi isso?}
 # Klug and Ruk are a stupid person saying something incomprehensible
 {132}{}{Klug?}
 {133}{}{Ruk!}
-{134}{}{Desculpe, eu nÃ£o entendo. Por favor volte quando vocÃª estiver se sentindo melhor.}
+{134}{}{Desculpe, eu não entendo. Por favor volte quando você estiver se sentindo melhor.}
 # The Merchant Market is a location
-{135}{}{Bem, eu nÃ£o estou contratando mas hÃ¡ um posto de trabalho no centro do Mercado dos Mercadores, vocÃª
- poderia verificar lÃ¡.}
+{135}{}{Bem, eu não estou contratando mas há um posto de trabalho no centro do Mercado dos Mercadores, você
+ poderia verificar lá.}
 {136}{}{Okay, obrigado.}
-{137}{}{NÃ£o, nada bom pelo menos. Me de uma chance de fazer um pouco de digging.
- <Ela pisca pra vocÃª>. Algo mais?}
+{137}{}{Não, nada bom pelo menos. Me de uma chance de fazer um pouco de digging.
+ <Ela pisca pra você>. Algo mais?}
 {138}{}{Sim.}
-{139}{}{NÃ£o.}
-{140}{}{O que mais eu posso fazer por vocÃª?}
-{141}{}{Claro que vocÃª pode, nÃ£o seja bobo.}
-{142}{}{Por que? Com certeza eu ficaria feliz em ajudar. O que vocÃª precisava saber?}
-{143}{}{Tudo bem. Bem, foi bom conversar com vocÃª, tenha um bom dia.}
-{144}{}{NÃ£o, isso e tudo. Havia algo mais que vocÃª queria falar a respeito?}
+{139}{}{Não.}
+{140}{}{O que mais eu posso fazer por você?}
+{141}{}{Claro que você pode, não seja bobo.}
+{142}{}{Por que? Com certeza eu ficaria feliz em ajudar. O que você precisava saber?}
+{143}{}{Tudo bem. Bem, foi bom conversar com você, tenha um bom dia.}
+{144}{}{Não, isso e tudo. Havia algo mais que você queria falar a respeito?}
 {145}{}{Sim.}
-{146}{}{NÃ£o.}
-{147}{}{Bem, volte em breve. NÃ£o seja um estranho.}
-{148}{}{Agora, hÃ¡ alguÃ©m com quem vocÃª nÃ£o deve mexer jamais, ele me assusta. Ele 'possui' o Maltese Falcon.}
-{149}{}{Por que vocÃª disse isso desse jeito? Ele 'possui' o Maltese Falcon.}
-{150}{}{Por que ele assusta vocÃª?}
+{146}{}{Não.}
+{147}{}{Bem, volte em breve. Não seja um estranho.}
+{148}{}{Agora, há alguém com quem você não deve mexer jamais, ele me assusta. Ele 'possui' o Maltese Falcon.}
+{149}{}{Por que você disse isso desse jeito? Ele 'possui' o Maltese Falcon.}
+{150}{}{Por que ele assusta você?}
 {151}{}{Lamento, apenas me lembra de um amigo que costumava ser dono dele antes dele.
- Decker o queria muito, mas meu amigo nÃ£o o vendia. Dois dias depois eles acharam
+ Decker o queria muito, mas meu amigo não o vendia. Dois dias depois eles acharam
  ele morto num beco atras da Cidade Antiga.}
-{152}{}{Por que que vocÃª acha que o Decker e responsÃ¡vel?}
-{153}{}{Bem, ele deveria saber que nÃ£o se deve mexer com o Decker.}
+{152}{}{Por que que você acha que o Decker e responsável?}
+{153}{}{Bem, ele deveria saber que não se deve mexer com o Decker.}
 {154}{}{Lamento, mas eu tenho que ir.}
-{155}{}{Meu amigo era um maniaco por limpeza. Ele nÃ£o chegaria perto de cem jardas da
- Cidade Antiga. Ele levou um tiro de uma Magnum; ninguÃ©m na Cidade Antiga conseguiria
+{155}{}{Meu amigo era um maniaco por limpeza. Ele não chegaria perto de cem jardas da
+ Cidade Antiga. Ele levou um tiro de uma Magnum; ninguém na Cidade Antiga conseguiria
         uma dessas. Tem mais, ele levou um tiro na cabeca e dois nas costas. Isso soa
  como um assalto? Meu amigo estava apenas tentando conseguir a vida dele de volta.}
-{156}{}{Ei, eu gosto do estilo dele. Apos vocÃª mata-lo, ponha o corpo dele no
+{156}{}{Ei, eu gosto do estilo dele. Apos você mata-lo, ponha o corpo dele no
  lugar que ele mais despreza.}
 {157}{}{Ter a vida dele de volta?}
 {158}{}{Eu lamento ouvir isso.}
 {159}{}{Ah, okay.}
-{160}{}{VocÃª provavelmente nÃ£o entende, mas a maioria de nos olha adiante pro dia quando nos possuirmos
- nossas proprias vidas. Quando nossas vidas nÃ£o pertencam os mercadores ou emprestadores de dinheiro.}
+{160}{}{Você provavelmente não entende, mas a maioria de nos olha adiante pro dia quando nos possuirmos
+ nossas proprias vidas. Quando nossas vidas não pertencam os mercadores ou emprestadores de dinheiro.}
 {161}{}{Ah, obrigado.}
-{162}{}{VocÃª jamais para de falar?!}
-{163}{}{Essa Ã© a coisa mais burra que eu ja ouvi!}
-{164}{}{HÃ¡ algo mais que eu possa fazer por vocÃª?}
+{162}{}{Você jamais para de falar?!}
+{163}{}{Essa é a coisa mais burra que eu ja ouvi!}
+{164}{}{Há algo mais que eu possa fazer por você?}
 {165}{}{Bem, me desculpe. VOCE pediu.}
-{166}{}{Ele Ã© a pessoa mais mortal no Hub; a maioria diz que ele comanda este lugar, nÃ£o os mercadores ou
- a policia. Se vocÃª cruzar com ele, tome cuidado.}
-{167}{}{Isso nÃ£o da a ele o direito de matar alguÃ©m.}
-{168}{}{VocÃª me deixa enojada, por favor saia. Eu tenho certeza que ele esta sentindo falta da sua companhia.}
-{169}{}{Bem, hÃ¡ tres grupos principais de mercadores. HÃ¡ os Mercadores da Agua, a Crimson Caravan e os
- Far Go Traders. Eles tambem comandam o conselho da cidade. Do quem vocÃª quer saber a respeito?}
+{166}{}{Ele é a pessoa mais mortal no Hub; a maioria diz que ele comanda este lugar, não os mercadores ou
+ a policia. Se você cruzar com ele, tome cuidado.}
+{167}{}{Isso não da a ele o direito de matar alguém.}
+{168}{}{Você me deixa enojada, por favor saia. Eu tenho certeza que ele esta sentindo falta da sua companhia.}
+{169}{}{Bem, há tres grupos principais de mercadores. Há os Mercadores da Agua, a Crimson Caravan e os
+ Far Go Traders. Eles tambem comandam o conselho da cidade. Do quem você quer saber a respeito?}
 {170}{}{Dos Mercadores da Agua.}
 {172}{}{Da Crimson Caravan.}
 {173}{}{Dos Far Go Traders.}
 {174}{}{Do Conselho da Cidade.}
-{175}{}{Isso e tudo. Obrigado pela informaÃ§Ã£o.}
-{176}{}{Na verdade, deixa pra lÃ¡.}
-{177}{}{Eles estÃ£o no comando de toda a Ã¡gua. Pessoas gananciosas, eu nÃ£o iria querer trabalhar pra eles. O
- pegamento deles e o pior e os trabalhos sÃ£o tÃ£o ruins quanto.}
-{178}{}{Eles sempre controlaram toda a Ã¡gua?}
-{179}{}{Eles sÃ£o aqueles por tras das caravanas desaparecidas?}
+{175}{}{Isso e tudo. Obrigado pela informação.}
+{176}{}{Na verdade, deixa pra lá.}
+{177}{}{Eles estão no comando de toda a água. Pessoas gananciosas, eu não iria querer trabalhar pra eles. O
+ pegamento deles e o pior e os trabalhos são tão ruins quanto.}
+{178}{}{Eles sempre controlaram toda a água?}
+{179}{}{Eles são aqueles por tras das caravanas desaparecidas?}
 {180}{}{Obrigado, outra pergunta sobre os mercadores . . .}
 {181}{}{Obrigado, tchau.}
-{182}{}{O que mais vocÃª gostaria de saber?}
-{183}{}{NÃ£o. Do que eu ouvi, hÃ¡ um tempo atras um grupo de mercadores tomou o controle da torre de agaua e
- proclamou que eles eram os mercadores da Ã¡gua e que as pessoas tinham que pegar Ã¡gua deles. A guerra dos
- mercadores raged on por anos atÃ© que um homem chamado Roy Greene - sim, o avo do Justin, e isso - ajudou
+{182}{}{O que mais você gostaria de saber?}
+{183}{}{Não. Do que eu ouvi, há um tempo atras um grupo de mercadores tomou o controle da torre de agaua e
+ proclamou que eles eram os mercadores da água e que as pessoas tinham que pegar água deles. A guerra dos
+ mercadores raged on por anos até que um homem chamado Roy Greene - sim, o avo do Justin, e isso - ajudou
  a negociar um acordo que encerrou a guerra.}
 {184}{}{Que tipo de acordo?}
 {185}{}{Maldicao! Lamento que eu perguntei.}
 {186}{}{Obrigado, outra pergunta sobre os mercadores . . .}
 {187}{}{Obrigado, tchau.}
-{188}{}{Bem, ele criou o conselho da cidade e definiu um limite no preÃ§o da Ã¡gua. Pessoalmente eu acho que
+{188}{}{Bem, ele criou o conselho da cidade e definiu um limite no preço da água. Pessoalmente eu acho que
  eles deveriam ter beat os tar out of them - oh, lamento. Eu quero dizer que eles deveriam ter mostrado
- pra eles quem Ã© o chefe.}
-{189}{}{Otimo. Eu nÃ£o precisava de tanta informaÃ§Ã£o mas obrigado assim mesmo.}
+ pra eles quem é o chefe.}
+{189}{}{Otimo. Eu não precisava de tanta informação mas obrigado assim mesmo.}
 {190}{}{Obrigado, outra pergunta sobre os mercadores . . .}
 {191}{}{Obrigado, tchau.}
-{192}{}{Lamento Eu tendo a get carried away comigo mesmo. Havia algo mais que vocÃª
+{192}{}{Lamento Eu tendo a get carried away comigo mesmo. Havia algo mais que você
  queria saber?}
-{193}{}{A Crimson Caravan sÃ£o um bando de pessoas loucas. Eles farao qualquer trabalho, nÃ£o importa
- qual o risco. Eu estou surpreso que eles nÃ£o estejam perdendo mais caravanas do que eles
- ja estÃ£o.}
-{194}{}{Eles estÃ£o perdendo caravanas tambem?}
+{193}{}{A Crimson Caravan são um bando de pessoas loucas. Eles farao qualquer trabalho, não importa
+ qual o risco. Eu estou surpreso que eles não estejam perdendo mais caravanas do que eles
+ ja estão.}
+{194}{}{Eles estão perdendo caravanas tambem?}
 {195}{}{Quao arriscado?}
 {196}{}{Obrigado, outra pergunta sobre os mercadores . . .}
 {197}{}{Obrigado, tchau.}
 {198}{}{Eles passam bem atraves de uma area conhecida por ser atacada por saqueadores. Eles cobram
- muito para que eles possam contratar maos extras. O pagamento e bom mas vocÃª tem que estar
+ muito para que eles possam contratar maos extras. O pagamento e bom mas você tem que estar
  vivo pra gasta-lo, certo?}
-{199}{}{Eles estÃ£o perdendo caravanas desaparecidas tambem?}
+{199}{}{Eles estão perdendo caravanas desaparecidas tambem?}
 {200}{}{Obrigado, outra pergunta sobre os mercadores.}
 {201}{}{Obrigado, tchau.}
 {202}{}{Na verdade todos os mercadores tiveram algumas caravanas que desapareceram. Os Far Go
@@ -145,218 +145,218 @@
 {203}{}{Quao arriscado?}
 {204}{}{Obrigado, outra pergunta sobre os mercadores . . .}
 {205}{}{Obrigado, tchau.}
-{206}{}{Os Far Go Traders pagam bem e os trabalhos deles nÃ£o sÃ£o muito mortais. O Butch possui
- esta loja, um bom homem. Eles sÃ£o justos e me deixam fazer o que eu quiser com o lugar;
- eu gosto de trabalhar com eles. Alem do mais, vocÃª consegue um desconto em qualquer
- coisa que comprar aqui se vocÃª trabalhar pro Butch.}
-{207}{}{Pessoalmente eu acho que nÃ£o. Eu acho que foi o deathclaw ou talvez a Irmandade
+{206}{}{Os Far Go Traders pagam bem e os trabalhos deles não são muito mortais. O Butch possui
+ esta loja, um bom homem. Eles são justos e me deixam fazer o que eu quiser com o lugar;
+ eu gosto de trabalhar com eles. Alem do mais, você consegue um desconto em qualquer
+ coisa que comprar aqui se você trabalhar pro Butch.}
+{207}{}{Pessoalmente eu acho que não. Eu acho que foi o deathclaw ou talvez a Irmandade
  do Aco.}
-{208}{}{Por que vocÃª nÃ£o acha que foram os Mercadores da Agua?}
+{208}{}{Por que você não acha que foram os Mercadores da Agua?}
 {209}{}{O que exatamente e um deathclaw?}
-{210}{}{VocÃª poderia me dizer a respeito do deathclaw de novo?}
-{211}{}{Quem Ã© a Irmandade?}
-{212}{}{Por que vocÃª acha que foi a Irmandade do Aco?}
-{213}{}{Obrigado, vamos voltar atÃ© os mercadores.}
+{210}{}{Você poderia me dizer a respeito do deathclaw de novo?}
+{211}{}{Quem é a Irmandade?}
+{212}{}{Por que você acha que foi a Irmandade do Aco?}
+{213}{}{Obrigado, vamos voltar até os mercadores.}
 {214}{}{Okay, bem, eu tenho que ir.}
-{215}{}{Algumas pessoas acham que os Mercadores da Agua sÃ£o os responsaveis, mas eu acho que nÃ£o.
+{215}{}{Algumas pessoas acham que os Mercadores da Agua são os responsaveis, mas eu acho que não.
  Eu acho que foi o maldito deathclaw, ou talvez as pessoas da Irmandade do Aco.}
-{216}{}{Bem, eu pensava que estavam destruindo as caravanas, mas eu creio que nÃ£o. Apesar disso, ainda esta
- lÃ¡ fora. HÃ¡ muitos rumores voando por ai pra nÃ£o existir.}
+{216}{}{Bem, eu pensava que estavam destruindo as caravanas, mas eu creio que não. Apesar disso, ainda esta
+ lá fora. Há muitos rumores voando por ai pra não existir.}
 {217}{}{Eu acho que isso e o que esta levando as as caravanas. Poderia ser tambema  Irmandade do Aco; 
- eles sÃ£o um bando estranho. Algumas pessoas acham que sÃ£o os Mercadores da Agua, 
- mas elas estÃ£o erradas.}
+ eles são um bando estranho. Algumas pessoas acham que são os Mercadores da Agua, 
+ mas elas estão erradas.}
 {218}{}{Com certeza.}
 {219}{}{Por causa que, como eu estive dizendo a todos, eles tiveram algumas caravanas que desapareceram tambem.
- nada como o que esta acontecendo com os Far Go Traders, mas eles estÃ£o sendo afetados.}
-{220}{}{Eles poderiam estar mentindo ou poderia ser parte do plano deles pra fazer vocÃª acreditar neles.}
+ nada como o que esta acontecendo com os Far Go Traders, mas eles estão sendo afetados.}
+{220}{}{Eles poderiam estar mentindo ou poderia ser parte do plano deles pra fazer você acreditar neles.}
 {221}{}{Por que aconteceria com os Far Go Traders mais do que com os outros?}
 {222}{}{Outra pergunta sobre as caravanas desaparecidas . . .}
-{223}{}{Obrigado, vamos voltar atÃ© os mercadores.}
-{224}{}{VocÃª esta cheio de bosta!}
+{223}{}{Obrigado, vamos voltar até os mercadores.}
+{224}{}{Você esta cheio de bosta!}
 {225}{}{Obrigado, mas eu tenho que ir.}
-{226}{}{Me desculpe vocÃª! VocÃª e terrivelmente rapido em julgar, vocÃª esta com medo da verdade?}
-{227}{}{HÃ¡ seis representantes, dois de cada dos grupos principais de mercadores.
+{226}{}{Me desculpe você! Você e terrivelmente rapido em julgar, você esta com medo da verdade?}
+{227}{}{Há seis representantes, dois de cada dos grupos principais de mercadores.
  Tudo precisa de pelo menos quatro votos pra ser passado. Eles nunca concordam
  com tudo.}
 {228}{}{Bom pensamento, mas eu duvido muito. Eles sabotaram uns aos outros pos anos, mas isto
- nÃ£o Ã© o estilo deles. Eles nÃ£o gastariam tanto dinheiro pra dominar as caravanas.
- Alem do mais as caravanas sÃ£o muito bem guardadas. VocÃª acha que alguÃ©m
- escaparia? Eles nÃ£o tem a forÃ§a humana ou o dinheiro pra executar
+ não é o estilo deles. Eles não gastariam tanto dinheiro pra dominar as caravanas.
+ Alem do mais as caravanas são muito bem guardadas. Você acha que alguém
+ escaparia? Eles não tem a força humana ou o dinheiro pra executar
  isso. Deveria haver pelo menos um sobrevivente.}
 {229}{}{Sim, mas por que aconteceria com os Far Go Traders mais do que com os outros?}
 {230}{}{Outra pergunta sobre os caravanas desaparecidas . . .}
-{231}{}{Obrigado, vamos voltar atÃ© os mercadores.}
+{231}{}{Obrigado, vamos voltar até os mercadores.}
 {232}{}{Obrigado, mas eu tenho que ir.}
-{233}{}{Sorte ruim? Eu nÃ£o sei, talvez eles estejam viajando atraves de rotas diferentes do que
- os outors. Talvez por que eles nÃ£o estejam tÃ£o fortemente guardados como a Crimson
+{233}{}{Sorte ruim? Eu não sei, talvez eles estejam viajando atraves de rotas diferentes do que
+ os outors. Talvez por que eles não estejam tão fortemente guardados como a Crimson
  Caravan mas . . . eles poderiam ter carga melhor do que os Mercadores da
- Agua. Quem sabe? NÃ£o parece haver qualquer diferenca clara entre
+ Agua. Quem sabe? Não parece haver qualquer diferenca clara entre
  os tres.}
 {234}{}{Os Mercadores da Agua poderiam estar mentindo ou poderia ser parte do plano deles,
- pra fazer vocÃª acreditar neles.}
+ pra fazer você acreditar neles.}
 {235}{}{Outra pergunta sobre os caravanas desaparecidas . . .}
-{236}{}{Obrigado, vamos voltar atÃ© os mercadores.}
-{237}{}{VocÃª NUNCA para de falar nÃ£o e?}
+{236}{}{Obrigado, vamos voltar até os mercadores.}
+{237}{}{Você NUNCA para de falar não e?}
 {238}{}{Obrigado, mas eu tenho que ir.}
-{239}{}{Me desculpe! VocÃª e livre pra sair a qualquer hora. Se vocÃª nÃ£o queria a resposta
- vocÃª nÃ£o deveria ter perguntado.}
-{240}{}{O deathclaw Ã© a coisa mais maligna a se levantar das cinzas apos a guerra. Alguns dizem que Ã© um
- poderoso fantasma da guerra que assombra a terra. NÃ£o e fantasma, e tÃ£o real quanto vocÃª e eu. Ele tem
- 6 metros de altura com dentes tÃ£o grandes quanto seu braco. Ã‰ algum tipo de demonio que achou o
+{239}{}{Me desculpe! Você e livre pra sair a qualquer hora. Se você não queria a resposta
+ você não deveria ter perguntado.}
+{240}{}{O deathclaw é a coisa mais maligna a se levantar das cinzas apos a guerra. Alguns dizem que é um
+ poderoso fantasma da guerra que assombra a terra. Não e fantasma, e tão real quanto você e eu. Ele tem
+ 6 metros de altura com dentes tão grandes quanto seu braco. É algum tipo de demonio que achou o
  caminho pra ca quando o mundo estava engulfed no fogo.}
 {241}{}{Uh, lamento que eu perguntei.}
-{242}{}{VocÃª e louca! Eu deveria simplesmente encerrar sua miseria aqui e agora.}
-{243}{}{VocÃª sabe mais qualquer coisa sobre o deathclaw?}
-{244}{}{Uau! VocÃª sabe aonde ele esta?}
+{242}{}{Você e louca! Eu deveria simplesmente encerrar sua miseria aqui e agora.}
+{243}{}{Você sabe mais qualquer coisa sobre o deathclaw?}
+{244}{}{Uau! Você sabe aonde ele esta?}
 {245}{}{Bem, eu conheco este velho mutante na Cidade Antiga chamado Harold. Ele o viu.
  Ele e o 'unico' que o viu e viveu.}
 {246}{}{O unico que o viu e viveu?}
 {247}{}{Sim, com certeza, e eu sou o papai do deathclaw.}
 {248}{}{Sim, com certeza, e eu sou a mamae do deathclaw.}
 {249}{}{Outra pergunta sobre os caravanas desaparecidas . . .}
-{250}{}{Obrigado, vamos voltar atÃ© os mercadores.}
-{251}{}{Eu verificarei. Vejo vocÃª por ai.}
+{250}{}{Obrigado, vamos voltar até os mercadores.}
+{251}{}{Eu verificarei. Vejo você por ai.}
 {252}{}{Tio Slappy na Cidade Antiga fala sobre ele as vezes, mas ele e apenas
  um velho tolo louco.}
 {253}{}{Outra pergunta sobre os caravanas desaparecidas . . .}
-{254}{}{Obrigado, vamos voltar atÃ© os mercadores.}
+{254}{}{Obrigado, vamos voltar até os mercadores.}
 {255}{}{Obrigado. Eu verificarei. Tchau.}
-{256}{}{VocÃª vera!}
-{257}{}{Sim, bastante incrivel nÃ£o e?. Esta abaixo em algum lugar do sudoeste. HÃ¡ um
+{256}{}{Você vera!}
+{257}{}{Sim, bastante incrivel não e?. Esta abaixo em algum lugar do sudoeste. Há um
  velho mutante na Cidade Antiga chamado Harold que realmente viu esta coisa no
  covil dela. O skag mais bacana que eu conheco.}
 {258}{}{Outra pergunta sobre os caravanas desaparecidas . . .}
-{259}{}{Obrigado, vamos voltar atÃ© os mercadores.}
+{259}{}{Obrigado, vamos voltar até os mercadores.}
 {260}{}{Obrigado. Eu verificarei. Tchau.}
 {261}{}{A Irmandade do Aco esta cheia de pessoas loucas que adoram a tecnologia; eles
- estÃ£o a noroeste daqui. Eles fazem sacrificios humanos e que fazem todos os tipos de
+ estão a noroeste daqui. Eles fazem sacrificios humanos e que fazem todos os tipos de
  outras coisas terriveis.}
-{262}{}{Isso e absurdo! Quem disse isso a vocÃª?}
+{262}{}{Isso e absurdo! Quem disse isso a você?}
 {263}{}{Outra pergunta sobre os caravanas desaparecidas . . .}
-{264}{}{Obrigado, vamos voltar atÃ© os mercadores.}
-{265}{}{Isso Ã© terrÃ­vel, obrigado pelo aviso. Tchau.}
-{266}{}{Bem, um. Eu nÃ£o me lembro, mas quem foi nÃ£o mentiria . . . Eu quero
- dizer, poderia ser verdade! VocÃª deveria ser cuidadoso mesmo assim.}
+{264}{}{Obrigado, vamos voltar até os mercadores.}
+{265}{}{Isso é terrível, obrigado pelo aviso. Tchau.}
+{266}{}{Bem, um. Eu não me lembro, mas quem foi não mentiria . . . Eu quero
+ dizer, poderia ser verdade! Você deveria ser cuidadoso mesmo assim.}
 {267}{}{Outra pergunta sobre os caravanas desaparecidas . . .}
-{268}{}{Bem, vamos voltar atÃ© os mercadores.}
-{269}{}{VocÃª Ã© um idiota!}
-{270}{}{Olha a hora, eu tenho que ir! Vejo vocÃª por ai.}
-{271}{}{Por que, vocÃª nÃ£o sabe? [sussurrando] Eu ouvi que eles fazem sacrificios humanos
+{268}{}{Bem, vamos voltar até os mercadores.}
+{269}{}{Você é um idiota!}
+{270}{}{Olha a hora, eu tenho que ir! Vejo você por ai.}
+{271}{}{Por que, você não sabe? [sussurrando] Eu ouvi que eles fazem sacrificios humanos
  e que fazem todos os tipos de outras coisas terriveis!}
 {272}{}{Sim, nos fazemos. O que esta errado com isso?}
-{273}{}{Como um 'MEMBRO' da Irmandade, eu posso GARANTIR a vocÃª que NADA
+{273}{}{Como um 'MEMBRO' da Irmandade, eu posso GARANTIR a você que NADA
  assim acontece!}
-{274}{}{Mesmo? Eu estive lÃ¡, eles pareciam estranhos mas nÃ£o maus assim.}
-{275}{}{Mesmo? Eu nÃ£o tinha ideia.}
-{276}{}{Como se vocÃª nÃ£o soubesse. VocÃª e obviamente um deles, caminhando por ai nesse terno de
- metal. VocÃª sÃ£o todos um bando de pessoas doentes.}
-{277}{}{Eu nÃ£o sei o que vocÃª esta usando, mas eu posso garantir que nada 'doente' esta
+{274}{}{Mesmo? Eu estive lá, eles pareciam estranhos mas não maus assim.}
+{275}{}{Mesmo? Eu não tinha ideia.}
+{276}{}{Como se você não soubesse. Você e obviamente um deles, caminhando por ai nesse terno de
+ metal. Você são todos um bando de pessoas doentes.}
+{277}{}{Eu não sei o que você esta usando, mas eu posso garantir que nada 'doente' esta
  acontecendo na Irmandade.}
-{278}{}{Sim, entÃ£o? NÃ£o somos todos?}
-{279}{}{Eu nÃ£o tinha ideia.}
+{278}{}{Sim, então? Não somos todos?}
+{279}{}{Eu não tinha ideia.}
 {280}{}{Me desculpe, senhor. Por favor abaixe sua arma.}
 {281}{}{Me desculpe, senhora. Por favor abaixe sua arma.}
-{282}{}{Eu lamento mas eu nÃ£o ajudarei vocÃª a menos que vocÃª ponha sua arma longe. Isto Ã© uma loja, nÃ£o uma arena.}
-{283}{}{Uhh . . . bem, sim . . . umm VocÃª . . . Eu . . . HÃ¡ alguma coisa mais que
- vocÃª precise?}
-{284}{}{VocÃª nunca sabe como uma pessoa realmente e por tras das portas fechadas. VocÃª tem que ser
- cuidadoso com quem vocÃª se associa. Havia algo mais que vocÃª precisava?}
+{282}{}{Eu lamento mas eu não ajudarei você a menos que você ponha sua arma longe. Isto é uma loja, não uma arena.}
+{283}{}{Uhh . . . bem, sim . . . umm Você . . . Eu . . . Há alguma coisa mais que
+ você precise?}
+{284}{}{Você nunca sabe como uma pessoa realmente e por tras das portas fechadas. Você tem que ser
+ cuidadoso com quem você se associa. Havia algo mais que você precisava?}
 # Not believing the player for a moment, then getting nervous
-{285}{}{VocÃª Ã© um . . . ? Eu quero dizer. Eu nÃ£o queria dizer . . . Umm . . .
- Dia amavel o que nos estamos tendo. VocÃª nÃ£o acha?
- EntÃ£o, havia qualquer coisa mais que eu pudesse fazer por vocÃª?}
+{285}{}{Você é um . . . ? Eu quero dizer. Eu não queria dizer . . . Umm . . .
+ Dia amavel o que nos estamos tendo. Você não acha?
+ Então, havia qualquer coisa mais que eu pudesse fazer por você?}
 {286}{}{Outra pergunta sobre os caravanas desaparecidas . . .}
-{287}{}{Obrigado, vamos voltar atÃ© os mercadores.}
-{288}{}{NÃ£o, isso e tudo. Tchau.}
-{289}{}{Com certeza, o que quer que seja que vocÃª disse. Havia algo mais que eu pudesse fazer por vocÃª?}
-{290}{}{Otimo! Deixe-me mostrar a vocÃª o que eu consegui.}
-{291}{}{Eu consegui as melhores mercadorias, o que vocÃª esta procurando?}
-{292}{}{Isso e o que eu gosto de ouvir! O que vocÃª precisa?}
-{293}{}{Vamos direto aos negÃ³cios}
-{294}{}{Se vocÃª tem dinheiro, vocÃª tem minha atencao.}
+{287}{}{Obrigado, vamos voltar até os mercadores.}
+{288}{}{Não, isso e tudo. Tchau.}
+{289}{}{Com certeza, o que quer que seja que você disse. Havia algo mais que eu pudesse fazer por você?}
+{290}{}{Otimo! Deixe-me mostrar a você o que eu consegui.}
+{291}{}{Eu consegui as melhores mercadorias, o que você esta procurando?}
+{292}{}{Isso e o que eu gosto de ouvir! O que você precisa?}
+{293}{}{Vamos direto aos negócios}
+{294}{}{Se você tem dinheiro, você tem minha atencao.}
 {295}{}{Meu tipo favorito de fregues!}
-{296}{}{VocÃª quer comprar alguma coisa? Talvez eu estivesse errada sobre vocÃª.}
-{297}{}{Ah, isso mesmo. VocÃª esta trabalhando pro Butch, vocÃª consegue 15% de desconto.}
-{298}{}{Eu ainda darei pra vocÃª os 15% de desconto, por que eu gosto de vocÃª.}
-{299}{}{Lamento, vocÃª nÃ£o consegue um desconto mais.}
-{300}{}{Mostre-me o que vocÃª conseguiu.}
-{301}{}{VocÃª tem qualquer coisa boa?}
+{296}{}{Você quer comprar alguma coisa? Talvez eu estivesse errada sobre você.}
+{297}{}{Ah, isso mesmo. Você esta trabalhando pro Butch, você consegue 15% de desconto.}
+{298}{}{Eu ainda darei pra você os 15% de desconto, por que eu gosto de você.}
+{299}{}{Lamento, você não consegue um desconto mais.}
+{300}{}{Mostre-me o que você conseguiu.}
+{301}{}{Você tem qualquer coisa boa?}
 {302}{}{Bem, vamos ver.}
 {303}{}{Com certeza.}
-{304}{}{O que vocÃª tem pra mim hoje?}
+{304}{}{O que você tem pra mim hoje?}
 {305}{}{Isso e otimo. Eu sempre posso usar mais merchandise.}
-{306}{}{Eu ficaria feliz de dar uma olhada no que vocÃª conseguiu.}
-{307}{}{NÃ£o tente to rip me off.}
-{308}{}{Eu poderia deixar vocÃª me vender algo, melhor ser bom.}
-{309}{}{Melhor vocÃª nÃ£o estar desperdicando meu tempo.}
-{310}{}{Eu espero que vocÃª tenha algo que eu precise desta vez.}
-{311}{}{Ola de novo. Bom ver vocÃª. Como eu posso ajudar vocÃª neste bom dia?}
-{312}{}{Mas por que, ola! Ã‰ bom ver vocÃª de novo. O que eu posso fazer por vocÃª hoje?}
-{313}{}{Eu desejo que eu pudesse ter um dia de folga, it's been sÃ³ lovely out.}
-{314}{}{Por que, ola de novo, nÃ³s nÃ£o estamos parecendo bonitos hoje?}
-{315}{}{De volta tÃ£o cedo?}
-{316}{}{VocÃª acabou de sair. Ja sentiu minha falta?}
+{306}{}{Eu ficaria feliz de dar uma olhada no que você conseguiu.}
+{307}{}{Não tente to rip me off.}
+{308}{}{Eu poderia deixar você me vender algo, melhor ser bom.}
+{309}{}{Melhor você não estar desperdicando meu tempo.}
+{310}{}{Eu espero que você tenha algo que eu precise desta vez.}
+{311}{}{Ola de novo. Bom ver você. Como eu posso ajudar você neste bom dia?}
+{312}{}{Mas por que, ola! É bom ver você de novo. O que eu posso fazer por você hoje?}
+{313}{}{Eu desejo que eu pudesse ter um dia de folga, it's been só lovely out.}
+{314}{}{Por que, ola de novo, nós não estamos parecendo bonitos hoje?}
+{315}{}{De volta tão cedo?}
+{316}{}{Você acabou de sair. Ja sentiu minha falta?}
 {317}{}{Preciso de algo ja.}
-{318}{}{HÃ¡ muito tempo nÃ£o o vejo, o que eu posso fazer por vocÃª hoje?}
-{319}{}{Ja se passou algum tempo, eu espero que vocÃª esteja bem.}
-{320}{}{Ainda vivo eu vejo. Eu estava comecando a me preocupar. O que eu posso conseguir pra vocÃª hoje?}
-{321}{}{Ai esta vocÃª. Ja faz mais de uma semana desde que vocÃª parou aqui.
- VocÃª deve manter o contato, vocÃª Ã‰ meu fregues favorito!}
+{318}{}{Há muito tempo não o vejo, o que eu posso fazer por você hoje?}
+{319}{}{Ja se passou algum tempo, eu espero que você esteja bem.}
+{320}{}{Ainda vivo eu vejo. Eu estava comecando a me preocupar. O que eu posso conseguir pra você hoje?}
+{321}{}{Ai esta você. Ja faz mais de uma semana desde que você parou aqui.
+ Você deve manter o contato, você É meu fregues favorito!}
 {322}{}{Sim?}
 {323}{}{O que?}
-{324}{}{VocÃª esta aqui pra comprar alguma coisa ou o que?}
-{325}{}{Este Ã© a minha loja, melhor vocÃª se comportar.}
+{324}{}{Você esta aqui pra comprar alguma coisa ou o que?}
+{325}{}{Este é a minha loja, melhor você se comportar.}
 {326}{}{O que e?}
-{327}{}{VocÃª de novo?}
+{327}{}{Você de novo?}
 {328}{}{Tempo e dinheiro, o que e?}
-{329}{}{VocÃª precisava de alguma coisa?}
-{330}{}{VocÃª ouviu? Ele esta morto! Eu estou cheia de alegria!
- Essa Ã© a melhor coisa que ja aconteceu a esta cidade.}
-{331}{}{Eu ja disse a vocÃª. Ele esta morto! Vamos apenas esquecer dele,
+{329}{}{Você precisava de alguma coisa?}
+{330}{}{Você ouviu? Ele esta morto! Eu estou cheia de alegria!
+ Essa é a melhor coisa que ja aconteceu a esta cidade.}
+{331}{}{Eu ja disse a você. Ele esta morto! Vamos apenas esquecer dele,
  o nome dele traz de volta memorias ruins.}
 {332}{}{Ah, sim.}
-{333}{}{Sim, ele mereceu e eu nÃ£o me sinto mau depois de faze-lo.}
+{333}{}{Sim, ele mereceu e eu não me sinto mau depois de faze-lo.}
 # Sid works for Beth. Sid is male.
-{334}{}{VocÃª o fez? Mesmo? Eu amo vocÃª! [Beth olha pro Sid] Nem mesmo
- pense nisso, esperto . . . Aqui, pra mostrar minha gratidÃ£o . . .
- [Beth da seis six stimpaks pra vocÃª.] NÃ£o e muito, mas eu realmente o aprecio!}
-{335}{}{VocÃª o fez? Mesmo? VocÃª e o melhor! VocÃª nÃ£o tem ideia de quao
+{334}{}{Você o fez? Mesmo? Eu amo você! [Beth olha pro Sid] Nem mesmo
+ pense nisso, esperto . . . Aqui, pra mostrar minha gratidão . . .
+ [Beth da seis six stimpaks pra você.] Não e muito, mas eu realmente o aprecio!}
+{335}{}{Você o fez? Mesmo? Você e o melhor! Você não tem ideia de quao
  feliz eu fiquei em ouvir que ele foi morto. Aqui, leve estes . . .
- [Beth da seis stimpaks pra vocÃª.] NÃ£o e muito, mas eu realmente o aprecio!}
-{336}{}{Lamento que eu nÃ£o tenha qualquer coisa que vocÃª goste.}
-{337}{}{NÃ£o vÃª nada que vocÃª goste? Eu tentarei conseguir mercadorias melhores.}
-{338}{}{Lamento se vocÃª nÃ£o gostou da minha oferta, mas eu tenho que ser capaz
+ [Beth da seis stimpaks pra você.] Não e muito, mas eu realmente o aprecio!}
+{336}{}{Lamento que eu não tenha qualquer coisa que você goste.}
+{337}{}{Não vê nada que você goste? Eu tentarei conseguir mercadorias melhores.}
+{338}{}{Lamento se você não gostou da minha oferta, mas eu tenho que ser capaz
  vende-lo com lucro.}
-{339}{}{NÃ£o quer vender depois de tudo? Isso esta okay.}
-{340}{}{Lamento que eu nÃ£o pude ajudar vocÃª. Tenha um bom dia.}
+{339}{}{Não quer vender depois de tudo? Isso esta okay.}
+{340}{}{Lamento que eu não pude ajudar você. Tenha um bom dia.}
 {341}{}{Talvez da proxima vez. Tchau.}
-{342}{}{Espero que eu possa ajudar vocÃª melhor da proxima vez.}
+{342}{}{Espero que eu possa ajudar você melhor da proxima vez.}
 {343}{}{Pare de desperdicar o meu tempo.}
-{344}{}{Se vocÃª nÃ£o vai comprar nada, por favor saia.}
-{345}{}{Se vocÃª nÃ£o quer comprar algo eu desejo que vocÃª me deixasse em paz.}
-{346}{}{Se vocÃª nÃ£o esta vendendo, por favor saia.}
-{347}{}{NÃ£o me aborreca se vocÃª nÃ£o quer vender.}
+{344}{}{Se você não vai comprar nada, por favor saia.}
+{345}{}{Se você não quer comprar algo eu desejo que você me deixasse em paz.}
+{346}{}{Se você não esta vendendo, por favor saia.}
+{347}{}{Não me aborreca se você não quer vender.}
 {348}{}{Por favor saia.}
-{349}{}{Eu sabia que vocÃª ia desperdicar meu tempo de novo.}
-{350}{}{Vai entender, eu sabia que vocÃª nÃ£o tinha qualquer dinheiro.}
-{351}{}{Obrigado por todos os negÃ³cios, talvez eu irei pra casa mais cedo hoje.}
-{352}{}{VocÃª quase me limpou!}
-{353}{}{Espero que vocÃª consiga carregar tudo isso!}
+{349}{}{Eu sabia que você ia desperdicar meu tempo de novo.}
+{350}{}{Vai entender, eu sabia que você não tinha qualquer dinheiro.}
+{351}{}{Obrigado por todos os negócios, talvez eu irei pra casa mais cedo hoje.}
+{352}{}{Você quase me limpou!}
+{353}{}{Espero que você consiga carregar tudo isso!}
 {354}{}{Obrigado, eu espero que eu consiga vender todas estas coisas!}
 {356}{}{Estes devem vender bem, obrigado.}
 {357}{}{Eu posso usar estes. Obrigado.}
 {358}{}{Eu espero que eu tenha espaco para tudo isto!}
-{359}{}{Bem, muito obrigado! Eu espero que vocÃª tenha um dia maravilhoso!}
+{359}{}{Bem, muito obrigado! Eu espero que você tenha um dia maravilhoso!}
 {360}{}{Obrigado pelo negocio, por favor apareca a qualquer hora.}
-{361}{}{VocÃª e bem-vindo aqui a qualquer hora, isso e, durante o horario de negÃ³cios.}
-{362}{}{Obrigado a vocÃª e tenha um bom dia.}
-{363}{}{Tchau! Ã‰ obrigado!}
+{361}{}{Você e bem-vindo aqui a qualquer hora, isso e, durante o horario de negócios.}
+{362}{}{Obrigado a você e tenha um bom dia.}
+{363}{}{Tchau! É obrigado!}
 {364}{}{Isso e tudo? Apenas municao? Eu estou desapontada.
- Bem, da proxima vez vocÃª precisara gastar mais!}
-{365}{}{Estocando municao? Ã‰ uma boa ideia. VocÃª nunca pode ter o bastante.}
+ Bem, da proxima vez você precisara gastar mais!}
+{365}{}{Estocando municao? É uma boa ideia. Você nunca pode ter o bastante.}
 {366}{}{Apenas os essenciais, certo? Tchau!}
-{367}{}{Bem, eu nÃ£o achava que vocÃª realmente ia comprar alguma coisa.}
-{368}{}{Obrigado pelo negocio, vocÃª nÃ£o Ã© tÃ£o ruim.}
+{367}{}{Bem, eu não achava que você realmente ia comprar alguma coisa.}
+{368}{}{Obrigado pelo negocio, você não é tão ruim.}
 {369}{}{Obrigado pelas mercadorias.}
 {370}{}{Tenha um bom dia.}
 {371}{}{Tchau.}
@@ -365,29 +365,29 @@
 {374}{}{Eu ouvi isso!}
 {375}{}{Sem brincadeira.}
 {376}{}{Sid! Pare com isso!}
-{377}{}{Eu darei um presente pra vocÃª se vocÃª nÃ£o calar a boca.}
-{378}{}{Eu ouvi isso! VocÃª esta despedido!}
+{377}{}{Eu darei um presente pra você se você não calar a boca.}
+{378}{}{Eu ouvi isso! Você esta despedido!}
 {379}{}{Ignore ele, eu sempre faco isso.}
-{380}{}{Ah, vocÃª e apenas hilario, Sid.}
-{381}{}{VocÃª deseja.}
+{380}{}{Ah, você e apenas hilario, Sid.}
+{381}{}{Você deseja.}
 {382}{}{Cale a boca.}
 {383}{}{Ei. Stay put Sid.}
-{384}{}{Eu nÃ£o penso tÃ£o slick.}
-{385}{}{Eu farei vocÃª ficar azul se vocÃª nÃ£o deixar meu freques em paz.}
+{384}{}{Eu não penso tão slick.}
+{385}{}{Eu farei você ficar azul se você não deixar meu freques em paz.}
 {386}{}{Por favor desculpe meu guarda 'obnoxious'.}
-{387}{}{VocÃª e tÃ£o knob!}
+{387}{}{Você e tão knob!}
 {388}{}{Sid!}
-{389}{}{Honey? De onde vocÃª tira estes nomes pertubadores?}
+{389}{}{Honey? De onde você tira estes nomes pertubadores?}
 {390}{}{[Beth suspira] Eu}
-{391}{}{ deveria tranca-lo. NÃ£o acha?}
+{391}{}{ deveria tranca-lo. Não acha?}
 {392}{}{Eu acho que ele esta com ciumes!}
-{393}{}{Sid! NÃ£o seja rude com os fregueses!}
-{394}{}{Mais alguÃ©m que vocÃª conhece que poderia ter alguma informaÃ§Ã£o sobre o deathclaw?}
+{393}{}{Sid! Não seja rude com os fregueses!}
+{394}{}{Mais alguém que você conhece que poderia ter alguma informação sobre o deathclaw?}
 {395}{}{Tchau.}
 {396}{}{Obrigado.}
 {397}{}{Ook.}
-{398}{}{HÃ¡ alguÃ©m na cidade que eu deveria evitar?}
-{399}{}{Ah sim. VocÃª tem que ficar tÃ£o longe do Maltese Falcon quanto vocÃª
- possivelmete puder. O Decker e o greasy lapdog dele Kane sÃ£o coisa ruim.
- Eles comerao vocÃª vivo se vocÃª nÃ£o for cuidadoso. Eu tambem daria a
- Lorenzo na Companhia de EmprÃ©stimos Amistosos um wide berth.}
+{398}{}{Há alguém na cidade que eu deveria evitar?}
+{399}{}{Ah sim. Você tem que ficar tão longe do Maltese Falcon quanto você
+ possivelmete puder. O Decker e o greasy lapdog dele Kane são coisa ruim.
+ Eles comerao você vivo se você não for cuidadoso. Eu tambem daria a
+ Lorenzo na Companhia de Empréstimos Amistosos um wide berth.}

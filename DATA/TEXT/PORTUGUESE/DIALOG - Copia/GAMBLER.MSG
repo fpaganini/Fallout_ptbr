@@ -1,0 +1,69 @@
+{100}{}{Você vê um homem mexicano seedy-looking com cabelo slick.}
+{101}{}{Você vê Hernandez, o jogador rascally.}
+{102}{}{Oye, muchacho, permita-me me apresentar. Eu sou Hernandez, um
+ homem de mucho gusto! Você parece que você e novo aqui. Por favor,
+ permita-me ser seu informante para o cassino.}
+{103}{}{Você pode me dizer algo sobre o cassino?}
+{104}{}{Não, obrigado.}
+{105}{}{Bloo?}
+{106}{}{Mas claro! Este bom estabelecimento e dirigido pelo
+ famoso Gizmo. Um verdadeiro visionario e um homem muito
+ rico.}
+{107}{}{Obrigado.}
+{108}{}{Você diz que Gizmo e um visionario. Qual é a sua visao?}
+{109}{}{Quais são as odds like nos jogos aqui?}
+{110}{}{Meu amigo, eu odeio me impor, mas talvez você consiga me ajudar.
+ Eu desenvolvi um sistema de tiro-certo, porque eu descobri como o
+ Gizmo comanda as tabelas dele, mas eu não tenho as tampinhas pra
+ jogar.}
+{111}{}{ [Você tem a sensacao de que ele esta tentando scam you.]}
+{112}{}{Talvez você possa dar alguns tampinhas? Eu garanto o sucesso.}
+{113}{}{Com certeza, soa bem.}
+{114}{}{Não, obrigado.}
+{115}{}{Eu acho que você esta mentindo. Você esta tentando me scam.}
+{116}{}{Lamento, mi amigo. Ei, deixe-me mostrar a você um jogo bacana . . .}
+{117}{}{Muito obrigado, mi amigo! Em alguns dias eu serei capaz de
+ pagar você de volta, com interesse. Meu sistema e lento, você
+ entende, ele requer muita paciencia, mas certamente 
+ otimos lucros!}
+{118}{}{Muito bem, mas eu garanto o sucesso! Se você quer adquirir
+ riquezas apenas esperando, volte em breve ou eu acharei outro
+ parceiro!}
+{119}{}{Meu amigo, eu vejo que você e um homem de muito gosto tambem.
+ Talvez um simples jogo de dados?}
+{120}{}{Tudo bem!}
+{121}{}{Não, obrigado, eu prefiriria tentar algo mais.}
+{122}{}{Gizmo teve um sonho de montar um lugar aonde as pessoas
+ pudessem se encontrar e se divertir. Ele teve a ambicao pra
+ faze-lo acontecer. O resultado e o cassino que você vê aqui.}
+{123}{}{Ele da as pessoas uma chance de shrug off os cuidados deles no
+ mundo quebrado do lado de fora. É ele traz dinheiro pra Junktown!}
+{124}{}{Soa como uma boa ideia.}
+{125}{}{A vida e difícil o bastante. Eu não confio nos motivos de alguém
+ que encorajaria as pessoas a perderem o dinheiro delas.}
+{126}{}{Você obviamente não compartilha do brilhantismo do Gizmo. Este lugar
+ e um respite da dureza da vida de todo dia.}
+{127}{}{Bem, o Gizmo comanda uma casa muito boa, embora os jogos são,
+ como nos diremos, um tanto favoraveis a casa. Apesar disso não e
+ como se os negociantes dele trapaceassem. Mas a menos que você
+ tenha um sistema como eu, você precisara ser muito esperto.}
+{128}{}{Obrigado.}
+{129}{}{}
+{130}{}{Como esta indo o seu sistema?}
+{131}{}{Nada, obrigado.}
+{132}{}{Meu sistema esta se desenvolvendo lentamente. Eu tenho custos de vida
+ e tal, você entende, mas esta funcionando!}
+{133}{}{Isso e otimo!}
+{134}{}{Eu acho que você e um mentiroso e um trapaceiro. Onde esta meu dinheiro?}
+{135}{}{Então você pensa que você have tumbled to me, eh? Bem, você não
+ conseguira nada de mim!}
+
+#
+# TRANSLATION NOTE: The following two lines are identical in English, but they
+# differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+
+{136}{}{Buenos dias, meu amigo! O que eu posso fazer por você hoje?}
+{137}{}{Buenos dias, minha amiga! O que eu posso fazer por você hoje?}

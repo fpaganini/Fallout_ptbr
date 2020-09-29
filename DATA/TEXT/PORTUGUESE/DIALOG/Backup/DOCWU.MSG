@@ -1,0 +1,104 @@
+{100}{}{[Mais]}
+{101}{}{[Feito]}
+{102}{}{Cabeca de merda! Você se feriu de novo, seu bastardo estúpido!}
+{103}{}{Cabeca de merda! Você se feriu de novo, sua piranha estupida!}
+{105}{}{Cuzao! Você não escuta as mensagens de paz?}
+{106}{}{Ei, eu estava tentando ajudar a causa!}
+{107}{}{Eu quero fazer algumas perguntas.}
+{108}{}{Apenas me conserte, ok, dr.?}
+{109}{}{Suas modos na cama são uma droga.}
+{110}{}{Doutor, eu preciso muito de uma bebida! Tem algum alcool rubbing?}
+{111}{}{Continue com isso e você precisara de um doutor.}
+{112}{}{Ow! Oooo! Hnnh!}
+{113}{}{O que você quer?! Por que vocês cuzoes nunca aprendem? Eu estou cansado de usar
+ meus talentos em perdedores. Atire reto da proxima vez! Não deixe eles atirarem em você.}
+{114}{}{Eu estava em menor numbero!}
+{115}{}{O que é você, um doutor de cuzoes?}
+{116}{}{Talvez eu usarei você para a pratica de tiro ao alvo.}
+{117}{}{Filho da puta incompetente! Você precisa de cura DE NOVO! Eu espero que eles
+ matem você da proxima vez!}
+{118}{}{Obrigado pelo suporte moral, dr.}
+{119}{}{Eu espero que eles peguem você, tambem . . .}
+{120}{}{Se eles o fizerem, você caira primeiro.}
+{121}{}{Qual e seu problema, cuzao? Talvez eu ponha
+ você pra dormir, cabeca de merda!}
+{122}{}{Você poe muitas pessoas pra dormir, dr.?}
+{123}{}{Melhor você não tentar.}
+{124}{}{Eu snooze, você perde, cuzao!}
+{125}{}{A causa não é ajudada por retardados! Por que você esta me aborrecendo?
+ Eu sou um doutor muito ocupado, cuzao! Você precisa de mim ou não?}
+{126}{}{O que esta mantendo você ocupado?}
+{127}{}{Com certeza, dr.}
+{128}{}{Agora mesmo, não.}
+{129}{}{Qual e o seu diagnostico, dr.?}
+{130}{}{Eu não sou uma biblioteca! Você vai lá fora por respostas! Saia agora!}
+{131}{}{Certo! É sempre remendar você! Consertar você! Cuzao!}
+{132}{}{Eu ouvi que eles disseram coisas muito ruins sobre você . . .}
+{133}{}{Os inimigos do Mestre não pararao por nada para desacreditar os Fieis.}
+{134}{}{Você fez um juramento, doutor. Faca o seu trabalho.}
+{135}{}{Esqueça. Eu não posso confiar em você.}
+{136}{}{Me cure ou morra, doutor!}
+{137}{}{Isto deve faze-lo . . .}
+{138}{}{Owww!!}
+{139}{}{Há há há!}
+{140}{}{Você gritou como uma mulher! Há há há!}
+{141}{}{Piranha não deveria brincar em um mundo de homem! Há há há!}
+{142}{}{Vá pro inferno! Você quer ser consertadoa ou você quer apenas ser um cuzao?}
+{143}{}{Sue perdedor! Por que você não rasteja pro Glow e lambe as pocas?
+ Cuzao viciado bebado estúpido!}
+{144}{}{É talvez você precisa de um doutor um dia e o doutor não estara lá.
+ Cuzao do psycho! Você quer ser consertado? Talvez eu faca algo sobre a
+ merda no seu cerebro tambem!}
+{145}{}{Certo -- faca-o e cale-se!}
+{146}{}{Vá pro Inferno.}
+{147}{}{Cale-se e me de um diagnostico.}
+{148}{}{Seu idiota estúpido! Você e muito estúpido pra sentir dor. Você me
+ lembra de uma forma de vida menor!}
+{149}{}{Eu ouvi que você e tão louco quanto você e estúpido!}
+{150}{}{Há há! Você realmente e estupidoa! Eu acabei de dar a você um veneno letal! Há há há!}
+{151}{}{Isto machucara muito!}
+{152}{}{Aaaaagh!}
+{153}{}{Você gritou como um porco castrado! Há há há!}
+{154}{}{Você é um idiota! Qualidade, não quantidade! Você acha que os Nightkin se
+ importam quando eles estão em menor numero? Vá chorar pra sua mae, seu bebezinho!
+ Agora, você quer ficar melhor ou não?}
+{155}{}{Fique quieto ou eu arrancarei suas cordas vocais! Debark você com a um
+ cachorro! Há há há! Agora, você quer ficar melhor ou não?}
+{156}{}{Eu sou um doutor, não uma lider de torcida! Você precisa de cura ou não?}
+{157}{}{Eu estou tremendo, cuzao! Agora, você quer ficar bem ou não?}
+{158}{}{Faca. Apenas não ferre comigo!}
+{159}{}{Damn straight eu ferro. Tem que haver um doutor de verdade neste lugar.}
+{160}{}{Apenas de uma olhada e veja o que esta destruido primeiro.}
+{161}{}{Os Nightkin preferem fazer isso. Eu dou drogas pra eles as vezes. Ninguem presta
+ atenção no Doutor Wu. Eles são todos cuzoes! Agora, você quer ser consertado?}
+{162}{}{Remende, dr.!}
+{163}{}{Se os Nightkin não confiam em você, nem eu. Eu estou fora daqui.}
+{164}{}{Idiota! Catedral muito ocupada! A Unidade mantem o Doutor Wu muito ocupado!
+ Agora, você quer ser consertado?}
+{165}{}{Agora vem a parte divertida!}
+{166}{}{Isto deve fazelo . . .}
+{167}{}{Que dork! Eu ouvi muito mais gritos de crianças! Há há há!}
+{168}{}{Eu fiz a piranha gritar! Há há há!}
+{169}{}{Cuzao! Cabeca de merca! Eu estou muito ocupado, e você tem que me aborrecer!
+ Vai se ferrar! Saia daqui seu puke! Agora!}
+{170}{}{Você esta saudável como um brahmin, mas não tão brilhante! Saia daqui,
+ seu cuzao hipocondriaco!}
+{171}{}{Você tem alguns ferimentos. Eu posso consertar isso, cabeca de rola, se você
+ ficar bem parado!}
+{172}{}{Você trata seu corpo como merda. Você deve ser um verdadeiro idiota. Eu
+ poderia acabar com sua miseria, ou eu poderia consertar você.}
+{173}{}{Não agora.}
+{174}{}{Certo. Mas eu espero que eu realize uma autopsia em você no fim do dia!}
+{175}{}{Ow! Seu pequeno . . .}
+{176}{}{Agora saia daqui, e não volte!}
+{177}{}{Certo, eu curo você!}
+{178}{}{Isso deve consertar você realmente bem!}
+{179}{}{Então saia, cuzao! Eu estarei rindo para seu cadaver em breve.}
+{180}{}{Seu pequeno cuzao! Quem você pensa que você e pra aborrecer o Dr. Wu?
+ Cabeca de merda estúpido!}
+{181}{}{Você tem alguns ferimentos. Eu posso consertar isso, cabeca de rola, se você
+ ficar bem parado!}
+{182}{}{Cinco ossos quebrados pelo menos, e você perdeu um monte de sangue.
+ Ser um idiota e perigoso pra sua saude! Você quer ser consertado?}
+{183}{}{Depende da definicao de "conserto" você pode me tratar, dr.}
+{184}{}{Mir ir.}

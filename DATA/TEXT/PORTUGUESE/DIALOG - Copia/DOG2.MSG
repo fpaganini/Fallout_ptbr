@@ -1,0 +1,3 @@
+{100}{}{Vem aqui, garoto.}
+{101}{}{Ruff. Ruff.}
+{102}{}{Por alguma razão este cachorro gosta de você.}

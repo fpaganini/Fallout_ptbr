@@ -1,0 +1,2 @@
+{100}{}{Estas portas foram explodidas pela ogiva nuclear.}
+{101}{}{A porta esta welded muito tight pra você abri-lá.}

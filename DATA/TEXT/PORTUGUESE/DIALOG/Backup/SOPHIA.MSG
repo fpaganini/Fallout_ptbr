@@ -1,0 +1,135 @@
+{100}{}{Você vê a Sophia, uma instrutora para os Iniciados da Irmandade.}
+{101}{}{Certo, alguém tem quaisqer perguntas?}
+{102}{}{Lembre-se de fazer perguntas se você não entende algo. Não seja timido.}
+{103}{}{Reveja suas anotaçoes.}
+{104}{}{Nós teremos outro teste amanha para aqueles de vocês que estão na seçao 14.}
+{105}{}{Eu lamento, mas eu não posso falar agora. Eu tenho uma classe pra comandar.}
+{106}{}{Eu entendo que você tem algo pra mim.}
+{107}{}{Sim. Você esta aqui.}
+{108}{}{Sim, mas eu não o tenho comigo agora.}
+{109}{}{Você.}
+{110}{}{Eu lamento, mas eu tenho uma classe pra comandar. Por favor não me perturbe.}
+{111}{}{Você não deveria estar aqui. A Vree não gosta de ser aborrecida a noite. Esta é a hora de meditar.}
+{112}{}{Nós estamos meditando. Por favor volte de manha.}
+{113}{}{Deixe-nos.}
+{114}{}{Tenha um pouco de respeito. Não aborreça alguém enquanto eles estão meditando.}
+{115}{}{Vocês Iniciados tem muito a aprender. Por favor saiam.}
+{116}{}{Não me aborreça.}
+{117}{}{Nós não estamos disponiveis durante a noite. Por favor nos veja de manha.}
+{118}{}{É de noite. Você deveria estar na cama, a menos que você tenha o dever da guarda, neste caso você deveria estar no seu posto.}
+{200}{}{Ola Iniciado. Como eu posso ajudar você?}
+{201}{}{Eu entendo que você tem algo pra mim?}
+{202}{}{Sim, você esta aqui.}
+{203}{}{Sim, mas eu não o tenho comigo agora.}
+{204}{}{Eu? Não, lamento. Você deve ter me confundido com outra pessoa.}
+{205}{}{Uk.}
+{206}{}{Muito obrigado. Foi bacana você trazer isto aqui.}
+{207}{}{Um, obrigado. Você esta ok? Bem, de qualquer modo foi bom você trazer estes.}
+{208}{}{Minha pesquisa teria atrasado sem eles. É bom que nos tenhamos tal Iniciado de confiança. Eu sabia
+ que trazer um forasteiro não seria uma decisao ruim. Se você for ver o Michael ele tera algo pra você.}
+{301}{}{Saudaçoes. Eu não vi você antes, você esta perdido?
+ Eu posso ser de ajuda?}
+{302}{}{Uh......}
+{303}{}{Você poderia me direcionar para a biblioteca?}
+{304}{}{Eu estou procurando pela Vree.}
+{305}{}{O que é este lugar?}
+{306}{}{Se eu estivesse perdido eu não estaria perguntando a um idiota como você por ajuda!}
+{307}{}{Eu não posso acreditar nos tipos de pessoas que nos aceitamos como Iniciados estes
+ dias. Que Deus nos ajude.}
+{308}{}{Esta é a biblioteca. Aqui nos mantemos os registros de todos os dados técnicos
+ sobre as armas e technologia e claro, a historia da Irmandade.}
+{309}{}{Eu preciso de um chip purificador de água reparado. Você pode me ajudar?}
+{310}{}{Eu gostaria de saber mais sobre as armas que vocês fazem aqui.}
+{311}{}{Este e o lugar aonde eu acharia holo-discos?}
+{312}{}{Deixa pra lá, obrigado a você pelo seu tempo.}
+{313}{}{Eu estou procurando por uma arma grande pra melhorar minhas tecnicas de matar pessoas.}
+{314}{}{Eu sou assistente da Vree. A Vree esta ali.}
+{315}{}{Obrigado.}
+{316}{}{O que é que você faz como assistente da Vree?}
+{317}{}{Minha area de expertise é a historia da Irmandade. Soa como
+ um problema de fabricaçao, talvez você devesse perguntar a Vree?}
+{318}{}{Eu pensei que os escribas soubessem este tipo de coisa.}
+{319}{}{Eu gostaria de saber sobre a historia da Irmandade.}
+{320}{}{De grande ajuda você e!}
+{321}{}{Certo, obrigado pela sua ajuda.}
+{322}{}{Você deve falar com a Vree, a escriba chefe, sobre isso.
+ Eu tenho coisas mais importantes pra fazer.}
+{323}{}{Eu irei perguntar a Vree.}
+{324}{}{Coisas mais importantes pra fazer? Como o que?}
+{325}{}{Você não considera que o armeiro da Irmandade seja importante?}
+{326}{}{Nós temos muitos holo-discos aqui na biblioteca. Eles estão divididos
+ entre historia, technologia e design das armas.}
+{327}{}{Eu gostaria de ver um holo-disco sobre sua tecnologia.}
+{328}{}{Eu gostaria de ver um holo-disco sobre o design das armas.}
+{329}{}{Eu gostaria de ver um holo-disco sobre a historia da Irmandade.}
+{330}{}{Eu fui enviado aqui pra perguntar a Vree sobre a historia da Irmandade.}
+{331}{}{Minha area de especialidade é a historia da Irmandade. Parece que
+ algumas pessoas por aqui esqueceram a importancia da nossa historia.}
+{332}{}{O que você pode me dizer sobre a historia da Irmandade?}
+{333}{}{O que poderia ser mais importante do que a historia?}
+{334}{}{Deve estar perto daquele tempo do mes, huh?}
+{335}{}{Eu gostaria de perguntar a alguém sobre as armas.}
+{336}{}{Como manter a historia da Irmandade. Parece que algumas	pessoas
+ por aqui esqueceram do quao importante nossa historia é.}
+{337}{}{A Vree parece pensar que a pesquisa de novos armamentos é a informaçao
+ juntada das autopsias dos mutantes são mais importante do que nossa historia.
+ Ela esqueceu que nossa historia é uma parte vital das nossas vidas. Ficou tão
+ ruim que muitos dos nossos Iniciados nem ao menos sabem quem Roger Maxson e
+ ou o que exatamente ele fez por nos.}
+{338}{}{Eu gostaria de aprender mais sobre a historia da Irmandade. Você tem
+ qualquer informaçao que você possa me dar?}
+{339}{}{Hmmm, parece que a Vree é a pessoa com quem eu quero falar. Tchau.}
+{341}{}{Soa como se a Vree teve a ideia certa! De qualquer modo quem precisa
+ saber deste lixo!?!}
+{342}{}{Eu concordo que a historia e importante, mas nova technologia e armas
+ melhores e o que eu estou procurando.}
+{343}{}{Você precisa falar com a Vree sobre coisas dessa natureza.}
+{344}{}{Estas são coisas que só os escribas e paladinos tem acesso.
+ A Vree pode ser capaz de ajudar você.}
+{345}{}{Obrigado, eu irei perguntar a Vree.}
+{346}{}{Há quaisquer holo-discos que eu possa ter acesso?}
+{347}{}{Você obviamente não é a pessoa certa com quem eu devo estar falando. Tchau.}
+{348}{}{Bem, e bom ver alguém interessado na nossa grande historia. Ao contrario de outros
+ por aqui. Aqui vai. Este e um disco de algumas das nossas gravaçoes mais primarias.}
+{349}{}{Obrigado.}
+{350}{}{Eu não me importo com esta bosta. Obrigado por nada.}
+{351}{}{Nossa historia esta disponivel pra todos. Para que eles aprendam nossa
+ grande historia. Não que alguém ja tenha olhado pra ela...}
+{352}{}{Eu gostaria de ver qualquer coisa que você tenha sobre a historia do Irmao.}
+{353}{}{Mesmo? Eu tambem não me importo, apenas me mostre as armas.}
+{354}{}{Saudaçoes. Eu não vi você aqui antes, você esta perdido?
+ Eu posso ser de ajuda?}
+{355}{}{Uh......}
+{356}{}{Você poderia me direcionar para a biblioteca?}
+{357}{}{Eu fui enviado aqui pra falar com a Vree sobre a historia da Irmandade.}
+{358}{}{Se eu estivesse perdido eu não estaria perguntando a um idiota como você por ajuda!}
+{359}{}{Você não foi longem com isso não e? A Vree esta muito ocupada com
+ os "experimentos" dela pra não se importar mais com historia.}
+{360}{}{Bem, então com quem eu devo falar sobre a historia da Irmandade?}
+{361}{}{Sim, a Irmandade parece estar cheia de idiotas.}
+{362}{}{Nem eu. Tchau.}
+{363}{}{Eu não falarei com você.}
+{364}{}{Como eu posso ajudar você?}
+{365}{}{O que você faz aqui?}
+{366}{}{O que você poderia me dizer sobre a historia da Irmandade.}
+{367}{}{Lamento, Eu pensei que você era outra pessoa. Tchau.}
+{368}{}{Eu sou assistente da Vree.}
+{369}{}{Obrigado.}
+{370}{}{O que é que você faz como assistente da Vree?}
+{371}{}{Bem, e bom ver alguém interessado na nossa grande historia. Ao contrario de outros
+ por aqui. Aqui vai. Este e um disco de algumas das nossas gravaçoes mais primarias.}
+{372}{}{Obrigado.}
+{373}{}{Eu não me importo com esta bosta. Obrigado por nada.}
+{374}{}{Eu dei a você o disco com algumas das nossas gravaçoes primarias nele.
+ Apenas carregue-o no seu PIPBoy 2000 e você sera capaz de le-lo.}
+{375}{}{Obrigado.}
+{376}{}{Eu não me importo com esta bosta. Obrigado por nada.}
+{377}{}{Eu não gosto da sua atitude e eu escolhi não falar com você.}
+{378}{}{Então que seja. Tchau!}
+{379}{}{Eu lamento, eu fui muito rude e eu peço desculpas.}
+{380}{}{Eu aceito suas desculpas. Agora como eu posso ajudar você?}
+{381}{}{O que você faz aqui?}
+{382}{}{O que você poderia me dizer sobre a historia da Irmandade.}
+{383}{}{Lamento, Eu pensei que você era outra pessoa. Tchau.}
+{384}{}{Eu sou assistente da Vree. A Vree esta no Centro de Apredizado.}
+{400}{}{Você vê uma instrutora para os Iniciados da Irmandade.}

@@ -1,0 +1,12 @@
+{100}{}{Você vê um Ghoul Lookout.}
+{101}{}{Eu não posso falar agora. Eu estou vigiando pra evitar o perigo.}
+{102}{}{Um espiao humano!}
+{103}{}{O que você esta fazendo aqui embaixo?}
+{104}{}{Hmm, não muito. O que você esta fazendo?}
+{105}{}{Eu estou olhando por ai.}
+{106}{}{Huh.}
+{107}{}{Por que, nada. Eu vivo aqui.}
+{108}{}{Você não achara nada aqui. Vai embora.}
+{109}{}{[Feito]}
+{200}{}{Nós não seremos capazes de sobreviver sem água.}
+{201}{}{Por favor fale com nosso lider antes de você sair.}

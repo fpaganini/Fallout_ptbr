@@ -1,0 +1,99 @@
+{100}{}{Você vê o Kyle.}
+{101}{}{Você vê um Cavaleiro.}
+{102}{}{Ahh... Então você e aquele, huh?}
+{103}{}{O que?}
+{104}{}{Bem, quem é você?}
+{105}{}{Nada. É que ninguém jamais voltou da Antiga
+ Ordem.}
+{106}{}{O que você faz aqui?}
+{107}{}{O que? Então por que eles me enviaram lá embaixo?}
+{108}{}{Foi difícil, mas não impossivel.}
+{109}{}{Ei, heh. Eu creio que eles apenas queriam ser livrar de você, huh?
+ Bem, as piadas deles.}
+{110}{}{Sim. Diga, o que você faz aqui?}
+{111}{}{Bem, a unica razão pela qual eu me uni foi pra obter uma power armor.}
+{112}{}{Danem-se todos vocês caras. Eu estou saindo.}
+{113}{}{Eu conserto coisas, dirijo verificações de manutencao, esse tipo de bosta.}
+{114}{}{Você conseguiria consertar um chip purificador de água?}
+{115}{}{Que tipo de "coisas"?}
+{116}{}{Isso soa como uma diversão de verdade. Eu verei você mais tarde.}
+{117}{}{Power armor e qualquer coisa mais que precise de conserto.}
+{118}{}{Como eu posso pôr minhas maos numa power armor?}
+{119}{}{Eu daria a você esta power armor bem aqui, mas esta faltando o Motivador
+ Sistolico dela. É inutil sem ele.}
+{120}{}{Aonde alguém poderia obter uma dessas?}
+{121}{}{Bem, obrigado de qualquer maneira.}
+{122}{}{Bem, eles tem mais do que o bastante na sala de suprimentos, mas
+ o Michael e os malditos formularios dele dizem que este particular suit
+ não esta apto pras especificações. Malditos burocratas.}
+{123}{}{O que você quer dizer, não apto pras especificações?}
+{124}{}{Então se eu trouxesse pra você um Motivador Sistolico, você a
+ consertaria pra mim?}
+{125}{}{Você vê este pedaço de olho bem aqui? Eu tive que re-solda-lo
+ no lugar, e não parece tão bonito quanto precisa para a inspecao, eu
+ creio.}
+{126}{}{Você esta certo. Isso parece bosta. Eu não seria pego morto
+ nessa power armor.}
+{127}{}{Saia daqui camarada.}
+{128}{}{Whoa, espere um minuto ai, camarada, isso levaria algumas boas
+ horas. Eu esprestaria a você um manual e minhas ferramentas, mas você
+ teria que repara-las você mesmo.}
+{129}{}{Bem, alem do Michael, aonde mais eu poderia obter uma?}
+{130}{}{Isso e justo. Eu voltarei.}
+{131}{}{Ei, bem, Rhombus tem algumas. Apesar disso eu não pediria a ele
+ por uma. So "Os Honrados" are supposed usar estas armaduras de força
+ aqui. Alem disso, eu acho que ele tem um apreco não natural a elas.}
+{132}{}{Hmm. Certo, muito obrigado.}
+{133}{}{Eu acho que não. Nem mesmo sei o que é uma.}
+{134}{}{Obrigado de qualquer maneira.}
+{135}{}{Que tipo de mecanico fraco e você, não consegue nem ao menos
+ consertar um chip purificador de água?}
+{136}{}{Como eu posso conseguir uma power armor sem estudar por
+ cem anos?}
+{137}{}{O moniker's Kyle. Eu nunca encontrei um mito antes.}
+{138}{}{O que isso supostamente quer dizer?}
+{139}{}{O que você faz aqui?}
+{140}{}{Nem eu. Eu verei você por ai.}
+{141}{}{Se ouvisse as historias do Maxson você acharia que era o
+ nono nivel do inferno.}
+{142}{}{Maxson? General Maxson?}
+{143}{}{Não o General Maxson, o avo dele, Roger Maxson. Eu ouvi que você
+ trouxe de volta um disco que disse o que aconteceu com os caras que se
+ rebelaram contra ele e foram lá embaixo recuperar a tecnologia perdida.}
+{144}{}{Sim, eu creio que eu trouxe, Eu sou }
+{145}{}{, quem é você?}
+{146}{}{Eu prefiriria não falar a respeito.}
+{147}{}{Sim, bastardos lousy. Eu não consigo acreditar que eles enviaram
+ você lá embaixo assim.}
+{148}{}{É tudo que eles me deram pelo meus problemas foi um handful de municao!}
+{149}{}{Ei, iniciado, tem algo para mim?}
+{150}{}{Não, eu disse a eles que você me enviou e que ele não me daria a parte.}
+{151}{}{Não, eu não olhei isso ainda.}
+{152}{}{Sem sorte ainda.}
+{153}{}{Não brinca. É aqui eu pensava que você era esperto. Eu disse a você
+ que aquele cara tinha formularios oficiais no lugar do cerebro.}
+{154}{}{Cuidado com quem você chama de idiota.}
+{155}{}{Eu estava apenas tentando tirar na conversa com o Michael.}
+{156}{}{O que eu posso fazer se o Michael não a da para mim?}
+{157}{}{Eu estou indo.}
+{158}{}{Bem... eu tenho que dar credito a você por isso. Mas eu acho que você estragou
+ suas chances de conseguir da sala de suprimentos. Você tera que achar outro jeito
+ de consegui-lá. Ou achar você mesmo a Power Armor em algum outro lugar.}
+{159}{}{OK, vejo você mais tarde.}
+{160}{}{Aonde mais eu posso escavar uma?}
+{161}{}{Boa sorte.}
+{162}{}{Suma, eu estou ocupado.}
+{163}{}{Ola, você foi capaz de pegar aquela parte?}
+{164}{}{Sim. Aqui esta.}
+{165}{}{Sim, mas eu acho que eu a manterei por um pouco de tempo.}
+{166}{}{Ótimo! Aqui, apenas deixe-me instalar isto na unidade.}
+{167}{}{OK, você esta pronto pra ir. Aqui, leve este manual. Se você tiver
+ qualquer tipo de aptidao pra reparar coisas você não deve ter problema.
+ Boa sorte.}
+{168}{}{Apos tudo isso? Certo, apenas me deixe saber quando você quiser que eu a
+ ponha dentro. Então você pode começar a repara-lá.}
+{169}{}{Bem, eu não sei o que dizer a você. Eu creio que você precisa polir
+ suas tecnicas de reparacao um pouco. Eu manterei a unidade aqui pra você.}
+{170}{}{Certo. Obrigado a você. Tchau.}
+{171}{}{Ola de novo. Eu poss ajudar você?}
+{300}{}{[mais]}

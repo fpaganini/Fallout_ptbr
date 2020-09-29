@@ -1,211 +1,211 @@
-{100}{}{VocÃª vÃª Harold.}
+{100}{}{Você vê Harold.}
 {101}{HROLD0}{
-MudanÃ§a de reposiÃ§Ã£o, velho amigo, velho amigo? VocÃª pode ajudar um pobre mutante na sua sorte? [Tosse]}
-{102}{}{Yeah, aqui estÃ¡ $ 25. Boa sorte para vocÃª.}
+Mudança de reposição, velho amigo, velho amigo? Você pode ajudar um pobre mutante na sua sorte? [Tosse]}
+{102}{}{Yeah, aqui está $ 25. Boa sorte para você.}
 {103}{}{Como cerca de US $ 5.}
-{104}{}{Desculpe, nÃ£o tem nenhum dinheiro comigo}
+{104}{}{Desculpe, não tem nenhum dinheiro comigo}
 {105}{}{Fique longe de mim!}
 {106}{}{Uhhh?}
 {107}{HROLD1}{
-Nossa. VocÃª estÃ¡ pior do que eu, amigo. Sorte para vocÃª.}
+Nossa. Você está pior do que eu, amigo. Sorte para você.}
 {108}{HROLD2}{
-Ah, tipo de vocÃª, amigo. Muito gentil. VocÃª sabe, se eu pudesse tirar a gosma de lÃ¡, vocÃª poderia encontrar uma lÃ¡grima no olho do velho Harold.}
+Ah, tipo de você, amigo. Muito gentil. Você sabe, se eu pudesse tirar a gosma de lá, você poderia encontrar uma lágrima no olho do velho Harold.}
 {109}{} {Por que isso?}
 {110}{} {Seja bem-vindo.}
 {111} {HROLD3}{
-[Cough] O resto dos Hubbers tem me cutucado como um maluco desde que voltei para a cidade. Eu nÃ£o posso sair, no entanto. Quando as negociaÃ§Ãµes sÃ£o feitas, ainda Ã© minha casa.}
-{112}{}{O que aconteceu com vocÃª?}
-{113}{}{Quem sÃ£o os Hubbers?}
-{114}{}{Espero que as coisas melhorem. AtÃ© a prÃ³xima.}
+[Cough] O resto dos Hubbers tem me cutucado como um maluco desde que voltei para a cidade. Eu não posso sair, no entanto. Quando as negociações são feitas, ainda é minha casa.}
+{112}{}{O que aconteceu com você?}
+{113}{}{Quem são os Hubbers?}
+{114}{}{Espero que as coisas melhorem. Até a próxima.}
 {115}{HROLD4}{
 Bem, depois da Grande Guerra, o meu Cofre foi um dos primeiros a abrir. [Respira fundo] Ufa. Muito tempo.}
 {116}{}{Conte-me mais sobre esses dias.}
-{117}{}{NÃ£o, nÃ£o. Eu quis dizer o que aconteceu para mudar vocÃª?}
+{117}{}{Não, não. Eu quis dizer o que aconteceu para mudar você?}
 {118}{HROLD5}{
-Tudo comeÃ§ou com as sirenes. Eu era jovem, mas eu lembro disso. Lotta anos terrÃ­veis se seguiram. Ã‰ lembro-me de ter saÃ­do do Vault uma manhÃ£.}
-{119}{}{O que vocÃª fez entÃ£o?}
+Tudo começou com as sirenes. Eu era jovem, mas eu lembro disso. Lotta anos terríveis se seguiram. É lembro-me de ter saído do Vault uma manhã.}
+{119}{}{O que você fez então?}
 {120}{}{Onde seu cofre foi localizado?}
-{121}{}{VocÃª percebe quantos anos vocÃª tem?}
+{121}{}{Você percebe quantos anos você tem?}
 {122}{HROLD6}{
-VocÃª sabe, [tosse] eu nÃ£o tenho mais certeza. Oeste, eu acho. Aguarde - leste? Eu nÃ£o sei. [Tosse seca]}
-{123}{}{O que vocÃª fez entÃ£o?}
+Você sabe, [tosse] eu não tenho mais certeza. Oeste, eu acho. Aguarde - leste? Eu não sei. [Tosse seca]}
+{123}{}{O que você fez então?}
 {124}{HROLD7}{
 Bem, eu era um comerciante. Foi muito bom fazer um circuito entre os sobreviventes. Perdeu muitas pessoas boas, no entanto. [Tosses]}
 {125} {} {Como?}
 {126} {HROLD8}{
-Gangers tem eles. Scavengers atacando as caravanas. Ã‰ mutantes, filho de um cachorro, se nÃ£o estivessem surgindo como coelhos com uma missÃ£o. [tosse] Tinha que ter um exÃ©rcito de guardas, sÃ³ para fazer um acordo.}
-{127}{}{Os guardas nÃ£o ajudaram?}
+Gangers tem eles. Scavengers atacando as caravanas. É mutantes, filho de um cachorro, se não estivessem surgindo como coelhos com uma missão. [tosse] Tinha que ter um exército de guardas, só para fazer um acordo.}
+{127}{}{Os guardas não ajudaram?}
 {128}{}{De onde vieram os mutantes?}
 {129}{HROLD9}{
-Claro que eles ajudaram, Ã³ idiota! Apenas muitos malditos para lidar!}
-{130}{}{Como vocÃª sobreviveu aos ataques mutantes?}
+Claro que eles ajudaram, ó idiota! Apenas muitos malditos para lidar!}
+{130}{}{Como você sobreviveu aos ataques mutantes?}
 {131}{HROLD9A}{
-NÃ£o fez. Foi morto. [Tosse rindo] Ame essa piada.}
+Não fez. Foi morto. [Tosse rindo] Ame essa piada.}
 {132}{}{Uh, sim}
 {133}{HROLD10}{
-Em toda parte! Inferno, parecia que vocÃª nÃ£o podia peidar sem bater em um. Mas principalmente no noroeste.}
-{134}{}{VocÃª explorou essa Ã¡rea?}
-{135}{}{Por que vocÃª simplesmente nÃ£o evitou a Ã¡rea?}
-{136}{}{VocÃª peidou para o noroeste?}
+Em toda parte! Inferno, parecia que você não podia peidar sem bater em um. Mas principalmente no noroeste.}
+{134}{}{Você explorou essa área?}
+{135}{}{Por que você simplesmente não evitou a área?}
+{136}{}{Você peidou para o noroeste?}
 {137}{hrold10a} {[risos] Muito bom ... Noo ...}
 {138}{HROLD11}{
-Montamos uma expediÃ§Ã£o. Deus, Richard. Richard Gray. Levou um pequeno grupo de nÃ³s lÃ¡ em cima.}
+Montamos uma expedição. Deus, Richard. Richard Gray. Levou um pequeno grupo de nós lá em cima.}
 {139}{}{Richard Grey?}
-{140}{}{Aonde exatamente vocÃª foi?}
+{140}{}{Aonde exatamente você foi?}
 {141}{HROLD12}{
-Precisava ver o que estava lÃ¡. Talvez pare o que quer que seja que esteja chocalhando os boogers. NÃ³s pensamos que estÃ¡vamos preparados. Estamos errados.}
-{142}{}{O que vocÃª fez?}
+Precisava ver o que estava lá. Talvez pare o que quer que seja que esteja chocalhando os boogers. Nós pensamos que estávamos preparados. Estamos errados.}
+{142}{}{O que você fez?}
 {143}{HROLD13}{
-NÃ£o me lembro da rota nem nada. Mas tenho certeza de que era noroeste, embora ... eu acho.}
-{144}{}{Existe uma versÃ£o mais curta desta histÃ³ria?}
-{145}{}{Ã‰ quanto ao seu lÃ­der?}
+Não me lembro da rota nem nada. Mas tenho certeza de que era noroeste, embora ... eu acho.}
+{144}{}{Existe uma versão mais curta desta história?}
+{145}{}{É quanto ao seu líder?}
 {146}{HROLD14}{
-Richard Gray era um mÃ©dico. Pouco mais velho que eu, e amigo ele era esperto. Ele encontrou a fonte.}
-{147}{}{Ã‰ o que foi isso?}
+Richard Gray era um médico. Pouco mais velho que eu, e amigo ele era esperto. Ele encontrou a fonte.}
+{147}{}{É o que foi isso?}
 {148}{HROLD15}{
-Eu gosto de dizer do meu jeito. VersÃ£o curta vai custar 25 extra, amigo. Qual serÃ¡?}
-{149}{}{Certo, isso Ã© longo.}
+Eu gosto de dizer do meu jeito. Versão curta vai custar 25 extra, amigo. Qual será?}
+{149}{}{Certo, isso é longo.}
 {150}{}{Short}
-{151}{}{Curto, mas nÃ£o tenho dinheiro.}
+{151}{}{Curto, mas não tenho dinheiro.}
 {152}{}{Como sobre nenhum, seu velho peido?}
 {153}{HROLD16}{
-Bem, vocÃª parece um tipo bem. Vou acelerar um pouco.}
+Bem, você parece um tipo bem. Vou acelerar um pouco.}
 {154}{}{Obrigado.}
-{155}{hrold16a}{Mentir para um pobre velho mutante. O que o mundo estÃ¡ chegando? [tosse]}
+{155}{hrold16a}{Mentir para um pobre velho mutante. O que o mundo está chegando? [tosse]}
 {156}{hrold17}{pouca luz sobre os fundos, hein?}
 {157}{hrold17a}{Meu caminho ou ir embora. Sua escolha, amigo.}
 {158}{}{Andando}
-{159}{}{OK. Long isso Ã©.}
+{159}{}{OK. Long isso é.}
 {160}{HROLD18}{
-Algum tipo de base militar antiga. Perdemos muita gente chegando lÃ¡.}
-{161}{}{Como vocÃª sabia que essa base era a causa?}
-{162}{}{O que vocÃª estava enfrentando?}
+Algum tipo de base militar antiga. Perdemos muita gente chegando lá.}
+{161}{}{Como você sabia que essa base era a causa?}
+{162}{}{O que você estava enfrentando?}
 {163}{HROLD19}{
-RobÃ´s e tal. Muitos deles. Surpreendeu-se que ainda estavam correndo depois de todo esse tempo, com a guerra e tudo mais. Whooa boy eles nos rasgaram uma boa.}
-{164}{}{O que vocÃª fez depois de passar pelos robÃ´s?}
+Robôs e tal. Muitos deles. Surpreendeu-se que ainda estavam correndo depois de todo esse tempo, com a guerra e tudo mais. Whooa boy eles nos rasgaram uma boa.}
+{164}{}{O que você fez depois de passar pelos robôs?}
 {165}{HROLD20}{
-Porque era como se alguÃ©m fosse Ã s compras em mutantland! Nossa! Mais barato pelas dezenas! NÃ£o consigo imaginar nenhum outro motivo, exceto que seja a fÃ¡brica.}
-{166}{}{VocÃª examinou a base de perto?}
+Porque era como se alguém fosse às compras em mutantland! Nossa! Mais barato pelas dezenas! Não consigo imaginar nenhum outro motivo, exceto que seja a fábrica.}
+{166}{}{Você examinou a base de perto?}
 {167}{HROLD21}{
-NÃ³s fomos muito longe para dentro. NÃ£o sobraram muitos de nÃ³s atÃ© entÃ£o. Gray, eu e alguns outros.}
-{168}{}{Ã‰ depois?}
+Nós fomos muito longe para dentro. Não sobraram muitos de nós até então. Gray, eu e alguns outros.}
+{168}{}{É depois?}
 {169}{HROLD22}{
-Um deles robÃ´s tem Francine. Mark foi ferido, enviou-o de volta Ã  superfÃ­cie. EntÃ£o foi sÃ³ eu e Gray.}
+Um deles robôs tem Francine. Mark foi ferido, enviou-o de volta à superfície. Então foi só eu e Gray.}
 {170}{}{O que aconteceu com Mark?}
-{171}{}{O que aconteceu entÃ£o?}
+{171}{}{O que aconteceu então?}
 {172}{HROLD23}{
-AtÃ© hoje eu nÃ£o sei. Ele nunca voltou aqui, e ... bem, eu ... nÃ£o pude encarar o terreno baldio novamente, entÃ£o eu ... eu nunca olhei.}
-{173}{}{Ã‰ vocÃª e Gray?}
+Até hoje eu não sei. Ele nunca voltou aqui, e ... bem, eu ... não pude encarar o terreno baldio novamente, então eu ... eu nunca olhei.}
+{173}{}{É você e Gray?}
 {174}{HROLD24}{
-NÃ³s chegamos a algum tipo de nÃºcleo central, como uma planta de algum tipo. Foi quando isso aconteceu.}
-{175}{}{O quÃª?}
+Nós chegamos a algum tipo de núcleo central, como uma planta de algum tipo. Foi quando isso aconteceu.}
+{175}{}{O quê?}
 {176}{HROLD25}{
-Um guindaste de robÃ´ caiu em nÃ³s. Na Ãºltima vez que vi Gray, ele estava voando pelo ar em algum tipo de banho Ã¡cido. Eu estava em mÃ¡ forma e ... bem eu desmaiei.}
-{177}{}{Como vocÃª sobreviveu?}
-{178}{}{Ã‰ vocÃª nunca mais viu Gray?}
-{179}{hrold25a} {NÃ£o fez. Foi morto ... [Risos tossem] Deus, eu amo essa piada.}
+Um guindaste de robô caiu em nós. Na última vez que vi Gray, ele estava voando pelo ar em algum tipo de banho ácido. Eu estava em má forma e ... bem eu desmaiei.}
+{177}{}{Como você sobreviveu?}
+{178}{}{É você nunca mais viu Gray?}
+{179}{hrold25a} {Não fez. Foi morto ... [Risos tossem] Deus, eu amo essa piada.}
 {180}{}{Sim, eu posso dizer.}
 {181}{HROLD26}{
-Bem, eu nÃ£o tenho ideia. Acordou no deserto, mal aguentando. Tive sorte e alguns comerciantes que eu conhecia me acharam dias depois. Ainda bem que eu jÃ¡ estava mudando. Eles me trouxeram aqui e aqui estou desde entÃ£o.}
-{182}{}{Como vocÃª se transformou?}
-{183}{}{Uma Ã³tima histÃ³ria. Obrigado.}
+Bem, eu não tenho ideia. Acordou no deserto, mal aguentando. Tive sorte e alguns comerciantes que eu conhecia me acharam dias depois. Ainda bem que eu já estava mudando. Eles me trouxeram aqui e aqui estou desde então.}
+{182}{}{Como você se transformou?}
+{183}{}{Uma ótima história. Obrigado.}
 {184}{hrold26a}{Bem ... Obrigado por me deixar contar.}
-{185}{}{EntÃ£o essa foi a versÃ£o curta?}
+{185}{}{Então essa foi a versão curta?}
 {186}{hrold26a}{Bem. . . obrigado por me deixar contar.}
 {187}{hrold26b}{Para mim foi.}
 {188}{HROLD27}{
-NÃ£o, seu idiota! Eu apenas disse que nunca mais o vi, nÃ£o foi?}
-{189}{}{Como vocÃª sobreviveu?}
+Não, seu idiota! Eu apenas disse que nunca mais o vi, não foi?}
+{189}{}{Como você sobreviveu?}
 {190}{HROLD28}{
-Tudo o que eu sei, Ã© algo dentro dessa base.}
-{191}{}{VocÃª acha que poderia ter sido radiaÃ§Ã£o?}
-{192}{}{Desculpe, pausa difÃ­cil. Obrigado pela histÃ³ria.}
+Tudo o que eu sei, é algo dentro dessa base.}
+{191}{}{Você acha que poderia ter sido radiação?}
+{192}{}{Desculpe, pausa difícil. Obrigado pela história.}
 {193}{HROLD29}{
-Como diabos eu deveria saber? Gray saberia se alguÃ©m pudesse. [suspiro] Enfim, foi assim que o negÃ³cio caiu.}
-{194}{}{Obrigado pela histÃ³ria}
+Como diabos eu deveria saber? Gray saberia se alguém pudesse. [suspiro] Enfim, foi assim que o negócio caiu.}
+{194}{}{Obrigado pela história}
 {195}{HROLD30}{
-Sim, cerca de um sÃ©culo ou dois em anos de cachorro.}
-{196}{}{O quÃª?}
+Sim, cerca de um século ou dois em anos de cachorro.}
+{196}{}{O quê?}
 {197}{HROLD31}{
 Nevermind, isso foi do meu tempo. Sou rabugenta, velha e sempre fui assim desde que mudei.}
-{198}{}{O que vocÃª fez antes que isso acontecesse com vocÃª?}
+{198}{}{O que você fez antes que isso acontecesse com você?}
 {199}{HROLD32}{
-Bem, eu sofri mutaÃ§Ã£o. Claro que nÃ£o nasceu assim feio. Aconteceu quando tentamos descobrir de onde todos os mutantes estavam vindo.}
+Bem, eu sofri mutação. Claro que não nasceu assim feio. Aconteceu quando tentamos descobrir de onde todos os mutantes estavam vindo.}
 {200}{}{What happened?}
 {201}{HROLD33}{
-EstÃ¡ no passado. Provavelmente deveria ficar assim.}
+Está no passado. Provavelmente deveria ficar assim.}
 {202}{}{Por favor me diga o que aconteceu, pode me ajudar agora.}
-{203}{}{FaÃ§a do seu jeito.}
+{203}{}{Faça do seu jeito.}
 {204}{HROLD34}{
-Bem, se vocÃª colocar dessa maneira. Eu acho que nÃ£o poderia machucar.}
+Bem, se você colocar dessa maneira. Eu acho que não poderia machucar.}
 {205}{}{Obrigado.}
 {206}{HROLD35}{
-NÃ£o nÃ£o. Ã‰ muito doloroso, mesmo agora. Obrigado pela ajuda, amigo. Boa sorte para vocÃª.}
+Não não. É muito doloroso, mesmo agora. Obrigado pela ajuda, amigo. Boa sorte para você.}
 {207}{HROLD36}{
-VocÃª estÃ¡ no Hub, certo? Pessoas que vivem no Hub? Hubbers. Pegue? [tosse] Sheesh! Obrigado pela ajuda e boa sorte ... acho que vocÃª vai precisar.}
+Você está no Hub, certo? Pessoas que vivem no Hub? Hubbers. Pegue? [tosse] Sheesh! Obrigado pela ajuda e boa sorte ... acho que você vai precisar.}
 {208}{HROLD37}{
-VocÃª Ã© tÃ£o ruim quanto o resto deles. [Tosse ofegante]}
+Você é tão ruim quanto o resto deles. [Tosse ofegante]}
 {209}{HROLD38}{
 Ah bem, obrigado de qualquer maneira. [tosse]}
 {210}{HROLD39}{
-Ei, vocÃª pode me ajudar, amigo?}
-{211}{}{Sim, aqui estÃ¡ $ 25.}
+Ei, você pode me ajudar, amigo?}
+{211}{}{Sim, aqui está $ 25.}
 {212}{}{Take $ 5.}
-{213}{}{NÃ£o me insulte}
+{213}{}{Não me insulte}
 {214}{}{Uhhh?}
 {215}{HROLD40}{
-Ei, preciate! Tenho que admitir, quando eu te vi pela primeira vez, [tosse] eu achei que vocÃª poderia me incomodar.}
-{216}{}{Por que vocÃª diz isso?}
-{217}{}{Nah, nÃ£o eu! Tenha um bom dia.}
+Ei, preciate! Tenho que admitir, quando eu te vi pela primeira vez, [tosse] eu achei que você poderia me incomodar.}
+{216}{}{Por que você diz isso?}
+{217}{}{Nah, não eu! Tenha um bom dia.}
 {218}{HROLD41}{
-Ah, ei, Ã© vocÃª de novo.}
-{219}{}{Aqui estÃ¡ $ 20, se precisar.}
+Ah, ei, é você de novo.}
+{219}{}{Aqui está $ 20, se precisar.}
 {220}{}{Oi.}
 {221}{}{Uhh?}
 {222}{hrold42}{Apenas colocando-me, hein?}
 {223}{HROLD43}{
-Algo que eu possa fazer por vocÃª?}
+Algo que eu possa fazer por você?}
 {224}{}{Ouviu algumas boas palavras recentemente?}
-{225}{}{Eu preciso de informaÃ§Ãµes sobre a Garra da Morte, e ouvi dizer que vocÃª Ã© o homem.}
-{226}{}{Qual Ã© a sua histÃ³ria?}
+{225}{}{Eu preciso de informações sobre a Garra da Morte, e ouvi dizer que você é o homem.}
+{226}{}{Qual é a sua história?}
 {227}{}{Nope}
 {228}{hrold43a}{A coisa toda? Bem...}
 {229}{HROLD44}{
-Oooh, bem obrigado. Espero que nÃ£o tenha sido uma grande tensÃ£o. [coughs]}
-{230}{HROLD45}{Oooh, essa coisa. Amigo, essa Ã© a cidade do pesadelo. Por que diabos vocÃª estÃ¡ perguntando sobre isso?}
-{231}{}{Vou matÃ¡-lo.}
+Oooh, bem obrigado. Espero que não tenha sido uma grande tensão. [coughs]}
+{230}{HROLD45}{Oooh, essa coisa. Amigo, essa é a cidade do pesadelo. Por que diabos você está perguntando sobre isso?}
+{231}{}{Vou matá-lo.}
 {232}{}{Se me encontrar, quero saber o que fazer.}
-{233}{HROLD47}{Certo. Bem, Ã© como um grande homem, Ã© o que Ã©. Tem pontas e garras que podem cortar a armadura mais pesada. Mas nÃ£o deixe que o tamanho te engane, Ã© rÃ¡pido.}
+{233}{HROLD47}{Certo. Bem, é como um grande homem, é o que é. Tem pontas e garras que podem cortar a armadura mais pesada. Mas não deixe que o tamanho te engane, é rápido.}
 {234}{}{Alguma fraqueza?}
-{235}{HROLD49}{Bem, pelo que ouvi, talvez bater na cabeÃ§a? Eu tentaria os olhos. Claro, hÃ¡ um problema aÃ­.}
+{235}{HROLD49}{Bem, pelo que ouvi, talvez bater na cabeça? Eu tentaria os olhos. Claro, há um problema aí.}
 {236}{}{Que tipo de problema?}
-{237}{HROLD50}{VocÃª nÃ£o pode olhar para eles! Dizem que a Garra da Morte pode hipnotizar apenas olhando. EntÃ£o ele sobe e "boom", vocÃª Ã© et!}
-{238}{}{Ã“timo, obrigado.}
-{239}{HROLD51}{Boa sorte para vocÃª ... vocÃª vai precisar.}
+{237}{HROLD50}{Você não pode olhar para eles! Dizem que a Garra da Morte pode hipnotizar apenas olhando. Então ele sobe e "boom", você é et!}
+{238}{}{Ótimo, obrigado.}
+{239}{HROLD51}{Boa sorte para você ... você vai precisar.}
 {240}{}{Poderia ser}
-{241}{HROLD52}{VocÃª nÃ£o quer saber sobre a Garra da Morte, e eu nÃ£o vou ser o Ãºnico a te dizer.}
-{242}{HROLD53}{Bem, ouvi dizer que um dos homens de Decker tem alguÃ©m da Irmandade de AÃ§o preso na Cidade Velha.}
+{241}{HROLD52}{Você não quer saber sobre a Garra da Morte, e eu não vou ser o único a te dizer.}
+{242}{HROLD53}{Bem, ouvi dizer que um dos homens de Decker tem alguém da Irmandade de Aço preso na Cidade Velha.}
 {243}{}{Obrigado.}
-{244}{HROLD54}{Eu nÃ£o acredito neste, mas alguns dizem que um exÃ©rcito de mutantes estÃ¡ a caminho. [tosse]}
+{244}{HROLD54}{Eu não acredito neste, mas alguns dizem que um exército de mutantes está a caminho. [tosse]}
 {245}{}{Obrigado.}
 {246}{HROLD55}{Me deixe em paz. [tosse]}
-{247}{}{Eu quero falar com vocÃª.}
-{248}{}{Aqui estÃ¡ algum dinheiro.}
-{249}{HROLD56}{Bem, eu nÃ£o quero falar com vocÃª. VÃ¡ embora!}
-{250}{HROLD57}{NÃ£o quer o seu dinheiro. VÃ¡ embora. [tosse]}
-{251}{hrold200}{Por mais que eu adore negociar, nÃ£o tenho nada para trocar. [tosse]}
+{247}{}{Eu quero falar com você.}
+{248}{}{Aqui está algum dinheiro.}
+{249}{HROLD56}{Bem, eu não quero falar com você. Vá embora!}
+{250}{HROLD57}{Não quer o seu dinheiro. Vá embora. [tosse]}
+{251}{hrold200}{Por mais que eu adore negociar, não tenho nada para trocar. [tosse]}
 {252}{hrold201}{Eu preciso dormir por um tempo. Eu estou meio cansado.}
-{253}{hrold202}{VocÃª pode querer ser mais cuidadoso. [tosse] Ouvi dizer que vocÃª desperdiÃ§ou vÃ¡rias pessoas recentemente.}
-{254}{hrold203}{Umm ... Decker estÃ¡ procurando por vocÃª. Ele quer conversar. [tosse]}
-{255}{hrold204}{Tudo que eu tenho sÃ£o roupas e liberdade, e as Ãºltimas sÃ£o discutÃ­veis.}
-{256}{hrold300}{cara brilhante. Um mÃ©dico e filÃ³sofo. HÃ¡ muito tempo ele liderou a expediÃ§Ã£o onde eu me transformei em mutante.}
-{257}{hrold301}{Quem? Ele Ã© algum tipo de terapeuta sexual? Eu poderia usar um, vocÃª sabe.}
-{258}{hrold302}{Mutantes. NÃ£o importa o que eles se chamam.}
-{259}{hrold303}{Ah, ele. Ele lidera o CÃ­rculo dos LadrÃµes. Pensa que ele Ã© Robin Hood. [tosse] Ele estÃ¡ bem, eu acho.}
-{260}{hrold304}{Eu vi as religiÃµes virem e religiÃµes irem, e eu espero que isso aconteÃ§a. Em breve.}
-{261}{hrold305}{Sim, eu vim de um Vault. Muitas pessoas nÃ£o tÃªm comida e Ã¡gua suficientes. Mas vocÃª nÃ£o sabe nada sobre isso, quer?}
-{262}{hrold306}{HorrÃ­vel. O mundo ficou louco. HÃ¡ muito tempo, mas nunca esquecerei isso. Nunca.}
-{263}{hrold307}{[Cough] Problema. Nada alÃ©m de problemas.}
+{253}{hrold202}{Você pode querer ser mais cuidadoso. [tosse] Ouvi dizer que você desperdiçou várias pessoas recentemente.}
+{254}{hrold203}{Umm ... Decker está procurando por você. Ele quer conversar. [tosse]}
+{255}{hrold204}{Tudo que eu tenho são roupas e liberdade, e as últimas são discutíveis.}
+{256}{hrold300}{cara brilhante. Um médico e filósofo. Há muito tempo ele liderou a expedição onde eu me transformei em mutante.}
+{257}{hrold301}{Quem? Ele é algum tipo de terapeuta sexual? Eu poderia usar um, você sabe.}
+{258}{hrold302}{Mutantes. Não importa o que eles se chamam.}
+{259}{hrold303}{Ah, ele. Ele lidera o Círculo dos Ladrões. Pensa que ele é Robin Hood. [tosse] Ele está bem, eu acho.}
+{260}{hrold304}{Eu vi as religiões virem e religiões irem, e eu espero que isso aconteça. Em breve.}
+{261}{hrold305}{Sim, eu vim de um Vault. Muitas pessoas não têm comida e água suficientes. Mas você não sabe nada sobre isso, quer?}
+{262}{hrold306}{Horrível. O mundo ficou louco. Há muito tempo, mas nunca esquecerei isso. Nunca.}
+{263}{hrold307}{[Cough] Problema. Nada além de problemas.}
 {264}{hrold400}{Bem, como eu disse ...}
 {265}{}{Nada, obrigado.}
 #
@@ -215,20 +215,20 @@ Oooh, bem obrigado. Espero que nÃ£o tenha sido uma grande tensÃ£o. [coughs]}
 # for the case of the player-character feminine ("my friend" will be feminine).
 #
 
-{266}{HROLD0}{MudanÃ§a de reserva, velho amigo, velho amigo? VocÃª pode ajudar um pobre mutante
-Â  na sua sorte? [Tosse]}
-{267}{HROLD0}{MudanÃ§a de reserva, velha amiga, velha amiga? VocÃª pode ajudar um pobre mutante
-Â  na sua sorte? [Tosse]}
-{268}{HROLD2}{Ah, tipo de vocÃª, amigo. Muito gentil. VocÃª sabe, se eu pudesse
-Â  limpar o lamaÃ§al de lÃ¡, vocÃª, sÃ³ pode encontrar uma lÃ¡grima no olho do velho Harold.}
-{269}{HROLD2}{Ah, tipo de vocÃª, amiga. Muito gentil. VocÃª sabe, se eu pudesse
-Â  limpar o lamaÃ§al de lÃ¡, vocÃª, sÃ³ pode encontrar uma lÃ¡grima no olho do velho Harold.}
-{270}{HROLD35}{NÃ£o, nÃ£o. Ã‰ muito doloroso, mesmo agora. Obrigado pela ajuda, amigo.
-Â  Boa sorte para vocÃª.}
-{271}{HROLD35}{NÃ£o, nÃ£o. Ã‰ muito doloroso, mesmo agora. Obrigado pela ajuda, amiga.
-Â  Boa sorte para vocÃª.}
-{272}{HROLD39}{Ei, vocÃª pode me ajudar, amigo?}
-{273}{HROLD39}{Ei, vocÃª pode me ajudar, amiga?}
+{266}{HROLD0}{Mudança de reserva, velho amigo, velho amigo? Você pode ajudar um pobre mutante
+  na sua sorte? [Tosse]}
+{267}{HROLD0}{Mudança de reserva, velha amiga, velha amiga? Você pode ajudar um pobre mutante
+  na sua sorte? [Tosse]}
+{268}{HROLD2}{Ah, tipo de você, amigo. Muito gentil. Você sabe, se eu pudesse
+  limpar o lamaçal de lá, você, só pode encontrar uma lágrima no olho do velho Harold.}
+{269}{HROLD2}{Ah, tipo de você, amiga. Muito gentil. Você sabe, se eu pudesse
+  limpar o lamaçal de lá, você, só pode encontrar uma lágrima no olho do velho Harold.}
+{270}{HROLD35}{Não, não. É muito doloroso, mesmo agora. Obrigado pela ajuda, amigo.
+  Boa sorte para você.}
+{271}{HROLD35}{Não, não. É muito doloroso, mesmo agora. Obrigado pela ajuda, amiga.
+  Boa sorte para você.}
+{272}{HROLD39}{Ei, você pode me ajudar, amigo?}
+{273}{HROLD39}{Ei, você pode me ajudar, amiga?}
 
 #
 # Harold's Tell-Me-Abouts
@@ -245,12 +245,12 @@ Oooh, bem obrigado. Espero que nÃ£o tenha sido uma grande tensÃ£o. [coughs]}
 {1007}{}{Decker}
 {1008}{}{Grey}
 
-{1100}{hrold300}{Cara brilhante. Um mÃ©dico e filÃ³sofo. HÃ¡ muito tempo ele liderou a expediÃ§Ã£o onde eu me transformei em mutante.}
-{1101}{hrold301}{Quem? Ele Ã© algum tipo de terapeuta sexual? Eu poderia usar um, vocÃª sabe.}
-{1102}{hrold302}{Mutantes. NÃ£o importa o que eles se chamam.}
-{1103}{hrold303}{Ah, ele. Ele lidera o CÃ­rculo dos LadrÃµes. Pensa que ele Ã© Robin Hood. [tosse] Ele estÃ¡ bem, eu acho.}
-{1104}{hrold304}{Eu vi as religiÃµes virem e as religiÃµes irem, e eu espero que isso aconteÃ§a. Em breve.}
-{1105}{hrold305}{Sim, eu vim de um Vault. Muitas pessoas nÃ£o tÃªm comida e Ã¡gua suficientes. Mas vocÃª nÃ£o sabe nada sobre isso, quer?}
-{1106}{hrold306}{HorrÃ­vel. O mundo ficou louco. HÃ¡ muito tempo, mas nunca esquecerei isso. Nunca.}
-{1107}{hrold307}{[Cough] Problema. Nada alÃ©m de problemas.}
-{1108}{hrold300}{Cara brilhante. Um mÃ©dico e filÃ³sofo. HÃ¡ muito tempo ele liderou a expediÃ§Ã£o onde eu me transformei em mutante.}
+{1100}{hrold300}{Cara brilhante. Um médico e filósofo. Há muito tempo ele liderou a expedição onde eu me transformei em mutante.}
+{1101}{hrold301}{Quem? Ele é algum tipo de terapeuta sexual? Eu poderia usar um, você sabe.}
+{1102}{hrold302}{Mutantes. Não importa o que eles se chamam.}
+{1103}{hrold303}{Ah, ele. Ele lidera o Círculo dos Ladrões. Pensa que ele é Robin Hood. [tosse] Ele está bem, eu acho.}
+{1104}{hrold304}{Eu vi as religiões virem e as religiões irem, e eu espero que isso aconteça. Em breve.}
+{1105}{hrold305}{Sim, eu vim de um Vault. Muitas pessoas não têm comida e água suficientes. Mas você não sabe nada sobre isso, quer?}
+{1106}{hrold306}{Horrível. O mundo ficou louco. Há muito tempo, mas nunca esquecerei isso. Nunca.}
+{1107}{hrold307}{[Cough] Problema. Nada além de problemas.}
+{1108}{hrold300}{Cara brilhante. Um médico e filósofo. Há muito tempo ele liderou a expedição onde eu me transformei em mutante.}

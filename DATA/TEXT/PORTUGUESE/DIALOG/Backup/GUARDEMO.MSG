@@ -1,0 +1,34 @@
+{100}{}{Um guarda de Junktown.}
+{101}{}{Isto é Junktown. Bom lugar para morar, desde que
+ como você fique do nosso lado bom}
+{102}{}{Cuidado com o Gizmo e seus companheiros.}
+{103}{}{Eu gosto do meu chefe.}
+{104}{}{É melhor você guardar isso. Junktown é um lugar amigável,
+ amigo, e queremos continuar assim.}
+{105}{}{Colocar o que?}
+{106}{}{Não me diga o que fazer, garoto perdedor.}
+{107}{}{Parece justo. A propósito, qual é a lei local sobre armas?}
+{108}{}{Uh oh.}
+{109}{}{Sua arma, idiota. Killian não vai tirar seus braços, mas você
+ melhor mantê-los no seu coldre.}
+{110}{}{Ah, desculpe.}
+{111}{}{De jeito nenhum! Eu não estou colocando meus atiradores para ninguém!}
+{112}{}{É melhor você se comportar, já que é a lei e eu cumpro a lei.
+ Coloque sua arma fora, não a desenhe, a menos que seja em autodefesa, e
+ você não terá problemas conosco.}
+{113}{}{[mais]}
+{114}{}{Desobedecer a lei, e nós retornaremos você à lei
+ Wasteland - vivo ou morto.}
+{115}{}{Claro, desde que você coloca dessa forma.}
+{116}{}{Morda suas leis!}
+{117}{}{Bem, tudo bem comigo. Mas é melhor você ter cuidado.}
+{118}{}{Tudo bem, então. Ei.}
+{119}{}{Bom você perguntou. Nenhuma arma pode ser retirada exceto em autodefesa. E se
+ você começa uma briga, a culpa é sua. Fora isso, é o seu direito
+ para sair por aí armado. Apenas não puxe uma faca ou arma sem apenas
+ causa. Tenha um bom dia.}
+{120}{}{Obrigado - você também.}
+{121}{}{Ei você, sem armas! É eu não me importo se sua mãe te deixou cair
+ sua cabeça quando criança. Sem armas.}
+{122}{}{Dorf!}
+{123}{}{Você ganha 150 pontos de experiência por matar o guarda.}

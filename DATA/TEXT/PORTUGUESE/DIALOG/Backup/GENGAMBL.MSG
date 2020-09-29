@@ -1,0 +1,23 @@
+{100}{}{Você vê um jogador.}
+{101}{}{Ack! It's a stick up!}
+{102}{}{Eu não quero qualquer problema com você.}
+{103}{}{Ele tem uma arma!}
+{104}{}{Ela tem uma arma!}
+{105}{}{Ah, e você.}
+{106}{}{Eu ouvi muitas coisas ruins sobre você. Bacana.}
+{107}{}{Você gotten off pra um mal comeco, huh?}
+{108}{}{Você pessoa horrivel. Matar aquelas crianças. Eu não consigo acreditar.}
+{109}{}{Eu ouvi que há alguns cacadores de recompensas atras de você. Você
+ matou eles tambem?}
+{110}{}{Não fale comigo.}
+{111}{}{Puxa, você matou o prefeito, não matou?}
+{112}{}{Ah, quando Killian estava vivo eu não gostava deste lugar. Agora esta
+ OK vir aqui.}
+{113}{}{Vai embora.}
+{114}{}{Ei, como você esta indo hoje? Eu estou OK.}
+{115}{}{Ei, como você esta indo esta noite? Eu estou OK.}
+{116}{}{Me deixe em paz. Eu estou numa hot streak.}
+{117}{}{Baby, estas maquinas de slot são minhas.}
+{118}{}{Me de algo pra beber, will you bub?}
+{119}{}{Grrr! Este lugar é uma droga!}
+{120}{}{Eu estou ganhando muito dinheiro agora.}

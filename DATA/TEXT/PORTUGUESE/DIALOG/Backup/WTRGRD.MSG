@@ -1,0 +1,57 @@
+{100}{}{Você vê o guarda da água.}
+{101}{}{Ola, }
+{102}{}{. }
+{103}{}{Ola. Como você esta indo?}
+{104}{}{Gahh!}
+{105}{}{Bem, Gahh! De volta a você . . . Eu lamento que você nunca aprendeu a
+ falar. Nós poderiamos ter sido bons amigos.}
+{106}{}{Ouph.}
+{107}{}{Eu não estou me sentindo muito bem. Alguém rachou minha cabeca com
+ um cano grande. Eu fui ao medico mas minha cabeca ainda doi. Com certeza
+ espero que alguém pegue o panaca que me atingiu.}
+{108}{}{Por que eles fizeram isso?}
+{109}{}{Guck.}
+{110}{}{Bem, eles me atacaram enquanto eu estava aqui bem tarde da noite. Geralmente
+ eu vou pra casa as oito mais ou menos, mas eu estava ficando até tarde desde que
+ alguém teve água roubada e eu estava verificando nossos suprimentos. A proxima
+ coisa que eu sei e que eu acordo no laboratorio medico com um grande calombo na
+ minha cabeca. As coisas estão ficando loucas por aqui. Alguém vai ser morto
+ por causa da água em breve e eu não sei o que nos podemos fazer a respeito.}
+{111}{}{Eu verei o que eu posso fazer.}
+{112}{}{Lamento. Eu espero que você se sinta melhor em breve.}
+{113}{}{Aqui esta sua água.}
+{114}{}{Aqui esta sua racao por hoje.}
+{115}{}{Ei! O que você pensa que você esta fazendo?!?}
+{116}{}{Por favor não leve tantos suprimentos. Nós precisamos desses.}
+{117}{}{Você registra seus relatorios no sistema de computador da biblioteca.
+ Você deveria retornar ao Superivsor para finalizar seu progresso.}
+# TRANSLATION NOTE
+# The player-character's name is inserted by code between lines 118 and 119.
+{118}{}{Bom dia, }
+{119}{}{.}
+{120}{}{Oi. Como as coisas tem estado ultimamente?}
+{121}{}{Diga, o que você esta fazendo aqui?}
+{122}{}{Bem, todos estão bastante nervosos, claro, mas nós não tivemos muitos
+ problemas. Eu espero que você ache um novo chip em breve.}
+{123}{}{Eu entrego as rações de água, claro. É eu faco ter certeza que ninguém tente levar
+ mais água do que a cota deles. embora eu não ache que nos teremos qualquer problema.}
+{124}{}{Hmm. Bem, continue o bom trabalho.}
+{125}{}{Você tambe. Eu espero que você ache esse chip em breve para que todos nos possamos
+ voltar a uma vida normal.}
+{126}{}{Você e bem-vindo pra levar suprimentos se você precisa deles, já que seu trabalho
+ e tão importante, mas por favor não demore demais. Nós não temos muitos restantes.}
+{127}{}{Eu posso levar alguns suprimentos?}
+
+{1000}{}{Racao}
+{1001}{}{Rações}
+{1002}{}{Suprimentos}
+{1003}{}{Agua}
+
+{1100}{}{Eu entrego rações de água de manha. Você não deveria precisar delas, agora que
+ você vai estar lá fora.}
+{1101}{}{Eu entrego rações de água de manha. Você não deveria precisar delas, agora que
+ você vai estar lá fora.}
+{1102}{}{Nós só temos alguns suprimentos restantes. Você pode levar alguns deles se
+ você precisa delas pra sua missao, mas por favor não leve demais.}
+{1103}{}{Eu entrego rações de água de manha. Você não deveria precisar delas, agora que
+ você vai estar lá fora.}

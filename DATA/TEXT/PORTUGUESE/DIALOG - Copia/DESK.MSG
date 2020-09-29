@@ -1,0 +1,1 @@
+{100}{}{A escrivaninha está vazia.}

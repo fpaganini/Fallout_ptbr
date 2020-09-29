@@ -1,0 +1,3 @@
+{100}{}{Você sabe que esta é a sala de reuniao da Vault.
+ Aonde o gabinete dos suprimentos de emergencia estariam
+ enterrados sob toneladas de rochas.}

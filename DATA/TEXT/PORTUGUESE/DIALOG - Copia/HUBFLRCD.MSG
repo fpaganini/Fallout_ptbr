@@ -1,0 +1,62 @@
+{100}{}{Você vê uma criança da flor.}
+{101}{}{Ola! Você gostaria… oh, me desculpe…}
+{102}{}{Você! Eu ouvi sobre você! Você mata crianças e come elas! Mae Jain! Mae Jain! Ajude!}
+{103}{}{Você gostaria de uma flor, senhor?}
+{104}{}{Você gostaria de uma flor, madame?}
+{105}{}{Vazio}
+{106}{}{Há algo especial a respeito deste lugar?}
+{107}{}{O que é tão especial sobre a flor?}
+{108}{}{Quanto você esta cobrando, garoto?}
+{109}{}{Com certeza, garoto!}
+{110}{}{Não, obrigado.}
+{111}{}{Com certeza. Eu poderia get off pisando até os pedacos!}
+{112}{}{[sniff, sniff]. Cheira bem!}
+{113}{}{[sniff, sniff]. Cheira yuck!}
+{114}{}{Bobo! Você já pegou uma flor!}
+{115}{}{Você quer a flor ou você não quer?}
+{116}{}{Eu levarei a flor se você me disser um pouco sobre este lugar.}
+{117}{}{O que é tão especial sobre a flor?}
+{118}{}{Com certeza, garoto!}
+{119}{}{Basta a respeito da maldita flor. Apenas responda a pergunta!}
+{121}{}{É uma Rosa da Unidade. É a cor da Chama Sagrada e representa a paz e harmonia que nos teremos quando as
+ Crianças da Catedral ajudarem todos no mundo inteiro a se tornarem amistosos e fortes! Uh, você quer uma?}
+{122}{}{Vazio}
+{123}{}{Agora como e que uma rosa vai fazer tudo isso?}
+{124}{}{Diga-me sobre a Chama Sagrada…}
+{125}{}{Quanto e, garoto?}
+{126}{}{Com certeza, garoto!}
+{128}{}{Olha, eu não quero sua maldita flor.}
+{129}{}{É de graca. Nós não acreditamos no dinheiro. A Chama Sagrada toma conta de todas as nossas necessidade! É
+ tão maravilhoso! Você deveria se juntar a nos na nossa Catedral da Felicidade! Uh, você quer uma?}
+{130}{}{Diga-me sobre a Catedral…}
+{131}{}{Diga-me sobre a Chama Sagrada…}
+{132}{}{Com certeza, garoto!}
+{128}{}{Olha, eu não quero sua maldita flor.}
+{135}{}{Obrigado a você, oh, obrigado a você! Eu dei uma flor! Isso não é otimo?}
+{136}{}{Você e malvado! Eu odeio você! Eu espero que você seja comido pela Chama Sagrada!}
+{137}{}{Eles com certeza tem! Tenha uma! Eu dei uma flor! Isso não é otimo?}
+{138}{}{Você e estúpido! Eu espero que a Chama Sagrada mate você antes que você possa dizer mais coisas estupidas.
+ Mae Jain, cuidado com o homem estúpido!}
+{139}{}{Nós somos as Crianças da Catedral. Nós somos comandados pela propria Chama Sagrada pra alimentar os
+ famintos e curar os doentes. Nós vamos espalhar a paz é a unidade em todos os lugares…e tudo será tão bom!
+ Aqui, tenha sua flor!}
+{140}{}{Eu não acho que você quer uma flor de modo algum. Você esta sendo malvado comigo!}
+{141}{}{As rosas não farao isso, bobo! So as pessoas podem mudar o mundo. É com a Chama Sagrada como nosso mestre,
+ nos teremos certeza de fazer tudo bacana e especial! Então, você gostaria de uma flor?}
+{142}{}{Diga-me sobre a Catedral…}
+{143}{}{Diga-me sobre a Chama Sagrada…}
+{144}{}{Com certeza, garoto!}
+{145}{}{Não, obrigado.}
+{146}{}{Eu mostrarei o bobo pra você seu pequeno...}
+{147}{}{Esse e o fogo que limpou o mundo, e se nos a obedecermos ela nunca o fara de novo! Ela quer que nos
+ sejamos espertos e pacificos e unificados e tal! Então, você gostaria de uma flor?}
+{148}{}{Diga-me sobre este unidade…}
+{149}{}{Com certeza, garoto!}
+{150}{}{Não, obrigado.}
+{151}{}{Basta com a maldita flor!}
+{152}{}{É um lugar maravilhoso perto do oceano, aonde as pessoas passam todo o tempo delas louvando a Chama
+ Sagrada e sendo boas. É todos lá são bondosos exceto talvez o Padre Lasher. Uh…você gostaria de uma flor?}
+{153}{}{Diga-me sobre o Padre Lasher…}
+{154}{}{Com certeza, garoto!}
+{155}{}{Não, obrigado.}
+{151}{}{Basta com a maldita flor!}

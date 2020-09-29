@@ -1,0 +1,177 @@
+{100}{}{Você vê o Lorenzo.}
+{101}{}{Senhor, este e um estabelecimento respeitavel. Nós não fazemos negócios com seu tipo. Vai embora.}
+{102}{}{Madame, este e um estabelecimento respeitavel. Nós não fazemos negócios com seu tipo. Vai embora.}
+{103}{}{You're overdue on your loan. Por favor pague-o agora ou eu ficarei muito aborrecido. Eu não gosto de estar aborrecido.}
+{104}{}{Não me ameace amigo. Você não é o unico com amigos.}
+{105}{}{Eu preciso de mais tempo. Por favor!}
+{106}{}{Eu quero pagar meu emprestimo de }
+{107}{}{ pratas.}
+{108}{}{Eu não o tenho comigo.}
+{109}{}{Oi. Então você veio pra pagar seu emprestimo?}
+{110}{}{Na verdade eu estava esperando que você pudesse compartilhar um pouco de informaçao...}
+{111}{}{Eu vim para outro emprestimo.}
+{112}{}{Talvez mais tarde.}
+{113}{}{Runk?}
+{114}{}{Eu avisei você pra nunca voltar aqui. Certo rapazes, você sabem o que fazer!}
+{115}{}{Bem, se não é um fregues em potencial! Eu sou Lorenzo o Munificent, a seu serviço. Eu
+ dou emprestimos. So dez por cento de interesse diario, com o maximo de dez dias pra pagar.
+ Você não achara uma instituiçao de emprestimo mais generosa em qualquer lugar do Hub!}
+{116}{}{Eu vim por um emprestimo.}
+{117}{}{Você soa como um artista plagiador pra mim!}
+{118}{}{Bem, eu suponho. Do que você precisa saber a respeito?}
+{119}{}{É quanto a essas caravanas desaparecidas?}
+{120}{}{Me fale sobre o Decker.}
+{121}{}{É quanto a policia local?}
+{122}{}{É quanto as Crianças da Catedral?}
+{123}{}{Me fale sobre você.}
+{124}{}{Aonde uma pessoa acha trabalho por aqui?}
+{125}{}{Lamento. Eu não gosto de rumores. Não me pergunte de novo.}
+{126}{}{Eu avisei você que eu não gosto de rumores. Se você acha que eu simplesmente
+ estava blefando você esta errado. Saia daqui e não volte, punk.}
+{127}{}{Lamento amigo, mas eu não faço mais do que um emprestimo de cada vez. Se você quer mais você tem
+ que começar a pagar. Isto e um negocio, não uma caridade.}
+{128}{}{Certo. Um prazer em fazer negocio. Algo mais?}
+{129}{}{Idiota! Você não tem o bastante pra pagar! Talvez você estivesse pensando em algo mais...}
+{130}{}{Na verdade eu estava esperando que você pudesse compartilhar um pouco de informaçao...}
+{131}{}{Eu vim para outro emprestimo.}
+{132}{}{Talvez mais tarde.}
+{133}{}{Com certeza! Sinta-se live pra passar aqui. Nós sempre estamos querendo ajudar.}
+{134}{}{Por que você não vai run along e runk em algum outro lugar. Saia daqui! É não volte.}
+{135}{}{Ei, sem ameaças! Nós somo todos civilizados por aqui. Guido, Leone, por que vocês não mostram a este
+ cavalheiro quao civilizados nos podemos ser.}
+{136}{}{Ei, sem ameaças! Nós somo todos civilizados por aqui. Guido, Leone, por que vocês não mostram a esta
+ dama quao civilizados nos podemos ser.}
+{137}{}{O tempo acabou amigo. Guido, Leone, por que vocês não me entreteem por um minuto...}
+{138}{}{Você e sortudo, amigo.}
+{139}{}{Na verdade eu estava esperando que você pudesse compartilhar um pouco de informaçao...}
+{140}{}{Eu gostaria de outro emprestimo.}
+{141}{}{Talvez mais tarde.}
+{142}{}{Você não tem o bastante! Como você ousa tentar me trapacear! Guido, Leone, vamos enterrar este perdedor.}
+{143}{}{Certo. Você não tem emprestimos outstanding conosco. Nós emprestamos em unidades de duzentas pratas do
+ do Hub, com o maximo de mil pratas do Hub. Lembre-se, apesar disso eu não vou emprestar o dinheiro pra você
+ até que você prove que você consegue pagar os emprestimos menores.}
+{144}{}{Eu gostaria de }
+{145}{}{1000}
+{146}{}{800}
+{147}{}{600}
+{148}{}{400}
+{149}{}{200}
+{150}{}{ Pratas do Hub.}
+{151}{}{Melhor eu esquecer o emprestimo.}
+{152}{}{Guido, Leone, por que vocês não mostram a ele o que ripping off realmente signifca. Comecem com os braços dele.}
+{153}{}{Lamento amigo, mas idiotas são um risco de credito muito grande. Saia daqui.}
+{154}{}{Deathclaw. Tem que ser o Deathclaw. Ninguem mais esta salvo!}
+{155}{}{É quanto ao Deathclaw?}
+{156}{}{Me fale sobre o Decker.}
+{157}{}{É quanto a policia local?}
+{158}{}{É quanto as Crianças da Catedral?}
+{159}{}{Me fale sobre você.}
+{160}{}{Aonde uma pessoa acha trabalho por aqui?}
+{161}{}{Ele e um otimo cara. Uma boa fonte de trabalhos pra pagar meus emprestimos. Diga a ele que eu enviei você, você poderia conseguir um bonus!}
+{162}{}{É quanto a essas caravanas desaparecidas?}
+{163}{}{Bonus? O que você quer dizer?}
+{164}{}{É quanto a policia local?}
+{165}{}{É quanto as Crianças da Catedral?}
+{166}{}{Me fale sobre você.}
+{167}{}{Aonde uma pessoa acha trabalho por aqui?}
+{168}{}{Eles são otimos caras! É verdade que nos temos os mal-entendidos ocasionais, mas eu acho que eles são um
+ credito a especie deles... [voz sotto] qualquer que essa seja...}
+{169}{}{É quanto a essas caravanas desaparecidas?}
+{170}{}{Me fale sobre o Decker.}
+{171}{}{Mal-entendidos? Como o que?}
+{172}{}{É quanto as Crianças da Catedral?}
+{173}{}{Me fale sobre você.}
+{174}{}{Aonde uma pessoa acha trabalho por aqui?}
+{175}{}{Eu não posso dizer que eu estou muito impressionado. Eu comando um negocio respeitavel, honesto e eles me acusam
+ de ser um ladrao! A coragem dessas pessoas... Elas acham que um voto de pobreza da a elas o direito de me julgar!}
+{176}{}{É quanto a essas caravanas desaparecidas?}
+{177}{}{Me fale sobre o Decker.}
+{178}{}{É quanto a policia local?}
+{179}{}{Voto de pobreza?}
+{180}{}{Me fale sobre você.}
+{181}{}{Aonde uma pessoa acha trabalho por aqui?}
+{182}{}{Eu sou apenas um homem de negócios respeitavel, isso e tudo. Nós Giovannis fomos homens de negócios
+ respeitaveis desde os dias antes do holocausto – agora, isso e tradiçao!}
+{183}{}{É quanto a essas caravanas desaparecidas?}
+{184}{}{Me fale sobre o Decker.}
+{185}{}{É quanto a policia local?}
+{186}{}{É quanto as Crianças da Catedral?}
+{187}{}{Qual e sua ideia de respeitavel?}
+{188}{}{Aonde uma pessoa acha trabalho por aqui?}
+{189}{}{Você deveria tentar o Sr. Decker. Trabalho excitante a otimos preços! Os melhores na cidade! É ele esta
+ bem do outro lado da rua! Você não pode conseguir melhor conveniencia do que isso!}
+{190}{}{É quanto a essas caravanas desaparecidas?}
+{191}{}{Me fale sobre o Decker.}
+{192}{}{É quanto a policia local?}
+{193}{}{É quanto as Crianças da Catedral?}
+{194}{}{Me fale sobre você.}
+{195}{}{Que tipo de excitaçao?}
+{196}{}{Esqueça, você e um risco de credito muito grande. Saia da minha vista e não volte.}
+{197}{}{Certo. Mil pratas. Você tem 10 dias pra pagar de volta.}
+{198}{}{Certo. Oitocentas pratas. Você tem 10 dias pra pagar de volta.}
+{199}{}{Certo. Seiscentas pratas. Você tem 10 dias pra pagar de volta.}
+{200}{}{Certo. Quatrocentas pratas. Você tem 10 dias pra pagar de volta.}
+{201}{}{Certo. Duzentas pratas. Você tem 10 dias pra pagar de volta.}
+{202}{}{Muito ruim. Sinta-se livre pra empregar nossos serviços num tempo posterior.}
+{203}{}{Cara, alguamas das estorias que eles dizem sobre aquela coisa são apemas... bem, elas são uma coisa!}
+{204}{}{Me fale sobre o Decker.}
+{205}{}{É quanto a policia local?}
+{206}{}{É quanto as Crianças da Catedral?}
+{207}{}{Me fale sobre você.}
+{208}{}{Aonde uma pessoa acha trabalho por aqui?}
+{209}{}{Bem, tchau!}
+{210}{}{Bem, talvez não um bonus. Mas ele e um otimo cara, confie nesse!}
+{211}{}{É quanto a essas caravanas desaparecidas?}
+{212}{}{É quanto a policia local?}
+{213}{}{É quanto as Crianças da Catedral?}
+{214}{}{Me fale sobre você.}
+{215}{}{Aonde uma pessoa acha trabalho por aqui?}
+{216}{}{Bem, tchau!}
+{217}{}{Você consegue acreditar que alguém me acusou de extorçao? Felizmente meu bom amigo Decker set them straight!}
+{218}{}{É quanto a essas caravanas desaparecidas?}
+{219}{}{Me fale sobre o Decker.}
+{220}{}{É quanto as Crianças da Catedral?}
+{221}{}{Me fale sobre você.}
+{222}{}{Aonde uma pessoa acha trabalho por aqui?}
+{223}{}{Bem, tchau!}
+{224}{}{Eu apostarei que o lider deles, este personagem Morpheus, ele não esta quebrado! Não senhor! Eu apostarei
+ isso naBoneyard, ele esta apenas living it up!}
+{225}{}{É quanto a essas caravanas desaparecidas?}
+{226}{}{Me fale sobre o Decker.}
+{227}{}{É quanto a policia local?}
+{228}{}{Me fale sobre você.}
+{229}{}{Aonde uma pessoa acha trabalho por aqui?}
+{230}{}{Bem, tchau!}
+{231}{}{Você não nos mostra respeito, você se machuca. Quanta respeitabilidade um homem pode pedir?}
+{232}{}{É quanto a essas caravanas desaparecidas?}
+{233}{}{Me fale sobre o Decker.}
+{234}{}{É quanto a policia local?}
+{235}{}{É quanto as Crianças da Catedral?}
+{236}{}{Aonde uma pessoa acha trabalho por aqui?}
+{237}{}{Bem, tchau!}
+{238}{}{Aventura, perigo. Você realmente consegue fazer uma matança!}
+{239}{}{É quanto a essas caravanas desaparecidas?}
+{240}{}{Me fale sobre o Decker.}
+{241}{}{É quanto a policia local?}
+{242}{}{É quanto as Crianças da Catedral?}
+{243}{}{Me fale sobre você.}
+{244}{}{Bem, tchau!}
+{245}{}{Vejo você por ai amigo!}
+{246}{}{Ei, ei, ei... tire suas maos dessa porta, aberraçao!}
+{247}{}{Basta! Aberraçao! Você pagara por isso!}
+{248}{}{Eu lamento mas eu não tenho tempo pra isto. Se você não consegue pagar a quantia completa me de o
+ quanto de dinheiro você tiver e nosso relacionamento de negócios sera terminado permanentemente.}
+{249}{}{Bem, OK. Você pode ter todas as minhas tampinhas.}
+{250}{}{Ah! Eu acabei de lembrar! Eu tenho justamente o bastante pra cobrir o emprestimo inteiro!}
+{251}{}{[Tentativa de enganar o Lorenzo dando a ele só }
+{252}{}{ tampinhas]}
+{253}{}{Esqueça! Você não vai pegar uma unica tampinha de mim.}
+{254}{}{[Você da a Lorenzo todas as suas tampinhas]}
+{255}{}{[Você da a Lorenzo }
+{256}{}{ tampinhas]}
+{257}{}{Você esta cheio de bosta! Você esta escondendo dinheiro de mim! Eu vou arrancar esse dinheiro de você!}
+{258}{}{Que pena. Eu creio que ao inves disso nos teremos que enfiar algumas tampinhas em você. Guido! Leone!}
+{259}{}{Tudo bem. Eu suponho que isto tera que dar. Você percebe que eu nunca poderei lidar com você de novo?
+ Se eu ver você aqui de novo eu serei forçado a executar uma penalidade muito mais severa em você.}
+{260}{}{Você me deixa doente. Me de o dinheiro e saia! Não me deixe ver você aqui de novo!}
+{261}{}{Você não tem o bastante!}

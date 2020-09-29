@@ -1,0 +1,31 @@
+{100}{}{Você vê Therax, um Nightkin Pensador.}
+{101}{}{Você vê Justin, um Nightkin Pensador.}
+{102}{}{Você vê a Sereine, uma Nightkin Pensadora.}
+{103}{}{Você vê Dolkarn, um Nightkin Pensador.}
+{104}{}{Você vê Hort, um Nightkin Pensador.}
+{105}{}{Você vê Chris, um Nightkin Pensador.}
+{106}{}{Você vê a Jaunita, uma Nightkin Pensadora.}
+{107}{}{Você vê Lesley, um Nightkin Pensador.}
+{108}{}{Você vê Renfield, um Nightkin Pensador.}
+{109}{}{Você vê Timothy, um Nightkin Pensador.}
+{110}{}{Bem-vindo Ah Punt One. Você chegou bem na hora de nos ajudar.}
+{111}{}{Huh?}
+{112}{}{Com certeza. Não e um problema.}
+{113}{}{Lamento. Muito ocupado.}
+{114}{}{Por que eu desejaria ajudar vocês?}
+{115}{}{Não importa simples. Venha comigo, e eu levarei você ao trabalho.}
+{116}{}{Isso não foi um pedido. Sua presença será feita.}
+{117}{}{Você não é aquele que procura trazer paz para as terras devastadas?}
+{118}{}{Sim, contudo, eu não vejo como ao ajudar vocês isso não acontecera.}
+{119}{}{Não. Eu prefiro destruição em massa.}
+{120}{}{Nós acreditamos que se todos, mutantes e humanos, pudessemos aprender a trabalhar juntos, então
+ muitos grandes problemas poderiam ser resolvidos.}
+{121}{}{Soa promissor. Conte comigo.}
+{122}{}{Esqueça.}
+{123}{}{Alguma coisa não soa bem a respeito disto.}
+{124}{}{Tudo esta perfeitamente bem. Talvez seja o scope limitado do seu crani o que detem seu
+ avanco no pensamento.}
+{125}{}{Você esta provavelmente corretio. Conte comigo.}
+{126}{}{Mayhaps. Deixe-me inspecionar seu cranio.}
+{127}{}{Se esse e o seu desejo, então você tera sua cota.}
+{128}{}{Bem-vindo de volta. Você agora nos ajudara.}

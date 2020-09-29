@@ -1,0 +1,2 @@
+{100}{}{Esta area foi saqueada anteriormente. Há uma
+ grande quantidade de dano ao delicado equipamento.}

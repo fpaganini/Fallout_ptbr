@@ -1,0 +1,108 @@
+{100}{}{Você vê o Computador de Controle dos Tanques.}
+{101}{}{Acesso negado.}
+{102}{}{Acesso concedido. Comando?}
+{103}{}{Exibir os codigos de seguranca.}
+{104}{}{Vasculhar registros.}
+{105}{}{Uplink aos computadores medicos.}
+{106}{}{Por a base em estado de alerta.}
+{107}{}{17652-1028-1285362}
+{108}{}{67209-5574-7805564}
+{109}{}{55658-8678-1251533}
+{110}{}{31914-1041-1251514}
+{111}{}{53478-2565-7763929}
+{112}{}{44309-3674-1254730}
+{113}{}{[Tenta hackear o firewall pra obter mais dados] Exibir tabela de encriptacao
+ do codigo de seguranca.}
+{114}{}{Executando 17652-1028-1285362}
+{115}{}{Executando 67209-5574-7805564}
+{116}{}{Executando 55658-8678-1251533}
+{117}{}{Executando 31914-1041-1251514}
+{118}{}{Executando 53478-2565-7763929}
+{119}{}{Executando 44309-3674-1254730}
+{120}{}{[Você hackeou com sucesso a tabela de encriptacao.] Comando?}
+{121}{}{17652-1028-1285362 iniciar sequencia de auto-destruicao silenciosa em 1 minuto}
+{122}{}{67209-5574-7805564 iniciar sequencia de auto-destruicao silenciosa em 30 
+ segundos e por a base em alerta}
+{123}{}{55658-8678-1251533 por a base em estado de alerta}
+{124}{}{31914-1041-1251514 iniciar sequencia de auto-destruicao silenciosa em 3 minutos}
+{125}{}{53478-2565-7763929 iniciar sequencia de auto-destruicao em 3 minutos e por a 
+ base em alerta}
+{126}{}{44309-3674-1254730 auto-destruicao imediata}
+{127}{}{Comando invalido. Encerrar a sessao de entrada de dados.}
+{128}{}{Especificar o registro que você gostaria de examinar.}
+{129}{}{Grey}
+{130}{}{Boyarsky}
+{131}{}{Maxson}
+{132}{}{Anderson}
+{133}{}{Baixar o registro do Richard Grey?}
+{134}{}{Sim.}
+{135}{}{Retornar ao menu principal.}
+{136}{}{Baixar o registro do Capt. Maxson?}
+{137}{}{Sim.}
+{138}{}{Retornar ao menu principal.}
+{139}{}{Fim da linha inesperado. Dados ruins encontrados. Comando?}
+{140}{}{Comando?}
+{141}{}{Uplink bem sucedido. Qual e o seu comando?}
+{142}{}{Qual e o estado atual dos pacientes?}
+{143}{}{Estado atual dos pacientes conforme seguem: Lote do VEF #23872-A consiste de 4 unidades
+ masculinas e 2 unidades femininas. Todos os individuos sofrendo de exposicao ao VEF. Os sinais
+ vitais estão dentro dos parametros normais. O processo do VEF em todas as cobaias esta
+ aproximadamente 50% completo. Transformacao total do VEF esperada dentro de 12 horas.}
+{144}{}{Eu acho que algo esta acontecendo com um dos pacientes. Há qualquer coisa
+ que eu possa fazer?}
+{145}{}{Paciente sofrendo de arritmia. Exibir os registros do estado do paciente.}
+{146}{}{As opções disponiveis são:}
+{147}{}{Relatorio dos estados em pacientes individuais.}
+{148}{}{Desligar os sistemas de suporte a vida.}
+{149}{}{Aumentar a dosagem das  DNA originais dos especimes em 100%.}
+{150}{}{Log off.}
+{151}{}{Por favor insira o codigo de autorizacao.}
+{152}{}{Autorizacao 3578X287A.}
+{153}{}{Z876342BCD}
+{154}{}{Alfa Delta 287 Foxtrot}
+{155}{}{[Tentar hackear o computador]}
+{156}{}{Codigo de autorizacao invalido. Comando?}
+{157}{}{Codigo de autorizacao aceito. Por favor aguarde. Acessando os dados.
+ Pronto pra processar o pedido.}
+{158}{}{Encerrar os sistemas de suporte a vida no lote do VEF Número 23872-A.}
+{159}{}{Aumentar a dosagem do DNA original em 100% em todos os especimes.}
+{160}{}{Acesso concedido. Qual arquivo do paciente você gostaria de examinar?}
+{161}{}{Arquivo do paciente Número 23869.}
+{162}{}{Arquivo do paciente Número 23870.}
+{163}{}{Arquivo do paciente Número 23871.}
+{164}{}{Arquivo do paciente Número 23872.}
+{165}{}{Arquivo do paciente Número 23869. Cobaia: Masculino. Idade 25. Contagem da radiacao: 40.
+ Exposicao ao VEF: 50%. Cadeias originais do DNA remanescentes: 50%. Os sinais vitais
+ estão altos mas dentro dos paremetros normais.}
+{166}{}{Eu gostaria de examinar outro arquivo do paciente.}
+{167}{}{Arquivo do paciente Número 23870. Cobaia: Masculino. Idade 23. Contagem da radiacao: 15.
+ Exposicao ao VEF: 60%. Cadeias originais do DNA remanescentes: 40%. Os sinais vitais
+ estão dentro dos parametros normais.}
+{168}{}{Arquivo do paciente Número 23781. Cobaia: Feminina. Idade 20. Contagem da radiacao: 10.
+ Exposicao ao VEF: 55%. Cadeias originais do DNA remanescentes: 45%. Os sinais vitais
+ estão dentro dos parametros normais.}
+{169}{}{Arquivo do paciente Número 23782. Cobaia: Masculino. Idade 26. Contagem da radiacao: 35.
+ Exposicao ao VEF: 60%. Cadeias originais do DNA remanescentes: 40%. Os sinais vitais
+ acima do normal mas dentro dos parametros aceitaveis.}
+{170}{}{Você tem certeza que você deseja desativar os sistemas de suporte a vida do Lote
+ do VEF Número 23872-A?}
+{171}{}{Lote do VEF Número 23872-A encerrado. Comando?}
+{172}{}{Sim.}
+{173}{}{Não.}
+{174}{}{Você tem certeza que você deseja aumentar a dosagem? A auto-correcao sera
+ desativada se você fizer isto.}
+{175}{}{Aumentando a dosagem do DNA original pra 100%. AVISO: A auto-correcao foi
+ desativada.}
+{176}{}{Você consegue obter uma tela de interface do computador de controle dos tanques.}
+{177}{}{Você tenta usar o computador, mas é incapaz de obter qualquer informação
+ util dele.}
+{178}{}{Você tenta usar o computador, mas o sistema e muito complexo pra você
+ entender facilmente. Você tera que continuar tentando.}
+{179}{}{A explosao destroi o sistema de controle dos vats. Sem a regulacao
+ certamente cycle fora de controle em minutos.}
+{180}{}{Você desliza o cartao de seguranca atraves do leitor do terminal. O terminal
+ clica e whirrs, é uma tela inesperada aparece.}
+{181}{}{[Sair do sistema]}
+
+{200}{}{Você nota que o painel de manutencao esta removido, mostrando os
+ componentes frageis do computador.}

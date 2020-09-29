@@ -1,0 +1,37 @@
+# Guards are all Male. They are akin to mercenaries. brief of words and very aburpt.
+# they have a general attitude of don't bother me.
+
+{100}{}{Você vê um dos guardas de Hightower.}
+{101}{}{É melhor você sair. Daren Hightower não leva visitantes.}
+{102}{}{Sua empresa não é desejada.}
+{103}{}{Deixar!}
+{104}{}{Não é permitido aqui.}
+{105}{}{Vá embora ou você vai se arrepender.}
+{106}{}{Esta casa está fora dos limites para quem gosta de você.}
+# "You are not permitted to enter the house."
+
+{107}{}{What the… Get em!}
+{108}{}{Você cometeu um grande erro ao chegar aqui!}
+{109}{}{O que você está fazendo aqui? Você é carne morta.}
+# "You're dead meat" == "i'm going to kill you"
+
+{110}{}{Mmmm, parece bom.}
+# refering to food
+
+{111}{}{É esse brâmane que eu cheiro?}
+# Brahmin is an animal akin to a 2 headed cow. consider Male
+
+{112}{}{Prenda nas minhas veias!}
+# referring to getting more alcohol
+
+{113}{}{Alguma coisa na geladeira?}
+# fridge == refridgerator
+
+{114}{}{Quanto tempo mais?}
+# referring to dinner
+
+{115}{}{Eu estou com fome.}
+{116}{}{Está quase pronto?}
+# referring to dinner.
+
+{117}{}{Eu vou desmaiar!}

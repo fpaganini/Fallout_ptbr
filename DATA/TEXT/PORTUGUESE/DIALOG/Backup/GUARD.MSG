@@ -1,0 +1,11 @@
+{100}{}{Não estou com medo.}
+{101}{}{Eu estou com medo.}
+{102}{}{Eu estou no dever. Vai embora.}
+{103}{}{Seja bom nesta cidade ou você respondera a mim.}
+{104}{}{Tem algumas rosquinhas?}
+{105}{}{Ja teve a sensacao de que você esta sendo observado? Como se você estivesse sendo
+ controlado por algum ser distante? Eu tenho.}
+{106}{}{Você ouviu sobre o que o radscorpion fez ao Bill? Eles ainda estão tentando
+ localizar as pernas dele.}
+{107}{}{Então você acha que você consegue lidar com um radscorpion, huh?}
+{108}{}{Você não parece muito forte pra mim.}

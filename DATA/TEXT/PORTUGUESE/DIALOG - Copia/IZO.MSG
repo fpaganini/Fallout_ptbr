@@ -1,0 +1,4 @@
+{100}{}{Ele tem a stance e musculatura de um mestre de artes marciais.}
+{101}{}{Izo não diz nada.}
+{102}{}{ Ele da a você seu dinheiro.}
+{103}{}{Izo move a porta.}

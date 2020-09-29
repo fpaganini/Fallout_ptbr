@@ -1,0 +1,30 @@
+{100}{}{O homem tosses about fitfully.}
+{101}{}{Oohhh . . .}
+{102}{}{Você vê um jovem homem palido e      .}
+{103}{}{Você vê o Jarvis, o irmao mais novo de Seth.}
+{104}{}{Ola. Eu lamento, mas eu não estou me sentindo muito bem agora. Por
+ favor, se você puder ajudar a achar um meio de enfrentar os radscorpions,
+ fale com meu irmao, Seth.}
+{105}{}{Muito obrigado por me ajudar. Meu nome e Jarvis, e eu sou o
+ irmao mais novo do Seth. Por favor, se há qualquer coisa que você
+ precise saber, apenas pergunte.}
+{106}{}{Ola de novo. Eu posso ajudar você com alguma coisa?}
+{107}{}{Você pode me dizer mais sobre seu irmao?}
+{108}{}{Me fale um pouco a respeito da cidade.}
+{109}{}{Apenas papeando, obrigado.}
+{110}{}{Seth e um lutador muito bom. Ele e muito determinado. Um pouco demais,
+ as vezes. Ainda assim, ele e devotado ao bem estar da nossa vila.}
+{111}{}{Bem, Shady Sands foi fundada por um grande ancestral do nosso lider
+ atual, Aradesh. Ele poderia dizer a você mais sobre a estoria. Nós temos
+ um poco e irrigacao, entoa nos fazemos o bem por nos mesmos.}
+{112}{}{Este homem esta sofrendo de um veneno virulento.}
+{113}{}{Você não consegue descobrir o que esta afetando este homem.}
+{114}{}{Este homem esta sofrendo por causa do veneno do radscorpion.}
+{115}{}{Você não consegue descobrir o que esta afetando este homem.}
+{116}{}{Essa técnica não ajudara aqui.}
+{117}{}{Nós poucos minutos seguintes, o homem mostra uma definitiva
+ melhora.}
+{118}{}{Sef e irmaum?}
+{119}{}{Ete luugar?}
+{120}{}{Duh.}
+{200}{}{Você ganha 400 pontos de experiência por curar Jarvis do seu envenenamento.}

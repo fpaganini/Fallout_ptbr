@@ -1,0 +1,7 @@
+{100}{}{Você na consegue bring yourself to root through the assorted bits.}
+{101}{}{O cooler esta cheio de chunks of orgaos e partes de corpos.}
+{102}{}{Os pedacos no cooler estão cortados em pequenos chunks, e resfriados para a venda.
+ Ninguem vai conseguir quaisquer transplantes destes pedacos do tamanho de mordidas.}
+{103}{}{Partes de corpos lotam o cooler.}
+{104}{}{O cooler esta cheio de partes de corpos, cortados em pequenos chunks e
+ empacotados com gelo. Esquisito.}

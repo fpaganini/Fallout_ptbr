@@ -1,0 +1,4 @@
+{100}{}{Você vê uma pia.}
+{101}{}{Você lava suas mãos.}
+{102}{}{Você lava suas }
+{103}{}{. Esta um pouco mais limpa.}

@@ -1,0 +1,10 @@
+{100}{}{O caminho para o norte esta bloqueado por ru e escombros. Você tera
+ que achar outro caminho.}
+{101}{}{O caminho para o sul esta bloqueado por ru e escombros. Você tera
+ que achar outro caminho.}
+{102}{}{O caminho para o leste esta bloqueado por ru e escombros. Você tera
+ que achar outro caminho.}
+{103}{}{O caminho para o oeste esta bloqueado por ru e escombros. Você tera
+ que achar outro caminho.}
+{104}{}{O caminho adiante esta bloqueado por ru e escombros. Talvez você possa
+ achar um caminho no subsolo.}

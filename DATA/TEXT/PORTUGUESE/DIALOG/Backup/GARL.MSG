@@ -1,0 +1,172 @@
+{100}{}{Você vê diante de você, Garl, lider dos Saqueadores.}
+{101}{}{Você acha que você pode vir aqui sem um desafio?
+ Este, o lar dos seus inimigos mais mortais? Nós veremos
+ você morto. Eu pessoalmente arrancarei seu coraçao fora
+ do seu peito e o comerei diante dos meus guerreiros
+ orgulhosos!}
+{102}{}{Eu matei você!}
+{103}{}{Eu não entendo.}
+{104}{}{Sim, você matou. Eu voltei pra assombrar você.}
+{105}{}{Você não deveria ter feito isso.}
+{106}{}{Eu matei você!}
+{107}{}{Eu não entendo.}
+{108}{}{Sim, você matou. Eu voltei pra assombrar você.}
+{109}{}{Você não deveria ter feito isso.}
+{110}{}{Você poderia se você fosse meu pai, mas você não é.
+ Você se parece com ele, mas age diferente. Nenhuma imagem
+ dele permanece neste dia. Você simplesmente tera de
+ ser removido.}
+{111}{}{Eu não acredito! Eu não consigo acreditar!}
+{112}{}{Acredite nisto amigo, e você esta prestes a se juntar a mim no inferno!}
+{113}{}{Não me diga o que eu deveria ter feito, pai. Eu mando nos
+ Khans agora, e você e nada alem de comida de minhoca.}
+{114}{}{Eu ainda vivo.}
+{115}{}{Eu deveria ter matado você quando você era uma criança.}
+{116}{}{Não me diga o que eu deveria ter feito, pai. Eu mando nos
+ Khans agora, e você e nada alem de comida de minhoca.}
+{117}{}{Eu ainda vivo.}
+{118}{}{Eu deveria ter matado você quando você era uma criança.}
+{119}{}{Você deveria ter. Agora e tarde demais. Eu sou Garl Mao-da-Morte.
+ Eu comando os Khans. Você deveria estar morto no seu tumulo, e você
+ estara de novo!}
+{120}{}{Eu consigo ver você de pe diante de mim, mas eu não acredito.
+ O que você quer?}
+{121}{}{Eu quero a garota livre. Agora.}
+{122}{}{Eu quero que você renuncie.}
+{123}{}{Eu quero riqueza pra comprar meu caminho pro paraiso.}
+{124}{}{Pledge que você retornara para o tumulo, e sera
+ assim.}
+{125}{}{Eu juro que eu sairei.}
+{126}{}{Então que seja. Liberte a mulher de Shady Sants e escolte
+ este cara pra fora daqui . . .}
+{127}{}{Você não manda aqui. Você não pertence a este lugar. Morte
+ para os mortos andantes!}
+{128}{}{Nunca!}
+{129}{}{Isso e o que eu gosto. Iniciativa. Mas você não deveria
+ ter matado eles sem minhas ordens. Eu não gosto de iniciativa
+ demais.}
+{130}{}{O que você quer?}
+{131}{}{Eu quero que você liberte a garota.}
+{132}{}{Eu quero que você morra.}
+{133}{}{Eu vim em paz pra negociar a libertaçao de Tandi.}
+{134}{}{Hngh!}
+{135}{}{O que faz você pensar que eu a tenho?}
+{136}{}{Eu sei que você a tem. Eu segui você até aqui.}
+{137}{}{Um dos seus seguidores me disse.}
+{138}{}{Eu sei.}
+{139}{}{Eu odeio quando eles fazem isso. Eu terei que fazer aquele
+ falador pagar pelos crimes dele. Apos eu acabar com você.}
+{140}{}{Hmmm. Bem, então. O que você oferece pela libertaçao dela?}
+{141}{}{Eu represento uma ameaça que você nem ao menos entende. Você
+ realmente quer arriscar com a nossa ira?}
+{142}{}{Eu darei a você algo de igual valor.}
+{143}{}{Seria bom pra sua alma eterna.}
+{144}{}{Seu sangue, derramado no chao.}
+{145}{}{Hmmm. Por alguma razão, eu acredito em você. Você pode levar
+ a garota, mas não retorne a menos que você procure nossa ira.}
+{146}{}{Há! Você não deveria ameaçar os que são melhores do que você.}
+{147}{}{Deve ser valioso de fato. Me mostre.}
+{148}{}{Me agrada. Você pode levar a garota, mas não retorne.}
+{149}{}{Seu suborno não vale meu tempo. Matem ele.}
+{150}{}{Você acha que um homem tal como eu acredita no pos-vida?
+ Este mundo esta morrendo e eu tomarei o que eu quiser!
+ Você nunca percebera a força requerida pra fazer tal
+ decisao!}
+{151}{}{O que você quer agora?}
+{152}{}{Nada.}
+{153}{}{Eu quero a garota.}
+{154}{}{Lorrk.}
+{155}{}{Então você me perturba. Saia.}
+{156}{}{Você mal e tolerado por nos. Por que nos deveriamos dar uma
+ das nossas possessoes mais preciosas pra você?}
+{157}{}{Por que é certo.}
+{158}{}{Eu tenho algo de igual valor.}
+{159}{}{Você podera viver.}
+{160}{}{Certo?! Eu determino o que é certo por aqui. Você
+ esta trilhando em um solo perigoso.}
+{161}{}{Eu lamento.}
+{162}{}{Por que eu deveria me importar? Eu estou levando a garota.}
+{163}{}{Sim, de fato você é. Eu não tolero vira-latas
+ assustados que não tem coragem. É o que nós não
+ toleramos nos destruimos. Matem ele.}
+{164}{}{Você desejaria lutar contra mim por ela?}
+{165}{}{Não, eu sou um amante, não um lutador.}
+{166}{}{Claro. Agora mesmo, apenas você e eu.}
+{167}{}{Eu enfrentarei você e sua gangue inteira.}
+{168}{}{Certo. Nós resolveremos isto sem armas. Me
+ nocauteie e eu deixarei você levar a mulher e
+ sair. Eu nocauteio você, você sai sem ela.}
+{169}{}{Certo.}
+{170}{}{Isto sera interessante, mas não muito esportivo.
+ Muito bem, vamos faze-lo.}
+{171}{}{OK.}
+{172}{}{Hmm, você luta melhor do que eu esperava. Eu não
+ tive uma boa surra desde que meu pai me estapeou na
+ sala. Você merece a mulher de Shady Sands. Leve ela
+ e saia. Eu não voltaria.}
+{173}{}{Leve seu corpo miseravel e saia. Se você retornar,
+ eu não serei tão gentil.}
+{174}{}{O que você quer?}
+{175}{}{Eu sou um explorador.}
+{176}{}{Eu quero me unir.}
+{177}{}{Nós não gostamos desses tipos de pessoas. Nós não
+ podemos ter isso aqui. Matem ele.}
+{178}{}{Você? Quer se unir a nos? Para o que?}
+{179}{}{Pra chutar alguns traseiros.}
+{180}{}{Eu gosto de vocês caras. Eu quero me ligar a vocês.}
+{181}{}{Os Saqueadores só aceitam os FDPs mais malvados e duroes
+ por ai. Você tem que ser sedento de sangue, violento, extremo.
+ Eu não acho que você consiga lidar com isso. Você consegue?}
+{182}{}{Sim.}
+{183}{}{Não.}
+{184}{}{Então melhor você sair. Eu não retornaria.}
+{185}{}{Eu fiquei cansado demais destas mulheres. Matem elas.}
+{186}{}{Não!}
+{187}{}{OK.}
+{188}{}{Você provou meu ponto. So os Saqueadores possuem
+ a vontade de sobreviver! Você não. Matem ele.}
+{189}{}{Você provou meu ponto. So os Saqueadores possuem
+ a vontade de sobreviver! Você não. Matem ela.}
+{190}{}{Escoria! Você pagara por isso!}
+{191}{}{Há! Eu gosto do seu estilo. Um pouco sloppy, mas
+ funciona. Considere-se um amigo dos Saqueadores. Saia
+ da minha vista agora.}
+{192}{}{O que você quer now?}
+{193}{}{Nada.}
+{194}{}{Eu quero algumas armas e armadura.}
+{195}{}{Grawp.}
+{196}{}{Você deve fend por si próprio.}
+{197}{}{Como você ousa retornar as minhas vistas? Matem ele!}
+{198}{}{Como você ousa retornar as minhas vistas? Matem ela!}
+{200}{}{Eu vim festejar com vocês caras!}
+{201}{}{Bem, vá pegar algumas bebidas mais e mulheres pra nossa festa.}
+{203}{}{Eu lutarei contra você um-contra-um por Tandi.}
+{204}{}{Você não é Saqueador, você não merece honra.}
+{205}{}{Seu suborno não vale meu tempo. Mate ela.}
+{206}{}{Nós não gostamos desses tipos de pessoas. Nós não
+ podemos ter isso aqui. Matem ela.}
+{207}{}{Waaaug!}
+{208}{}{Certo, você venceu. Leve a garota e saia daqui.}
+
+{1000}{}{Khans}
+{1001}{}{Garl}
+{1002}{}{Junktown}
+{1003}{}{Shady}
+{1004}{}{Hub}
+{1005}{}{Agua}
+{1006}{}{Tandi}
+{1007}{}{Sands}
+{1008}{}{Chip}
+
+{1000}{}{Esses somos nos, seu lackey.}
+{1101}{}{Eu sou o lider dos Khans. Eu sou o homem mais temido na
+ terra devastada.}
+{1102}{}{Eles estão a sudoeste. Nós as vezes vamos lá pra relaxar
+ apos um dia duro de pilhagem.}
+{1103}{}{Comunidade pequena de formigas miseraveis. Eu poderia esmaga-los.}
+{1104}{}{Eles estão ao sul. Nós negociamos com eles. Na maior parte por
+ água e muniçao, mas as vezes por armas.}
+{1105}{}{Por que eu deveria me importar?}
+{1106}{}{Eu não conheço ninguém com esse nome.}
+{1107}{}{Comunidade pequena de formigas miseraveis. Eu poderia esmaga-los.}
+{1108}{}{Um o que?}

@@ -1,0 +1,7 @@
+{100}{}{Você vê o cofre.}
+{101}{}{O cofre não esta trancado.}
+{103}{}{Peguei!}
+{104}{}{Saco! Quase consegui.}
+{105}{}{O cofre esta trancado.}
+{106}{}{Você ganha 500 pontos de experiência por abrir o cofre pessoal do Killian.}
+{107}{}{Você ajusta os copos e consegue emperrar a tranca com uma gazua. Simplesmente ótimo.}

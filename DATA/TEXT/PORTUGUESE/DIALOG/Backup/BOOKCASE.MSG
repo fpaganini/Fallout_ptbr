@@ -1,0 +1,11 @@
+{100}{}{A prateleira esta cheia com livros religiosos e filosoficos. A
+ prateleira está muito empoeirada.}
+{101}{}{Você puxa um livro pra baixo, examina-o e rapidamente o substitui na prateleira. 
+ A prateira em si parece muito sturdy.}
+{102}{}{Você acha um latch.}
+{103}{}{Isso não faz nada.}
+{104}{}{A parede proxima a prateleira quietamente desliza para fora do caminho.}
+{105}{}{Você fumble com a prateleira por um momento mas você falha em realizar
+ algo.}
+{200}{}{A prateleira esta cheia com livros religiosos e filosoficos.}
+{201}{}{The latch will not budge.}

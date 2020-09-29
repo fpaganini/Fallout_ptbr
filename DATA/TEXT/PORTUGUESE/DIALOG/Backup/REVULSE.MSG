@@ -1,0 +1,25 @@
+{100}{}{Os cabelos na parte de tras do seu pescoco se levantam. Você sente
+ algo do corredor a frente. A bilis aumenta conforme você reconhece a massa
+ de carne a frente - partes humanas na parede mesmo. A pior parte e que
+ estão se movendo, chamando por você.}
+{101}{}{Seu nariz comeca a sangrar. Você ouve vozes na sua cabeca. Elas
+ estão chamando seu nome. As trevas washes over seus olhos por um momento,
+ mas você se recupera.}
+{102}{}{Uma voz chama por você. Você vira sua cabeca e vê a imagem de
+ uma amiga esquecida, obviamente morta. Os vermes caem da mandibula
+ aprodecida dele conforme sua dor de cabeca cresce.}
+{103}{}{Esta ficando mais difícil se mover pra frente. Seus pés parecem unidos
+ ao chao. Você olha pra baixo, é a carne do chao esta rastejando pra cima na
+ sua perna. Dentes gnaw nos seus joelhos. Ainda assim, sua dor de cabeca fica pior.}
+{104}{}{Algo chama sua atenção, um flash de movimento do teto, e então
+ uma lasca de pedacos de ossos atravessa seu olho! Com ela vem os
+ pensamentos dos mortos e torturados!}
+{105}{}{A dor na sua cabeca e enlouquecedora. Você sente os pecados dos
+ outros wash over sua alma. É fica pior, conforme seus pecados respondem
+ eles. Como loucos, eles lutam atraves da sua psique e no processo rasgam
+ sua personalidade.}
+{106}{}{Sua cabeca esta pulsando com os pensamentos intrusivos dos outros.
+ A dor cresce e cresce. De repente, como se ela nunca existisse, a dor
+ desaparece. Você cai ao chao e chora. Mas algo não parece certo.}
+{107}{}{A dor na sua cabeca não parece tão ruim como era. Os efeitos
+ deste estranho corredor não são tão fortes.}

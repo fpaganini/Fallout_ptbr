@@ -1,41 +1,41 @@
-{100}{}{O Raider estÃ¡ com muito medo de Garl para falar com vocÃª mais.}
-{101}{}{VocÃª vÃª um difÃ­cil Saqueador do deserto.}
-{102}{}{Ã‰ a mÃ£o da morte. Ele voltou!}
-{103}{}{Com licenÃ§a, MÃ£o da Morte. Me desculpe por perturbÃ¡-lo.}
-{104}{}{VocÃª voltou para matar seu filho?}
+{100}{}{O Raider está com muito medo de Garl para falar com você mais.}
+{101}{}{Você vê um difícil Saqueador do deserto.}
+{102}{}{É a mão da morte. Ele voltou!}
+{103}{}{Com licença, Mão da Morte. Me desculpe por perturbá-lo.}
+{104}{}{Você voltou para matar seu filho?}
 {105}{}{Aiyeee! Um fantasma!}
 {106}{}{Os mortos caminham novamente! O Death-Hand retornou!}
 {107}{}{Bem conhecido.}
 {108}{}{Oi.}
 {109}{}{Estou esperando por Garl para esmagar Shady Sands. Eu quero algum saque.}
 {110}{}{Bem-vindo, amigo.}
-{111}{}{Fico feliz que vocÃª possa voltar para uma visita.}
-{112}{}{A menos que vocÃª queira problemas, Ã© melhor vocÃª guardar isso.}
+{111}{}{Fico feliz que você possa voltar para uma visita.}
+{112}{}{A menos que você queira problemas, é melhor você guardar isso.}
 {113}{}{Queres festejar?}
 {114}{}{Ah, um duro, hein?}
-{115}{}{Garl Death-Hand ama seus guerreiros. Coloque essa coisa fora e vÃ¡ falar com ele.}
-{116}{}{EntÃ£o, vocÃª acha que Ã© durÃ£o, hein? Mexa comigo e nÃ³s dois vamos descobrir.}
-{117}{}{Eu nÃ£o gosto da sua aparÃªncia.}
-{118}{}{VÃ¡ embora}
-{119}{}{O que vocÃª quer?}
-{120}{}{Estou Ã  procura de uma mulher chamada Tandi. Visto ela?}
-{121}{}{Nada. Apenas olhando por aÃ­.}
+{115}{}{Garl Death-Hand ama seus guerreiros. Coloque essa coisa fora e vá falar com ele.}
+{116}{}{Então, você acha que é durão, hein? Mexa comigo e nós dois vamos descobrir.}
+{117}{}{Eu não gosto da sua aparência.}
+{118}{}{Vá embora}
+{119}{}{O que você quer?}
+{120}{}{Estou à procura de uma mulher chamada Tandi. Visto ela?}
+{121}{}{Nada. Apenas olhando por aí.}
 {122}{}{Huh?}
-{123}{}{Ah. VocÃª deve estar procurando um emprego. VÃ¡ e veja Garl na grande sala
-Â e nos deixe em paz.}
-{124}{}{EntÃ£o faÃ§a isso em outro lugar.}
-{125}{}{Nah. Eu nÃ£o a vi. Porque perguntas?}
+{123}{}{Ah. Você deve estar procurando um emprego. Vá e veja Garl na grande sala
+ e nos deixe em paz.}
+{124}{}{Então faça isso em outro lugar.}
+{125}{}{Nah. Eu não a vi. Porque perguntas?}
 {126}{}{Nada. Apenas procurando por um amigo meu}
-{127}{}{HÃ¡ uma recompensa por sua cabeÃ§a. Se eu puder matÃ¡-lÃ¡, posso conseguir um bom dinheiro.}
-{128}{}{VocÃª estÃ¡ mentindo. Onde ela estÃ¡?}
+{127}{}{Há uma recompensa por sua cabeça. Se eu puder matá-lá, posso conseguir um bom dinheiro.}
+{128}{}{Você está mentindo. Onde ela está?}
 {129}{}{Ah, OK}
 {130}{}{Realmente? Como ela se parece?}
-{131}{}{cerca de 6 metros de altura. Loiras. Ela Ã© de Shady Sands.}
-{132}{}{Sim, ela estÃ¡ aqui. Ela estÃ¡ na casa grande. VocÃª sabe, se dissermos ao Garl,
-Â entÃ£o ele iria querer um pedaÃ§o da recompensa. VocÃª pode querer pensar sobre isso.}
-{133}{}{VocÃª nÃ£o parece ter dito isso. Eu acho que vocÃª estÃ¡ tramando alguma coisa.
-Â E se vocÃª estÃ¡ dizendo a verdade, entÃ£o eu vou sacar a recompensa para mim.}
-{134}{}{I. . . Eu nÃ£o posso dizer mais nada ou Garl vai me matar.}
+{131}{}{cerca de 6 metros de altura. Loiras. Ela é de Shady Sands.}
+{132}{}{Sim, ela está aqui. Ela está na casa grande. Você sabe, se dissermos ao Garl,
+ então ele iria querer um pedaço da recompensa. Você pode querer pensar sobre isso.}
+{133}{}{Você não parece ter dito isso. Eu acho que você está tramando alguma coisa.
+ E se você está dizendo a verdade, então eu vou sacar a recompensa para mim.}
+{134}{}{I. . . Eu não posso dizer mais nada ou Garl vai me matar.}
 {135}{}{Morda-me!}
-{136}{}{Eu nÃ£o gosto da sua aparÃªncia. Ã‰ melhor vocÃª ficar longe de mim.}
-{137}{}{O que? VÃ¡ embora!}
+{136}{}{Eu não gosto da sua aparência. É melhor você ficar longe de mim.}
+{137}{}{O que? Vá embora!}

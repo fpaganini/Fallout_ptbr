@@ -1,0 +1,32 @@
+{100}{}{Você vê um mercador wandering de descendencia asiatica.}
+{101}{}{Você vê o Duc, o mercador wandering.}
+{102}{}{Bem, ola wanderer. Meu nome e Duc, e eu estou indo pra Shady Sands pra fazer um 
+ pouco de comercio. Talvez eu possa interessar a você com algumas mercadorias?}
+{103}{}{O que você tem pra vender?}
+{104}{}{Você vai pra Shady Sands frequentemente?}
+{105}{}{Erf!}
+{106}{}{Deixe-me mostrar a você.}
+{107}{}{Sim, Shady Sands e parte da minha rota normal de comercio. Você pode vijar
+ pra lá conosco com seguranca se você quiser.}
+{108}{}{Com certeza, soa bom.}
+{109}{}{Não, obrigado.}
+{110}{}{Ah, lamento -- não percebi que você era estúpido assim.}
+{111}{}{So deve levar um dia ou dois. Vamos lá!}
+{112}{}{ShadyW.map}
+{113}{}{Não há muitas pessoas que se aventuram pelas terras devastadas sozinhas. Quem é você?}
+{114}{}{Não e da sua conta.}
+{115}{}{Eu sou }
+{116}{}{.}
+{117}{}{Erf!}
+{118}{}{Ola de novo! O que eu posso fazer por você?}
+{119}{}{Eu posso me juntar a seu grupo para Shady Sands?}
+{120}{}{O que você tem pra vender?}
+{121}{}{Nada, obrigado.}
+{122}{}{O que você quer?}
+{123}{}{Nada, lamento.}
+{124}{}{O que você tem pra vender?}
+{125}{}{Erf!}
+{126}{}{Você deveria ser cuidadoso se você esta viajando sozinho.
+ Algumas pessoas desapareceram de Shady Sands recentemente.}
+{127}{}{Ei, eu ouvi sobre como você salvou aquela mulher de
+ Shady Sands. Bom trabalho.}

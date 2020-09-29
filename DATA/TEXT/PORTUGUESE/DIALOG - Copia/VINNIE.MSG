@@ -1,0 +1,91 @@
+# TRANSLATION NOTES
+# Vinnie is a gang leader, who is young and ruthless. He tries to sound tough
+# and is quite mean. He only respects people who are as ruthless and violent as
+# himself.
+
+{100}{}{Você vê o Vinnie da gangue dos Skulz.}
+{101}{}{Você vê um jovem homem com uma tatuagem é uma atitude de mau.}
+{102}{}{Eu gostaria de me juntar a vocês.}
+{103}{}{Você esta no territorio dos Skulz, estranho. Melhor você falar rapido.}
+{104}{}{Lamento, sala errada.}
+{105}{}{Skulz? Quem são vocês?}
+{106}{}{Urgh?}
+{107}{}{Sim, você pode apostar que esta é a sala errada!}
+{108}{}{Nós somos a primeira e unica gangue de Junktown. Nós temos a run das ruas,
+ e nós mandamos na cidade a noite.}
+{109}{}{Ah. Lamento. Tchau.}
+{110}{}{Você não conseguiria comandar o quintal da escola, Chromo.}
+{111}{}{Eu pensei que esta cidade fosse comandada pelo Gizmo apos anoitecer.}
+{112}{}{Saia daqui, seu retardado!}
+{113}{}{Aquele slob não consegue nem ao menos ficar de pe sozinho. Nós somos o
+ musculo nesta cidade. Nós pegamos o que nos queremos.}
+{114}{}{Eu entendo.}
+{115}{}{Você tem algum tipo de acordo com o Killian?}
+{116}{}{O que?! Você pagara por essa declaracao!}
+{117}{}{Nós não aborrecemos o Killian e ele não nos aborrece tanto quanto nos
+ ficarmos na moita. Você me entende?}
+{118}{}{Sim. Tchau.}
+{119}{}{Eu entendi, tudo bem. Você tem que se esconder dele.}
+{120}{}{Nós não aceitamos isso de ninguém, menos ainda do Killian! So por que ele
+ pensa que ele e um xerife glorificado não quer dizer que ele controla os Skulz!}
+{121}{}{Lamento, não tive a intenção de deixar você all riled up.}
+{122}{}{Então, ele cramps seu estilo, eh? O meu tambem. De fato, eu estou pensando
+ em whacking ele. Você quer ir junto?}
+{123}{}{Você quer whack o Killian? Cara, você e louco. Cara, eu não sei . . .
+ tudo bem, eu estou dentro.}
+{124}{}{Seu perdedor, você que nos estavamos indo whack Killian. Saia daqui.}
+{125}{}{Vamos, vamos lá dust Killian.}
+{126}{}{O que você quer agora?}
+{127}{}{Nada. Lamento.}
+{128}{}{Eu estou procurando por alguém pra me ajudar a eliminar o Killian. Os Skulz
+ pareciam um bom prospecto.}
+{129}{}{Maldicao, eu não achava que você o faria! Os Skulz governam esta cidade agora! Woo!}
+{130}{}{Nós já estivemos nesta estrada antes. Você não teve a coragem, então
+ saia daqui!}
+{131}{}{Você quer se juntar a nos, huh? Como nos sabemos que você e durao o bastante
+ pra ser um Skul?}
+{132}{}{Eu mostrarei a você o durao o bastante, seu filho da puta!}
+{133}{}{Deixe-me provar a mim mesmo para você.}
+{134}{}{Confie em mim, eu sou forte o bastante.}
+{135}{}{[Vinnie olha pra você e ri.] Eu acho que não.}
+{136}{}{Eu provarei para você.}
+{137}{}{Isso e tudo. Hora de você morrer.}
+{138}{}{Você esta certo, eu sairei agora.}
+{139}{}{O que torna os Skulz tão duroes?}
+{140}{}{[Vinnie pensa por um segundo.] Se você quer provar que você merece um lugar
+ nos Skulz, eu quero que você roube as cinzas da esposa daquele velho bastardo.
+ Ei. [Vinnie resmunga] Vamos fazer o Neal sofrer pelas ultimas horas dele . . .}
+{141}{}{Tudo bem, eu o farei.}
+{142}{}{De modo algum.}
+{143}{}{Uh, Eu não acho que eu poderia fazer isso.}
+{144}{}{Eu já a roubei.}
+{145}{}{Isso não será tão difícil quanto você poderia pensar. Eu já matei o bastardo.}
+{146}{}{Se você e durao o bastante pra fazer isso, talvez você se torne um Skul
+ depois de tudo. Traga-a aqui uma vez que você a conseguiu.}
+{147}{}{Eu sabia que você não era do material dos Skulz. Saia daqui.}
+{148}{}{Você a pegou?}
+{149}{}{Sim.}
+{150}{}{Não.}
+{151}{}{Eu tive que matar o Neal para pega-lá. Ele chorou como uma garotinha.}
+{152}{}{Há há! Deixe aquele galo velho sofrer até que nos off him esta noite - você esta dentro?}
+{153}{}{Eu decidi que eu não preferiria não ter nada a ver com scabs como você.}
+{154}{}{Vamos esmaga-lo.}
+{155}{}{Eu tenho outra merda pra fazer antes - eu encontrarei você lá.}
+{156}{}{Para o que você esta desperdicando meu tempo?}
+{157}{}{Isso mostrara pra aquele porra velha. Obrigado por tomar conta dele pra nos.
+ [Vinnie tem uma lagrima no olho dele.] Você é um Skul agora.}
+{158}{}{Uh, tudo bem . . . encontre-nos mais tarde, mas não demore muito.}
+{159}{}{Em breve, Neal tera o dele, huh?}
+{160}{}{Nós dissemos que nos voltariamos, seu porra velha!}
+{161}{}{Há um grande grupo de pessoas chegando no bar . . .}
+{162}{}{Foda-se, policial!}
+{163}{}{Você ganha 400 pontos de experiência por roubar a urna do Neal. Os mortos
+ nunca descansarao em paz.}
+{164}{}{You ganha 300 pontos de experiência por colocar um bone no traseiro do Neal, seu Skul.}
+{165}{}{Você pronto para eliminar o Neal?}
+{166}{}{Sim, vamos congelar o bastardo.}
+{167}{}{Não, eu tenho mais algumas coisas pra fazer.}
+{168}{}{De modo algum. Eu quero sair.}
+{169}{}{É muito tarde pra isso, slick. Quando você esta fora, você esta bem fora.}
+{170}{}{Nós governamos esta cidade.}
+{171}{}{Ei mano, nos governamos esta cidade!}

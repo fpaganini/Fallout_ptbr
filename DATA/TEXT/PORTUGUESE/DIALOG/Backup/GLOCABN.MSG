@@ -1,0 +1,7 @@
+{100}{}{Você vê um gabinete.}
+{101}{}{Parece haver uma tranca eletronica neste gabinete.}
+{102}{}{Você facilmente destranca o gabinete.}
+{103}{}{Esta tranca parece mais problematica do que você primeiro acreditava.}
+{104}{}{Você facilmente abre a tranca no gabinete.}
+{105}{}{Esta tranca parece mais problematica do que você primeiro acreditava.}
+{106}{}{Essa técnica não tem efeito no gabinete.}

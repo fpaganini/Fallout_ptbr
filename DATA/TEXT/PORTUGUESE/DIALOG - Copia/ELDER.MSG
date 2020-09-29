@@ -1,0 +1,24 @@
+{100}{}{Você vê o Elder.}
+{101}{}{I am pleased to meet you. Eu espero que você tenha achado esta
+ pequena vila agradavel até agora.}
+{102}{}{Sim.}
+{103}{}{Não, sem ação    por aqui.}
+{104}{}{Excelente. Eu tenho um favor a pedir pra você. Eu prometo que
+ você será bem-recompensado por seus serviso a esta
+ communidade.}
+{105}{}{Me diga mais . . .}
+{106}{}{Isto e apenas uma demo, mas talvez você gostara do que eu
+ tenho a dizer em seguida.}
+{107}{}{Eu sou todo ouvidos . . .}
+{108}{}{Nós estamos tendo uma praga de radscorpions por algum tempo
+ agora. Todos que foram enviados pra destruir estes
+ monstros não retornaram. Eu darei a você armas e
+ armadura se você seguir meu guia até o covil deles
+ e matar todos eles.}
+{109}{}{Soa bom.}
+{110}{}{Não obrigado.}
+{111}{}{Isso é uma vergonha. Por favor saia.}
+{112}{}{Excelente. O Sammy aqui guiara você até o covil.
+ Leve estes itens - Eles virao a ser uteis.}
+{113}{}{Por favor nos ajude tão breve quanto possível. O tempo esta passando.}
+{114}{}{Eu não falo com seu tipo, estranho.}

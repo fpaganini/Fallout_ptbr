@@ -1,0 +1,29 @@
+{100}{}{Você vê Diana, uma saqueadora do deserto.}
+{101}{}{Eu sou Diana. Como eu poderia ajudar você hoje?}
+{102}{}{Eu estou procurando por uma mulher chamada Tandi. Você viu ela?}
+{103}{}{Deixa pra lá, obrigado.}
+{104}{}{Que tal um encontro?}
+{105}{}{O que você faz aqui?}
+{106}{}{O que você pode me dizer sobre este acampamento?}
+{107}{}{Eurrreh?}
+{108}{}{Se ela é uma daquelas mulheres de Shady Sands, talvez você deva olhar ali.
+ Eu apenas trabalho aqui.}
+{109}{}{Ah. Bem, de qualquer maneira obrigado a você.}
+{110}{}{Você pode consertar meu equipamento pra mim?}
+{111}{}{Como você pode ver, eu estou muito ocupada no momento para garantir
+ a você seu pedido.}
+{112}{}{Garl mandou eu consertar o equipamento do acampamento no momento. Eu não tenho
+ tempo pra consertar nosso gear e aquele de todo estranho que caminha aqui. Lamento.}
+{113}{}{Eu sou a armoreira para este encampment. Eu sou a unica com as
+ técnicas necessarias pra reparar e manter as armas e
+ equipamento dos homens do Garl.}
+{114}{}{Você pode consertar meu equipamento pra mim?}
+{115}{}{O que você pode me dizer a respeito deste acampamento?}
+{116}{}{É comandado peloy Garl Mao-da-Morte. Ele e um lider temivel
+ e sem remorso. Ele procura ter certeza de que nos todos
+ sobrevivamos a realidade      do deserto.}
+{117}{}{Eu estou procurando por uma mulher chamada Tandi. Você viu ela?}
+{118}{}{Você pode consertar meu equipamento pra mim?}
+{119}{}{Eu estou ocupada agora. Por favor vá em outro lugar.}
+{120}{}{Você e aquele novo amigo do Garl não e? O que você quer?}
+{121}{}{Hmm. Seu equipamento parece estar funcional. Eu tenho tarefas mais importantes.}

@@ -1,0 +1,52 @@
+{100}{}{Ele parece um homem da guarda experiente.}
+{101}{}{Melhor você tomar cuidado aqui.}
+{102}{}{Esta não é uma boa cidade pra se envolver com problemas.}
+{103}{}{Comporte-se, e nós não teremos que get nasty.}
+{104}{}{Você e ok.}
+{105}{}{Mantenha o bom trabalho.}
+{106}{}{Dia bacana, não e?}
+{107}{}{Esta e Junktown. Lugar bacana pra viver, tanto quanto você fique no
+ nosso bom lado.}
+{108}{}{Cuidado com o Gizmo e os cronies dele.}
+{109}{}{Eu gosto do meu chefe.}
+{110}{}{Melhor você guardar isso. Junktown e um lugar amistoso, amigo, e nós
+ queremos mante-las desse jeito.}
+{111}{}{Guardar o que?}
+{112}{}{Não me diga o que fazer, garoto perdedor.}
+{113}{}{Soa justo. A propósito, qual é a lei local a respeito das armas?}
+{114}{}{Uh,oh.}
+{115}{}{Sua arma, idiota. O Killian não tirara suas armas, mas é melhor você
+ mante-las bem guardadas no seu coldre.}
+{116}{}{Ah, lamento.}
+{117}{}{De modo algum! Eu não vou guardar minhas atiradoras por ninguém!}
+{118}{}{Melhor você se comportar, uma vez que é a lei, e eu enforce a lei.
+ Guarde sua arma, não a tire a menos que seja em auto-defesa e você não
+ tera com nos, os guardas. Desobedeça a lei e nós retornaremos você
+ a terra devastada sem lei - vivo ou morto.}
+{119}{}{Certo, já que você coloca desse jeito.}
+{120}{}{Morda as suas leis!}
+{121}{}{Bem, uh, esta bem pra mim. Mas e melhor você ser cuidadoso.}
+{122}{}{Bom que você perguntou. Nenhuma arma pode ser sacada exceto em
+ auto-defesa, se você começar uma briga, a culpa e sua. Alem disso, e
+ seu direito andar por ai armado. Apenas não puxe uma faca ou arma
+ sem justa causa. Tenha um bom dia.}
+{123}{}{Ei você, sem armas! É eu não me importo se sua mamae deixou você
+ cair e bater a cabeca quando garoto. Sem armas.}
+{124}{}{Ei! Você! O que você esta fazendo andando furtivamente por ai?}
+{125}{}{Nada.}
+{126}{}{Eu não estou andando furtivamente por ai. Eu apenas gosto de caminhar cuidadosamente.}
+{127}{}{Uhhh.}
+{128}{}{O que quer que seja que você estiver fazendo, não o faca neste cidade.}
+{129}{}{O guarda encara você por um momento. Você vê uma olhar de reconhecimento
+ na face dele, e então ele puxa a arma dele.}
+{130}{}{Bem, uh, ok. Que seja. Apenas não faca nada ilegal.}
+{131}{}{Obrigado, tchau.}
+{132}{}{Certamente, eu jogarei o cuidado ao vento, senhor.}
+{133}{}{Certamente, eu jogarei o cuidado ao vento, senhora.}
+{134}{}{Guarde essa arma, ou enfrente as consequencias!}
+{135}{}{Okay, basta de avisos. Saia da cidade, agora, e nunca retorne, ou
+ enfrente as consequencias!}
+{136}{}{Ei! O que você acha que você fazendo?}
+{137}{}{Basta, você conseguiu, camarada.}
+{138}{}{Você esta com problemas agora . . .}
+{139}{}{Vocês Skulz estão presos!}

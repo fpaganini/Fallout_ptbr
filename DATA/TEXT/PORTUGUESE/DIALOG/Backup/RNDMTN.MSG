@@ -1,0 +1,47 @@
+
+#
+#	Mountain area random encounter text
+#
+
+{100}{}{Você e quase esmagado por uma grande rocha numa avalanche.}
+{101}{}{Você escapa com nenhum dano.}
+{102}{}{A rocha deslocada traz com ela os restos de um viajante há muito morto.}
+{103}{}{Sua perna e danificada criticamente por rochas que caem.}
+{104}{}{Algumas lascas de rocha rasgam sua face e mãos, mas você escapa com dano minimo.}
+{105}{}{Radscorpions!}
+{106}{}{Um radscorpion particularmente furtivo parece estar tentando emboscar você.}
+{107}{}{De lugar nenhum um radscorpion de repente ataca!}
+{108}{}{Você tropecou numa familia de Mole Rats.}
+{109}{}{Você e quase esmagado por uma grande rocha numa avalanche.}
+{110}{}{Você escapa com nenhum dano.}
+{111}{}{Você escapa com nenhum dano. A rocha deslocada revela um deposito
+ de ouro.}
+{112}{}{Sua perna e danificada criticamente por rochas que caem.}
+{113}{}{Algumas lascas de rocha rasgam sua face e mãos, mas você
+ escapa com dano minimo.}
+#
+{114}{}{Você esta viajando atraves de penhascos sheer e terreno rugged.}
+{115}{}{Felizmente, suas técnicas de escalada estão aptas para a tarefa.}
+{116}{}{Você acha uma caverna com uma pequena fonte e consegue obter sua primeira boa noite de sono há muito tempo.}
+#
+{117}{}{Você cai de um ledge, aterrissando em varias pedras afiadas.}
+{118}{}{Você cai de um cliffside no chao rochoso abaixo.}
+{119}{}{Você tropeca num grande grupo de radscorpions.}
+{120}{}{Você acha varios ratos scavenging por aqui.}
+{121}{}{Você vê um viajante solitario a distancia.}
+{122}{}{O chao a frente esta littered com escombros e corpos. Parece uma velha zona de batalha.}
+{123}{}{Você e quase esmagado por uma grande rocha numa avalanche.}
+{124}{}{Você escapa com nenhum dano.}
+{125}{}{Você escapa com nenhum dano. A rocha deslocada revela um deposito de ouro.}
+{126}{}{Sua perna e danificada criticamente por rochas que caem.}
+{127}{}{Algumas lascas de rocha rasgam sua face e mãos, mas você escapa com dano minimo.}
+{128}{}{Você vê um radscorpion solitario, skittering about.}
+{129}{}{Tremendos Mole rats estão nosing por aqui.}
+{130}{}{Você acha varios ratos scavenging por aqui.}
+{131}{}{Você quase cai num terreno duro. Eles poderiam usar um pouco de gerenciamento do ambiente aqui.}
+{132}{}{Você cai sobre um terreno duro e torce um tornozela, dolorosamente.}
+{133}{}{Você cai sobre um terreno duro e scrape um pouco de carne.}
+{134}{}{Você vê varios ratos correndo em direção a você.}
+{135}{}{Você encontra os ossos de algum viajante morto há muito tempo.}
+{136}{}{Você tropeca num grupo de radscorpions hostis.}
+

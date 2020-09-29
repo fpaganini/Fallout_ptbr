@@ -1,0 +1,4 @@
+{100}{}{Scrawled num pedaço de papel esta uma messagem quase
+ ilegivel: 'Hea  d  or t   saida do nível inferior. Sem tempo
+  o  vac   e test p  je     T     s t e big    !
+ Dan  Sc  ly.}

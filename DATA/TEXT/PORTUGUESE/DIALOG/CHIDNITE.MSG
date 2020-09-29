@@ -1,28 +1,28 @@
-{100}{}{VocÃª vÃª antes de vocÃª um Nightkin.}
+{100}{}{Você vê antes de você um Nightkin.}
 {101}{}{Morra!}
 {102}{}{Me deixe ou morra!}
-{103}{}{NÃ£o gosto do seu tom. Se minha mensagem nÃ£o chegar ao Mestre,
-Â Eu cuidarei para que sua morte seja lenta e dolorosa.}
-{104}{}{Eu sÃ³ queria cumprimentÃ¡-lo pela Ã³tima corcunda em suas costas.
-Â Sua respiraÃ§Ã£o poderia usar algum trabalho, no entanto. . .}
-{105}{}{VocÃª poderia me indicar o responsÃ¡vel?}
-{106}{}{Cara, vocÃª poderia usar uma bebida pior que eu!}
-{107}{}{Eu nÃ£o vou sair!}
+{103}{}{Não gosto do seu tom. Se minha mensagem não chegar ao Mestre,
+ Eu cuidarei para que sua morte seja lenta e dolorosa.}
+{104}{}{Eu só queria cumprimentá-lo pela ótima corcunda em suas costas.
+ Sua respiração poderia usar algum trabalho, no entanto. . .}
+{105}{}{Você poderia me indicar o responsável?}
+{106}{}{Cara, você poderia usar uma bebida pior que eu!}
+{107}{}{Eu não vou sair!}
 {108}{}{Certo. Eu saio.}
-{109}{}{NÃ£o Ã© prudente jogar com o Nightkin. Saia daqui!}
-{110}{}{Eu nÃ£o penso assim}
-{111}{}{Eu vou gostar de ver vocÃª morrer!}
-{112}{}{VocÃª nÃ£o escuta? NÃ£o Ã© prudente ignorar o Nightkin.}
-{113}{}{Eu preciso falar com vocÃª. Ã‰ urgente!}
-{114}{}{NinguÃ©m nunca me acusou de ser sÃ¡bio!}
-{115}{}{Eu sÃ³ quero falar com o homem no comando!}
-{116}{}{VocÃª deveria ser durÃ£o ou algo assim?}
+{109}{}{Não é prudente jogar com o Nightkin. Saia daqui!}
+{110}{}{Eu não penso assim}
+{111}{}{Eu vou gostar de ver você morrer!}
+{112}{}{Você não escuta? Não é prudente ignorar o Nightkin.}
+{113}{}{Eu preciso falar com você. É urgente!}
+{114}{}{Ninguém nunca me acusou de ser sábio!}
+{115}{}{Eu só quero falar com o homem no comando!}
+{116}{}{Você deveria ser durão ou algo assim?}
 {117}{}{Me desculpe! Tenha um bom dia.}
-{118}{}{VocÃª quer ver insensato? Ã‰ imprudente me dar um lÃ¡bio, imbecil!}
-{119}{}{Suba as escadas. Outros da minha espÃ©cie julgarÃ£o o valor da sua mensagem.}
-{120}{}{Este Ã© seu Ãºltimo aviso!}
-{121}{}{Claro que Ã©! Grande negÃ³cio . . .}
+{118}{}{Você quer ver insensato? É imprudente me dar um lábio, imbecil!}
+{119}{}{Suba as escadas. Outros da minha espécie julgarão o valor da sua mensagem.}
+{120}{}{Este é seu último aviso!}
+{121}{}{Claro que é! Grande negócio . . .}
 {122}{}{Eu REALMENTE preciso falar com o cara no comando!}
 {123}{}{Certo! OK! Eu sinto Muito! Tenha um bom dia.}
-{124}{}{VocÃª sabe qual Ã© o seu erro? VocÃª dÃ¡ avisos. Eu nÃ£o. Morrer!}
+{124}{}{Você sabe qual é o seu erro? Você dá avisos. Eu não. Morrer!}
 {125}{}{[feito]}

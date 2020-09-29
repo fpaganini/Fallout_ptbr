@@ -1,0 +1,142 @@
+{100}{}{Você vê Bob, proprietário da Bob's Iguana Bits.}
+{101}{}{Certo, ok, recebi seu dinheiro.}
+{102}{}{Tenho mais despesas. Preciso aumentar o pagamento.}
+{103}{}{Dane-se isso. Quero TODO o seu dinheiro agora, ou você é um Bob morto.}
+{104}{}{Eu não aguento o calor. Estou cancelando os pagamentos.}
+{105}{}{Quero informações sobre o Decker.}
+{106}{}{Quero informações sobre o Doc Morbid.}
+{107}{}{Dê-me uma iguana no espeto.}
+{108}{}{Eu sinto Muito. Eu não estou pagando mais. Faça o que quiser comigo.}
+{109}{}{Bob, pensei que éramos amigos! Na verdade, estava pensando em lhe dar uma promoção na minha organização. Em vez disso, você me trai. Isso é muito decepcionante ...}
+{110}{}{Bob, por que devo aceitar um não como resposta? Especialmente de um canalha como você?}
+{111}{}{Fico feliz em ver que você está se defendendo.}
+{112}{}{Sua reputação é história, Bob. His-tó-ri-e!}
+{113}{}{Tudo bem, vou decidir o que fazer com você mais tarde.}
+{114}{}{Bem, foi bom conhecer você, Bob. Mande lembranças para Satanás.}
+{115}{}{O que você está fazendo de volta tão cedo? Ainda não é hora de pagar.}
+{116}{}{Você tem muita coragem de mostrar sua cara por aqui. Dê o fora!}
+{117}{}{Ei, eu não quero problemas!}
+{118}{}{Oi! Bem-vindo ao Bob's Iguana Bits, o restaurante familiar. Eu posso anotar seu pedido?}
+{119}{}{Esqueça.}
+{120}{}{Tu és? Bem ok...}
+{121}{}{Ele é um filho da puta cusão. Você não quer mexer com ele. Algo mais?}
+{122}{}{Bem. O que você quer que eu pague?}
+{123}{}{eu quero }
+{124}{}{ dólares a cada cinco dias.}
+{125}{}{Doc Morbid? Tudo o que sei é que ele está perto de Junktown e é a fonte de comida mais barata que pude encontrar. Isso é tudo!}
+{126}{}{Vamos ver o que tenho em estoque.}
+{127}{}{Tenho uma iguana inteira por vinte cápsulas.}
+{128}{}{Tenho uma escolha excelente para oito partidas.}
+{129}{}{Vou levar um dos reais.}
+{130}{}{Nada para mim agora. Estou de dieta.}
+{131}{}{Vou pegar um dos cortes principais.}
+{132}{}{Eu poderia ir para um corte de primeira agora. Vou até pagar por isso.}
+{133}{}{Uhh ... Eu não estou com fome agora.}
+{134}{}{Bem! Pegue seu dinheiro e saia!}
+{135}{}{Você pode enfiar! Eu nunca vou te pagar! Dá o fora!}
+{136}{}{Sim claro. Por que você não encontra outra pessoa para ferrar?}
+{137}{}{Você não pode jogar lixo sem deixar um pouco nos seus dedos. Saia daqui!}
+{138}{}{Claro que você vai. Dá o fora!}
+{139}{}{Desculpe. Estamos todos sem iguana.}
+{140}{}{Só temos iguana inteira no espeto. Vinte dólares cada.}
+{141}{}{Nós só temos a escolha principal. Mas tem um gosto ótimo. Oito dólares cada.}
+{142}{}{Certo. Compramos iguana inteira em uma vara por vinte dólares e nossas peças selecionadas por oito dólares.}
+{143}{}{Vou levar uma iguana inteira.}
+{144}{}{Vou pegar sua seleção principal.}
+{145}{}{Sabe, ouvi dizer que sua seleção preferida tem gosto de frango. Você gosta de comer caras covardes?}
+{146}{}{Sem porções maricas! Eu quero toda iguana! Ugh!}
+{147}{}{Hmm, cheira bem! Eu quero prime!}
+{148}{}{Nunca vi nenhum deles por aqui. Comerciantes de água não precisam deles.}
+{149}{}{Comerciantes de água?}
+{150}{}{O Sr. Decker é um empresário distinto em um negócio nada distinto. Algo mais?}
+{151}{}{}
+{152}{}{Que tipo de negócio?}
+{153}{}{Do que você está falando?}
+{154}{}{Seus ingredientes secretos. Quão fresco o cadáver deve estar antes de desenvolver um gosto amargo? Você usa mutantes, humanos ou uma mistura?}
+{155}{}{Encontrei uma fatura no covil do Doc Morbid. Uma fatura de cadáveres ...}
+{156}{}{Se você tiver perda de memória, posso falar com o xerife.}
+{157}{}{Prime Choice Select é feito de pessoas !!!! É feito de gente !!!}
+{158}{}{Nada. Desculpe trazer isso à tona. Agora, há mais alguma coisa que posso fazer por você?}
+{159}{}{Bem, ele está morto agora, e meu fluxo de caixa aumentou por causa disso.}
+{160}{}{Alguém matou Decker. Estamos de luto. [risadinha]}
+{161}{}{Alguém atirou no xerife Greene. Não sei sobre o deputado, no entanto.}
+{162}{}{Daren Hightower foi assassinado. É todo aquele dinheiro não poderia salvá-lo. Irônico, não é?}
+{163}{}{Alguém roubou um colar dos Hightowers. Cara, eles alguma vez cometeram um grande erro. Eles estão mortos com certeza!}
+{164}{}{Alguém matou Jain na Catedral. Ouvi dizer que ela era uma verdadeira dor no traseiro!}
+{165}{}{Bem, a única coisa nova é que as Crianças da Catedral assumiram o Hospital. Está muito chato por aqui ultimamente.}
+{166}{}{Algo mais?}
+{167}{}{Cara, estarei fora do mercado em uma semana. Mais alguma coisa, oh alto e poderoso?}
+{168}{}{Eu não gosto da sua atitude.}
+{169}{}{Desculpe, você não pode pagar.}
+{170}{}{Uma iguana inteira subindo! Algo mais?}
+{171}{}{Você sabe do que eles são feitos e ainda quer um? Você faz Decker parecer um trabalhador de caridade! Algo mais?}
+{172}{}{Eu não gosto da sua atitude.}
+{173}{}{Desculpe, você não pode pagar.}
+{174}{}{Uma escolha privilegiada de iguana, chegando! Algo mais?}
+{175}{}{Escolha inteligente. Você pode perder alguns quilos.}
+{176}{}{O que ... o quê! Ah, entendo, você está brincando ...}
+{177}{}{Claro que sou...}
+{178}{}{Não, eu não sou. Vou providenciar para que você pague pelo seu crime.}
+{179}{}{Não, eu não sou. É eu quero um pedaço da ação.}
+{180}{}{Você deve ser novo na cidade se está me perguntando sobre os Mercadores de Água. Água é vida, e você não tem muito mais poder do que vida e morte.}
+{181}{}{Quem está encarregado dos mercadores de água?}
+{182}{}{Se houver algo que envolva miséria e sofrimento no Hub, Decker o controla ou deseja controlá-lo. Algo mais?}
+{183}{}{Não sei do que você está falando e não aprecio sua calúnia! Eu sugiro que você não mostre sua cara aqui novamente.}
+{184}{}{Não faça isso! Tudo bem, tenho usado algumas partes questionáveis. Mas não é como se eu estivesse cometendo um assassinato. O material do doutor Morbid já está morto, não está?}
+{185}{}{Tenho certeza que sim, Bob. Tenha um bom dia...}
+{186}{}{O canibalismo é um crime contra a humanidade, Bob. Vou ver se você paga por isso.}
+{187}{}{Talvez seja. Talvez não seja. Eu não me importo. Eu quero um pedaço da ação.}
+{188}{}{Não tão alto! Eu não preciso que você diga isso em todo o Hub ...}
+{189}{}{Acho que fui rude. Tenha um bom dia...}
+{190}{}{Você sabe, a delegacia de polícia fica do outro lado da rua. Eu realmente deveria dar uma pequena caminhada.}
+{191}{}{Eu posso ficar ainda mais alto. Mas também posso calar a boca. O barulho é barato, o silêncio é caro.}
+{192}{}{Como diabos vou te pagar se você comer todo o meu estoque? Bem! Coma outra iguana! Eu espero que você engasgue com isso!}
+{193}{}{Eu não gosto da sua atitude.}
+{194}{}{Difícil. Você quer dinheiro, eu darei a você. Você quer comida, eu darei a você. Você quer morrer, eu vou providenciar. Mas "curtir" não faz parte da equação.}
+{195}{}{Nada que eu possa pensar. Agora, se me dá licença, tenho um negócio para administrar.}
+{196}{}{Desculpe, estamos sem iguana.}
+{197}{}{Só temos iguana inteira no espeto. Vinte dólares.}
+{198}{}{Nós só temos a escolha principal. Oito dólares.}
+{199}{}{Novamente? Cara, você deve estar com fome. Compramos iguana inteira em uma vara por vinte dólares e nossas peças selecionadas por oito dólares.}
+{200}{}{Vou levar uma iguana inteira.}
+{201}{}{Vou pegar sua seleção principal.}
+{202}{}{Sabe, ouvi dizer que sua seleção preferida tem gosto de frango. Você gosta de comer caras covardes?}
+{203}{}{Sem porções maricas! Eu quero toda iguana! Ugh!}
+{204}{}{Hmm, cheira bem! Eu quero prime!}
+{205}{}{Como diabos vou te pagar se você comer todo o meu estoque? Bem! Coma outra iguana! Eu espero que você engasgue com isso!}
+{206}{}{Eu não gosto da sua atitude.}
+{207}{}{Uh, tchau.}
+{208}{}{Espere um minuto. Temos que encontrar uma maneira de chegar a um entendimento mútuo!}
+{209}{}{A única maneira de me manter calado é me matando.}
+{210}{}{Desculpe, nenhum acordo.}
+{211}{}{Bem. O que eu posso tirar disso?}
+{212}{}{Bem. O que você quer que eu pague?}
+{213}{}{eu quero }
+{214}{}{50}
+{215}{}{75}
+{216}{}{100}
+{217}{}{150}
+{218}{}{200}
+{219}{}{ dólares a cada cinco dias.}
+{220}{}{Não acho que vou chantagear você. Continue.}
+{221}{}{Eu mudaria de ideia se fosse você, amigo. Pessoas morreram por menos no Hub.}
+{222}{}{Bem. É um acordo.}
+{223}{}{ dólares, com vencimento a cada cinco dias. Acho que te vejo em cinco ...}
+{224}{}{De jeito nenhum estou indo para isso. Não posso pagar mais do que estou pagando agora.}
+{225}{}{Que pena, Bob. Eu odiaria começar a cantar.}
+{226}{}{Bem. Ficaremos com o arranjo atual ... por enquanto.}
+{227}{}{Você pode pagar um funeral, Bob?}
+{228}{}{Bem. Talvez fosse bom se nossos caminhos não se cruzassem novamente.}
+{229}{}{Você pode ser um pássaro canoro, mas eu sou a galinha dos ovos de ouro. Você não vai cantar, não quando eu sou o único ganso que você tem. Agora saia!}
+{230}{}{A primeira coisa sensata que lembro de você dizer. Agora saia!}
+{231}{}{Dê-me uma iguana no espeto.}
+{232}{}{O que você pode me dizer sobre um Water Chip?}
+{233}{}{O que você pode me dizer sobre Decker?}
+{234}{}{Acho que precisamos conversar sobre Doc Morbid e alguns de seus ingredientes secretos.}
+{235}{}{Você sabe alguma coisa sobre as caravanas desaparecidas?}
+{236}{}{O que, meu problema? O que te dá essa impressão?}
+{237}{}{Alguma coisa interessante acontecendo no Hub?}
+{238}{}{Estou com fome! Grrrrr!}
+{239}{}{Negócio terrível. Essas pobres pessoas. Ah, essas pobres pessoas. Perdendo suas vidas de uma forma tão horrível! Posso fazer mais alguma coisa por você? Como alimentar você, talvez?}
+{240}{}{Nada tchau.}
+{241}{}{Eu vou agora.}

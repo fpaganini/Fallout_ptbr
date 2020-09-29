@@ -1,0 +1,36 @@
+{100}{}{Você vê o Troy.}
+{101}{}{Congratulações, humano. Você foi selecionado pra se juntar a um bando
+ de elite de adoradores. Siga-me.}
+{102}{}{Não aconteceria disto ter algo a ver com os rumores de um exercito super mutante running amok?}
+{103}{}{Aonde nos estamos indo?}
+{104}{}{O que você esta esperando? Vamos lá!}
+{105}{}{Eu acho que não.}
+{106}{}{O que é esse fedor nojento terrível parecido com o de cadaver? Ah, e você!}
+{107}{}{Ruh?}
+{108}{}{Siga-me e você descobrira. Ou, pra por de outro modo, siga-me e viva, tolo!}
+{109}{}{Então se eu não ir, eu morro? Isso não soa muito religioso.}
+{110}{}{Você me convenceu. Vamos começar a hoofing!}
+{111}{}{Eu acho que não.}
+{112}{}{Não comece o que você não pode terminar, aberracao!}
+{113}{}{Excelente!}
+{114}{}{Você não deveria fazer jogos com a Lady Jain ou as Crianças.}
+{115}{}{Você não deveria insultar o que você não consegue matar. Agora, você vira
+ comigo e vivera, ou você deseja ficar aqui e morrer?}
+{116}{}{Eu estou indo!}
+{117}{}{Esqueça.}
+{118}{}{Puxa, alguns mutantes simplesmente não conseguem aguentar uma piada!}
+{119}{}{Se eu continuar cheirando você, eu cairei morto de qualquer maneira!}
+{120}{}{Sua fera estupida! Você vira comigo ou você ficara?}
+{121}{}{Uh . . . Ir!}
+{122}{}{Uh . . . Mim ficar!}
+{123}{}{Não me plague com indecisao! Qual e sua resposta, humano?}
+{124}{}{Eu estou indo com você. Vamos lá.}
+{125}{}{Esqueça.}
+{126}{}{Como você ousa me obrigar? Ninguem me diz o que fazer!}
+{127}{}{Cao insolente! Você morrera agora!}
+{128}{}{Não me plague com suas jests! Qual e sua resposta, humano?}
+{129}{}{Eu estou indo com você. Vamos lá.}
+{130}{}{Esqueça.}
+{131}{}{Não me obrigue, amigo. Eu ainda estou tentando pensar numa boa
+ smartass comeback . . .}
+{132}{}{O mutante ignora você.}

@@ -1,0 +1,116 @@
+{100}{}{Você vê o Jeremiah, um mensageiro para as Crianças.}
+{101}{}{Você vê uma Crianca. Ele parece pensativo.}
+{102}{}{Desculpe-me, irmao. Você me startled. Como eu posso servir o Mestre?}
+{103}{}{Quip!}
+{104}{}{O que você esta fazendo?}
+{105}{}{Ah, sim, um super mutante em treinamento. Eu retornarei para as minhas tarefas.}
+{106}{}{Se você não sabe, não é da sua conta. Se você esta inquirindo sobre
+ algo que você não deve saber, então eu terei que relatar você aos nossos
+ supervisores. Você deveria saber melhor.}
+{107}{}{Eu sou uma pessoa de alta importancia.}
+{108}{}{Eu lamento ter aborrecido você.}
+{109}{}{Eu sou novo aqui.}
+{110}{}{Quem diabos e você para estar me fazendo perguntas?! Você tem sorte
+ se eu não reportar você para a Chama Sagrada!!}
+{111}{}{Transferindo os relatorios, claro.}
+{112}{}{Relatorios do que? Se eu posso perguntar.}
+{113}{}{É um poderoso bom trabalho que você esta fazendo.}
+{114}{}{Isso e tudo. Obrigado a você.}
+{115}{}{Muito bem, então. Que a paz esteja com você.}
+{116}{}{Eu me desculpo. Como eu posso ser de ajuda?}
+{117}{}{O que é que você esta fazendo?}
+{118}{}{Você pode começar respondendo minha pergunta.}
+{119}{}{Você pode morrer!}
+{120}{}{Guardas!!!}
+{121}{}{É obvio que você não é daqui. Quem é você?}
+{122}{}{Eu sou verdadeiramente um Vault Dweller e gostaria de falar com o Mestre.}
+{123}{}{Um... Dorpheus... hmm... Morpheus me enviou.}
+{124}{}{Eu sou Loki. Um iniciado do sul.}
+{125}{}{Não, Eu não sou daqui. Mas eu sei pra onde esta bala vai... pra
+ sua cabeca.}
+{126}{}{Eu transfiro os relatorios de pureza humana para as areas ao redor.
+ Mas você deveria saber disto. [parecendo suspeito] Quem é você?}
+{127}{}{Eu fui enviado aqui por Morpheus com uma mensagem para o Mestre.}
+{128}{}{Não e da sua conta quem eu sou... apenas responda minhas perguntas!}
+{129}{}{Você não precisa saber quem eu sou, e o desejo do Mestre.}
+{130}{}{Você ousa perguntar quem eu sou? Tolo, eu deveria acertar você aonde
+ você esta.}
+{131}{}{Isso é bastante esquisito... eu nunca ouvi sobre você.}
+{132}{}{Eu fui enviado aqui por Morpheus com uma mensagem para o Mestre.}
+{133}{}{Eu sou da Alta Ordem. So o Mestre e Morpheus sabem de mim de modo
+ a garantir minha seguranca no exterior. Mas eu fui chamado de volta por
+ ordem do Mestre.}
+{134}{}{Por favor me perdoe. Eu me desculpo por questionar você. Por favor continue
+ com seus negócios e se eu puder ser de qualquer ajuda deixe-me saber.}
+{135}{}{Eu não sei quem você e e você não é daqui. Guardas!!!}
+{136}{}{Quem é você e o que você esta fazendo aqui embaixo?}
+{137}{}{Eu sou um adorador e eu estou perdido.}
+{138}{}{Morpheus me enviou com uma mensagem para o Mestre.}
+{139}{}{Procurando uma alma solitaria para enviar para o paraiso.}
+{140}{}{Urk!}
+{141}{}{Você não é permitido nesta area. So Servidores e superiores são
+ permitidos aqui embaixo. Retorne ao Catedral proper.}
+{142}{}{Eu me desculpo por qualquer problema que eu tenha causado.}
+{143}{}{Eu posso fazer algumas perguntas pra você antes que eu saia?}
+{144}{}{OK, mas não antes que eu abra e divida sua cabeca.}
+{145}{}{Morpheus não enviaria um slag como você em tal missao. Guardas!!}
+{146}{}{Seu idiota! Você não é permitido nesta area. Retorne para a Catedral
+ proper imediatamente!}
+{147}{}{Akay.}
+{148}{}{Hunh.}
+{149}{}{Nah.}
+{150}{}{Eu transfiro relatorios para o Mestre. Isso e tudo que você precisa
+ saber, minha criança. Agora, você deve sair.}
+{151}{}{Eu sairei agora.}
+{152}{}{Eu apenas desejo fazer mais algumas perguntas pra você.}
+{153}{}{Eu sairei. Eu sairei. Mas não até que eu exploda seu cerebro.}
+{154}{}{Como você chegou aqui?! O que você esta fazendo andando furtivamente por ai?}
+{155}{}{Eu apenas desejo fazer algumas perguntas pra você.}
+{156}{}{Não, você não pode me fazer quaisquer perguntas. Agora saia.}
+{157}{}{Pare! Você não tem negócios a fazer aqui!}
+{158}{}{Duh?}
+{159}{}{Lamento. Eu estou perdido. Eu sairei agora.}
+{160}{}{Mas eu tenho negócios aqui. Morpheus me enviou numa missao para o
+ Mestre.}
+{161}{}{Eu segui uma pessoa de aparencia suspeita aqui embaixo. Você viu
+ ele?}
+{162}{}{Não. Matar e meu negocio e o negocio e bom.}
+{163}{}{Não, eu não vi ninguém. Como ele se parece?}
+{164}{}{Não importa. Eu acho que ele fugiu.}
+{165}{}{Foi um homem verde baixinho.}
+{166}{}{Ele era da sua altura mas estava usando uma jaqueta de couro... O que
+ você tem debaixo destes mantos?}
+{167}{}{Ele parecia com você, merda-por-cerebros!}
+{168}{}{Um... Eu... Eu... Você não realmente pensa que sou é... eu?  Que ridiculo.
+ Eu nunca!}
+{169}{}{Certo. Eu sairei então, mas deixe-me saber se você ver qualquer coisa...}
+{170}{}{Sim! Eu acho que foi você! Deite-se no chao e espalhe-as!}
+{171}{}{Não, eu não acredito que foi você mas eu posso fazer algumas perguntas pra você?}
+{172}{}{Sim, meu irmao. Como eu posso ser de ajuda?}
+{173}{}{Sim, minha irma. Como eu posso ser de ajuda?}
+{174}{}{O que é que você faz aqui, irmao?}
+{175}{}{Apenas sirva o Mestre. Isso e tudo que eu peco. Irmao.}
+{176}{}{Lamento, cara errado. Todos você caras parecem os mesmos nestes mantos.}
+{177}{}{Você pode me servir morrendo, seu bastardo whacked out!}
+{178}{}{Eu transfiro os relatorios da pureza humana para as areas ao redor.}
+{179}{}{Isso e tudo. Obrigado a você.}
+{180}{}{Eu gostaria de fazer mais algumas perguntas pra você, irmao.}
+{181}{}{Sim, e e um trabalho muito importante. É você entende a
+ importancia dos seus deveres para o Mestre e todos nos?}
+{182}{}{Porque? Sim. Eu sou aquele que traz ao Mestre as noticias dos humanos
+ novos, não manchados, intocados pela radiação. Eu fui aquele que trouxe ao
+ Mestre as noticias finais de uma possível Vault Perdida. Pode ainda ter
+ humanos de puro-sangue nela.}
+{183}{}{Sim, meu irmao. Você entende. Obrigado a você. Isso e tudo.}
+{184}{}{Eu gostaria de fazer algumas outras perguntas pra você.}
+{185}{}{Você não conheceria um humano de puro sangue se ele estivesse de pe bem
+ na frente de você. Idiota.}
+{186}{}{Você não conheceria um humano de puro sangue se ela estivesse de pe bem
+ na frente de você. Idiota.}
+{187}{}{Você age muito estranhamente. Eu não acredito que você e quem você diz
+ que você é. Guardas!}
+{188}{}{Você faz muitas perguntas. Eu não acredito que você e quem você diz
+ que você é. Guardas!}
+{189}{}{Ei! Eu disse que você não era permitido aqui embaixo! Guardas!}
+{190}{}{Você faz muitas perguntas. Quem é você?}
+{192}{}{Me desculpe, irma. Você me startled. Como eu posso servir o Mestre?}

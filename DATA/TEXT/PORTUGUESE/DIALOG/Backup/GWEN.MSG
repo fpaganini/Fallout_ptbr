@@ -1,0 +1,28 @@
+{100}{}{Você vê a Gwen, uma bandida do deserto.}
+{101}{}{Eu sou Gwen. Eu sou uma das conselheiras do Garl. Quem é você?}
+{102}{}{Eu sou }
+{103}{}{. O que você faz por aqui?}
+{104}{}{Eu não sou ninguém especial. Você pode me dizer sobre seu acampamento?}
+{105}{}{Hroo?}
+{106}{}{Eu sou aquela queo will sweep you off your feet, docinho.}
+{107}{}{Como uma conselheira, eu faco ter certeza de que nenhum low-lifes
+ causem qualquer problema para o Garl.}
+{108}{}{É como você faz isso?}
+{109}{}{Você e que exercito?}
+{110}{}{Eu duvido que você conseguiria fazer alguma pra parar alguém.}
+{111}{}{Parece que todos os low-lifes vivem aqui.}
+{112}{}{Hmpf. Se você não é ninguém especial então eu não me aborrecerei
+ falando com você. Vai embora.}
+{113}{}{Eu impeco idiotas como você de aborrecer o Garl. Vai embora!}
+{114}{}{Eu tenho modos de fazer com que certos indesejaveis não estejam mais aqui.}
+{115}{}{Eu posso ver que eu estava errado. Você provavelmente conseguiria fazer
+ seu trabalho bem. Tchau.}
+{116}{}{Prove!}
+{117}{}{Morra!}
+{118}{}{Foi há tanto tempo desde que eu tive uma boa luta. Muito ruim que você
+ vai perder. Aqui esta a prova da minha técnica!}
+{119}{}{Você se arrependera dessa declaracao. Sera sua ultima!}
+{120}{}{Se isso e o melhor que você pode fazer, então eu estarei fazendo ao mundo
+ um favor matando você.}
+{121}{}{Eu e este exercito!}
+{122}{}{Você me chateia. Saia antes que eu fique verdadeiramente zangada.}

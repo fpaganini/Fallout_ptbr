@@ -1,0 +1,16 @@
+{100}{}{Este computador esta rotulado como Computador de Acesso Atomico.}
+{101}{}{Há cabos indo do computador de acesso até a ogiva
+ nuclear atras dele.}
+{102}{}{Você armou a ogiva nuclear. Um contador com quatro minutos
+ comecou uma contagem regressiva.}
+{103}{}{Você desarmou a ogiva nuclear.}
+{104}{}{BOOOOOOOOOM! [Você detona a bomba atomica!]}
+{105}{}{Isso não parece estar funcionando.}
+{106}{}{A contagem regressiva ainda esta continuando . . . talvez você deva cortar aquele fio vermelho.}
+{107}{}{Talvez você precise usar a chave tambem.}
+{108}{}{Este computador esta equipado com um dispositivo de travamento de hardware que
+ impede que a bomba se arme sem a chave apropriada.}
+{109}{}{É impossivel lockpick esta tranca altamente segura.}
+{110}{}{Este computador não pode ser reparado.}
+{111}{}{Você não pode usar a técnica de armadilhas neste computador.}
+{112}{}{Você não esta treinado o bastante pra derrotar o mecanismo de seguranca.}

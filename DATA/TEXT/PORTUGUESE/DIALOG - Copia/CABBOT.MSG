@@ -1,0 +1,258 @@
+{100}{}{Você vê Cabbot, um Iniciado da Irmandade do Aço.}
+{101}{Cab_1}{Olá e bem-vindo à Irmandade do Aço.
+  Posso perguntar sua empresa aqui?}
+{102}{}{Quem é você?}
+{103}{}{Posso te fazer algumas perguntas?}
+{104}{}{Uhhh?}
+{105}{}{Eu gostaria de entrar.}
+{106}{}{O que você faz?}
+{107}{}{Não importa, obrigado.}
+{108}{Cab_2}{Uh, eu sou Cabbot, mas uh, você não me respondeu. O que pode
+  Eu faço por você?}
+{109}{}{Posso te fazer algumas perguntas?}
+{110}{}{Ah sim, como se você gostaria de saber.}
+{111}{}{Eu gostaria de entrar.}
+{112}{}{O que você faz?}
+{113}{}{Não importa, obrigado.}
+{114}{Cab_4}{Isso é ótimo! Uh, É-espere aqui um segundo e deixe-me ver o que você precisa fazer!}
+{115}{Cab_5}{Uh, bem, eu conversei com o Alto Ancião, e ele disse que nem qualquer um pode
+  Junte-se. Ele, hum, ele disse que você tem que completar uma missão primeiro.}
+{116}{}{Como o quê?}
+{117}{}{Não importa, vejo você mais tarde.}
+{118}{}{Você fez uma missão antes de entrar?}
+{119}{Cab_5a}{Uh, não exatamente. Mas as coisas estão um pouco diferentes agora.}
+{120}{}{Então, qual é a missão?}
+{121}{}{Então me diga o que é diferente.}
+{122}{}{Não importa então, eu voltarei outra hora.}
+{123}{Cab_6}{Você tem que ir para as ruínas da Ordem Antiga. É ao sul
+  daqui. Uh, você tem que entrar e trazer algo que
+  prova que você estava lá.}
+{124}{}{Como você vai saber se é de dentro deste lugar?}
+{125}{}{Certo.}
+{126}{}{De jeito nenhum.}
+{127}{Cab_7}{Este lugar é de alta tecnologia. Há coisas dentro como você nunca
+  visto antes. Ah, uh, também é radioativo. Aheh.}
+{128}{}{Certo, vou fazer isso.}
+{129}{}{Parece assustador. Não conte comigo.}
+{130}{Cab_9}{Você vai fazer isso? Você irá? Ótimo! Basta trazer de volta aqui! Boa sorte.}
+{131}{Cab_10}{Ah. . . está bem então. Tchau.}
+{132}{Cab_12}{Bem, uh, eu sou um iniciado. No momento, meu trabalho é  cumprimentar as pessoas na porta.}
+{133}{}{Não parece muito emocionante, mas ainda quero
+  junte-se à Irmandade.}
+{134}{}{Certo, obrigado. Até a próxima.}
+{135}{}{Posso te fazer algumas perguntas?}
+{136}{Cab_16}{Bem uh, eu tenho que perguntar. É meu trabalho.}
+{137}{}{Posso te fazer algumas perguntas?}
+{138}{}{Posso me juntar à Irmandade?}
+{139}{}{Eu não tenho que te dizer nada. Vá buscar seu comandante.}
+{140}{}{Pois bem, já vou indo.}
+{141}{Cab_17}{Sinto muito, realmente não posso. Eles disseram para não. Tchau!}
+{142}{Cab_18}{Não! Vá embora!}
+{143}{Cab_19g}{Bem, olá novamente. Você decide o que você queria?}
+{144}{Cab_19n}{Olá. O que você precisa agora?}
+{145}{}{Eu mudei de ideia. Eu quero me juntar à Irmandade.}
+{146}{}{Posso te fazer algumas perguntas?}
+{147}{}{Deixa pra lá. Tchau.}
+{148}{Cab_20}{Você está zombando de mim, não está? Tchau! }
+{149}{Cab_21}{Vá embora!}
+{150}{}{Por favor, sinto muito ter deixado você com raiva. Podemos tentar de novo?}
+{151}{}{Certo.}
+{152}{Cab_22}{Não! Acho que você está mentindo para mim. Tchau!}
+{153}{Cab_23}{Hmmm. Tudo bem, vou acreditar em você por agora. Então o que você quer?}
+{154}{}{Eu mudei de ideia. Eu quero me juntar à Irmandade.}
+{155}{}{Posso te fazer algumas perguntas?}
+{156}{}{Deixa pra lá. Tchau.}
+{157}{Cab_24}{Ei! Você voltou! Você conseguiu algo?}
+{158}{}{Sim, claro que sim.}
+{159}{}{Não, ainda não fiz.}
+{160}{Cab_25}{Ótimo! Mas . . . hum. . . o Alto Ancião disse que você tem
+  para me dar antes de você poder entrar. Desculpe.}
+{161}{}{Certo.}
+{162}{}{Não, eu não quero.}
+{163}{Cab_27}{Isso é ótimo! Espere enquanto abro a porta.}
+{164}{}{OK.}
+{165}{Cab_28}{Hmmm. . . Desculpe, mas, uh, isso pode ter vindo de qualquer lugar.}
+{166}{}{Mas . . .}
+{167}{Cab_30}{Tudo bem, então vou deixar você entrar. Mas vou te contar o que está acontecendo
+  depois que eu fizer isso. Tudo bem? Estarei na sala da guarda. Você pode sair, mas eu tenho
+  para deixá-lo voltar. Ah, e o Alto Ancião quer falar com
+  você na sala de guerra. É no terceiro andar.}
+{168}{Cab_31}{Você não precisa mentir. Volte quando você tiver algo.}
+{169}{Cab_32}{Bem, diga-me quando o fizer.}
+{170}{Cab_33g}{Olá! Você quer voltar?}
+{171}{Cab_33b}{Você está voltando?}
+{172}{Cab_33n}{Você quer voltar?}
+{173}{}{Sim por favor.}
+{174}{}{Se você abrir o portão.}
+{175}{Cab_34g}{Ótimo! Vejo você por aí, hein?}
+{176}{Cab_34b}{Fine.}
+{177}{Cab_34n}{Certo.}
+{178}{}{O que exatamente você faz?}
+{179}{}{Ouviu bons rumores ultimamente?}
+{180}{}{Tchau, Cabbot.}
+{181}{Cab_35a}{Continue.}
+{182}{Cab_36g}{Bem Olá! Com o que posso ajudar?}
+{183}{Cab_36b}{O que você precisa?}
+{184}{Cab_36n}{Eu posso te ajudar com alguma coisa?}
+{185}{}{Posso te fazer algumas perguntas?}
+{186}{}{Deixa pra lá. Tchau.}
+{187}{Cab_37}{Tchau.}
+{188}{Cab_38}{Cumprimento as pessoas nos portões e decido se devo deixá-las entrar.
+  e os comerciantes são os únicos que entram agora, porque o
+  Os idosos parecem estar se preparando para algo.}
+{189}{}{Você sabe do que se trata?}
+{190}{}{Por que você deixa os comerciantes entrarem?}
+{191}{Cab_39}{Uh. . . Eu não sei, mas uh, eu ouvi o Alto Ancião discutindo com o outro
+  Anciões.}
+{192}{}{Posso fazer mais algumas perguntas?}
+{193}{}{Obrigado. Eu te vejo por aí.}
+{194}{Cab_40}{Por que eu os deixo entrar? Bem . . . temos que conseguir nossa comida e outras coisas. Nós trocamos nossas armas por
+  tudo isso.}
+{195}{}{Por que vocês mesmos não cultivam alimentos?}
+{196}{}{Posso fazer mais algumas perguntas?}
+{197}{}{Obrigado. Eu te vejo por aí.}
+{198}{Cab_41}{Bem, o propósito deste lugar é fazer escribas e cavaleiros. Qualquer um
+  quem quer ser outra coisa só vai embora.}
+{199}{}{Ah. Posso fazer mais algumas perguntas?}
+{200}{}{Obrigado. Eu te vejo por aí.}
+{201}{Cab_42}{Bem, alguns dos Iniciados pensam que estamos nos preparando para a guerra. É por isso
+  quase ninguém entra agora. Fiquei surpreso quando o Alto Ancião
+  me disse para deixá-lo entrar.}
+{202}{}{Por quê?}
+{203}{}{Obrigado. Posso fazer mais algumas perguntas?}
+{204}{}{Obrigado pela informação. Eu te vejo por aí.}
+{205}{Cab_43}{Eu não acho que isso pertence a você.}
+{206}{Cab_44}{Sinto muito, mas vou ter que ir contar aos guardas.}
+{207}{Cab_45}{Eu não acho que você deveria estar fazendo isso.}
+{208}{Cab_46a}{Ah ok. Tanto faz.}
+{209}{Cab_47}{Como eu disse . . .}
+{210}{Cab_48}{Bem, como eu disse. . .}
+{211}{Cab_49}{Como já disse antes. . .}
+{212}{Cab_50}{Bem, é como eu disse. . .}
+{213}{Cab_51}{Agora, hum, eu odeio ser rude, mas não gosto de me repetir.
+  OK?}
+{214}{}{Hum, você sabe, eu realmente não tenho tempo para sentar aqui e repetir
+  eu mesmo uma e outra vez. Você pode entender, não é?}
+{215}{Cab_53}{Bem, sou eu.}
+{216}{Cab_54}{Ela é a cabeça dos escribas. Ela geralmente está na biblioteca.
+  Desça até o porão e, uh, está do seu lado direito.}
+{217}{Cab_55}{Os cavaleiros dizem que ele pode ser um mestre difícil, mas eu não
+  pessoalmente, porque uh, estou estudando com Vree para me tornar um Escriba.}
+{218}{Cab_56}{O General Maxson costumava ser o Cavaleiro Mestre. Eu não acho que ele
+   gosta muito de ser Alto Ancião.}
+{219}{Cab_57}{Eles tomam todas as decisões por aqui, desde o que comemos até o que
+  nossos deveres são. É uh, eles discutem muito também. O Alto Ancião parece ter
+  para interferir muito.}
+{220}{Cab_58}{OK, bem, os escribas são os guardiões de todas as histórias e projetos
+  pelas armas que fabricamos. Eu adoro livros; é por isso que eu quero
+  Seja um . . . um Escriba, quero dizer.}
+{221}{Cab_59}{Bem, você vê, são eles que querem se tornar protetores
+  da Irmandade. Não há muitos deles, mas eles treinam seus
+  vidas inteiras para se tornarem Paladinos.}
+{222}{Cab_60}{Essa é a cidade ao sul, certo? Temos todos os comerciantes aqui
+  o tempo, mas eu nunca estive lá. Caramba eu não saberia
+  o que fazer em uma cidade grande como essa.}
+{223}{Cab_61}{Você deveria falar com Vree, eu acho. Ela vai te contar sobre eles.}
+{224}{Cab_62}{Eles negociam conosco por comida e outras coisas. Nós damos armas a eles.
+  Eles não aparecem mais com tanta frequência, mas, ah, não sei por quê.}
+{225}{Cab_63}{Uau, é uma longa história. Vá para a biblioteca e fale com Vree.
+  Ela poderá mostrar onde estão os CDs de história.}
+{226}{Cab_64}{Ah, bem, no Êxodo, a Fraternidade se dividiu em dois grupos. o
+  grupo que se separou roubou os outros de algumas das armas
+  e eles foram para o sul. Então, cerca de dez anos atrás, enviamos cavaleiros para procurar
+  para eles e tudo o que encontraram foram ruínas. Ninguém sabe o que aconteceu.}
+{227}{Cab_65}{A antiga Irmandade veio de algum lugar ao norte por muito tempo,
+  Há muito tempo. Chamamos isso de o grande Êxodo. Você pode ler sobre
+  mais se você perguntar a Vree na biblioteca. }
+{228}{Cab_66}{Uhh. . . Eu não sei nada sobre isso.}
+{229}{Cab_67}{Hmm . . . Eu não sei. Você pode querer perguntar a alguém mais importante
+  do que eu.}
+{230}{Cab_68}{Eu não sei o que é isso. Você pode querer perguntar por aí.}
+{231}{}{Vá falar com Mathia. Ela vai te contar mais sobre isso.}
+{232}{}{Você ganha 2.000 pontos de experiência por se tornar um iniciado.}
+{233}{}{Não queremos sua espécie aqui. Vá embora!}
+
+
+# Cabbot Tell-Me-Abouts generic responses
+{980}{Cab_66}{Uhh. . . Eu não sei nada sobre isso.}
+{981}{Cab_67}{Hmm . . . Eu não sei. Você pode querer perguntar a alguém mais importante
+  do que eu.}
+{982}{Cab_68}{Eu não sei o que é isso. Você pode querer perguntar por aí.}
+
+#
+# Cabbot Tell-Me-Abouts
+#
+
+
+{1000}{}{Iniciação}
+{1001}{}{Vree}
+{1002}{}{Rhombus}
+{1003}{}{Elder}
+{1004}{}{Elders}
+{1005}{}{Scribes}
+{1006}{}{Cavaleiros}
+{1007}{}{Hub}
+{1008}{}{Discos}
+{1009}{}{Mercadores}
+{1010}{}{Irmandade}
+{1011}{}{Ancient}
+{1012}{}{Exodus}
+{1013}{}{Cabbot}
+{1014}{}{Comprar}
+{1015}{}{Paladins}
+{1016}{}{Mestre}
+{1017}{}{Guerra}
+{1018}{}{Exército}
+{1019}{}{Caravanas}
+{1020}{}{Catedral}
+{1021}{}{Chip}
+
+{1100}{Cab_53}{Bem, sou eu.}
+{1101}{Cab_54}{Ela é a cabeça dos escribas. Ela geralmente está na biblioteca.
+  Desça até o porão e, uh, está do seu lado direito.}
+{1102}{Cab_55}{Os cavaleiros dizem que ele pode ser um mestre difícil, mas eu não
+  pessoalmente, porque uh, estou estudando com Vree para me tornar um Escriba.}
+{1103}{Cab_56}{O General Maxson costumava ser o Cavaleiro Mestre. Eu não acho que ele
+   gosta muito de ser Alto Ancião.}
+{1104}{Cab_57}{Eles tomam todas as decisões por aqui, desde o que comemos até o que
+  nossos deveres são. É uh, eles discutem muito também. O Alto Ancião parece ter
+  para interferir muito.}
+{1105}{Cab_58}{OK, bem, os escribas são os guardiões de todas as histórias e projetos
+  pelas armas que fabricamos. Eu adoro livros; é por isso que eu quero
+  Seja um . . . um Escriba, quero dizer.}
+{1106}{Cab_59}{Bem, você vê, eles são aqueles que querem se tornar protetores da Fraternidade.
+  Não há muitos deles, mas eles treinam suas vidas inteiras para se tornar
+  Paladins.}
+{1107}{Cab_60}{Essa é a cidade ao sul, certo? Temos todos os comerciantes aqui
+  o tempo, mas eu nunca estive lá. Caramba eu não saberia
+  o que fazer em uma cidade grande como essa.}
+{1108}{Cab_61}{Você deveria falar com Vree, eu acho. Ela vai te contar sobre eles.}
+{1109}{Cab_62}{Eles negociam conosco por comida e outras coisas. Nós damos armas a eles.
+  Eles não aparecem mais com tanta frequência, mas, ah, não sei por quê.}
+{1110}{Cab_63}{Uau, é uma longa história. Vá para a biblioteca e fale com Vree.
+  Ela poderá mostrar onde estão os CDs de história.}
+{1111}{Cab_64}{Ah, bem, no Êxodo, a Fraternidade se dividiu em dois grupos. o
+  grupo que se separou roubou os outros de algumas das armas
+  e foi para o sudoeste. Cerca de dez anos atrás, enviamos cavaleiros para
+  procurem por eles, mas tudo o que encontraram foram ruínas. Ninguem sabe o que
+  aconteceu.}
+{1112}{Cab_65}{A antiga Irmandade veio de algum lugar ao norte por muito tempo,
+  Há muito tempo. Chamamos isso de o grande Êxodo. Você pode ler sobre
+  mais se você perguntar a Vree na biblioteca. }
+{1113}{Cab_53}{Bem, sou eu.}
+{1114}{Cab_64}{Ah, bem, no Êxodo, a Fraternidade se dividiu em dois grupos. o
+  grupo que se separou roubou os outros de algumas das armas
+  e foi para o sudoeste. Cerca de dez anos atrás, enviamos cavaleiros para
+  procurem por eles, mas tudo o que encontraram foram ruínas. Ninguem sabe o que
+  aconteceu.}
+{1115}{Cab_20}{Você está zombando de mim, não está? Tchau!}
+{1116}{Cab_67}{Hmm . . . Eu não sei. Você pode querer perguntar a alguém mais importante
+  do que eu.}
+{1117}{Cab_63}{Uau, é uma longa história. Vá para a biblioteca e fale com Vree.
+  Ela poderá mostrar onde estão os CDs de história.}
+{1118}{Cab_67}{Hmm . . . Eu não sei. Você pode querer perguntar a alguém mais importante
+  do que eu.}
+{1119}{Cab_62}{Eles negociam conosco por comida e outras coisas. Nós damos armas a eles.
+  Eles não aparecem mais com tanta frequência, mas, ah, não sei por quê.}
+{1120}{Cab_66}{Uhh. . . Eu não sei nada sobre isso.}
+{1121}{Cab_61}{Você deveria falar com Vree, eu acho. Ela vai te contar sobre eles.}

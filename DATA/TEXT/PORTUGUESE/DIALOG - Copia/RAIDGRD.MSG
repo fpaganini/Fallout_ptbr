@@ -1,0 +1,40 @@
+{100}{}{O Raider está com muito medo de Garl para falar com você mais.}
+{101}{}{Você vê um difícil Saqueador do deserto.}
+{102}{}{É a mão da morte. Ele voltou!}
+{103}{}{Com licença, Mão da Morte. Me desculpe por perturbá-lo.}
+{104}{}{Você voltou para matar seu filho?}
+{105}{}{Aiyeee! Um fantasma!}
+{106}{}{Os mortos caminham novamente! O Death-Hand retornou!}
+{107}{}{Bem conhecido.}
+{108}{}{Oi.}
+{109}{}{Estou esperando por Garl para esmagar Shady Sands. Eu quero algum saque.}
+{110}{}{Bem-vindo amigo.}
+{111}{}{Fico feliz que você possa voltar para uma visita.}
+{112}{}{A menos que você queira problemas, é melhor você guardar isso.}
+{113}{}{Queres festejar?}
+{114}{}{Ah, um duro, hein?}
+{115}{}{Garl Death-Hand ama seus guerreiros. Coloque essa coisa fora e vá falar com ele.}
+{116}{}{Então, você acha que é durão, hein? Mexa comigo e nós dois vamos descobrir.}
+{117}{}{Eu não gosto da sua aparência.}
+{118}{}{Vá embora}
+{119}{}{O que você quer?}
+{120}{}{Estou à procura de uma mulher chamada Tandi. Visto ela?}
+{121}{}{Nada. Apenas olhando por aí.}
+{122}{}{Huh ??}
+{123}{}{Ah. Você deve estar procurando um emprego. Vá e veja Garl na grande sala e nós deixe em paz.}
+{124}{}{Então faça isso em outro lugar.}
+{125}{}{Nah. Eu não a vi. Porque perguntas?}
+{126}{}{Nada. Apenas procurando por um amigo meu}
+{127}{}{Há uma recompensa por sua cabeça. Se eu puder matá-lá, posso conseguir um bom dinheiro.}
+{128}{}{Você está mentindo. Onde ela está?}
+{129}{}{Ah, ok}
+{130}{}{Realmente? Como ela se parece?}
+{131}{}{cerca de 6 metros de altura. Loiras. Ela é de Shady Sands.}
+{132}{}{Sim, ela está aqui. Ela está na casa grande. Você sabe, se dissermos ao Garl,
+ então ele iria querer um pedaço da recompensa. Você pode querer pensar sobre isso.}
+{133}{}{Você não parece estar falando sério. Eu acho que você está tramando alguma coisa.
+ E se você está dizendo a verdade, então eu vou sacar a recompensa para mim.}
+{134}{}{É. . . Eu não posso dizer mais nada, ou Garl vai me matar.}
+{135}{}{Morda-me!}
+{136}{}{Eu não gosto da sua aparência. É melhor você ficar longe de mim.}
+{137}{}{O que? Vá embora!}

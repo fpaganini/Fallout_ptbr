@@ -1,0 +1,31 @@
+{100}{}{Você vê o Tubarao.}
+{101}{}{Você vê um homem com dentes filed.}
+{102}{}{Sua piranha!}
+{103}{}{Ei, isca fresca! Então, o que traz você ao nosso territorio, chum?
+ Esta aqui pra um pouco de diversão? As suas custas, claro.}
+{104}{}{Na verdade, eu estou aqui pra chutar bundas e mascar chiclete . . . você consegue imaginar o resto.}
+{105}{}{O que vocês fazem pra se divertir por aqui?}
+{106}{}{Uh, eu estava apenas saindo. Tchau.}
+{107}{}{Apenas parei pra uma bebida e algum . . . entretenimento.}
+{108}{}{Glopf!}
+{109}{}{Nós espancamos posers como você!}
+{110}{}{Não tão rapido! Ninguem simplesmente caminha no nosso lugar sem pagar a taxa da dor.}
+{111}{}{Eu acho que você o fara. Rapazes, agarrem ela.}
+{112}{}{Deixe-me apresentar a você o homem da taxa. Ele e chamado de Sr. Sledgehammer!}
+{113}{}{Eu acho que não!}
+{114}{}{Bem, para o entretenimento desta noite, nos decidimos acabar com este lugar!
+ Ei. Agarre o que você puder carregar e vamos ver algum sangue correr, eh?}
+{115}{}{Acho que eu agarrei apenas uma bebida.}
+{116}{}{Amassar e agarrar? Conte comigo!}
+{117}{}{Não esta noite, eu estou com dor de cabeca.}
+{118}{}{Nah, eu preferiria ter algo pra comer . . . talvez tubarao frito!}
+{119}{}{Ah, ser perdedor. Vá correndo de volta pra sua mamae.}
+{120}{}{Você de novo? Puxa, algumas pessoas simplesmente não aprendem!}
+{121}{}{Apenas parei pra uma bebida rapida.}
+{122}{}{Apenas saindo, deixa pra lá.}
+{123}{}{Glorpf!}
+{124}{}{Não é uma ideia ruim. Acho que eu pegarei uma eu mesmo. Claro, você
+ semmpre tem que lavar uma cerveja com um pouco de banho de sangue!}
+{125}{}{Eu pensei que você a essa hora já teria entendido, que é pra desaparecer. Acho
+ que eu estava errado. Bem, pelo menos será divertido bater em você!}
+{126}{}{Nós voltaremos, velho. Isto não acabou.}

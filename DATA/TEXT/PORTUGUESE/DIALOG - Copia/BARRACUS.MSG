@@ -1,0 +1,136 @@
+{100}{}{Você vê o Ton.}
+{101}{}{Você vê diversos membros da Children.}
+{102}{}{homem}
+{103}{}{mulher}
+{104}{}{[Feito]}
+{105}{}{[Mais]}
+{106}{}{Desculpe cara, mas você passou do ponto sem volta com a gente. É hora de você dar o fora!}
+{107}{}{Desculpe cara, mas você passou do ponto sem volta com a gente. É hora de você dar o fora!}
+{108}{}{E por que eu iria querer falar com alguém que sai por ai matando crianças? Saia da minha frente!}
+{109}{}{Ouvi dizer que você é muito durão. Mas infelizmente isto não impressiona o Ton commo gostaria. Você tem algo a me dizer ou já quer começar?}
+{110}{}{Paz, irmão! Estou apenas conhecendo este lugar.}
+{111}{}{Não estou nem um pouco interessado em impressionar você. Então se você tem algo útil para me dizer, então me diga logo!}
+{112}{}{Começar? Senhor, me desculpe, mas eu não gosto de garotinhos magricelos.}
+{113}{}{O que você quer?}
+{114}{}{Você fala de mais.}
+{115}{}{Você quer morrer, e eu quero matar alguém. Isto esta ótimo para mim.}
+{116}{}{Aaaaa!}
+{117}{}{Cara, eu já te falei! Vai falar estas suas merdas em outro lugar!}
+{118}{}{garoto}
+{119}{}{garota}
+{120}{}{Ei, você acha que sua arma vai te valer alguma coisa? Cara, isso vai te valer um túmulo, isto sim. Guarde logo isso.}
+{121}{}{Ei, você acha que sua arma vai te valer alguma coisa? Cara, isso vai te valer um túmulo, isto sim. Guarde logo isso.}
+{122}{}{O que você quer, seu zumbi estúpido? Saia da minha frente antes que eu te quebre ao meio.}
+{123}{}{Eu estava procurando por alguém inteligente o suficiente para me dizer o que realmente esta acontecendo por aqui!}
+{124}{}{O que os padres dirão se o ouvirem falando assim?}
+{125}{}{A qualquer hora, amigo. Estou mesmo esperando por uma boa briga!}
+{126}{}{Ei, qual é o problema? Apenas algumas bebidas e seremos bons amigos!}
+{127}{}{Você sabia que até mesmo uma criança pode aplicar pressão suficiente no ponto certo do seu joelho para aleija-lo para o resto da sua vida? Apenas achei que você gostaria de saber disto.}
+{128}{}{Você quer falar com o Ton? Tudo bem, mas se eu ouvir a palavra "Prazer" eu vou matar você.}
+{129}{}{Você não é um grande fã de cultos de adoracão, não é?}
+{130}{}{Qual é o seu problema amigo?}
+{131}{}{Eu quero falar com o responsável.}
+{132}{}{Coisa certa a se fazer. A única coisa que gostaria de elogiar é uma boa garrafa de Rad Scorpion.}
+{133}{}{Bem.... O primeiro de nós que disser essa palavra morre. Pode ser?}
+{134}{}{Olá senhorita. Eu sou Ton, 2.000 kilos de mestre lutador mais forte. Eu também evolui em FEV para algo que você precisa ver melhor lá fora. O que acha?}
+{135}{}{De jeito nenhum}
+{136}{}{Muito rapido, não acha? Primeiro vamos nos conhecer um pouco melhor.}
+{137}{}{Ole. Eu fui evoluído pelo FEV para que qualquer um que me incomode morra. Pare de me irritar, serzinho.}
+{138}{}{Verifique em outro lugar. Ton não gosta muito da sua presença aqui.}
+{139}{}{Bem. Você quer jogar serio então? As vezes, matar é realmente necessário e até gosto disso. Mas ouvi dizer também que você adora matar. . . o tempo todo! Cada vez que eu encontro um psicopata como você, ou ele morre ou Ton morre. Só que Ton ainda esta aqui. Então, por que você não vai para outro lugar?}
+{140}{}{Cara, eu poderia aprender a gostar de você. Ou você é um completo idiota, ou você tem muita coragem. De qualquer forma, esta pronto para o Ton, contanto que você não me atrabalhe. Você quer participar?}
+{141}{}{O que aconteceu com o "paz e o amor"?}
+{142}{}{O que está envolvido?}
+{143}{}{De jeito nenhum}
+{144}{}{Vou tocar o que eu quiser, onde eu quiser. Então, vamos acabar com os empecilhos!}
+{145}{}{Para ver você sofrer. Vamos, "hombre", me de o que eu quero.}
+{146}{}{Cuidado com o que você deseja. Você pode não gostar do que recebe.}
+{147}{}{Prefiro muito mais ser seu amigo}
+{148}{}{Você não vale meu tempo.}
+{149}{}{Continue. Faça o primeiro movimento. O ultimo é meu.}
+{150}{}{Bem. A conversa acabou. Faça a sua jogada.}
+{151}{}{Eu só queria conversar.}
+{152}{}{Você está morto. . .}
+{153}{}{Merda! Você é mais burro do que os zumbis! Apenas saia daqui seu imbecil!}
+{154}{}{O Mestre quer paz, e ele quer que a obtenhamos para ele, então vamos nos divertir. Capiche?}
+{155}{}{Sim, mas deve haver mais coisas acontecendo do que apenas isso.}
+{156}{}{O Mestre realmente quer paz ou ele apenas quer matar?}
+{157}{}{Quem é este mestre?}
+{158}{}{Para mim esta ótimo}
+{159}{}{Dane-se o Mestre! Vamos matar todos eles!}
+{160}{}{Não é seguro fazer a pergunta errada, compadre. Eles têem todas as respostas daquilo que eles querem que você ouça. Pessoas que fazem as perguntas erradas, ou pessoas que estragam tudo, acabam não ficando aqui por muito tempo.}
+{161}{}{Eu faço meu trabalho éeles gostam quando eu faço o meu trabalho. Eles gostam quando os lixos da rua e seus seguidores param de respirar. Isso permite que o Nightkin faça outras coisas. Não mexa comigo. . . não será nem um pouco bom para você}
+{162}{}{O que você está fazendo vestido-se como um zumbi? Se você tem algo bonito, você precisa mostrar!}
+{163}{}{Quem disse que me importo com as roupas? Eu só quero saber o que está acontecendo aqui!}
+{164}{}{Eles não te incomodam tanto se você não parecer que eles precisam te converter.}
+{165}{}{Nada da sua conta cara.}
+{166}{}{Tenho pensado em me converter.}
+{167}{}{Não é uma atitude, é uma pedido de morte.}
+{168}{}{Não bebemos aqui. Nightkin não aprova isso. É melhor você pegar mais algumas pistas antes de falar com Ton novamente.}
+{169}{}{Você é louco! Quase poderia gostar de você, se não fosse a sensação de que as pessoas que andam por perto de você não vivem muito. Então saia daqui.}
+{170}{}{Você fica por aqui por meses e acaba enlouquecendo como eles. O que você deseja de Ton?}
+{171}{}{Como essas pessoas ficaram assim?}
+{172}{}{Eu quero "sexo e violêcia", só que sem a parte do sexo. Você sabe onde posso conseguir isso?}
+{173}{}{Estou perdendo o controle neste poço de zumbis e não preciso da sua ajuda. Afaste-se de mim.}
+{174}{}{Esse é Morpheus. Ele fica lá em cima, exceto para dar sermões. Ele nem faz mais isso. Ele é inteligente e também um vencedor, e isso é tudo o que importa. Vá vê-lo você mesmo.}
+{175}{}{Você precisa ir para o Boneyard, amigo. Não há nenhuma lama aqui, e eu olhei!}
+{176}{}{Aceita. O que o Ton pode fazer por você?}
+{177}{}{Putinha! Você não sabe o que está perdendo! Saia!}
+{178}{}{A vida é muito curta para isso. Deixe-me mostrar por que você não quer esperar.}
+{179}{}{Mas eu quero alguém que saiba o que está acontecendo.}
+{180}{}{Não, obrigado. Mas eu não me importaria nem um pouco de sermos amigos.}
+{181}{}{Cai fora, seu pedaço de lixo.}
+{182}{}{Claro.}
+{183}{}{A vida é mais curta do que você pensa. Morra, cusão!}
+{184}{}{Eu não sou PEQUENA, seu puto!}
+{185}{}{Quem acredita nessa besteira? Eles têm que programar esses idiotas para acreditar nessas coisas de qualquer maneira.}
+{186}{}{Como isto aconteceu?}
+{187}{}{Serio?}
+{188}{}{Que bando de perdedores.}
+{189}{}{Conte-me mais sobre seu pelotão.}
+{190}{}{Certo, vou me inscrever.}
+{191}{}{Alguém deve tirá-los de sua miséria. Alguém como eu . . .}
+{192}{}{Quando recebemos a palavra, saí­mos e matamos pessoas. Pessoas como os Seguidores ou alguns dos tipos de gangues mais perigosos.}
+{193}{}{Então, os Seguidores são um problema?}
+{194}{}{Isso parece muito doentio para mim.}
+{195}{}{Quem precisa da palavra? Por que não simplesmente matá-los?}
+{196}{}{Bem. Faça o que você quiser. Mas eu sairia antes que se tornasse mais perigoso por aqui.}
+{197}{}{Seu pedaço de merda irritante. Você é pior do que um Junktowner, seu covarde. Saia daqui.}
+{198}{}{O que mais há para saber? Posso comer bem, dormir em paz e matar algumas das pessoas que costumavam me sacanear. Você quer algo mais da vida?}
+{199}{}{Quem sabe? Quem se importa? Posso comer bem, dormir em paz e matar algumas das pessoas que costumavam me ferrar. Você quer algo mais da vida?}
+{200}{}{Hmmm, Ton nunca pensou nisso. Mas se eles me incomodam muito, eu quebro a cara deles. Então eles param de incomodar ele. O que você quer?}
+{201}{}{Convertendo? Bem, boa sorte. Você vai precisar.}
+{202}{}{Por que eu precisaria de sorte?}
+{203}{}{Isso não me parece bom.}
+{204}{}{Obrigado. Você é um verdadeiro amigo.}
+{205}{}{Eu não preciso de sorte enquanto eu tiver munição.}
+{206}{}{Essas pessoas, esses zumbis, aqui nem sempre foram assim. Eu poderia até suportar alguns deles. Então eles se converteram. Alguns deles sairam assim, outros nem sairam. Ton não gosta, mas essas pessoas pagam bem.}
+{207}{}{Por que você continua pulando entre a primeira é a terceira pessoa?}
+{208}{}{Conte-me mais sobre o processo de conversão.}
+{209}{}{Você passou pelo processo de conversão?}
+{210}{}{Este lugar é estritamente barato.}
+{211}{}{Realmente quanto?}
+{212}{}{Ninguém vai fazer isso comigo!}
+{213}{}{Você fala com Morpheus ou com Lasher, ou pode arriscar incomodar o Ton, e ele lhe responder com mais violência do que você poderia suportar.}
+{214}{}{Bem, baby, o que está acontecendo é que há muitos zumbis cantando, muitas pessoas morrendo e as crianças vão assumir tudo. É aí você e eu e nada mais importa!}
+{215}{}{Mas Barracas, querida, certamente há mais coisas acontecendo do que isso. . .}
+{216}{}{Ah, Ton!}
+{217}{}{Esqueça, cara. Você não é meu tipo.}
+{218}{}{Nada mais importa? De jeito nenhum! Eu quero ouvir sobre a parte da morte!}
+{219}{}{Infelizmente, este é o pior lugar do mundo para experimentar o que Ton faz de melhor. Muitos zumbis atrapalham meu estilo. Avisarei quando pensar em algum lugar mais conveniente. . .}
+{220}{}{Você descobrirá em breve o que acontece lá em cima. Se você for forte, você superará bem. Aconteceu com Ton, e ele está bem!}
+{221}{}{Uh. . . Eu não disse nada. Você esquece o que Ton disse a você ou Ton fará você esquecer, permanentemente!}
+{222}{}{Eles costumavam ser chorões. Mas Ton fala muito. Saia da minha frente.}
+{223}{}{Bem. Você permanece discreto até eu lhe dar a palavra. Então nos divertimos.}
+{224}{}{Eles são covardes. Eles armaram emboscadas contra nossas patrulhas. Enviam espiões e sabotadores, sabem que não podem vencer uma luta real. O Mestre diz que devemos sentir pena deles, mas Ton só quer matá-los. Homem inteligente este Ton.}
+{225}{}{Precisamos de disciplina, idiota! Somos soldados agora! Obedecemos ordens. Os assassinos morrem, mas os soldados vencem suas batalhas. Vamos vencer os Seguidores. Vamos vencer TODOS!}
+{226}{}{Quem diabos sabe? Talvez seja apenas Morfeu mexendo seus pausinhos. As coisas estão bem, e se não estiver, Ton vai para outro lugar.}
+{227}{}{Bem, não fique muito ansioso. Mesmo com o Nightkin, ainda é uma luta difícil. Mas se jogarmos com inteligência, sairemos na frente. Essa é a única coisa com que Ton deve se preocupar.}
+{228}{}{A conversão não é fácil. Você vê essas pessoas, todos esses zumbis? Eles costumavam ser como você e eu. Ton sobreviveu, já essas pessoas não. Mas por que Ton deveria se preocupar com você?}
+{229}{}{Você não gosta do jeito de falar? Do que precisa para matar você!}
+{230}{}{Ton passou por isso bem. EU . . . uh. . . EU . . . uh. . . Ton . . . Muito bem.}
+{231}{}{Eu costumava estar com a gangue Dead Dog. Sempre com fome, sempre cansado. Este lugar é muito melhor para Ton. Por que devo me preocupar com mais alguém? Ninguém nunca se preocupa comigo.}
+{232}{}{Seu idiota ganancioso! Saia daqui antes que Ton te mate!}
+{233}{}{Então saia daqui agora, antes que seja tarde demais.}
+{234}{}{Nada importante como você e eu. Infelizmente, este é o pior lugar do mundo para experimentar o que Ton faz de melhor. Muitos zumbis atrapalham meu estilo. Avisarei quando pensar em algum lugar mais conveniente. . .}
+{235}{}{Por que sua vadia manipuladora! Ninguém brinca com o Ton desse jeito!}

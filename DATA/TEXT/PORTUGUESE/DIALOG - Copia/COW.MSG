@@ -1,0 +1,12 @@
+
+#
+# Talking cows special encounter text
+#
+
+{100}{}{Moo.}
+{101}{}{Moo!}
+{102}{}{Moo, eu digo.}
+{103}{}{É um brahmin selvagem.}
+{104}{}{Não há nada natural a respeito destas vacas. A segunda cabeca só pode ser o resultado de alguma estranha mutacao.}
+{105}{}{Parece bem normal pra você.}
+

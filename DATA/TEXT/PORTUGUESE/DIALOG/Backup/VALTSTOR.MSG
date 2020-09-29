@@ -1,0 +1,3 @@
+{100}{}{Esta é a sala da armazenagem. Ela parece mais vazia do que
+ você se lembra. A Vault deve estar esgotando seus
+ suprimentos a uma taxa maior do que você poderia ter imaginado.}

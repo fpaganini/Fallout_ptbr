@@ -1,0 +1,68 @@
+{100}{}{Você vê o Fire.}
+{101}{}{}
+{102}{}{}
+{103}{}{Você vê um membro dos Blades.}
+{104}{}{Você vê um membro dos Blades.}
+{105}{}{Você acha que isso poderia ser Books.}
+{106}{}{Você acha que isso poderia ser Scars.}
+{107}{}{Você acha que isso poderia ser Gunner.}
+{108}{}{Você acha que isso poderia ser Twitch.}
+{109}{}{Você acha que isso poderia ser Hammer.}
+{110}{}{Você acha que isso poderia ser Razor.}
+{111}{}{O que você quer, perdedor?}
+{112}{}{Err.}
+{113}{}{Eu quero me tornar um Blade.}
+{114}{}{O que seria necessario para eu conseguir a paz entre vocês
+ e Adytum?}
+{115}{}{Isto! *smack*}
+{116}{}{Nada. Lamento que eu aborreci você.}
+{117}{}{Eu estou apenas inspecionando seu lugar.}
+{118}{}{Otimo. Outro estúpido. Você faz o som de um Ripper.}
+{119}{}{Rrrrr.}
+{120}{}{Arrrr.}
+{121}{}{Arrooo?}
+{122}{}{Também não gosta muito deles? Talvez nos possamos usar você
+ para um pequeno 'trabalho'.}
+{123}{}{Urroo.}
+{124}{}{Un nah.}
+{125}{}{Okay, fale com a head wench. Razor dara pra você os
+ detalhes do que fazer.}
+{126}{}{Estupido e um covarde. Eu acabarei com sua miseria agora.}
+{127}{}{Então você e um Ripper! Eu me sentiria mal por ouvir isso,
+ mas então, eu já sabia que eles esram estupidos. Boa noite!}
+{128}{}{Os Rippers. Aqueles incestuosos no outro lado da cidade.
+ Deixa pra lá. Você e muito estúpido pra saber qualquer coisa.}
+{129}{}{Você quer ser um Blade? Boa sorte. Mas, se você puder
+ achar a Razor, fale com ela sobre isso. Talvez ela deixara
+ você se juntar.}
+{130}{}{Okay, obrigado.}
+{131}{}{Então eu não quero entrar!}
+{132}{}{O que ver quer dizer, 'entrar?'}
+{133}{}{Você não pode simplesmente me tornar um Blade?}
+{134}{}{Sua mamae nunca quis você, e nós não queremos tambem.}
+{135}{}{Simples. Você tera que matar alguém pra entrar aqui.
+ Ela dira a você quem você precisa matar.}
+{136}{}{Okay, obrigado.}
+{137}{}{Deixa pra lá. Eu não quero ser parte da sua gangue estupida.}
+{138}{}{Não. Eu não posso. Eu não lidero. Eu apenas mantenho a Razor seguindo em frente.}
+{139}{}{Simplea. Assassine nossos inimigos, então nos daremos uma folga
+ para Adytum.}
+{140}{}{Quem são seus inimigos?}
+{141}{}{Justo o bastante. Você me dara uma prova disto?}
+{142}{}{Lutar e errado! Eu não o farei!}
+{143}{}{Os Rippers. Aqueles Gun Runners são apenas um incomodo, mas
+ nada importante. De qualquer modo, eles são um bando de soft-sellers.}
+{144}{}{Okay, eu matarei os Rippers.}
+{145}{}{Deixa pra lá.}
+{146}{}{Se você planeja fazer isso, você pode querer deixar a Razor
+ saber. De outro modo ela tera sua cabeca antes que você saia daqui.}
+{147}{}{Suit yourself. Tchau.}
+{148}{}{Eu não faco os acordos. Eu só faco sugestoes. Fale com a
+ Razor que você quer fazer um acordo.}
+{149}{}{Então matar você agora pouparia você de muitos anos de sofrimento.}
+{150}{}{Então inspecione isto!}
+{151}{}{Desapareca se você quer viver.}
+{152}{}{Quieto. Nós estamos tentando to sneak up on the Rippers.}
+{153}{}{Se você tiver a cabeca, fale com a Razor. Ela ainda quer
+ jogar futebol. De outro modo, saia!}
+{154}{}{Ei, camarada!}

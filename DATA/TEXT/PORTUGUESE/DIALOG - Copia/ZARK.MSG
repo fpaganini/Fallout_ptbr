@@ -1,0 +1,183 @@
+{100}{}{Você vê um bandido.}
+{101}{}{Ei, você não é o bastardo que tem nos ferrado? Cara, você veio ao lugar errado!}
+{102}{}{Ei, você não é a vadia que está nos atrapalhando? Você está no lugar errado, senhora, e isso vai te custar!}
+{103}{}{Eu estou do seu lado agora. Então saia do meu caminho!}
+{104}{}{Você está enganado. Todos parecem iguais nos Desperdícios.}
+{105}{}{Lugar errado? Parece certo para mim!}
+{106}{}{Você quer começar algo, eu vou me certificar de que você desça antes de eu tentar algo. Vamos punk, comece! Vamos ver algumas bolas!}
+{107}{}{Lugar errado? Eu não perdi!}
+{108}{}{Yeah. O que você quer?}
+{109}{}{Man, eu só quero falar com um ser humano real. Esses zumbis estão me dando arrepios.}
+{110}{}{Irmão, você não louvará o Mestre comigo?}
+{111}{}{Ei, apenas procurando por um rosto amigável.}
+{112}{}{Eu quero ver o mestre.}
+{113}{}{Para ver um vale cheio de cabeças dos meus inimigos montados em lanças. Um vale silencioso, exceto pelo vento que assobia em seus ouvidos.}
+{114}{}{Comida! Eu quero comida!}
+{115}{}{Ei, eu não ouvi sobre você? Você matou todo tipo de merda, não matou? O que te trás aqui?}
+{116}{}{Eu ouvi sobre algumas coisas estranhas acontecendo aqui. O que está acontecendo?}
+{117}{}{Paz, unidade, esse tipo de coisa.}
+{118}{}{Onde está o mestre?}
+{119}{}{Apenas procurando por um amigo. Alguém para conversar.}
+{120}{}{Eu ouvi que a bebida é muito boa por aqui.}
+{121}{}{Meus pés.}
+{122}{}{Você quer falar, é melhor você tirar essa arma do meu rosto! Abaixe agora!}
+{123}{}{É uma força do hábito. Você deixa cair a atitude e eu abaixarei a arma.}
+{124}{}{Eu não estou morto ainda, então não estou diminuindo.}
+{125}{}{Qual é o problema? Eu só quero conversar.}
+{126}{}{Eu estou de guarda.}
+{127}{}{O que você diz?}
+{128}{}{Você tem algo a dizer, diga rápido.}
+{129}{}{O que está acontecendo por aqui?}
+{130}{}{Eu quero falar com o Mestre.}
+{131}{}{Eu quero falar com quem está no comando aqui.}
+{132}{}{It! It-it-it-it-it!}
+{133}{}{Uma tonelada de merda. Paz. Unidade. Ame. Muitos idiotas correndo
+ ao redor como zumbis. Morpheus contando seus bottlecaps
+ andar de cima. Lasher vivendo em seu nome. Você quer um pedaço
+ disso, você é bem-vindo a isso?}
+{134}{}{Eu ouvi dizer que você está fazendo um monte de coisas que não são exatamente paz e amor.}
+{135}{}{O que está acontecendo com Morpheus?}
+{136}{}{Quem é esse personagem de Lasher?}
+{137}{}{Ótimo. O que você quer?}
+{138}{}{Você notou algum acontecimento incomum por aqui?}
+{139}{}{O que está acontecendo por aqui?}
+{140}{}{Onde está o mestre?}
+{141}{}{Apenas procurando por um amigo.}
+{142}{}{Para terminar o que o nuke iniciou.}
+{143}{}{Homem, fique longe dele! Ele é completamente ... Eu não sei se posso realmente descrevê-lo. Imagine a única pessoa na Terra que você não quer conhecer. Lasher é pior.}
+{144}{}{Será que ele e Morpheus se dão bem?}
+{145}{}{Então o que ele fez? O que o faz tão mal?}
+{146}{}{Você ainda não me conheceu.}
+{147}{}{Fale com Morpheus e espere que ele não o mate por perguntar.}
+{148}{}{Eu não acho que ele vai querer fazer isso. Eu tenho informações importantes.}
+{149}{}{Por que ele iria querer fazer isso?}
+{150}{}{O que é isto sobre Morpheus?}
+{151}{}{Bom, esse mundo é 'mate ou seja morto', e eu ainda estou aqui!}
+{152}{}{Sim, que tipo de informação?}
+{153}{}{Há um espião aqui. Preciso ver a pessoa responsável de uma vez.}
+{154}{}{Eu poderia te dizer, mas eu teria que te matar.}
+{155}{}{Uh .. bem .. eu não posso falar sobre isso.}
+{156}{}{Alguém na catedral vai morrer em breve. Talvez muitas pessoas.}
+{157}{}{Ótimo. Eu realmente não me importo com quem você é. Agora saia da minha frente!}
+{158}{}{Todos! Tire esse idiota agora!}
+{159}{}{Senhor, você é louco! Por que você não sai daqui?}
+{160}{}{Senhora, você é louco! Por que você não sai daqui?}
+{161}{}{Porque estou me divertindo tanto. Qual é o seu problema? Eu não estraguei você - ainda - onde está sua coragem?}
+{162}{}{Porque eu não te matei ainda!}
+{163}{}{Sim, eu realmente quero sua companhia. Como eu gostei da última vez! Dá o fora!}
+{164}{}{Oi. Bela arma que você tem. Agora tente baixá-lo.}
+{165}{}{É uma força do hábito. Você deixa cair a atitude e eu abaixarei a arma.}
+{166}{}{Eu não estou morto ainda, então eu não vou abaixar isso.}
+{167}{}{Qual é o problema? Eu só quero conversar.}
+{168}{}{Eu estou de guarda.}
+{169}{}{Obrigado pelo complemento. Dork.}
+{170}{}{O que você diz?}
+{171}{}{Ótimo. O que você quer?}
+{172}{}{Você notou algum acontecimento incomum por aqui?}
+{173}{}{O que está acontecendo por aqui?}
+{174}{}{Onde está o mestre?}
+{175}{}{Apenas procurando por um amigo.}
+{176}{}{Para ver a sua cabeça cair dos seus ombros, para que eu possa chutá-lá ao redor desta sala como uma bola de futebol até que seu crânio tenha sido completamente despedaçado!}
+{177}{}{Se você não estivesse usando essas vestes, eu mataria você. Assim, quero matar você. Saia de perto de mim. Agora.}
+{178}{}{Você não é Nightkin. Guardas! Nós temos um espião ..}
+{179}{}{Onde diabos eles te escavaram? É por que você simplesmente não volta para onde você veio? Saia daqui!}
+{180}{}{Estamos nos preparando para a guerra! Nós vamos salvar o mundo! Então, podemos preenchê-lo com toda essa besteira de paz e união.}
+{181}{}{Guerra? Onde está o primeiro passo?}
+{182}{}{Bullshit? Me diga que você está brincando! Deve ser verdade! [piscadela]}
+{183}{}{Bullshit? Me diga que você está brincando! Deve ser verdade! [face reta]}
+{184}{}{Se for besteira, por que você está aqui?}
+{185}{}{Contanto que eu tenha a chance de matar alguma coisa.}
+{186}{}{Eu não sei! A única pessoa que o viu é Morpheus, e ele está em sua torre. Cara, você está me assustando!}
+{187}{}{Eu tenho esse efeito às vezes. Você continua cooperando e não terá motivos para ter medo.}
+{188}{}{Me diga mais sobre Morpheus!}
+{189}{}{Quem mais é importante nessa articulação?}
+{190}{}{Você foi útil. Obrigado amigo.}
+{191}{}{Você precisa ser mais social. Você sabe onde eles escondem a bebida?}
+{192}{}{Muito ruim. Eu estava esperando que você stiffs teria algumas bolas.}
+{193}{}{É eu pensei que era louco! É melhor você sair daqui antes que alguém te mate!}
+{194}{}{Por favor não me mata! Eu vou te dizer o que você quer saber.}
+{195}{}{O que está acontecendo por aqui?}
+{196}{}{Onde está o mestre?}
+{197}{}{Quem está no comando aqui?}
+{198}{}{Quem diabos quer saber alguma coisa? Eu só gosto de sentir o medo de uma pessoa antes de matá-lá. Cara, que alto!}
+{199}{}{Eu ouço que estamos nos movendo para o Norte, ou planejando mudar para o Norte em breve. Eles não nos dizem muito, exceto todas as besteiras usuais. Mas o que estamos fazendo falando sobre isso ao ar livre? Você deve estar louco!}
+{200}{}{[Risos] Eu, prefiro ferrar alguém em vez de me ferrar. Mas não devemos falar assim ao ar livre. Os zumbis não gostam disso.}
+{201}{}{Você sabe, há muitas outras pessoas por aqui que pensam assim. Vá incomodá-los.}
+{202}{}{Eu não estou dizendo nada para você, amigo. Vá para o inferno.}
+{203}{}{O cara se veste de preto, ele faz seu pregador agir, então ele sobe e conta o seu script. Cara, eu queria ter sido assim tão fácil! Mas é melhor eu parar de falar sobre ele pelas costas, ou o Nightkin pode ouvir.}
+{204}{}{Do que você tem medo?}
+{205}{}{eu quero saber mais.}
+{206}{}{Onde estão todos os bonés por aqui?}
+{207}{}{Sobre o que ele está pregando?}
+{208}{}{Traga-os! Eu poderia usar um pouco de ação!}
+{209}{}{Há Lasher. Cara, fique longe dele! Ele é completamente ... Eu não sei se posso realmente descrevê-lo. Imagine a única pessoa na Terra que você não quer conhecer. Lasher é pior.}
+{210}{}{Será que ele e Morpheus se dão bem?}
+{211}{}{Qual é o papel dele no esquema das coisas?}
+{212}{}{Então, o que ele fez? O que o faz tão mal?}
+{213}{}{Ei, você ainda não me conheceu, amigo!}
+{214}{}{No futuro, encontre alguém para bug.}
+{215}{}{Cara, eu gostaria que tivéssemos algumas dessas coisas! Após horas ouvindo 'Hail this' e 'Peace', 'Unity', e o Bullshitting Way, eu também quero ficar bêbado!}
+{216}{}{Você deve estar brincando. Este lugar é uma igreja! Tem que haver bebida!}
+{217}{}{No booze? Merda!}
+{218}{}{Se eu não beber bastante, eu começo a beber sangue.}
+{219}{}{Isso é Morpheus. Nosso líder. Ele está na torre, eu acho.}
+{220}{}{Líder? O que ele está levando você para?}
+{221}{}{Vamos lá, cara. Isso não me diz nada. Compartilhe um pouco da sujeira!}
+{222}{}{Quem mais é importante nessa articulação?}
+{223}{}{Você foi útil. Obrigado amigo.}
+{224}{}{Ele tem alguma bebida nele? Existe algum beijo na articulação?}
+{225}{}{Hmm, um bom lugar privado, ninguém para me incomodar quando eu o mato.}
+{226}{}{Você deve estar brincando. O Nightkin são assassinos. Você olha para eles do jeito errado, e eles cortam as partes do seu corpo, cozinham e alimentam um pedaço de cada vez. Eles não podem ser mortos. Eles são os executores do Mestre e vão destruir o mundo para ele. É eu não estou dizendo mais nada!}
+{227}{}{Não há mais nada para contar, e se você for esperto, você não quer saber!}
+{228}{}{Eu não sei. Eu mesmo procurei por eles! Eu ouço Morpheus tem um estoque, mas o Nightkin guarda o principal. Conheço caras que procuravam por passagens secretas que nunca mais foram vistas. Parei de cuidar daqui a pouco e, se você for esperto, não vai começar! Não vale a pena!}
+{229}{}{Você deve estar brincando. Fale com os zumbis, cara!}
+{230}{}{Talvez vocês pertençam juntos depois de tudo!}
+{231}{}{Não há nenhum homem bêbado! A vida é uma cadela maior do que Lasher! Agora, por que você não vai encontrar alguém para falar com você, seu pequeno vômito? Saia daqui!}
+{232}{}{Não me dê besteira, amigo. O que você realmente quer?}
+{233}{}{Você notou algum acontecimento incomum por aqui?}
+{234}{}{O que está acontecendo por aqui?}
+{235}{}{Onde está o mestre?}
+{236}{}{Apenas procurando por um amigo.}
+{237}{}{Tudo que eu quero é um pouco de bebida. Talvez algum suco de escorpião rad?}
+{238}{} {Eu quero um garoto com uma atitude punk para me irritar o suficiente
+ que eu vou tirar a língua dele, preservá-lá e usá-lá
+ um colar como um lembrete de quão estúpidas as pessoas podem
+ estar.}
+{239}{}{O Mestre pode beijar minha bunda. Contanto que eu termine no lado vencedor, eu não dou a mínima. Você tem isso, zumbi!}
+{240}{}{Finalmente! Eu encontrei um ser humano real neste lugar!}
+{241}{}{Meu amigo? Por que sua vida está tão cheia de dor e sofrimento? Abra seu coração para o Mestre!}
+{242}{}{Como você pode sobreviver por aqui com essa atitude?}
+{243}{}{Sim, você deixou bem claro.}
+{244}{}{Eu dou a mínima. Se alguém se chamava de 'Mestre' e tentasse beijar minha bunda, eu o mataria.}
+{245}{}{Porque eu faço bem o meu trabalho. Eu matei três scum Apocalypse no último mês. Ninguém me dá merda. Você quer?}
+{246}{}{Estou impressionado. Um cara como você deve conhecer a história real sobre o que está acontecendo por aqui ..}
+{247}{}{Apocalipse, eh? Eles deveriam ser duros?}
+{248}{}{três}{ Isso é tudo? Você deve ver meu bodycount!}
+{249}{}{Nope.}
+{250}{}{Eu aposto que o seu não gritou tão alto quanto o meu. Eu gosto quando eles gritam.}
+{251}{}{Ei! Um cara com uma arma ainda é um cara com uma arma! Você acha que pode fazer melhor?}
+{252}{}{Não, meu amigo. Eu sou dedicado à paz, amor e união.}
+{253}{}{Um cara com uma arma é perigoso. Um cara ou uma mulher com uma arma É um cérebro é letal.}
+{254}{}{Um cara com uma arma é perigoso. Um cara com uma arma É um cérebro é letal.}
+{255}{}{Sim, eu posso fazer melhor.}
+{256}{}{Não há como saber. Você quer começar e descobrir?}
+{257}{}{Pense? Quem precisa pensar? Eu só vou te mostrar o que posso fazer. Morra, imbecil!}
+{258}{}{Eu não ouvi nada sobre você, amigo, então corte a besteira e saia do meu rosto.}
+{259}{}{Pensei que sim. Por que você simplesmente não volta para seus cantos de zumbis e deixa o trabalho real para caras como eu?}
+{260}{}{Yeah. Eu ouvi isso sobre você. Você pode ter matado sua parte de escorpiões rad, mas eu sou mais malvada! Qual é o seu ângulo? Por quê você está aqui?}
+{261}{}{Você notou algum acontecimento incomum por aqui?}
+{262}{}{O que está acontecendo por aqui?}
+{263}{}{Onde está o mestre?}
+{264}{}{Apenas procurando por um amigo.}
+{265}{}{Eu ouvi que a bebida é muito boa por aqui.}
+{266}{}{Espere um minuto, você não é aquele cara que .. oh merda, eu estou fora daqui!}
+{267}{}{Espere um minuto, você não é aquela mulher que ... oh merda, eu estou fora daqui!}
+{268}{}{Eu não sou amigo de ninguém. Eu não sou desse tipo. [longa pausa] Eu sugiro que você saia do meu caminho agora.}
+{269}{}{Nós tentamos algo aqui, e o Nightkin nos despedaçará. Talvez possamos nos encontrar lá fora depois.}
+{270}{}{Talvez. Ou talvez nós possamos tanto a atitude quanto a conversa sobre as coisas. Como o que está acontecendo por aqui.}
+{271}{}{Covarde!}
+{272}{}{Claro. Pode ser divertido.}
+{273}{}{Vamos fazer agora.}
+{274}{}{Você imbecil!}
+{275}{}{Porque as pessoas que entram em seu lado ruim não ficam vivas por muito tempo!}
+{276}{}{[feito]}

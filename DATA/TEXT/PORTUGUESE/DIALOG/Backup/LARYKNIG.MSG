@@ -1,0 +1,40 @@
+{100}{}{Você vê um Cavaleiro.}
+{101}{}{Ola Iniciado. Eu sou o Larry, como eu posso ajudar você?}
+{102}{}{Vree disse que você poderia me mostrar uma pistola laser.}
+{103}{}{Vree disse que você poderia me dar uma pistola laser.}
+{104}{}{Ug.}
+{105}{}{Uh, certo...}
+{106}{}{Uh, sim. Estas coisas são otimas. O alcance delas é... bem, tão longe
+ quanto você puder ver. (Larry continua a falar pelo que parecem ser horas, mas
+ você parece conseguir entender algumas coisas sobre o uso de armas de energia.)}
+{107}{}{Huh? Mas ela sabe que estas não estão prontas ainda... Ah, ela deve ter
+ querido dizer mostar. Sim, eu posso mostrar pra você. Você vê que é movida por
+ celulas de energia que são construidas de... (Larry continua pelo que parecem ser
+ horas, mas você parece conseguir entender algumas coisas sobre armas de energia.)}
+{108}{}{Com certeza ela disse. Eu acho que você deveria sair forasteiro.}
+{109}{}{Eu não gosto de mentirosos, por favor saia.}
+{200}{}{Isto não esta certo de modo algum.}
+{201}{}{La vamos nos.}
+{202}{}{O mecanismo de disparo continua emperrando.}
+{203}{}{Isso esta muito melhor.}
+{204}{}{Quase consegui.}
+{205}{}{Isto vai demorar um pouco.}
+{206}{}{Esse e o problema!}
+{207}{}{John, eu acho que eu isolei o problema.}
+{208}{}{Maldicao!}
+{209}{}{Darn!}
+{210}{}{Minha culpa!}
+{211}{}{Eu estou bem.}
+{212}{}{Certo, isso doeu.}
+{213}{}{Eu tive a intenção de fazer isso.}
+{214}{}{Por que isto continua acontecendo?}
+{215}{}{Meus olhos!}
+{216}{}{Você não é um cavaleiro.}
+{217}{}{Eu preciso falar com um cavaleiro.}
+{218}{}{Eu não entendo, as celulas de força continuam shorting out.}
+{219}{}{Você deveria recuar, estas podem ser perigosas.}
+{220}{}{Por favor não me distraia.}
+{221}{}{Cuidado com aonde você esta de pe.}
+{222}{}{Você esta perdido?}
+{223}{}{Lamento, eu não posso falar agora.}
+{300}{}{Armas de energia foram incrementadas em 5%.}

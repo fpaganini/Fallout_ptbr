@@ -1,0 +1,11 @@
+{100}{}{Cavaleiro}
+{101}{}{Eu amo trabalhar em novos prototipos.}
+{102}{}{Quando nossos suprimentos são limitados pode ser realmente um desafio
+ achar um modo de usar o que nos temos.}
+{103}{}{Eu não consigo imaginar por que meu ultimo prototipo não funcionou.}
+{104}{}{Lamento, eu não conversar agora.}
+{105}{}{Vree esta logo ali.}
+{106}{}{Agora aonde eu pus aquele arquivo?}
+{107}{}{Onde esta aquele schematic?}
+{108}{}{Bem, o computador diz que deveria funcionar. Agora, o que eu fiz
+ de errado?}

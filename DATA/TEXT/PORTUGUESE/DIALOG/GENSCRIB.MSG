@@ -1,33 +1,33 @@
-{100}{}{VocÃª vÃª um escriba.}
-{101}{}{Vree Ã© meu Ã­dolo.}
-{102}{}{Vree Ã© tÃ£o bonito.}
-{103}{}{Sophia com certeza Ã© legal.}
-{104}{}{Derek Ã© legal.}
-{105}{}{O universo continuarÃ¡ a expandir-se ou acabarÃ¡ por colapsar?
-Â de volta em si prÃ³prio?}
-{106}{}{Eu amo esses livros antigos e revistas, mas eles sÃ£o tÃ£o difÃ­ceis de vir
-Â de.}
-{107}{}{Conhecimento Ã© poder.}
-{108}{}{A caneta Ã© mais poderosa que a espada.}
+{100}{}{Você vê um escriba.}
+{101}{}{Vree é meu ídolo.}
+{102}{}{Vree é tão bonito.}
+{103}{}{Sophia com certeza é legal.}
+{104}{}{Derek é legal.}
+{105}{}{O universo continuará a expandir-se ou acabará por colapsar?
+ de volta em si próprio?}
+{106}{}{Eu amo esses livros antigos e revistas, mas eles são tão difíceis de vir
+ de.}
+{107}{}{Conhecimento é poder.}
+{108}{}{A caneta é mais poderosa que a espada.}
 {109}{}{A tecnologia deve ser preservada.}
-{110}{}{A ciÃªncia Ã© muito divertida.}
-{111}{}{Eu jÃ¡ vi uma nave espacial alienÃ­gena antes.}
-{112}{}{VocÃª sabia que o sol Ã© realmente uma grande reaÃ§Ã£o nuclear?}
-{113}{}{VocÃª sabia que um buraco negro Ã© na verdade uma abertura para outro universo?}
-{114}{}{VocÃª sabia que o Ã¡tomo de hidrogÃªnio tem 99,9843425% de espaÃ§o vazio?}
-{115}{}{A viagem no tempo serÃ¡ possÃ­vel um dia e poderemos evitar
-Â o desastre que arruinou nosso mundo no passado.}
-{116}{}{A pesquisa Ã© uma das minhas coisas favoritas para fazer. Eu sinto que estou tentando
-Â para resolver um mistÃ©rio.}
-{117}{}{Ser um escriba Ã© o melhor. VocÃª comeÃ§a a estudar todas as tecnologias antigas
-Â e tente desenvolver novos.}
-{118}{}{Estes terminais podem usar aprimoramento. Talvez devÃªssemos colocar a tela
-Â por aqui.}
-{119}{}{Desculpe, estou bem no meio de um possÃ­vel avanÃ§o. Eu nÃ£o posso falar
-Â agora mesmo.}
-{120}{}{Ei IniciaÃ§Ã£o. VocÃª deve treinar para ser um escriba, se vocÃª nÃ£o tiver decidido
-Â ainda.}
-{121}{}{Us Os escribas criam todos os equipamentos, armas e suprimentos. Ã‰ bastante
-Â emocionante.}
-{122}{}{Por favor, nÃ£o me perturbe, estou tentando terminar minha pesquisa.}
-{123}{}{Isso Ã© Vree ali mesmo, ela tambÃ©m Ã© uma Escriba.}
+{110}{}{A ciência é muito divertida.}
+{111}{}{Eu já vi uma nave espacial alienígena antes.}
+{112}{}{Você sabia que o sol é realmente uma grande reação nuclear?}
+{113}{}{Você sabia que um buraco negro é na verdade uma abertura para outro universo?}
+{114}{}{Você sabia que o átomo de hidrogênio tem 99,9843425% de espaço vazio?}
+{115}{}{A viagem no tempo será possível um dia e poderemos evitar
+ o desastre que arruinou nosso mundo no passado.}
+{116}{}{A pesquisa é uma das minhas coisas favoritas para fazer. Eu sinto que estou tentando
+ para resolver um mistério.}
+{117}{}{Ser um escriba é o melhor. Você começa a estudar todas as tecnologias antigas
+ e tente desenvolver novos.}
+{118}{}{Estes terminais podem usar aprimoramento. Talvez devêssemos colocar a tela
+ por aqui.}
+{119}{}{Desculpe, estou bem no meio de um possível avanço. Eu não posso falar
+ agora mesmo.}
+{120}{}{Ei Iniciação. Você deve treinar para ser um escriba, se você não tiver decidido
+ ainda.}
+{121}{}{Us Os escribas criam todos os equipamentos, armas e suprimentos. É bastante
+ emocionante.}
+{122}{}{Por favor, não me perturbe, estou tentando terminar minha pesquisa.}
+{123}{}{Isso é Vree ali mesmo, ela também é uma Escriba.}

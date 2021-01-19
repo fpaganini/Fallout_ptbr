@@ -1,301 +1,301 @@
-100}{}{Você vê Set, o Líder de Necrópoles.}
-{101}{Set00}{É melhor haver um motivo para ficar parado no meu
- sombra. O próximo item do menu toca uma campainha para você. . .
- normie.}
-{102} {} {Ah, assassino é, sem dúvida. Obviamente eu encontrei o
- cabeça, homem.}
+{100}{}{VocÃª vÃª Set, o LÃ­der de NecrÃ³poles.}
+{101}{Set00}{Ã‰ melhor haver um motivo para ficar parado na minha
+Â sombra. PrÃ³ximo ao menu, toque a campainha para vocÃª. . .
+Â normalzinho.}
+{102} {} {Ah, assassino Ã©, sem dÃºvida. Obviamente eu encontrei a
+Â cabeÃ§a, cara.}
 {103} {} {Uau, o que aconteceu com seu rosto?}
-{104} {} {Uau, você é muito esperto para um carniçal.}
+{104} {} {Uau, vocÃª Ã© muito esperto para um carniÃ§al.}
 {105} {} {Nuh-uh?}
-{106} {Set01} {Horário simples. Eu estou definido. Eu estou no comando. Pegue?}
-{107} {} {De acordo com minhas informações, você é apenas um servo de segunda categoria.}
+{106} {Set01} {HorÃ¡rio simples. Eu estou definido. Eu estou no comando. Pegue?}
+{107} {} {De acordo com minhas informaÃ§Ãµes, vocÃª Ã© apenas um servo de segunda categoria.}
 {108} {} {Entendi. }
 {109} {} {Mais alguma coisa que eu deva saber?}
 {110} {Set01a} {Bom}
-{111} {} {O que posso fazer por você?}
-{112} {Set02} {O que é isso? Sugando? Ouça, walker, eu não faço
- o acordo com as normas, então soprando fumaça pela cauda
- não vai te pegar na cabeça na mesa.}
-{113} {} {A fumaça sairá em muitos buracos quando eu estiver
- através.}
-{114} {} {Minhas desculpas. Eu queria causar uma boa impressão.}
-{115} {} {Não quis dizer nada.}
+{111} {} {O que posso fazer por vocÃª?}
+{112} {Set02} {O que Ã© isso? Sugando? OuÃ§a, walker, eu nÃ£o faÃ§o
+Â o acordo com as normas, entÃ£o soprando fumaÃ§a pela cauda
+Â nÃ£o vai te pegar na cabeÃ§a na mesa.}
+{113} {} {A fumaÃ§a sairÃ¡ em muitos buracos quando eu estiver
+Â atravÃ©s.}
+{114} {} {Minhas desculpas. Eu queria causar uma boa impressÃ£o.}
+{115} {} {NÃ£o quis dizer nada.}
 {116} {Set03} {[Groan] Eu vou te comer e cantar essa 'Happy Tummy'
- canção. Eu tenho aquela barriga feliz. . .}
+Â canÃ§Ã£o. Eu tenho aquela barriga feliz. . .}
 {117} {Set04} {Fact-time, cadela? Eu vou gostar de te apertar.}
 {118} {} {Tudo o que estiver no seu coldre deve ser maior que o seu
- boca. . . Improvável como isso é.}
+Â boca. . . ImprovÃ¡vel como isso Ã©.}
 {119} {} {Aperte isso ...}
 {120} {} {Nuh-uh?}
 {121} {Set05} {Bem. Eu vejo algum potencial aqui. . . heh . . Tenho companheiros
- para você, meu normie cintilante. Punir os mutantes no barracão por mim.
- Sim, sim, pode fazer. . . sim?}
+Â para vocÃª, meu normie cintilante. Punir os mutantes no barracÃ£o por mim.
+Â Sim, sim, pode fazer. . . sim?}
 {122} {} {Uh, OK}
 {123} {} {Nuh-uh.}
-{124} {Set06} {Excelente. Ensine àqueles mutantes a última lição, então
- Volte para trás. . . Hmm. Se eu disser aos meus ghouls para segurar
- fora de você, os muties podem ouvir e saber. Então eu te digo,
- é hora do favor. Eu continuo calado. Consegui?}
+{124} {Set06} {Excelente. Ensine Ã queles mutantes a Ãºltima liÃ§Ã£o, entÃ£o
+Â Volte para trÃ¡s. . . Hmm. Se eu disser aos meus ghouls para segurar
+Â fora de vocÃª, os muties podem ouvir e saber. EntÃ£o eu te digo,
+Â Ã© hora do favor. Eu continuo calado. Consegui?}
 {125} {} {Entendido}
-{126} {} {É os ghouls?}
+{126} {} {Ã‰ os ghouls?}
 {127} {} {Fantasmas, certo!}
 {128} {} {Huh?}
-{129} {Set07} {Evite meus ghouls, se você gosta da sua pele. Qualquer um que não possa
- Pare um normie merece o último descanso. Aprenda como você precisa.}
-{130} {Set08} {Você come o meu tempo! Deixem de ser, de um jeito ou de outro!}
-{131} {Set09} {Você não tem ideia de quem é a sombra que você pisou.}
-{132} {} {Um minion de segunda categoria. Eu conheço seu chefe. Infeliz.}
-{133} {} {Nem você.}
+{129} {Set07} {Evite meus ghouls, se vocÃª gosta da sua pele. Qualquer um que nÃ£o possa
+Â Pare um normie merece o Ãºltimo descanso. Aprenda como vocÃª precisa.}
+{130} {Set08} {VocÃª come o meu tempo! Deixem de ser, de um jeito ou de outro!}
+{131} {Set09} {VocÃª nÃ£o tem ideia de quem Ã© a sombra que vocÃª pisou.}
+{132} {} {Um minion de segunda categoria. Eu conheÃ§o seu chefe. Infeliz.}
+{133} {} {Nem vocÃª.}
 {134} {} {Lamento, eu tenho um estranho senso de humor.}
-{135} {Set10} {Você anda por ele? Você é dele furtivo, direto? Aqui para me esfolar?
- Ah, eu juro, você também vai tombar.}
-{136} {} {Uau, não interprete mal. Eu não sou dele. Estou aqui para ajudar.}
+{135} {Set10} {VocÃª anda por ele? VocÃª Ã© dele furtivo, direto? Aqui para me esfolar?
+Â Ah, eu juro, vocÃª tambÃ©m vai tombar.}
+{136} {} {Uau, nÃ£o interprete mal. Eu nÃ£o sou dele. Estou aqui para ajudar.}
 {137} {} {Tente com cara de espaguete.}
-{138} {Set10a} {Não pareceu isto.}
-{139} {} {eu entendo. Ele é meu problema também. Fale comigo.}
-{140} {Set11} {A necrópole era minha. Não é tudo ótimo,
- mas um lugar direto para o meu tipo. Então o mestre
- mostrou. Ele poderia ter me deixado bem, mas foi fácil
- para ele ficar apenas com alguns carros e ficar de olho.}
-{141} {} {O que eu posso fazer e o que você fará por mim?}
+{138} {Set10a} {NÃ£o pareceu isto.}
+{139} {} {eu entendo. Ele Ã© meu problema tambÃ©m. Fale comigo.}
+{140} {Set11} {A necrÃ³pole era minha. NÃ£o Ã© tudo Ã³timo,
+Â mas um lugar direto para o meu tipo. EntÃ£o o mestre
+Â mostrou. Ele poderia ter me deixado bem, mas foi fÃ¡cil
+Â para ele ficar apenas com alguns carros e ficar de olho.}
+{141} {} {O que eu posso fazer e o que vocÃª farÃ¡ por mim?}
 {142} {} {Parece um pouco fora do meu alcance. Eu estou fora disso.}
-{143} {Set12} {Os Mutantes no galpão de água precisam de sonecas de sujeira. Faz
- minha sombra cresce. Você corta e recompensa corre para
- você. Info, também.}
+{143} {Set12} {Os Mutantes no galpÃ£o de Ã¡gua precisam de sonecas de sujeira. Faz
+Â minha sombra cresce. VocÃª corta e recompensa corre para
+Â vocÃª. Info, tambÃ©m.}
 {144} {} {Feito}
-{145} {} {Demasiado dificuldade. Vejo você por aí.}
-{146} {Set13} {Você quer empregar, andarilho? Me mostre que você pode brigar.
- Derrube os mutantes no galpão de água. Mostre-lhes
- o tempo ruim e você é bom.}
+{145} {} {Demasiado dificuldade. Vejo vocÃª por aÃ­.}
+{146} {Set13} {VocÃª quer empregar, andarilho? Me mostre que vocÃª pode brigar.
+Â Derrube os mutantes no galpÃ£o de Ã¡gua. Mostre-lhes
+Â o tempo ruim e vocÃª Ã© bom.}
 {147} {} {Eu estou nisso.}
 {148} {} {De jeito nenhum, cara de espaguete.}
-{149} {Set14} {Não. Mais perguntas? }
-{150} {} {Ahhh, acho que não. O que posso fazer para você?}
-{151} {} {Yeah. Acha difícil usar fio dental?}
-{152} {Set15} {Tão engraçado meu rosto dói. Tente de novo e minhas elites
- suco você. Consegui?}
+{149} {Set14} {NÃ£o. Mais perguntas? }
+{150} {} {Ahhh, acho que nÃ£o. O que posso fazer para vocÃª?}
+{151} {} {Yeah. Acha difÃ­cil usar fio dental?}
+{152} {Set15} {TÃ£o engraÃ§ado meu rosto dÃ³i. Tente de novo e minhas elites
+Â suco vocÃª. Consegui?}
 {153} {} {Got it}
 {154} {} {Eu ainda estou um pouco incerto. . .}
-{155} {} {Seu rosto dói bem.}
-{156} {Set16} {Meu nome é definido. Seu é um mundo ferido. Faça um acordo, eu
- mude seu punho. Ouvindo?}
-{157} {} {Claro. Bate sangrando por todo o chão.}
+{155} {} {Seu rosto dÃ³i bem.}
+{156} {Set16} {Meu nome Ã© definido. Seu Ã© um mundo ferido. FaÃ§a um acordo, eu
+Â mude seu punho. Ouvindo?}
+{157} {} {Claro. Bate sangrando por todo o chÃ£o.}
 {158} {} {Naww. Traga os capangas.}
 {159} {} {Uh-huh.}
 {160} {} {Nuh-uh!}
-{161} {Set17} {Stride para o barracão de água, sujeira de terra os mutantes lá.
- Faça isso, você continua um andador. Não, você descansa.}
-{162} {} {Você soa um pouco assustado por esses caras, quer
- falar sobre isso?}
-{163} {} {Eu sou fácil. Combinado.}
-{164} {} {Você parece engraçado, e você fala engraçado.}
-{165} {Set18} {Bem feito. Você ganhou minha visão, caminhante. Segue
- Garret pela sua recompensa. Agora. Estou ocupado.}
+{161} {Set17} {Stride para o barracÃ£o de Ã¡gua, sujeira de terra os mutantes lÃ¡.
+Â FaÃ§a isso, vocÃª continua um andador. NÃ£o, vocÃª descansa.}
+{162} {} {VocÃª soa um pouco assustado por esses caras, quer
+Â falar sobre isso?}
+{163} {} {Eu sou fÃ¡cil. Combinado.}
+{164} {} {VocÃª parece engraÃ§ado, e vocÃª fala engraÃ§ado.}
+{165} {Set18} {Bem feito. VocÃª ganhou minha visÃ£o, caminhante. Segue
+Â Garret pela sua recompensa. Agora. Estou ocupado.}
 {166} {} {OK. Obrigado.}
-{167} {} {É isso! Obrigado, agora sai?}
+{167} {} {Ã‰ isso! Obrigado, agora sai?}
 {168} {} {Mom?}
-{169} {Set19} {Olhe antes de você chiar. Você vai gostar. Ser uma vergonha para
- me irrita agora. . . que estou feliz.}
-{170} {} {Eu peço desculpas pela minha explosão, mas estou um pouco preocupado
- Aqui.}
-{171} {} {Lamento, não há problema.}
-{172} {} {Ei, eu não estou me contentando com o que sobrou}
-{173} {Set20} {[Groan] Sim, sim. Siga Garret e mostre seus brancos também.
- E não se preocupe, eu mantenho uma palavra direta. O Mestre corre o risco.}
+{169} {Set19} {Olhe antes de vocÃª chiar. VocÃª vai gostar. Ser uma vergonha para
+Â me irrita agora. . . que estou feliz.}
+{170} {} {Eu peÃ§o desculpas pela minha explosÃ£o, mas estou um pouco preocupado
+Â Aqui.}
+{171} {} {Lamento, nÃ£o hÃ¡ problema.}
+{172} {} {Ei, eu nÃ£o estou me contentando com o que sobrou}
+{173} {Set20} {[Groan] Sim, sim. Siga Garret e mostre seus brancos tambÃ©m.
+Â E nÃ£o se preocupe, eu mantenho uma palavra direta. O Mestre corre o risco.}
 {174} {} {O Mestre?}
 {175} {} {Certo, obrigado.}
-{176} {Set21} {Você não cuida das suas costas, você vai usar a faca dele, ele vai usar o seu
- pele. Seus mutantes sombream o deserto, especialmente o sul daqui.}
-{177} {} {Se o Mestre é tão forte, quem pode desafiá-lo?}
-{178} {} {Ele não me assusta.}
+{176} {Set21} {VocÃª nÃ£o cuida das suas costas, vocÃª vai usar a faca dele, ele vai usar o seu
+Â pele. Seus mutantes sombream o deserto, especialmente o sul daqui.}
+{177} {} {Se o Mestre Ã© tÃ£o forte, quem pode desafiÃ¡-lo?}
+{178} {} {Ele nÃ£o me assusta.}
 {179} {Set21a} {Ele deveria.}
-{180} {Set22} {Crianças da Catedral, cidados do Hub, até
- nós Ghouls. Ninguém pode empurrar sua sombra agora. Mas o nosso
- a luz será mais brilhante da próxima vez. Ho-ho, sim.}
+{180} {Set22} {CrianÃ§as da Catedral, cidados do Hub, atÃ©
+Â nÃ³s Ghouls. NinguÃ©m pode empurrar sua sombra agora. Mas o nosso
+Â a luz serÃ¡ mais brilhante da prÃ³xima vez. Ho-ho, sim.}
 {181} {} {Boa sorte.}
 {182} {Set23} {Siga Garret e saia.}
 {183} {} {Direito}
 {184} {} {Frag off}.
-{185} {Set24} {Você pode ser deixado para trás. Saia agora, sem o seu
- recompensa, ou você está na mesa hoje à noite.}
-{186} {} {Se é assim que você quer.}
+{185} {Set24} {VocÃª pode ser deixado para trÃ¡s. Saia agora, sem o seu
+Â recompensa, ou vocÃª estÃ¡ na mesa hoje Ã  noite.}
+{186} {} {Se Ã© assim que vocÃª quer.}
 {187} {} {Frag off}.
-{188} {Set25} {Nenhuma palavra corre para o meu ouvido sobre o galpão de água
- mutantes deixando de respirar. Major para meus planos. Contar
- me é um problema enterrado.}
-{189} {} {Ah, sim. Não é grande coisa, tudo foi cuidado.
- Confie em mim.}
-{190} {} {Não, ainda está trabalhando nisso}
+{188} {Set25} {Nenhuma palavra corre para o meu ouvido sobre o galpÃ£o de Ã¡gua
+Â mutantes deixando de respirar. Major para meus planos. Contar
+Â me Ã© um problema enterrado.}
+{189} {} {Ah, sim. NÃ£o Ã© grande coisa, tudo foi cuidado.
+Â Confie em mim.}
+{190} {} {NÃ£o, ainda estÃ¡ trabalhando nisso}
 {191} {} {Nuh-uh.}
 {192} {Set26} {Ahhh, preenchendo. Siga Garret para sua recompensa. }
-{193} {Set27} {Você rouba meu tempo com suas mentiras. Deixe meu
- sombra antes. . . morrer. Morrer! Apenas morra! }
+{193} {Set27} {VocÃª rouba meu tempo com suas mentiras. Deixe meu
+Â sombra antes. . . morrer. Morrer! Apenas morra! }
 {194} {Set28} {Ande agora. Lide com os mutantes e depois
- Retorna. Não antes.}
+Â Retorna. NÃ£o antes.}
 {195} {Set29} {Pego pelo meu, hein? Eu te dei a reta
- neles. Agora você paga. Nenhum crédito.}
-{196} {Set30} {Eu estou definido. Por que você pisa minha sombra?}
+Â neles. Agora vocÃª paga. Nenhum crÃ©dito.}
+{196} {Set30} {Eu estou definido. Por que vocÃª pisa minha sombra?}
 {197} {} {Eu sou o que traz a morte. Caia aos seus joelhos e
- por misericórdia.}
+Â por misericÃ³rdia.}
 {198} {} {Eu sou o que traz a morte. Caia aos seus joelhos e
- por misericórdia. . . Ou me dê um sanduíche, estou com muita fome.}
-{199} {} {Eu estou aqui para ver o chefe. Que você?}
+Â por misericÃ³rdia. . . Ou me dÃª um sanduÃ­che, estou com muita fome.}
+{199} {} {Eu estou aqui para ver o chefe. Que vocÃª?}
 {200} {} {Whoa, caso principal de acne!}
 {201} {} {Uhh, ahdunno.}
-{202} {Set31} {Normies. Se você causou os tremores em mim,
- meus portões seriam tão abertos?}
-{203} {} {Eu já matei ghouls. Eu matei mutantes. Eu matei
- coisas que você nem imaginava. Ninguém entra
- o meu caminho.}
-{204} {} {Como sobre um elevador de cara. . . Ficará bem na minha parede.}
-{205} {Set32} {Você superou aqueles na bacia hidrográfica. eu acho que
- o preenchimento. Para isso, vou dar palavras. Então nós caminhamos
- oposto.}
-{206} {} {Por que nós não apenas caminhamos em frente agora?}
+{202} {Set31} {Normies. Se vocÃª causou os tremores em mim,
+Â meus portÃµes seriam tÃ£o abertos?}
+{203} {} {Eu jÃ¡ matei ghouls. Eu matei mutantes. Eu matei
+Â coisas que vocÃª nem imaginava. NinguÃ©m entra
+Â o meu caminho.}
+{204} {} {Como sobre um elevador de cara. . . FicarÃ¡ bem na minha parede.}
+{205} {Set32} {VocÃª superou aqueles na bacia hidrogrÃ¡fica. eu acho que
+Â o preenchimento. Para isso, vou dar palavras. EntÃ£o nÃ³s caminhamos
+Â oposto.}
+{206} {} {Por que nÃ³s nÃ£o apenas caminhamos em frente agora?}
 {207} {} {Funciona para mim}
-{208} {Set33} {Um aviso. O sul faz um grande cão choramingar e
- rabo de dobra. Se as idéias dançarem no seu crânio, eu faço
- Grandes cachorros brincam mortos. Por outro lado, você limpa-limpou
- o galpão. Garret te conduzirá à gratidão.}
-{209} {Set34} {Riso vem difícil aqui. Você limpou o
- shed?}
-{210} {} {Esse é o fato.}
-{211} {} {Ah, não. Não fui eu.}
-{212} {Set35} {Meu errado, sua perda. O trabalho cresce, você deve andar
- agora.}
+{208} {Set33} {Um aviso. O sul faz um grande cÃ£o choramingar e
+Â rabo de dobra. Se as idÃ©ias danÃ§arem no seu crÃ¢nio, eu faÃ§o
+Â Grandes cachorros brincam mortos. Por outro lado, vocÃª limpa-limpou
+Â o galpÃ£o. Garret te conduzirÃ¡ Ã  gratidÃ£o.}
+{209} {Set34} {Riso vem difÃ­cil aqui. VocÃª limpou o
+Â shed?}
+{210} {} {Esse Ã© o fato.}
+{211} {} {Ah, nÃ£o. NÃ£o fui eu.}
+{212} {Set35} {Meu errado, sua perda. O trabalho cresce, vocÃª deve andar
+Â agora.}
 {213} {Set36} {Ah, sim. Nenhuma trilha na areia. Boa. O preenchimento. Andar
- com Garret para gratidão.}
-{214} {Set38} {Eu elenco a sombra. Se esse é o lote, remova-se. }
+Â com Garret para gratidÃ£o.}
+{214} {Set38} {Eu elenco a sombra. Se esse Ã© o lote, remova-se. }
 {215} {} {Eu estou aqui para coletar a recompensa para alguns mutantes.}
 {216} {} {Obrigado, eu acho que irei.}
-{217} {} {Seria mais rápido se eu removesse você.}
-{218} {Set39} {viável. Siga Garret para gratidão, depois caminhe
- outro caminho.}
-{219} {Set40} {Razões para agressões? Ande e meu vai ficar.
- Fale e meu vai se mover.}
-{220} {} {Lamento, má tentativa de humor.}
+{217} {} {Seria mais rÃ¡pido se eu removesse vocÃª.}
+{218} {Set39} {viÃ¡vel. Siga Garret para gratidÃ£o, depois caminhe
+Â outro caminho.}
+{219} {Set40} {RazÃµes para agressÃµes? Ande e meu vai ficar.
+Â Fale e meu vai se mover.}
+{220} {} {Lamento, mÃ¡ tentativa de humor.}
 {221} {} {'Sobreo o tempo. Ficando entediado esperando seu rosto clarear.}
-{222} {Set41} {Ahh, o normie do pensador. Você matou aqueles no
- derramado, sim? Veio para recompensa?}
+{222} {Set41} {Ahh, o normie do pensador. VocÃª matou aqueles no
+Â derramado, sim? Veio para recompensa?}
 {223} {} {Uh-huh}
 {224} {} {Nuh-uh, me veio chute feio-bunda.}
-{225} {Set42a} {Agora é ruim. Andar. }
-{226} {} {Eu merece alguma informação.}
+{225} {Set42a} {Agora Ã© ruim. Andar. }
+{226} {} {Eu merece alguma informaÃ§Ã£o.}
 {227} {} {Como eu ando na sua cara?}
 {228} {} {Entendido.}
 {229} {} {Nuh-uh?}
-{230} {Set43} {Ótimo. Rápido. O que?}
-{231} {} {Você não faria os mutantes sozinho. Eu me pergunto
- porque? Resposta, alguém te assustou. Por quê?}
-{232} {} {Por que você precisou de mim para matar os mutantes? Por que não usar
- seus ghouls?}
-{233} {} {Como diabos você pode chamar toda essa porcaria de recompensa?}
-{234} {Set44} {Eu não tremo. Use as ferramentas do tempo. Você é
- usado, você é recompensado, você está andando.}
-{235} {} {Você está blefando.}
-{236} {} {Se você disser isso}
-{237} {} {Eu acho que é uma ameaça!}
-{238} {Set45} {Você nem lê as linhas. A não ser que Necropolis
- é sempre a sua casa para estar, andar. Eu não tenho tempo para um
- saco de sangue tolo.}
-{239} {} {Como é o seu próprio saco?}
+{230} {Set43} {Ã“timo. RÃ¡pido. O que?}
+{231} {} {VocÃª nÃ£o faria os mutantes sozinho. Eu me pergunto
+Â porque? Resposta, alguÃ©m te assustou. Por quÃª?}
+{232} {} {Por que vocÃª precisou de mim para matar os mutantes? Por que nÃ£o usar
+Â seus ghouls?}
+{233} {} {Como diabos vocÃª pode chamar toda essa porcaria de recompensa?}
+{234} {Set44} {Eu nÃ£o tremo. Use as ferramentas do tempo. VocÃª Ã©
+Â usado, vocÃª Ã© recompensado, vocÃª estÃ¡ andando.}
+{235} {} {VocÃª estÃ¡ blefando.}
+{236} {} {Se vocÃª disser isso}
+{237} {} {Eu acho que Ã© uma ameaÃ§a!}
+{238} {Set45} {VocÃª nem lÃª as linhas. A nÃ£o ser que Necropolis
+Â Ã© sempre a sua casa para estar, andar. Eu nÃ£o tenho tempo para um
+Â saco de sangue tolo.}
+{239} {} {Como Ã© o seu prÃ³prio saco?}
 {240} {} {Entendido.}
 {241} {} {Morda-me}
 {242} {Set45a} {Com prazer. . .}
-{243} {Set46} {Sem blefes, sem torção. O Mestre não tremula
- mim. Andar. Sua bem-vinda tem.}
+{243} {Set46} {Sem blefes, sem torÃ§Ã£o. O Mestre nÃ£o tremula
+Â mim. Andar. Sua bem-vinda tem.}
 {244} {} {Obrigado pelo seu tempo.}
-{245} {} {Pense em fumar você vai trazer de volta o meu bem-vindo?
- Funciona para mim.}
-{246} {Set47} {Por que manda um carniçal para o trabalho de uma criança?
- Deixe-me.}
-{247} {Set48} {Eu estou cansado. Você se foi.}
-{248} {Set49} {Semear e chorar! Eu quero você morto! Morto!}
-{249} {Set50} {Eu espio sua reviravolta e isso causa um de nós dor.
- Escolha de lista curta: remova os mutantes ou morra.}
+{245} {} {Pense em fumar vocÃª vai trazer de volta o meu bem-vindo?
+Â Funciona para mim.}
+{246} {Set47} {Por que manda um carniÃ§al para o trabalho de uma crianÃ§a?
+Â Deixe-me.}
+{247} {Set48} {Eu estou cansado. VocÃª se foi.}
+{248} {Set49} {Semear e chorar! Eu quero vocÃª morto! Morto!}
+{249} {Set50} {Eu espio sua reviravolta e isso causa um de nÃ³s dor.
+Â Escolha de lista curta: remova os mutantes ou morra.}
 {250} {} {Eu vou direto ao assunto.}
-{251} {} {É uma lista maior. # 3 é: e se eu desligar
- sua cabeça em vez disso?}
-{252} {Set51} {Ainda na minha sombra? Por que as línguas dos normies balançam
- e tirar o movimento de seus ossos? Limpar tempo, andar agora.}
-{253} {Set52} {Sua presença significa?}
-{254} {} {Não muito, apenas espalhando a notícia de que o Mestre
- está morto.}
+{251} {} {Ã‰ uma lista maior. # 3 Ã©: e se eu desligar
+Â sua cabeÃ§a em vez disso?}
+{252} {Set51} {Ainda na minha sombra? Por que as lÃ­nguas dos normies balanÃ§am
+Â e tirar o movimento de seus ossos? Limpar tempo, andar agora.}
+{253} {Set52} {Sua presenÃ§a significa?}
+{254} {} {NÃ£o muito, apenas espalhando a notÃ­cia de que o Mestre
+Â estÃ¡ morto.}
 {255} {} {correu para chutar uns traseiros e pensou em seu rosto.}
 {256} {} {Huh. Mestre vai buum}
-{257} {Set52a} {Você quer dizer morto?}
+{257} {Set52a} {VocÃª quer dizer morto?}
 {258} {} {Uh-huh.}
-{259} {Set53} {Calor. O preenchimento. Suas necessidades são meus desejos. Nome
- eles.}
-{260} {} {Precisa de alguma informação sobre os cubas.}
+{259} {Set53} {Calor. O preenchimento. Suas necessidades sÃ£o meus desejos. Nome
+Â eles.}
+{260} {} {Precisa de alguma informaÃ§Ã£o sobre os cubas.}
 {261} {} {Eu poderia usar mais armas e equipamentos.}
 {262} {} {No Obrigado.}
 {263} {} {Precisa de coisas.}
 {264} {} {Neeem.}
-{265} {Set54} {Alguns dos meus deslizaram os laços. Trabalhou isso
- tarefa mutante.}
+{265} {Set54} {Alguns dos meus deslizaram os laÃ§os. Trabalhou isso
+Â tarefa mutante.}
 {266} {} {O que eles disseram?}
 {267} {} {Mutantes, hein? Eu provavelmente precisarei de mais armas.}
 {268} {Set55} {Grande noroeste, longe da vida. Ocupado com guardas
- e direção complicada. Se esse é o seu caminho, ande com meus pensamentos.}
-{269} {Set56} {Garret passará o que está disponível.}
-{270} {Set57} {Você. Desapareceu nosso chip de processador de água. Trocado
- isto . . . para sua vida!}
-{271} {} {Nós dois precisamos de chips de trabalho. Aparentemente, há apenas
- 1. Existe outro método sobre o qual não pensamos?}
-{272} {} {Eu precisava do chip para salvar meu próprio cofre. Lamento.}
+Â e direÃ§Ã£o complicada. Se esse Ã© o seu caminho, ande com meus pensamentos.}
+{269} {Set56} {Garret passarÃ¡ o que estÃ¡ disponÃ­vel.}
+{270} {Set57} {VocÃª. Desapareceu nosso chip de processador de Ã¡gua. Trocado
+Â isto . . . para sua vida!}
+{271} {} {NÃ³s dois precisamos de chips de trabalho. Aparentemente, hÃ¡ apenas
+Â 1. Existe outro mÃ©todo sobre o qual nÃ£o pensamos?}
+{272} {} {Eu precisava do chip para salvar meu prÃ³prio cofre. Lamento.}
 {273} {} {Desculpe?}
 {274} {} {Deseja voltar?}
 {275} {} {Uhh?}
-{276} {Set58} {Um caminho, talvez. Uma bomba alternativa existe, mas não
- suas ações. Nenhum dos meus pode respirar essa vida.}
+{276} {Set58} {Um caminho, talvez. Uma bomba alternativa existe, mas nÃ£o
+Â suas aÃ§Ãµes. Nenhum dos meus pode respirar essa vida.}
 {277} {} {Talvez eu deva dar uma olhada na bomba.}
-{278} {} {Muito ruim. Acho que você está com sede.}
-{279} {Set59} {Garret te guiará. Revive a bomba, mantenha o
- lasca.}
+{278} {} {Muito ruim. Acho que vocÃª estÃ¡ com sede.}
+{279} {Set59} {Garret te guiarÃ¡. Revive a bomba, mantenha o
+Â lasca.}
 {280} {} {Obrigado.}
-{281} {Set60} {Eu vou beber de você quente, então tome de você frio.}
-{282} {} {Eu não tenho isso em mim.}
+{281} {Set60} {Eu vou beber de vocÃª quente, entÃ£o tome de vocÃª frio.}
+{282} {} {Eu nÃ£o tenho isso em mim.}
 {283} {} {Que tal comer sujeira em vez disso.}
-{284} {Set61} {Então morra antes do meu!}
-{285} {Set62} {Idéias não serão importantes para você novamente.}
-{286} {} {Eu acho que é um "não?"}
-{287} {Set63} {Seu preço é pertencer a Necrópolis para sempre.}
-{288} {} {tipo de cara. Que tal eu te tirar do escritório?
- em vez de?}
+{284} {Set61} {EntÃ£o morra antes do meu!}
+{285} {Set62} {IdÃ©ias nÃ£o serÃ£o importantes para vocÃª novamente.}
+{286} {} {Eu acho que Ã© um "nÃ£o?"}
+{287} {Set63} {Seu preÃ§o Ã© pertencer a NecrÃ³polis para sempre.}
+{288} {} {tipo de cara. Que tal eu te tirar do escritÃ³rio?
+Â em vez de?}
 {289} {} {Nuh-uh!}
-{290} {Set64} {Para o chip, você pode andar.}
-{291} {} {Gotcha! Eu não tenho mais isso!}
-{292} {} {OK, aqui está.}
-{293} {} {Eu prefiro ver você morto.}
-{294} {Set65} {[Set passa o chip de água para um ghoul, que corre
- Se a sua sombra tocar a Necrópole novamente,
- mesclar para sempre.}
+{290} {Set64} {Para o chip, vocÃª pode andar.}
+{291} {} {Gotcha! Eu nÃ£o tenho mais isso!}
+{292} {} {OK, aqui estÃ¡.}
+{293} {} {Eu prefiro ver vocÃª morto.}
+{294} {Set65} {[Set passa o chip de Ã¡gua para um ghoul, que corre
+Â Se a sua sombra tocar a NecrÃ³pole novamente,
+Â mesclar para sempre.}
 {295} {Set200} {Como disse. . .}
 {296} {Set201} {declarado antes. . .}
-{297} {Set202} {Não faça o acordo com os normies.}
+{297} {Set202} {NÃ£o faÃ§a o acordo com os normies.}
 {298} {Set203} {Natter para Garret. Meu tempo voa.}
-{299} {Set204} {Sua cabeça está vazio?}
-{300} {Set205} {Seu é o único benefício. Esta troca falta.}
-{301} {Set206} {Pensamentos não estão em minha posse}
-{302} {Set207} {O tempo está errado. A noite é apropriada para a sua sombra.}
+{299} {Set204} {Sua cabeÃ§a estÃ¡ vazio?}
+{300} {Set205} {Seu Ã© o Ãºnico benefÃ­cio. Esta troca falta.}
+{301} {Set206} {Pensamentos nÃ£o estÃ£o em minha posse}
+{302} {Set207} {O tempo estÃ¡ errado. A noite Ã© apropriada para a sua sombra.}
 {303} {Set208} {Guardas! Aproveite a norma!}
 {304} {Set209} {Guardas, acabem com esse aborrecimento!}
-{305} {Set300} {Seu significado não tem lugar aqui. Nenhum.}
-{306} {Set301} {O futuro. Sobrevivência em qualquer lugar. Nós superamos as normas.}
-{307} {Set302} {Um erro do mundo. Um borrão na minha vista. Eu odeio todas as facetas.}
-{308} {Set303} {Onde sua sombra está. Minha casa. Minha regra. Um lugar onde força
- cresce.}
-{309} {Set304} {O começo. Mundo a cinzas, cinzas ao crescimento. Nossa vida.}
-{310} {Set305} {Idéias erradas. Nada à minha vista, nada mesmo.}
-{311} {Set306} {Muitos dos seus. Algumas reviravoltas úteis, mas demais.}
-{312} {Set307} {Relíquias. Nós superamos, eles não sabem. Sua visão é estreita, só o que
- eles acreditam.}
-{313} {Set308} {Centro do suprimento de água da Necrópole. Envenenado pela presença de
- mutantes. Me deixa vazio para pensar nisso.}
-{314} {Set309} {Provê o que é preciso.}
+{305} {Set300} {Seu significado nÃ£o tem lugar aqui. Nenhum.}
+{306} {Set301} {O futuro. SobrevivÃªncia em qualquer lugar. NÃ³s superamos as normas.}
+{307} {Set302} {Um erro do mundo. Um borrÃ£o na minha vista. Eu odeio todas as facetas.}
+{308} {Set303} {Onde sua sombra estÃ¡. Minha casa. Minha regra. Um lugar onde forÃ§a
+Â cresce.}
+{309} {Set304} {O comeÃ§o. Mundo a cinzas, cinzas ao crescimento. Nossa vida.}
+{310} {Set305} {IdÃ©ias erradas. Nada Ã  minha vista, nada mesmo.}
+{311} {Set306} {Muitos dos seus. Algumas reviravoltas Ãºteis, mas demais.}
+{312} {Set307} {RelÃ­quias. NÃ³s superamos, eles nÃ£o sabem. Sua visÃ£o Ã© estreita, sÃ³ o que
+Â eles acreditam.}
+{313} {Set308} {Centro do suprimento de Ã¡gua da NecrÃ³pole. Envenenado pela presenÃ§a de
+Â mutantes. Me deixa vazio para pensar nisso.}
+{314} {Set309} {ProvÃª o que Ã© preciso.}
 {315} {Set310} {Abaixo dos meus pensamentos.}
-{316} {Set311} {Não nos meus pensamentos.}
+{316} {Set311} {NÃ£o nos meus pensamentos.}
 
 
 
@@ -304,9 +304,9 @@
 #
 {970}{Set01}{Tempos simples. Estou pronto. Eu estou no comando. sacou?}
 
-{980} {Set206} {Pensamentos não estão em minha posse}
+{980} {Set206} {Pensamentos nÃ£o estÃ£o em minha posse}
 {981} {Set310} {Abaixo dos meus pensamentos.}
-{982} {Set311} {Não nos meus pensamentos.}
+{982} {Set311} {NÃ£o nos meus pensamentos.}
 
 {1000} {} {Master}
 {1001} {} {Ghouls}
@@ -319,39 +319,39 @@
 {1008} {} {Shed}
 {1009} {} {Catedral}
 {1010} {} {Chip}
-{1011} {} {Salão}
-{1012} {} {crianças}
+{1011} {} {SalÃ£o}
+{1012} {} {crianÃ§as}
 {1013} {} {Garret}
 {1014} {} {Set}
 {1015} {} {Muties}
 {1016} {} {Brotherhood of Steel}
 {1017} {} {Water Shed}
-{1018} {} {Crianças da Catedral}
-{1019} {} {crianças}
+{1018} {} {CrianÃ§as da Catedral}
+{1019} {} {crianÃ§as}
 {1020} {} {Watershed}
-{1021} {} {Água}
+{1021} {} {Ãgua}
 
-{1100} {Set300} {Seu significado não tem lugar aqui. Nenhum.}
-{1101} {Set301} {O futuro. Sobrevivência em qualquer lugar. Nós superamos as normas.}
-{1102} {Set302} {Um erro para o mundo. Um borrão na minha vista. Eu odeio todas as facetas.}
-{1103} {Set303} {Onde sua sombra está. Minha casa. Minha regra. Um lugar onde a força cresce.}
-{1104} {Set304} {O começo. Mundo a cinzas, cinzas ao crescimento. Nossa vida.}
-{1105} {Set305} {Idéias erradas. Nada à minha vista, nada mesmo.}
-{1106} {Set306} {Muitos dos seus. Algumas reviravoltas úteis, mas demais.}
-{1107} {Set307} {Relíquias. Nós superamos, eles não sabem. Sua visão é estreita, só o que
- eles acreditam.}
-{1108} {Set309} {Provê o que é preciso.}
+{1100} {Set300} {Seu significado nÃ£o tem lugar aqui. Nenhum.}
+{1101} {Set301} {O futuro. SobrevivÃªncia em qualquer lugar. NÃ³s superamos as normas.}
+{1102} {Set302} {Um erro para o mundo. Um borrÃ£o na minha vista. Eu odeio todas as facetas.}
+{1103} {Set303} {Onde sua sombra estÃ¡. Minha casa. Minha regra. Um lugar onde a forÃ§a cresce.}
+{1104} {Set304} {O comeÃ§o. Mundo a cinzas, cinzas ao crescimento. Nossa vida.}
+{1105} {Set305} {IdÃ©ias erradas. Nada Ã  minha vista, nada mesmo.}
+{1106} {Set306} {Muitos dos seus. Algumas reviravoltas Ãºteis, mas demais.}
+{1107} {Set307} {RelÃ­quias. NÃ³s superamos, eles nÃ£o sabem. Sua visÃ£o Ã© estreita, sÃ³ o que
+Â eles acreditam.}
+{1108} {Set309} {ProvÃª o que Ã© preciso.}
 {1109} {Set310} {Abaixo dos meus pensamentos.}
-{1110} {Set311} {Não nos meus pensamentos.}
-{1111} {Set204} {Sua cabeça está vazia?}
+{1110} {Set311} {NÃ£o nos meus pensamentos.}
+{1111} {Set204} {Sua cabeÃ§a estÃ¡ vazia?}
 {1112} {Set310} {Abaixo dos meus pensamentos.}
-{1113} {Set204} {Sua cabeça está vazia?}
-{1114} {Set01} {Horário simples. Eu estou definido. Eu estou no comando. Pegue?}
-{1115} {Set302} {Um erro para o mundo. Um borrão na minha vista. Eu odeio todas as facetas.}
-{1116} {Set307} {Relíquias. Nós superamos, eles não sabem. Sua visão é estreita, só o que
- eles acreditam.}
-{1117} {Set309} {Provê o que é preciso.}
+{1113} {Set204} {Sua cabeÃ§a estÃ¡ vazia?}
+{1114} {Set01} {HorÃ¡rio simples. Eu estou definido. Eu estou no comando. Pegue?}
+{1115} {Set302} {Um erro para o mundo. Um borrÃ£o na minha vista. Eu odeio todas as facetas.}
+{1116} {Set307} {RelÃ­quias. NÃ³s superamos, eles nÃ£o sabem. Sua visÃ£o Ã© estreita, sÃ³ o que
+Â eles acreditam.}
+{1117} {Set309} {ProvÃª o que Ã© preciso.}
 {1118} {Set310} {Abaixo dos meus pensamentos.}
 {1119} {Set310} {Abaixo dos meus pensamentos.}
-{1120} {Set309} {Provê o que é preciso.}
-{1121} {Set309} {Provê o que é preciso.}
+{1120} {Set309} {ProvÃª o que Ã© preciso.}
+{1121} {Set309} {ProvÃª o que Ã© preciso.}

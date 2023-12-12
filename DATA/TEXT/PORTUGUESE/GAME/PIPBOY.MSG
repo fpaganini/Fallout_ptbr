@@ -75,7 +75,7 @@
 {411}{}{Diário em Áudio do Richard Grey}
 {412}{}{Diário do Capitão Maxson}
 {413}{}{Pesquisa do VEF}
-{414}{}{Specs da Power Armor}
+{414}{}{Specificações da Power Armor}
 {415}{}{Registros da West Tech}
 {416}{}{Locais das Vaults v34.129}
 {417}{}{Transmissão do Regulador}
@@ -96,8 +96,8 @@
 {509}{}{Deixando a Vault}               # Woman end
 {510}{}{Mergulhado nos Vats}            # Death
 {511}{}{Água da Vault 13}
-{512}{}{A Água da Vault 13 se Esgotando}
-{513}{}{Rae Mata o Mestre}
+{512}{}{A Água da Vault 13 se esgotando}
+{513}{}{Rae mata o Mestre}
 
 #
 # Things for the Mac version to speak
@@ -133,7 +133,7 @@
 {720}{}{Shady Sands}
 {721}{}{Curar Jarvis do Veneno do Radscorpion.}
 {722}{}{Fazer um Antídoto para o Veneno.}
-{723}{}{Resgatar Tandi dos Raiders.}
+{723}{}{Resgatar Tandi dos Invasores.}
 {724}{}{Parar os Radscorpions.}
 #
 {730}{}{Junktown}
@@ -144,7 +144,7 @@
 {735}{}{Parar o Gizmo.}
 {736}{}{Destruir a gangue dos Skulz.}
 #
-{740}{}{Raiders}
+{740}{}{Invasores}
 #
 {750}{}{Necrópolis}
 {751}{}{Destruir os Super Mutantes na Bacia Hidrográfica.}
@@ -157,20 +157,20 @@
 {764}{}{Achar as caravanas desaparecidas.}
 {765}{}{Roubar o colar dos Mercadores.}
 #
-{770}{}{Irmandade}
+{770}{}{Irmandade do Aço}
 {771}{}{Tornar-me um Iniciado.}
 {772}{}{Resgatar o Iniciado do Hub.}
 #
 {780}{}{Base Militar}
 #
 {790}{}{Glow}
-{791}{}{Desarmar as Armadilhas na Instalação.}
-{792}{}{Ligar a força no Glow.}
+{791}{}{Desarmar as armadilhas na Instalação.}
+{792}{}{Ligar a energia no Glow.}
 #
 {800}{}{Boneyard}
 {801}{}{Tornar-me um Blade.}
 {802}{}{Entregar o Medalhão para Romero.}
-{803}{}{Entregar o pacote dos Gun Runners.}
+{803}{}{Entregar o pacote dos Traficantes de Armas.}
 {804}{}{Achar o espião das Crianças nos Seguidores.}
 {805}{}{Consertar as fazendas hidropônicas em Adytum.}
 {806}{}{Resgatar Jason Zimmerman.}
@@ -183,8 +183,8 @@
 # Holodisk text
 #
 
-# *** Disco dos Experimentos FEV ***
-{1000}{}{• Data do Registro, 21 de Março, 2075:}
+# *** FEV Experiment Tape ***
+{1000}{}{• Data do Registro, 21 de Março, 2075}
 {1001}{}{O Major Barnett tem ordenado experimentos com o}
 {1002}{}{lote 10-011 do vírus de pan-imunidade, o qual foi}
 {1003}{}{renomeado VEF, Vírus Evolucionário Forçado. Sua}
@@ -287,69 +287,74 @@
 {1093}{}{é recomendada por mim nem pela minha equipe.}
 {1094}{}{**END-DISK**}
 
+
 # *** Security Disk ***
-{2000}{}{Security override Gamma Omicron Delta.}
+{2000}{}{Substituição de segurança Gamma Omicron Delta.}
 {2001}{}{**END-DISK**}
 
+
 # *** Ancient Brotherhood Disk ***
-{3000}{}{Cap. Maxson estava certo. Este lugar é a morte.}
-{3001}{}{Eu estou escrevendo isto para que se nós não}
-{3002}{}{conseguirmos voltar, alguém, algum dia, possa}
-{3003}{}{descobrir o que aconteceu a nós.}
+{3000}{}{O capitão Maxson estava certo. Este lugar é a morte.}
+{3001}{}{Eu estou escrevendo isso para que, se não conseguirmos}
+{3002}{}{voltar, alguém, algum dia, possa descobrir o que}
+{3003}{}{aconteceu conosco.}
 {3004}{}{**END-PAR**}
 # -
-{3005}{}{Nós conseguimos chegar a Instalacao de Pesquisa da West}
-{3006}{}{Tek após 20 dias de inferno. Mas essa foi a parte fácil. Os}
-{3007}{}{níveis de radiação comecaram a disparar tão logo nós pude-}
-{3008}{}{-mos ver a cratera gigante. Nós verificamos nossos supri-}
-{3009}{}{-mentos e pensamos que com armaduras e suprimentos anti-}
-{3010}{}{-rad nós estaríamos bem por pelo menos um dia de explora-}
-{3011}{}{-cao. Sentimos que era risco calculado, mas com a tecnolo-}
-{3012}{}{-gia que tínhamos o potencial de recuperar valia a pena.}
-{3013}{}{**END-PAR**}
+{3005}{}{Nós conseguimos chegar na Instalação de Pesquisa da}
+{3006}{}{West Tek após 20 dias de inferno. Mas essa foi a parte}
+{3007}{}{fácil. Os níveis de radiação começaram a disparar antes}
+{3008}{}{que nós pudéssemos ver a cratera gigante. Nós veri-}
+{3009}{}{ficamos nossos suprimentos e pensamos que, com nossas}
+{3010}{}{armaduras e suprimentos anti-radiação, nós estaríamos}
+{3011}{}{bem por pelo menos um dia de exploração. Sentimos que}
+{3012}{}{era um risco calculado, mas com a tecnologia que}
+{3013}{}{tínhamos o potencial de recuperar valia a pena.}
+{3014}{}{**END-PAR**}
 # -
-{3014}{}{Nós descemos a cratera até o primeiro nível e}
-{3015}{}{tudo parecia estar de acordo com o plano. A força}
-{3016}{}{estava desligada, então nós não precisamos circumvent a}
-{3017}{}{seguranca. Ou assim nós pensavamos. Não havia muito de}
-{3018}{}{valor neste nível, então nós continuamos.}
-{3019}{}{**END-PAR**}
+{3015}{}{Nós descemos a cratera até o primeiro nível e tudo}
+{3016}{}{parecia estar de acordo com o plano. A energia}
+{3017}{}{estava desligada, então não precisamos nos preocupar}
+{3018}{}{com a segurança. Ou assim nós pensávamos. Não havia}
+{3019}{}{muito de valor neste nível, então nós continuamos.}
+{3020}{}{**END-PAR**}
 # -
-{3020}{}{O segundo nível era mais do mesmo.}
-{3021}{}{**END-PAR**}
+{3021}{}{O segundo nível era mais do mesmo.}
+{3022}{}{**END-PAR**}
 # -
-{3022}{}{Quando Jensen cai no terceiro nível, todo o inferno}
-{3023}{}{se soltou. Os sensores de seguranca foram queimados}
-{3024}{}{nos primeiros dois níveis mas não no terceiro.}
-{3025}{}{Jensen foi cortado em fitas antes que ele soubesse o que}
-{3026}{}{tinha acontecido. Nós nunca vimos armas cortarem atraves}
-{3027}{}{da power armor assim. Homens comecaram a cair na direita}
-{3028}{}{e esquerda, aqueles que ainda estavam vivos surtaram. Eu}
-{3029}{}{tentei reagrupar, mas só Soto e Camarillo conseguiram}
-{3030}{}{voltar aqui para o primeiro nível comigo.}
-{3031}{}{**END-PAR**}
+{3023}{}{Quando Jensen desceu para o terceiro nível, todo o}
+{3024}{}{inferno se soltou. Os sensores de segurança estavam}
+{3025}{}{queimados nos dois primeiros níveis, mas não no}
+{3026}{}{terceiro. Jensen foi fatiado em pedaços antes que ele}
+{3027}{}{soubesse o que tinha acontecido. Nós nunca tínhamos}
+{3028}{}{visto armas que pudessem atravessar as Power Armours}
+{3029}{}{assim. Homens começaram a cair na direita e esquerda,}
+{3030}{}{aqueles que ainda estavam vivos se perderam. Eu tentei}
+{3031}{}{reagrupar, mas só Soto e Camarillo conseguiram voltar}
+{3032}{}{aqui para o primeiro nível comigo.}
+{3033}{}{**END-PAR**}
 # -
-{3032}{}{O fato de que posso cheirar a carne queimando do Soto}
-{3033}{}{aonde seu braço foi tirado significa que minha power}
-{3034}{}{armor não esta mais com ar comprimido, então eu estou}
-{3035}{}{sugando muito mais rads que tinha planejado. Estou vazando}
-{3036}{}{nos hidraulicos a uma taxa alarmante. Precisamos chegar}
-{3037}{}{bastante longe deste lugar antes que minha armadura morra}
-{3038}{}{**END-PAR**}
-# -
-{3039}{}{Camarillo parecia bem fisicamente, mas ele wandered}
-{3040}{}{off por volta de uma hora atras, resmungando algo sobre}
-{3041}{}{Gehenna. Aquele bastardo tem todos os anti-rads.}
+{3034}{}{O fato de eu poder sentir o cheiro da carne queimada}
+{3035}{}{do Soto onde seu braço foi arrancado significa que}
+{3036}{}{minha Power Armor não estava mais com a circulação de}
+{3037}{}{ar selada, então eu estou absorvendo muito mais}
+{3038}{}{radiação do que eu havia planejado. Estou perdendo o}
+{3039}{}{sistema hidráulico em um ritmo alarmante. Precisamos}
+{3040}{}{nos afastar o suficiente deste lugar antes que minha}
+{3041}{}{armadura morra.}
 {3042}{}{**END-PAR**}
 # -
-{3043}{}{Isso deixa Soto e eu. Nós não chegaremos}
-{3044}{}{longe o bastante daqui sem os}
-{3045}{}{anti-rads, então eu tenho que tentar achar Camarillo}
-{3046}{}{antes que seja tarde demais.}
-{3047}{}{**END-PAR**}
+{3043}{}{Camarillo parecia bem fisicamente, mas ele se afastou}
+{3044}{}{há cerca de uma hora atrás, resmungando algo sobre}
+{3045}{}{Gehenna. Aquele bastardo tem todos os anti-radiação.}
+{3046}{}{**END-PAR**}
 # -
-{3048}{}{Sgt. D. Allen , Forcas Armadas dos Estados Unidos.}
-{3049}{}{**END-DISK**}
+{3047}{}{Só restou Soto e eu. Nós não chegaremos longe o }
+{3048}{}{bastante daqui sem os anti-radiação, então eu tenho}
+{3049}{}{que tentarachar Camarillo antes que seja tarde demais.}
+{3050}{}{**END-PAR**}
+# -
+{3051}{}{Sargento D. Allen, Forças Armadas dos Estados Unidos.}
+{3052}{}{**END-DISK**}
 
 
 #  *** Alpha Experiment Disk ***

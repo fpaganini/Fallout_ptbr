@@ -13,8 +13,8 @@
 {100}{}{Feliz Dia de Ano Novo!}       # New years
 {101}{}{Feliz Dia dos Namorados!}     # April fools
 {102}{}{Feliz Dia da Mentira!}        # April fools
-{103}{}{Feliz Dia da Navegacao!}      # Shipping day!
-{104}{}{Feliz Dia da Independencia!}  # Independence day
+{103}{}{Feliz Dia da Navegação!}      # Shipping day!
+{104}{}{Feliz Dia da Independência!}  # Independence day
 {105}{}{Feliz Halloween!}             # Halloween
 {106}{}{Feliz Dia de Ação de Gracas!} # Thanksgiving
 {107}{}{Feliz Natal!}                 # X-mas
@@ -35,7 +35,7 @@
 {210}{}{Status}
 {211}{}{DADOS}
 {212}{}{de}
-{213}{}{Pagina}
+{213}{}{Página}
 {214}{}{FEITO}
 {215}{}{Você não pode descansar neste local!}
 
@@ -48,7 +48,7 @@
 {303}{}{Descansar por trinta minutos}
 {304}{}{Descansar por uma hora}
 {305}{}{Descansar por duas horas}
-{306}{}{Descansar por tres horas}
+{306}{}{Descansar por três horas}
 {307}{}{Descansar por quatro horas}
 {308}{}{Descansar por cinco horas}
 {309}{}{Descansar por seis horas}
@@ -72,13 +72,13 @@
 {408}{}{Fita da Irmandade}
 {409}{}{Fita da Sophia}
 {410}{}{Log do Maxson}
-{411}{}{Diario em Áudio do Richard Grey}
-{412}{}{Diario do Capitão Maxson}
+{411}{}{Diário em Áudio do Richard Grey}
+{412}{}{Diário do Capitão Maxson}
 {413}{}{Pesquisa do VEF}
 {414}{}{Specs da Power Armor}
 {415}{}{Registros da West Tech}
 {416}{}{Locais das Vaults v34.129}
-{417}{}{Transmissao do Regulador}
+{417}{}{Transmissão do Regulador}
 
 #
 # Movie archive titles
@@ -87,11 +87,11 @@
 {500}{}{InterPlay Logo}            # Not show in Pipboy
 {501}{}{MacPlay Logo}              # MacPlay version ,Not show in Pipboy
 {502}{}{Intro}                     # Not show in Pipboy
-{503}{}{Destruicao dos Vats}
-{504}{}{Destruicao da Catedral}
-{505}{}{Instrucões do Supervisor}
-{506}{}{Privacao da Água da Vault 13}   # Death
-{507}{}{Invasao da Vault 13}            # Death
+{503}{}{Destruição dos Vats}
+{504}{}{Destruição da Catedral}
+{505}{}{Instruções do Supervisor}
+{506}{}{Privação da Água da Vault 13}   # Death
+{507}{}{Invasão da Vault 13}            # Death
 {508}{}{Deixando a Vault}               # Man end
 {509}{}{Deixando a Vault}               # Woman end
 {510}{}{Mergulhado nos Vats}            # Death
@@ -122,7 +122,7 @@
 # 1 ... 9 thread/quest name
 #
 {700}{}{Vault 13}
-{701}{}{Acalmar a faccao rebelde.}
+{701}{}{Acalmar a facção rebelde.}
 {702}{}{Destruir o Líder Mutante.}
 {703}{}{Destruir a fonte dos Mutantes.}
 {704}{}{Achar o Chip da Água.}
@@ -147,7 +147,7 @@
 {740}{}{Raiders}
 #
 {750}{}{Necrópolis}
-{751}{}{Destruir os Super Mutantes na Bacia Hidrografica.}
+{751}{}{Destruir os Super Mutantes na Bacia Hidrográfica.}
 {752}{}{Consertar a bomba da água de Necrópolis.}
 #
 {760}{}{Hub}
@@ -164,14 +164,14 @@
 {780}{}{Base Militar}
 #
 {790}{}{Glow}
-{791}{}{Desarmar as Armadilhas na Instalacao.}
+{791}{}{Desarmar as Armadilhas na Instalação.}
 {792}{}{Ligar a força no Glow.}
 #
 {800}{}{Boneyard}
 {801}{}{Tornar-me um Blade.}
-{802}{}{Entregar o Medalhao para Romero.}
+{802}{}{Entregar o Medalhão para Romero.}
 {803}{}{Entregar o pacote dos Gun Runners.}
-{804}{}{Achar o espiao das Crianças nos Seguidores.}
+{804}{}{Achar o espião das Crianças nos Seguidores.}
 {805}{}{Consertar as fazendas hidropônicas em Adytum.}
 {806}{}{Resgatar Jason Zimmerman.}
 {807}{}{Impedir as Gangues de atacarem Adytum.}
@@ -183,113 +183,113 @@
 # Holodisk text
 #
 
-# *** FEV Experiment Disk ***
-{1000}{}{• Data do Registro, 21 de Marco, 2075:}
-{1001}{}{O Major Barnett ordenou que os experimentos com o}
-{1002}{}{lote 10-011 do vírus de panimunidade, o qual foi}
-{1003}{}{renomeado VEF, por Vírus Evolucionario Forcado. Sua}
-{1004}{}{principal preocupacao e com os efeitos colaterais da}
-{1005}{}{estrutura quad-helix ao inves do seu efeito principal}
-{1006}{}{de estabilidade replicativa. Ele acredita que a nova}
-{1007}{}{estrutura e o próximo passo lógico por mammalian}
-{1008}{}{nuclei. Os experimento com organismos unicelulares}
-{1009}{}{são um grande sucesso. Enquanto o metabolismo base}
-{1010}{}{deles aparenta não estar mudado, a imunidade deles a}
-{1011}{}{infeccao e radiação excede as expectativas anteriores.}
-{1012}{}{Adendo: coroplastas parecem não afetados pelo vírus.}
-{1013}{}{Mais experimento nas celulas plant foram}
-{1014}{}{cancelados por ordem do Major Barnett.}
+# *** Disco dos Experimentos FEV ***
+{1000}{}{• Data do Registro, 21 de Março, 2075:}
+{1001}{}{O Major Barnett tem ordenado experimentos com o}
+{1002}{}{lote 10-011 do vírus de pan-imunidade, o qual foi}
+{1003}{}{renomeado VEF, Vírus Evolucionário Forçado. Sua}
+{1004}{}{principal preocupação é com os efeitos colaterais da}
+{1005}{}{estrutura de hélice quádrupla, e não com seu efeito}
+{1006}{}{principal de estabilidade replicativa. Ele acredita que}
+{1007}{}{a nova estrutura é o próximo passo lógico para o núcleo}
+{1008}{}{dos mamíferos. Os experimentos com organismos unicelu-}
+{1009}{}{lares são um grande sucesso. Enquanto o metabolismo}
+{1010}{}{base deles aparenta não estar mudado, a imunidade deles}
+{1011}{}{a infecção e radiação excede as expectativas anteriores.}
+{1012}{}{Adendo: os cloroplastas parecem não estarem sendo}
+{1013}{}{afetados pelo vírus. Experimentos adicionais em células}
+{1014}{}{de plantas foram cancelados por ordem do Major Barnett.}
 {1015}{}{**END-PAR**}
 # -
 {1016}{}{• Data do Registro, 9 de Maio, 2075}
-{1017}{}{Nós infectamos diversas especies de flatworm com o VEF.}
-{1018}{}{Dentro de horas as minhocas aumentaram de tamanho em}
-{1019}{}{28%, e 39 contagios virais separados foram resistidos}
-{1020}{}{pela populacao. A cada amostra foi permitido}
-{1021}{}{continuar por diversas geracões, é a nova estrutura}
-{1022}{}{do DNA foi passada com sucesso para a progenia}
-{1023}{}{da minhoca, embora só a reproducao assexuada fosse}
-{1024}{}{notadas nas amostras. Os experimentos com insetos}
+{1017}{}{Nós infectamos diversas espécies de platelmintos com o}
+{1018}{}{VEF. Dentro de horas as minhocas aumentaram de tamanho}
+{1019}{}{em 28%, e a população resistiu a 39 contágios virais}
+{1020}{}{distintos. Cada amostra conseguiu continuar}
+{1021}{}{por várias gerações, e a nova estrutura de DNA foi}
+{1022}{}{passada com sucesso para os progênitos das minhocas,}
+{1023}{}{embora apenas a reprodução assexuada tenha sido}
+{1024}{}{observada nas amostras. Os experimentos com insetos}
 {1025}{}{tiveram menos sucesso. Major Barnett adiou}
-{1026}{}{estes experimentos até further notice.}
+{1026}{}{estes experimentos até segunda ordem.}
 {1027}{}{**END-PAR**}
 # -
 {1028}{}{• Data do Registro, 30 de Junho, 2075}
-{1029}{}{Varios lab strains de camundongos brancos foram infecta-}
+{1029}{}{Várias linhagens de ratos brancos foram infectadas}
 {1030}{}{com sucesso com o VEF. De novo, um aumento no tamanho}
 {1031}{}{foi notado dentro de horas e após 9 dias todos os}
-{1032}{}{camundongos estabilizaram em 31% maiores do que o grupo}
-{1033}{}{de controle. A dissecacao revelou que o maior aumento no}
-{1034}{}{tamanho dotecido muscular estriado e certos orgaos}
+{1032}{}{camundongos se estabilizaram 31% maiores do que o grupo}
+{1033}{}{de controle. A dissecação revelou um maior aumento no}
+{1034}{}{tamanho do tecido muscular estriado e de certos órgãos}
 {1035}{}{internos, tais como o fígado, coração e rins. Em um}
-{1036}{}{achado surpresa, descobrimos que os ratos infectados}
-{1037}{}{correm no labirintos em menos da metade do tempo do}
-{1038}{}{grupo de controle. Mais testes serao necessarios para}
-{1039}{}{confirmar este achado como significante.}
+{1036}{}{achado surpresa, os ratos infectados foram vistos}
+{1037}{}{percorrendo os labirintos em menos da metade do tempo}
+{1038}{}{do grupo de controle. Mais testes serão necessários}
+{1039}{}{para confirmar esta descoberta como significativa.}
 {1040}{}{**END-PAR**}
 # -
 {1041}{}{• Data do Registro, 9 de Novembro, 2075}
 {1042}{}{Nós infectamos 218 coelhos com o VEF. Em metade das}
-{1043}{}{cobaias foram implantados eletrodos para}
-{1044}{}{monitorar a atividade antes e após a}
-{1045}{}{infeccao. Foi notada atividade eletrica aumentada no}
-{1046}{}{cerebro em 3.2 segundos (na media) após}
-{1047}{}{a injecao. De novo, o aumento típico do tamanho foi}
-{1048}{}{notado. Contudo, agressao e posturing aumentados}
-{1049}{}{(especialmente entre os machos) foram notados tambem.}
-{1050}{}{Sacrifice and profusion yielded brain tissue que}
-{1051}{}{mostraram conexao dendrítica aumentada, especialmente}
-{1052}{}{no sistema límbrico e córtex frontal.}
+{1043}{}{cobaias foram implantados eletrodos para monitorar}
+{1044}{}{a atividade de eletroencefalograma antes e depois da}
+{1045}{}{infecção. Foi notado o aumento de atividade elétrica}
+{1046}{}{no cérebro em 3,2 segundos (em média) após a injeção.}
+{1047}{}{Novamente, o aumento típico do tamanho foi notado.}
+{1048}{}{Contudo, maior agressividade e postura}
+{1049}{}{(especialmente entre os machos) também foram notados.}
+{1050}{}{O sacrifício e a profusão produziram tecido cerebral}
+{1051}{}{que apresentava maior conexão dendrítica, especialmente}
+{1052}{}{no sistema límbico e no córtex frontal.}
 {1053}{}{**END-PAR**}
 # -
 {1054}{}{• Data do Registro, 12 de Janeiro, 2076}
-{1055}{}{Com o lote 11-011, nós melhoramos a eficiencia do}
-{1056}{}{ciclo mitótico em 43%. Nós infectamos 53}
-{1057}{}{raccoons com o novo strain. Alem do}
-{1058}{}{agora esperado aumento de tamanho, testes}
-{1059}{}{comportamentais confirmaram um aumento na inteligencia}
-{1060}{}{e destreza manual em 19 pontos no índice Schuler-Kapp.}
-{1061}{}{Infelizmente, varias cobaias escaparam do confinamento}
-{1062}{}{e tiveram que ser cacadas e dispatched. O Major}
-{1063}{}{Barneet ordenou que as cobaias restantes fossem}
-{1064}{}{eliminadas. Dois pares não foram contados.}
+{1055}{}{Com o lote 11-011, nós melhoramos a eficiência do}
+{1056}{}{ciclo mitótico em 43%. Infectamos 53 guaxinins}
+{1057}{}{com a nova cepa. Além do agora esperado aumento}
+{1058}{}{de tamanho, testes comportamentais confirmaram um}
+{1059}{}{aumento na inteligência e destreza manual em 19}
+{1060}{}{pontos no índice Schuler-Kapp. Infelizmente, várias}
+{1061}{}{cobaias escaparam do confinamento e tiveram que}
+{1062}{}{ser caçadas e mortas. O Major Barneet ordenou}
+{1063}{}{que as cobaias restantes fossem eliminadas.}
+{1064}{}{Dois pares não foram contados.}
 {1065}{}{**END-PAR**}
 # -
 {1066}{}{• Data do Registro, 13 de Maio, 2076}
-{1067}{}{Nós spliced varias sequencias novas de genes, supridos}
-{1068}{}{pelo time conselheiro do Major Barnett no VEF. Com o}
-{1069}{}{lote 11-101a, nós infectamos 23 caes de ambas as racas}
-{1070}{}{puras e misturadas, e todas experimentaram crescimento}
-{1071}{}{quase imediato. O tamanho maior foi acompanhado por}
-{1072}{}{agressividade aumentada, enquanto nenhum aumento de}
-{1073}{}{inteligencia foi notado. Nós planejamos tentar o}
+{1067}{}{Nós temos combinados novas sequências de genes,}
+{1068}{}{supridos pelo time conselheiro do Major Barnett no}
+{1069}{}{VEF. Com o lote 11-101a, nós infectamos 23 cães de}
+{1070}{}{raça pura e mista, e todos experimentaram crescimento}
+{1071}{}{quase imediato. O aumento de tamanho foi acompanhado}
+{1072}{}{por uma maior agressividade, enquanto nenhum aumento}
+{1073}{}{de inteligencia foi notado. Nós planejamos tentar o}
 {1074}{}{cruzamento de 92 pares alelos com o lote 11-011. Todas}
 {1075}{}{as cobaias foram eliminadas após 14 semanas de estudo.}
 {1076}{}{**END-PAR**}
 # -
 {1077}{}{• Data do Registro, 4 de Outubro, 2076}
-{1078}{}{O cruzamento foi completado e 15 chimpanzes foram}
+{1078}{}{O cruzamento foi concluído e 15 chimpanzés foram}
 {1079}{}{infectados com o lote 11-111. Os níveis de crescimento}
-{1080}{}{e imunidade não tem precedentes. Tentativas para induzir}
-{1081}{}{cânceres nas cobaias atraves de agentes radiológicos e}
-{1082}{}{químicos não foram bem-sucedidos. A agressividade}
-{1083}{}{aumentada nos levou a isolar as cobaias. Duas cobaias}
-{1084}{}{sofreram violentos ataques epileticos e morreram. Todas}
-{1085}{}{as cobaias restantes foram eliminadas.}
+{1080}{}{e imunidade não tem precedentes. Tentativas de induzir}
+{1081}{}{câncer nas cobaias através de agentes radiológicos e}
+{1082}{}{químicos não foram bem-sucedidas. O aumento da agressi-}
+{1083}{}{vidade nos levou a isolar as cobaias. Duas cobaias}
+{1084}{}{sofreram violentos ataques epiléticos e morreram.}
+{1085}{}{Todas as cobaias restantes foram exterminadas.}
 {1086}{}{**END-PAR**}
 # -
 {1087}{}{• Data do Registro, 7 de Janeiro, 2077}
-{1088}{}{O Major Barnett ordenou a transferencia de toda a}
+{1088}{}{O Major Barnett ordenou a transferência de toda a}
 {1089}{}{pesquisa do VEF para a Base Militar Mariposa. Ele}
 {1090}{}{planeja continuar os experimentos do projeto em}
-{1091}{}{cobaias voluntarias. Eu sou contra isto, e gostaria}
-{1092}{}{de deixar notado aqui que a pesquisa em cobaias}
-{1093}{}{humanas não é recomendada por mim ou meus funcionarios.}
-{1094}{}{**FIM-DO-DISCO**}
+{1091}{}{voluntários. Eu sou contra isso e gostaria de deixar}
+{1092}{}{registrado aqui que a pesquisa em cobaias humanas não}
+{1093}{}{é recomendada por mim nem pela minha equipe.}
+{1094}{}{**END-DISK**}
 
 # *** Security Disk ***
 {2000}{}{Security override Gamma Omicron Delta.}
-{2001}{}{**FIM-DO-DISCO**}
+{2001}{}{**END-DISK**}
 
 # *** Ancient Brotherhood Disk ***
 {3000}{}{Cap. Maxson estava certo. Este lugar é a morte.}
@@ -349,7 +349,7 @@
 {3047}{}{**END-PAR**}
 # -
 {3048}{}{Sgt. D. Allen , Forcas Armadas dos Estados Unidos.}
-{3049}{}{**FIM-DO-DISCO**}
+{3049}{}{**END-DISK**}
 
 
 #  *** Alpha Experiment Disk ***
@@ -397,7 +397,7 @@
 {4037}{}{mesmo as celulas nervosasnao-replicantes e não-somaticas}
 {4038}{}{foram induzidas a começar a mitose. Mais experimentos serao}
 {4039}{}{necessarios para determinar os resultados nestas celulas.}
-{4040}{}{**FIM-DO-DISCO**}
+{4040}{}{**END-DISK**}
 
 
 # *** Delta Experiment Disk ***
@@ -410,7 +410,7 @@
 {5006}{}{alguns pés de aco. Infelizmente, o poder para fazer tal}
 {5007}{}{tarefa não foi completamente desenvolvido. Nós temos}
 {5008}{}{outros cientistas examinando isto.}
-{5009}{}{**FIM-DO-DISCO**}
+{5009}{}{**END-DISK**}
 
 
 # *** Vree's Experiment Disk ***
@@ -538,7 +538,7 @@
 {6107}{}{alta do vírus, isso leva a razão de que poderia haver}
 {6108}{}{algum lugar o qual esta criando eles. Quanto a onde eles}
 {6109}{}{poderiam estar, eu não posso arriscar um palpite.}
-{6110}{}{**FIM-DO-DISCO**}
+{6110}{}{**END-DISK**}
 
 
 # *** Brotherhood of Steel Honor Code ***
@@ -581,7 +581,7 @@
 {7030}{}{Sempre se lembre dos fogos que nós fomos forjados.}
 {7031}{}{Nunca se esqueça.}
 {7032}{}{O ditado de um tempo anterior, e nosso ditado agora.}
-{7033}{}{**FIM-DO-DISCO**}
+{7033}{}{**END-DISK**}
 
 # *** Mutant disk *** (bug fixed by WG: 8011 was duplicated)
 {8000}{}{Mensagem enviada: Base, este e Time Scavenger 2 come in.}
@@ -616,7 +616,7 @@
 {8024}{}{Mensagem recebida: Entendido. Nós estaremos esperando}
 {8025}{}{seu relatório. Se possível, tente captura-lo. O Mestre}
 {8026}{}{ficaria muito agradecido. Câmbio.}
-{8027}{}{**FIM-DO-DISCO**}
+{8027}{}{**END-DISK**}
 
 
 # *** Military Base Disk***
@@ -732,7 +732,7 @@
 {9097}{}{Eu estou deixando este registro pra tras para ser enterrado quando este}
 {9098}{}{lugar for na próxima troca. Quem sabe? Talvez alguém}
 {9099}{}{achara ele algum dia.....}
-{9100}{}{**FIM-DO-DISCO**}
+{9100}{}{**END-DISK**}
 
 # *** Sophia Disk ***
 {10000}{}{O Éxodo da base amaldicoada foi um tempo de provacões}
@@ -782,7 +782,7 @@
 {10038}{}{**END-PAR**}
 # -
 {10039}{}{Estes homens nunca foram ouvidos de novo.}
-{10040}{}{**FIM-DO-DISCO**}
+{10040}{}{**END-DISK**}
 
 # *** Maxson Disk ***
 {11000}{}{Pelas minhas ordens, como oficial comandante ativo seguindo}
@@ -830,7 +830,7 @@
 # -
 {11035}{}{Captao Maxson}
 {11036}{}{24 de Out de 2077}
-{11037}{}{**FIM-DO-DISCO**}
+{11037}{}{**END-DISK**}
 
 # *** Richard Grey audio diary ***
 {12000}{}{                                                    0000 - 0004}
@@ -963,7 +963,7 @@
 {12113}{}{novo centro de unificacao. Quando nós tivermos chegado nós continuaremos}
 {12114}{}{a crescer e alimentar até que nós tenhamos trazido a paz}
 {12115}{}{e unidade ao mundo inteiro.}
-{12116}{}{**FIM-DO-DISCO**}
+{12116}{}{**END-DISK**}
 
 # *** Captain Maxson's Diary ***
 {13000}{}{• 10 Out, 2077}
@@ -1073,7 +1073,7 @@
 {13094}{}{em Lost Hills. Estou deixando este registro pra tras}
 {13095}{}{pra ser enterrado quando este lugar se for na próxima}
 {13096}{}{troca. Quem sabe? Talvez alguém achara ele algum dia.}
-{13097}{}{**FIM-DO-DISCO**}
+{13097}{}{**END-DISK**}
 
 
 # Computer Download of the FEV project
@@ -1114,7 +1114,7 @@
 {14029}{}{instalacao na instalacao militar Mariposa na Califórnia}
 {14030}{}{central. Nesta nova instalacao,os testes do vírus VEF}
 {14031}{}{continuam em especimes voluntarios dos militares.}
-{14032}{}{**FIM-DO-DISCO**}
+{14032}{}{**END-DISK**}
 
 
 # Computer Downlod of the Power Armor Specs
@@ -1130,7 +1130,7 @@
 {15007}{}{2500 Joules de impacto cinetico. The 10 micron silver}
 {15008}{}{ablative coating pode refletir emissões de laser e ra-}
 {15009}{}{diacao sem dano a sub-superfície do composto.}
-{15010}{}{**FIM-DO-DISCO**}
+{15010}{}{**END-DISK**}
 
 
 # Computer Download of the Personel Records
@@ -1182,7 +1182,7 @@
 {16036}{}{Chefe de Pesquisa do VEF}
 {16037}{}{Security Clearance: Azul}
 {16038}{}{Estacionado: Base Militar Mariposa}
-{16039}{}{**FIM-DO-DISCO**}
+{16039}{}{**END-DISK**}
 
 # Holodisk from the Brotherhood Library
 # uses the global var BROTHERHOOD_LIBRARY_DISK
@@ -1243,7 +1243,7 @@
 {17046}{}{recentemente tiveream muitos Vault Dweller caminhando}
 {17047}{}{away com uma nova found awe dos melhoramentos feitos a}
 {17048}{}{esta já impressionante Vault.}
-{17049}{}{**FIM-DO-DISCO**}
+{17049}{}{**END-DISK**}
 
 #Regulator Disk from Blades
 
@@ -1277,4 +1277,4 @@
 {18027}{}{Mensagem enviada: Sera feito, senhor, Câmbio.}
 {18028}{}{**END-PAR**}
 {18029}{}{Fim da transmissao.}
-{18030}{}{**FIM-DO-DISCO**}
+{18030}{}{**END-DISK**}

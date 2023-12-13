@@ -1,0 +1,67 @@
+
+#
+# Miscellaneous game engine messages.
+#
+# Defined in game.h
+#
+{0}{}{Are you sure you want to quit?}
+{1}{}{Demo version}
+{2}{}{Default character will be used.}
+{3}{}{Saved screenshot.}
+{4}{}{Quick load game successfully loaded.}
+{5}{}{Quick save game successfully saved.}
+{6}{}{Demo time limit exceeded.}
+{7}{}{Pipboy not available in combat!}
+{8}{}{Error saving screenshot.}
+{9}{}{INTRO}
+{10}{}{NEW GAME}
+{11}{}{LOAD GAME}
+{12}{}{CREDITS}
+{13}{}{EXIT}
+{14}{}{Copyright(c) 1997 Interplay Productions. All rights reserved.}
+{15}{}{Action Points}
+{16}{}{Hit Points}
+{17}{}{The motion sensor option is not installed.}
+{18}{}{The motion sensor has no charges remaining.}
+#
+# Game config text. Defined in gconfig.c
+#
+{100}{}{Error saving game config file!}
+{101}{}{Game settings not saved.}
+#
+# Some radiation messages used in critter.c
+#
+{1000}{}{You feel very nauseous.}
+{1001}{}{You feel very nauseous, and after some mild vomiting, slightly fatigued.}
+{1002}{}{You are very fatigued, the vomiting does not stop, and your recovery time is impaired.}
+{1003}{}{You are hemorrhaging violently. You are very sick, and your hair is falling out.}
+{1004}{}{You are hemorrhaging violently and continuously. The vomitus is stained red from your blood. Your skin is falling off of your bones.}
+{1005}{}{There is bleeding from your intestines and you have severe diarrhea. You feel bloated and are in intense agony.}
+{1006}{}{You have died from radiation sickness.}
+{1007}{}{You have received a large dose of radiation.}
+{1008}{}{The geiger counter is clicking.}
+{1009}{}{The geiger counter is clicking wildly.}
+#
+# Message used in actions.c
+#
+{2000}{}{You cannot get there.}
+{2001}{}{The lock is jammed.}
+#
+# poison messages from critter.c
+#
+{3000}{}{You have been poisoned!}
+{3001}{}{You take damage from poison.}
+#
+# from queue.c
+#
+{4000}{}{Due to your inept handling, the explosive detonates prematurely.}
+#
+# from combatai.c
+#
+{5000}{}{uses}
+{5001}{}{is out of ammo for the}
+{5002}{}{reloads the}
+#
+# from gdialog.c - new tell me about stuff
+#
+{6000}{}{Ask about what?}

@@ -175,7 +175,7 @@
 {269}{}{certeza}
 {270}{}{Nope.}
 {271}{}{O que? É as caravanas desaparecidas?}
-(272){}{O que melhor maneira de encontrar os ladrões do que se juntar a uma caravana?}
+{272}{}{O que melhor maneira de encontrar os ladrões do que se juntar a uma caravana?}
 {273}{}{Eu vou ficar de olho, mas preciso de alguns scripts.}
 {274}{}{Nevermind.}
 {275}{}{Certo, mas deixe-me saber se você mudar de ideia. Na maioria das vezes, é dinheiro fácil.}

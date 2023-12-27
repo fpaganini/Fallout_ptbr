@@ -21,9 +21,9 @@
 {110}{}{KARMA}
 {111}{}{MORTES}
 {112}{}{PTS DE TECNICA}
-{113}{}{Nivel:}
+{113}{}{Nível:}
 {114}{}{Exp:}
-{115}{}{Prox. Nivel:}
+{115}{}{Prox. Nível:}
 {116}{}{PTS DO PERS.}
 {117}{}{TECNICAS}
 {118}{}{Você deve usar todos os pontos de personagem} # 1
@@ -31,7 +31,7 @@
 #
 {120}{}{Pontos do Personagem}
 {121}{}{Quantia de pontos do personagem livres que podem ser adicionados a uma das estat. basicas.}
-{122}{}{Proximo Nivel}
+{122}{}{Proximo Nível}
 {123}{}{A quantia de pontos de experiência necessarios pra promover pro próximo nível.}
 {124}{}{Beneficios}
 {125}{}{Karma}
@@ -80,7 +80,7 @@
 {201}{}{Ruim}    # Bad
 {202}{}{Pobre}   # Poor
 {203}{}{Justo}   # Fair
-{204}{}{Medio}   # Average
+{204}{}{Médio}   # Average
 {205}{}{Bom}   # Good
 {206}{}{M.Bom} # Very Good
 {207}{}{Ótimo}  # Great
@@ -90,14 +90,14 @@
 #
 # Abbreviated Derived/Non Derived stat names
 #
-{300}{}{Pts Dano}
-{301}{}{Pts de Açao }
+{300}{}{Pts de Vida}
+{301}{}{Pts de Ação }
 {302}{}{Classe de Arm.}
 {303}{}{Desarmado}
 {304}{}{Corpo-a-Corpo}
 {305}{}{Res ao Dano }
 {306}{}{Res a Veneno   }
-{307}{}{Res a Radiaçao}
+{307}{}{Res a Radiação}
 {308}{}{Sequencia}
 {309}{}{Taxa de Cura}
 {310}{}{Chance Critica}
@@ -116,9 +116,9 @@
 # Poisoned
 {400}{}{Seu/Sua personagem foi envenenado. O veneno fara dano por um periodo de tempo até que seja curado ou ele passe do seu sistema.}
 # Radiation
-{401}{}{Seu/Sua personagem esta sofrendo de uma quantia significante de envenenamento por radiaçao. Maior o dano por radiaçao, mais mortal o efeito.}
+{401}{}{Seu/Sua personagem esta sofrendo de uma quantia significante de envenenamento por radiação. Maior o dano por radiação, mais mortal o efeito.}
 # Eye Damage
-{402}{}{Isto significa que seu/sua personagem foi seriamente atingido em um ou ambos dos seus olhos. Isto afeta sua Percepçao.}
+{402}{}{Isto significa que seu/sua personagem foi seriamente atingido em um ou ambos dos seus olhos. Isto afeta sua Percepção.}
 # Crippled right arm
 {403}{}{O braço dir foi severamente ferido e não consegue funcionar bem. Se um braço foi incapacitado, você não pode usar armas de duas mãos. Se ambos os braços foram incapacitados, você não consegue atacar com armas.}
 # Crippled left arm
@@ -169,29 +169,29 @@
 # ASCII text file printing text
 #
 {620}{}{FALLOUT}                   # Title line 1
-{621}{}{REGISTRO DO PESSOAL DA VAULT-13} # Title line 2
+{621}{}{REGISTRO DO PESSOAL DO VAULT-13} # Title line 2
 {622}{}{horas} # Title line 3
 # -
 # -
 #{000}{}{      Força: 00        Pts de Dano: 000/000          Sequencia: 00}
-#{000}{}{  Percepçao: 00     Classe de Arm.: 000           Taxa de Cura: 00}
-#{000}{}{Resistência: 00        Pts de Açao: 000         Chance Critico: 000%}
+#{000}{}{  Percepção: 00     Classe de Arm.: 000           Taxa de Cura: 00}
+#{000}{}{Resistência: 00        Pts de Ação: 000         Chance Critico: 000%}
 #{000}{}{    Carisma: 00 Dano Corpo-a-Corpo: 000          Carregar Peso: 000 lbs.}
 #{000}{}{Inteligencia: 00       Res ao Dano: 000%}
-#{000}{}{  Agilidade: 00     Res a Radiaçao: 000%}
+#{000}{}{  Agilidade: 00     Res a Radiação: 000%}
 #{000}{}{      Sorte: 00       Res a Veneno: 000%}
 #
-{623}{}{ ::: Estatisticas :::}
+{623}{}{ ::: Estatísticas :::}
 {624}{}{       Força:}
 {625}{}{        Pts de Dano:}
 {626}{}{        Sequencia:}
 # -
-{627}{}{     Percepçao:}
+{627}{}{     Percepção:}
 {628}{}{       Classe de Arm.:}
 {629}{}{        Taxa de Cura:}
 # -
 {630}{}{      Resistência:}
-{631}{}{     Pts de Açao:}
+{631}{}{     Pts de Ação:}
 {632}{}{      Chance Critico:}
 # -
 {633}{}{       Carisma:}
@@ -202,25 +202,25 @@
 {637}{}{       Res ao Dano:}
 # -
 {638}{}{        Agilidade:}
-{639}{}{    Res a Radiaçao:}
+{639}{}{    Res a Radiação:}
 # -
 {640}{}{           Sorte:}
 {641}{}{       Res a Veneno:}
 # -
 # -
-#{000}{}{ Nome: 01234567890        Idade: 00         Genero: Mulher}
+#{000}{}{ Nome: 01234567890        Idade: 00         Gênero: Mulher}
 {642}{}{  Nome:}
 {643}{}{Idade:}
-{644}{}{               Genero:}
+{644}{}{               Gênero:}
 {645}{}{Homem}
 {646}{}{Mulher}
 #-
-#{000}{}{ Nivel: 00                 Exp: 000,000    Prox. Nivel: 000,000}
-{647}{}{ Nivel:}
+#{000}{}{ Nível: 00                 Exp: 000,000    Prox. Nível: 000,000}
+{647}{}{ Nível:}
 {648}{}{                Exp:}
-{649}{}{Prox. Nivel:}
+{649}{}{Prox. Nível:}
 #-
-{650}{}{ ::: Traços :::           ::: Beneficios :::           ::: Karma :::}
+{650}{}{ ::: Traços :::           ::: Benefícios :::           ::: Karma :::}
 #-
 {651}{}{ ::: Tecnicas :::                ::: Mortes :::}
 #-
@@ -231,43 +231,43 @@
 #
 # Karma name strings
 #
-{1000}{}{Reputaçao (Geral) }
-{1001}{}{Frenetico}
-{1002}{}{Campeao}
+{1000}{}{Reputaço (Geral) }
+{1001}{}{Frenético}
+{1002}{}{Campeão}
 {1003}{}{Assassino de Crianças}
 {1004}{}{Vicio em Nuka Cola}
 {1005}{}{Vicio em Buffout}
 {1006}{}{Vicio em Mentats}
 {1007}{}{Vicio em Psycho}
 {1008}{}{Vicio em RadAway}
-{1009}{}{Vicio em Alcool}
+{1009}{}{Vicio em Álcool}
 #
 # Karma description strings
 #
-{1100}{}{Esta é uma estat. que representa sua reputaçao geral. Mais alto o número, melhor conhecido e respeitado você é. Se sua rep. e negativa, você e odiado por alguns por suas açoes mas.}
-{1101}{}{Você matou um grande número de pessoas. Isto não é geralmente uma coisa boa para ficar conhecido. Pessoas do lado errado da trilha contudo gostarao um pouco mais de você.}
-{1102}{}{Suas açoes revelaram que você ser um campeao das pessoas. Sua guerra contra o mal e vilania e amplamente conhecida. Pessoas honraveis respeitarao mais você.}
-{1103}{}{Você matou crianças, a juventude da terra devastada. Isto e considerado ser uma coisa realmente ruim. Sua pessoa ma, ma.}
-{1104}{}{Você aprecia totalmente a Nuka-Cola, o pop do mundo pos-nuclear.}
-{1105}{}{Você esta viciado no chem Buffout. Você deve tomar este chem numa base diaria ou sofrer os efeitos da retirada.}
+{1100}{}{Esta é uma estat. que representa sua reputação geral. Mais alto o número, melhor conhecido e respeitado você é. Se sua rep. é negativa, você é odiado por alguns por suas ações mas.}
+{1101}{}{Você matou um grande número de pessoas. Isto não é geralmente uma coisa boa para ficar conhecido. Pessoas do lado errado da trilha contudo gostarão um pouco mais de você.}
+{1102}{}{Suas ações revelaram que você ser um campeão das pessoas. Sua guerra contra o mal e vilania é amplamente conhecida. Pessoas honráveis respeitarão mais você.}
+{1103}{}{Você matou crianças, a juventude da terra devastada. Isto é considerado ser uma coisa realmente ruim. Sua pessoa má, má.}
+{1104}{}{Você aprecia totalmente a Nuka-Cola, o pop do mundo pós-nuclear.}
+{1105}{}{Você está viciado no chem Buffout. Você deve tomar este chem numa base diária ou sofrer os efeitos da retirada.}
 {1106}{}{Você esta sofrendo do vicio em Mentats. Você deve tomar este chem particular ou sofrer com a retirada.}
-{1107}{}{Você tem um vicio em chems. Se você não tomar Psycho numa agenda regular, você sofrera, Se você o fizer, outros sofrerao.}
+{1107}{}{Você tem um vicio em chems. Se você não tomar Psycho numa agenda regular, você sofrerá, Se você o fizer, outros sofrerão.}
 {1108}{}{Seu corpo se tornou viciado em Radaway. Enquanto não ameaça a vida, você deve toma-lo regularmente.}
-{1109}{}{Você tem um problema com alcool. Realmente, você tem muitos problemas com o seu habito de beber.}
-{1110}{}{TEMPORARIO - O que é isto?}
+{1109}{}{Você tem um problema com álcool. Realmente, você tem muitos problemas com o seu hábito de beber.}
+{1110}{}{TEMPORÁRIO - O que é isto?}
 
 
 #
 # Special Demo version only text
 #
 {5000}{}{Lamento, você só pode imprimir seu/sua}   # 1
-{5001}{}{personagem na versao completa.}   # 2
+{5001}{}{personagem na versão completa.}   # 2
 {5002}{}{Lamento, você só pode salvar seu/sua}    # 1
-{5003}{}{personagem na versao completa.}   # 2
+{5003}{}{personagem na versão completa.}   # 2
 {5004}{}{Lamento, você só pode carregar um} # 1
-{5005}{}{personagem salva na versao completa.}   # 2
-{5006}{}{MODO TRAPACA}
-{5007}{}{Não disponivel no demo.}
+{5005}{}{personagem salva na versão completa.}   # 2
+{5006}{}{MODO TRAPAÇA}
+{5007}{}{Não disponível no demo.}
 
 
 

@@ -16,7 +16,7 @@
 {109}{}{Gazua}
 {110}{}{Roubar}
 {111}{}{Armadilhas}
-{112}{}{Ciencia}
+{112}{}{Ciência}
 {113}{}{Reparo}
 {114}{}{Discurso}
 {115}{}{Negociação}
@@ -31,14 +31,14 @@
 {203}{}{Uma combinação de artes marciais, boxe e outras artes marciais corpo a corpo. Combate com suas mãos e pés.}
 {204}{}{Usar armas sem alcance em combate corpo a corpo. Facas, marretas, lanças, clavas e assim por diante.}
 {205}{}{A técnica de armas de alcance impelidas pelos músculos. Facas de arremesso, lanças e granadas.}
-{206}{}{Tecnica de cura em geral. Usada pra curar pequenos cortes, abrasões e outras pequenas aflições. Em termos do jogo, o uso de primeiros socorros pode curar mais pontos de dano com o tempo do que apenas descansar.}
+{206}{}{Técnica de cura em geral. Usada pra curar pequenos cortes, abrasões e outras pequenas aflições. Em termos do jogo, o uso de primeiros socorros pode curar mais pontos de dano com o tempo do que apenas descansar.}
 {207}{}{A cura de feridas maiores e membros incapacitados. Sem esta técnica, levara um período muito maior de tempo para restaurar os membros incapacitados para o uso.}
 {208}{}{Movimentação discreta é a habilidade de permanecer não notado. Se bem sucedido, será muito mais difícil de localizarem você. Você não pode correr e andar furtivamente ao mesmo tempo.}
-{209}{}{A técnica de abrir trancas sem a chave apropriada. O uso de gazuas ou gazuas eletronicas elevara drasticamente esta técnica.}
+{209}{}{A técnica de abrir trancas sem a chave apropriada. O uso de gazuas ou gazuas eletrônicas elevara drasticamente esta técnica.}
 {210}{}{A habilidade de fazer das coisas dos outros, as suas próprias. Pode ser usada para roubar de pessoas ou lugares.}
 {211}{}{A descoberta e remoção de armadilhas. Também a configuração de explosivos para propósito de demolição.}
 {212}{}{Cobre uma variedade de técnicas de alta tecnologia, tais como computadores, biologia, física e geologia.}
-{213}{}{A aplicação pratica da técnica da Ciencia. O conserto de equipamento quebrado, maquinaria e eletronicos.}
+{213}{}{A aplicação pratica da técnica da Ciência. O conserto de equipamento quebrado, maquinaria e eletrônicos.}
 {214}{}{A habilidade para se comunicar de uma maneira pratica e eficiente. A técnica de convencer os outros que o seu ponto de vista é a correta. A habilidade de mentir e não ser pego.}
 {215}{}{Comercio e tarefas relacionadas a negociar. A habilidade de obter os melhores preços para os itens que você vende e menores preços para os itens que você compra.}
 {216}{}{As técnicas de conhecimento e pratica relacionadas as apostas. A técnica em cartas, dados e outros jogos.}
@@ -97,4 +97,4 @@
 {573}{}{Você planta a %s.}
 {590}{}{Você sobrecarregou sua habilidade com essa técnica.  Espere um pouco.}
 {591}{}{Você esta muito cansado.}
-{592}{}{O esforco poderia matar você.}
+{592}{}{O esforço poderia matar você.}

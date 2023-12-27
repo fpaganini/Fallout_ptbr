@@ -36,7 +36,7 @@
 {202}{}{Elevador}
 {203}{}{Fim da Escada}
 {204}{}{Topo da Escada}
-{205}{}{Cenario Generico}
+{205}{}{Cenário Genérico}
 
 #
 # Damage Code Types
@@ -45,18 +45,18 @@
 {251}{}{laser}
 {252}{}{fogo}
 {253}{}{plasma}
-{254}{}{eletrico}
+{254}{}{elétrico}
 {255}{}{pem}
-{256}{}{explosao}
+{256}{}{explosão}
 
 #
 # Caliber Types for weapons
 #
 {300}{}{Nenhum}
 {301}{}{Foguete}
-{302}{}{Combustivel do Lança-Chamas}
-{303}{}{Celula de Energia C}
-{304}{}{Celula de Energia D}
+{302}{}{Combustível do Lança-Chamas}
+{303}{}{Célula de Energia C}
+{304}{}{Célula de Energia D}
 {305}{}{.223}
 {306}{}{5 mm}
 {307}{}{calibre .40}
@@ -76,9 +76,9 @@
 #
 # Body Types
 #
-{400}{}{Bipede}
+{400}{}{Bípede}
 {401}{}{Quadrupede}
-{402}{}{Robotico}
+{402}{}{Robótico}
 #
 # Kill Types names
 #
@@ -93,7 +93,7 @@
 {458}{}{Flutuadores}
 {459}{}{Centauros}
 {460}{}{Robos}
-{461}{}{Caes}
+{461}{}{Cães}
 {462}{}{Manti}
 {463}{}{DeathClaws}
 {464}{}{Mestre}       # Not displayed!
@@ -106,13 +106,13 @@
 {468}{}{O numero de Super Mutantes que você assassinou durante o curso das suas aventuras.}
 {469}{}{Esta linha mostra o numero de homens e mulheres ghouls mutantes que você matou durante o curso das suas aventuras.}
 {470}{}{Esta linha mostra o numero de Brahmin (vacas transformadas) que você cortou durante suas viagens.}
-{471}{}{O numero de Radscorpions transformados que você pos para a morte durante sua aventura.}
-{472}{}{O numero de ratos que você matou. Inclui todos os membros da familia do rato.}
-{473}{}{Este e o numero de Flutuadores mutantes que você pos para a morte.}
+{471}{}{O numero de Radscorpions transformados que você pôs para a morte durante sua aventura.}
+{472}{}{O numero de ratos que você matou. Inclui todos os membros da família do rato.}
+{473}{}{Este é o numero de Flutuadores mutantes que você pôs para a morte.}
 {474}{}{Sua contagem de Centauros mutantes mortos.}
-{475}{}{Este e o numero de robos que você destruiu ou desmantelou.}
-{476}{}{O numero total de caes que você mandou para o grande canil no ceu.}
-{477}{}{Esta linha mostra o numero total de Mantis mortos, ou de grandes insetos transformados como o louva-deus, que você esmagou até agora.}
+{475}{}{Este é o numero de robôs que você destruiu ou desmantelou.}
+{476}{}{O numero total de cães que você mandou para o grande canil no céu.}
+{477}{}{Esta linha mostra o número total de Mantis mortos, ou de grandes insetos transformados como o louva-deus, que você esmagou até agora.}
 {478}{}{Esta linha mostra que você assassinou o Deathclaw e quaisquer dos suas crias.}
 {479}{}{Não Exibido.   Erro!}
 
@@ -186,7 +186,7 @@
 {580}{}{Você usa o %s.}
 {581}{}{Você usa o %s no %s.}
 {582}{}{Isso não faz nada.}
-{583}{}{Para sua consternacao, você percebe que já esta morto.}
+{583}{}{Para sua consternação, você percebe que já esta morto.}
 {584}{}{Apos você chegar lá embaixo, você percebe que já esta morto.}
 {585}{}{Ai de você, você chegou tarde demais.} # This is relating to a critter being dead.
 {586}{}{Isso não funcionara no morto.}
@@ -204,7 +204,7 @@
 {623}{}{Por assassinar seus oponentes, }
 {624}{}{Você foi vitorioso em combate, }
 {625}{}{Por esmagar seus inimigos, }
-{626}{}{Por destruir seus inimigos sem levar um arranhao, }
+{626}{}{Por destruir seus inimigos sem levar um arranhão, }
 
 #
 # Dialog messages
@@ -229,10 +229,10 @@
 {800}{}{Você le o livro.}
 {801}{}{Você não aprende nada novo.}
 {802}{}{Você aprende nova informação sobre a ciência.}
-{803}{}{Você aprende muito sobre reparar eletronicos quebrados.}
+{803}{}{Você aprende muito sobre reparar eletrônicos quebrados.}
 {804}{}{Você aprende novos modos de curar ferimentos.}
 {805}{}{Você aprende como manejar suas armas melhor.}
-{806}{}{Você aprende muito sobre sobrevivencia nas regioes despovoadas.}
+{806}{}{Você aprende muito sobre sobrevivência nas regiões despovoadas.}
 #
 # Use on messages (and some extra stuff that Jesse needed)
 #
@@ -241,4 +241,4 @@
 {902}{}{Você não pode fazer isso em combate.}
 {903}{}{Esta pessoa não permutara com você.}
 {904}{}{Esta pessoa não tem nada a dizer pra você.}
-{905}{}{Você não pode pegar esse item. Você esta na sua capacidade maxima de peso.}
+{905}{}{Você não pode pegar esse item. Você esta na sua capacidade máxima de peso.}

@@ -361,6 +361,7 @@ Max o Cachorro
 
 @TRADUCAO PARA PORTUGUES DO BRASIL
 Fabio Paganini
+Alessandro Rodrigues
 
 @AVISO: É uma violacao da Lei de Copyright Federal
 @copiar, duplicar ou reproduzir este Programa ou quaisquer

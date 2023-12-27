@@ -38,17 +38,17 @@
 {3600}{}{Fim da Parede de Aço}
 {3700}{}{Fim da Parede de Aço}
 {3800}{}{Fim da Parede de Aço}
-{3900}{}{Vao da Porta}
-{4000}{}{Vao da Porta}
-{4100}{}{Vao da Porta}
-{4200}{}{Vao da Porta}
-{4300}{}{Vao da Porta}
-{4400}{}{Vao da Porta}
-{4500}{}{Vao da Porta}
-{4600}{}{Vao da Porta}
-{4700}{}{Vao da Porta}
-{4800}{}{Vao da Porta}
-{4900}{}{Vao da Porta}
+{3900}{}{Vão da Porta}
+{4000}{}{Vão da Porta}
+{4100}{}{Vão da Porta}
+{4200}{}{Vão da Porta}
+{4300}{}{Vão da Porta}
+{4400}{}{Vão da Porta}
+{4500}{}{Vão da Porta}
+{4600}{}{Vão da Porta}
+{4700}{}{Vão da Porta}
+{4800}{}{Vão da Porta}
+{4900}{}{Vão da Porta}
 {5000}{}{Parede}
 {5100}{}{Parede}
 {5200}{}{Parede}
@@ -106,10 +106,10 @@
 {10100}{}{Parede de Lata}
 {10200}{}{Parede de Madeira}
 {10300}{}{Parede de Madeira}
-{10400}{}{Vao da Porta de Lata}
-{10500}{}{Vao da Porta de Lata}
-{10600}{}{Vao da Porta de Lata}
-{10700}{}{Vao da Porta de Lata}
+{10400}{}{Vão da Porta de Lata}
+{10500}{}{Vão da Porta de Lata}
+{10600}{}{Vão da Porta de Lata}
+{10700}{}{Vão da Porta de Lata}
 {10800}{}{Parede de Aço}
 {10900}{}{Parede de Aço}
 {11000}{}{Parede de Madeira}
@@ -133,8 +133,8 @@
 {12800}{}{Parede de Madeira}
 {12900}{}{Parede de Madeira}
 {13000}{}{Parede de Madeira}
-{13100}{}{Vao da Porta de Madeira}
-{13200}{}{Vao da Porta de Madeira}
+{13100}{}{Vão da Porta de Madeira}
+{13200}{}{Vão da Porta de Madeira}
 {13300}{}{Parede de Lata}
 {13400}{}{Parede de Lata}
 {13500}{}{Parede}
@@ -158,8 +158,8 @@
 {15300}{}{Parede de Lata}
 {15400}{}{Parede de Lata}
 {15500}{}{Parede de Pedra}
-{15600}{}{Vao da Porta de Pedra}
-{15700}{}{Vao da Porta de Pedra}
+{15600}{}{Vão da Porta de Pedra}
+{15700}{}{Vão da Porta de Pedra}
 {15800}{}{Parede de Pedra}
 {15900}{}{Parede de Pedra}
 {16000}{}{Parede de Pedra}
@@ -564,8 +564,8 @@
 {55900}{}{Parede}
 {56000}{}{Parede}
 {56100}{}{Parede}
-{56200}{}{Vao da Porta}
-{56300}{}{Vao da Porta}
+{56200}{}{Vão da Porta}
+{56300}{}{Vão da Porta}
 {56400}{}{Janela}
 {56500}{}{Parede}
 {56600}{}{Parede}
@@ -582,10 +582,10 @@
 {57700}{}{Parede}
 {57800}{}{Parede}
 {57900}{}{Parede}
-{58000}{}{Vao da Porta}
+{58000}{}{Vão da Porta}
 {58100}{}{Parede}
-{58200}{}{Vao da Porta}
-{58300}{}{Vao da Porta}
+{58200}{}{Vão da Porta}
+{58300}{}{Vão da Porta}
 {58400}{}{Janela}
 {58500}{}{Parede}
 {58600}{}{Parede}
@@ -662,10 +662,10 @@
 {65700}{}{Parede}
 {65800}{}{Parede}
 {65900}{}{Parede}
-{66000}{}{Vao da Porta}
-{66100}{}{Vao da Porta}
-{66200}{}{Vao da Porta}
-{66300}{}{Vao da Porta}
+{66000}{}{Vão da Porta}
+{66100}{}{Vão da Porta}
+{66200}{}{Vão da Porta}
+{66300}{}{Vão da Porta}
 {66400}{}{Janela}
 {66500}{}{Janela}
 {66600}{}{Parede}
@@ -703,16 +703,16 @@
 {69800}{}{Parede}
 {69900}{}{Parede}
 {70000}{}{Parede}
-{70100}{}{Vao da Porta}
+{70100}{}{Vão da Porta}
 {70200}{}{Parede}
-{70300}{}{Vao da Porta}
-{70400}{}{Vao da Porta}
-{70500}{}{Vao da Porta}
+{70300}{}{Vão da Porta}
+{70400}{}{Vão da Porta}
+{70500}{}{Vão da Porta}
 {70600}{}{Parede}
-{70700}{}{Vao da Porta}
-{70800}{}{Vao da Porta}
-{70900}{}{Vao da Porta}
-{71000}{}{Vao da Porta}
+{70700}{}{Vão da Porta}
+{70800}{}{Vão da Porta}
+{70900}{}{Vão da Porta}
+{71000}{}{Vão da Porta}
 {71100}{}{Parede}
 {71200}{}{Parede}
 {71300}{}{Parede}
@@ -744,12 +744,12 @@
 {73900}{}{Parede}
 {74000}{}{Parede}
 {74100}{}{Parede}
-{74200}{}{Vao da Porta}
-{74300}{}{Vao da Porta}
-{74400}{}{Vao da Porta}
-{74500}{}{Vao da Porta}
+{74200}{}{Vão da Porta}
+{74300}{}{Vão da Porta}
+{74400}{}{Vão da Porta}
+{74500}{}{Vão da Porta}
 {74600}{}{Parede}
-{74700}{}{Vao da Porta}
+{74700}{}{Vão da Porta}
 {74800}{}{Parede}
 {74900}{}{Parede}
 {75000}{}{Parede}
@@ -792,16 +792,16 @@
 {78700}{}{Parede}
 {78800}{}{Parede}
 {78900}{}{Parede}
-{79000}{}{Vao da Porta}
-{79100}{}{Vao da Porta}
-{79200}{}{Vao da Porta}
-{79300}{}{Vao da Porta}
-{79400}{}{Vao da Porta}
-{79500}{}{Vao da Porta}
-{79600}{}{Vao da Porta}
-{79700}{}{Vao da Porta}
-{79800}{}{Vao da Porta}
-{79900}{}{Vao da Porta}
+{79000}{}{Vão da Porta}
+{79100}{}{Vão da Porta}
+{79200}{}{Vão da Porta}
+{79300}{}{Vão da Porta}
+{79400}{}{Vão da Porta}
+{79500}{}{Vão da Porta}
+{79600}{}{Vão da Porta}
+{79700}{}{Vão da Porta}
+{79800}{}{Vão da Porta}
+{79900}{}{Vão da Porta}
 {80000}{}{Cerca}
 {80100}{}{Cerca}
 {80200}{}{Cerca}
@@ -847,23 +847,23 @@
 {84200}{}{Janela}
 {84300}{}{Parede}
 {84400}{}{Pilar}
-{84500}{}{Vao da Porta}
-{84600}{}{Vao da Porta}
+{84500}{}{Vão da Porta}
+{84600}{}{Vão da Porta}
 {84700}{}{Parede}
 {84800}{}{Parede}
 {84900}{}{Parede}
 {85000}{}{Parede}
 {85100}{}{Parede}
-{85200}{}{Vao da Porta}
-{85300}{}{Vao da Porta}
-{85400}{}{Vao da Porta}
-{85500}{}{Vao da Porta}
+{85200}{}{Vão da Porta}
+{85300}{}{Vão da Porta}
+{85400}{}{Vão da Porta}
+{85500}{}{Vão da Porta}
 {85600}{}{Parede}
 {85700}{}{Parede}
 {85800}{}{Parede}
 {85900}{}{Parede}
-{86000}{}{Vao da Porta}
-{86100}{}{Vao da Porta}
+{86000}{}{Vão da Porta}
+{86100}{}{Vão da Porta}
 {86200}{}{Parede}
 {86300}{}{Parede}
 {86400}{}{Parede}
@@ -871,12 +871,12 @@
 {86600}{}{Parede}
 {86700}{}{Parede}
 {86800}{}{Parede}
-{86900}{}{Vao da Porta}
-{87000}{}{Vao da Porta}
+{86900}{}{Vão da Porta}
+{87000}{}{Vão da Porta}
 {87100}{}{Parede}
 {87200}{}{Parede}
-{87300}{}{Vao da Porta}
-{87400}{}{Vao da Porta}
+{87300}{}{Vão da Porta}
+{87400}{}{Vão da Porta}
 {87500}{}{Parede}
 {87600}{}{Parede}
 {87700}{}{Parede}
@@ -1022,11 +1022,11 @@
 {101500}{}{Parede}
 {101600}{}{Parede}
 {101700}{}{Parede}
-{101800}{}{Vao da Porta}
+{101800}{}{Vão da Porta}
 {101900}{}{Parede}
-{102000}{}{Vao da Porta}
-{102100}{}{Vao da Porta}
-{102200}{}{Vao da Porta}
+{102000}{}{Vão da Porta}
+{102100}{}{Vão da Porta}
+{102200}{}{Vão da Porta}
 {102300}{}{Parede}
 {102400}{}{Parede}
 {102500}{}{Parede}
@@ -1037,12 +1037,12 @@
 {103000}{}{Parede}
 {103100}{}{Parede}
 {103200}{}{Parede}
-{103300}{}{Vao da Porta}
-{103400}{}{Vao da Porta}
-{103500}{}{Vao da Porta}
-{103600}{}{Vao da Porta}
-{103700}{}{Vao da Porta}
-{103800}{}{Vao da Porta}
+{103300}{}{Vão da Porta}
+{103400}{}{Vão da Porta}
+{103500}{}{Vão da Porta}
+{103600}{}{Vão da Porta}
+{103700}{}{Vão da Porta}
+{103800}{}{Vão da Porta}
 {103900}{}{Parede}
 {104000}{}{Parede}
 {104100}{}{Parede}
@@ -1066,8 +1066,8 @@
 {105900}{}{Parede}
 {106000}{}{Parede}
 {106100}{}{Parede}
-{106200}{}{Vao da Porta}
-{106300}{}{Vao da Porta}
+{106200}{}{Vão da Porta}
+{106300}{}{Vão da Porta}
 {106400}{}{Parede}
 {106500}{}{Parede}
 {106600}{}{Parede}
@@ -1131,14 +1131,14 @@
 {112400}{}{Parede}
 {112500}{}{Parede}
 {112600}{}{Parede}
-{112700}{}{Vao da Porta}
+{112700}{}{Vão da Porta}
 {112800}{}{Parede}
 {112900}{}{Parede}
-{113000}{}{Vao da Porta}
+{113000}{}{Vão da Porta}
 {113100}{}{Parede}
-{113200}{}{Vao da Porta}
-{113300}{}{Vao da Porta}
-{113400}{}{Vao da Porta}
+{113200}{}{Vão da Porta}
+{113300}{}{Vão da Porta}
+{113400}{}{Vão da Porta}
 {113500}{}{Emissor de Campo de Força}
 {113600}{}{Emissor de Campo de Força}
 {113700}{}{Emissor de Campo de Força}
@@ -1185,6 +1185,6 @@
 {117100}{}{Parede}
 {117200}{}{Parede}
 {117300}{}{Parede}
-{117400}{}{Vao da Porta}
-{117500}{}{Vao da Porta}
-{117600}{}{Vao da Porta}
+{117400}{}{Vão da Porta}
+{117500}{}{Vão da Porta}
+{117600}{}{Vão da Porta}

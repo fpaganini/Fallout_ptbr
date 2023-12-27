@@ -19,7 +19,7 @@
 {1002}{}{Recuar!}
 {1003}{}{Recuar!}
 {1004}{}{Eu não vou morrer por isto!}
-{1005}{}{Isso e o bastante pra mim}
+{1005}{}{Isso é o bastante pra mim}
 #
 # moving in to attack
 #
@@ -38,15 +38,15 @@
 {1015}{}{}
 {1016}{}{}
 {1017}{}{Você vai morrer}
-{1018}{}{Vamos ver quao forte você é...}
-{1019}{}{Miseravel}
+{1018}{}{Vamos ver quão forte você é...}
+{1019}{}{Miserável}
 {1020}{}{Ataque!}
 {1021}{}{}
 #
 # target being missed
 #
 {1022}{}{}
-{1023}{}{Eu estive fazendo isto por anos, miseravel}
+{1023}{}{Eu estive fazendo isto por anos, miserável}
 {1024}{}{Você não é bom/boa o bastante}
 {1025}{}{Esse foi seu ultimo erro}
 {1026}{}{Amador}
@@ -61,13 +61,13 @@
 # target hit in left arm
 #
 {1031}{}{Ai, meu braço}
-{1032}{}{Maldicao, meu braço esta destruido!}
+{1032}{}{Maldição, meu braço esta destruido!}
 {1033}{}{Meu braço!}
 #
 # target hit in right arm
 #
 {1034}{}{Ai, meu braço}
-{1035}{}{Maldicao, meu braço esta destruido!}
+{1035}{}{Maldição, meu braço esta destruido!}
 {1036}{}{Meu braço!}
 #
 # target hit in torso
@@ -109,7 +109,7 @@
 #
 #  running away
 #
-{1100}{}{Reforcos!}
+{1100}{}{Reforços!}
 {1101}{}{}
 {1102}{}{Medico!}
 {1103}{}{Recuar! Recuar!}
@@ -143,7 +143,7 @@
 {1122}{}{}
 {1123}{}{Isso e o melhor que você pode fazer?}
 {1124}{}{Vamos perdedor. Me de uma luta!}
-{1125}{}{Tente mirar da proxima vez}
+{1125}{}{Tente mirar da próxima vez}
 {1126}{}{Civil}
 {1127}{}{}
 #
@@ -206,7 +206,7 @@
 {1200}{}{Tenho que sair daqui!}
 {1201}{}{Eu voltarei...}
 {1202}{}{Você não vai me matar hoje!}
-{1203}{}{Mais tarde miseravel!}
+{1203}{}{Mais tarde miserável!}
 {1204}{}{Você não me viu pela ultima vez!}
 {1205}{}{Você pagara por isto - mais tarde!}
 #
@@ -214,8 +214,8 @@
 #
 {1206}{}{Você e historia!}
 {1207}{}{Carne fresca...}
-{1208}{}{Eu vou dancar no seu tumulo}
-{1209}{}{Atencao Todo Mundo! É pratica de tiro ao alvo!}
+{1208}{}{Eu vou dançar no seu tumulo}
+{1209}{}{Atenção Todo Mundo! É pratica de tiro ao alvo!}
 {1210}{}{}
 {1211}{}{Eu vou apreciar isto...}
 #
@@ -227,18 +227,18 @@
 {1215}{}{}
 {1216}{}{Vou alimentar os cachorros com você}
 {1217}{}{Não deveria começar o que você não pode terminar}
-{1218}{}{Espero que você não morra muito rapido}
-{1219}{}{So um de nos esta saindo fora}
+{1218}{}{Espero que você não morra muito rápido}
+{1219}{}{Só um de nos está saindo fora}
 {1220}{}{Morra!}
-{1221}{}{Eu como miseraveis como você no cafe da manha}
-{1222}{}{Eu vou alimentar minha iguana de estimacao com você}
+{1221}{}{Eu como miseraveis como você no café da manhã}
+{1222}{}{Eu vou alimentar minha iguana de estimação com você}
 {1223}{}{A ultima coisa que você verá é minha face com um sorriso largo}
-{1224}{}{Este e meu trabalho favorito}
+{1224}{}{Este é meu trabalho favorito}
 #
 # target being missed (6)
 #
 {1225}{}{Você é uma piada}
-{1226}{}{Isso e o melhor que você pode fazer?}
+{1226}{}{Isso é o melhor que você pode fazer?}
 {1227}{}{}
 {1228}{}{}
 {1229}{}{Muito lento!}

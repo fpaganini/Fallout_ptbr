@@ -4,7 +4,7 @@
 #
 # Defined in game.h
 #
-{0}{}{Você tem certeza que quer sair?}
+{0}{}{Você tem certeza que deseja sair?}
 {1}{}{Versão de demonstração}
 {2}{}{Personagem padrão será usado.}
 {3}{}{Captura de tela salva.}

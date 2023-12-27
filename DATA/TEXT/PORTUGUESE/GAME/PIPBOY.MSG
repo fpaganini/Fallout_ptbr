@@ -16,7 +16,7 @@
 {103}{}{Feliz Dia da Navegação!}      # Shipping day!
 {104}{}{Feliz Dia da Independência!}  # Independence day
 {105}{}{Feliz Halloween!}             # Halloween
-{106}{}{Feliz Dia de Ação de Gracas!} # Thanksgiving
+{106}{}{Feliz Dia de Ação de Graças!} # Thanksgiving
 {107}{}{Feliz Natal!}                 # X-mas
 
 #
@@ -43,7 +43,7 @@
 # Alarm clock
 #
 {300}{}{RELÓGIO COM ALARME}
-{301}{}{Pontos de Dano}
+{301}{}{Pontos de Vida}
 {302}{}{Descansar por dez minutos}
 {303}{}{Descansar por trinta minutos}
 {304}{}{Descansar por uma hora}
@@ -52,7 +52,7 @@
 {307}{}{Descansar por quatro horas}
 {308}{}{Descansar por cinco horas}
 {309}{}{Descansar por seis horas}
-{310}{}{Descansar até de manha (06:00)}
+{310}{}{Descansar até de manhã (06:00)}
 {311}{}{Descansar até o meio-dia (12:00)}
 {312}{}{Descansar até de noite (18:00)}
 {313}{}{Descansar até meia-noite (00:00)}
@@ -75,10 +75,10 @@
 {411}{}{Diário em Áudio do Richard Grey}
 {412}{}{Diário do Capitão Maxson}
 {413}{}{Pesquisa do VEF}
-{414}{}{Specificações da Power Armor}
+{414}{}{Especificações da Power Armor}
 {415}{}{Registros da West Tech}
-{416}{}{Locais das Vaults v34.129}
-{417}{}{Transmissão do Regulador}
+{416}{}{Locais dos Vaults v34.129}
+{417}{}{Transmissão dos Reguladores}
 
 #
 # Movie archive titles
@@ -87,16 +87,16 @@
 {500}{}{InterPlay Logo}            # Not show in Pipboy
 {501}{}{MacPlay Logo}              # MacPlay version ,Not show in Pipboy
 {502}{}{Intro}                     # Not show in Pipboy
-{503}{}{Destruição dos Vats}
+{503}{}{Destruição dos Tanques}
 {504}{}{Destruição da Catedral}
 {505}{}{Instruções do Supervisor}
-{506}{}{Privação da Água da Vault 13}   # Death
-{507}{}{Invasão da Vault 13}            # Death
-{508}{}{Deixando a Vault}               # Man end
-{509}{}{Deixando a Vault}               # Woman end
-{510}{}{Mergulhado nos Vats}            # Death
-{511}{}{Água da Vault 13}
-{512}{}{A Água da Vault 13 se esgotando}
+{506}{}{Privação da Água do Vault 13}   # Death
+{507}{}{Invasão do Vault 13}            # Death
+{508}{}{Deixando o Vault}               # Man end
+{509}{}{Deixando o Vault}               # Woman end
+{510}{}{Mergulhado nos Tanques}            # Death
+{511}{}{Água do Vault 13}
+{512}{}{A Água do Vault 13 se esgotando}
 {513}{}{Rae mata o Mestre}
 
 #
@@ -165,7 +165,7 @@
 #
 {790}{}{Glow}
 {791}{}{Desarmar as armadilhas na Instalação.}
-{792}{}{Ligar a energia no Glow.}
+{792}{}{Ligar a energia do Glow.}
 #
 {800}{}{Boneyard}
 {801}{}{Tornar-me um Blade.}
@@ -185,17 +185,17 @@
 
 # *** FEV Experiment Tape ***
 {1000}{}{• Data do Registro, 21 de Março de 2075}
-{1001}{}{O Major Barnett tem ordenado experimentos com o}
-{1002}{}{lote 10-011 do vírus de pan-imunidade, o qual foi}
-{1003}{}{renomeado VEF, Vírus Evolucionário Forçado. Sua}
-{1004}{}{principal preocupação é com os efeitos colaterais da}
-{1005}{}{estrutura de hélice quádrupla, e não com seu efeito}
-{1006}{}{principal de estabilidade replicativa. Ele acredita que}
-{1007}{}{a nova estrutura é o próximo passo lógico para o núcleo}
-{1008}{}{dos mamíferos. Os experimentos com organismos unicelu-}
-{1009}{}{lares são um grande sucesso. Enquanto o metabolismo}
-{1010}{}{base deles aparenta não estar mudado, a imunidade deles}
-{1011}{}{a infecção e radiação excede as expectativas anteriores.}
+{1001}{}{O Major Barnett tem ordenado experimentos com o lote}
+{1002}{}{10-011 do vírus de pan-imunidade, o qual foi renomeado}
+{1003}{}{VEF, Vírus Evolucionário Forçado. Sua principal}
+{1004}{}{preocupação é com os efeitos colaterais da estrutura}
+{1005}{}{de hélice quádrupla, e não com seu efeito principal de}
+{1006}{}{estabilidade replicativa. Ele acredita que a nova}
+{1007}{}{estrutura é o próximo passo lógico para o núcleo dos}
+{1008}{}{mamíferos. Os experimentos com organismos unicelulares}
+{1009}{}{são um grande sucesso. Enquanto o metabolismo base}
+{1010}{}{deles aparenta não ter mudado, a imunidade deles a}
+{1011}{}{infecção e radiação excede as expectativas anteriores.}
 {1012}{}{Adendo: os cloroplastas parecem não estarem sendo}
 {1013}{}{afetados pelo vírus. Experimentos adicionais em células}
 {1014}{}{de plantas foram cancelados por ordem do Major Barnett.}
@@ -203,26 +203,26 @@
 # -
 {1016}{}{• Data do Registro, 9 de Maio de 2075}
 {1017}{}{Nós infectamos diversas espécies de platelmintos com o}
-{1018}{}{VEF. Dentro de horas as minhocas aumentaram de tamanho}
-{1019}{}{em 28%, e a população resistiu a 39 contágios virais}
-{1020}{}{distintos. Cada amostra conseguiu continuar}
-{1021}{}{por várias gerações, e a nova estrutura de DNA foi}
-{1022}{}{passada com sucesso para os progênitos das minhocas,}
-{1023}{}{embora apenas a reprodução assexuada tenha sido}
-{1024}{}{observada nas amostras. Os experimentos com insetos}
-{1025}{}{tiveram menos sucesso. Major Barnett adiou}
-{1026}{}{estes experimentos até segunda ordem.}
+{1018}{}{VEF. Dentro de horas, as minhocas aumentaram de}
+{1019}{}{tamanho em 28%, e a população resistiu a 39 contágios}
+{1020}{}{virais distintos. Cada amostra conseguiu continuar por}
+{1021}{}{várias gerações, e a nova estrutura de DNA foi passada}
+{1022}{}{com sucesso para os progênitos das minhocas, embora}
+{1023}{}{apenas a reprodução assexuada tenha sido observada}
+{1024}{}{nas amostras. Os experimentos com insetos tiveram}
+{1025}{}{menos sucesso. Major Barnett adiou estes experimentos}
+{1026}{}{até segunda ordem.}
 {1027}{}{**END-PAR**}
 # -
 {1028}{}{• Data do Registro, 30 de Junho de 2075}
-{1029}{}{Várias linhagens de ratos brancos foram infectadas}
-{1030}{}{com sucesso com o VEF. De novo, um aumento no tamanho}
+{1029}{}{Várias linhagens de ratos brancos foram infectadas com}
+{1030}{}{sucesso com o VEF. De novo, um aumento no tamanho}
 {1031}{}{foi notado dentro de horas e após 9 dias todos os}
 {1032}{}{camundongos se estabilizaram 31% maiores do que o grupo}
 {1033}{}{de controle. A dissecação revelou um maior aumento no}
 {1034}{}{tamanho do tecido muscular estriado e de certos órgãos}
 {1035}{}{internos, tais como o fígado, coração e rins. Em um}
-{1036}{}{achado surpresa, os ratos infectados foram vistos}
+{1036}{}{achado surpreendente, os ratos infectados foram vistos}
 {1037}{}{percorrendo os labirintos em menos da metade do tempo}
 {1038}{}{do grupo de controle. Mais testes serão necessários}
 {1039}{}{para confirmar esta descoberta como significativa.}
@@ -234,58 +234,57 @@
 {1044}{}{a atividade de eletroencefalograma antes e depois da}
 {1045}{}{infecção. Foi notado o aumento de atividade elétrica}
 {1046}{}{no cérebro em 3,2 segundos (em média) após a injeção.}
-{1047}{}{Novamente, o aumento típico do tamanho foi notado.}
-{1048}{}{Contudo, maior agressividade e postura}
-{1049}{}{(especialmente entre os machos) também foram notados.}
-{1050}{}{O sacrifício e a profusão produziram tecido cerebral}
-{1051}{}{que apresentava maior conexão dendrítica, especialmente}
-{1052}{}{no sistema límbico e no córtex frontal.}
+{1047}{}{Novamente, o aumento típico de tamanho foi notado.}
+{1048}{}{Contudo, maior agressividade e postura (especialmente}
+{1049}{}{entre os machos) também foram notados. O sacrifício e}
+{1050}{}{a profusão renderam tecido cerebral que apresentava}
+{1051}{}{maior conexão dendrítica, especialmente no sistema}
+{1052}{}{límbico e no córtex frontal.}
 {1053}{}{**END-PAR**}
 # -
 {1054}{}{• Data do Registro, 12 de Janeiro de 2076}
-{1055}{}{Com o lote 11-011, nós melhoramos a eficiência do}
-{1056}{}{ciclo mitótico em 43%. Infectamos 53 guaxinins}
-{1057}{}{com a nova cepa. Além do agora esperado aumento}
-{1058}{}{de tamanho, testes comportamentais confirmaram um}
-{1059}{}{aumento na inteligência e destreza manual em 19}
-{1060}{}{pontos no índice Schuler-Kapp. Infelizmente, várias}
-{1061}{}{cobaias escaparam do confinamento e tiveram que}
-{1062}{}{ser caçadas e mortas. O Major Barneet ordenou}
-{1063}{}{que as cobaias restantes fossem eliminadas.}
-{1064}{}{Dois pares não foram contados.}
-{1065}{}{**END-PAR**}
+{1055}{}{Com o lote 11-011, nós melhoramos a eficiência do ciclo}
+{1056}{}{mitótico em 43%. Infectamos 53 guaxinins com a nova cepa.}
+{1057}{}{Além do agora esperado aumento de tamanho, testes}
+{1058}{}{comportamentais confirmaram um aumento na inteligência}
+{1059}{}{e destreza manual em 19 pontos no índice Schuler-Kapp.}
+{1060}{}{Infelizmente, várias cobaias escaparam do confinamento}
+{1061}{}{e tiveram que ser caçadas e mortas. O Major Barneet}
+{1062}{}{ordenou que as cobaias restantes fossem eliminadas.}
+{1063}{}{Dois pares estão desaparecidos.}
+{1064}{}{**END-PAR**}
 # -
-{1066}{}{• Data do Registro, 13 de Maio de 2076}
-{1067}{}{Nós temos combinados novas sequências de genes,}
-{1068}{}{supridos pelo time conselheiro do Major Barnett no}
-{1069}{}{VEF. Com o lote 11-101a, nós infectamos 23 cães de}
-{1070}{}{raça pura e mista, e todos experimentaram crescimento}
-{1071}{}{quase imediato. O aumento de tamanho foi acompanhado}
-{1072}{}{por uma maior agressividade, enquanto nenhum aumento}
-{1073}{}{de inteligencia foi notado. Nós planejamos tentar o}
-{1074}{}{cruzamento de 92 pares alelos com o lote 11-011. Todas}
-{1075}{}{as cobaias foram eliminadas após 14 semanas de estudo.}
-{1076}{}{**END-PAR**}
+{1065}{}{• Data do Registro, 13 de Maio de 2076}
+{1066}{}{Nós temos combinado novas sequências de genes,}
+{1067}{}{supridos pelo time conselheiro do Major Barnett no VEF.}
+{1068}{}{Com o lote 11-101a, nós infectamos 23 cães de raça pura}
+{1069}{}{e mista, e todos experimentaram crescimento quase}
+{1070}{}{imediato. O aumento de tamanho foi acompanhado por}
+{1071}{}{uma maior agressividade, enquanto nenhum aumento de}
+{1072}{}{inteligencia foi notado. Nós planejamos tentar o}
+{1073}{}{cruzamento de 92 pares alelos com o lote 11-011. Todas}
+{1074}{}{as cobaias foram eliminadas após 14 semanas de estudo.}
+{1075}{}{**END-PAR**}
 # -
-{1077}{}{• Data do Registro, 4 de Outubro de 2076}
-{1078}{}{O cruzamento foi concluído e 15 chimpanzés foram}
-{1079}{}{infectados com o lote 11-111. Os níveis de crescimento}
-{1080}{}{e imunidade não tem precedentes. Tentativas de induzir}
-{1081}{}{câncer nas cobaias através de agentes radiológicos e}
-{1082}{}{químicos não foram bem-sucedidas. O aumento da agressi-}
-{1083}{}{vidade nos levou a isolar as cobaias. Duas cobaias}
-{1084}{}{sofreram violentos ataques epiléticos e morreram.}
-{1085}{}{Todas as cobaias restantes foram exterminadas.}
-{1086}{}{**END-PAR**}
+{1076}{}{• Data do Registro, 4 de Outubro de 2076}
+{1077}{}{O cruzamento foi concluído e 15 chimpanzés foram}
+{1078}{}{infectados com o lote 11-111. Os níveis de crescimento}
+{1079}{}{e imunidade não tem precedentes. Tentativas de induzir}
+{1080}{}{câncer nas cobaias através de agentes radiológicos e}
+{1081}{}{químicos não foram bem-sucedidas. O aumento da}
+{1082}{}{agressividade nos levou a isolar as cobaias. Duas cobaias}
+{1083}{}{sofreram violentos ataques epiléticos e morreram. Todas}
+{1084}{}{as cobaias restantes foram exterminadas.}
+{1085}{}{**END-PAR**}
 # -
-{1087}{}{• Data do Registro, 7 de Janeiro, 2077}
-{1088}{}{O Major Barnett ordenou a transferência de toda a}
-{1089}{}{pesquisa do VEF para a Base Militar Mariposa. Ele}
-{1090}{}{planeja continuar os experimentos do projeto em}
-{1091}{}{voluntários. Eu sou contra isso e gostaria de deixar}
-{1092}{}{registrado aqui que a pesquisa em cobaias humanas não}
-{1093}{}{é recomendada por mim nem pela minha equipe.}
-{1094}{}{**END-DISK**}
+{1086}{}{• Data do Registro, 7 de Janeiro, 2077}
+{1087}{}{O Major Barnett ordenou a transferência de toda a}
+{1088}{}{pesquisa do VEF para a Base Militar Mariposa. Ele planeja}
+{1089}{}{continuar os experimentos do projeto em voluntários.}
+{1090}{}{Eu sou contra isso e gostaria de deixar registrado aqui}
+{1091}{}{que a pesquisa em cobaias humanas não é recomendada}
+{1092}{}{por mim e nem pela minha equipe.}
+{1093}{}{**END-DISK**}
 
 
 # *** Security Disk ***
@@ -303,34 +302,34 @@
 {3005}{}{Nós conseguimos chegar na Instalação de Pesquisa da}
 {3006}{}{West Tek após 20 dias de inferno. Mas essa foi a parte}
 {3007}{}{fácil. Os níveis de radiação começaram a disparar antes}
-{3008}{}{que nós pudéssemos ver a cratera gigante. Nós veri-}
-{3009}{}{ficamos nossos suprimentos e pensamos que, com nossas}
-{3010}{}{armaduras e suprimentos anti-radiação, nós estaríamos}
-{3011}{}{bem por pelo menos um dia de exploração. Sentimos que}
-{3012}{}{era um risco calculado, mas com a tecnologia que}
-{3013}{}{tínhamos o potencial de recuperar valia a pena.}
+{3008}{}{que nós pudéssemos ver a cratera gigante. Nós}
+{3009}{}{verificamos nossos suprimentos e pensamos que, com}
+{3010}{}{nossas armaduras e suprimentos anti-radiação, nós}
+{3011}{}{estaríamos bem por pelo menos um dia de exploração.}
+{3012}{}{Sentimos que era um risco calculado, mas com a tecnologia}
+{3013}{}{que tínhamos, o potencial de recuperar valeria a pena.}
 {3014}{}{**END-PAR**}
 # -
 {3015}{}{Nós descemos a cratera até o primeiro nível e tudo}
-{3016}{}{parecia estar de acordo com o plano. A energia}
-{3017}{}{estava desligada, então não precisamos nos preocupar}
-{3018}{}{com a segurança. Ou assim nós pensávamos. Não havia}
-{3019}{}{muito de valor neste nível, então nós continuamos.}
+{3016}{}{parecia estar de acordo com o plano. A energia estava}
+{3017}{}{desligada, então não precisaríamos nos preocupar com a}
+{3018}{}{segurança. Ou assim nós pensávamos. Não havia muita }
+{3019}{}{coisa de valor neste nível, então nós continuamos.}
 {3020}{}{**END-PAR**}
 # -
-{3021}{}{O segundo nível era mais do mesmo.}
+{3021}{}{O segundo nível era a mesma coisa.}
 {3022}{}{**END-PAR**}
 # -
 {3023}{}{Quando Jensen desceu para o terceiro nível, o inferno}
-{3024}{}{começou. Os sensores de segurança estavam}
-{3025}{}{queimados nos dois primeiros níveis, mas não no}
-{3026}{}{terceiro. Jensen foi fatiado em pedaços antes que ele}
-{3027}{}{soubesse o que tinha acontecido. Nós nunca tínhamos}
-{3028}{}{visto armas que pudessem atravessar as Power Armors}
-{3029}{}{assim. Homens começaram a cair na direita e esquerda,}
-{3030}{}{aqueles que ainda estavam vivos se perderam. Eu tentei}
-{3031}{}{reagrupar, mas só Soto e Camarillo conseguiram voltar}
-{3032}{}{aqui para o primeiro nível comigo.}
+{3024}{}{começou. Os sensores de segurança estavam queimados}
+{3025}{}{nos dois primeiros níveis, mas não no terceiro. Jensen}
+{3026}{}{foi fatiado em pedaços antes que ele soubesse o que}
+{3027}{}{tinha acontecido. Nós nunca tínhamos visto armas que}
+{3028}{}{pudessem atravessar as Power Armors assim. Homens}
+{3029}{}{começaram a cair na direita e esquerda, aqueles que}
+{3030}{}{ainda estavam vivos se perderam. Eu tentei reagrupar,}
+{3031}{}{mas só Soto e Camarillo conseguiram voltar aqui para o}
+{3032}{}{primeiro nível comigo.}
 {3033}{}{**END-PAR**}
 # -
 {3034}{}{O fato de eu poder sentir o cheiro da carne queimada}
@@ -362,49 +361,48 @@
 {4001}{}{**END-PAR**}
 # -
 {4002}{}{Nas esperanças de conter os atuais agentes}
-{4003}{}{bacteriológicos e virais empregados pelo governo}
-{4004}{}{chinês, nós fabricamos um fragmento de vírus que}
-{4005}{}{consiste em ácido ribonucleico (RNA) envolto em}
-{4006}{}{uma bainha proteica-lipídica. Este vírus contém}
-{4007}{}{uma sequência especialmente organizada de amino-ácidos}
-{4008}{}{(RAA) que são capazes de anexar à locais de ligação}
-{4009}{}{não específico ao ácido desoxirribonucleico (DNA)}
-{4010}{}{e forçar uma mitose não replicante a ocorrer.}
-{4011}{}{A célula hospedeira resultante fica com uma}
-{4012}{}{estrutura de DNA de hélice quádrupla.}
-{4013}{}{**END-PAR**}
+{4003}{}{bacteriológicos e virais empregados pelo governo chinês,}
+{4004}{}{nós fabricamos um fragmento de vírus que consiste em}
+{4005}{}{ácido ribonucleico (RNA) envolto em uma bainha}
+{4006}{}{proteica-lipídica. Este vírus contém uma sequência}
+{4007}{}{especialmente organizada de amino-ácidos (RAA) que são}
+{4008}{}{capazes de anexar à locais de ligação não específico}
+{4009}{}{ao ácido desoxirribonucleico (DNA) e forçar uma mitose}
+{4010}{}{não replicante a ocorrer. A célula hospedeira resultante}
+{4011}{}{fica com uma estrutura de DNA de hélice quádrupla.}
+{4012}{}{**END-PAR**}
 # -
-{4014}{}{Os primeiros testes são promissores. O vírus facilmente}
-{4015}{}{penetra na membrana celular e se liga diretamente}
-{4016}{}{ao DNA do hospedeiro no núcleo. As mitoses da}
-{4017}{}{estrutura começam quase que imediatamente. A citocinese}
-{4018}{}{é evitada controlando a disposição das fibras do}
-{4019}{}{cinetocoro durante a anáfase. O ciclo mitótico inteiro}
-{4020}{}{dura aproximadamente 2 horas, embora as expressões}
-{4021}{}{fenotípicas da nova estrutura possam levar dias ou}
-{4022}{}{semanas para se tornarem aparentes.}
-{4023}{}{**END-PAR**}
+{4013}{}{Os primeiros testes são promissores. O vírus facilmente}
+{4014}{}{penetra na membrana celular e se liga diretamente ao}
+{4015}{}{DNA do hospedeiro no núcleo. As mitoses da estrutura}
+{4016}{}{começam quase que imediatamente. A citocinese é evitada}
+{4017}{}{controlando a disposição das fibras do cinetocoro}
+{4018}{}{durante a anáfase. O ciclo mitótico inteiro dura}
+{4019}{}{aproximadamente 2 horas, embora as expressões}
+{4020}{}{fenotípicas da nova estrutura possam levar dias ou}
+{4021}{}{semanas para se tornarem aparentes.}
+{4022}{}{**END-PAR**}
 # -
-{4024}{}{Além de uma imunidade eficaz a agentes bacterianos e}
-{4025}{}{virais, a estrutura de hélice quádrupla é quase}
-{4026}{}{inteiramente imune a erros introduzidos no}
-{4027}{}{emparelhamento de bases durante a replicação devido à}
-{4028}{}{multiplicidade da sequência de bases. O tecido exposto}
-{4029}{}{à radiação não mostrou mutação na sequência de bases e}
-{4030}{}{os mecanismos de síntese proteica nos ribossomos não}
-{4031}{}{foram prejudicados.}
-{4032}{}{**END-PAR**}
+{4023}{}{Além de uma imunidade eficaz a agentes bacterianos e}
+{4024}{}{virais, a estrutura de hélice quádrupla é quase}
+{4025}{}{inteiramente imune a erros introduzidos no}
+{4026}{}{emparelhamento de bases durante a replicação devido à}
+{4027}{}{multiplicidade da sequência de bases. O tecido exposto}
+{4028}{}{à radiação não mostrou mutação na sequência de bases}
+{4029}{}{e os mecanismos de síntese proteica nos ribossomos não}
+{4030}{}{foram prejudicados.}
+{4031}{}{**END-PAR**}
 # -
-{4033}{}{Mais de 80% das amostras de tecido continham DNA de}
-{4034}{}{hélice quádrupla. Os mais afetados foram os tecidos}
-{4035}{}{musculares e ósseos, bem como as células secretoras,}
-{4036}{}{uma vez que estas células pareciam as mais receptivas}
-{4037}{}{ao vírus. As células sensoriais são as menos afetadas.}
-{4038}{}{Surpreendentemente, até mesmo as células nervosas}
-{4039}{}{não replicantes e não somáticas foram induzidas a}
-{4040}{}{iniciar a mitose. Mais experimentos serão necessários}
-{4041}{}{para determinar os resultados nestas células.}
-{4042}{}{**END-DISK**}
+{4032}{}{Mais de 80% das amostras de tecido continham DNA de}
+{4033}{}{hélice quádrupla. Os mais afetados foram os tecidos}
+{4034}{}{musculares e ósseos, bem como as células secretoras,}
+{4035}{}{uma vez que estas células pareciam as mais receptivas}
+{4036}{}{ao vírus. As células sensoriais são as menos afetadas.}
+{4037}{}{Surpreendentemente, até mesmo as células nervosas}
+{4038}{}{não replicantes e não somáticas foram induzidas a}
+{4039}{}{iniciar a mitose. Mais experimentos serão necessários}
+{4040}{}{para determinar os resultados nestas células.}
+{4041}{}{**END-DISK**}
 
 
 # *** Delta Experiment Disk ***
@@ -429,8 +427,8 @@
 {6003}{}{numa expedição encontraram uma criatura incomum. Esta}
 {6004}{}{criatura aparenta ser humanóide e muito possivelmente}
 {6005}{}{já teve um estado humano. Contudo, há muitas}
-{6006}{}{diferenças na estrutura dessa criatura do que a dos}
-{6007}{}{humanos normais.}
+{6006}{}{diferenças na estrutura dessa criatura em relação}
+{6007}{}{a dos humanos normais.}
 {6008}{}{**END-PAR**}
 # -
 {6009}{}{Na investigação inicial desta criatura, foi descoberto}
@@ -447,11 +445,11 @@
 {6018}{}{   Massa:   363,21 kg}
 {6019}{}{   Gênero:   Indeterminado}
 {6020}{}{   Cor da Pele:   Predominantemente cinza com tons de}
-{6021}{}{   verde sob o sistema de iluminação atual. Incerto se}
-{6022}{}{   isto é devido a decomposição ou exposição em terras}
-{6023}{}{   devastadas.}
+{6021}{}{   verde sob o sistema de iluminação atual. Não tenho}
+{6022}{}{   certeza se isto é devido a decomposição ou exposição}
+{6023}{}{   em terras devastadas.}
 {6024}{}{   Anotação:   A pele é extremamente resistente}
-{6025}{}{   em relação aos bisturis.}
+{6025}{}{   no que diz respeito aos bisturis.}
 {6026}{}{**END-PAR**}
 {6027}{}{Relação de Massas:}
 {6028}{}{   Massa Muscular:    77,41%}
@@ -460,7 +458,7 @@
 {6031}{}{   Massa do Tecido:   9,34%}
 {6032}{}{**END-PAR**}
 {6033}{}{Estrutura Celular:}
-{6034}{}{   Células sofrem divisão celular a uma taxa aumentada.}
+{6034}{}{   Células sofrem divisão celular a um ritmo acelerado.}
 {6035}{}{   A mitose ocorre a uma taxa 15% mais rápida do que}
 {6036}{}{   a de humanos normais.}
 {6037}{}{   A estrutura celular aparenta ser altamente similar}
@@ -481,13 +479,13 @@
 {6051}{}{**END-PAR**}
 # -
 {6052}{}{Com base no aumento de tamanho dos neurotransmissores}
-{6053}{}{e receptores sinápticos, eu levantaria a hipótese}
-{6054}{}{de que o espécime tinha reflexos melhorados e sentidos}
+{6053}{}{e receptores sinápticos, eu levantaria a hipótese de que}
+{6054}{}{o espécime tinha reflexos melhorados e sentidos}
 {6055}{}{aguçados. Baseado nos relatórios que os Cavaleiros}
-{6056}{}{deram da área na qual o espécime foi encontrado,}
-{6057}{}{aridez, alta radiação, concentrações extremamente}
-{6058}{}{altas de agentes químicos, é um milagre que o espécime}
-{6059}{}{tenha sobrevivido tanto tempo. Realizando testes para}
+{6056}{}{deram da área na qual o espécime foi encontrado, aridez,}
+{6057}{}{alta radiação, concentrações extremamente altas de}
+{6058}{}{agentes químicos, é um milagre que o espécime tenha}
+{6059}{}{sobrevivido por tanto tempo. Realizando testes para}
 {6060}{}{determinar a possível causa da morte.}
 {6061}{}{**END-PAR**}
 # -
@@ -496,7 +494,7 @@
 # -
 {6064}{}{Inspeção Visual:}
 {6065}{}{   Queimaduras de pólvora negra perto da área sugerem}
-{6066}{}{   possível bala.}
+{6066}{}{   possível tiro.}
 {6067}{}{   Lacerações de 1,2 cm sobre a panturrilha da perna}
 {6068}{}{   direita parecem ter sido feitas por dentes.}
 {6069}{}{   Conduzirei teste para possível Raiva.}
@@ -524,8 +522,8 @@
 {6088}{}{impressionante é a extensão da infecção viral no}
 {6089}{}{espécime. Eu li uma vez que alguns cientistas da}
 {6090}{}{pré-guerra estavam conduzindo experimentos com um}
-{6091}{}{vírus assim, mas todas as anotações da pesquisa}
-{6092}{}{foram destruídas.}
+{6091}{}{vírus assim, mas todas as anotações da pesquisa foram}
+{6092}{}{destruídas.}
 {6093}{}{**END-PAR**}
 # -
 {6094}{}{A pesquisa sobre este vírus levou a muitas descobertas}
@@ -537,7 +535,7 @@
 {6100}{}{que conseguissem a melhor combinação possível. Embora}
 {6101}{}{o processo pelo qual isso acontece seja incerto, ele tem}
 {6102}{}{alguns efeitos colaterais graves. O principal deles é a}
-{6103}{}{esterilidade. O espécime do teste teria sido incapaz de}
+{6103}{}{esterilidade. O espécime do teste seria incapaz de se}
 {6104}{}{reproduzir com qualquer criatura, seja pura ou mutada.}
 {6105}{}{Outros efeitos colaterais incluem uma alteração do}
 {6106}{}{pigmento da epiderme. A expectativa de vida é}
@@ -551,8 +549,8 @@
 {6112}{}{Baseado nesta informação, eu extrapolaria que nós}
 {6113}{}{poderíamos simplesmente viver mais do que estes}
 {6114}{}{mutantes. Contudo, baseado no fato de estes mutantes}
-{6115}{}{terem uma concentração super elevada do vírus, parece}
-{6116}{}{lógico que pode haver algum lugar que esteja criando}
+{6115}{}{terem uma concentração super elevada do vírus, é}
+{6116}{}{razoável que pode haver algum lugar que esteja criando}
 {6117}{}{eles. Quanto a onde eles poderiam estar, eu não posso}
 {6118}{}{arriscar um palpite.}
 {6119}{}{**END-DISK**}
@@ -562,19 +560,19 @@
 # *** Maxson's History ***
 {7000}{}{Meu pai era um guarda de segurança em uma base militar}
 {7001}{}{secreta no deserto do sul da Califórnia. Um típico PM,}
-{7002}{}{eu me lembro principalmente da sua força. Quando chegou a}
-{7003}{}{hora da revolução, respeitei suas convicções. Ele ficou para}
-{7004}{}{trás, para ajudar aqueles que estavam incapacitados e}
+{7002}{}{eu me lembro principalmente da sua força. Quando chegou}
+{7003}{}{a hora da revolução, respeitei suas convicções. Ele ficou}
+{7004}{}{para trás, para ajudar aqueles que estavam incapacitados e}
 {7005}{}{feridos, até mesmo os cientistas. Ele pôs o meu bem-estar}
 {7006}{}{e o de minha mãe nas mãos do seu melhor amigo e nos ordenou}
 {7007}{}{que fôssemos para o deserto com os outros rebeldes.}
 {7008}{}{**END-PAR**}
 # -
 {7009}{}{Nós, muito poucos, marchamos para o deserto. O único}
-{7010}{}{pensamento na minha cabeça era de que eu nunca veria meu pai}
-{7011}{}{novamente. Ele sabia que se ficasse pra trás morreria. E,}
-{7012}{}{mesmo assim, ele ficou. Ele respeitava a bandeira, o CIC}
-{7013}{}{e o distintivo que ele usava.}
+{7010}{}{pensamento que vinha na minha cabeça era de que eu nunca}
+{7011}{}{veria meu pai novamente. Ele sabia que se ficasse pra trás}
+{7012}{}{morreria. E, mesmo assim, ele ficou. Ele respeitava a}
+{7013}{}{bandeira, o CIC e o distintivo que usava.}
 {7014}{}{**END-PAR**}
 # -
 {7015}{}{Que idiota.}
@@ -584,8 +582,8 @@
 {7018}{}{acontecerá conosco. Nós nos tornaremos auto-suficientes.}
 {7019}{}{Nos tornaremos guardiões do conhecimento e das tradições.}
 {7020}{}{Nós sobreviveremos ao fim da civilização. Nós assumiremos}
-{7021}{}{a responsabilidade por nossas ações, e nós responsabilizaremos}
-{7022}{}{as ações dos outros.}
+{7021}{}{a responsabilidade por nossas ações, e nós}
+{7022}{}{responsabilizaremos as ações dos outros.}
 {7023}{}{**END-PAR**}
 # -
 {7024}{}{Isso eu prometo a você, Maxson, meu filho. A Irmandade do}
@@ -600,170 +598,180 @@
 {7032}{}{**END-DISK**}
 
 # *** Mutant disk *** (bug fixed by WG: 8011 was duplicated)
-{8000}{}{Mensagem enviada: Base, aqui é o Time de Coleta dois,}
+{8000}{}{Mensagem enviada: Base, aqui é o Time de Coleta dois}
 {8001}{}{chamando. Câmbio.}
 {8002}{}{**END-PAR**}
 # -
-{8003}{}{Mensagem recebida: Nós estamos ouvindo você alto e claro,}
-{8004}{}{prossiga. Câmbio.}
+{8003}{}{Mensagem recebida: Nós estamos ouvindo você alto e}
+{8004}{}{claro, prossiga. Câmbio.}
 {8005}{}{**END-PAR**}
 # -
-{8006}{}{Mensagem enviada: Nós coletamos quatro machos, duas fêmeas e seus}
-{8007}{}{suprimentos da caravana. Não estão contaminados muito}
-{8008}{}{severamente. Diga ao Tenente que nós estamos enviando eles}
-{8009}{}{na frente, eles talvez consigam sobreviver}
-{8010}{}{ao processo. Nós vamos esperar aqui por mais alguns}
-{8011}{}{dias para tentar interceptar outra caravana. Câmbio.}
-{8012}{}{**END-PAR**}
+{8006}{}{Mensagem enviada: Nós coletamos quatro machos, duas}
+{8007}{}{fêmeas e seus suprimentos da caravana. Não estão}
+{8008}{}{contaminados muito severamente. Diga ao Tenente que}
+{8009}{}{nós estamos enviando eles na frente, eles talvez}
+{8010}{}{consigam sobreviver ao procedimento. Nós vamos esperar}
+{8011}{}{aqui por mais alguns dias para tentar interceptar outra}
+{8012}{}{caravana. Câmbio.}
+{8013}{}{**END-PAR**}
 # -
-{8013}{}{Mensagem recebida: Entendido. Houve alguma baixa}
-{8014}{}{durante a aquisição? Câmbio.}
-{8015}{}{**END-PAR**}
+{8014}{}{Mensagem recebida: Entendido. Houve alguma baixa}
+{8015}{}{durante a aquisição? Câmbio.}
+{8016}{}{**END-PAR**}
 # -
-{8016}{}{Mensagem enviada: Negativo. Outra varredura limpa. Base,}
-{8017}{}{também diga ao Time de Coleta um que encontramos o mesmo}
-{8018}{}{problema que tiveram. Um de nossos patrulhadores não}
-{8019}{}{retornou da sua patrulha do perímetro. Alguns de nossos}
-{8020}{}{outros patrulhadores reportaram que havia algo grande e}
-{8021}{}{rapido visto perto de nosso acampamento na noite passada.}
-{8022}{}{Verificarei pessoalmente amanhã de manhã às 6:00 horas. Câmbio.}
-{8023}{}{**END-PAR**}
+{8017}{}{Mensagem enviada: Negativo. Outra varredura limpa. Base,}
+{8018}{}{também diga ao Time de Coleta 1 que encontramos o}
+{8019}{}{mesmo problema que tiveram. Um de nossos patrulhadores}
+{8020}{}{não retornou da sua patrulha de perímetro. Alguns de}
+{8021}{}{nossos outros patrulhadores reportaram que havia algo}
+{8022}{}{grande e rápido visto perto de nosso acampamento na}
+{8023}{}{noite passada. Verificarei pessoalmente amanhã de manhã}
+{8024}{}{às 6:00 horas. Câmbio.}
+{8025}{}{**END-PAR**}
 # -
-{8024}{}{Mensagem recebida: Entendido. Nós estaremos esperando}
-{8025}{}{seu relatório. Se possível, tente capturá-lo. O Mestre}
-{8026}{}{ficaria muito agradecido. Câmbio.}
-{8027}{}{**END-DISK**}
+{8026}{}{Mensagem recebida: Entendido. Nós estaremos esperando}
+{8027}{}{seu relatório. Se possível, tente capturá-lo. O Mestre}
+{8028}{}{ficaria muito agradecido. Câmbio.}
+{8029}{}{**END-DISK**}
 
 
 # *** Military Base Disk***
-{9000}{}{• 10 Out, 2077}
+{9000}{}{• 10 de Outubro de 2077}
 {9001}{}{Eu, Roger Maxson, Capitão, número serial 072389 iniciei}
-{9002}{}{este registro porque as coisas não parecem boas para nenhum de}
-{9003}{}{nós e eu gostaria que as pessoas soubessem o que realmente}
-{9004}{}{aconteceu aqui.}
+{9002}{}{este registro porque as coisas não parecem boas para}
+{9003}{}{nenhum de nós e eu gostaria que as pessoas soubessem}
+{9004}{}{o que realmente aconteceu aqui.}
 {9005}{}{**END-PAR**}
 # -
 {9006}{}{O inferno começou quando nós finalmente descobrimos}
-{9007}{}{o que esses cientistas bastardos estavam fazendo. O Coronel}
-{9008}{}{se trancou em seu escritório e parece estar tendo}
-{9009}{}{algum tipo de colapso. Os homens estão gritando por sangue.}
-{9010}{}{Eles estão me procurando por respostas e eu não tenho certeza}
-{9011}{}{do que fazer. Alguém tem que fazer alguma coisa, antes que}
-{9012}{}{este lugar afunde em um banho de sangue anarquista.}
-{9013}{}{**END-PAR**}
+{9007}{}{o que esses cientistas bastardos estavam fazendo.}
+{9008}{}{O Coronel se trancou em seu escritório e parece estar}
+{9009}{}{tendo algum tipo de colapso. Os homens estão gritando}
+{9010}{}{por sangue. Eles estão me procurando por respostas e}
+{9011}{}{eu não tenho certeza do que fazer. Alguém tem que}
+{9012}{}{fazer alguma coisa, antes que este lugar afunde em um}
+{9013}{}{banho de sangue anarquista.}
+{9014}{}{**END-PAR**}
 # -
-{9014}{}{• 12 Out, 2077}
-{9015}{}{Toda vez que recebemos um relatório de cima, as coisas}
-{9016}{}{aqui ficam piores. A guerra está indo em uma direção muito}
-{9017}{}{ruim e este lugar está prestes a entrar em motim total, com}
-{9018}{}{todo o caos que ele traz. Eu impedi um dos homens de}
-{9019}{}{executar um cientista hoje e exigi que o interrogássemos}
-{9020}{}{para descobrir de onde vinha as suas ordens.}
-{9021}{}{**END-PAR**}
+{9015}{}{• 12 de Outubro de 2077}
+{9016}{}{Toda vez que recebemos um relatório de cima, as coisas}
+{9017}{}{aqui ficam piores. A guerra está indo em uma direção}
+{9018}{}{muito ruim e este lugar está prestes a entrar em motim}
+{9019}{}{total, com todo o caos que ele traz. Eu impedi um dos}
+{9020}{}{homens de executar um cientista hoje e exigi que o}
+{9021}{}{interrogássemos para descobrir de onde vinha as suas}
+{9022}{}{ordens.}
+{9023}{}{**END-PAR**}
 # -
-{9022}{}{• 13 Out, 2077}
-{9023}{}{Eu matei um homem hoje. Eu estava interrogando o Cientista}
-{9024}{}{Chefe Anderson e ele estava me dando todos os detalhes}
-{9025}{}{dos seus experimentos desumanos. Ele disse que suas ordens}
-{9026}{}{vieram do governo, mas não comprei isso. Ele começou a}
-{9027}{}{gritar sobre como ele estava apenas cumprindo ordens, como era}
-{9028}{}{militar, e eu simplesmente atirei nele. Eu digo a mim mesmo}
-{9029}{}{que foi para impedir que ele causasse um motim completo entre}
-{9030}{}{os homens, mas não tenho tanta certeza.}
-{9031}{}{**END-PAR**}
+{9024}{}{• 13 de Outubro de 2077}
+{9025}{}{Eu matei um homem hoje. Eu estava interrogando o}
+{9026}{}{Cientista Chefe Anderson e ele estava me dando todos}
+{9027}{}{os detalhes dos seus experimentos desumanos. Ele disse}
+{9028}{}{que suas ordens vieram do governo, mas não comprei isso.}
+{9029}{}{Ele começou a gritar sobre como ele estava apenas}
+{9030}{}{cumprindo ordens, como era militar, e eu simplesmente}
+{9031}{}{atirei nele. Eu digo a mim mesmo que foi para impedir que}
+{9032}{}{ele causasse um motim completo entre os homens, mas}
+{9033}{}{não tenho tanta certeza.}
+{9034}{}{**END-PAR**}
 # -
-{9032}{}{• 15 Out, 2077}
-{9033}{}{Eu tentei de novo falar com o coronel através da porta,}
-{9034}{}{mas ele parecia ter perdido completamente a noção da}
-{9035}{}{realidade. Arrombei a porta com vários homens bem a}
-{9036}{}{tempo de assistir ele estourar a cabeça. Pouco antes dele}
-{9037}{}{puxar o gatilho, ele pediu desculpas.}
-{9038}{}{**END-PAR**}
+{9035}{}{• 15 de Outubro de 2077}
+{9036}{}{Eu tentei de novo falar com o coronel através da porta,}
+{9037}{}{mas ele parecia ter perdido completamente a noção da}
+{9038}{}{realidade. Arrombei a porta com vários homens bem a}
+{9039}{}{tempo de assistir ele estourar a cabeça. Pouco antes}
+{9040}{}{dele puxar o gatilho, ele pediu desculpas.}
+{9041}{}{**END-PAR**}
 # -
-{9039}{}{• 18 Out, 2077}
-{9040}{}{Matando o sabichão, eu pareço ter confirmado minha}
-{9041}{}{posição como líder dos homens. Eles me seguem sem questionar}
-{9042}{}{agora. Os interrogatórios sempre terminam em execuções.}
-{9043}{}{Shellman foi o que mais resistiu, mas o resultado final}
-{9044}{}{foi o mesmo. Os argumentos dela sobre suas ordens foram}
-{9045}{}{específicos demais para serem totalmente inventados. Eu}
-{9046}{}{estou com um pressentimento muito ruim sobre como tudo}
-{9047}{}{isso vai acabar. Eu nem minto mais para mim mesmo sobre}
-{9048}{}{meus motivos para executar os cientistas.}
-{9049}{}{**END-PAR**}
+{9042}{}{• 18 de Outubro de 2077}
+{9043}{}{Matando o sabichão, eu pareço ter confirmado minha}
+{9044}{}{posição como líder dos homens. Eles me seguem sem}
+{9045}{}{questionar agora. Os interrogatórios sempre terminam}
+{9046}{}{em execuções. Shellman foi a que mais resistiu, mas o}
+{9047}{}{resultado final foi o mesmo. Os argumentos dela sobre}
+{9048}{}{suas ordens foram específicos demais para serem}
+{9049}{}{totalmente inventados. Eu estou com um pressentimento}
+{9050}{}{muito ruim sobre como tudo isso vai acabar. Eu nem minto}
+{9051}{}{mais para mim mesmo sobre meus motivos para executar}
+{9052}{}{os cientistas.}
+{9053}{}{**END-PAR**}
 # -
-{9050}{}{• 20 Out, 2077}
-{9051}{}{Eu finalmente respondi ao mundo lá fora pelo nosso rádio.}
-{9052}{}{Não sei por que eles nunca enviaram alguém aqui para ver}
-{9053}{}{o que estava acontecendo quando nós paramos de responder às}
-{9054}{}{suas transmissões. Não faz nenhum sentido. Bem, eles}
-{9055}{}{virão agora. Eu nos declarei separados da união. Eles se}
-{9056}{}{lembram do Jefferson Davis. O que a história dirá sobre mim?}
-{9057}{}{**END-PAR**}
+{9054}{}{• 20 de Outubro de 2077}
+{9055}{}{Eu finalmente respondi ao mundo lá fora pelo nosso rádio.}
+{9056}{}{Não sei por que eles nunca enviaram alguém aqui para ver}
+{9057}{}{o que estava acontecendo quando nós paramos de}
+{9058}{}{responder às suas transmissões. Não faz nenhum sentido.}
+{9059}{}{Bem, eles virão agora. Eu nos declarei separados da união.}
+{9060}{}{Eles se lembram do Jefferson Davis. O que a história}
+{9061}{}{dirá sobre mim?}
+{9062}{}{**END-PAR**}
 # -
-{9058}{}{• 22 Out, 2077}
-{9059}{}{O que diabos está acontecendo? Nós declaramos estar em}
-{9060}{}{total deserção do exército e não mais sob o comando do governo}
-{9061}{}{e o que acontece? Nada. Algo ruim está acontecendo.}
-{9062}{}{}
-{9063}{}{**END-PAR**}
+{9063}{}{• 22 de Outubro de 2077}
+{9064}{}{O que diabos está acontecendo? Nós declaramos estar}
+{9065}{}{em total deserção do exército e não mais sob o comando}
+{9066}{}{do governo e o que acontece? Nada. Algo ruim está}
+{9067}{}{acontecendo.}
+{9068}{}{**END-PAR**}
 # -
-{9064}{}{• 23 Out, 2077}
-{9065}{}{Não posso acreditar que esses bastardos finalmente conseguiram.}
-{9066}{}{Que ardam todos no inferno. Eles finalmente deixaram as Bombas}
-{9067}{}{Atômicas voarem. Nós estávamos bem no meio de uma tentativa}
-{9068}{}{de arrancar a verdadeira história de Von Felden quando}
-{9069}{}{perdemos completamente o contato. Eu tenho o pressentimento de que}
-{9070}{}{o centro de pesquisas foi duramente atingido. Eu não sei por que,}
-{9071}{}{apenas intuição. Parece inimaginável que nós não fomos um alvo.}
-{9072}{}{Tenho certeza de que a China vai compensar esse descuido em breve.}
-{9073}{}{Por sorte, nós movemos as nossas famílias para dentro da}
-{9074}{}{instalação anteontem. Nós não sabemos ainda}
-{9075}{}{se a poeira radioativa alcançou esta área.}
-{9076}{}{**END-PAR**}
+{9069}{}{• 23 de Outubro de 2077}
+{9070}{}{Não posso acreditar que esses desgraçados finalmente}
+{9071}{}{fizeram. Que ardam todos no inferno. Eles finalmente}
+{9072}{}{lançaram as Bombas Atômicas. Nós estávamos bem no}
+{9073}{}{meio de uma tentativa de arrancar a verdadeira história}
+{9074}{}{de Von Felden quando perdemos completamente o contato.}
+{9075}{}{Eu tenho o pressentimento de que o centro de pesquisas}
+{9076}{}{foi duramente atingido. Eu não sei por que, apenas}
+{9077}{}{intuição. Parece inimaginável que nós não fomos um alvo.}
+{9078}{}{Tenho certeza de que a China vai compensar esse}
+{9079}{}{descuido em breve. Por sorte, nós movemos as nossas}
+{9080}{}{famílias para dentro da instalação anteontem. Nós não}
+{9081}{}{sabemos ainda se a poeira radioativa alcançou esta área.}
+{9082}{}{**END-PAR**}
 # -
-{9077}{}{• 25 Out, 2077}
-{9078}{}{Sargento Platner se voluntariou para ir lá fora hoje para medir}
-{9079}{}{o nível de radiação na atmosfera. Parece que a}
-{9080}{}{radiação não se espalhou tão longe assim. Como ele estava usando}
-{9081}{}{sua power armor, não havia ameaça de radiação para ele,}
-{9082}{}{mas se ele tivesse sido exposto ele teria que ser}
-{9083}{}{exilado. Nós não temos instalações de descontaminação}
-{9084}{}{adequadas aqui.}
-{9085}{}{**END-PAR**}
-# -
-{9086}{}{• 26 Out, 2077}
-{9087}{}{Eu convenci os homens de que nós deveríamos enterrar os cientistas.}
-{9088}{}{Eu não sei por que... talvez fosse pra aliviar minha consciência.}
-{9089}{}{Eu finalmente comecei a acreditar nas suas histórias quando o último}
-{9090}{}{deles estava morrendo.}
+{9083}{}{• 25 de Outubro de 2077}
+{9084}{}{Sargento Platner se voluntariou para ir lá fora hoje}
+{9085}{}{para medir o nível de radiação na atmosfera. Parece que}
+{9086}{}{a radiação não se espalhou tão longe assim. Como ele}
+{9087}{}{estava usando sua power armor, não havia ameaça de}
+{9088}{}{radiação para ele, mas se ele tivesse sido exposto ele}
+{9089}{}{teria que ser exilado. Nós não temos instalações de}
+{9090}{}{descontaminação adequadas aqui.}
 {9091}{}{**END-PAR**}
 # -
-{9092}{}{Meu Deus, no que eu me tornei?}
-{9093}{}{**END-PAR**}
+{9092}{}{• 26 de Outubro de 2077}
+{9093}{}{Eu convenci os homens de que nós deveríamos enterrar}
+{9094}{}{os cientistas. Eu não sei por que... talvez fosse pra}
+{9095}{}{aliviar minha consciência. Eu finalmente comecei a}
+{9096}{}{acreditar nas suas histórias quando o último deles}
+{9097}{}{estava morrendo.}
+{9098}{}{**END-PAR**}
 # -
-{9094}{}{• 27 Out, 2077}
-{9095}{}{Nós estamos deixando este lugar amaldiçoado hoje. Eu estou}
-{9096}{}{liderando o êxodo para o velho bunker do governo em Lost Hills.}
-{9097}{}{Eu estou deixando este registro pra trás para ser enterrado até}
-{9098}{}{que este lugar receba uma próxima visita. Quem sabe? Talvez alguém}
-{9099}{}{o encontre algum dia.....}
-{9100}{}{**END-DISK**}
+{9099}{}{Meu Deus, no que eu me tornei?}
+{9100}{}{**END-PAR**}
+# -
+{9101}{}{• 27 de Outubro de 2077}
+{9102}{}{Nós estamos deixando este lugar amaldiçoado hoje. Eu}
+{9103}{}{estou liderando o êxodo para o velho bunker do governo}
+{9104}{}{em Lost Hills. Eu estou deixando este registro para trás}
+{9105}{}{para ser enterrado até que este lugar receba uma}
+{9106}{}{próxima visita. Quem sabe? Talvez alguém o encontre}
+{9107}{}{algum dia.....}
+{9108}{}{**END-DISK**}
 
 # *** Sophia Disk ***
-{10000}{}{O Êxodo da base amaldiçoada foi um período difícil}
-{10001}{}{pros homens e suas famílias. Embora não houvesse poeira}
+{10000}{}{O Êxodo da base amaldiçoada foi um período difícil pros}
+{10001}{}{homens e suas famílias. Embora não houvesse poeira}
 {10002}{}{radioativa com que lidar, eles eram frequentemente}
 {10003}{}{atormentados pelos restos da humanidade. Bandos de}
-{10004}{}{andarilhos saqueadores psicóticos tentaram vários ataques}
-{10005}{}{contra esse nobre grupo.}
+{10004}{}{andarilhos saqueadores psicóticos tentaram vários}
+{10005}{}{ataques contra esse nobre grupo.}
 {10006}{}{**END-PAR**}
 # -
-{10007}{}{A companhia em si não estava em perigo, pois eles usavam}
-{10008}{}{Power Armors. Os membros das famílias deles não foram}
-{10009}{}{tão sortudos. Uma vez que os vermes descobriram que eles}
-{10010}{}{eram facilmente repelidos, eles começaram a disparar nos}
-{10011}{}{civis desarmados de longe.}
+{10007}{}{O agrupamento em si não estava em perigo, pois eles}
+{10008}{}{usavam Power Armors. Os membros das famílias deles}
+{10009}{}{não foram tão sortudos. Uma vez que os vermes}
+{10010}{}{descobriram que eles eram facilmente repelidos, eles}
+{10011}{}{começaram a disparar de longe nos civis desarmados.}
 {10012}{}{**END-PAR**}
 # -
 {10013}{}{Eles fizeram muitas vítimas, mas para cada membro do}
@@ -773,95 +781,97 @@
 # -
 {10017}{}{Finalmente, os antepassados chegaram à segurança do}
 {10018}{}{bunker. Capitão Maxson, o grande salvador, decretou}
-{10019}{}{que este seria nosso novo lar e tudo acabou bem.}
+{10019}{}{que este seria nosso novo lar e tudo terminou bem.}
 {10020}{}{**END-PAR**}
 # -
-{10021}{}{Com o passar do tempo o bunker se tornou nossa casa, nosso}
-{10022}{}{templo e nossa salvação dos terrores do mundo}
-{10023}{}{afora. Nós começamos a construir e moldar nossa fortaleza}
-{10024}{}{em algo glorioso, cuja beleza o mundo desprovido}
-{10025}{}{de tecnologia nunca tinha visto antes.}
+{10021}{}{Com o passar do tempo o bunker se tornou nossa casa,}
+{10022}{}{nosso templo e nossa salvação dos terrores do mundo}
+{10023}{}{afora. Nós começamos a construir e moldar nossa}
+{10024}{}{fortaleza em algo glorioso, cuja beleza o mundo}
+{10025}{}{desprovido de tecnologia nunca tinha visto antes.}
 {10026}{}{**END-PAR**}
 # -
-{10027}{}{No entanto, haviam aqueles que buscavam ainda mais. Estas}
-{10028}{}{almas inquietas exigiam que nós olhássemos pro}
-{10029}{}{sudeste em busca de tecnologia avançada que estava}
+{10027}{}{No entanto, haviam aqueles que buscavam ainda mais.}
+{10028}{}{Estas almas inquietas exigiam que nós procurássemos}
+{10029}{}{no sudeste a tecnologia avançada que estava}
 {10030}{}{supostamente abrigada lá.}
 {10031}{}{**END-PAR**}
 # -
 {10032}{}{Capitão Maxson avisou estes jovens impetuosos que a}
-{10033}{}{instalação de pesquisas foi sem dúvida destruída quando nós}
-{10034}{}{fomos poupados, mas eles não deram ouvidos. Eles}
+{10033}{}{instalação de pesquisas foi sem dúvida destruída quando}
+{10034}{}{nós fomos poupados, mas eles não deram ouvidos. Eles}
 {10035}{}{pegaram suas armaduras santificadas e partiram em}
-{10036}{}{busca do Santo Graal, mas não antes eles falaram o nome}
-{10037}{}{do Salvador em vão, questionando sua grande bravura!}
-{10038}{}{**END-PAR**}
+{10036}{}{busca do Santo Graal, mas antes eles falaram o}
+{10037}{}{nome do Salvador em vão, questionando sua grande}
+{10038}{}{bravura!}
+{10039}{}{**END-PAR**}
 # -
-{10039}{}{Nunca mais se teve notícias desses homens.}
-{10040}{}{**END-DISK**}
+{10040}{}{Nunca mais se teve notícias desses homens.}
+{10041}{}{**END-DISK**}
 
 # *** Maxson Disk ***
-{11000}{}{Sob minhas ordens, como comandante ativo após}
-{11001}{}{a morte inesperada do Coronel Robert Spindel durante este}
-{11002}{}{tempo de crise, toda a equipe de segurança da base foi}
-{11003}{}{enviado para o bunker de segurança em Lost Hills.}
-{11004}{}{**END-PAR**}
+{11000}{}{Sob minhas ordens, como comandante ativo após a}
+{11001}{}{morte inesperada do Coronel Robert Spindel durante}
+{11002}{}{este tempo de crise, toda a equipe de segurança da}
+{11003}{}{base está sendo enviada para o bunker de segurança}
+{11004}{}{em Lost Hills.}
+{11005}{}{**END-PAR**}
 # -
-{11005}{}{Esta diretriz também inclui as famílias dos}
-{11006}{}{oficiais e homens alistados.}
-{11007}{}{**END-PAR**}
+{11006}{}{Esta diretriz também inclui as famílias dos oficiais e}
+{11007}{}{homens alistados.}
+{11008}{}{**END-PAR**}
 # -
-{11008}{}{Salvo decisão contrária, por um representante}
-{11009}{}{oficial do Departamento de Guerra, esta ordem}
-{11010}{}{permanecerá como está escrita.}
-{11011}{}{**END-PAR**}
+{11009}{}{Salvo decisão contrária, por um representante oficial do}
+{11010}{}{Departamento de Guerra, este decreto permanecerá}
+{11011}{}{como está escrito.}
+{11012}{}{**END-PAR**}
 # -
-{11012}{}{Operativa 1: Todos os militares e suas famílias}
-{11013}{}{devem evacuar a base até as 08:00 do dia 25 de Outubro de 2077.}
-{11014}{}{Todo o pessoal, viajando sob comando, irá para a}
-{11015}{}{base de Lost Hill. Não será concedido permissão de saída.}
-{11016}{}{**END-PAR**}
+{11013}{}{Operativa 1: Todos os militares e suas famílias devem}
+{11014}{}{evacuar a base até as 08:00 do dia 25 de Outubro de}
+{11015}{}{2077. Todo o pessoal, viajando sob comando, irá para a}
+{11016}{}{base de Lost Hill. Não será concedido permissão de saída.}
+{11017}{}{**END-PAR**}
 # -
-{11017}{}{Operativa 2: Todo os civis estão instruídos a permanecer}
-{11018}{}{na base, aguardando ordens da sua estrutura de}
-{11019}{}{comando legal.}
-{11020}{}{**END-PAR**}
+{11018}{}{Operativa 2: Todo os civis estão instruídos a permanecer}
+{11019}{}{na base, aguardando ordens da sua estrutura de}
+{11020}{}{comando legal.}
+{11021}{}{**END-PAR**}
 # -
-{11021}{}{Operativa 3: Equipamento considerado necessário para}
-{11022}{}{a sobrevivência do pessoal da base militar deverá ser}
-{11023}{}{imediatamente retirado dos armazéns. A autorização adequada}
-{11024}{}{chegará depois, se der tempo.}
-{11025}{}{**END-PAR**}
+{11022}{}{Operativa 3: Equipamento considerado necessário para}
+{11023}{}{a sobrevivência do pessoal da base militar deverá ser}
+{11024}{}{imediatamente retirado dos armazéns. A autorização}
+{11025}{}{adequada chegará depois, caso dê tempo.}
+{11026}{}{**END-PAR**}
 # -
-{11026}{}{Operativa 4: Todos os códigos de justiça militar serão}
-{11027}{}{aplicados com rigor, tanto aos militares como ao }
-{11028}{}{civis, em operações militares conjuntas.}
-{11029}{}{**END-PAR**}
+{11027}{}{Operativa 4: Todos os códigos de justiça militar serão}
+{11028}{}{aplicados com rigor, tanto aos militares como ao civis,}
+{11029}{}{em operações militares conjuntas.}
+{11030}{}{**END-PAR**}
 # -
-{11030}{}{Operativa 5: Até que uma comunicação}
-{11031}{}{consistente e autorizada possa ser estabelecida com o}
-{11032}{}{Departamento de Guerra, estas ordens terão precedência}
-{11033}{}{sobre quaisquer ordens estabelecidas anteriormente.}
-{11034}{}{**END-PAR**}
+{11031}{}{Operativa 5: Até que uma comunicação consistente e}
+{11032}{}{autorizada possa ser estabelecida com o Departamento}
+{11033}{}{de Guerra, estas ordens terão precedência sobre}
+{11034}{}{quaisquer ordens estabelecidas anteriormente.}
+{11035}{}{**END-PAR**}
 # -
-{11035}{}{Capitão Maxson}
-{11036}{}{24 de Outubro de 2077}
-{11037}{}{**END-DISK**}
+{11036}{}{Capitão Maxson}
+{11037}{}{24 de Outubro de 2077}
+{11038}{}{**END-DISK**}
 
 # *** Richard Grey audio diary ***
 {12000}{}{                                                    0000 - 0004}
-{12001}{}{Eu estou morrendo. Preciso tomar nota disso antes}
-{12002}{}{que a dor me vença.}
+{12001}{}{Eu estou morrendo. Preciso tomar nota disso antes que}
+{12002}{}{a dor me vença.}
 {12003}{}{**END-PAR**}
 # -
 {12004}{}{                                                    0005 - 0020}
-{12005}{}{Eu não consigo acreditar que finalmente consegui}
-{12006}{}{me arrastar pra fora daquele tanque. O lodo não me afetou,}
-{12007}{}{mas quase me afoguei. Eu não sei o que aconteceu com o Harold}
-{12008}{}{- ele estava parado bem ao meu lado quando o guindaste}
-{12009}{}{me derrubou no tanque. Ele deve ter sido morto ou}
-{12010}{}{ele teria tentado me ajudar. Francine está morta, foi morta}
-{12011}{}{por um daqueles robôs.}
+{12005}{}{Eu não consigo acreditar que finalmente consegui me}
+{12006}{}{arrastar pra fora daquele tanque. O lodo não me afetou,}
+{12007}{}{mas quase me afoguei. Eu não sei o que aconteceu com}
+{12008}{}{o Harold - ele estava parado bem ao meu lado quando o}
+{12009}{}{guindaste me derrubou no tanque. Ele deve ter sido}
+{12010}{}{morto ou ele teria tentado me ajudar. Francine está}
+{12011}{}{morta, foi morta por um daqueles robôs.}
 {12012}{}{**END-PAR**}
 # -
 {12013}{}{                                                    0021 - 0027}
@@ -872,281 +882,304 @@
 {12018}{}{**END-PAR**}
 # -
 {12019}{}{                                                    0028 - 0043}
-{12020}{}{O lodo verde em que estava imerso é a fonte de todas as}
-{12021}{}{mutações que nós rastreamos até aqui. Minha pele está}
-{12022}{}{começando a apodrecer e descascar. Em outras áreas, está}
-{12023}{}{borbulhando e expelindo uma substância verde semelhante a}
-{12024}{}{um muco. Alguns dias a dor fica quase tolerável.}
-{12025}{}{**END-PAR**}
+{12020}{}{O lodo verde em que estava imerso é a fonte de todas}
+{12021}{}{as mutações que nós rastreamos até aqui. Minha pele}
+{12022}{}{está começando a apodrecer e descascar. Em outras}
+{12023}{}{áreas, está borbulhando e expelindo uma substância}
+{12024}{}{verde semelhante a um muco. Tem dias que a dor fica}
+{12025}{}{quase tolerável.}
+{12026}{}{**END-PAR**}
 # -
-{12026}{}{                                                    0044 - 0057}
-{12027}{}{Agora eu posso caminhar um pouco novamente... Parece}
-{12028}{}{inacreditável que eu me arrastei por todo o caminho da sala}
-{12029}{}{do tanque até aqui. Estranhamente, eu estou me}
-{12030}{}{sentindo mais forte, embora eu ainda sinta muita dor. Tudo}
-{12031}{}{parece estar ficando menor.}
-{12032}{}{**END-PAR**}
+{12027}{}{                                                    0044 - 0057}
+{12028}{}{Agora eu posso caminhar um pouco novamente... Parece}
+{12029}{}{inacreditável que eu me arrastei por todo o caminho da}
+{12030}{}{sala do tanque até aqui. Estranhamente, eu estou me}
+{12031}{}{sentindo mais forte, embora eu ainda sinta muita dor.}
+{12032}{}{Tudo parece estar ficando menor.}
+{12033}{}{**END-PAR**}
 # -
-{12033}{}{                                                    0058 - 0096}
-{12034}{}{Eu acho que consumi uma das coisas mutantes que estavam correndo}
-{12035}{}{por aqui hoje. Antes que eu soubesse o que estava acontecendo,}
-{12036}{}{algum tipo de tentáculo saltou do meu estômago e cobriu a}
-{12037}{}{pobre criatura. Assim que ele sugou o roedor para dentro das}
-{12038}{}{minhas entranhas eu pude sentir seus pensamentos.}
-{12039}{}{Eu acho. Há a possibilidade muito real de que eu estou}
-{12040}{}{lentamente enlouquecendo e não consigo mais diferenciar}
-{12041}{}{entre o que é real e o que é alucinação.}
-{12042}{}{Talvez eu ainda esteja morrendo lentamente no tanque e}
-{12043}{}{imaginei tudo isso.}
-{12044}{}{**END-PAR**}
+{12034}{}{                                                    0058 - 0096}
+{12035}{}{Eu acho que consumi uma das coisas mutantes que}
+{12036}{}{estavam correndo por aqui hoje. Antes que eu soubesse}
+{12037}{}{o que estava acontecendo, algum tipo de tentáculo}
+{12038}{}{saltou do meu estômago e cobriu a pobre criatura. Assim}
+{12039}{}{que ele sugou o roedor para dentro das minhas}
+{12040}{}{entranhas eu pude sentir seus pensamentos. Eu acho.}
+{12041}{}{Há a possibilidade muito real de que eu estou lentamente}
+{12042}{}{enlouquecendo e não consigo mais diferenciar entre o que}
+{12043}{}{é real e o que é alucinação. Talvez eu ainda esteja}
+{12044}{}{morrendo lentamente no tanque e imaginei tudo isso.}
+{12045}{}{**END-PAR**}
 # -
-{12045}{}{                                                    0097 - 0111}
-{12046}{}{As coisas estão ficando mais claras para mim a cada dia.}
-{12047}{}{Esta toxina realmente aprimorou a minha mente. Eu sinto que}
-{12048}{}{eu posso entender até mesmo as mais complexas questões}
-{12049}{}{filosóficas de uma forma simples e direta. É como se todas}
-{12050}{}{as camadas artificiais tivessem sido arrancadas fora. Eu }
-{12051}{}{me pergunto, o que aconteceria se eu submergisse um animal}
-{12052}{}{nos tanques por um longo período de tempo. Será que ele ganharia consciência?}
-{12053}{}{**END-PAR**}
+{12046}{}{                                                    0097 - 0111}
+{12047}{}{As coisas estão ficando mais claras para mim a cada dia.}
+{12048}{}{Esta toxina realmente aprimorou a minha mente. Eu sinto}
+{12049}{}{que eu posso entender até mesmo as mais complexas}
+{12050}{}{questões filosóficas de uma forma simples e direta.}
+{12051}{}{É como se todas as camadas artificiais tivessem sido}
+{12052}{}{arrancadas fora. Eu me pergunto, o que aconteceria se}
+{12053}{}{eu submergisse um animal nos tanques por um longo}
+{12054}{}{período de tempo. Será que ele ganharia consciência?}
+{12055}{}{**END-PAR**}
 # -
-{12054}{}{                                                    0112 - 0134}
-{12055}{}{A coisa mais estranha está acontecendo com os animais.}
-{12056}{}{Eles ficam mais espertos e se tornam mais conscientes do}
-{12057}{}{que os rodeia. Eu mergulhei um cão e um rato ao mesmo}
-{12058}{}{tempo hoje e eles se fundiram. Não são mais duas}
-{12059}{}{criaturas, mas é mais do que uma. Talvez este seja o}
-{12060}{}{futuro - uma união de diferentes}
-{12061}{}{criaturas em algum tipo de unidade harmoniosa.}
-{12062}{}{Eu já não consumo mais os diferentes animais que eu criei}
-{12063}{}{só pra me sustentar - Eu me tornei o instrumento}
-{12064}{}{através do qual a unidade será alcançada. Sou muito}
-{12065}{}{mais do que um ser humano agora.}
-{12066}{}{**END-PAR**}
+{12056}{}{                                                    0112 - 0134}
+{12057}{}{A coisa mais estranha está acontecendo com os animais.}
+{12058}{}{Eles ficam mais espertos e se tornam mais conscientes do}
+{12059}{}{que os rodeia. Eu mergulhei um cão e um rato ao mesmo}
+{12060}{}{tempo hoje e eles se fundiram. Não são mais duas}
+{12061}{}{criaturas, mas é mais do que uma. Talvez este seja o}
+{12062}{}{futuro - uma união de diferentes criaturas em algum}
+{12063}{}{tipo de unidade harmoniosa. Eu já não consumo mais os}
+{12064}{}{diferentes animais que eu criei só pra me sustentar - Eu}
+{12065}{}{me tornei o instrumento através do qual a unidade será}
+{12066}{}{alcançada. Sou muito mais do que um ser humano agora.}
+{12067}{}{**END-PAR**}
 # -
-{12067}{}{                                                    0135 - 0139}
-{12068}{}{Está na hora de trazer outros para a glória que é a}
-{12069}{}{Unidade.}
-{12070}{}{**END-PAR**}
+{12068}{}{                                                    0135 - 0139}
+{12069}{}{Está na hora de trazer outros para a glória que é a}
+{12070}{}{Unidade.}
+{12071}{}{**END-PAR**}
 # -
-{12071}{}{                                                    0140 - 0153}
-{12072}{}{Uma alma perdida finalmente chegou em minha casa. Eu estava tão}
-{12073}{}{surpreso que eu o consumi antes de mergulhá-lo, um erro que}
-{12074}{}{não cometerei novamente. Sua mente era primitiva ao ponto de}
-{12075}{}{repulsar a minhas habilidades cognitivas refinadas.}
-{12076}{}{**END-PAR**}
+{12072}{}{                                                    0140 - 0153}
+{12073}{}{Uma alma perdida finalmente chegou em minha casa. Eu}
+{12074}{}{estava tão surpreso que eu o consumi antes de}
+{12075}{}{mergulhá-lo, um erro que não cometerei novamente.}
+{12076}{}{Sua mente era primitiva ao ponto de repulsar a minhas}
+{12077}{}{habilidades cognitivas refinadas.}
+{12078}{}{**END-PAR**}
 # -
-{12077}{}{                                                    0154 - 0172}
-{12078}{}{Eu comecei a me modificar para ficar mais agradável à}
-{12079}{}{Unidade, injetando pequenas doses do vírus em meu corpo.}
-{12080}{}{O lodo nos tanques é um vírus feito pelo homem e é chamado de}
-{12081}{}{Vírus Evolucionário Forçado. Esta informação foi adquirida}
-{12082}{}{através do meu neurolink recém-criado com o computador da base.}
-{12083}{}{**END-PAR**}
+{12079}{}{                                                    0154 - 0172}
+{12080}{}{Eu comecei a me modificar para ficar mais agradável à}
+{12081}{}{Unidade, injetando pequenas doses do vírus em meu}
+{12082}{}{corpo. O lodo nos tanques é um vírus feito pelo homem}
+{12083}{}{e é chamado de Vírus Evolucionário Forçado. Esta}
+{12084}{}{informação foi adquirida através do meu neurolink}
+{12085}{}{recém-criado com o computador da base.}
+{12086}{}{**END-PAR**}
 # -
-{12084}{}{                                                     0173 - 0198}
-{12085}{}{Os poucos andarilhos que chegaram aqui foram}
-{12086}{}{uma decepção para mim. Eles não conseguem sofrer mutação}
-{12087}{}{corretamente. O melhor que eu fui capaz de criar são alguns}
-{12088}{}{mutantes grandes e burros. A maioria não consegue se lembrar de nada}
-{12089}{}{antes de eu iniciá-los na maravilhosa Unidade. Eu só}
-{12090}{}{alimento eles por combustível agora. Suas mentes não são}
-{12091}{}{nada para mim.}
-{12092}{}{**END-PAR**}
+{12087}{}{                                                     0173 - 0198}
+{12088}{}{Os poucos andarilhos que chegaram aqui foram uma}
+{12089}{}{decepção para mim. Eles não conseguem sofrer mutação}
+{12090}{}{corretamente. O melhor que eu fui capaz de criar são}
+{12091}{}{alguns mutantes grandes e burros. A maioria não}
+{12092}{}{consegue se lembrar de nada de antes de eu iniciá-los na}
+{12093}{}{maravilhosa Unidade. Eu só alimento eles para o nosso}
+{12094}{}{crescimento agora. Suas mentes não são nada para mim.}
+{12095}{}{**END-PAR**}
 # -
-{12093}{}{                                                     0199 - 0236}
-{12094}{}{Oh glorioso criador!! Eu fui bem sucedido em espalhar a}
-{12095}{}{completa alegria da unificação para outra alma! Ao contrario dos}
-{12096}{}{outros, sua contagem total de radiação era baixa. Eu acredito que}
-{12097}{}{este é o fator que nós estivemos deixando passar durante todo este tempo,}
-{12098}{}{pois parece que a conversão é mais bem sucedida nos}
-{12099}{}{casos com menor dano por radiação. Eu nunca tinha sentido}
-{12100}{}{tanta glória quanto eu senti quando tornei sua mente parte de nós.}
-{12101}{}{**END-PAR**}
+{12096}{}{                                                     0199 - 0236}
+{12097}{}{Oh glorioso criador!! Eu fui bem sucedido em espalhar a}
+{12098}{}{completa alegria da unificação para outra alma! Ao}
+{12099}{}{contrario dos outros, sua contagem total de radiação}
+{12100}{}{era baixa. Eu acredito que este é o fator que nós}
+{12101}{}{estivemos deixando passar durante todo esse tempo,}
+{12102}{}{pois parece que a conversão é mais bem sucedida nos}
+{12103}{}{casos com menor dano por radiação. Eu nunca tinha}
+{12104}{}{sentido tanta glória quanto eu senti quando tornei sua}
+{12105}{}{mente parte de nós.}
+{12106}{}{**END-PAR**}
 # -
-{12102}{}{                                                     0237 - 0281}
-{12103}{}{Nós estamos começando a criar um exército dedicado a}
-{12104}{}{unificar a maravilhosa diversidade da vida. Nós os treinamos}
-{12105}{}{para continuar nosso trabalho aqui enquanto procuramos}
-{12106}{}{áreas mais populosas para tomarmos. Estamos}
-{12107}{}{começando a sentir as limitações de um corpo que é mutado.}
-{12108}{}{Nós temos que encontrar um lar permanente, com um acervo maior de}
-{12109}{}{conhecimento e uma fonte constante de biomassa.}
-{12110}{}{**END-PAR**}
+{12107}{}{                                                     0237 - 0281}
+{12108}{}{Nós estamos começando a criar um exército dedicado a}
+{12109}{}{unificar a maravilhosa diversidade da vida. Nós os}
+{12110}{}{treinamos para continuar nosso trabalho aqui enquanto}
+{12111}{}{procuramos áreas mais populosas para tomarmos.}
+{12112}{}{Estamos começando a sentir as limitações de um corpo}
+{12113}{}{que é mutado. Nós temos que encontrar um lar}
+{12114}{}{permanente, com um acervo maior de conhecimento e uma}
+{12115}{}{fonte constante de biomassa.}
+{12116}{}{**END-PAR**}
 # -
-{12111}{}{                                                     0282 - 0303}
-{12112}{}{Nós interrompemos o nosso crescimento até que encontremos um}
-{12113}{}{novo centro de unificação. Quando tivermos conseguido, continuaremos}
-{12114}{}{a crescer e a nos alimentar até que nós tenhamos trazido a paz}
-{12115}{}{e unidade ao mundo inteiro.}
-{12116}{}{**END-DISK**}
+{12117}{}{                                                     0282 - 0303}
+{12118}{}{Nós interrompemos o nosso crescimento até que}
+{12119}{}{encontremos um novo centro de unificação. Quando}
+{12120}{}{tivermos conseguido, continuaremos a crescer e a nos}
+{12121}{}{alimentar até que nós tenhamos trazido a paz e unidade}
+{12122}{}{ao mundo inteiro.}
+{12123}{}{**END-DISK**}
 
 # *** Captain Maxson's Diary ***
-{13000}{}{• 10 Out, 2077}
-{13001}{}{Eu, Roger Maxson, Captao, número 072389 iniciei}
-{13002}{}{este registro porque não parece bom para qualquer}
-{13003}{}{de nós, e eu gostaria que as pessoas soubessem o que realmente}
-{13004}{}{aconteceu aqui. Todo o inferno se soltou quando nós finalmente}
-{13005}{}{descobrimos o que esses cientistas bastardas estavam pra fazer.}
-{13006}{}{O Coronel trancou a si próprio no seu escritório e parece}
-{13007}{}{estar tendo algum tipo de colapso. Os homens estão}
-{13008}{}{gritando por sangue. Eles estão procurando-me por respostas,}
-{13009}{}{e eu não tenho certeza do que fazer. Alguém tem que fazer}
-{13010}{}{alguma coisa, antes que este lugar afunde em um}
-{13011}{}{banho de sangue anarquista.}
-{13012}{}{**END-PAR**}
+{13000}{}{• 10 de Outubro de 2077}
+{13001}{}{Eu, Roger Maxson, Capitão, número serial 072389 iniciei}
+{13002}{}{este registro porque as coisas não parecem boas para}
+{13003}{}{nenhum de nós e eu gostaria que as pessoas soubessem}
+{13004}{}{o que realmente aconteceu aqui.}
+{13005}{}{**END-PAR**}
 # -
-{13013}{}{• Oct. 12 2077}
-{13014}{}{Toda vez que nós obtemos um relatório do alto as coisas ficam}
-{13015}{}{pior aqui. A guerra esta indo em uma direção muito ruim e}
-{13016}{}{este lugar esta para ir a um motim completo, com todo o}
-{13017}{}{caos que ele traz. Eu impedi um dos homens de executar}
-{13018}{}{um cientista hoje, e exigi que nós interrogassemos}
-{13019}{}{eles para descobrir quais as ordens deles eram.}
-{13020}{}{**END-PAR**}
+{13006}{}{O inferno começou quando nós finalmente descobrimos}
+{13007}{}{o que esses cientistas bastardos estavam fazendo.}
+{13008}{}{O Coronel se trancou em seu escritório e parece estar}
+{13009}{}{tendo algum tipo de colapso. Os homens estão gritando}
+{13010}{}{por sangue. Eles estão me procurando por respostas e}
+{13011}{}{eu não tenho certeza do que fazer. Alguém tem que}
+{13012}{}{fazer alguma coisa, antes que este lugar afunde em um}
+{13013}{}{banho de sangue anarquista.}
+{13014}{}{**END-PAR**}
 # -
-{13021}{}{• Oct.13 2077}
-{13022}{}{Eu matei um homem hoje. Eu estava interrogando o cientista chefe}
-{13023}{}{Anderson e ele estava me dando os detalhes completos dos seus}
-{13024}{}{experimentos inumanos. Ele disse que suas ordens vieram do}
-{13025}{}{governo, mas não comprei isso. Ele comecou a gritar sobre como ele}
-{13026}{}{estava seguindo ordens, como ele era um homem militar, e eu atirei}
-{13027}{}{nele. Eu digo a mim mesmo que era pra impedir ele de causar um}
-{13028}{}{motim completo entre os homens, mas eu não tenho tanta certeza.}
-{13029}{}{**END-PAR**}
+{13015}{}{• 12 de Outubro de 2077}
+{13016}{}{Toda vez que recebemos um relatório de cima, as coisas}
+{13017}{}{aqui ficam piores. A guerra está indo em uma direção}
+{13018}{}{muito ruim e este lugar está prestes a entrar em motim}
+{13019}{}{total, com todo o caos que ele traz. Eu impedi um dos}
+{13020}{}{homens de executar um cientista hoje e exigi que o}
+{13021}{}{interrogássemos para descobrir de onde vinha as suas}
+{13022}{}{ordens.}
+{13023}{}{**END-PAR**}
 # -
-{13030}{}{• Oct.15 2077}
-{13031}{}{Eu tentei de novo falar com o coronel atraves da porta,}
-{13032}{}{mas ele parece ter perdido completamente o toque com a realidade.}
-{13033}{}{Eu quebrei a porta com varios dos homens bem a}
-{13034}{}{tempo de assistir ele explodir sua cabeca. Logo antes de ele}
-{13035}{}{puxar o gatilho ele disse que ele lamentava.}
-{13036}{}{**END-PAR**}
+{13024}{}{• 13 de Outubro de 2077}
+{13025}{}{Eu matei um homem hoje. Eu estava interrogando o}
+{13026}{}{Cientista Chefe Anderson e ele estava me dando todos}
+{13027}{}{os detalhes dos seus experimentos desumanos. Ele disse}
+{13028}{}{que suas ordens vieram do governo, mas não comprei isso.}
+{13029}{}{Ele começou a gritar sobre como ele estava apenas}
+{13030}{}{cumprindo ordens, como era militar, e eu simplesmente}
+{13031}{}{atirei nele. Eu digo a mim mesmo que foi para impedir que}
+{13032}{}{ele causasse um motim completo entre os homens, mas}
+{13033}{}{não tenho tanta certeza.}
+{13034}{}{**END-PAR**}
 # -
-{13037}{}{• Oct. 18 2077}
-{13038}{}{Matando o cabeca de ovo, eu pareco ter confirmado minha}
-{13039}{}{posição como líder dos homens. Eles me seguem sem}
-{13040}{}{questionar agora. Os interrogatórios invariavelmente terminam}
-{13041}{}{sendo execucões. Shellman foi a mais longa, mas o resultado}
-{13042}{}{final foi o mesmo. Os argumentos dela sobre ordens eram}
-{13043}{}{um pouco muito específicos para serem completamente fabricados. Eu}
-{13044}{}{estou tendo um verdadeiro sentimento ruim na minha garganta sobre}
-{13045}{}{como isto tudo vai acabar. Eu nem mesmo minto para mim mesmo mais}
-{13046}{}{sobre minha razões para executar os cientistas.}
-{13047}{}{**END-PAR**}
+{13035}{}{• 15 de Outubro de 2077}
+{13036}{}{Eu tentei de novo falar com o coronel através da porta,}
+{13037}{}{mas ele parecia ter perdido completamente a noção da}
+{13038}{}{realidade. Arrombei a porta com vários homens bem a}
+{13039}{}{tempo de assistir ele estourar a cabeça. Pouco antes}
+{13040}{}{dele puxar o gatilho, ele pediu desculpas.}
+{13041}{}{**END-PAR**}
 # -
-{13048}{}{• Oct.20 2077}
-{13049}{}{I finalmente respondi ao mundo lá fora pelo nosso radio.}
-{13050}{}{Eu não sei por que eles nunca enviaram alguém aqui para ver}
-{13051}{}{o que estava acontecendo quando nós paramos de responder as}
-{13052}{}{transmissões deles. Não faz qualquer sentido. Bem, eles virao.}
-{13053}{}{agora. Eu declarei a nós mesmos separados}
-{13054}{}{da uniao. Eles se lembram de Jefferson Davis. O que}
-{13055}{}{a história dira sobre mim?}
-{13056}{}{**END-PAR**}
+{13042}{}{• 18 de Outubro de 2077}
+{13043}{}{Matando o sabichão, eu pareço ter confirmado minha}
+{13044}{}{posição como líder dos homens. Eles me seguem sem}
+{13045}{}{questionar agora. Os interrogatórios sempre terminam}
+{13046}{}{em execuções. Shellman foi a que mais resistiu, mas o}
+{13047}{}{resultado final foi o mesmo. Os argumentos dela sobre}
+{13048}{}{suas ordens foram específicos demais para serem}
+{13049}{}{totalmente inventados. Eu estou com um pressentimento}
+{13050}{}{muito ruim sobre como tudo isso vai acabar. Eu nem minto}
+{13051}{}{mais para mim mesmo sobre meus motivos para executar}
+{13052}{}{os cientistas.}
+{13053}{}{**END-PAR**}
 # -
-{13057}{}{• Oct.22 2077}
-{13058}{}{Que diabos esta acontecendo? Nós declaramos a nós mesmos}
-{13059}{}{estar em desercao completa do exercito e não mais sob o}
-{13060}{}{comando do governo e o que acontece? Nada.}
-{13061}{}{Algo ruim esta vindo abaixo.}
+{13054}{}{• 20 de Outubro de 2077}
+{13055}{}{Eu finalmente respondi ao mundo lá fora pelo nosso rádio.}
+{13056}{}{Não sei por que eles nunca enviaram alguém aqui para ver}
+{13057}{}{o que estava acontecendo quando nós paramos de}
+{13058}{}{responder às suas transmissões. Não faz nenhum sentido.}
+{13059}{}{Bem, eles virão agora. Eu nos declarei separados da união.}
+{13060}{}{Eles se lembram do Jefferson Davis. O que a história}
+{13061}{}{dirá sobre mim?}
 {13062}{}{**END-PAR**}
 # -
-{13063}{}{• Oct. 23 2077}
-{13064}{}{Não posso acreditar que esses bastardos finalmente o}
-{13065}{}{fizeram. Malditos sejam todos pro inferno. Finalmente}
-{13066}{}{deixaram as bombas-A voarem. Estavamos bem no meio de}
-{13067}{}{tentar espalhar a estória verdadeira fora de von Felden}
-{13068}{}{qdo perdemos completamente o contato. Tenho uma sensacao}
-{13069}{}{que o centro de pesquisa foi duramente atingido. Não sei}
-{13070}{}{por que, só chame-a de uma sensacao. Parece inconcebível}
-{13071}{}{que não fomos um alvo. Estou certo que a China compensa-}
-{13072}{}{-ra por esse erro em breve. Felizmente movemos nossas}
-{13073}{}{famílias pro lado de fora da instalacao ante-ontem. Não}
-{13074}{}{sabemos se a poeira radioativa alcancou esta area.}
-{13075}{}{**END-PAR**}
+{13063}{}{• 22 de Outubro de 2077}
+{13064}{}{O que diabos está acontecendo? Nós declaramos estar}
+{13065}{}{em total deserção do exército e não mais sob o comando}
+{13066}{}{do governo e o que acontece? Nada. Algo ruim está}
+{13067}{}{acontecendo.}
+{13068}{}{**END-PAR**}
 # -
-{13076}{}{• Oct. 25 2077}
-{13077}{}{Sgt. Platner se voluntariou para ir lá fora hoje para}
-{13078}{}{tomar leituras específicas sobre a atmosfera. Parece}
-{13079}{}{que a radiação não se espalhou longe assim. Desde que}
-{13080}{}{ele estava usando sua power armor, não havia ameaca pra}
-{13081}{}{ele da radiação, mas se ele tivesse sido exposto ele}
-{13082}{}{teria que ser exilado. Nós não temos instalacões de}
-{13083}{}{descontaminacao adequadas aqui.}
-{13084}{}{**END-PAR**}
+{13069}{}{• 23 de Outubro de 2077}
+{13070}{}{Não posso acreditar que esses desgraçados finalmente}
+{13071}{}{fizeram. Que ardam todos no inferno. Eles finalmente}
+{13072}{}{lançaram as Bombas Atômicas. Nós estávamos bem no}
+{13073}{}{meio de uma tentativa de arrancar a verdadeira história}
+{13074}{}{de Von Felden quando perdemos completamente o contato.}
+{13075}{}{Eu tenho o pressentimento de que o centro de pesquisas}
+{13076}{}{foi duramente atingido. Eu não sei por que, apenas}
+{13077}{}{intuição. Parece inimaginável que nós não fomos um alvo.}
+{13078}{}{Tenho certeza de que a China vai compensar esse}
+{13079}{}{descuido em breve. Por sorte, nós movemos as nossas}
+{13080}{}{famílias para dentro da instalação anteontem. Nós não}
+{13081}{}{sabemos ainda se a poeira radioativa alcançou esta área.}
+{13082}{}{**END-PAR**}
 # -
-{13085}{}{• Oct. 26 2077}
-{13086}{}{Convenci os homens que nós deveríamos enterrar os cien-}
-{13087}{}{-tistas. Não sei pq, talvez pra aliviar minha consci-}
-{13088}{}{-encia. Finalmente comecei a acreditar nas suas estórias}
-{13089}{}{qdo o último tava morrendo. Meu Deus, o que me tornei?}
-{13090}{}{**END-PAR**}
+{13083}{}{• 25 de Outubro de 2077}
+{13084}{}{Sargento Platner se voluntariou para ir lá fora hoje}
+{13085}{}{para medir o nível de radiação na atmosfera. Parece que}
+{13086}{}{a radiação não se espalhou tão longe assim. Como ele}
+{13087}{}{estava usando sua power armor, não havia ameaça de}
+{13088}{}{radiação para ele, mas se ele tivesse sido exposto ele}
+{13089}{}{teria que ser exilado. Nós não temos instalações de}
+{13090}{}{descontaminação adequadas aqui.}
+{13091}{}{**END-PAR**}
 # -
-{13091}{}{• Oct. 27 2077}
-{13092}{}{Estamos deixando este lugar abandonado por Deus hoje.}
-{13093}{}{Estou liderando o exodo para o velho bunker do governo}
-{13094}{}{em Lost Hills. Estou deixando este registro pra tras}
-{13095}{}{pra ser enterrado quando este lugar se for na próxima}
-{13096}{}{troca. Quem sabe? Talvez alguém achara ele algum dia.}
-{13097}{}{**END-DISK**}
+{13092}{}{• 26 de Outubro de 2077}
+{13093}{}{Eu convenci os homens de que nós deveríamos enterrar}
+{13094}{}{os cientistas. Eu não sei por que... talvez fosse pra}
+{13095}{}{aliviar minha consciência. Eu finalmente comecei a}
+{13096}{}{acreditar nas suas histórias quando o último deles}
+{13097}{}{estava morrendo.}
+{13098}{}{**END-PAR**}
+# -
+{13099}{}{Meu Deus, no que eu me tornei?}
+{13100}{}{**END-PAR**}
+# -
+{13101}{}{• 27 de Outubro de 2077}
+{13102}{}{Nós estamos deixando este lugar amaldiçoado hoje. Eu}
+{13103}{}{estou liderando o êxodo para o velho bunker do governo}
+{13104}{}{em Lost Hills. Eu estou deixando este registro pra trás}
+{13105}{}{para ser enterrado até que este lugar receba uma}
+{13106}{}{próxima visita. Quem sabe? Talvez alguém o encontre}
+{13107}{}{algum dia.....}
+{13108}{}{**END-DISK**}
 
 
 # Computer Download of the FEV project
 # Uses the global var COMPUTER_FEV
 
-{14000}{}{VEF Summary Digest:}
+{14000}{}{Resumo do VEF:}
 {14001}{}{**END-PAR**}
-{14002}{}{2073. Conforme China se tornou aumentadamente agres-}
-{14003}{}{-sivacom seu uso de armas biológicas, o governo do EUA}
-{14004}{}{sentiu que uma contra-medida era necessaria.}
-{14005}{}{O Projeto Viral Pan-Imunidade (PVP) foi oficialmente}
-{14006}{}{formado em 15 de Setembro de 2073.}
+{14002}{}{2073. Conforme a China se tornou cada vez mais}
+{14003}{}{agressiva com seus usos de armas biológicas, o governo}
+{14004}{}{dos Estados Unidos sentiu que uma contramedida era}
+{14005}{}{necessária. O Projeto Viral de Pan-Imunidade (PVP) foi}
+{14006}{}{oficialmente criado em 15 de Setembro de 2073.}
 {14007}{}{**END-PAR**}
 #
 {14008}{}{2075. Se tornou claro que o melhor modo de combater}
-{14009}{}{as armas biológicas criadas recentemente era alterar}
-{14010}{}{o DNA não infectado para que não fosse mais suscetível}
-{14011}{}{a infeccao viral padrao.}
+{14009}{}{as recentes armas biológicas era alterando o DNA não}
+{14010}{}{infectado para que não fosse mais suscetível à infecção}
+{14011}{}{viral padrão.}
 {14012}{}{**END-PAR**}
 #
-{14013}{}{2076. Efeitos colaterais não previstos comecaram a sur-}
-{14014}{}{-gir no comeco de 2076 com o PVP. Especimes de testes}
-{14015}{}{animais comecaram a mostrar uma taxa de crescimento a-}
-{14016}{}{normal acompanhada por atividade cerebral aumentada. O}
-{14017}{}{governo dos EUA tomou nota destas descobertas e nós in-}
-{14018}{}{-teresses da seguranca nacional moveu um time para o}
-{14019}{}{local pra assegurar e supervisionar o projeto, o qual}
-{14020}{}{foi nomeado projeto VEF - Vírus Evolucionario Forcado.}
-{14021}{}{**END-PAR**}
+{14013}{}{2076. Efeitos colaterais nunca antes vistos começaram}
+{14014}{}{a surgir no início de 2076 com o PVP. Cobaias animais}
+{14015}{}{testadas começaram a apresentar uma taxa de}
+{14016}{}{crescimento anormal acompanhada do aumento da}
+{14017}{}{atividade cerebral. O governo dos EUA tomou}
+{14018}{}{conhecimento destas descobertas e, no interesse da}
+{14019}{}{segurança nacional, transferiu uma equipe para o local}
+{14020}{}{para assegurar e supervisionar o projeto, o qual foi}
+{14021}{}{agora nomeado projeto VEF (Vírus Evolucionário Forçado).}
+{14022}{}{**END-PAR**}
 #
-{14022}{}{2077. VEF próximo da conclusao. Teste em animas de lá-}
-{14023}{}{-boratório a uma taxa de sucesso próxima de 100%. Aumen-}
-{14024}{}{-to do tamanho e da densidade muscular de aproximadamen-}
-{14025}{}{te 60% e o aumento da inteligencia potencial em 200%. É-}
-{14026}{}{feitos nos especimes humanos permanecem desconhecidos;}
-{14027}{}{embora eles são teoricamente promissores. Os militares,}
-{14028}{}{desejando continuar com mais testes, constroem uma grande}
-{14029}{}{instalacao na instalacao militar Mariposa na Califórnia}
-{14030}{}{central. Nesta nova instalacao,os testes do vírus VEF}
-{14031}{}{continuam em especimes voluntarios dos militares.}
-{14032}{}{**END-DISK**}
+{14023}{}{2077. O VEF está quase concluído. Os testes em animais}
+{14024}{}{de laboratório apresentam uma taxa de sucesso de}
+{14025}{}{quase 100%. O tamanho e a densidade muscular aumentam}
+{14026}{}{aproximadamente 60% e a inteligência potencial aumenta}
+{14027}{}{em 200%. Os efeitos em seres humanos permanecem}
+{14028}{}{desconhecidos, embora sejam teoricamente promissores.}
+{14029}{}{Os militares, desejando continuar com mais testes,}
+{14030}{}{constroem uma grande instalação na base militar}
+{14031}{}{Mariposa, no Centro da Califórnia. Nesta nova instalação,}
+{14032}{}{os testes do vírus VEF continuam em voluntários}
+{14033}{}{militares.}
+{14034}{}{**END-DISK**}
 
 
 # Computer Downlod of the Power Armor Specs
 # Uses the global var COMPUTER_POWER_ARMOR
 
-{15000}{}{A Armadura de Combate Motorizado T-51b foi projetada com}
-{15001}{}{os mais recentes recursos de defesa passiva tanto para}
-{15002}{}{distúrbios militares quanto civís. O Pacote de MicroFusão}
-{15003}{}{TX-28 montado nas costas gera 60.000 Watts para alimentar}
-{15004}{}{os sistemas hidráulicos HiFlo embutidos na estrutura do traje.}
-{15005}{}{Feita do mais recente composto poli-laminado, o casco da}
-{15006}{}{T-51b é leve e capaz de absorver aproximadamente}
-{15007}{}{2.500 Joules de impacto cinético. O revestimento ablativo de}
-{15008}{}{prata de 10 mícrons pode refletir emissões de laser e}
-{15009}{}{radiação sem danificar a subsuperfície do compósito.}
-{15010}{}{**END-DISK**}
+{15000}{}{A Armadura de Combate Motorizado T-51b foi}
+{15001}{}{projetada com os mais recentes recursos de defesa}
+{15002}{}{passiva tanto para distúrbios militares quanto civís.}
+{15003}{}{O Pacote de MicroFusão TX-28 montado nas costas gera}
+{15004}{}{60.000 Watts para alimentar os sistemas hidráulicos}
+{15005}{}{HiFlo embutidos na estrutura do traje. Feita do mais}
+{15006}{}{recente composto poli-laminado, o casco da T-51b é leve}
+{15007}{}{e capaz de absorver aproximadamente 2.500 Joules de}
+{15008}{}{impacto cinético. O revestimento ablativo de prata}
+{15009}{}{de 10 mícrons pode refletir emissões de laser e radiação}
+{15010}{}{sem danificar a subsuperfície do compósito.}
+{15011}{}{**END-DISK**}
 
 
 # Computer Download of the Personel Records
@@ -1203,94 +1236,98 @@
 # Holodisk from the Brotherhood Library
 # uses the global var BROTHERHOOD_LIBRARY_DISK
 
-{17000}{}{Locais das Vaults v34.129 Revisao C (EUA Ocidental)}
+{17000}{}{Locais dos Vaults v34.129 Revisão C (EUA Ocidental)}
 {17001}{}{**END-PAR**}
 #
-{17002}{}{Olá e bem vindos à edição mais recente do Panfleto dos Locais}
-{17003}{}{dos Vaults Ocidentais dos Estados Unidos. Nós esperamos que você}
-{17004}{}{aproveitem o panfleto e lembre-se que os Vaults não são apenas}
-{17005}{}{para os ascendentes, mas para todos.}
-{17006}{}{**END-PAR**}
+{17002}{}{Olá e bem vindos à edição mais recente do Panfleto dos}
+{17003}{}{Locais dos Vaults Ocidentais dos Estados Unidos. Nós}
+{17004}{}{esperamos que você aproveite o panfleto e lembre-se}
+{17005}{}{que os Vaults não são apenas para os ricos, mas}
+{17006}{}{para todos.}
+{17007}{}{**END-PAR**}
 #
-{17007}{}{Vault 12}
-{17008}{}{**END-PAR**}
+{17008}{}{Vault 12}
+{17009}{}{**END-PAR**}
 #
-{17009}{}{Sob a vasta metrópole de Bakersfield, situa-se a}
-{17010}{}{magnificente tecnológica Vault 12. Construído com todas}
-{17011}{}{as comodidades em mente para os futuros moradores do Vault,}
-{17012}{}{o Vault 12 recebeu o prêmio "Pressed Vault Suit"}
-{17013}{}{pela atenção à preparação. Enterrado bem no}
-{17014}{}{subsolo, a proteção que os Moradores do Vault receberão}
-{17015}{}{será sem precedentes. Assim como todos os outros}
-{17016}{}{Vaults, o Vault 12 foi equipado com o que há de mais novo em}
-{17017}{}{Sistemas de Purificação de Água em Vaults. Capaz de captar}
-{17018}{}{até mesmo os resíduos localizados nos esgotos de Bakersfield, este}
-{17019}{}{sistema é capaz de entregar cerca de 15.000 galões de pura e}
-{17020}{}{refrescante água potável todo os os dias.}
-{17021}{}{**END-PAR**}
-#
-{17022}{}{Vault 13}
+{17010}{}{Sob a vasta metrópole de Bakersfield, situa-se a}
+{17011}{}{magnificente tecnológica Vault 12. Construído com todas}
+{17012}{}{as comodidades em mente para os futuros moradores do}
+{17013}{}{Vault, o Vault 12 recebeu o prêmio "Pressed Vault Suit"}
+{17014}{}{pela atenção à preparação. Soterrado bem no subsolo,}
+{17015}{}{a proteção que os Moradores do Vault receberão será}
+{17016}{}{sem precedentes. Assim como todos os outros Vaults,}
+{17017}{}{o Vault 12 foi equipado com o que há de mais novo em}
+{17018}{}{Sistemas de Purificação de Água em Vaults. Capaz de}
+{17019}{}{captar até mesmo os resíduos localizados nos esgotos}
+{17020}{}{de Bakersfield, este sistema é capaz de entregar cerca}
+{17021}{}{de 15.000 galões de pura e refrescante água potável}
+{17022}{}{todo os os dias.}
 {17023}{}{**END-PAR**}
 #
-{17024}{}{Localizado em uma pitoresca região montanhosa a noroeste do}
-{17025}{}{Vault 12, este Vault oferece um suprimento ilimitado de água}
-{17026}{}{pura aos seus habitantes. Os rumores de que os lençóis freáticos}
-{17027}{}{da região poderiam ser facilmente contaminados no caso de}
-{17028}{}{uma Guerra Nuclear foram considerados completamente infundados}
-{17029}{}{pelo Departamento de Água e Energia.}
-{17030}{}{No caso da água da região se tornar contaminada,}
-{17031}{}{por mais improvável que seja,}
-{17032}{}{o Vault 13 foi equipado com o Sistema de Purificação de Água dos}
-{17033}{}{Vaults aprovado pelo governo. Feito para trabalhar}
-{17034}{}{por mais de 250.000 horas sem nenhuma perda significativa,}
-{17035}{}{os futuros moradores do Vault não devem ter nada a temer.}
-{17036}{}{**END-PAR**}
+{17024}{}{Vault 13}
+{17025}{}{**END-PAR**}
 #
-{17037}{}{Vault 15}
-{17038}{}{**END-PAR**}
+{17026}{}{Localizado em uma pitoresca região montanhosa a}
+{17027}{}{noroeste do Vault 12, este Vault oferece um suprimento}
+{17028}{}{ilimitado de água pura aos seus habitantes. Os rumores}
+{17029}{}{de que os lençóis freáticos da região poderiam ser}
+{17030}{}{facilmente contaminados no caso de uma Guerra Nuclear}
+{17031}{}{foram considerados completamente infundados pelo}
+{17032}{}{Departamento de Água e Energia. No caso da água da}
+{17033}{}{região se tornar contaminada, por mais improvável que}
+{17034}{}{seja, o Vault 13 foi equipado com o Sistema de}
+{17035}{}{Purificação de Água dos Vaults aprovado pelo governo.}
+{17036}{}{Feito para trabalhar por mais de 250.000 horas sem}
+{17037}{}{nenhuma perda significativa, os futuros moradores}
+{17038}{}{do Vault não devem ter nada a temer.}
+{17039}{}{**END-PAR**}
 #
-{17039}{}{Bem a leste do Vault 13, a construção deste Vault foi}
-{17040}{}{extremamente tranquila. Muito trabalho foi feito para}
-{17041}{}{reforçar as paredes do terceiro nível deste Vault, para}
-{17042}{}{deixar todos os futuros moradores do Vault mais seguros,}
-{17043}{}{com a certeza de que até mesmo no caso de um grande terremoto,}
-{17044}{}{os computadores reguladores do Vault continuariam}
-{17045}{}{a funcionar. Visitas recentes ao recém-contruído Vault}
-{17046}{}{fizeram com que muitos potenciais moradores do Vault saíssem}
-{17047}{}{com uma nova admiração pelas melhorias feitos a}
-{17048}{}{este já impressionante Vault.}
-{17049}{}{**END-DISK**}
+{17040}{}{Vault 15}
+{17041}{}{**END-PAR**}
+#
+{17042}{}{Devido a sua localização ao leste do Vault 13, a}
+{17043}{}{construção deste Vault foi extremamente tranquila.}
+{17044}{}{Muito trabalho foi feito para reforçar as paredes do}
+{17045}{}{terceiro nível deste Vault, para deixar todos os}
+{17046}{}{futuros moradores do Vault mais seguros, com a}
+{17047}{}{certeza de que até mesmo no caso de um grande}
+{17048}{}{terremoto, os computadores reguladores do Vault}
+{17049}{}{continuariam a funcionar. Visitas recentes ao}
+{17050}{}{recém-construído Vault fizeram com que muitos}
+{17051}{}{potenciais moradores do Vault saíssem com uma nova}
+{17052}{}{admiração pelas melhorias feitas a este já}
+{17053}{}{impressionante Vault.}
+{17054}{}{**END-DISK**}
 
 #Regulator Disk from Blades
 
 {18000}{}{Registro de transmissão da rádio dos Reguladores:}
 {18001}{}{**END-PAR**}
-{18002}{}{Mensagem enviada: Patrulha Reguladora para base Reguladora,}
-{18003}{}{confirme. Está na escuta? Câmbio.}
+{18002}{}{Mensagem enviada: Patrulha Reguladora para base}
+{18003}{}{Reguladora, confirme. Está na escuta? Câmbio.}
 {18004}{}{**END-PAR**}
 {18005}{}{Mensagem recebida: Aqui é a base Reguladora, Regulador}
-{18006}{}{Principal Caleb respondendo. Relatório? Câmbio.}
+{18006}{}{Principal Caleb respondendo. Algun relatório? Câmbio.}
 {18007}{}{**END-PAR**}
-{18008}{}{Mensagem enviada: Senhor, sim senhor! Regulador de Segunda Classe}
-{18009}{}{Cravotta relatando. Nós apreendemos o garoto Zimmerman}
-{18010}{}{tentando infiltrar nosso perímetro de novo, senhor.}
-{18011}{}{Quais as ordens? Câmbio.}
+{18008}{}{Mensagem enviada: Senhor, sim senhor! Regulador de}
+{18009}{}{Segunda Classe Cravotta relatando. Nós apreendemos o}
+{18010}{}{garoto Zimmerman tentando infiltrar nosso perímetro}
+{18011}{}{de novo, senhor. Quais as ordens? Câmbio.}
 {18012}{}{**END-PAR**}
-{18013}{}{Mensagem recebida: Merda! De novo! Bem, essa é a última vez}
-{18014}{}{que isso vai acontecer. Eliminem ele e façam parecer}
-{18015}{}{que os Blades fizeram isso.}
-{18016}{}{Entendido? Câmbio.}
-{18017}{}{**END-PAR**}
-{18018}{}{Mensagem enviada: Senhor? Uh... Eu entendi corretamente, senhor?}
-{18019}{}{Matar ele? Câmbio.}
-{18020}{}{**END-PAR**}
-{18021}{}{Mensagem recebida: : Afirmativo, Regulador. E eu quero um}
-{18022}{}{serviço bem feito e limpo. Empale ele nos postos de vigilância}
-{18023}{}{lá fora - ah, e arranque sua língua para que ele não}
-{18024}{}{possa falar enquanto nós "tentamos" conservar seu traseiro.}
-{18025}{}{Câmbio?}
-{18026}{}{**END-PAR**}
-{18027}{}{Mensagem enviada: Será feito, senhor, Câmbio.}
-{18028}{}{**END-PAR**}
-{18029}{}{Fim da transmissão.}
-{18030}{}{**END-DISK**}
+{18013}{}{Mensagem recebida: Merda! De novo! Bem, essa é a última}
+{18014}{}{vez que isso vai acontecer. Eliminem ele e façam parecer}
+{18015}{}{que os Blades fizeram isso. Entendido? Câmbio.}
+{18016}{}{**END-PAR**}
+{18017}{}{Mensagem enviada: Senhor? Uh... Eu entendi corretamente,}
+{18018}{}{senhor? Matar ele? Câmbio.}
+{18019}{}{**END-PAR**}
+{18020}{}{Mensagem recebida: Afirmativo, Regulador. E eu quero}
+{18021}{}{um serviço bem feito e limpo. Empale ele nos postos de}
+{18022}{}{vigilância lá fora - ah, e arranque sua língua para que}
+{18023}{}{ele não possa falar enquanto nós "tentamos" salvar}
+{18024}{}{esse imbecil. Câmbio?}
+{18025}{}{**END-PAR**}
+{18026}{}{Mensagem enviada: Será feito, senhor, Câmbio.}
+{18027}{}{**END-PAR**}
+{18028}{}{Fim da transmissão.}
+{18029}{}{**END-DISK**}

@@ -19,8 +19,8 @@
 {112}{}{Carregar Peso}
 {113}{}{Sequência}
 {114}{}{Taxa de Cura}
-{115}{}{Chance Critica}
-{116}{}{Melhores Criticos}
+{115}{}{Chance Crítica}
+{116}{}{Melhores Críticos}
 {117}{}{Começo do Dano}
 {118}{}{Começo do Dano por Laser}
 {119}{}{Começo do Dano por Fogo}
@@ -39,7 +39,7 @@
 {132}{}{Resistência a Veneno}
 {133}{}{Idade}
 {134}{}{Gênero}
-{135}{}{Pontos de Danos Atuais}
+{135}{}{Pontos de Vida Atuais}
 {136}{}{Nível de Veneno Atual}
 {137}{}{Nível de Radiação Atual}
 #
@@ -58,14 +58,14 @@
 # Intelligence
 {204}{}{Conhecimento, sabedoria é a habilidade de pensar rapidamente. Uma alta inteligência é importante para qualquer personagem. Modifica: o número dos novos pontos de técnica por nível, opções dos dialogos e muitas técnicas.}
 # Agility
-{205}{}{Coordenacao é a habilidade de se mover bem. Uma alta agilidade é importante para qualquer personagem ativo. Modifica: Pontos de Ação, Classe de Armadura, Sequência e muitas técnicas.}
+{205}{}{Coordenação é a habilidade de se mover bem. Uma alta agilidade é importante para qualquer personagem ativo. Modifica: Pontos de Ação, Classe de Armadura, Sequência e muitas técnicas.}
 # Luck
-{206}{}{Destino. Karma. Uma sorte extremamente alta ou baixa afetara o personagem - de algum modo. Eventos e situaçõe serão mudados por quão sortudo (ou azarado) seu personagem é.}
+{206}{}{Destino. Karma. Uma sorte extremamente alta ou baixa afetara o personagem - de algum modo. Eventos e situações serão mudados por quão sortudo (ou azarado) seu personagem é.}
 #
 # Derived/Non Derived stats
 #
 # Maximum Hit Points
-{207}{}{Quanto dano seu personagem pode tomar antes de morrer.  Se você alcancar 0 HP ou menos, você esta estará morto.}
+{207}{}{Quanto dano seu personagem pode tomar antes de morrer.  Se você alcançar 0 HP ou menos, você esta estará morto.}
 # Maximum Action Points
 {208}{}{O número de ações que o personagem pode tomar durante 1 turno de combate.}
 # Armor Class
@@ -74,7 +74,7 @@
 {210}{}{A quantia do bônus de dano que seu personagem faz no combate mão a mão.}
 {211}{}{A quantia do bônus de dano que seu personagem faz no combate mão a mão.}
 # Carry Weight
-{212}{}{A quantia máxima de equipamento que seu personagem pode carregar, em kilos.}
+{212}{}{A quantia máxima de equipamento que seu personagem pode carregar, em quilos.}
 # Sequence
 {213}{}{Determina quão breve em um turno de combate seu personagem pode reagir.}
 # Healing Rate
@@ -102,10 +102,10 @@
 # Poison Resistance
 {232}{}{Reduz o dano do veneno por esta quantia.}
 {233}{}{Idade}
-{234}{}{Genero}
+{234}{}{Gênero}
 {235}{}{Pontos de Dano Atuais}
-{236}{}{Nivel de Veneno Atual}
-{237}{}{Nivel de Radiação Atual}
+{236}{}{Nível de Veneno Atual}
+{237}{}{Nível de Radiação Atual}
 #
 # STAT LEVEL DESCRIPTIONS
 #
@@ -113,19 +113,19 @@
 {302}{}{Ruim}
 {303}{}{Pobre}
 {304}{}{Justo}
-{305}{}{Medio}
+{305}{}{Médio}
 {306}{}{Bom}
 {307}{}{M. Bom}         # Abbreviated for character editor
-{308}{}{Otimo}
+{308}{}{Ótimo}
 {309}{}{Excelente}
-{310}{}{Heróico}
+{310}{}{Heroico}
 #
 #	 PC STAT NAMES
 #
-{400}{}{Pontos de Tecnica Não Gastos}
-{401}{}{Nivel}
-{402}{}{Experiencia}
-{403}{}{Reputacao}
+{400}{}{Pontos de Técnica Não Gastos}
+{401}{}{Nível}
+{402}{}{Experiência}
+{403}{}{Reputação}
 {404}{}{Karma}
 #
 #	 PC STAT DESCRIPTIONS
@@ -133,7 +133,7 @@
 # Unspent Skill Points
 {500}{}{Pontos ganhos ao subir um nível. Pode ser usado para aumentar uma técnica em 1% ou uma técnica de identificação em 2% por ponto gasto.}
 # Level
-{501}{}{A competência geral do personagem do jogador. Uma médida da sua experiência e habilidades.}
+{501}{}{A competência geral do personagem do jogador. Uma média da sua experiência e habilidades.}
 # Experience
 {502}{}{Uma recompensa por completar tarefas especificas ou derrotar inimigos em combate. Mais pontos de experiência são necessários para atingir niveis mais altos.}
 # Reputation

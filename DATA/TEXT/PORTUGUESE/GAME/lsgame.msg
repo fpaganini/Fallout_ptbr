@@ -24,7 +24,7 @@
 {113}{}{- VERSAO ANTIGA -}
 {114}{}{Vazio.}
 {115}{}{Erro!}
-{116}{}{Versao antiga.}
+{116}{}{Versão antiga.}
 {117}{}{JAN}                            # Months
 {118}{}{FEV}
 {119}{}{MAR}
@@ -37,14 +37,14 @@
 {126}{}{OUT}
 {127}{}{NOV}
 {128}{}{DEZ}
-{129}{}{Nivel}
+{129}{}{Nível}
 {130}{}{DESCRICAO}
 {131}{}{Ja existe um jogo salvo, sobrescrever?}
 {132}{}{Erro ao salvar o jogo!}             # Line 1
 {133}{}{Incapaz de salvar o jogo.}          # Line 2
 {134}{}{Erro ao carregar o jogo!}           # Line 1
 {135}{}{Incapaz de carregar o jogo.}        # Line 2
-{136}{}{O arquivo do jogo salvo esta em uma versao mais antiga.}
+{136}{}{O arquivo do jogo salvo esta em uma versão mais antiga.}
 {137}{}{Mapa}
 
 {140}{}{Jogo Salvo.}
@@ -53,5 +53,5 @@
 # Demo versions only
 #
 {200}{}{Lamento, você não pode salvar ou carregar} # 1
-{201}{}{na versao demo.}         # 2
+{201}{}{na versão demo.}         # 2
 

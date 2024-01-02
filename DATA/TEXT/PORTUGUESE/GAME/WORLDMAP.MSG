@@ -82,7 +82,7 @@
 
 # Misc messages
 {500}{}{Você ganhou 10.000 pontos de experiência!}
-{501}{}{Ruinas}
+{501}{}{Ruínas}
 
 #
 # Terrain type names for world map hover button
